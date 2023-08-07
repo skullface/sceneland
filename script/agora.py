@@ -12,7 +12,7 @@ browser.get(url)
 python_button = browser.find_element("id", "loadMoreEvents")
 python_button.click()
 
-soup = BeautifulSoup(browser.page_source)
+soup = BeautifulSoup(browser.page_source, "html.parser")
 calendar = soup.find(id="eventsList")
 shows = calendar.find_all("div", class_="entry")
 

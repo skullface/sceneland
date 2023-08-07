@@ -16,11 +16,11 @@ jobs:
         run: pip install -r requirements.txt
       - name: Get data
         run: |
-          python src/beachland.py > beachland.json
-          python src/grogshop.py > grogshop.json
-          python src/mahalls.py > mahalls.json
-          python src/agora.py > agora.json
-          python src/hob.py > hob.json
+          python script/beachland.py > src/beachland.json
+          python script/grogshop.py > src/grogshop.json
+          python script/mahalls.py > src/mahalls.json
+          python script/agora.py > src/agora.json
+          python script/hob.py > src/hob.json
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

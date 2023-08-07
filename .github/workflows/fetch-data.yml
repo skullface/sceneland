@@ -1,5 +1,7 @@
 name: Fetch data
 
+on: workflow_dispatch
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -10,6 +12,7 @@ jobs:
         with:
           python-version: "3.11"
           cache: "pip" # caching pip dependencies
+      - name: Setup dependencies
         run: pip install -r requirements.txt
       - name: Get data
         run: python src/beachland.py > beachland.json

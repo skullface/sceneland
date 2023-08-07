@@ -1,15 +1,18 @@
 from selenium import webdriver
+from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
 
 url = "https://www.agoracleveland.com/events"
-driver = webdriver.Firefox()
-driver.implicitly_wait(30)
-driver.get(url)
-python_button = driver.find_element_by_id("loadMoreEvents")
+options = FirefoxOptions()
+options.add_argument("--headless")
+browser = webdriver.Firefox(options=options)
+browser.implicitly_wait(30)
+browser.get(url)
+python_button = browser.find_element("id", "loadMoreEvents")
 python_button.click()
 
-soup = BeautifulSoup(driver.page_source)
+soup = BeautifulSoup(browser.page_source)
 calendar = soup.find(id="eventsList")
 shows = calendar.find_all("div", class_="entry")
 

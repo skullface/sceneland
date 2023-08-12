@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <header>
+      <h1>216.shows: Local shows in Cleveland 🤘</h1>
+      <p>Concerts coming up at these venues:</p>
+    </header>
+    <section>
+      <article class="show">
+        <h2>Artist</h2>
+        <time datetime>Date</time>
+        <p>Venue</p>
+      </article>
+    </section>
+
+    <script>
+      async function populate() {
+        const response = await fetch('https://216.show/shows.json');
+        const shows = await response.json();
+
+        populateHeader(shows)
+        populateCalendar(shows)
+      }
+      
+      function populateHeader(obj) {
+        const header = document.querySelector('header')
+        const venueList = document.createElement('ul')
+      
+        let venuesObject = {}
+        const venues = obj.shows
+        let venuesArray = []
+        for (let venue, i = 0; venue = venues[i++];) {
+          const name = venue.venue
+      
+          if (!(name in venuesObject)) {
+            venuesObject[name] = 1
+            venuesArray.push(name)
+          }
+        }
+        
+        venuesArray.forEach((venue) => {
+          const venueListItem = document.createElement('li')
+          venueListItem.textContent = venue
+          venueList.appendChild(venueListItem)
+        })
+
+        header.appendChild(venueList)
+      }
+      
+      function populateCalendar(obj) {
+        const section = document.querySelector('section')
+        const events = obj.shows
+      
+        for (const event of events) {
+          const eventContainer = document.createElement('article')
+          const eventTitle = document.createElement('h2')
+          const eventVenue = document.createElement('p')
+          const eventDate = document.createElement('time')
+      
+          eventTitle.textContent = event.artist
+          eventDate.textContent = `Date: ${event.date}`
+          eventVenue.textContent = `Location: ${event.venue}`
+      
+          eventContainer.appendChild(eventTitle)
+          eventContainer.appendChild(eventVenue)
+          eventContainer.appendChild(eventDate)
+      
+          section.appendChild(eventContainer)
+        }
+      }
+      
+      populate()
+    </script>
+  </body>
+</html>

@@ -23,7 +23,7 @@ all_shows_list = []
 for show in data['sections'][0]['events']:
   all_shows_data = {} 
   all_shows_data['artist'] = show['name']
-  all_shows_data['date'] = show['dates']['event_start_date']
+  all_shows_data['date'] = show['dates']['event_start_date'].split("T", 1)[0]
   all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 

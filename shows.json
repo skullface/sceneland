@@ -1,731 +1,6 @@
 {
   "shows": [
     {
-      "artist": "POSTPONED - Doe Boy",
-      "date": "2023-08-12",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Dj Coop Presents : \"Who's Next\" Artist Showcase, King Jerm",
-      "date": "2023-08-12",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Hobo Johnson",
-      "date": "2023-08-13",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Florry, Lake Philly, Shy Moon, Lake Philly, Shy Moon",
-      "date": "2023-08-14",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Hot Goss: The Improvised Musical",
-      "date": "2023-08-15",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Strobobean, Youth Pallet, Boy Future Guitars",
-      "date": "2023-08-15",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Sweeping Promises, Disintegration, Suitor",
-      "date": "2023-08-16",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Lovataraxx, / Bias Selector, / GRVE, / Wander, Bias Selector, GRVE, Wander",
-      "date": "2023-08-17",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "AJJ, Open Mike Eagle, Sad Park, Foot Ox",
-      "date": "2023-08-18",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "BEN NICHOLS and TIM BARRY, Lulu and The Black Sheep",
-      "date": "2023-08-19",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Larry Baeder and Jacqueline Black Quartet, Jacqueline Black",
-      "date": "2023-08-20",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Make Em Laugh Mondays Hosted By Kevin Ford",
-      "date": "2023-08-21",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Sleaz-a-Thon, Feverdreamer, Frootloops",
-      "date": "2023-08-23",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Jady, Liam Brock, Jack Harris, Zach Beaver",
-      "date": "2023-08-24",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Total Downer, Wish Queen, Charity Cunningham, Anya Van Rose, Wish Queen, Charity Cunningham, Anya Van Rose",
-      "date": "2023-08-25",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Ringer, Whiskey Daredevils, Ringer",
-      "date": "2023-08-26",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Abel, Solon, Bloodhounds",
-      "date": "2023-08-27",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Together Pangea, THICK, Reckling",
-      "date": "2023-08-29",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Jack Lutz + Temple Brothers, Coe, Mack Hubbard + Ty Bogikes, Seconds Away",
-      "date": "2023-08-30",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Coffee & Cream, Mayor Wertz, Mighty Misc",
-      "date": "2023-08-31",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "GlamGore: Babes of Bedrock, Anhedonia Delight",
-      "date": "2023-09-1",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Mutilation Barbecue, Innoculation, Sarcoughagus, Ignominious, Ignominious",
-      "date": "2023-09-2",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Geauxt Studios and Global Nation Presentsd : V'z and Friends., Bloz, Aviator Ju, Lamboza",
-      "date": "2023-09-3",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Murder By Death, Saintseneca",
-      "date": "2023-09-5",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Nissim Black with Kosha Dillz",
-      "date": "2023-09-6",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Alex Cameron & Roy Molloy",
-      "date": "2023-09-7",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "SE SO NEON",
-      "date": "2023-09-8",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Pro3 Entertainment and The 5th Coast Presents : The Podcasters Mixer and Live filming",
-      "date": "2023-09-8",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Local Natives - Time Will Wait For No One Tour WSG HalfNoise",
-      "date": "2023-09-9",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "The Bones of J.R. Jones, Benjamin Dakota Rogers",
-      "date": "2023-09-9",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Mustard Plug, The Toasters, Half Past Two, Low Morale",
-      "date": "2023-09-10",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve",
-      "date": "2023-09-11",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Hot Goss: The Improvised Musical",
-      "date": "2023-09-12",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "John Kalman , Parfait Girls, Dana Perry, Chris Anderson., John Kalmam, Dana Perry, Parfait Girls, Chris Anderson",
-      "date": "2023-09-12",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Midnight Rental presents Secret Movie Night",
-      "date": "2023-09-13",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "BORIS and MELVINS, Mr. Phylzzz",
-      "date": "2023-09-14",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Joe Hertler & The Rainbow Seekers, Rubix Groove, Melted Strawberry, Rubix Groove, Melted Strawberry",
-      "date": "2023-09-14",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "The Milk Carton Kids - I Only See The Moon Tour, Charlie Hickey",
-      "date": "2023-09-15",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Fake Names, The Missed, Public Squares, The Missed, Public Squares",
-      "date": "2023-09-16",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Night Beats, Moonwalks, Nail Biters, Moonwalks, Nail Biters",
-      "date": "2023-09-17",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Make Em Laugh Mondays Hosted By Kevin Ford",
-      "date": "2023-09-18",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Royel Otis US \u201923 SOFA KINGS TOUR, Friko, Louse",
-      "date": "2023-09-19",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "The Glorious Sons \u2013 The Glory Tour",
-      "date": "2023-09-20",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "PATRICK DRONEY, Cecilia Castleman",
-      "date": "2023-09-20",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "People in the Daytime, Solon, Post Saga, Jung Speedbat, Solon, Post Saga, Jung Speedbat",
-      "date": "2023-09-21",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Helmet, Soul Blind, Soul Blind",
-      "date": "2023-09-23",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Harley Poe, The Homeless Gospel Choir, The Homeless Gospel Choir, The House of Wills",
-      "date": "2023-09-24",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Jesse Jo Stark, Rachel Bobbitt",
-      "date": "2023-09-26",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "IDK, Lute, Joey Aich, Kingxzell",
-      "date": "2023-09-27",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "CROWBAR with PRIMITIVE MAN, Bodybox, Fistula",
-      "date": "2023-09-29",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Frankie and the Witch Fingers, Wine Lips",
-      "date": "2023-10-2",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Ratboys, Free Range, Jason Kaminski",
-      "date": "2023-10-3",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Margaret Glaspy, Tasha",
-      "date": "2023-10-3",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Margo Price - \u2018Til The Wheels Fall Off Tour, Brit Taylor",
-      "date": "2023-10-3",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Arooj Aftab, Vijay Iyer & Shahzad Ismaily Love in Exile trio",
-      "date": "2023-10-4",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "CONWAY THE MACHINE W/ SAUCE WALKA & JAE SKEESE, Westside LO, Matt Key & Rude Rebel",
-      "date": "2023-10-5",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "GlamGore: Holislay Spooktacular, Anhedonia Delight",
-      "date": "2023-10-6",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "MURPHY\u2019S LAW \u2013 THE RUMJACKS \u2013 THE BAR STOOL PREACHERS with special guests, GRADE 2",
-      "date": "2023-10-7",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "CIVIC, The Hell, Show Pink",
-      "date": "2023-10-10",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Low Cut Connie, Matthew Logan Vasquez",
-      "date": "2023-10-11",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Claudio Simonetti's GOBLIN performing the live score to a screening of Dario Argento's DEMONS",
-      "date": "2023-10-12",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Cayucas & Matt Costa, Matt Costa, Kultures",
-      "date": "2023-10-13",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Nation of Language",
-      "date": "2023-10-14",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "The Good Life, Doom Flower",
-      "date": "2023-10-15",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "N8NOFACE, Uniity, Uniity",
-      "date": "2023-10-16",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Passafire, C-Level w, Mellowman Funk",
-      "date": "2023-10-19",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Bob Mould Solo Electric, Jason Narducy",
-      "date": "2023-10-20",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Will Butler + Sister Squares , False Teeth, False Teeth",
-      "date": "2023-10-22",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "GILLA BAND, Bambara, Bambara",
-      "date": "2023-10-23",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Mudhoney, Hooveriii",
-      "date": "2023-10-24",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Skinny Lister, PET NEEDS, Bandaid Brigade",
-      "date": "2023-10-30",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Nick Shoulders and The Okay Crawdad - \u201cAll Bad Tour\u201d",
-      "date": "2023-10-31",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "GlamGore: Fetish Ball, Anhedonia Delight",
-      "date": "2023-11-3",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "GZA \u2013 Truth and Swords Tour, Beau Young Prince",
-      "date": "2023-11-12",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "Hot Goss: The Improvised Musical",
-      "date": "2023-11-14",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "BRUJERIA: Esto Es Tour 2023, Pi\u00f1ata Protest, NO/MAS",
-      "date": "2023-11-24",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "GlamGore: Galactic Ghouls, Anhedonia Delight",
-      "date": "2023-12-1",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": "DETHKLOK & BABYMETAL, Jason Richardson",
-      "date": "2023-09-6",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Jake Owen, Tyler Booth, Daves Highway",
-      "date": "2023-09-7",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Tash Sultana, Go-Jo",
-      "date": "2023-09-10",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Yung Bleu",
-      "date": "2023-09-14",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Flogging Molly, The Bronx and Vandoliers",
-      "date": "2023-09-15",
-      "venue": "Agora"
-    },
-    {
-      "artist": "The Mars Volta Tour, Teri Gender Bender",
-      "date": "2023-09-16",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Royal Blood, Bad Nerves",
-      "date": "2023-09-19",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Warren Zeiders, A Thousand Horses",
-      "date": "2023-09-21",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Desi Banks",
-      "date": "2023-09-22",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Ashnikko",
-      "date": "2023-09-23",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Dance Gavin Dance, SiM, Rain City Drive, Within Destruction",
-      "date": "2023-09-25",
-      "venue": "Agora"
-    },
-    {
-      "artist": "The Front Bottoms, Vundabar",
-      "date": "2023-09-26",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Explosions In The Sky",
-      "date": "2023-09-28",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Niko Moon, Jordan Harvey",
-      "date": "2023-09-29",
-      "venue": "Agora"
-    },
-    {
-      "artist": "The Midnight, Flamingosis",
-      "date": "2023-10-2",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Christopher Cross",
-      "date": "2023-10-4",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Ilana Glazer Live!",
-      "date": "2023-10-6",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Ghost Files Live!",
-      "date": "2023-10-8",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Orny Adams",
-      "date": "2023-10-13",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Bullet For My Valentine, Of Mice & Men, Vended",
-      "date": "2023-10-18",
-      "venue": "Agora"
-    },
-    {
-      "artist": "Mickey Avalon",
-      "date": "Today 7:00 PM",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Ann Marie: The Tripolar Tour",
-      "date": "Tomorrow",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Wanted: Tribute To Bon Jovi",
-      "date": "2023-08-18",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Bop To The Top feat Lucas Grabeel & Life By Michael: 18+",
-      "date": "2023-08-25",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Sorry Papi Tour: The All Girl Party (18+ Only)",
-      "date": "2023-08-26",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Soulja Boy",
-      "date": "2023-08-27",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "X",
-      "date": "2023-08-29",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Chl\u00f6e: The In Pieces Tour",
-      "date": "2023-08-31",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Saved By The 90's",
-      "date": "2023-09-1",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Corey Taylor",
-      "date": "2023-09-7",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Hulvey: The Beautiful Tour",
-      "date": "2023-09-7",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Ondara: The Rebirth Tour",
-      "date": "2023-09-8",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "The Cancelled Podcast Tour With Tana Mongeau & Brooke Schofield",
-      "date": "2023-09-8",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Local Natives: Time Will Wait For No One Tour",
-      "date": "2023-09-9",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Everclear with The Ataris",
-      "date": "2023-09-11",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "ZZ Ward: One Hell Of A Night Tour",
-      "date": "2023-09-12",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Poppy & PVRIS: Godless / Goddess Tour",
-      "date": "2023-09-14",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Drew Holcomb & The Neighbors: Find Your People Tour",
-      "date": "2023-09-15",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Here Come the Mummies",
-      "date": "2023-09-16",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "half\u00b7alive: Conditions of a Punk",
-      "date": "2023-09-18",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "The Gaslight Anthem",
-      "date": "2023-09-19",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "The Glorious Sons: The Glory Tour",
-      "date": "2023-09-20",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Digable Planets Reachin' 30th Anniversary Tour",
-      "date": "2023-09-21",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Nothing But Thieves",
-      "date": "2023-09-22",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Dean Lewis: The Future Is Bright Tour",
-      "date": "2023-09-23",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Yelawolf",
-      "date": "2023-09-24",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Jake Miller",
-      "date": "2023-09-24",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Sammy Rae & The Friends",
-      "date": "2023-09-26",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "SALIVA and DROWNING POOL: SNAFU Le Tour Presented By WMMS",
-      "date": "2023-09-27",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Head Automatica",
-      "date": "2023-09-28",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Lauren Sanderson: IDC AT ALL Tour",
-      "date": "2023-09-29",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Andy Frasco & The UN",
-      "date": "2023-09-29",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Sammie: Love Always Wins Tour 2023",
-      "date": "2023-09-30",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Eric Johnson",
-      "date": "2023-10-1",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Chris Renzema: Manna Tour: with special guest Jess Ray",
-      "date": "2023-10-3",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Christian French",
-      "date": "2023-10-4",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Wheeler Walker, Jr.: The Spread Eagle Tour",
-      "date": "2023-10-6",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "NoCap: The BirdNest Tour",
-      "date": "2023-10-8",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Valley",
-      "date": "2023-10-9",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "The Wonder Years: The Greatest Generation 10th Anniversary Tour",
-      "date": "2023-10-11",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Moon Taxi With The Stews",
-      "date": "2023-10-12",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Stephen Sanchez",
-      "date": "2023-10-15",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "TV Girl",
-      "date": "2023-10-17",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Danny Pellegrino: The Jolliest Bunch Book Tour",
-      "date": "2023-10-18",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "The Red Clay Strays: Way Too Long Tour",
-      "date": "2023-10-19",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Jessie Murph presents the Cowboys and Angels Tour",
-      "date": "2023-10-20",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "Boys Like Girls: The Speaking Our Language Tour presented by Emo Nite",
-      "date": "2023-10-21",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": "The Happy Fits: Under The Shade of Green",
-      "date": "2023-10-22",
-      "venue": "House of Blues"
-    },
-    {
       "artist": "This Way Out",
       "date": "2023-08-12",
       "venue": "Beachland"
@@ -1261,6 +536,631 @@
       "venue": "Beachland"
     },
     {
+      "artist": "Mickey Avalon",
+      "date": "Today 7:00 PM",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Ann Marie: The Tripolar Tour",
+      "date": "Tomorrow",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Wanted: Tribute To Bon Jovi",
+      "date": "2023-08-18",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Bop To The Top feat Lucas Grabeel & Life By Michael: 18+",
+      "date": "2023-08-25",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Sorry Papi Tour: The All Girl Party (18+ Only)",
+      "date": "2023-08-26",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Soulja Boy",
+      "date": "2023-08-27",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "X",
+      "date": "2023-08-29",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Chl\u00f6e: The In Pieces Tour",
+      "date": "2023-08-31",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Saved By The 90's",
+      "date": "2023-09-1",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Corey Taylor",
+      "date": "2023-09-7",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Hulvey: The Beautiful Tour",
+      "date": "2023-09-7",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Ondara: The Rebirth Tour",
+      "date": "2023-09-8",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "The Cancelled Podcast Tour With Tana Mongeau & Brooke Schofield",
+      "date": "2023-09-8",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Local Natives: Time Will Wait For No One Tour",
+      "date": "2023-09-9",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Everclear with The Ataris",
+      "date": "2023-09-11",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "ZZ Ward: One Hell Of A Night Tour",
+      "date": "2023-09-12",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Poppy & PVRIS: Godless / Goddess Tour",
+      "date": "2023-09-14",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Drew Holcomb & The Neighbors: Find Your People Tour",
+      "date": "2023-09-15",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Here Come the Mummies",
+      "date": "2023-09-16",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "half\u00b7alive: Conditions of a Punk",
+      "date": "2023-09-18",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "The Gaslight Anthem",
+      "date": "2023-09-19",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "The Glorious Sons: The Glory Tour",
+      "date": "2023-09-20",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Digable Planets Reachin' 30th Anniversary Tour",
+      "date": "2023-09-21",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "date": "2023-09-22",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Dean Lewis: The Future Is Bright Tour",
+      "date": "2023-09-23",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Yelawolf",
+      "date": "2023-09-24",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Jake Miller",
+      "date": "2023-09-24",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Sammy Rae & The Friends",
+      "date": "2023-09-26",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "SALIVA and DROWNING POOL: SNAFU Le Tour Presented By WMMS",
+      "date": "2023-09-27",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Head Automatica",
+      "date": "2023-09-28",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Lauren Sanderson: IDC AT ALL Tour",
+      "date": "2023-09-29",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Andy Frasco & The UN",
+      "date": "2023-09-29",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Sammie: Love Always Wins Tour 2023",
+      "date": "2023-09-30",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Eric Johnson",
+      "date": "2023-10-1",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Chris Renzema: Manna Tour: with special guest Jess Ray",
+      "date": "2023-10-3",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Christian French",
+      "date": "2023-10-4",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Wheeler Walker, Jr.: The Spread Eagle Tour",
+      "date": "2023-10-6",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "NoCap: The BirdNest Tour",
+      "date": "2023-10-8",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Valley",
+      "date": "2023-10-9",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "The Wonder Years: The Greatest Generation 10th Anniversary Tour",
+      "date": "2023-10-11",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Moon Taxi With The Stews",
+      "date": "2023-10-12",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Stephen Sanchez",
+      "date": "2023-10-15",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "TV Girl",
+      "date": "2023-10-17",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Danny Pellegrino: The Jolliest Bunch Book Tour",
+      "date": "2023-10-18",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "The Red Clay Strays: Way Too Long Tour",
+      "date": "2023-10-19",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Jessie Murph presents the Cowboys and Angels Tour",
+      "date": "2023-10-20",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "Boys Like Girls: The Speaking Our Language Tour presented by Emo Nite",
+      "date": "2023-10-21",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "The Happy Fits: Under The Shade of Green",
+      "date": "2023-10-22",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": "POSTPONED - Doe Boy",
+      "date": "2023-08-12",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Dj Coop Presents : \"Who's Next\" Artist Showcase, King Jerm",
+      "date": "2023-08-12",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Hobo Johnson",
+      "date": "2023-08-13",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Florry, Lake Philly, Shy Moon, Lake Philly, Shy Moon",
+      "date": "2023-08-14",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Hot Goss: The Improvised Musical",
+      "date": "2023-08-15",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Strobobean, Youth Pallet, Boy Future Guitars",
+      "date": "2023-08-15",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Sweeping Promises, Disintegration, Suitor",
+      "date": "2023-08-16",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Lovataraxx, / Bias Selector, / GRVE, / Wander, Bias Selector, GRVE, Wander",
+      "date": "2023-08-17",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "AJJ, Open Mike Eagle, Sad Park, Foot Ox",
+      "date": "2023-08-18",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "BEN NICHOLS and TIM BARRY, Lulu and The Black Sheep",
+      "date": "2023-08-19",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Larry Baeder and Jacqueline Black Quartet, Jacqueline Black",
+      "date": "2023-08-20",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Make Em Laugh Mondays Hosted By Kevin Ford",
+      "date": "2023-08-21",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Sleaz-a-Thon, Feverdreamer, Frootloops",
+      "date": "2023-08-23",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Jady, Liam Brock, Jack Harris, Zach Beaver",
+      "date": "2023-08-24",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Total Downer, Wish Queen, Charity Cunningham, Anya Van Rose, Wish Queen, Charity Cunningham, Anya Van Rose",
+      "date": "2023-08-25",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Ringer, Whiskey Daredevils, Ringer",
+      "date": "2023-08-26",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Abel, Solon, Bloodhounds",
+      "date": "2023-08-27",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Together Pangea, THICK, Reckling",
+      "date": "2023-08-29",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Jack Lutz + Temple Brothers, Coe, Mack Hubbard + Ty Bogikes, Seconds Away",
+      "date": "2023-08-30",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Coffee & Cream, Mayor Wertz, Mighty Misc",
+      "date": "2023-08-31",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "GlamGore: Babes of Bedrock, Anhedonia Delight",
+      "date": "2023-09-1",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Mutilation Barbecue, Innoculation, Sarcoughagus, Ignominious, Ignominious",
+      "date": "2023-09-2",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Geauxt Studios and Global Nation Presentsd : V'z and Friends., Bloz, Aviator Ju, Lamboza",
+      "date": "2023-09-3",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Murder By Death, Saintseneca",
+      "date": "2023-09-5",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Nissim Black with Kosha Dillz",
+      "date": "2023-09-6",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Alex Cameron & Roy Molloy",
+      "date": "2023-09-7",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "SE SO NEON",
+      "date": "2023-09-8",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Pro3 Entertainment and The 5th Coast Presents : The Podcasters Mixer and Live filming",
+      "date": "2023-09-8",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Local Natives - Time Will Wait For No One Tour WSG HalfNoise",
+      "date": "2023-09-9",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "The Bones of J.R. Jones, Benjamin Dakota Rogers",
+      "date": "2023-09-9",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Mustard Plug, The Toasters, Half Past Two, Low Morale",
+      "date": "2023-09-10",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve",
+      "date": "2023-09-11",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Hot Goss: The Improvised Musical",
+      "date": "2023-09-12",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "John Kalman , Parfait Girls, Dana Perry, Chris Anderson., John Kalmam, Dana Perry, Parfait Girls, Chris Anderson",
+      "date": "2023-09-12",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Midnight Rental presents Secret Movie Night",
+      "date": "2023-09-13",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "BORIS and MELVINS, Mr. Phylzzz",
+      "date": "2023-09-14",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Joe Hertler & The Rainbow Seekers, Rubix Groove, Melted Strawberry, Rubix Groove, Melted Strawberry",
+      "date": "2023-09-14",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "The Milk Carton Kids - I Only See The Moon Tour, Charlie Hickey",
+      "date": "2023-09-15",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Fake Names, The Missed, Public Squares, The Missed, Public Squares",
+      "date": "2023-09-16",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Night Beats, Moonwalks, Nail Biters, Moonwalks, Nail Biters",
+      "date": "2023-09-17",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Make Em Laugh Mondays Hosted By Kevin Ford",
+      "date": "2023-09-18",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Royel Otis US \u201923 SOFA KINGS TOUR, Friko, Louse",
+      "date": "2023-09-19",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "The Glorious Sons \u2013 The Glory Tour",
+      "date": "2023-09-20",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "PATRICK DRONEY, Cecilia Castleman",
+      "date": "2023-09-20",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "People in the Daytime, Solon, Post Saga, Jung Speedbat, Solon, Post Saga, Jung Speedbat",
+      "date": "2023-09-21",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Helmet, Soul Blind, Soul Blind",
+      "date": "2023-09-23",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Harley Poe, The Homeless Gospel Choir, The Homeless Gospel Choir, The House of Wills",
+      "date": "2023-09-24",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Jesse Jo Stark, Rachel Bobbitt",
+      "date": "2023-09-26",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "IDK, Lute, Joey Aich, Kingxzell",
+      "date": "2023-09-27",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "CROWBAR with PRIMITIVE MAN, Bodybox, Fistula",
+      "date": "2023-09-29",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Frankie and the Witch Fingers, Wine Lips",
+      "date": "2023-10-2",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Ratboys, Free Range, Jason Kaminski",
+      "date": "2023-10-3",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Margaret Glaspy, Tasha",
+      "date": "2023-10-3",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Margo Price - \u2018Til The Wheels Fall Off Tour, Brit Taylor",
+      "date": "2023-10-3",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Arooj Aftab, Vijay Iyer & Shahzad Ismaily Love in Exile trio",
+      "date": "2023-10-4",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "CONWAY THE MACHINE W/ SAUCE WALKA & JAE SKEESE, Westside LO, Matt Key & Rude Rebel",
+      "date": "2023-10-5",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "GlamGore: Holislay Spooktacular, Anhedonia Delight",
+      "date": "2023-10-6",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "MURPHY\u2019S LAW \u2013 THE RUMJACKS \u2013 THE BAR STOOL PREACHERS with special guests, GRADE 2",
+      "date": "2023-10-7",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "CIVIC, The Hell, Show Pink",
+      "date": "2023-10-10",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Low Cut Connie, Matthew Logan Vasquez",
+      "date": "2023-10-11",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Claudio Simonetti's GOBLIN performing the live score to a screening of Dario Argento's DEMONS",
+      "date": "2023-10-12",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Cayucas & Matt Costa, Matt Costa, Kultures",
+      "date": "2023-10-13",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Nation of Language",
+      "date": "2023-10-14",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "The Good Life, Doom Flower",
+      "date": "2023-10-15",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "N8NOFACE, Uniity, Uniity",
+      "date": "2023-10-16",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Passafire, C-Level w, Mellowman Funk",
+      "date": "2023-10-19",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Bob Mould Solo Electric, Jason Narducy",
+      "date": "2023-10-20",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Will Butler + Sister Squares , False Teeth, False Teeth",
+      "date": "2023-10-22",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "GILLA BAND, Bambara, Bambara",
+      "date": "2023-10-23",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Mudhoney, Hooveriii",
+      "date": "2023-10-24",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Skinny Lister, PET NEEDS, Bandaid Brigade",
+      "date": "2023-10-30",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Nick Shoulders and The Okay Crawdad - \u201cAll Bad Tour\u201d",
+      "date": "2023-10-31",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "GlamGore: Fetish Ball, Anhedonia Delight",
+      "date": "2023-11-3",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "GZA \u2013 Truth and Swords Tour, Beau Young Prince",
+      "date": "2023-11-12",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "Hot Goss: The Improvised Musical",
+      "date": "2023-11-14",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "BRUJERIA: Esto Es Tour 2023, Pi\u00f1ata Protest, NO/MAS",
+      "date": "2023-11-24",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": "GlamGore: Galactic Ghouls, Anhedonia Delight",
+      "date": "2023-12-1",
+      "venue": "Grog Shop"
+    },
+    {
       "artist": "HEAVY EMO NIGHT: ADTR VS. PTV",
       "date": "2023-08-12",
       "venue": "Mahall\u2019s"
@@ -1496,12 +1396,12 @@
       "venue": "Mahall\u2019s"
     },
     {
-      "artist": "The Aces \u2013 I\u2019ve Loved You For So Long World Tour",
+      "artist": "Kate Bollinger",
       "date": "2023-10-08",
       "venue": "Mahall\u2019s"
     },
     {
-      "artist": "Kate Bollinger",
+      "artist": "The Aces \u2013 I\u2019ve Loved You For So Long World Tour",
       "date": "2023-10-08",
       "venue": "Mahall\u2019s"
     },
@@ -1566,12 +1466,12 @@
       "venue": "Mahall\u2019s"
     },
     {
-      "artist": "Into It. Over It.",
+      "artist": "Walter Etc.",
       "date": "2023-11-08",
       "venue": "Mahall\u2019s"
     },
     {
-      "artist": "Walter Etc.",
+      "artist": "Into It. Over It.",
       "date": "2023-11-08",
       "venue": "Mahall\u2019s"
     },
@@ -1609,6 +1509,221 @@
       "artist": "bar italia",
       "date": "2023-12-16",
       "venue": "Mahall\u2019s"
+    },
+    {
+      "artist": "DETHKLOK & BABYMETAL, Jason Richardson",
+      "date": "2023-09-6",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Jake Owen, Tyler Booth, Daves Highway",
+      "date": "2023-09-7",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Tash Sultana, Go-Jo",
+      "date": "2023-09-10",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Yung Bleu",
+      "date": "2023-09-14",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Flogging Molly, The Bronx and Vandoliers",
+      "date": "2023-09-15",
+      "venue": "Agora"
+    },
+    {
+      "artist": "The Mars Volta Tour, Teri Gender Bender",
+      "date": "2023-09-16",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Royal Blood, Bad Nerves",
+      "date": "2023-09-19",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Warren Zeiders, A Thousand Horses",
+      "date": "2023-09-21",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Desi Banks",
+      "date": "2023-09-22",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Ashnikko",
+      "date": "2023-09-23",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Dance Gavin Dance, SiM, Rain City Drive, Within Destruction",
+      "date": "2023-09-25",
+      "venue": "Agora"
+    },
+    {
+      "artist": "The Front Bottoms, Vundabar",
+      "date": "2023-09-26",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "date": "2023-09-28",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Niko Moon, Jordan Harvey",
+      "date": "2023-09-29",
+      "venue": "Agora"
+    },
+    {
+      "artist": "The Midnight, Flamingosis",
+      "date": "2023-10-2",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Christopher Cross",
+      "date": "2023-10-4",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Ilana Glazer Live!",
+      "date": "2023-10-6",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Ghost Files Live!",
+      "date": "2023-10-8",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Orny Adams",
+      "date": "2023-10-13",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Bullet For My Valentine, Of Mice & Men, Vended",
+      "date": "2023-10-18",
+      "venue": "Agora"
+    },
+    {
+      "artist": "San Holo Presents Existential Dance Music, DROELOE, OddKidOut",
+      "date": "2023-10-19",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Chris D'Elia",
+      "date": "2023-10-20",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Larry Fleet, Karley Scott Collins",
+      "date": "2023-10-21",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Russell Dickerson, Restless Road",
+      "date": "2023-10-26",
+      "venue": "Agora"
+    },
+    {
+      "artist": "TRAP KARAOKE: CLEVELAND",
+      "date": "2023-10-27",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Mushroomhead, Hellzapoppin, Kurt Deimer, Fleischkrieg, Bittersweet Revenge, Twysted Asylum",
+      "date": "2023-10-28",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Mark Normand",
+      "date": "2023-11-3",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Teddy Swims",
+      "date": "2023-11-5",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Tech N9ne & Hollywood Undead, King Iso",
+      "date": "2023-11-6",
+      "venue": "Agora"
+    },
+    {
+      "artist": "DragonForce, Amaranthe, NanowaR Of Steel, Edge Of Paradise",
+      "date": "2023-11-8",
+      "venue": "Agora"
+    },
+    {
+      "artist": "UNDERTAKER",
+      "date": "2023-11-10",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Hot Mulligan, Heart Attack Man, Spanish Love Songs, Ben Quad",
+      "date": "2023-11-11",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Vir Das",
+      "date": "2023-11-12",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Shakey Graves, Rayland Baxter",
+      "date": "2023-11-16",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Ian Munsick, Randall King",
+      "date": "2023-11-17",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Wish You Were Here",
+      "date": "2023-11-18",
+      "venue": "Agora"
+    },
+    {
+      "artist": "The Rock Orchestra by Candlelight",
+      "date": "2023-11-19",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Baroness, Soul Glo, Spotlights, Cloud Rat",
+      "date": "2023-11-24",
+      "venue": "Agora"
+    },
+    {
+      "artist": "LSDREAM, ZINGARA, Super Future",
+      "date": "2023-12-3",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Pigeons Playing Ping Pong, Broccoli Samurai",
+      "date": "2023-12-7",
+      "venue": "Agora"
+    },
+    {
+      "artist": "G Jones, IMANU, KOAN Sound, Sayer",
+      "date": "2024-01-19",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Darcy & Jer",
+      "date": "2024-02-18",
+      "venue": "Agora"
+    },
+    {
+      "artist": "Jimbo's Drag Circus",
+      "date": "2024-03-2",
+      "venue": "Agora"
     }
   ]
 }

@@ -21,6 +21,8 @@ jobs:
           python script/mahalls.py > src/mahalls.json
           python script/agora.py > src/agora.json
           python script/hob.py > src/hob.json
+      - name: Merge data
+        run: python script/merge.py
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

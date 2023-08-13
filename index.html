@@ -67,7 +67,7 @@
       
           eventContainer.appendChild(eventTitle)
           eventContainer.appendChild(eventVenue)
-          eventContainer.appendChild(eventDate)
+          eventContainer.appendChild(eventDate).setAttribute('datetime', event.date)
       
           section.appendChild(eventContainer)
         }

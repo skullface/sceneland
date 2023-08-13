@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
+import time
 
 url = "https://www.agoracleveland.com/events"
 options = FirefoxOptions()
@@ -9,8 +10,10 @@ options.add_argument("--headless")
 browser = webdriver.Firefox(options=options)
 browser.implicitly_wait(30)
 browser.get(url)
-python_button = browser.find_element("id", "loadMoreEvents")
-python_button.click()
+load_more_button = browser.find_element("id", "loadMoreEvents")
+load_more_button.click()
+time.sleep(1)
+load_more_button.click()
 
 soup = BeautifulSoup(browser.page_source, "html.parser")
 calendar = soup.find(id="eventsList")

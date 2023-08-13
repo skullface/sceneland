@@ -7,7 +7,7 @@
 # next.js 
 /node_modules
 *.tsbuildinfo
-/build
+/dist
 .next
 .env
 .env.local

@@ -16,12 +16,9 @@ jobs:
           npm ci
           npm run build
           touch dist/.nojekyll
+          echo "216.show" >> dist/CNAME
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.4.3
         with:
           branch: gh-pages
           folder: dist
-          clean: true
-          clean-exclude: |
-            CNAME
-            .nojekyll

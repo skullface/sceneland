@@ -592,12 +592,12 @@
     },
     {
       "artist": "Mickey Avalon",
-      "date": "Today 7:00 PM",
+      "date": "2023-08-12",
       "venue": "House of Blues"
     },
     {
       "artist": "Ann Marie: The Tripolar Tour",
-      "date": "Tomorrow",
+      "date": "2023-08-13 7:00 PM",
       "venue": "House of Blues"
     },
     {
@@ -1365,7 +1365,6 @@
       "date": "2023-12-13",
       "venue": "Beachland"
     },
-    "shows",
     {
       "artist": "Driveways",
       "date": "2023-08-13",

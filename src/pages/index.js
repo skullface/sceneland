@@ -10,6 +10,10 @@ export const getStaticProps = async () => {
 }
 
 export default function Home({ shows }) {
+  function compareNumbers(a, b) {
+    return new Date(a.props.children[1].props.dateTime) - new Date(b.props.children[1].props.dateTime)
+  }
+
   return (
     <>
       <Head>
@@ -29,12 +33,12 @@ export default function Home({ shows }) {
           {shows.map((show, i) => (
             <article key={i}>
               <h2>{show.artist}</h2>
-              <time dateTime={show.date}>
+              <time dateTime={new Date(show.date)}>
                 {new Date(show.date).toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}
               </time>
               <p>{show.venue}</p>
             </article>
-          )).sort((a, b) => new Date(a.props.children[1].props.dateTime) - new Date(b.props.children[1].props.dateTime))}
+          )).sort(compareNumbers)}
         </main>
         
         <footer>

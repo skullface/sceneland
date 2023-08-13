@@ -19,7 +19,7 @@
 
     <script>
       async function populate() {
-        const response = await fetch('https://216.show/shows.json');
+        const response = await fetch('https://216.show/src/data/shows.json');
         const shows = await response.json();
 
         populateHeader(shows)

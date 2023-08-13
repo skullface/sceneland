@@ -1,5 +1,3 @@
-# .github/workflows/build-and-deploy.yml
-
 name: Static site build
 
 on: workflow_dispatch
@@ -8,20 +6,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          # update the Node version to meet your needs
           node-version: 18
           cache: npm
       - name: Build
         run: |
           npm ci
           npm run build
-          npm run export
-          touch export/.nojekyll
+          touch dist/.nojekyll
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.4.3
         with:
           branch: gh-pages
-          folder: export
+          folder: dist

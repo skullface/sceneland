@@ -1,2 +1,13 @@
+# misc
 .DS_Store
+
+# Python local
 *.log
+
+# next.js 
+/node_modules
+*.tsbuildinfo
+/build
+.next
+.env
+.env.local

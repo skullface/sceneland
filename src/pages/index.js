@@ -10,7 +10,7 @@ export const getStaticProps = async () => {
 }
 
 export default function Home({ shows }) {
-  function compareNumbers(a, b) {
+  function compareChronological(a, b) {
     return new Date(a.props.children[1].props.dateTime) - new Date(b.props.children[1].props.dateTime)
   }
 
@@ -38,7 +38,7 @@ export default function Home({ shows }) {
               </time>
               <p>{show.venue}</p>
             </article>
-          )).sort(compareNumbers)}
+          )).sort(compareChronological)}
         </main>
         
         <footer>

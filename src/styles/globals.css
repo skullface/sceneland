@@ -5,7 +5,7 @@
 @layer base {
   body {
     @apply min-h-screen;
-    @apply dark:bg-black dark:text-gray-400
+    @apply dark:bg-gray-900 text-gray-500 dark:text-gray-400
   }
 }
 
@@ -19,7 +19,7 @@
   }
 
   h1 {
-    @apply text-2xl font-semibold text-white leading-tight;
+    @apply text-2xl font-semibold text-gray-800 dark:text-gray-200 leading-tight;
   }
   
   .shows {
@@ -27,10 +27,10 @@
   }
   
   article {
-    @apply flex flex-col border border-gray-800 rounded text-sm leading-snug p-4 gap-y-2
+    @apply flex flex-col border border-gray-200 dark:border-gray-800 rounded text-sm leading-snug p-4 gap-y-2
   }
   
   h2 {
-    @apply font-bold text-white text-base
+    @apply font-bold text-gray-800 dark:text-gray-200 text-base
   }
 }

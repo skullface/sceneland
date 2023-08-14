@@ -25,8 +25,8 @@ export default function Home({ shows }) {
       
       <div>
         <header>
-          <h1>216.show: Music in Cleveland 🤘</h1>
-          <p>Concerts coming up at your fav local venues like the Beachland, Agora, Mahall’s, and more.</p>
+          <h1>216.show<span className='hidden md:inline'>: Music in Cleveland</span></h1>
+          <p>Concerts coming up at the Beachland, Agora, Mahall’s, and more.</p>
         </header>
         
         <main>

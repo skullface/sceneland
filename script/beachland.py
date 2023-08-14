@@ -19,10 +19,12 @@ for show in shows:
   # Empty object for each show, to be populated below
   all_shows_data = {} 
   # Get the DOM elements containing artists
-  artists = show.find_all("span", class_="tw-artist")
-  for artist in artists:
+  artist_elements = show.find_all("span", class_="tw-artist")
+  artists_list = []
   # Loop through all the artists, add them to the object
-    all_shows_data['artist'] = artist.text.strip()
+  for artist in artist_elements:
+    artists_list.append(artist.text.strip())
+    all_shows_data['artist'] = artists_list
   # Get the date DOM element
   date = show.find("span", class_="event-date")
   # Get the date as plaintext, format it as YYYY-MM-(D)D, add it to the object

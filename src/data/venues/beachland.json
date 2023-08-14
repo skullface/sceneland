@@ -1,521 +1,828 @@
 [
   {
-    "artist": "Dragged Under",
+    "artist": [
+      "Blessthefall",
+      "Caskets",
+      "Kingdom of Giants",
+      "Dragged Under"
+    ],
     "date": "2023-08-13",
     "venue": "Beachland"
   },
   {
-    "artist": "PsychoFuzz",
+    "artist": [
+      "Tropa Magica",
+      "PsychoFuzz"
+    ],
     "date": "2023-08-13",
     "venue": "Beachland"
   },
   {
-    "artist": "Pre/Post Party with DJs Crow & Mojo",
+    "artist": [
+      "Pre/Post Party with DJs Crow & Mojo"
+    ],
     "date": "2023-08-14",
     "venue": "Beachland"
   },
   {
-    "artist": "AITIS BAND",
+    "artist": [
+      "American Football",
+      "AITIS BAND"
+    ],
     "date": "2023-08-14",
     "venue": "Beachland"
   },
   {
-    "artist": "Nate Saggio",
+    "artist": [
+      "The Collection",
+      "AJ Smith",
+      "Nate Saggio"
+    ],
     "date": "2023-08-15",
     "venue": "Beachland"
   },
   {
-    "artist": "Brickhouse Blues Band",
+    "artist": [
+      "Albert Cummings",
+      "Brickhouse Blues Band"
+    ],
     "date": "2023-08-15",
     "venue": "Beachland"
   },
   {
-    "artist": "Jake Briggs",
+    "artist": [
+      "American Darling",
+      "Skylar Keffer",
+      "Jake Briggs"
+    ],
     "date": "2023-08-16",
     "venue": "Beachland"
   },
   {
-    "artist": "John Ban's Dogwater",
+    "artist": [
+      "The Nick Moss Band featuring Dennis Gruenling",
+      "John Ban's Dogwater"
+    ],
     "date": "2023-08-17",
     "venue": "Beachland"
   },
   {
-    "artist": "Leo Drum Jam",
+    "artist": [
+      "Leo Drum Jam"
+    ],
     "date": "2023-08-17",
     "venue": "Beachland"
   },
   {
-    "artist": "This Way Out",
+    "artist": [
+      "This Way Out"
+    ],
     "date": "2023-08-18",
     "venue": "Beachland"
   },
   {
-    "artist": "Shane Guerrette",
+    "artist": [
+      "Zach Person",
+      "Shane Guerrette"
+    ],
     "date": "2023-08-18",
     "venue": "Beachland"
   },
   {
-    "artist": "Biitchseat",
+    "artist": [
+      "Beachland Flea",
+      "AJ & The Woods",
+      "Biitchseat"
+    ],
     "date": "2023-08-19",
     "venue": "Beachland"
   },
   {
-    "artist": "This Way Out",
+    "artist": [
+      "This Way Out"
+    ],
     "date": "2023-08-19",
     "venue": "Beachland"
   },
   {
-    "artist": "Gracie Olivia",
+    "artist": [
+      "Frank Amato's Producers Showcase",
+      "6 Turning 4 Burning",
+      "Dreamstreet",
+      "Gracie Olivia"
+    ],
     "date": "2023-08-19",
     "venue": "Beachland"
   },
   {
-    "artist": "Sugar Tradition",
+    "artist": [
+      "The Detroit Cobras",
+      "Sugar Tradition"
+    ],
     "date": "2023-08-19",
     "venue": "Beachland"
   },
   {
-    "artist": "The Shootouts (Acoustic Trio)",
+    "artist": [
+      "Robbie Fulks",
+      "The Shootouts (Acoustic Trio)"
+    ],
     "date": "2023-08-20",
     "venue": "Beachland"
   },
   {
-    "artist": "DJ Erin Ryan (WCSB's Bomb The Twist)",
+    "artist": [
+      "Ladrones",
+      "Hyper Viper",
+      "DJ Erin Ryan (WCSB's Bomb The Twist)"
+    ],
     "date": "2023-08-21",
     "venue": "Beachland"
   },
   {
-    "artist": "CuDa, Schief & CuDa",
+    "artist": [
+      "tu-NER",
+      "CuDa, Schief & CuDa"
+    ],
     "date": "2023-08-22",
     "venue": "Beachland"
   },
   {
-    "artist": "Southern Star",
+    "artist": [
+      "Mikaela Davis",
+      "Southern Star"
+    ],
     "date": "2023-08-22",
     "venue": "Beachland"
   },
   {
-    "artist": "The Legal Aid Society's Jam for Justice 2023",
+    "artist": [
+      "The Legal Aid Society's Jam for Justice 2023"
+    ],
     "date": "2023-08-23",
     "venue": "Beachland"
   },
   {
-    "artist": "Pre/Post Party with DJs Chris & Heidi Kulscar",
+    "artist": [
+      "Pre/Post Party with DJs Chris & Heidi Kulscar"
+    ],
     "date": "2023-08-24",
     "venue": "Beachland"
   },
   {
-    "artist": "The Baseball Project featuring Peter Buck, Scott McCaughey, Mike Mills, Linda Pitmon, and Steve",
+    "artist": [
+      "The Baseball Project featuring Peter Buck, Scott McCaughey, Mike Mills, Linda Pitmon, and Steve"
+    ],
     "date": "2023-08-24",
     "venue": "Beachland"
   },
   {
-    "artist": "Ichi Bons",
+    "artist": [
+      "Messer Chups",
+      "Ichi Bons"
+    ],
     "date": "2023-08-25",
     "venue": "Beachland"
   },
   {
-    "artist": "The Chewy Center",
+    "artist": [
+      "Dry Reef",
+      "The Chewy Center"
+    ],
     "date": "2023-08-25",
     "venue": "Beachland"
   },
   {
-    "artist": "Bessemer Saints",
+    "artist": [
+      "After The Apocalypse",
+      "Inducing Panic",
+      "72 Legions",
+      "Hams",
+      "Heir To None",
+      "Psycho Plantation",
+      "The Great Iron Snake",
+      "Bessemer Saints"
+    ],
     "date": "2023-08-26",
     "venue": "Beachland"
   },
   {
-    "artist": "3rd  Celebration of Cleveland Rock History",
+    "artist": [
+      "3rd  Celebration of Cleveland Rock History"
+    ],
     "date": "2023-08-27",
     "venue": "Beachland"
   },
   {
-    "artist": "People in the Daytime",
+    "artist": [
+      "TobyRaps",
+      "Honeyland",
+      "The Baggs Jazz Project",
+      "Quick Mystery",
+      "COE",
+      "Rent For Cheryl",
+      "Unc D",
+      "People in the Daytime"
+    ],
     "date": "2023-08-27",
     "venue": "Beachland"
   },
   {
-    "artist": "DJ Advance",
+    "artist": [
+      "BrewDog Beachland BINGO",
+      "DJ Advance"
+    ],
     "date": "2023-08-29",
     "venue": "Beachland"
   },
   {
-    "artist": "Lake Irie",
+    "artist": [
+      "Drifting Roots",
+      "Lake Irie"
+    ],
     "date": "2023-08-30",
     "venue": "Beachland"
   },
   {
-    "artist": "Jake La Botz Trio",
+    "artist": [
+      "Los Straitjackets",
+      "Jake La Botz Trio"
+    ],
     "date": "2023-08-30",
     "venue": "Beachland"
   },
   {
-    "artist": "theMIND",
+    "artist": [
+      "Kari Faux",
+      "theMIND"
+    ],
     "date": "2023-08-31",
     "venue": "Beachland"
   },
   {
-    "artist": "Andi Chakraborty",
+    "artist": [
+      "Blaire Blades and The Backstabbers",
+      "The Little Ditties",
+      "TAMA",
+      "Andi Chakraborty"
+    ],
     "date": "2023-08-31",
     "venue": "Beachland"
   },
   {
-    "artist": "Austin Lucas",
+    "artist": [
+      "Austin Lucas"
+    ],
     "date": "2023-09-3",
     "venue": "Beachland"
   },
   {
-    "artist": "Dave Swanson's Mystery Airship",
+    "artist": [
+      "The Split Squad",
+      "Dave Swanson's Mystery Airship"
+    ],
     "date": "2023-09-6",
     "venue": "Beachland"
   },
   {
-    "artist": "Yarn",
+    "artist": [
+      "Yarn"
+    ],
     "date": "2023-09-7",
     "venue": "Beachland"
   },
   {
-    "artist": "Drag Pride Showcase",
+    "artist": [
+      "Drag Pride Showcase"
+    ],
     "date": "2023-09-8",
     "venue": "Beachland"
   },
   {
-    "artist": "Hiram-Maxim",
+    "artist": [
+      "Nox Novacula",
+      "Hiram-Maxim"
+    ],
     "date": "2023-09-8",
     "venue": "Beachland"
   },
   {
-    "artist": "Jennifer Hartswick Band",
+    "artist": [
+      "Jennifer Hartswick Band"
+    ],
     "date": "2023-09-10",
     "venue": "Beachland"
   },
   {
-    "artist": "Kym Register",
+    "artist": [
+      "Chris Pureka",
+      "Kym Register"
+    ],
     "date": "2023-09-11",
     "venue": "Beachland"
   },
   {
-    "artist": "Lilly Hiatt",
+    "artist": [
+      "The Band of Heathens",
+      "Lilly Hiatt"
+    ],
     "date": "2023-09-12",
     "venue": "Beachland"
   },
   {
-    "artist": "Kristine Jackson",
+    "artist": [
+      "Carolyn Wonderland",
+      "Kristine Jackson"
+    ],
     "date": "2023-09-12",
     "venue": "Beachland"
   },
   {
-    "artist": "Mr. Phylzz",
+    "artist": [
+      "Boris + Melvins",
+      "Mr. Phylzz"
+    ],
     "date": "2023-09-14",
     "venue": "Beachland"
   },
   {
-    "artist": "Clem Snide",
+    "artist": [
+      "Clem Snide"
+    ],
     "date": "2023-09-15",
     "venue": "Beachland"
   },
   {
-    "artist": "Population II",
+    "artist": [
+      "Osees",
+      "Population II"
+    ],
     "date": "2023-09-17",
     "venue": "Beachland"
   },
   {
-    "artist": "Electric Blue Yonder",
+    "artist": [
+      "Electric Blue Yonder"
+    ],
     "date": "2023-09-18",
     "venue": "Beachland"
   },
   {
-    "artist": "David Wain & Ken Marino's Middle Age Dad Jam Band",
+    "artist": [
+      "David Wain & Ken Marino's Middle Age Dad Jam Band"
+    ],
     "date": "2023-09-18",
     "venue": "Beachland"
   },
   {
-    "artist": "Boyish",
+    "artist": [
+      "Boyish"
+    ],
     "date": "2023-09-19",
     "venue": "Beachland"
   },
   {
-    "artist": "Veronica Swift",
+    "artist": [
+      "Veronica Swift"
+    ],
     "date": "2023-09-20",
     "venue": "Beachland"
   },
   {
-    "artist": "Cities & Coasts",
+    "artist": [
+      "Black Joe Lewis",
+      "Cities & Coasts"
+    ],
     "date": "2023-09-21",
     "venue": "Beachland"
   },
   {
-    "artist": "Factual Brains",
+    "artist": [
+      "MAN ON MAN",
+      "Factual Brains"
+    ],
     "date": "2023-09-21",
     "venue": "Beachland"
   },
   {
-    "artist": "DEVOtional 2023",
+    "artist": [
+      "DEVOtional 2023"
+    ],
     "date": "2023-09-22",
     "venue": "Beachland"
   },
   {
-    "artist": "DEVOtional 2023",
+    "artist": [
+      "DEVOtional 2023"
+    ],
     "date": "2023-09-23",
     "venue": "Beachland"
   },
   {
-    "artist": "Norman Westberg",
+    "artist": [
+      "Swans",
+      "Norman Westberg"
+    ],
     "date": "2023-09-24",
     "venue": "Beachland"
   },
   {
-    "artist": "Kiefer",
+    "artist": [
+      "Kiefer"
+    ],
     "date": "2023-09-26",
     "venue": "Beachland"
   },
   {
-    "artist": "Dos Santos",
+    "artist": [
+      "MONOPHONICS",
+      "Dos Santos"
+    ],
     "date": "2023-09-27",
     "venue": "Beachland"
   },
   {
-    "artist": "Dubbest",
+    "artist": [
+      "Fortunate Youth",
+      "Kash'd Out",
+      "Dubbest"
+    ],
     "date": "2023-09-28",
     "venue": "Beachland"
   },
   {
-    "artist": "Joanna Sternberg",
+    "artist": [
+      "The Lemon Twigs",
+      "Joanna Sternberg"
+    ],
     "date": "2023-09-29",
     "venue": "Beachland"
   },
   {
-    "artist": "Baba Commandant and the Mandingo Band",
+    "artist": [
+      "Baba Commandant and the Mandingo Band"
+    ],
     "date": "2023-09-29",
     "venue": "Beachland"
   },
   {
-    "artist": "Andy Frasco & The U.N.",
+    "artist": [
+      "Andy Frasco & The U.N."
+    ],
     "date": "2023-09-29",
     "venue": "Beachland"
   },
   {
-    "artist": "The Style Section",
+    "artist": [
+      "Falling Stars",
+      "The Laughing Chimes",
+      "The Style Section"
+    ],
     "date": "2023-09-30",
     "venue": "Beachland"
   },
   {
-    "artist": "Tasha",
+    "artist": [
+      "Margaret Glaspy",
+      "Tasha"
+    ],
     "date": "2023-10-3",
     "venue": "Beachland"
   },
   {
-    "artist": "Brit Taylor",
+    "artist": [
+      "Margo Price",
+      "Brit Taylor"
+    ],
     "date": "2023-10-3",
     "venue": "Beachland"
   },
   {
-    "artist": "Boy Pablo",
+    "artist": [
+      "Boy Pablo"
+    ],
     "date": "2023-10-4",
     "venue": "Beachland"
   },
   {
-    "artist": "Cut Worms",
+    "artist": [
+      "Cut Worms"
+    ],
     "date": "2023-10-6",
     "venue": "Beachland"
   },
   {
-    "artist": "Bitchin Bajas",
+    "artist": [
+      "Bitchin Bajas"
+    ],
     "date": "2023-10-6",
     "venue": "Beachland"
   },
   {
-    "artist": "Bendigo Fletcher",
+    "artist": [
+      "The Brook & the Bluff",
+      "Bendigo Fletcher"
+    ],
     "date": "2023-10-7",
     "venue": "Beachland"
   },
   {
-    "artist": "C-Level",
+    "artist": [
+      "mssv",
+      "C-Level"
+    ],
     "date": "2023-10-7",
     "venue": "Beachland"
   },
   {
-    "artist": "Arthur Buezo",
+    "artist": [
+      "Cam Cole",
+      "Arthur Buezo"
+    ],
     "date": "2023-10-8",
     "venue": "Beachland"
   },
   {
-    "artist": "The Woggles",
+    "artist": [
+      "Southern Culture On the Skids",
+      "The Woggles"
+    ],
     "date": "2023-10-11",
     "venue": "Beachland"
   },
   {
-    "artist": "TAUK",
+    "artist": [
+      "Dopapod",
+      "TAUK"
+    ],
     "date": "2023-10-12",
     "venue": "Beachland"
   },
   {
-    "artist": "Caleb Hearn",
+    "artist": [
+      "Dylan Matthew",
+      "Caleb Hearn"
+    ],
     "date": "2023-10-13",
     "venue": "Beachland"
   },
   {
-    "artist": "Buffalo Nichols",
+    "artist": [
+      "Buffalo Nichols"
+    ],
     "date": "2023-10-13",
     "venue": "Beachland"
   },
   {
-    "artist": "Brown Eyed Women",
+    "artist": [
+      "Brown Eyed Women"
+    ],
     "date": "2023-10-14",
     "venue": "Beachland"
   },
   {
-    "artist": "Wrong Places",
+    "artist": [
+      "Lewsberg",
+      "Obnox",
+      "Wrong Places"
+    ],
     "date": "2023-10-14",
     "venue": "Beachland"
   },
   {
-    "artist": "Chris Cresswell",
+    "artist": [
+      "Chris Cresswell"
+    ],
     "date": "2023-10-17",
     "venue": "Beachland"
   },
   {
-    "artist": "Matt Hillyer",
+    "artist": [
+      "Dale Watson",
+      "Matt Hillyer"
+    ],
     "date": "2023-10-18",
     "venue": "Beachland"
   },
   {
-    "artist": "The Buffalo Ryders",
+    "artist": [
+      "Kiss The Tiger",
+      "The Buffalo Ryders"
+    ],
     "date": "2023-10-18",
     "venue": "Beachland"
   },
   {
-    "artist": "Carbon Leaf",
+    "artist": [
+      "Carbon Leaf"
+    ],
     "date": "2023-10-20",
     "venue": "Beachland"
   },
   {
-    "artist": "Truth Club",
+    "artist": [
+      "Squirrel Flower",
+      "Truth Club"
+    ],
     "date": "2023-10-20",
     "venue": "Beachland"
   },
   {
-    "artist": "Messa + Maggot Heart",
+    "artist": [
+      "Messa + Maggot Heart"
+    ],
     "date": "2023-10-21",
     "venue": "Beachland"
   },
   {
-    "artist": "Zach Nugent's Dead Set",
+    "artist": [
+      "Zach Nugent's Dead Set"
+    ],
     "date": "2023-10-22",
     "venue": "Beachland"
   },
   {
-    "artist": "Birthday Girl",
+    "artist": [
+      "Be Your Own Pet",
+      "A Giant Dog",
+      "Birthday Girl"
+    ],
     "date": "2023-10-23",
     "venue": "Beachland"
   },
   {
-    "artist": "Laufey",
+    "artist": [
+      "Laufey"
+    ],
     "date": "2023-10-24",
     "venue": "Beachland"
   },
   {
-    "artist": "Adam Paddock",
+    "artist": [
+      "Kings Kaleidoscope",
+      "Mike Mains and the Branches",
+      "Adam Paddock"
+    ],
     "date": "2023-10-25",
     "venue": "Beachland"
   },
   {
-    "artist": "Grateful Dub",
+    "artist": [
+      "Grateful Dub"
+    ],
     "date": "2023-10-25",
     "venue": "Beachland"
   },
   {
-    "artist": "The Main Squeeze",
+    "artist": [
+      "The Main Squeeze"
+    ],
     "date": "2023-10-26",
     "venue": "Beachland"
   },
   {
-    "artist": "Buzz Balldrin",
+    "artist": [
+      "Daisychain",
+      "Lilieae",
+      "Buzz Balldrin"
+    ],
     "date": "2023-10-26",
     "venue": "Beachland"
   },
   {
-    "artist": "Destructor",
+    "artist": [
+      "Midnight",
+      "Black Death",
+      "Assault",
+      "Nunslaughter",
+      "Destructor"
+    ],
     "date": "2023-10-27",
     "venue": "Beachland"
   },
   {
-    "artist": "Walter Trout",
+    "artist": [
+      "Walter Trout"
+    ],
     "date": "2023-11-2",
     "venue": "Beachland"
   },
   {
-    "artist": "The Chewy Center",
+    "artist": [
+      "Chirp",
+      "Sqwerv",
+      "The Chewy Center"
+    ],
     "date": "2023-11-2",
     "venue": "Beachland"
   },
   {
-    "artist": "Calder Allen",
+    "artist": [
+      "Shane Smith & The Saints",
+      "Angel White",
+      "Calder Allen"
+    ],
     "date": "2023-11-3",
     "venue": "Beachland"
   },
   {
-    "artist": "BLUPHORIA",
+    "artist": [
+      "NOAH VONNE",
+      "BLUPHORIA"
+    ],
     "date": "2023-11-5",
     "venue": "Beachland"
   },
   {
-    "artist": "Grateful Shred",
+    "artist": [
+      "Grateful Shred"
+    ],
     "date": "2023-11-5",
     "venue": "Beachland"
   },
   {
-    "artist": "Kendra Morris",
+    "artist": [
+      "Kendra Morris"
+    ],
     "date": "2023-11-6",
     "venue": "Beachland"
   },
   {
-    "artist": "Grumpy Plum",
+    "artist": [
+      "Screaming Females",
+      "Dusk",
+      "Grumpy Plum"
+    ],
     "date": "2023-11-8",
     "venue": "Beachland"
   },
   {
-    "artist": "Leslie Mendelson",
+    "artist": [
+      "Great Lakes Swimmers",
+      "Christian Lopez",
+      "Leslie Mendelson"
+    ],
     "date": "2023-11-9",
     "venue": "Beachland"
   },
   {
-    "artist": "Why Bonnie",
+    "artist": [
+      "S.G. Goodman",
+      "Why Bonnie"
+    ],
     "date": "2023-11-12",
     "venue": "Beachland"
   },
   {
-    "artist": "The Hotelier + Foxing",
+    "artist": [
+      "The Hotelier + Foxing"
+    ],
     "date": "2023-11-12",
     "venue": "Beachland"
   },
   {
-    "artist": "Shakey Graves",
+    "artist": [
+      "Shakey Graves"
+    ],
     "date": "2023-11-16",
     "venue": "Beachland"
   },
   {
-    "artist": "Pokey LaFarge",
+    "artist": [
+      "Pokey LaFarge"
+    ],
     "date": "2023-12-3",
     "venue": "Beachland"
   },
   {
-    "artist": "Steve Marino",
+    "artist": [
+      "Angel Du$t",
+      "Candy",
+      "Dazy",
+      "Steve Marino"
+    ],
     "date": "2023-12-6",
     "venue": "Beachland"
   },
   {
-    "artist": "Broccoli Samurai",
+    "artist": [
+      "Pigeons Playing Ping Pong",
+      "Broccoli Samurai"
+    ],
     "date": "2023-12-7",
     "venue": "Beachland"
   },
   {
-    "artist": "Robert Jon & The Wreck",
+    "artist": [
+      "Robert Jon & The Wreck"
+    ],
     "date": "2023-12-7",
     "venue": "Beachland"
   },
   {
-    "artist": "Ruen Brothers",
+    "artist": [
+      "Ruen Brothers"
+    ],
     "date": "2023-12-13",
     "venue": "Beachland"
   }

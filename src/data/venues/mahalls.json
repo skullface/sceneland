@@ -1,346 +1,477 @@
 [
   {
-    "artist": "Driveways",
-    "date": "2023-08-13",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": "Paul Cherry",
+    "artist": [
+      "Paul Cherry"
+    ],
     "date": "2023-08-14",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "ALEXSUCKS",
+    "artist": [
+      "ALEXSUCKS"
+    ],
     "date": "2023-08-15",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Weathers and Almost Monday",
+    "artist": [
+      "Weathers and Almost Monday"
+    ],
     "date": "2023-08-16",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Snarls",
+    "artist": [
+      "Snarls"
+    ],
     "date": "2023-08-18",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "GEL",
+    "artist": [
+      "GEL"
+    ],
     "date": "2023-08-19",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Gooseberry",
+    "artist": [
+      "Gooseberry"
+    ],
     "date": "2023-08-19",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Girl Ultra",
+    "artist": [
+      "Girl Ultra"
+    ],
     "date": "2023-08-20",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Park National",
+    "artist": [
+      "Park National"
+    ],
     "date": "2023-08-22",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Hideaway Beach",
+    "artist": [
+      "Hideaway Beach"
+    ],
     "date": "2023-08-24",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "The Nude Party",
+    "artist": [
+      "The Nude Party"
+    ],
     "date": "2023-08-25",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Superviolet and The Sonder Bombs",
+    "artist": [
+      "Superviolet and The Sonder Bombs"
+    ],
     "date": "2023-08-26",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Invasion Invasion",
+    "artist": [
+      "Invasion Invasion"
+    ],
     "date": "2023-08-27",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Broadway Rave",
+    "artist": [
+      "Broadway Rave"
+    ],
     "date": "2023-09-01",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Ace Enders",
+    "artist": [
+      "Ace Enders"
+    ],
     "date": "2023-09-02",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Gimme Gimme Disco",
+    "artist": [
+      "Gimme Gimme Disco"
+    ],
     "date": "2023-09-02",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "The Ivy",
+    "artist": [
+      "The Ivy"
+    ],
     "date": "2023-09-03",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "SPIRIT OF THE BEEHIVE",
+    "artist": [
+      "SPIRIT OF THE BEEHIVE"
+    ],
     "date": "2023-09-05",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Kurt Travis",
+    "artist": [
+      "Kurt Travis"
+    ],
     "date": "2023-09-06",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "AFTER LIKE: a K-pop themed dance party",
+    "artist": [
+      "AFTER LIKE: a K-pop themed dance party"
+    ],
     "date": "2023-09-07",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Born Without Bones \"Baby\" 10 year anniversary tour",
+    "artist": [
+      "Born Without Bones \"Baby\" 10 year anniversary tour"
+    ],
     "date": "2023-09-08",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Honey Pocket",
+    "artist": [
+      "Honey Pocket"
+    ],
     "date": "2023-09-09",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Dayseeker",
+    "artist": [
+      "Dayseeker"
+    ],
     "date": "2023-09-12",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "After The Burial",
+    "artist": [
+      "After The Burial"
+    ],
     "date": "2023-09-13",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "The Red Jumpsuit Apparatus",
+    "artist": [
+      "The Red Jumpsuit Apparatus"
+    ],
     "date": "2023-09-14",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Speedy Ortiz",
+    "artist": [
+      "Speedy Ortiz"
+    ],
     "date": "2023-09-15",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "The Thing With Feathers",
+    "artist": [
+      "The Thing With Feathers"
+    ],
     "date": "2023-09-16",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "nothing, nowhere.",
+    "artist": [
+      "nothing, nowhere."
+    ],
     "date": "2023-09-17",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Bay Ledges",
+    "artist": [
+      "Bay Ledges"
+    ],
     "date": "2023-09-17",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "True Widow",
+    "artist": [
+      "True Widow"
+    ],
     "date": "2023-09-18",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Fame on Fire ",
+    "artist": [
+      "Fame on Fire "
+    ],
     "date": "2023-09-19",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Tigercub",
+    "artist": [
+      "Tigercub"
+    ],
     "date": "2023-09-20",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Senses Fail",
+    "artist": [
+      "Senses Fail"
+    ],
     "date": "2023-09-22",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Claud: Supermodels Tour Part 1",
+    "artist": [
+      "Claud: Supermodels Tour Part 1"
+    ],
     "date": "2023-09-22",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Richy Mitch and the Coalminers",
+    "artist": [
+      "Richy Mitch and the Coalminers"
+    ],
     "date": "2023-09-23",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "The Astronomers",
+    "artist": [
+      "Autopilot"
+    ],
     "date": "2023-09-26",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Autopilot",
+    "artist": [
+      "The Astronomers"
+    ],
     "date": "2023-09-26",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Casey",
+    "artist": [
+      "Casey"
+    ],
     "date": "2023-09-27",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Field Medic",
+    "artist": [
+      "Field Medic"
+    ],
     "date": "2023-09-28",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Jukebox Breakdown aka Emo Night CLE",
+    "artist": [
+      "Jukebox Breakdown aka Emo Night CLE"
+    ],
     "date": "2023-09-29",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Washer",
+    "artist": [
+      "Washer"
+    ],
     "date": "2023-09-30",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Dead Poet Society",
+    "artist": [
+      "Dead Poet Society"
+    ],
     "date": "2023-09-30",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "slowdive at The Roxy",
+    "artist": [
+      "slowdive at The Roxy"
+    ],
     "date": "2023-10-02",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "George Clanton",
+    "artist": [
+      "George Clanton"
+    ],
     "date": "2023-10-03",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Frankie Cosmos with Good Morning",
+    "artist": [
+      "Frankie Cosmos with Good Morning"
+    ],
     "date": "2023-10-04",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Generationals",
+    "artist": [
+      "Generationals"
+    ],
     "date": "2023-10-06",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "The Aces \u2013 I\u2019ve Loved You For So Long World Tour",
+    "artist": [
+      "Kate Bollinger"
+    ],
     "date": "2023-10-08",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Kate Bollinger",
+    "artist": [
+      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
+    ],
     "date": "2023-10-08",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Dead on a Sunday",
+    "artist": [
+      "Dead on a Sunday"
+    ],
     "date": "2023-10-09",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Chris Farren",
+    "artist": [
+      "Chris Farren"
+    ],
     "date": "2023-10-11",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Horse Jumper Of Love",
+    "artist": [
+      "Horse Jumper Of Love"
+    ],
     "date": "2023-10-13",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Superheaven",
+    "artist": [
+      "Superheaven"
+    ],
     "date": "2023-10-14",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "DEHD ",
+    "artist": [
+      "DEHD "
+    ],
     "date": "2023-10-17",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Emblem3",
+    "artist": [
+      "Emblem3"
+    ],
     "date": "2023-10-20",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Krooked Kings",
+    "artist": [
+      "Krooked Kings"
+    ],
     "date": "2023-10-21",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "The Dear Hunter: Migrant 10th Anniversary Tour",
+    "artist": [
+      "The Dear Hunter: Migrant 10th Anniversary Tour"
+    ],
     "date": "2023-10-28",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "BL\u00dc EYES",
+    "artist": [
+      "BL\u00dc EYES"
+    ],
     "date": "2023-10-29",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Addison Grace",
+    "artist": [
+      "Addison Grace"
+    ],
     "date": "2023-10-30",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Alan Palomo",
+    "artist": [
+      "Alan Palomo"
+    ],
     "date": "2023-11-04",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Abraham Alexander",
+    "artist": [
+      "Abraham Alexander"
+    ],
     "date": "2023-11-07",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Into It. Over It.",
+    "artist": [
+      "Walter Etc."
+    ],
     "date": "2023-11-08",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Walter Etc.",
+    "artist": [
+      "Into It. Over It."
+    ],
     "date": "2023-11-08",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Real Friends and Knuckle Puck",
+    "artist": [
+      "Real Friends and Knuckle Puck"
+    ],
     "date": "2023-11-09",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Moon Walker",
+    "artist": [
+      "Moon Walker"
+    ],
     "date": "2023-11-15",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Dizgo, Yam Yam, Jaluski ",
+    "artist": [
+      "Dizgo, Yam Yam, Jaluski "
+    ],
     "date": "2023-11-16",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Citizen",
+    "artist": [
+      "Citizen"
+    ],
     "date": "2023-11-24",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Oliver Hazard",
+    "artist": [
+      "Oliver Hazard"
+    ],
     "date": "2023-11-30",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "Drayton Farley",
+    "artist": [
+      "Drayton Farley"
+    ],
     "date": "2023-12-01",
     "venue": "Mahall\u2019s"
   },
   {
-    "artist": "bar italia",
+    "artist": [
+      "bar italia"
+    ],
     "date": "2023-12-16",
     "venue": "Mahall\u2019s"
   }

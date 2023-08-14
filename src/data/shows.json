@@ -2,1169 +2,6 @@
   "shows": [
     {
       "artist": [
-        "Blessthefall",
-        "Caskets",
-        "Kingdom of Giants",
-        "Dragged Under"
-      ],
-      "date": "2023-08-13T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Tropa Magica",
-        "PsychoFuzz"
-      ],
-      "date": "2023-08-13T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Pre/Post Party with DJs Crow & Mojo"
-      ],
-      "date": "2023-08-14T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "American Football",
-        "AITIS BAND"
-      ],
-      "date": "2023-08-14T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Collection",
-        "AJ Smith",
-        "Nate Saggio"
-      ],
-      "date": "2023-08-15T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Albert Cummings",
-        "Brickhouse Blues Band"
-      ],
-      "date": "2023-08-15T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "American Darling",
-        "Skylar Keffer",
-        "Jake Briggs"
-      ],
-      "date": "2023-08-16T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Nick Moss Band featuring Dennis Gruenling",
-        "John Ban's Dogwater"
-      ],
-      "date": "2023-08-17T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Leo Drum Jam"
-      ],
-      "date": "2023-08-17T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "This Way Out"
-      ],
-      "date": "2023-08-18T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Zach Person",
-        "Shane Guerrette"
-      ],
-      "date": "2023-08-18T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Beachland Flea",
-        "AJ & The Woods",
-        "Biitchseat"
-      ],
-      "date": "2023-08-19T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "This Way Out"
-      ],
-      "date": "2023-08-19T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Frank Amato's Producers Showcase",
-        "6 Turning 4 Burning",
-        "Dreamstreet",
-        "Gracie Olivia"
-      ],
-      "date": "2023-08-19T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Detroit Cobras",
-        "Sugar Tradition"
-      ],
-      "date": "2023-08-19T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Robbie Fulks",
-        "The Shootouts (Acoustic Trio)"
-      ],
-      "date": "2023-08-20T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Ladrones",
-        "Hyper Viper",
-        "DJ Erin Ryan (WCSB's Bomb The Twist)"
-      ],
-      "date": "2023-08-21T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "tu-NER",
-        "CuDa, Schief & CuDa"
-      ],
-      "date": "2023-08-22T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Mikaela Davis",
-        "Southern Star"
-      ],
-      "date": "2023-08-22T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Legal Aid Society's Jam for Justice 2023"
-      ],
-      "date": "2023-08-23T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Pre/Post Party with DJs Chris & Heidi Kulscar"
-      ],
-      "date": "2023-08-24T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Baseball Project featuring Peter Buck, Scott McCaughey, Mike Mills, Linda Pitmon, and Steve"
-      ],
-      "date": "2023-08-24T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Messer Chups",
-        "Ichi Bons"
-      ],
-      "date": "2023-08-25T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Dry Reef",
-        "The Chewy Center"
-      ],
-      "date": "2023-08-25T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "After The Apocalypse",
-        "Inducing Panic",
-        "72 Legions",
-        "Hams",
-        "Heir To None",
-        "Psycho Plantation",
-        "The Great Iron Snake",
-        "Bessemer Saints"
-      ],
-      "date": "2023-08-26T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "3rd  Celebration of Cleveland Rock History"
-      ],
-      "date": "2023-08-27T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "TobyRaps",
-        "Honeyland",
-        "The Baggs Jazz Project",
-        "Quick Mystery",
-        "COE",
-        "Rent For Cheryl",
-        "Unc D",
-        "People in the Daytime"
-      ],
-      "date": "2023-08-27T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "BrewDog Beachland BINGO",
-        "DJ Advance"
-      ],
-      "date": "2023-08-29T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Drifting Roots",
-        "Lake Irie"
-      ],
-      "date": "2023-08-30T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Los Straitjackets",
-        "Jake La Botz Trio"
-      ],
-      "date": "2023-08-30T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Kari Faux",
-        "theMIND"
-      ],
-      "date": "2023-08-31T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Blaire Blades and The Backstabbers",
-        "The Little Ditties",
-        "TAMA",
-        "Andi Chakraborty"
-      ],
-      "date": "2023-08-31T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Austin Lucas"
-      ],
-      "date": "2023-09-3T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Split Squad",
-        "Dave Swanson's Mystery Airship"
-      ],
-      "date": "2023-09-6T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Yarn"
-      ],
-      "date": "2023-09-7T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Drag Pride Showcase"
-      ],
-      "date": "2023-09-8T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Nox Novacula",
-        "Hiram-Maxim"
-      ],
-      "date": "2023-09-8T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Jennifer Hartswick Band"
-      ],
-      "date": "2023-09-10T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Chris Pureka",
-        "Kym Register"
-      ],
-      "date": "2023-09-11T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Band of Heathens",
-        "Lilly Hiatt"
-      ],
-      "date": "2023-09-12T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Carolyn Wonderland",
-        "Kristine Jackson"
-      ],
-      "date": "2023-09-12T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Boris + Melvins",
-        "Mr. Phylzz"
-      ],
-      "date": "2023-09-14T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Clem Snide"
-      ],
-      "date": "2023-09-15T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Osees",
-        "Population II"
-      ],
-      "date": "2023-09-17T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Electric Blue Yonder"
-      ],
-      "date": "2023-09-18T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "David Wain & Ken Marino's Middle Age Dad Jam Band"
-      ],
-      "date": "2023-09-18T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Boyish"
-      ],
-      "date": "2023-09-19T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Veronica Swift"
-      ],
-      "date": "2023-09-20T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Black Joe Lewis",
-        "Cities & Coasts"
-      ],
-      "date": "2023-09-21T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "MAN ON MAN",
-        "Factual Brains"
-      ],
-      "date": "2023-09-21T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "DEVOtional 2023"
-      ],
-      "date": "2023-09-22T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "DEVOtional 2023"
-      ],
-      "date": "2023-09-23T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Swans",
-        "Norman Westberg"
-      ],
-      "date": "2023-09-24T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Kiefer"
-      ],
-      "date": "2023-09-26T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "MONOPHONICS",
-        "Dos Santos"
-      ],
-      "date": "2023-09-27T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Fortunate Youth",
-        "Kash'd Out",
-        "Dubbest"
-      ],
-      "date": "2023-09-28T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Lemon Twigs",
-        "Joanna Sternberg"
-      ],
-      "date": "2023-09-29T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Baba Commandant and the Mandingo Band"
-      ],
-      "date": "2023-09-29T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Andy Frasco & The U.N."
-      ],
-      "date": "2023-09-29T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Falling Stars",
-        "The Laughing Chimes",
-        "The Style Section"
-      ],
-      "date": "2023-09-30T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Margaret Glaspy",
-        "Tasha"
-      ],
-      "date": "2023-10-3T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Margo Price",
-        "Brit Taylor"
-      ],
-      "date": "2023-10-3T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Boy Pablo"
-      ],
-      "date": "2023-10-4T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Cut Worms"
-      ],
-      "date": "2023-10-6T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Bitchin Bajas"
-      ],
-      "date": "2023-10-6T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Brook & the Bluff",
-        "Bendigo Fletcher"
-      ],
-      "date": "2023-10-7T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "mssv",
-        "C-Level"
-      ],
-      "date": "2023-10-7T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Cam Cole",
-        "Arthur Buezo"
-      ],
-      "date": "2023-10-8T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Southern Culture On the Skids",
-        "The Woggles"
-      ],
-      "date": "2023-10-11T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Dopapod",
-        "TAUK"
-      ],
-      "date": "2023-10-12T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Dylan Matthew",
-        "Caleb Hearn"
-      ],
-      "date": "2023-10-13T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Buffalo Nichols"
-      ],
-      "date": "2023-10-13T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Brown Eyed Women"
-      ],
-      "date": "2023-10-14T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Lewsberg",
-        "Obnox",
-        "Wrong Places"
-      ],
-      "date": "2023-10-14T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Chris Cresswell"
-      ],
-      "date": "2023-10-17T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Dale Watson",
-        "Matt Hillyer"
-      ],
-      "date": "2023-10-18T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Kiss The Tiger",
-        "The Buffalo Ryders"
-      ],
-      "date": "2023-10-18T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Carbon Leaf"
-      ],
-      "date": "2023-10-20T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Squirrel Flower",
-        "Truth Club"
-      ],
-      "date": "2023-10-20T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Messa + Maggot Heart"
-      ],
-      "date": "2023-10-21T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Zach Nugent's Dead Set"
-      ],
-      "date": "2023-10-22T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Be Your Own Pet",
-        "A Giant Dog",
-        "Birthday Girl"
-      ],
-      "date": "2023-10-23T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Laufey"
-      ],
-      "date": "2023-10-24T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Kings Kaleidoscope",
-        "Mike Mains and the Branches",
-        "Adam Paddock"
-      ],
-      "date": "2023-10-25T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Grateful Dub"
-      ],
-      "date": "2023-10-25T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Main Squeeze"
-      ],
-      "date": "2023-10-26T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Daisychain",
-        "Lilieae",
-        "Buzz Balldrin"
-      ],
-      "date": "2023-10-26T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Midnight",
-        "Black Death",
-        "Assault",
-        "Nunslaughter",
-        "Destructor"
-      ],
-      "date": "2023-10-27T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Walter Trout"
-      ],
-      "date": "2023-11-2T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Chirp",
-        "Sqwerv",
-        "The Chewy Center"
-      ],
-      "date": "2023-11-2T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Shane Smith & The Saints",
-        "Angel White",
-        "Calder Allen"
-      ],
-      "date": "2023-11-3T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "NOAH VONNE",
-        "BLUPHORIA"
-      ],
-      "date": "2023-11-5T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Grateful Shred"
-      ],
-      "date": "2023-11-5T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Kendra Morris"
-      ],
-      "date": "2023-11-6T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Screaming Females",
-        "Dusk",
-        "Grumpy Plum"
-      ],
-      "date": "2023-11-8T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Great Lakes Swimmers",
-        "Christian Lopez",
-        "Leslie Mendelson"
-      ],
-      "date": "2023-11-9T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "S.G. Goodman",
-        "Why Bonnie"
-      ],
-      "date": "2023-11-12T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "The Hotelier + Foxing"
-      ],
-      "date": "2023-11-12T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Shakey Graves"
-      ],
-      "date": "2023-11-16T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Pokey LaFarge"
-      ],
-      "date": "2023-12-3T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Angel Du$t",
-        "Candy",
-        "Dazy",
-        "Steve Marino"
-      ],
-      "date": "2023-12-6T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Pigeons Playing Ping Pong",
-        "Broccoli Samurai"
-      ],
-      "date": "2023-12-7T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Robert Jon & The Wreck"
-      ],
-      "date": "2023-12-7T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Ruen Brothers"
-      ],
-      "date": "2023-12-13T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Ann Marie: The Tripolar Tour"
-      ],
-      "date": "2023-08-13T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Wanted: Tribute To Bon Jovi"
-      ],
-      "date": "2023-08-18T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Bop To The Top feat Lucas Grabeel & Life By Michael: 18+"
-      ],
-      "date": "2023-08-25T20:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Sorry Papi Tour: The All Girl Party (18+ Only)"
-      ],
-      "date": "2023-08-26T21:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Soulja Boy"
-      ],
-      "date": "2023-08-27T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "X"
-      ],
-      "date": "2023-08-29T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Chl\u00f6e: The In Pieces Tour"
-      ],
-      "date": "2023-08-31T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Saved By The 90's"
-      ],
-      "date": "2023-09-01T20:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Corey Taylor"
-      ],
-      "date": "2023-09-07T18:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Hulvey: The Beautiful Tour"
-      ],
-      "date": "2023-09-07T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Ondara: The Rebirth Tour"
-      ],
-      "date": "2023-09-08T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "The Cancelled Podcast Tour With Tana Mongeau & Brooke Schofield"
-      ],
-      "date": "2023-09-08T19:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Local Natives: Time Will Wait For No One Tour"
-      ],
-      "date": "2023-09-09T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Everclear with The Ataris"
-      ],
-      "date": "2023-09-11T18:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "ZZ Ward: One Hell Of A Night Tour"
-      ],
-      "date": "2023-09-12T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Poppy & PVRIS: Godless / Goddess Tour"
-      ],
-      "date": "2023-09-14T18:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Drew Holcomb & The Neighbors: Find Your People Tour"
-      ],
-      "date": "2023-09-15T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Here Come the Mummies"
-      ],
-      "date": "2023-09-16T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "half\u00b7alive: Conditions of a Punk"
-      ],
-      "date": "2023-09-18T18:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "The Gaslight Anthem"
-      ],
-      "date": "2023-09-19T18:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "The Glorious Sons: The Glory Tour"
-      ],
-      "date": "2023-09-20T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Digable Planets Reachin' 30th Anniversary Tour"
-      ],
-      "date": "2023-09-21T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Nothing But Thieves"
-      ],
-      "date": "2023-09-22T18:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Dean Lewis: The Future Is Bright Tour"
-      ],
-      "date": "2023-09-23T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Yelawolf"
-      ],
-      "date": "2023-09-24T18:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Jake Miller"
-      ],
-      "date": "2023-09-24T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Sammy Rae & The Friends"
-      ],
-      "date": "2023-09-26T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "SALIVA and DROWNING POOL: SNAFU Le Tour Presented By WMMS"
-      ],
-      "date": "2023-09-27T18:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Head Automatica"
-      ],
-      "date": "2023-09-28T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Lauren Sanderson: IDC AT ALL Tour"
-      ],
-      "date": "2023-09-29T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Andy Frasco & The UN"
-      ],
-      "date": "2023-09-29T19:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Sammie: Love Always Wins Tour 2023"
-      ],
-      "date": "2023-09-30T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Eric Johnson"
-      ],
-      "date": "2023-10-01T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Chris Renzema: Manna Tour: with special guest Jess Ray"
-      ],
-      "date": "2023-10-03T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Christian French"
-      ],
-      "date": "2023-10-04T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Wheeler Walker, Jr.: The Spread Eagle Tour"
-      ],
-      "date": "2023-10-06T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "NoCap: The BirdNest Tour"
-      ],
-      "date": "2023-10-08T20:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Valley"
-      ],
-      "date": "2023-10-09T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "The Wonder Years: The Greatest Generation 10th Anniversary Tour"
-      ],
-      "date": "2023-10-11T18:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Moon Taxi With The Stews"
-      ],
-      "date": "2023-10-12T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Stephen Sanchez"
-      ],
-      "date": "2023-10-15T18:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "TV Girl"
-      ],
-      "date": "2023-10-17T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Danny Pellegrino: The Jolliest Bunch Book Tour"
-      ],
-      "date": "2023-10-18T20:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "The Red Clay Strays: Way Too Long Tour"
-      ],
-      "date": "2023-10-19T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Jessie Murph presents the Cowboys and Angels Tour"
-      ],
-      "date": "2023-10-20T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Boys Like Girls: The Speaking Our Language Tour presented by Emo Nite"
-      ],
-      "date": "2023-10-21T17:30:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "The Happy Fits: Under The Shade of Green"
-      ],
-      "date": "2023-10-22T18:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
-        "Southall: World Tour"
-      ],
-      "date": "2023-10-23T19:00:00",
-      "venue": "House of Blues"
-    },
-    {
-      "artist": [
         "Florry, Lake Philly, Shy Moon, Lake Philly, Shy Moon"
       ],
       "date": "2023-08-14T20:00:00",
@@ -1328,14 +165,14 @@
       "artist": [
         "SE SO NEON"
       ],
-      "date": "2023-09-0820:00:00",
+      "date": "2023-09-08T20:00:00",
       "venue": "Grog Shop"
     },
     {
       "artist": [
         "Pro3 Entertainment and The 5th Coast Presents : The Podcasters Mixer and Live filming"
       ],
-      "date": "2023-09-0820:00:00",
+      "date": "2023-09-08T20:00:00",
       "venue": "Grog Shop"
     },
     {
@@ -1680,6 +517,1452 @@
       ],
       "date": "2023-12-01T20:00:00",
       "venue": "Grog Shop"
+    },
+    {
+      "artist": [
+        "DETHKLOK & BABYMETAL, Jason Richardson"
+      ],
+      "date": "2023-09-06T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Jake Owen, Tyler Booth, Daves Highway"
+      ],
+      "date": "2023-09-07T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Tash Sultana, Go-Jo"
+      ],
+      "date": "2023-09-10T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Yung Bleu"
+      ],
+      "date": "2023-09-14T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Flogging Molly, The Bronx and Vandoliers"
+      ],
+      "date": "2023-09-15T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "The Mars Volta Tour, Teri Gender Bender"
+      ],
+      "date": "2023-09-16T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Royal Blood, Bad Nerves"
+      ],
+      "date": "2023-09-19T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Warren Zeiders, A Thousand Horses"
+      ],
+      "date": "2023-09-21T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Desi Banks"
+      ],
+      "date": "2023-09-22T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Ashnikko"
+      ],
+      "date": "2023-09-23T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Dance Gavin Dance, SiM, Rain City Drive, Within Destruction"
+      ],
+      "date": "2023-09-25T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "The Front Bottoms, Vundabar"
+      ],
+      "date": "2023-09-26T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Explosions In The Sky"
+      ],
+      "date": "2023-09-28T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Niko Moon, Jordan Harvey"
+      ],
+      "date": "2023-09-29T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "The Midnight, Flamingosis"
+      ],
+      "date": "2023-10-02T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Christopher Cross"
+      ],
+      "date": "2023-10-04T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Ilana Glazer Live!"
+      ],
+      "date": "2023-10-06T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Ghost Files Live!"
+      ],
+      "date": "2023-10-08T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Orny Adams"
+      ],
+      "date": "2023-10-13T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Bullet For My Valentine, Of Mice & Men, Vended"
+      ],
+      "date": "2023-10-18T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "San Holo Presents Existential Dance Music, DROELOE, OddKidOut"
+      ],
+      "date": "2023-10-19T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Chris D'Elia"
+      ],
+      "date": "2023-10-20T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Larry Fleet, Karley Scott Collins"
+      ],
+      "date": "2023-10-21T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Russell Dickerson, Restless Road"
+      ],
+      "date": "2023-10-26T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "TRAP KARAOKE: CLEVELAND"
+      ],
+      "date": "2023-10-27T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Mushroomhead, Hellzapoppin, Kurt Deimer, Fleischkrieg, Bittersweet Revenge, Twysted Asylum"
+      ],
+      "date": "2023-10-28T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Mark Normand"
+      ],
+      "date": "2023-11-03T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Teddy Swims"
+      ],
+      "date": "2023-11-05T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Tech N9ne & Hollywood Undead, King Iso"
+      ],
+      "date": "2023-11-06T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "DragonForce, Amaranthe, NanowaR Of Steel, Edge Of Paradise"
+      ],
+      "date": "2023-11-08T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "UNDERTAKER"
+      ],
+      "date": "2023-11-10T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Hot Mulligan, Heart Attack Man, Spanish Love Songs, Ben Quad"
+      ],
+      "date": "2023-11-11T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Vir Das"
+      ],
+      "date": "2023-11-12T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Shakey Graves, Rayland Baxter"
+      ],
+      "date": "2023-11-16T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Ian Munsick, Randall King"
+      ],
+      "date": "2023-11-17T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Wish You Were Here"
+      ],
+      "date": "2023-11-18T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "The Rock Orchestra by Candlelight"
+      ],
+      "date": "2023-11-19T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Baroness, Soul Glo, Spotlights, Cloud Rat"
+      ],
+      "date": "2023-11-24T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "LSDREAM, ZINGARA, Super Future"
+      ],
+      "date": "2023-12-03T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Pigeons Playing Ping Pong, Broccoli Samurai"
+      ],
+      "date": "2023-12-07T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "G Jones, IMANU, KOAN Sound, Sayer"
+      ],
+      "date": "2024-01-19T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Darcy & Jer"
+      ],
+      "date": "2024-02-18T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Jimbo's Drag Circus"
+      ],
+      "date": "2024-03-02T20:00:00",
+      "venue": "Agora"
+    },
+    {
+      "artist": [
+        "Ann Marie: The Tripolar Tour"
+      ],
+      "date": "2023-08-13T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Wanted: Tribute To Bon Jovi"
+      ],
+      "date": "2023-08-18T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Bop To The Top feat Lucas Grabeel & Life By Michael: 18+"
+      ],
+      "date": "2023-08-25T20:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Sorry Papi Tour: The All Girl Party (18+ Only)"
+      ],
+      "date": "2023-08-26T21:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Soulja Boy"
+      ],
+      "date": "2023-08-27T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "X"
+      ],
+      "date": "2023-08-29T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Chl\u00f6e: The In Pieces Tour"
+      ],
+      "date": "2023-08-31T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Saved By The 90's"
+      ],
+      "date": "2023-09-01T20:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Corey Taylor"
+      ],
+      "date": "2023-09-07T18:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Hulvey: The Beautiful Tour"
+      ],
+      "date": "2023-09-07T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Ondara: The Rebirth Tour"
+      ],
+      "date": "2023-09-08T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "The Cancelled Podcast Tour With Tana Mongeau & Brooke Schofield"
+      ],
+      "date": "2023-09-08T19:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Local Natives: Time Will Wait For No One Tour"
+      ],
+      "date": "2023-09-09T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Everclear with The Ataris"
+      ],
+      "date": "2023-09-11T18:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "ZZ Ward: One Hell Of A Night Tour"
+      ],
+      "date": "2023-09-12T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Poppy & PVRIS: Godless / Goddess Tour"
+      ],
+      "date": "2023-09-14T18:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Drew Holcomb & The Neighbors: Find Your People Tour"
+      ],
+      "date": "2023-09-15T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Here Come the Mummies"
+      ],
+      "date": "2023-09-16T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "half\u00b7alive: Conditions of a Punk"
+      ],
+      "date": "2023-09-18T18:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "The Gaslight Anthem"
+      ],
+      "date": "2023-09-19T18:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "The Glorious Sons: The Glory Tour"
+      ],
+      "date": "2023-09-20T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Digable Planets Reachin' 30th Anniversary Tour"
+      ],
+      "date": "2023-09-21T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Nothing But Thieves"
+      ],
+      "date": "2023-09-22T18:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Dean Lewis: The Future Is Bright Tour"
+      ],
+      "date": "2023-09-23T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Yelawolf"
+      ],
+      "date": "2023-09-24T18:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Jake Miller"
+      ],
+      "date": "2023-09-24T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Sammy Rae & The Friends"
+      ],
+      "date": "2023-09-26T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "SALIVA and DROWNING POOL: SNAFU Le Tour Presented By WMMS"
+      ],
+      "date": "2023-09-27T18:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Head Automatica"
+      ],
+      "date": "2023-09-28T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Lauren Sanderson: IDC AT ALL Tour"
+      ],
+      "date": "2023-09-29T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Andy Frasco & The UN"
+      ],
+      "date": "2023-09-29T19:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Sammie: Love Always Wins Tour 2023"
+      ],
+      "date": "2023-09-30T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Eric Johnson"
+      ],
+      "date": "2023-10-01T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Chris Renzema: Manna Tour: with special guest Jess Ray"
+      ],
+      "date": "2023-10-03T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Christian French"
+      ],
+      "date": "2023-10-04T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Wheeler Walker, Jr.: The Spread Eagle Tour"
+      ],
+      "date": "2023-10-06T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "NoCap: The BirdNest Tour"
+      ],
+      "date": "2023-10-08T20:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Valley"
+      ],
+      "date": "2023-10-09T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "The Wonder Years: The Greatest Generation 10th Anniversary Tour"
+      ],
+      "date": "2023-10-11T18:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Moon Taxi With The Stews"
+      ],
+      "date": "2023-10-12T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Stephen Sanchez"
+      ],
+      "date": "2023-10-15T18:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "TV Girl"
+      ],
+      "date": "2023-10-17T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Danny Pellegrino: The Jolliest Bunch Book Tour"
+      ],
+      "date": "2023-10-18T20:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "The Red Clay Strays: Way Too Long Tour"
+      ],
+      "date": "2023-10-19T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Jessie Murph presents the Cowboys and Angels Tour"
+      ],
+      "date": "2023-10-20T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Boys Like Girls: The Speaking Our Language Tour presented by Emo Nite"
+      ],
+      "date": "2023-10-21T17:30:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "The Happy Fits: Under The Shade of Green"
+      ],
+      "date": "2023-10-22T18:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Southall: World Tour"
+      ],
+      "date": "2023-10-23T19:00:00",
+      "venue": "House of Blues"
+    },
+    {
+      "artist": [
+        "Pre/Post Party with DJs Crow & Mojo"
+      ],
+      "date": "2023-08-14T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "American Football",
+        "AITIS BAND"
+      ],
+      "date": "2023-08-14T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Collection",
+        "AJ Smith",
+        "Nate Saggio"
+      ],
+      "date": "2023-08-15T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Albert Cummings",
+        "Brickhouse Blues Band"
+      ],
+      "date": "2023-08-15T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "American Darling",
+        "Skylar Keffer",
+        "Jake Briggs"
+      ],
+      "date": "2023-08-16T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Nick Moss Band featuring Dennis Gruenling",
+        "John Ban's Dogwater"
+      ],
+      "date": "2023-08-17T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Leo Drum Jam"
+      ],
+      "date": "2023-08-17T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "This Way Out"
+      ],
+      "date": "2023-08-18T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Zach Person",
+        "Shane Guerrette"
+      ],
+      "date": "2023-08-18T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Beachland Flea",
+        "AJ & The Woods",
+        "Biitchseat"
+      ],
+      "date": "2023-08-19T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "This Way Out"
+      ],
+      "date": "2023-08-19T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Frank Amato's Producers Showcase",
+        "6 Turning 4 Burning",
+        "Dreamstreet",
+        "Gracie Olivia"
+      ],
+      "date": "2023-08-19T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Detroit Cobras",
+        "Sugar Tradition"
+      ],
+      "date": "2023-08-19T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Robbie Fulks",
+        "The Shootouts (Acoustic Trio)"
+      ],
+      "date": "2023-08-20T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Ladrones",
+        "Hyper Viper",
+        "DJ Erin Ryan (WCSB's Bomb The Twist)"
+      ],
+      "date": "2023-08-21T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "tu-NER",
+        "CuDa, Schief & CuDa"
+      ],
+      "date": "2023-08-22T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Mikaela Davis",
+        "Southern Star"
+      ],
+      "date": "2023-08-22T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Legal Aid Society's Jam for Justice 2023"
+      ],
+      "date": "2023-08-23T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Pre/Post Party with DJs Chris & Heidi Kulscar"
+      ],
+      "date": "2023-08-24T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Baseball Project featuring Peter Buck, Scott McCaughey, Mike Mills, Linda Pitmon, and Steve"
+      ],
+      "date": "2023-08-24T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Messer Chups",
+        "Ichi Bons"
+      ],
+      "date": "2023-08-25T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Dry Reef",
+        "The Chewy Center"
+      ],
+      "date": "2023-08-25T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "After The Apocalypse",
+        "Inducing Panic",
+        "72 Legions",
+        "Hams",
+        "Heir To None",
+        "Psycho Plantation",
+        "The Great Iron Snake",
+        "Bessemer Saints"
+      ],
+      "date": "2023-08-26T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "3rd  Celebration of Cleveland Rock History"
+      ],
+      "date": "2023-08-27T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "TobyRaps",
+        "Honeyland",
+        "The Baggs Jazz Project",
+        "Quick Mystery",
+        "COE",
+        "Rent For Cheryl",
+        "Unc D",
+        "People in the Daytime"
+      ],
+      "date": "2023-08-27T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "BrewDog Beachland BINGO",
+        "DJ Advance"
+      ],
+      "date": "2023-08-29T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Drifting Roots",
+        "Lake Irie"
+      ],
+      "date": "2023-08-30T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Los Straitjackets",
+        "Jake La Botz Trio"
+      ],
+      "date": "2023-08-30T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Kari Faux",
+        "theMIND"
+      ],
+      "date": "2023-08-31T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Blaire Blades and The Backstabbers",
+        "The Little Ditties",
+        "TAMA",
+        "Andi Chakraborty"
+      ],
+      "date": "2023-08-31T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Austin Lucas"
+      ],
+      "date": "2023-09-03T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Split Squad",
+        "Dave Swanson's Mystery Airship"
+      ],
+      "date": "2023-09-06T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Yarn"
+      ],
+      "date": "2023-09-07T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Drag Pride Showcase"
+      ],
+      "date": "2023-09-08T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Nox Novacula",
+        "Hiram-Maxim"
+      ],
+      "date": "2023-09-08T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Jennifer Hartswick Band"
+      ],
+      "date": "2023-09-10T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Chris Pureka",
+        "Kym Register"
+      ],
+      "date": "2023-09-11T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Band of Heathens",
+        "Lilly Hiatt"
+      ],
+      "date": "2023-09-12T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Carolyn Wonderland",
+        "Kristine Jackson"
+      ],
+      "date": "2023-09-12T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Boris + Melvins",
+        "Mr. Phylzz"
+      ],
+      "date": "2023-09-14T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Clem Snide"
+      ],
+      "date": "2023-09-15T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Osees",
+        "Population II"
+      ],
+      "date": "2023-09-17T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Electric Blue Yonder"
+      ],
+      "date": "2023-09-18T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "David Wain & Ken Marino's Middle Age Dad Jam Band"
+      ],
+      "date": "2023-09-18T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Boyish"
+      ],
+      "date": "2023-09-19T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Veronica Swift"
+      ],
+      "date": "2023-09-20T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Black Joe Lewis",
+        "Cities & Coasts"
+      ],
+      "date": "2023-09-21T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "MAN ON MAN",
+        "Factual Brains"
+      ],
+      "date": "2023-09-21T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "DEVOtional 2023"
+      ],
+      "date": "2023-09-22T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "DEVOtional 2023"
+      ],
+      "date": "2023-09-23T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Swans",
+        "Norman Westberg"
+      ],
+      "date": "2023-09-24T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Kiefer"
+      ],
+      "date": "2023-09-26T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "MONOPHONICS",
+        "Dos Santos"
+      ],
+      "date": "2023-09-27T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Fortunate Youth",
+        "Kash'd Out",
+        "Dubbest"
+      ],
+      "date": "2023-09-28T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Lemon Twigs",
+        "Joanna Sternberg"
+      ],
+      "date": "2023-09-29T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Baba Commandant and the Mandingo Band"
+      ],
+      "date": "2023-09-29T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Andy Frasco & The U.N."
+      ],
+      "date": "2023-09-29T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Falling Stars",
+        "The Laughing Chimes",
+        "The Style Section"
+      ],
+      "date": "2023-09-30T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Margaret Glaspy",
+        "Tasha"
+      ],
+      "date": "2023-10-03T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Margo Price",
+        "Brit Taylor"
+      ],
+      "date": "2023-10-03T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Boy Pablo"
+      ],
+      "date": "2023-10-04T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Cut Worms"
+      ],
+      "date": "2023-10-06T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Bitchin Bajas"
+      ],
+      "date": "2023-10-06T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Brook & the Bluff",
+        "Bendigo Fletcher"
+      ],
+      "date": "2023-10-07T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "mssv",
+        "C-Level"
+      ],
+      "date": "2023-10-07T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Cam Cole",
+        "Arthur Buezo"
+      ],
+      "date": "2023-10-08T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Southern Culture On the Skids",
+        "The Woggles"
+      ],
+      "date": "2023-10-11T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Dopapod",
+        "TAUK"
+      ],
+      "date": "2023-10-12T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Dylan Matthew",
+        "Caleb Hearn"
+      ],
+      "date": "2023-10-13T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Buffalo Nichols"
+      ],
+      "date": "2023-10-13T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Brown Eyed Women"
+      ],
+      "date": "2023-10-14T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Lewsberg",
+        "Obnox",
+        "Wrong Places"
+      ],
+      "date": "2023-10-14T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Chris Cresswell"
+      ],
+      "date": "2023-10-17T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Dale Watson",
+        "Matt Hillyer"
+      ],
+      "date": "2023-10-18T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Kiss The Tiger",
+        "The Buffalo Ryders"
+      ],
+      "date": "2023-10-18T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Carbon Leaf"
+      ],
+      "date": "2023-10-20T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Squirrel Flower",
+        "Truth Club"
+      ],
+      "date": "2023-10-20T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Messa + Maggot Heart"
+      ],
+      "date": "2023-10-21T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Zach Nugent's Dead Set"
+      ],
+      "date": "2023-10-22T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Be Your Own Pet",
+        "A Giant Dog",
+        "Birthday Girl"
+      ],
+      "date": "2023-10-23T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Laufey"
+      ],
+      "date": "2023-10-24T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Kings Kaleidoscope",
+        "Mike Mains and the Branches",
+        "Adam Paddock"
+      ],
+      "date": "2023-10-25T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Grateful Dub"
+      ],
+      "date": "2023-10-25T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Main Squeeze"
+      ],
+      "date": "2023-10-26T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Daisychain",
+        "Lilieae",
+        "Buzz Balldrin"
+      ],
+      "date": "2023-10-26T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Midnight",
+        "Black Death",
+        "Assault",
+        "Nunslaughter",
+        "Destructor"
+      ],
+      "date": "2023-10-27T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Walter Trout"
+      ],
+      "date": "2023-11-02T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Chirp",
+        "Sqwerv",
+        "The Chewy Center"
+      ],
+      "date": "2023-11-02T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Shane Smith & The Saints",
+        "Angel White",
+        "Calder Allen"
+      ],
+      "date": "2023-11-03T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "NOAH VONNE",
+        "BLUPHORIA"
+      ],
+      "date": "2023-11-05T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Grateful Shred"
+      ],
+      "date": "2023-11-05T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Kendra Morris"
+      ],
+      "date": "2023-11-06T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Screaming Females",
+        "Dusk",
+        "Grumpy Plum"
+      ],
+      "date": "2023-11-08T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Great Lakes Swimmers",
+        "Christian Lopez",
+        "Leslie Mendelson"
+      ],
+      "date": "2023-11-09T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "S.G. Goodman",
+        "Why Bonnie"
+      ],
+      "date": "2023-11-12T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "The Hotelier + Foxing"
+      ],
+      "date": "2023-11-12T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Shakey Graves"
+      ],
+      "date": "2023-11-16T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Pokey LaFarge"
+      ],
+      "date": "2023-12-03T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Angel Du$t",
+        "Candy",
+        "Dazy",
+        "Steve Marino"
+      ],
+      "date": "2023-12-06T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Pigeons Playing Ping Pong",
+        "Broccoli Samurai"
+      ],
+      "date": "2023-12-07T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Robert Jon & The Wreck"
+      ],
+      "date": "2023-12-07T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Ruen Brothers"
+      ],
+      "date": "2023-12-13T20:00:00",
+      "venue": "Beachland"
     },
     {
       "artist": [
@@ -2156,307 +2439,6 @@
       ],
       "date": "2023-12-16T19:00:00-05:00",
       "venue": "Mahall\u2019s"
-    },
-    {
-      "artist": [
-        "DETHKLOK & BABYMETAL, Jason Richardson"
-      ],
-      "date": "2023-09-06T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Jake Owen, Tyler Booth, Daves Highway"
-      ],
-      "date": "2023-09-07T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Tash Sultana, Go-Jo"
-      ],
-      "date": "2023-09-10T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Yung Bleu"
-      ],
-      "date": "2023-09-14T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Flogging Molly, The Bronx and Vandoliers"
-      ],
-      "date": "2023-09-15T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "The Mars Volta Tour, Teri Gender Bender"
-      ],
-      "date": "2023-09-16T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Royal Blood, Bad Nerves"
-      ],
-      "date": "2023-09-19T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Warren Zeiders, A Thousand Horses"
-      ],
-      "date": "2023-09-21T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Desi Banks"
-      ],
-      "date": "2023-09-22T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Ashnikko"
-      ],
-      "date": "2023-09-23T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Dance Gavin Dance, SiM, Rain City Drive, Within Destruction"
-      ],
-      "date": "2023-09-25T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "The Front Bottoms, Vundabar"
-      ],
-      "date": "2023-09-26T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Explosions In The Sky"
-      ],
-      "date": "2023-09-28T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Niko Moon, Jordan Harvey"
-      ],
-      "date": "2023-09-29T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "The Midnight, Flamingosis"
-      ],
-      "date": "2023-10-02T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Christopher Cross"
-      ],
-      "date": "2023-10-04T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Ilana Glazer Live!"
-      ],
-      "date": "2023-10-06T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Ghost Files Live!"
-      ],
-      "date": "2023-10-08T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Orny Adams"
-      ],
-      "date": "2023-10-13T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Bullet For My Valentine, Of Mice & Men, Vended"
-      ],
-      "date": "2023-10-18T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "San Holo Presents Existential Dance Music, DROELOE, OddKidOut"
-      ],
-      "date": "2023-10-19T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Chris D'Elia"
-      ],
-      "date": "2023-10-20T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Larry Fleet, Karley Scott Collins"
-      ],
-      "date": "2023-10-21T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Russell Dickerson, Restless Road"
-      ],
-      "date": "2023-10-26T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "TRAP KARAOKE: CLEVELAND"
-      ],
-      "date": "2023-10-27T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Mushroomhead, Hellzapoppin, Kurt Deimer, Fleischkrieg, Bittersweet Revenge, Twysted Asylum"
-      ],
-      "date": "2023-10-28T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Mark Normand"
-      ],
-      "date": "2023-11-03T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Teddy Swims"
-      ],
-      "date": "2023-11-05T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Tech N9ne & Hollywood Undead, King Iso"
-      ],
-      "date": "2023-11-06T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "DragonForce, Amaranthe, NanowaR Of Steel, Edge Of Paradise"
-      ],
-      "date": "2023-11-08T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "UNDERTAKER"
-      ],
-      "date": "2023-11-10T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Hot Mulligan, Heart Attack Man, Spanish Love Songs, Ben Quad"
-      ],
-      "date": "2023-11-11T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Vir Das"
-      ],
-      "date": "2023-11-12T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Shakey Graves, Rayland Baxter"
-      ],
-      "date": "2023-11-16T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Ian Munsick, Randall King"
-      ],
-      "date": "2023-11-17T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Wish You Were Here"
-      ],
-      "date": "2023-11-18T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "The Rock Orchestra by Candlelight"
-      ],
-      "date": "2023-11-19T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Baroness, Soul Glo, Spotlights, Cloud Rat"
-      ],
-      "date": "2023-11-24T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "LSDREAM, ZINGARA, Super Future"
-      ],
-      "date": "2023-12-03T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Pigeons Playing Ping Pong, Broccoli Samurai"
-      ],
-      "date": "2023-12-07T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "G Jones, IMANU, KOAN Sound, Sayer"
-      ],
-      "date": "2024-01-19T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Darcy & Jer"
-      ],
-      "date": "2024-02-18T20:00:00",
-      "venue": "Agora"
-    },
-    {
-      "artist": [
-        "Jimbo's Drag Circus"
-      ],
-      "date": "2024-03-02T20:00:00",
-      "venue": "Agora"
     }
   ]
 }

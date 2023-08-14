@@ -18,19 +18,13 @@ all_shows_list = []
 for show in shows:
   # Empty object for each show, to be populated below
   all_shows_data = {} 
-  # Get the DOM element for the headliner
-  headliner = show.find("h1", class_="headliners")
-  # Get the DOM elements containing supporting acts
-  supports = show.find_all("span", class_="tw-artist-billing-0_75")
-  # Loop through all the supporting acts
-  for support in supports:
-    support.text.strip()
-  # If there are no supporting acts, only add the headliner to the object as the artist
-  if support.text.strip() == "":
-    all_shows_data['artist'] = headliner.text.strip()
-  # If there are supporting acts, add the headliner and the supports to the object as the artist
-  else:
-    all_shows_data['artist'] = headliner.text.strip() + ", " + support.text.strip()
+  # Get the DOM elements containing artists
+  artist_elements = show.find_all("span", class_="tw-artist")
+  artists_list = []
+  # Loop through all the artists, add them to the object
+  for artist in artist_elements:
+    artists_list.append(artist.text.strip())
+    all_shows_data['artist'] = artists_list
   # Get the date DOM element
   date = show.find("span", class_="event-date")
   # Get the date as plaintext, format it as YYYY-MM-(D)D, add it to the object

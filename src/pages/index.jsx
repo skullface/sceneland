@@ -32,15 +32,15 @@ export default function Home({ shows }) {
         <main>
           <section className='shows'>
             {shows.map((show, i) => (
-              <article key={i} className=''>
-                <h2>
+              <a href={show.link} key={i} className='show'>
+                <h2 className='artist'>
                   {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
                 </h2>
                 <time dateTime={new Date(show.date)}>
-                  {new Date(show.date).toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}
+                  {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
                 </time>
-                <p>{show.venue}</p>
-              </article>
+                <span className='venue'>{show.venue}</span>
+              </a>
             )).sort(compareChronological)}
           </section>
         </main>

@@ -25,6 +25,12 @@ for show in shows:
   for artist in artist_elements:
     artists_list.append(artist.text.strip())
     all_shows_data['artist'] = artists_list
+  # Get all links in the show container element
+  for link_element in show.findAll("a"):
+    # Ignore all links that aren't within an `<h1>`
+    if link_element.parent.name == "h1":
+       # Add the link to the object
+      all_shows_data['link'] = link_element["href"]
   # Get the date DOM element
   date = show.find("span", class_="event-date")
   # Get the date as plaintext, format it as YYYY-MM-(D)D, add it to the object

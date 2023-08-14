@@ -14,8 +14,10 @@ all_shows_list = []
 for show in shows:
   all_shows_data = {} 
   artist = show.find("h3", class_="css-1ptng6s")
+  link = show.find("a", class_="css-1yxfa6u")
   date = show.find("time")
   all_shows_data['artist'] = [artist.text.strip().replace(" - ", ": ")]
+  all_shows_data['link'] = link.get('href')
   all_shows_data['date'] = date.get('datetime')
   all_shows_data['venue'] = "House of Blues"
   all_shows_list.append(all_shows_data)

@@ -33,7 +33,9 @@ export default function Home({ shows }) {
           <section className='shows'>
             {shows.map((show, i) => (
               <article key={i} className=''>
-                <h2>{show.artist}</h2>
+                <h2>
+                  {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
+                </h2>
                 <time dateTime={new Date(show.date)}>
                   {new Date(show.date).toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}
                 </time>

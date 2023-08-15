@@ -31,6 +31,11 @@ for show in shows:
     if link_element.parent.name == "h1":
        # Add the link to the object
       all_shows_data['link'] = link_element["href"]
+  # Check if “sold out” element exists
+  sold_out = show.find("span", class_="st_soldout")
+  # If it does, add a `sold_out` boolean key as "true" to the object
+  if sold_out:
+    all_shows_data['sold_out'] = True
   # Get the date DOM element
   date = show.find("span", class_="event-date")
   # Get the date as plaintext, format it as YYYY-MM-(D)D, add it to the object

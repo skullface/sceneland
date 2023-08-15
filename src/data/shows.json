@@ -814,6 +814,7 @@
         "AITIS BAND"
       ],
       "link": "https://www.beachlandballroom.com/e/13242738/american-football-aitis-band",
+      "sold_out": true,
       "date": "2023-08-14T20:00:00",
       "venue": "Beachland"
     },
@@ -1198,6 +1199,7 @@
         "Population II"
       ],
       "link": "https://www.beachlandballroom.com/e/12868355/osees-population-ii",
+      "sold_out": true,
       "date": "2023-09-17T20:00:00",
       "venue": "Beachland"
     },
@@ -1534,6 +1536,7 @@
         "Laufey"
       ],
       "link": "https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour",
+      "sold_out": true,
       "date": "2023-10-24T20:00:00",
       "venue": "Beachland"
     },
@@ -1788,6 +1791,7 @@
         "BEN NICHOLS and TIM BARRY, Lulu and The Black Sheep"
       ],
       "link": "https://grogshop.gs/event-details/13318458/ben-nichols-and-tim-barry",
+      "sold_out": true,
       "date": "2023-08-19T20:00:00",
       "venue": "Grog Shop"
     },
@@ -2516,6 +2520,7 @@
         "The Red Jumpsuit Apparatus"
       ],
       "link": "https://link.dice.fm/paedde883895",
+      "sold_out": true,
       "date": "2023-09-14T19:00:00-04:00",
       "venue": "Mahall\u2019s"
     },
@@ -2660,6 +2665,7 @@
         "slowdive at The Roxy"
       ],
       "link": "https://link.dice.fm/w4af3377248b",
+      "sold_out": true,
       "date": "2023-10-02T19:00:00-04:00",
       "venue": "Mahall\u2019s"
     },

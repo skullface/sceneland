@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Paul Cherry"
-    ],
-    "link": "https://link.dice.fm/Nc47ba572e1f",
-    "date": "2023-08-14T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "ALEXSUCKS"
     ],
     "link": "https://link.dice.fm/d1fb5534c7da",
@@ -188,6 +180,7 @@
       "The Red Jumpsuit Apparatus"
     ],
     "link": "https://link.dice.fm/paedde883895",
+    "sold_out": true,
     "date": "2023-09-14T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -332,6 +325,7 @@
       "slowdive at The Roxy"
     ],
     "link": "https://link.dice.fm/w4af3377248b",
+    "sold_out": true,
     "date": "2023-10-02T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -473,17 +467,17 @@
   },
   {
     "artist": [
-      "Walter Etc."
+      "Into It. Over It."
     ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "link": "https://link.dice.fm/Ka4c8810172d",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Into It. Over It."
+      "Walter Etc."
     ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
+    "link": "https://link.dice.fm/ja5bf7c187cf",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },

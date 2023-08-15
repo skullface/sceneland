@@ -6,8 +6,8 @@ session = requests.Session()
 page = session.get('https://www.eventbrite.com/o/no-class-41123421913', headers={'User-Agent': 'Mozilla/5.0'})
 
 soup = BeautifulSoup(page.content, "html.parser")
-calendar = soup.find("div", class_="organizer-profile__event-renderer__grid")
-shows = calendar.find_all("div", class_="eds-event-card-content__content")
+calendar = soup.find("div", {"data-testid": "organizer-profile__future-events"})
+shows = calendar.find_all("article", class_="eds-event-card-content")
 
 all_shows_list = []
 

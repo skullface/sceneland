@@ -11,7 +11,7 @@ export const getStaticProps = async () => {
 
 export default function Home({ shows }) {
   function compareChronological(a, b) {
-    return new Date(a.props.children[1].props.dateTime) - new Date(b.props.children[1].props.dateTime)
+    return new Date(a.props.children[2].props.dateTime) - new Date(b.props.children[2].props.dateTime)
   }
 
   return (
@@ -32,9 +32,15 @@ export default function Home({ shows }) {
         <main>
           <section className='shows'>
             {shows.map((show, i) => (
-              <a href={show.link} key={i} className='show'>
+              <a
+                key={i}
+                href={show.link}
+                className='show group'
+              >
+                {show.sold_out && <span className='sold-out'>Sold out</span>}
                 <h2 className='artist'>
                   {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
+                  {' '}
                 </h2>
                 <time dateTime={new Date(show.date)}>
                   {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}

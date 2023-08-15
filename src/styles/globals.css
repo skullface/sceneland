@@ -34,6 +34,10 @@
     @apply font-bold text-zinc-800 dark:text-zinc-300 text-base leading-snug
   }
   
+  .sold-out {
+    @apply self-start border transition rounded-md [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2 py-1 text-xs font-medium whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
+  }
+  
   .venue {
     @apply font-semibold text-zinc-700 dark:text-zinc-400
   }

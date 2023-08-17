@@ -2,16 +2,6 @@
   "shows": [
     {
       "artist": [
-        "American Darling",
-        "Skylar Keffer",
-        "Jake Briggs"
-      ],
-      "link": "https://www.beachlandballroom.com/e/13445398/american-darling-skylar-keffer-jake-briggs",
-      "date": "2023-08-16T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
         "The Nick Moss Band featuring Dennis Gruenling",
         "John Ban's Dogwater"
       ],
@@ -76,9 +66,10 @@
     {
       "artist": [
         "The Detroit Cobras",
-        "Sugar Tradition"
+        "Sugar Tradition",
+        "DJ Mr. Fishtruck"
       ],
-      "link": "https://www.beachlandballroom.com/e/13192348/the-detroit-cobras-sugar-tradition",
+      "link": "https://www.beachlandballroom.com/e/13192348/the-detroit-cobras-sugar-tradition-dj-mr-fishtruck",
       "date": "2023-08-19T20:00:00",
       "venue": "Beachland"
     },
@@ -260,6 +251,21 @@
       ],
       "link": "https://www.beachlandballroom.com/e/13481568/blaire-blades-and-the-backstabbers-the-little-ditties-tama-andi-chakraborty",
       "date": "2023-08-31T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Shway Fest 2023",
+        "Charity Evonna",
+        "RADDERALL",
+        "Melted Strawberry",
+        "Mellowman Funk with MikeMike Dustyloops",
+        "Westside Io",
+        "E.Side4",
+        "Y.A.Y.A."
+      ],
+      "link": "https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-melted-strawberry-mellowman-funk-with-mikemike-dustyloops-westside-io-e-side4-y-a-y-a-",
+      "date": "2023-09-02T20:00:00",
       "venue": "Beachland"
     },
     {
@@ -561,9 +567,10 @@
     },
     {
       "artist": [
-        "Cut Worms"
+        "Cut Worms",
+        "Ryder The Eagle"
       ],
-      "link": "https://www.beachlandballroom.com/e/13258948/cut-worms",
+      "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle",
       "date": "2023-10-06T20:00:00",
       "venue": "Beachland"
     },
@@ -600,6 +607,14 @@
       ],
       "link": "https://www.beachlandballroom.com/e/13249758/cam-cole-arthur-buezo",
       "date": "2023-10-08T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Scott H. Biram"
+      ],
+      "link": "https://www.beachlandballroom.com/e/13510778/scott-h-biram",
+      "date": "2023-10-10T20:00:00",
       "venue": "Beachland"
     },
     {
@@ -819,6 +834,14 @@
     },
     {
       "artist": [
+        "Corb Lund"
+      ],
+      "link": "https://www.beachlandballroom.com/e/13506898/corb-lund",
+      "date": "2023-11-04T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
         "NOAH VONNE",
         "BLUPHORIA"
       ],
@@ -930,6 +953,14 @@
       ],
       "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
       "date": "2023-12-07T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Salami Rose Joe Louis"
+      ],
+      "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis",
+      "date": "2023-12-10T20:00:00",
       "venue": "Beachland"
     },
     {
@@ -1326,10 +1357,90 @@
     },
     {
       "artist": [
-        "SACRAMENTUM"
+        "96 BITTER BEINGS"
       ],
-      "link": "https://www.eventbrite.com/e/sacramentum-tickets-653079176397",
-      "date": "Tomorrow at 7:00 PMT20:00:00",
+      "link": "https://www.eventbrite.com/e/96-bitter-beings-tickets-654961516527",
+      "date": "2023-08-26T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "CODY MANSON"
+      ],
+      "link": "https://www.eventbrite.com/e/cody-manson-tickets-642514316617",
+      "date": "2023-08-31T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "200 STAB WOUNDS"
+      ],
+      "link": "https://www.eventbrite.com/e/200-stab-wounds-tickets-696104395987",
+      "date": "2023-09-08T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "MORTICIAN"
+      ],
+      "link": "https://www.eventbrite.com/e/mortician-tickets-628048870077",
+      "date": "2023-09-09T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "UADA"
+      ],
+      "link": "https://www.eventbrite.com/e/uada-tickets-679558737477",
+      "date": "2023-09-11T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "ESCAPE FROM THE ZOO"
+      ],
+      "link": "https://www.eventbrite.com/e/escape-from-the-zoo-tickets-684848649747",
+      "date": "2023-09-13T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "THE EXPLOITED"
+      ],
+      "link": "https://www.eventbrite.com/e/the-exploited-tickets-620250073667",
+      "date": "2023-09-14T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "VENOM INC"
+      ],
+      "link": "https://www.eventbrite.com/e/venom-inc-tickets-670913058017",
+      "date": "2023-09-28T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "ARTILLERY"
+      ],
+      "link": "https://www.eventbrite.com/e/artillery-tickets-660652378047",
+      "date": "2023-10-02T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "EXCITER"
+      ],
+      "link": "https://www.eventbrite.com/e/exciter-tickets-678146914677",
+      "date": "2023-10-14T20:00:00",
+      "venue": "No Class"
+    },
+    {
+      "artist": [
+        "FULL OF HELL"
+      ],
+      "link": "https://www.eventbrite.com/e/full-of-hell-tickets-654945308047",
+      "date": "2023-11-13T20:00:00",
       "venue": "No Class"
     },
     {
@@ -1419,110 +1530,6 @@
       "link": "https://www.eventbrite.com/e/full-of-hell-tickets-654945308047",
       "date": "2023-11-13T20:00:00",
       "venue": "No Class"
-    },
-    {
-      "artist": [
-        "SACRAMENTUM"
-      ],
-      "link": "https://www.eventbrite.com/e/sacramentum-tickets-653079176397",
-      "date": "Tomorrow at 7:00 PMT20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "96 BITTER BEINGS"
-      ],
-      "link": "https://www.eventbrite.com/e/96-bitter-beings-tickets-654961516527",
-      "date": "2023-08-26T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "CODY MANSON"
-      ],
-      "link": "https://www.eventbrite.com/e/cody-manson-tickets-642514316617",
-      "date": "2023-08-31T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "200 STAB WOUNDS"
-      ],
-      "link": "https://www.eventbrite.com/e/200-stab-wounds-tickets-696104395987",
-      "date": "2023-09-08T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "MORTICIAN"
-      ],
-      "link": "https://www.eventbrite.com/e/mortician-tickets-628048870077",
-      "date": "2023-09-09T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "UADA"
-      ],
-      "link": "https://www.eventbrite.com/e/uada-tickets-679558737477",
-      "date": "2023-09-11T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "ESCAPE FROM THE ZOO"
-      ],
-      "link": "https://www.eventbrite.com/e/escape-from-the-zoo-tickets-684848649747",
-      "date": "2023-09-13T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "THE EXPLOITED"
-      ],
-      "link": "https://www.eventbrite.com/e/the-exploited-tickets-620250073667",
-      "date": "2023-09-14T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "VENOM INC"
-      ],
-      "link": "https://www.eventbrite.com/e/venom-inc-tickets-670913058017",
-      "date": "2023-09-28T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "ARTILLERY"
-      ],
-      "link": "https://www.eventbrite.com/e/artillery-tickets-660652378047",
-      "date": "2023-10-02T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "EXCITER"
-      ],
-      "link": "https://www.eventbrite.com/e/exciter-tickets-678146914677",
-      "date": "2023-10-14T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "FULL OF HELL"
-      ],
-      "link": "https://www.eventbrite.com/e/full-of-hell-tickets-654945308047",
-      "date": "2023-11-13T20:00:00",
-      "venue": "No Class"
-    },
-    {
-      "artist": [
-        "Sweeping Promises, Disintegration, Suitor"
-      ],
-      "link": "https://grogshop.gs/event-details/13187898/sweeping-promises",
-      "date": "2023-08-16T20:00:00",
-      "venue": "Grog Shop"
     },
     {
       "artist": [
@@ -1720,7 +1727,7 @@
     },
     {
       "artist": [
-        "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve"
+        "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve, Messmaker"
       ],
       "link": "https://grogshop.gs/event-details/13434768/fred-mascherino-the-color-fred-ex-taking-back-sunday-",
       "date": "2023-09-11T20:00:00",
@@ -2096,11 +2103,11 @@
     },
     {
       "artist": [
-        "Weathers and Almost Monday"
+        "The Flatliners Present The Holiday Melee"
       ],
-      "link": "https://link.dice.fm/E5655d7294b1",
-      "date": "2023-08-16T18:00:00-04:00",
-      "venue": "Mahall\u2019s"
+      "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
+      "date": "2023-12-15T20:00:00",
+      "venue": "Grog Shop"
     },
     {
       "artist": [
@@ -2353,17 +2360,17 @@
     },
     {
       "artist": [
-        "Autopilot"
+        "The Astronomers"
       ],
-      "link": "https://link.dice.fm/T4381d524f65",
+      "link": "https://link.dice.fm/s4cada23b8e0",
       "date": "2023-09-26T19:00:00-04:00",
       "venue": "Mahall\u2019s"
     },
     {
       "artist": [
-        "The Astronomers"
+        "Autopilot"
       ],
-      "link": "https://link.dice.fm/s4cada23b8e0",
+      "link": "https://link.dice.fm/T4381d524f65",
       "date": "2023-09-26T19:00:00-04:00",
       "venue": "Mahall\u2019s"
     },
@@ -2554,17 +2561,17 @@
     },
     {
       "artist": [
-        "Walter Etc."
+        "Into It. Over It."
       ],
-      "link": "https://link.dice.fm/ja5bf7c187cf",
+      "link": "https://link.dice.fm/Ka4c8810172d",
       "date": "2023-11-08T19:00:00-05:00",
       "venue": "Mahall\u2019s"
     },
     {
       "artist": [
-        "Into It. Over It."
+        "Walter Etc."
       ],
-      "link": "https://link.dice.fm/Ka4c8810172d",
+      "link": "https://link.dice.fm/ja5bf7c187cf",
       "date": "2023-11-08T19:00:00-05:00",
       "venue": "Mahall\u2019s"
     },
@@ -2574,6 +2581,14 @@
       ],
       "link": "https://link.dice.fm/J8ea137aa7aa",
       "date": "2023-11-09T18:00:00-05:00",
+      "venue": "Mahall\u2019s"
+    },
+    {
+      "artist": [
+        "Chase Petra and Carpool Tunnel"
+      ],
+      "link": "https://link.dice.fm/m8113a5c6215",
+      "date": "2023-11-14T19:00:00-05:00",
       "venue": "Mahall\u2019s"
     },
     {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sweeping Promises, Disintegration, Suitor"
-    ],
-    "link": "https://grogshop.gs/event-details/13187898/sweeping-promises",
-    "date": "2023-08-16T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Lovataraxx, / Bias Selector, / GRVE, / Wander, Bias Selector, GRVE, Wander"
     ],
     "link": "https://grogshop.gs/event-details/13393678/lovataraxx-bias-selector-grve-wander",
@@ -203,7 +195,7 @@
   },
   {
     "artist": [
-      "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve"
+      "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve, Messmaker"
     ],
     "link": "https://grogshop.gs/event-details/13434768/fred-mascherino-the-color-fred-ex-taking-back-sunday-",
     "date": "2023-09-11T20:00:00",
@@ -575,6 +567,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls",
     "date": "2023-12-01T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Flatliners Present The Holiday Melee"
+    ],
+    "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
+    "date": "2023-12-15T20:00:00",
     "venue": "Grog Shop"
   }
 ]

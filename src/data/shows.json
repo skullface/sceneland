@@ -2,23 +2,6 @@
   "shows": [
     {
       "artist": [
-        "The Nick Moss Band featuring Dennis Gruenling",
-        "John Ban's Dogwater"
-      ],
-      "link": "https://www.beachlandballroom.com/e/13355338/the-nick-moss-band-featuring-dennis-gruenling-john-ban-s-dogwater",
-      "date": "2023-08-17T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
-        "Leo Drum Jam"
-      ],
-      "link": "https://www.beachlandballroom.com/e/13474958/leo-drum-jam",
-      "date": "2023-08-17T20:00:00",
-      "venue": "Beachland"
-    },
-    {
-      "artist": [
         "This Way Out"
       ],
       "link": "https://www.beachlandballroom.com/e/13486178/this-way-out",
@@ -37,10 +20,10 @@
     {
       "artist": [
         "Beachland Flea",
-        "AJ & The Woods",
-        "Biitchseat"
+        "AJ & The Woods (2pm)",
+        "Biitchseat (1pm)"
       ],
-      "link": "https://www.beachlandballroom.com/e/13146048/beachland-flea-aj-the-woods-biitchseat",
+      "link": "https://www.beachlandballroom.com/e/13146048/beachland-flea-aj-the-woods-2pm-biitchseat-1pm-",
       "date": "2023-08-19T20:00:00",
       "venue": "Beachland"
     },
@@ -251,6 +234,14 @@
       ],
       "link": "https://www.beachlandballroom.com/e/13481568/blaire-blades-and-the-backstabbers-the-little-ditties-tama-andi-chakraborty",
       "date": "2023-08-31T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Sh\u0101k\u0113 Ground"
+      ],
+      "link": "https://www.beachlandballroom.com/e/13514508/sh-k-ground",
+      "date": "2023-09-01T20:00:00",
       "venue": "Beachland"
     },
     {
@@ -646,9 +637,10 @@
     },
     {
       "artist": [
-        "Buffalo Nichols"
+        "Buffalo Nichols",
+        "Austin \"Walkin\" Cane"
       ],
-      "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols",
+      "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane",
       "date": "2023-10-13T20:00:00",
       "venue": "Beachland"
     },
@@ -830,6 +822,14 @@
       ],
       "link": "https://www.beachlandballroom.com/e/13336088/shane-smith-the-saints-angel-white-calder-allen",
       "date": "2023-11-03T20:00:00",
+      "venue": "Beachland"
+    },
+    {
+      "artist": [
+        "Ryan Montbleau Band"
+      ],
+      "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band",
+      "date": "2023-11-04T20:00:00",
       "venue": "Beachland"
     },
     {
@@ -1533,15 +1533,7 @@
     },
     {
       "artist": [
-        "Lovataraxx, / Bias Selector, / GRVE, / Wander, Bias Selector, GRVE, Wander"
-      ],
-      "link": "https://grogshop.gs/event-details/13393678/lovataraxx-bias-selector-grve-wander",
-      "date": "2023-08-17T20:00:00",
-      "venue": "Grog Shop"
-    },
-    {
-      "artist": [
-        "AJJ, Open Mike Eagle, Sad Park, Foot Ox"
+        "AJJ, Sad Park, Foot Ox"
       ],
       "link": "https://grogshop.gs/event-details/13253248/ajj",
       "sold_out": true,
@@ -1553,7 +1545,6 @@
         "BEN NICHOLS and TIM BARRY, Lulu and The Black Sheep"
       ],
       "link": "https://grogshop.gs/event-details/13318458/ben-nichols-and-tim-barry",
-      "sold_out": true,
       "date": "2023-08-19T20:00:00",
       "venue": "Grog Shop"
     },
@@ -1679,7 +1670,7 @@
     },
     {
       "artist": [
-        "Alex Cameron & Roy Molloy, Toyon"
+        "Alex Cameron & Roy Molloy, Toyon, Mikey Silas"
       ],
       "link": "https://grogshop.gs/event-details/13495618/alex-cameron-roy-molloy",
       "date": "2023-09-07T20:00:00",
@@ -1839,6 +1830,14 @@
     },
     {
       "artist": [
+        "The Monday Program, The Monday Program"
+      ],
+      "link": "https://grogshop.gs/event-details/13512138/the-monday-program",
+      "date": "2023-09-22T20:00:00",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": [
         "Helmet, Soul Blind, Soul Blind"
       ],
       "link": "https://grogshop.gs/event-details/13420068/helmet-soul-blind",
@@ -1943,6 +1942,14 @@
     },
     {
       "artist": [
+        "Mustard Service, JW Francis"
+      ],
+      "link": "https://grogshop.gs/event-details/13504718/mustard-service",
+      "date": "2023-10-08T20:00:00",
+      "venue": "Grog Shop"
+    },
+    {
+      "artist": [
         "CIVIC, The Hell, Show Pink"
       ],
       "link": "https://grogshop.gs/event-details/13195478/civic-the-hell-show-pink",
@@ -1991,9 +1998,9 @@
     },
     {
       "artist": [
-        "N8NOFACE, Uniity, Uniity"
+        "N8NOFACE, Uniity, Bias Selector, Uniity, Bias Selector"
       ],
-      "link": "https://grogshop.gs/event-details/13445988/n8noface-uniity",
+      "link": "https://grogshop.gs/event-details/13445988/n8noface-uniity-bias-selector",
       "date": "2023-10-16T20:00:00",
       "venue": "Grog Shop"
     },
@@ -2259,6 +2266,14 @@
       ],
       "link": "https://link.dice.fm/u04095dbbc48",
       "date": "2023-09-12T18:30:00-04:00",
+      "venue": "Mahall\u2019s"
+    },
+    {
+      "artist": [
+        "Mahall's Vegan Market"
+      ],
+      "link": "https://link.dice.fm/F56b5955189f",
+      "date": "2023-09-13T17:00:00-04:00",
       "venue": "Mahall\u2019s"
     },
     {
@@ -2561,17 +2576,17 @@
     },
     {
       "artist": [
-        "Into It. Over It."
+        "Walter Etc."
       ],
-      "link": "https://link.dice.fm/Ka4c8810172d",
+      "link": "https://link.dice.fm/ja5bf7c187cf",
       "date": "2023-11-08T19:00:00-05:00",
       "venue": "Mahall\u2019s"
     },
     {
       "artist": [
-        "Walter Etc."
+        "Into It. Over It."
       ],
-      "link": "https://link.dice.fm/ja5bf7c187cf",
+      "link": "https://link.dice.fm/Ka4c8810172d",
       "date": "2023-11-08T19:00:00-05:00",
       "venue": "Mahall\u2019s"
     },

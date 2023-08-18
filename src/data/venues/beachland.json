@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "The Nick Moss Band featuring Dennis Gruenling",
-      "John Ban's Dogwater"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13355338/the-nick-moss-band-featuring-dennis-gruenling-john-ban-s-dogwater",
-    "date": "2023-08-17T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "Leo Drum Jam"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13474958/leo-drum-jam",
-    "date": "2023-08-17T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
       "This Way Out"
     ],
     "link": "https://www.beachlandballroom.com/e/13486178/this-way-out",
@@ -36,10 +19,10 @@
   {
     "artist": [
       "Beachland Flea",
-      "AJ & The Woods",
-      "Biitchseat"
+      "AJ & The Woods (2pm)",
+      "Biitchseat (1pm)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13146048/beachland-flea-aj-the-woods-biitchseat",
+    "link": "https://www.beachlandballroom.com/e/13146048/beachland-flea-aj-the-woods-2pm-biitchseat-1pm-",
     "date": "2023-08-19T20:00:00",
     "venue": "Beachland"
   },
@@ -250,6 +233,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13481568/blaire-blades-and-the-backstabbers-the-little-ditties-tama-andi-chakraborty",
     "date": "2023-08-31T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Sh\u0101k\u0113 Ground"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13514508/sh-k-ground",
+    "date": "2023-09-01T20:00:00",
     "venue": "Beachland"
   },
   {
@@ -645,9 +636,10 @@
   },
   {
     "artist": [
-      "Buffalo Nichols"
+      "Buffalo Nichols",
+      "Austin \"Walkin\" Cane"
     ],
-    "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols",
+    "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane",
     "date": "2023-10-13T20:00:00",
     "venue": "Beachland"
   },
@@ -829,6 +821,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13336088/shane-smith-the-saints-angel-white-calder-allen",
     "date": "2023-11-03T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Ryan Montbleau Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band",
+    "date": "2023-11-04T20:00:00",
     "venue": "Beachland"
   },
   {

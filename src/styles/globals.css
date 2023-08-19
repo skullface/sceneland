@@ -27,18 +27,18 @@
   }
   
   .show {
-    @apply bg-white dark:bg-zinc-900 flex flex-col border border-zinc-200 dark:border-zinc-800 rounded text-sm leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10
+    @apply bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10
   }
   
   .artist {
-    @apply font-bold text-zinc-800 dark:text-zinc-300 text-base leading-snug
+    @apply font-semibold text-zinc-800 dark:text-zinc-300 text-lg leading-tight tracking-[-0.02em]
   }
   
   .sold-out {
-    @apply self-start border transition rounded-md [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2 py-1 text-xs font-medium whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
+    @apply font-mono self-start border transition rounded-md [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2 py-1 text-xs font-medium whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
   }
-  
+
   .venue {
-    @apply font-semibold text-zinc-700 dark:text-zinc-400
+    @apply mt-3 font-medium text-zinc-800 dark:text-zinc-300 
   }
 }

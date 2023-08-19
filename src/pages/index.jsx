@@ -24,9 +24,13 @@ export default function Home({ shows }) {
       </Head>
       
       <div>
-        <header>
-          <h1>216.show<span className='hidden md:inline'>: Music in Cleveland</span></h1>
-          <p>Concerts coming up at the Beachland, Agora, Mahall’s, and more.</p>
+        <header className='text-center'>
+          <h1 className='text-6xl tracking-tight font-semibold'>
+            216.show
+          </h1>
+          <p className='font-mono'>
+            Cleveland concerts coming up at the Beachland, Agora, Mahall’s, and more.
+          </p>
         </header>
         
         <main>
@@ -35,7 +39,7 @@ export default function Home({ shows }) {
               <a
                 key={i}
                 href={show.link}
-                className='show group'
+                className='show group flex flex-col h-full'
               >
                 {show.sold_out && <span className='sold-out'>Sold out</span>}
                 <h2 className='artist'>
@@ -45,7 +49,7 @@ export default function Home({ shows }) {
                 <time dateTime={new Date(show.date)}>
                   {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
                 </time>
-                <span className='venue'>{show.venue}</span>
+                <span className='venue flex-1 flex items-end'>{show.venue}</span>
               </a>
             )).sort(compareChronological)}
           </section>

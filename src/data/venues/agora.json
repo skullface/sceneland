@@ -217,6 +217,14 @@
   },
   {
     "artist": [
+      "Grace Potter"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/498022",
+    "date": "2023-11-04T20:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Teddy Swims"
     ],
     "link": "https://www.agoracleveland.com/events/detail/488227",
@@ -309,14 +317,6 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/489352",
     "date": "2023-12-03T20:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Pigeons Playing Ping Pong, Broccoli Samurai"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/496570",
-    "date": "2023-12-07T20:00:00",
     "venue": "Agora"
   }
 ]

@@ -1,92 +1,11 @@
 [
   {
     "artist": [
-      "Pre/Post Party with DJs Crow & Mojo"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13457218/pre-post-party-with-djs-crow-mojo",
-    "date": "2023-08-14T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "American Football",
-      "AITIS BAND"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13242738/american-football-aitis-band",
-    "sold_out": true,
-    "date": "2023-08-14T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "The Collection",
-      "AJ Smith",
-      "Nate Saggio"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13238658/the-collection-aj-smith-nate-saggio",
-    "date": "2023-08-15T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "Albert Cummings",
-      "Brickhouse Blues Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13405338/albert-cummings-brickhouse-blues-band",
-    "date": "2023-08-15T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "American Darling",
-      "Skylar Keffer",
-      "Jake Briggs"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13445398/american-darling-skylar-keffer-jake-briggs",
-    "date": "2023-08-16T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "The Nick Moss Band featuring Dennis Gruenling",
-      "John Ban's Dogwater"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13355338/the-nick-moss-band-featuring-dennis-gruenling-john-ban-s-dogwater",
-    "date": "2023-08-17T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "Leo Drum Jam"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13474958/leo-drum-jam",
-    "date": "2023-08-17T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "This Way Out"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13486178/this-way-out",
-    "date": "2023-08-18T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "Zach Person",
-      "Shane Guerrette"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13359198/zach-person-shane-guerrette",
-    "date": "2023-08-18T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
       "Beachland Flea",
-      "AJ & The Woods",
-      "Biitchseat"
+      "AJ & The Woods (2pm)",
+      "Biitchseat (1pm)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13146048/beachland-flea-aj-the-woods-biitchseat",
+    "link": "https://www.beachlandballroom.com/e/13146048/beachland-flea-aj-the-woods-2pm-biitchseat-1pm-",
     "date": "2023-08-19T20:00:00",
     "venue": "Beachland"
   },
@@ -112,9 +31,10 @@
   {
     "artist": [
       "The Detroit Cobras",
-      "Sugar Tradition"
+      "Sugar Tradition",
+      "DJ Mr. Fishtruck"
     ],
-    "link": "https://www.beachlandballroom.com/e/13192348/the-detroit-cobras-sugar-tradition",
+    "link": "https://www.beachlandballroom.com/e/13192348/the-detroit-cobras-sugar-tradition-dj-mr-fishtruck",
     "date": "2023-08-19T20:00:00",
     "venue": "Beachland"
   },
@@ -173,9 +93,9 @@
   },
   {
     "artist": [
-      "The Baseball Project featuring Peter Buck, Scott McCaughey, Mike Mills, Linda Pitmon, and Steve"
+      "The Baseball Project feat. Peter Buck, Scott McCaughey, Mike Mills, Linda Pitmon, & Steve Wynn"
     ],
-    "link": "https://www.beachlandballroom.com/e/13118375/the-baseball-project-featuring-peter-buck-scott-mccaughey-mike-mills-linda-pitmon-and-steve",
+    "link": "https://www.beachlandballroom.com/e/13118375/the-baseball-project-feat-peter-buck-scott-mccaughey-mike-mills-linda-pitmon-steve-wynn",
     "date": "2023-08-24T20:00:00",
     "venue": "Beachland"
   },
@@ -281,9 +201,10 @@
   {
     "artist": [
       "Kari Faux",
-      "theMIND"
+      "theMIND",
+      "Navy Jayde"
     ],
-    "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind",
+    "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind-navy-jayde",
     "date": "2023-08-31T20:00:00",
     "venue": "Beachland"
   },
@@ -300,10 +221,44 @@
   },
   {
     "artist": [
+      "Sh\u0101k\u0113 Ground"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13514508/sh-k-ground",
+    "date": "2023-09-01T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Shway Fest 2023",
+      "Charity Evonna",
+      "RADDERALL",
+      "Melted Strawberry",
+      "Mellowman Funk with MikeMike Dustyloops",
+      "Westside Io",
+      "E.Side4",
+      "Y.A.Y.A."
+    ],
+    "link": "https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-melted-strawberry-mellowman-funk-with-mikemike-dustyloops-westside-io-e-side4-y-a-y-a-",
+    "date": "2023-09-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
       "Austin Lucas"
     ],
     "link": "https://www.beachlandballroom.com/e/13496558/austin-lucas",
     "date": "2023-09-03T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Racket Man",
+      "Sun Junkies",
+      "Fruitfly",
+      "Girl Cologne"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13508328/racket-man-sun-junkies-fruitfly-girl-cologne",
+    "date": "2023-09-05T20:00:00",
     "venue": "Beachland"
   },
   {
@@ -317,9 +272,10 @@
   },
   {
     "artist": [
-      "Yarn"
+      "Yarn",
+      "James McKeivier"
     ],
-    "link": "https://www.beachlandballroom.com/e/13364478/yarn",
+    "link": "https://www.beachlandballroom.com/e/13364478/yarn-james-mckeivier",
     "date": "2023-09-07T20:00:00",
     "venue": "Beachland"
   },
@@ -334,9 +290,10 @@
   {
     "artist": [
       "Nox Novacula",
+      "Uniity",
       "Hiram-Maxim"
     ],
-    "link": "https://www.beachlandballroom.com/e/13317238/nox-novacula-hiram-maxim",
+    "link": "https://www.beachlandballroom.com/e/13317238/nox-novacula-uniity-hiram-maxim",
     "date": "2023-09-08T20:00:00",
     "venue": "Beachland"
   },
@@ -390,6 +347,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13155758/clem-snide",
     "date": "2023-09-15T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Deke Dickerson with Crazy Joe Tritschler & Kyle Eldridge"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13503618/deke-dickerson-with-crazy-joe-tritschler-kyle-eldridge",
+    "date": "2023-09-16T20:00:00",
     "venue": "Beachland"
   },
   {
@@ -541,6 +506,15 @@
   },
   {
     "artist": [
+      "Travis Larson Band",
+      "Ego"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13504178/travis-larson-band-ego",
+    "date": "2023-10-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
       "Margaret Glaspy",
       "Tasha"
     ],
@@ -567,9 +541,10 @@
   },
   {
     "artist": [
-      "Cut Worms"
+      "Cut Worms",
+      "Ryder The Eagle"
     ],
-    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms",
+    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle",
     "date": "2023-10-06T20:00:00",
     "venue": "Beachland"
   },
@@ -610,6 +585,14 @@
   },
   {
     "artist": [
+      "Scott H. Biram"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13510778/scott-h-biram",
+    "date": "2023-10-10T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
       "Southern Culture On the Skids",
       "The Woggles"
     ],
@@ -637,9 +620,10 @@
   },
   {
     "artist": [
-      "Buffalo Nichols"
+      "Buffalo Nichols",
+      "Austin \"Walkin\" Cane"
     ],
-    "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols",
+    "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane",
     "date": "2023-10-13T20:00:00",
     "venue": "Beachland"
   },
@@ -825,6 +809,22 @@
   },
   {
     "artist": [
+      "Ryan Montbleau Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band",
+    "date": "2023-11-04T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Corb Lund"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13506898/corb-lund",
+    "date": "2023-11-04T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
       "NOAH VONNE",
       "BLUPHORIA"
     ],
@@ -870,6 +870,14 @@
   },
   {
     "artist": [
+      "Mike Doughty and Ghost of Vroom"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
+    "date": "2023-11-11T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
       "S.G. Goodman",
       "Why Bonnie"
     ],
@@ -887,9 +895,10 @@
   },
   {
     "artist": [
-      "Shakey Graves"
+      "Shakey Graves",
+      "Rayland Baxter"
     ],
-    "link": "https://www.beachlandballroom.com/e/13387938/shakey-graves",
+    "link": "https://www.beachlandballroom.com/e/13387938/shakey-graves-rayland-baxter",
     "date": "2023-11-16T20:00:00",
     "venue": "Beachland"
   },
@@ -927,6 +936,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
     "date": "2023-12-07T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Salami Rose Joe Louis"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis",
+    "date": "2023-12-10T20:00:00",
     "venue": "Beachland"
   },
   {

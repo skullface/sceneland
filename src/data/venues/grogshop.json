@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "AJJ, Sad Park, Foot Ox"
-    ],
-    "link": "https://grogshop.gs/event-details/13253248/ajj",
-    "sold_out": true,
-    "date": "2023-08-18T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "BEN NICHOLS and TIM BARRY, Lulu and The Black Sheep"
     ],
     "link": "https://grogshop.gs/event-details/13318458/ben-nichols-and-tim-barry",
+    "sold_out": true,
     "date": "2023-08-19T20:00:00",
     "venue": "Grog Shop"
   },
@@ -298,9 +290,9 @@
   },
   {
     "artist": [
-      "The Monday Program, The Monday Program"
+      "The Monday Program, Mellowman Funk, Sierra Delaine, Trav Hen"
     ],
-    "link": "https://grogshop.gs/event-details/13512138/the-monday-program",
+    "link": "https://grogshop.gs/event-details/13512138/the-monday-program-mellowman-funk-sierra-delaine-trav-hen",
     "date": "2023-09-22T20:00:00",
     "venue": "Grog Shop"
   },
@@ -574,6 +566,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls",
     "date": "2023-12-01T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Nolan Taylor"
+    ],
+    "link": "https://grogshop.gs/event-details/13516538/nolan-taylor",
+    "date": "2023-12-02T20:00:00",
     "venue": "Grog Shop"
   },
   {

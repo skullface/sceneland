@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "This Way Out"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13486178/this-way-out",
-    "date": "2023-08-18T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "Zach Person",
-      "Shane Guerrette"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13359198/zach-person-shane-guerrette",
-    "date": "2023-08-18T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
       "Beachland Flea",
       "AJ & The Woods (2pm)",
       "Biitchseat (1pm)"
@@ -218,9 +201,10 @@
   {
     "artist": [
       "Kari Faux",
-      "theMIND"
+      "theMIND",
+      "Navy Jayde"
     ],
-    "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind",
+    "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind-navy-jayde",
     "date": "2023-08-31T20:00:00",
     "venue": "Beachland"
   },

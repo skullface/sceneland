@@ -321,6 +321,14 @@
   },
   {
     "artist": [
+      "Jacquees: Sincerely For You Tour"
+    ],
+    "link": "https://concerts.livenation.com/jacquees-sincerely-for-you-tour-cleveland-ohio-10-16-2023/event/05005F0F1FAD7D3B",
+    "date": "2023-10-16T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "TV Girl"
     ],
     "link": "https://concerts.livenation.com/tv-girl-cleveland-ohio-10-17-2023/event/05005EAA26518F6B",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C",
     "date": "2023-10-23T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Laufey: The Bewitched Tour"
-    ],
-    "link": "https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA",
-    "date": "2023-10-24T19:00:00",
     "venue": "House of Blues"
   }
 ]

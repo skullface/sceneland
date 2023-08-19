@@ -14,8 +14,14 @@ all_shows_list = []
 for show in shows:
   all_shows_data = {} 
   artist = show.find("h1", class_="eventlist-title")
+  link_preorder = show.find("a", string="PRESALE TICKETS")
+  link_general = show.find("a", class_="eventlist-button")
   date = show.find("time", class_="event-date")
   all_shows_data['artist'] = [artist.text.strip()]
+  if link_preorder:
+    all_shows_data['link'] = link_preorder.get('href')
+  else:
+    all_shows_data['link'] = "https://www.noclasscle.com" + link_general.get('href')
   all_shows_data['date'] = date.get('datetime') + "T20:00:00"
   all_shows_data['venue'] = "No Class"
   all_shows_list.append(all_shows_data)

@@ -1,54 +1,6 @@
 [
   {
     "artist": [
-      "Florry, Lake Philly, Shy Moon, Lake Philly, Shy Moon"
-    ],
-    "link": "https://grogshop.gs/event-details/13396838/florry-lake-philly-shy-moon",
-    "date": "2023-08-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Hot Goss: The Improvised Musical"
-    ],
-    "link": "https://grogshop.gs/event-details/13397128/hot-goss-the-improvised-musical",
-    "date": "2023-08-15T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Strobobean, Youth Pallet, Boy Future Guitars"
-    ],
-    "link": "https://grogshop.gs/event-details/13421328/strobobean",
-    "date": "2023-08-15T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Sweeping Promises, Disintegration, Suitor"
-    ],
-    "link": "https://grogshop.gs/event-details/13187898/sweeping-promises",
-    "date": "2023-08-16T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Lovataraxx, / Bias Selector, / GRVE, / Wander, Bias Selector, GRVE, Wander"
-    ],
-    "link": "https://grogshop.gs/event-details/13393678/lovataraxx-bias-selector-grve-wander",
-    "date": "2023-08-17T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "AJJ, Open Mike Eagle, Sad Park, Foot Ox"
-    ],
-    "link": "https://grogshop.gs/event-details/13253248/ajj",
-    "date": "2023-08-18T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "BEN NICHOLS and TIM BARRY, Lulu and The Black Sheep"
     ],
     "link": "https://grogshop.gs/event-details/13318458/ben-nichols-and-tim-barry",
@@ -178,7 +130,7 @@
   },
   {
     "artist": [
-      "Alex Cameron & Roy Molloy"
+      "Alex Cameron & Roy Molloy, Toyon, Mikey Silas"
     ],
     "link": "https://grogshop.gs/event-details/13495618/alex-cameron-roy-molloy",
     "date": "2023-09-07T20:00:00",
@@ -226,7 +178,7 @@
   },
   {
     "artist": [
-      "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve"
+      "Fred Mascherino (The Color Fred, ex-Taking Back Sunday), Learning Curve, Messmaker"
     ],
     "link": "https://grogshop.gs/event-details/13434768/fred-mascherino-the-color-fred-ex-taking-back-sunday-",
     "date": "2023-09-11T20:00:00",
@@ -338,6 +290,14 @@
   },
   {
     "artist": [
+      "The Monday Program, Mellowman Funk, Sierra Delaine, Trav Hen"
+    ],
+    "link": "https://grogshop.gs/event-details/13512138/the-monday-program-mellowman-funk-sierra-delaine-trav-hen",
+    "date": "2023-09-22T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Helmet, Soul Blind, Soul Blind"
     ],
     "link": "https://grogshop.gs/event-details/13420068/helmet-soul-blind",
@@ -442,6 +402,14 @@
   },
   {
     "artist": [
+      "Mustard Service, JW Francis"
+    ],
+    "link": "https://grogshop.gs/event-details/13504718/mustard-service",
+    "date": "2023-10-08T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "CIVIC, The Hell, Show Pink"
     ],
     "link": "https://grogshop.gs/event-details/13195478/civic-the-hell-show-pink",
@@ -490,9 +458,9 @@
   },
   {
     "artist": [
-      "N8NOFACE, Uniity, Uniity"
+      "N8NOFACE, Uniity, Bias Selector, Uniity, Bias Selector"
     ],
-    "link": "https://grogshop.gs/event-details/13445988/n8noface-uniity",
+    "link": "https://grogshop.gs/event-details/13445988/n8noface-uniity-bias-selector",
     "date": "2023-10-16T20:00:00",
     "venue": "Grog Shop"
   },
@@ -562,6 +530,14 @@
   },
   {
     "artist": [
+      "Lucero and Jason Boland & The Stragglers"
+    ],
+    "link": "https://grogshop.gs/event-details/13500788/lucero-and-jason-boland-the-stragglers",
+    "date": "2023-11-11T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "GZA \u2013 Truth and Swords Tour, Beau Young Prince"
     ],
     "link": "https://grogshop.gs/event-details/13474718/gza-truth-and-swords-tour",
@@ -590,6 +566,22 @@
     ],
     "link": "https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls",
     "date": "2023-12-01T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Nolan Taylor"
+    ],
+    "link": "https://grogshop.gs/event-details/13516538/nolan-taylor",
+    "date": "2023-12-02T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Flatliners Present The Holiday Melee"
+    ],
+    "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
+    "date": "2023-12-15T20:00:00",
     "venue": "Grog Shop"
   }
 ]

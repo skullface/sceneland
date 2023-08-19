@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Wanted: Tribute To Bon Jovi"
-    ],
-    "link": "https://concerts.livenation.com/wanted-tribute-to-bon-jovi-cleveland-ohio-08-18-2023/event/05005EF1C489410B",
-    "date": "2023-08-18T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Bop To The Top feat Lucas Grabeel & Life By Michael: 18+"
     ],
     "link": "https://concerts.livenation.com/bop-to-the-top-feat-lucas-cleveland-ohio-08-25-2023/event/05005EA5FE6C7E60",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C",
     "date": "2023-10-23T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Laufey: The Bewitched Tour"
+    ],
+    "link": "https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA",
+    "date": "2023-10-24T19:00:00",
     "venue": "House of Blues"
   }
 ]

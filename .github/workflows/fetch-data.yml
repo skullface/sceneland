@@ -20,7 +20,7 @@ jobs:
         run: |
           python script/agora.py > src/data/venues/agora.json
           python script/beachland.py > src/data/venues/beachland.json
-          python script/grog-shop.py > src/data/venues/grogshop.json
+          python script/grog-shop.py > src/data/venues/grog-shop.json
           python script/hob.py > src/data/venues/hob.json
           python script/mahalls.py > src/data/venues/mahalls.json
           python script/no-class.py > src/data/venues/no-class.json

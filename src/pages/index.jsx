@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { allShows } from 'src/data/allShows'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 
 export const getStaticProps = async () => {
   return { 
@@ -12,16 +12,26 @@ export const getStaticProps = async () => {
 
 // UI to filter results by venue
 export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
+  const [isMounted, setIsMounted] = useState(false);
+  useEffect(() => {
+    setIsMounted(true);
+  }, []); 
+
   return (
     <ul className='flex flex-wrap items-center justify-center my-4 leading-none'>
       {venues.map((venue, i) => (
+      {venues.map(venue => (
         <li
-          key={i}
+          key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
           className='group min-h-[40px]'
         >
           <input
             type='checkbox'
-            id={venue.replace(/\s+/g, '-').toLowerCase()}
+            id={
+              isMounted? (
+                venue.replace(/[^\w]+/g, '-').toLowerCase()
+              ) : 'undefined'
+            }
             className='peer hidden'
             checked={selectedVenues.includes(venue)}
             onChange={() => onVenueToggle(venue)}
@@ -39,9 +49,13 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
             dark:peer-checked:bg-black dark:peer-checked:text-zinc-400 dark:peer-checked:border-zinc-800
             dark:peer-checked:hover:text-zinc-600
             peer-checked:bg-zinc-50 peer-checked:text-zinc-700 peer-checked:border-zinc-300 peer-checked:hover:text-zinc-400'
-            htmlFor={venue.replace(/\s+/g, '-').toLowerCase()}
+            htmlFor={
+              isMounted? (
+                venue.replace(/[^\w]+/g, '-').toLowerCase()
+              ) : 'undefined'
+            }
           >
-            {venue}
+            {isMounted && venue}
           </label>
         </li>
       ))}

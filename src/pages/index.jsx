@@ -1,10 +1,10 @@
 import Head from 'next/head'
-import shows from 'src/data/shows.json';
  
+import { allShows } from 'src/data/allShows'
 export const getStaticProps = async () => {
   return { 
     props: {
-      shows: shows.shows
+      shows: allShows
     }
   }
 }

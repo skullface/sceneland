@@ -15,11 +15,11 @@
   }
   
   header {
-    @apply flex flex-col gap-2 text-sm
+    @apply flex flex-col gap-3 text-sm
   }
 
   h1 {
-    @apply text-2xl font-semibold text-zinc-800 dark:text-zinc-300 leading-tight;
+    @apply text-2xl !font-semibold uppercase text-zinc-800 dark:text-zinc-300 leading-tight;
   }
   
   .shows {
@@ -31,14 +31,18 @@
   }
   
   .artist {
-    @apply font-semibold text-zinc-800 dark:text-zinc-300 text-lg leading-tight tracking-[-0.02em]
+    @apply font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300 leading-tight tracking-[-0.02em]
   }
   
   .sold-out {
-    @apply font-mono self-start border transition rounded-md [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2 py-1 text-xs font-medium whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
+    @apply self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
   }
 
   .venue {
-    @apply mt-3 font-medium text-zinc-800 dark:text-zinc-300 
+    @apply font-mono text-sm
+  }
+  
+  time {
+    @apply mt-3 text-zinc-800 dark:text-zinc-300
   }
 }

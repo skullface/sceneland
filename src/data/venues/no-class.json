@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "CLOSED"
+    ],
+    "link": "https://www.noclasscle.com/events/closed-labor-day",
+    "date": "2023-09-04T20:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "KARAOKE PARTY"
     ],
     "link": "https://www.noclasscle.com/events/karaoke-9-5",
@@ -205,6 +213,14 @@
     ],
     "link": "https://www.noclasscle.com/events/tithe-osi-jupiter-vintergrav",
     "date": "2023-09-19T20:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "UNRECOVERY"
+    ],
+    "link": "https://www.noclasscle.com/events/unrecovery",
+    "date": "2023-09-21T20:00:00",
     "venue": "No Class"
   },
   {

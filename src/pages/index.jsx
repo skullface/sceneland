@@ -19,7 +19,6 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
 
   return (
     <ul className='flex flex-wrap items-center justify-center my-4 leading-none'>
-      {venues.map((venue, i) => (
       {venues.map(venue => (
         <li
           key={venue.replace(/[^\w]+/g, '-').toLowerCase()}

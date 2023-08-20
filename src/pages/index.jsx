@@ -22,11 +22,11 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
   }, []); // Empty array to ensures the hook runs only once (after mounting)
 
   return (
-    <ul className='flex flex-wrap items-center justify-center my-4 leading-none'>
+    <ul className='flex flex-wrap md:items-center md:justify-center my-4 leading-none max-md:gap-x-12 max-md:gap-y-6'>
       {venues.map(venue => (
         <li
           key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
-          className='group min-h-[40px]'
+          className='group max-md:flex max-md:gap-1'
         >
           <input
             type='checkbox'
@@ -35,23 +35,21 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
                 venue.replace(/[^\w]+/g, '-').toLowerCase()
               ) : 'undefined'
             }
-            className='peer hidden'
+            className='peer md:hidden'
             checked={selectedVenues.includes(venue)}
             onChange={() => onVenueToggle(venue)}
           />
           <label
-            className='select-none cursor-pointer transition ease-in-out
-            py-2 px-3 text-sm font-medium font-mono
-            group-first-of-type:rounded-l-lg group-first-of-type:pl-4
-            group-last-of-type:rounded-r-lg group-last-of-type:pr-4
-            border border-l-0 
-            group-first-of-type:border-l 
-            group-last-of-type:border-r
-            border-zinc-300 bg-zinc-50 text-zinc-300
-            dark:border-zinc-800 dark:bg-black dark:text-zinc-800
-            dark:peer-checked:bg-black dark:peer-checked:text-zinc-400 dark:peer-checked:border-zinc-800
-            dark:peer-checked:hover:text-zinc-600
-            peer-checked:bg-zinc-50 peer-checked:text-zinc-700 peer-checked:border-zinc-300 peer-checked:hover:text-zinc-400'
+            className='
+              max-md:font-semibold max-md:text-zinc-800 dark:max-md:text-zinc-200
+              select-none cursor-pointer md:transition md:ease-in-out md:py-2 md:px-3 md:text-sm md:font-medium md:font-mono
+              md:group-first-of-type:rounded-l-lg md:group-first-of-type:pl-4 md:group-last-of-type:rounded-r-lg md:group-last-of-type:pr-4
+              md:border md:border-l-0 
+              md:group-first-of-type:border-l md:group-last-of-type:border-r
+              md:border-zinc-300 md:bg-zinc-50 md:text-zinc-300
+              md:dark:border-zinc-800 md:dark:bg-black md:dark:text-zinc-800
+              dark:md:peer-checked:bg-black dark:md:peer-checked:text-zinc-400 dark:md:peer-checked:border-zinc-800 dark:md:peer-checked:hover:text-zinc-600
+              md:peer-checked:bg-zinc-50 md:peer-checked:text-zinc-700 md:peer-checked:border-zinc-300 md:peer-checked:hover:text-zinc-400'
             htmlFor={
               isMounted? (
                 venue.replace(/[^\w]+/g, '-').toLowerCase()

@@ -12,10 +12,14 @@ export const getStaticProps = async () => {
 
 // UI to filter results by venue
 export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
+  // State to track if the component has mounted or not?
   const [isMounted, setIsMounted] = useState(false);
+  
+  // `useEffect` hook runs after the initial render (a.k.a. component mounts)
+  // `isMounted` is false until the component mounts, then we change the state
   useEffect(() => {
     setIsMounted(true);
-  }, []); 
+  }, []); // Empty array to ensures the hook runs only once (after mounting)
 
   return (
     <ul className='flex flex-wrap items-center justify-center my-4 leading-none'>
@@ -88,22 +92,27 @@ export function ShowList({ shows }) {
 }
 
 export default function Home() {
-  // Map through the shows to find all venues
+  // Create an empty array to store all unique venue for the below filter
   let allVenues = [];
+  // Map through the shows to find all venues…
   allShows.map(venue => {
+    // …to check if the current venue is not already in the above array
     if (allVenues.indexOf(venue.venue) === -1) {
+    // …and if it’s not, add it
       allVenues.push(venue.venue)
     }
   });
   
-  // Set state for venue filter
+  // Initialize state for venue filter with arrays
   const [selectedVenues, setSelectedVenues] = useState(allVenues);
 
-  // Change state by toggling
+  // Handle venue toggling by changing state
   const handleVenueToggle = venue => {
+    // If the `selectedVenues` array already includes the venue, remove it
     if (selectedVenues.includes(venue)) {
       setSelectedVenues(selectedVenues.filter(v => v !== venue));
     } else {
+      // If the venue is not in the `selectedVenues` array, add it  
       setSelectedVenues([...selectedVenues, venue]);
     }
   };
@@ -134,9 +143,9 @@ export default function Home() {
             Cleveland concerts coming up at a venue near you.
           </p>
           <VenueFilter
-            venues={allVenues}
-            selectedVenues={selectedVenues}
-            onVenueToggle={handleVenueToggle}
+            venues={allVenues} // pass the array of all unique venues names as a prop
+            selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
+            onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
           />
         </header>
         

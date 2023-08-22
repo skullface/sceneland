@@ -1,22 +1,6 @@
 export const allShows = [
   {
     "artist": [
-      "NO THEME THEME SHOW"
-    ],
-    "link": "https://www.noclasscle.com/events/no-theme-willow-tree",
-    "date": "2023-08-19T20:00:00",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "NINTENDO 69"
-    ],
-    "link": "https://www.noclasscle.com/events/nintendo-69-august",
-    "date": "2023-08-20T20:00:00",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "FOLK AROUND & FIND OUT"
     ],
     "link": "https://www.noclasscle.com/events/folk-around-and-find-out",
@@ -128,6 +112,11 @@ export const allShows = [
     "venue": "No Class"
   },
   {
+    "link": "https://www.noclasscle.com/events/closed-labor-day",
+    "date": "2023-09-04T20:00:00",
+    "venue": "No Class"
+  },
+  {
     "artist": [
       "KARAOKE PARTY"
     ],
@@ -205,6 +194,14 @@ export const allShows = [
     ],
     "link": "https://www.noclasscle.com/events/tithe-osi-jupiter-vintergrav",
     "date": "2023-09-19T20:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "UNRECOVERY"
+    ],
+    "link": "https://www.noclasscle.com/events/unrecovery",
+    "date": "2023-09-21T20:00:00",
     "venue": "No Class"
   },
   {
@@ -1057,54 +1054,6 @@ export const allShows = [
   },
   {
     "artist": [
-      "Beachland Flea",
-      "AJ & The Woods (2pm)",
-      "Biitchseat (1pm)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13146048/beachland-flea-aj-the-woods-2pm-biitchseat-1pm-",
-    "date": "2023-08-19T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "This Way Out"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13486188/this-way-out",
-    "date": "2023-08-19T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "Frank Amato's Producers Showcase",
-      "6 Turning 4 Burning",
-      "Dreamstreet",
-      "Gracie Olivia"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13266968/frank-amato-s-producers-showcase-6-turning-4-burning-dreamstreet-gracie-olivia",
-    "date": "2023-08-19T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "The Detroit Cobras",
-      "Sugar Tradition",
-      "DJ Mr. Fishtruck"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13192348/the-detroit-cobras-sugar-tradition-dj-mr-fishtruck",
-    "date": "2023-08-19T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "Robbie Fulks",
-      "The Shootouts (Acoustic Trio)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13249348/robbie-fulks-the-shootouts-acoustic-trio-",
-    "date": "2023-08-20T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
       "Ladrones",
       "Hyper Viper",
       "DJ Erin Ryan (WCSB's Bomb The Twist)"
@@ -1156,9 +1105,6 @@ export const allShows = [
     "venue": "Beachland"
   },
   {
-    "artist": [
-      "This Way Out"
-    ],
     "link": "https://www.beachlandballroom.com/e/13502958/this-way-out",
     "date": "2023-08-25T20:00:00",
     "venue": "Beachland"
@@ -1182,9 +1128,6 @@ export const allShows = [
     "venue": "Beachland"
   },
   {
-    "artist": [
-      "This Way Out"
-    ],
     "link": "https://www.beachlandballroom.com/e/13502968/this-way-out",
     "date": "2023-08-26T20:00:00",
     "venue": "Beachland"
@@ -1276,6 +1219,11 @@ export const allShows = [
     "venue": "Beachland"
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13521438/this-way-out",
+    "date": "2023-09-01T20:00:00",
+    "venue": "Beachland"
+  },
+  {
     "artist": [
       "Sh\u0101k\u0113 Ground"
     ],
@@ -1284,25 +1232,44 @@ export const allShows = [
     "venue": "Beachland"
   },
   {
-    "artist": [
-      "Shway Fest 2023",
-      "Charity Evonna",
-      "RADDERALL",
-      "Melted Strawberry",
-      "Mellowman Funk with MikeMike Dustyloops",
-      "Westside Io",
-      "E.Side4",
-      "Y.A.Y.A."
-    ],
-    "link": "https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-melted-strawberry-mellowman-funk-with-mikemike-dustyloops-westside-io-e-side4-y-a-y-a-",
+    "link": "https://www.beachlandballroom.com/e/13521448/this-way-out",
     "date": "2023-09-02T20:00:00",
     "venue": "Beachland"
   },
   {
     "artist": [
-      "Austin Lucas"
+      "Shway Fest 2023",
+      "Charity Evonna",
+      "RADDERALL",
+      "Mellowman Funk",
+      "E.Side4",
+      "Y.A.Y.A.",
+      "Melted Strawberry",
+      "Westside Lo",
+      "Pico The Guy Tho",
+      "Mike Mike Dusty Loops"
     ],
-    "link": "https://www.beachlandballroom.com/e/13496558/austin-lucas",
+    "link": "https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-mellowman-funk-e-side4-y-a-y-a-melted-strawberry-westside-lo-pico-the-guy-tho-mike-mike-dusty-loops",
+    "date": "2023-09-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Snooze",
+      "Whiffler",
+      "Clipboards",
+      "Tall Grass"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13522748/snooze-whiffler-clipboards-tall-grass",
+    "date": "2023-09-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Austin Lucas",
+      "Ty Prager"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13496558/austin-lucas-ty-prager",
     "date": "2023-09-03T20:00:00",
     "venue": "Beachland"
   },
@@ -2012,23 +1979,6 @@ export const allShows = [
   },
   {
     "artist": [
-      "BEN NICHOLS and TIM BARRY, Lulu and The Black Sheep"
-    ],
-    "link": "https://grogshop.gs/event-details/13318458/ben-nichols-and-tim-barry",
-    "sold_out": true,
-    "date": "2023-08-19T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Larry Baeder and Jacqueline Black Quartet, Jacqueline Black"
-    ],
-    "link": "https://grogshop.gs/event-details/13433968/larry-baeder-and-jacqueline-black-quartet",
-    "date": "2023-08-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Make Em Laugh Mondays Hosted By Kevin Ford"
     ],
     "link": "https://grogshop.gs/event-details/13501078/make-em-laugh-mondays-hosted-by-kevin-ford",
@@ -2597,30 +2547,6 @@ export const allShows = [
   },
   {
     "artist": [
-      "GEL"
-    ],
-    "link": "https://link.dice.fm/z0fe04bb9860",
-    "date": "2023-08-19T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Gooseberry"
-    ],
-    "link": "https://link.dice.fm/Rbf3cbeaeb60",
-    "date": "2023-08-19T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Girl Ultra"
-    ],
-    "link": "https://link.dice.fm/ze41b97224c4",
-    "date": "2023-08-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Park National"
     ],
     "link": "https://link.dice.fm/ga3aed1a1f56",
@@ -3123,6 +3049,14 @@ export const allShows = [
     ],
     "link": "https://link.dice.fm/v94d14fa1810",
     "date": "2023-12-01T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Oso Oso"
+    ],
+    "link": "https://link.dice.fm/X3e730b069c8",
+    "date": "2023-12-10T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

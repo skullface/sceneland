@@ -52,9 +52,6 @@
     "venue": "Beachland"
   },
   {
-    "artist": [
-      "This Way Out"
-    ],
     "link": "https://www.beachlandballroom.com/e/13502958/this-way-out",
     "date": "2023-08-25T20:00:00",
     "venue": "Beachland"
@@ -78,9 +75,6 @@
     "venue": "Beachland"
   },
   {
-    "artist": [
-      "This Way Out"
-    ],
     "link": "https://www.beachlandballroom.com/e/13502968/this-way-out",
     "date": "2023-08-26T20:00:00",
     "venue": "Beachland"
@@ -172,6 +166,11 @@
     "venue": "Beachland"
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13521438/this-way-out",
+    "date": "2023-09-01T20:00:00",
+    "venue": "Beachland"
+  },
+  {
     "artist": [
       "Sh\u0101k\u0113 Ground"
     ],
@@ -180,25 +179,44 @@
     "venue": "Beachland"
   },
   {
-    "artist": [
-      "Shway Fest 2023",
-      "Charity Evonna",
-      "RADDERALL",
-      "Melted Strawberry",
-      "Mellowman Funk with MikeMike Dustyloops",
-      "Westside Io",
-      "E.Side4",
-      "Y.A.Y.A."
-    ],
-    "link": "https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-melted-strawberry-mellowman-funk-with-mikemike-dustyloops-westside-io-e-side4-y-a-y-a-",
+    "link": "https://www.beachlandballroom.com/e/13521448/this-way-out",
     "date": "2023-09-02T20:00:00",
     "venue": "Beachland"
   },
   {
     "artist": [
-      "Austin Lucas"
+      "Shway Fest 2023",
+      "Charity Evonna",
+      "RADDERALL",
+      "Mellowman Funk",
+      "E.Side4",
+      "Y.A.Y.A.",
+      "Melted Strawberry",
+      "Westside Lo",
+      "Pico The Guy Tho",
+      "Mike Mike Dusty Loops"
     ],
-    "link": "https://www.beachlandballroom.com/e/13496558/austin-lucas",
+    "link": "https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-mellowman-funk-e-side4-y-a-y-a-melted-strawberry-westside-lo-pico-the-guy-tho-mike-mike-dusty-loops",
+    "date": "2023-09-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Snooze",
+      "Whiffler",
+      "Clipboards",
+      "Tall Grass"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13522748/snooze-whiffler-clipboards-tall-grass",
+    "date": "2023-09-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Austin Lucas",
+      "Ty Prager"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13496558/austin-lucas-ty-prager",
     "date": "2023-09-03T20:00:00",
     "venue": "Beachland"
   },

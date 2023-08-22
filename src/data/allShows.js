@@ -8,9 +8,6 @@ export const allShows = [
     "venue": "No Class"
   },
   {
-    "artist": [
-      "KARAOKE PARTY"
-    ],
     "link": "https://www.noclasscle.com/events/karaoke-8-23",
     "date": "2023-08-22T20:00:00",
     "venue": "No Class"
@@ -72,9 +69,6 @@ export const allShows = [
     "venue": "No Class"
   },
   {
-    "artist": [
-      "KARAOKE PARTY"
-    ],
     "link": "https://www.noclasscle.com/events/karaoke-8-29",
     "date": "2023-08-29T20:00:00",
     "venue": "No Class"
@@ -117,9 +111,6 @@ export const allShows = [
     "venue": "No Class"
   },
   {
-    "artist": [
-      "KARAOKE PARTY"
-    ],
     "link": "https://www.noclasscle.com/events/karaoke-9-5",
     "date": "2023-09-05T20:00:00",
     "venue": "No Class"
@@ -165,9 +156,6 @@ export const allShows = [
     "venue": "No Class"
   },
   {
-    "artist": [
-      "KARAOKE PARTY"
-    ],
     "link": "https://www.noclasscle.com/events/karaoke-9-12",
     "date": "2023-09-12T20:00:00",
     "venue": "No Class"
@@ -213,9 +201,6 @@ export const allShows = [
     "venue": "No Class"
   },
   {
-    "artist": [
-      "KARAOKE PARTY"
-    ],
     "link": "https://www.noclasscle.com/events/karaoke-9-26",
     "date": "2023-09-26T20:00:00",
     "venue": "No Class"
@@ -2772,17 +2757,17 @@ export const allShows = [
   },
   {
     "artist": [
-      "Autopilot"
+      "The Astronomers"
     ],
-    "link": "https://link.dice.fm/T4381d524f65",
+    "link": "https://link.dice.fm/s4cada23b8e0",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "The Astronomers"
+      "Autopilot"
     ],
-    "link": "https://link.dice.fm/s4cada23b8e0",
+    "link": "https://link.dice.fm/T4381d524f65",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },

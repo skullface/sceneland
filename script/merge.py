@@ -23,4 +23,4 @@ sh.sed('-i.tmp', '1s/.*/' + 'export const allShows = [' + '/', 'src/data/allShow
 if os.path.isfile('src/data/allShows.js.tmp'):
   os.remove('src/data/allShows.js.tmp')
 else:
-  print("Nothing to delete")
+  print('Nothing to delete 🫡')

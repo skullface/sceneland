@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply min-h-screen;
+    @apply min-h-screen [text-wrap:pretty];
     @apply text-zinc-500 dark:text-zinc-500 bg-zinc-50 dark:bg-zinc-950
   }
 }
@@ -15,7 +15,7 @@
   }
   
   header {
-    @apply flex flex-col gap-3 text-sm
+    @apply flex flex-col gap-6 text-sm
   }
 
   h1 {
@@ -23,7 +23,7 @@
   }
   
   .shows {
-    @apply grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-8 lg:grid-cols-3 xl:grid-cols-4
+    @apply grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3 xl:grid-cols-4
   }
   
   .show {
@@ -31,11 +31,11 @@
   }
   
   .artist {
-    @apply font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300 leading-tight tracking-[-0.02em]
+    @apply font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300
   }
   
   .sold-out {
-    @apply self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
+    @apply self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2.5 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
   }
 
   .venue {
@@ -44,5 +44,9 @@
   
   time {
     @apply mt-3 text-zinc-800 dark:text-zinc-300
+  }
+  
+  footer {
+    @apply text-sm flex flex-col gap-2 text-center
   }
 }

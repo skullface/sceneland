@@ -22,7 +22,7 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
   }, []); // Empty array to ensures the hook runs only once (after mounting)
 
   return (
-    <ul className='flex flex-wrap md:items-center md:justify-center my-4 leading-none max-md:gap-x-12 max-md:gap-y-6'>
+    <ul className='flex flex-wrap justify-between items-center md:justify-center my-4 leading-none max-md:gap-x-12 max-md:gap-y-6'>
       {venues.map(venue => (
         <li
           key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
@@ -40,16 +40,19 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
             onChange={() => onVenueToggle(venue)}
           />
           <label
-            className='
+            className={`
               max-md:font-semibold max-md:text-zinc-800 dark:max-md:text-zinc-200
               select-none cursor-pointer md:transition md:ease-in-out md:py-2 md:px-3 md:text-sm md:font-medium md:font-mono
               md:group-first-of-type:rounded-l-lg md:group-first-of-type:pl-4 md:group-last-of-type:rounded-r-lg md:group-last-of-type:pr-4
-              md:border md:border-l-0 
+              md:border md:border-l-0
+              md:before:content-['×'] md:before:mr-1 md:before:text-red-500
               md:group-first-of-type:border-l md:group-last-of-type:border-r
-              md:border-zinc-300 md:bg-zinc-50 md:text-zinc-300
-              md:dark:border-zinc-800 md:dark:bg-black md:dark:text-zinc-800
+              md:border-zinc-300 md:bg-zinc-50 md:text-zinc-500
+              md:dark:border-zinc-800 md:dark:bg-black md:dark:text-zinc-600
               dark:md:peer-checked:bg-black dark:md:peer-checked:text-zinc-400 dark:md:peer-checked:border-zinc-800 dark:md:peer-checked:hover:text-zinc-600
-              md:peer-checked:bg-zinc-50 md:peer-checked:text-zinc-700 md:peer-checked:border-zinc-300 md:peer-checked:hover:text-zinc-400'
+              md:peer-checked:before:content-['✓'] md:peer-checked:before:text-green-500
+              md:peer-checked:bg-zinc-50 md:peer-checked:text-zinc-800 md:peer-checked:border-zinc-300 md:peer-checked:hover:text-zinc-500
+            `}
             htmlFor={
               isMounted? (
                 venue.replace(/[^\w]+/g, '-').toLowerCase()
@@ -139,14 +142,16 @@ export default function Home() {
           <h1 className='text-6xl tracking-tight font-semibold'>
             216.show
           </h1>
-          <p className='font-mono'>
-            Cleveland concerts coming up at a venue near you.
-          </p>
-          <VenueFilter
-            venues={allVenues} // pass the array of all unique venues names as a prop
-            selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
-            onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
-          />
+          <form>
+            <h2 className='font-mono'>
+              Select your fav Cleveland venues:
+            </h2>
+            <VenueFilter
+              venues={allVenues} // pass the array of all unique venues names as a prop
+              selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
+              onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
+            />
+          </form>
         </header>
         
         <main>

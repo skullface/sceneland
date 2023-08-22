@@ -24,7 +24,8 @@ for show in shows:
   # Loop through all the artists, add them to the object
   for artist in artist_elements:
     artists_list.append(artist.text.strip())
-    all_shows_data['artist'] = artists_list
+    if not artist.text.strip() == "This Way Out":
+      all_shows_data['artist'] = artists_list
   # Get all links in the show container element
   for link_element in show.findAll("a"):
     # Ignore all links that aren't within an `<h1>`

@@ -17,7 +17,9 @@ for show in shows:
   link_preorder = show.find("a", string="PRESALE TICKETS")
   link_general = show.find("a", class_="eventlist-button")
   date = show.find("time", class_="event-date")
-  if not artist.text.strip() == "CLOSED":
+  if artist.text.strip() == "CLOSED" or artist.text.strip() == "KARAOKE PARTY":
+    ...
+  else:
     all_shows_data['artist'] = [artist.text.strip()]
   if link_preorder:
     all_shows_data['link'] = link_preorder.get('href')

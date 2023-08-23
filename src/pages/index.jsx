@@ -71,10 +71,7 @@ export default function Home() {
           <h1 className='text-6xl tracking-tight font-semibold'>
             216.show
           </h1>
-          <form>
-            <h2 className='font-mono'>
-              Select your fav Cleveland venues:
-            </h2>
+          <form className='flex flex-col gap-2'>
             <VenueFilter
               venues={allVenues} // pass the array of all unique venues names as a prop
               selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop

@@ -69,6 +69,40 @@ export default function Home() {
     (a, b) => new Date(a.date) - new Date(b.date),
   )
 
+  // Reduce the sorted, filtered shows
+  const showsByWeek = sortedFilteredShows.reduce((acc, show) => {
+    // Get a show’s first day of the week
+    const weekStartDate = new Date(show.date)
+    weekStartDate.setHours(0, 0, 0, 0)
+    weekStartDate.setDate(weekStartDate.getDate() - weekStartDate.getDay())
+
+    // Computers say Sunday, but we want Monday
+    const daysToSubtract = (weekStartDate.getDay() + 6) % 7
+    weekStartDate.setDate(weekStartDate.getDate() - daysToSubtract)
+
+    // Convert the first day of the week to ISO
+    const weekStartStr = weekStartDate.toISOString()
+
+    // Make an empty array if the first day of the week hasn’t happened yet
+    if (!acc[weekStartStr]) {
+      acc[weekStartStr] = []
+    }
+
+    // Push the show into its corresponding week array
+    acc[weekStartStr].push(show)
+
+    // Return the accumulator (that *accumulates* the grouped-by-week shows)
+    return acc
+  }, {})
+
+  // Convert the grouped shows into an array of `{ weekStartDate, shows }` objects
+  const groupedShows = Object.entries(showsByWeek).map(
+    ([weekStart, weekShows]) => ({
+      weekStartDate: new Date(weekStart),
+      shows: weekShows,
+    }),
+  )
+
   return (
     <>
       <Head>
@@ -92,40 +126,60 @@ export default function Home() {
         />
       </header>
 
-      <main className='grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3 xl:grid-cols-4 container mx-auto p-4 lg:p-8'>
-        {sortedFilteredShows.map(
-          (show, i) =>
-            show.artist && (
-              <a
-                key={i}
-                href={show.link}
-                className='group flex flex-col h-full bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10  focus:outline-none focus:ring focus:ring-indigo-500/25'
-              >
-                {show.sold_out && (
-                  <span className='self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2.5 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600'>
-                    Sold out
-                  </span>
-                )}
-                <h2 className='font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300'>
-                  {JSON.stringify(show.artist)
-                    .replace(/\[|\]|\"/g, '')
-                    .replace(/\,/g, ', ')}{' '}
-                </h2>
-                <span className='font-mono text-sm'>{show.venue}</span>
-                <time
-                  className='flex-1 flex items-end mt-3 text-zinc-800 dark:text-zinc-300'
-                  dateTime={new Date(show.date)}
-                >
-                  {new Date(show.date).toLocaleDateString('en-US', {
-                    weekday: 'short',
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  })}
-                </time>
-              </a>
-            ),
-        )}
+      <main className='container mx-auto p-4 lg:p-8 flex flex-col gap-14'>
+        {groupedShows.map(({ weekStartDate, shows }) => (
+          <section key={weekStartDate} className='flex flex-col gap-6'>
+            <h2
+              className={`w-full dark:text-zinc-500 text-zinc-400 text-3xl flex items-center gap-x-2 before:content-[''] before:dark:bg-zinc-800 before:bg-zinc-300 before:w-full before:h-[1px] after:content-[''] after:dark:bg-zinc-800 after:bg-zinc-300 after:w-full after:h-[1px]`}
+            >
+              <span className='flex-shrink-0 font-mono text-lg uppercase'>
+                Week of
+              </span>{' '}
+              <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
+                {weekStartDate.toLocaleDateString('en-US', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </span>
+            </h2>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+              {shows.map(
+                (show, i) =>
+                  show.artist && (
+                    <a
+                      key={i}
+                      href={show.link}
+                      className='group flex flex-col h-full bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10  focus:outline-none focus:ring focus:ring-indigo-500/25'
+                    >
+                      {show.sold_out && (
+                        <span className='self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2.5 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600'>
+                          Sold out
+                        </span>
+                      )}
+                      <h3 className='font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300'>
+                        {JSON.stringify(show.artist)
+                          .replace(/\[|\]|\"/g, '')
+                          .replace(/\,/g, ', ')}{' '}
+                      </h3>
+                      <span className='font-mono text-sm'>{show.venue}</span>{' '}
+                      <time
+                        className='flex-1 flex items-end mt-3 text-zinc-800 dark:text-zinc-300'
+                        dateTime={new Date(show.date)}
+                      >
+                        {new Date(show.date).toLocaleDateString('en-US', {
+                          weekday: 'long',
+                          year: 'numeric',
+                          month: 'long',
+                          day: 'numeric',
+                        })}
+                      </time>
+                    </a>
+                  ),
+              )}
+            </div>
+          </section>
+        ))}
       </main>
 
       <footer className='container mx-auto p-4 lg:p-8 text-sm flex flex-col gap-2 text-center'>

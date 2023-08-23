@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import { allShows } from 'src/data/allShows'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
+import { DropdownMenu, DropdownMenuTrigger, DropdownMenuContent, DropdownMenuCheckboxItem } from 'src/components/dropdown'
 
 export const getStaticProps = async () => {
   return { 
@@ -12,61 +13,24 @@ export const getStaticProps = async () => {
 
 // UI to filter results by venue
 export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
-  // State to track if the component has mounted or not?
-  const [isMounted, setIsMounted] = useState(false);
-  
-  // `useEffect` hook runs after the initial render (a.k.a. component mounts)
-  // `isMounted` is false until the component mounts, then we change the state
-  useEffect(() => {
-    setIsMounted(true);
-  }, []); // Empty array to ensures the hook runs only once (after mounting)
-
   return (
-    <ul className='flex flex-wrap justify-between items-center md:justify-center my-4 leading-none max-md:gap-x-12 max-md:gap-y-6'>
-      {venues.map(venue => (
-        <li
-          key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
-          className='group max-md:flex max-md:gap-1'
-        >
-          <input
-            type='checkbox'
-            id={
-              isMounted? (
-                venue.replace(/[^\w]+/g, '-').toLowerCase()
-              ) : 'undefined'
-            }
-            className='peer md:hidden'
+    <DropdownMenu>
+      <DropdownMenuTrigger className='dropdown-button'>
+        Select your fav Cleveland venues <span>&darr;</span>
+      </DropdownMenuTrigger>
+      <DropdownMenuContent className='dropdown-content'>
+        {venues.map(venue => (
+          <DropdownMenuCheckboxItem
+            key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
             checked={selectedVenues.includes(venue)}
-            onChange={() => onVenueToggle(venue)}
-          />
-          <label
-            className={`
-              max-md:font-semibold max-md:text-zinc-800 dark:max-md:text-zinc-200
-              select-none cursor-pointer md:transition md:ease-in-out md:py-2 md:px-3 md:text-sm md:font-medium md:font-mono
-              md:group-first-of-type:rounded-l-lg md:group-first-of-type:pl-4 md:group-last-of-type:rounded-r-lg md:group-last-of-type:pr-4
-              md:border md:border-l-0
-              md:before:content-['×'] md:before:mr-1 md:before:text-red-500
-              md:group-first-of-type:border-l md:group-last-of-type:border-r
-              md:border-zinc-300 md:bg-zinc-50 md:text-zinc-500
-              md:dark:border-zinc-800 md:dark:bg-black md:dark:text-zinc-600
-              dark:md:peer-checked:bg-black dark:md:peer-checked:text-zinc-400 dark:md:peer-checked:border-zinc-800 dark:md:peer-checked:hover:text-zinc-600
-              md:peer-checked:before:content-['✓'] md:peer-checked:before:text-green-500
-              md:peer-checked:bg-zinc-50 md:peer-checked:text-zinc-800 md:peer-checked:border-zinc-300 md:peer-checked:hover:text-zinc-500
-            `}
-            htmlFor={
-              isMounted? (
-                venue.replace(/[^\w]+/g, '-').toLowerCase()
-              ) : 'undefined'
-            }
+            onCheckedChange={() => onVenueToggle(venue)}
           >
-            {isMounted && venue}
-          </label>
-        </li>
-      ))}
-    </ul>
-);
-}
-
+            {venue}
+          </DropdownMenuCheckboxItem>
+        ))}
+      </DropdownMenuContent>
+    </DropdownMenu>
+  )
 }
 
 export default function Home() {

@@ -5,7 +5,7 @@
 @layer base {
   body {
     @apply min-h-screen [text-wrap:pretty];
-    @apply text-zinc-500 dark:text-zinc-500 bg-zinc-50 dark:bg-zinc-950
+    @apply text-zinc-500 dark:text-zinc-500 bg-zinc-50 dark:bg-zinc-950;
   }
 }
 
@@ -14,7 +14,7 @@
 }
 
 .dropdown-content span svg {
-  @apply dark:!fill-zinc-50
+  @apply dark:!fill-zinc-50;
 }
 
 .dropdown-item[data-state='unchecked'] {

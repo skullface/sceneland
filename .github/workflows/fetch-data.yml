@@ -2,7 +2,7 @@ name: Fetch data
 
 on:
   schedule:
-    - cron: "5 5 * * *"
+    - cron: '5 5 * * *'
 
 jobs:
   fetch:
@@ -12,8 +12,8 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
-          cache: "pip"
+          python-version: '3.11'
+          cache: 'pip'
       - name: Setup dependencies
         run: pip install -r requirements.txt
       - name: Get data

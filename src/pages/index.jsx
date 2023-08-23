@@ -69,49 +69,47 @@ export default function Home() {
         <link rel='icon' href='/favicon.png' />
       </Head>
       
-      <div>
-        <header className='text-center md:container mx-auto items-center flex max-md:flex-col md:justify-center md:gap-x-4 p-4 lg:p-8 gap-2 text-sm sticky top-0 shadow-xl shadow-black/25 border-b border-b-white/5 dark:bg-black/50 backdrop-blur'>
-          <h1 className='text-xl font-mono md:tracking-tight md:font-semibold md:uppercase md:text-2xl text-zinc-800 dark:text-zinc-200'>
-            216.show
-          </h1>
-          <VenueFilter
-            venues={allVenues} // pass the array of all unique venues names as a prop
-            selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
-            onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
-          />
-        </header>
-        
-        <main className='shows'>
-          {sortedFilteredShows.map((show, i) => (
-            show.artist && (
-              <a
-                key={i}
-                href={show.link}
-                className='show group flex flex-col h-full'
-              >
-                {show.sold_out && <span className='sold-out'>Sold out</span>}
-                <h2 className='artist'>
-                  {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
-                  {' '}
-                </h2>
-                <span className='venue'>{show.venue}</span>
-                <time className='flex-1 flex items-end' dateTime={new Date(show.date)}>
-                  {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
-                </time>
-              </a>
-            )
-          ))}
-        </main>
-        
-        <footer>
-          <p>
-            All data is pulled from the venues’ individual websites and aggregated here. No ownership of information is claimed nor implied.
-          </p>
-          <p>
-            Support your scene and take care of each other.
-          </p>
-        </footer>
-      </div>
+      <header className='text-center mx-auto items-center flex max-md:flex-col md:justify-center md:gap-x-4 p-4 lg:p-8 gap-2 text-sm sticky top-0 shadow-xl dark:shadow-black/25 shadow-black/[0.03] border-b border-b-black/10 dark:border-b-white/5 bg-zinc-50 dark:bg-black/50 backdrop-blur'>
+        <h1 className='text-xl font-mono md:tracking-tight md:font-semibold md:uppercase md:text-2xl text-zinc-800 dark:text-zinc-200'>
+          216.show
+        </h1>
+        <VenueFilter
+          venues={allVenues} // pass the array of all unique venues names as a prop
+          selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
+          onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
+        />
+      </header>
+      
+      <main className='shows'>
+        {sortedFilteredShows.map((show, i) => (
+          show.artist && (
+            <a
+              key={i}
+              href={show.link}
+              className='show group flex flex-col h-full'
+            >
+              {show.sold_out && <span className='sold-out'>Sold out</span>}
+              <h2 className='artist'>
+                {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
+                {' '}
+              </h2>
+              <span className='venue'>{show.venue}</span>
+              <time className='flex-1 flex items-end' dateTime={new Date(show.date)}>
+                {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
+              </time>
+            </a>
+          )
+        ))}
+      </main>
+      
+      <footer>
+        <p>
+          All data is pulled from the venues’ individual websites and aggregated here. No ownership of information is claimed nor implied.
+        </p>
+        <p>
+          Support your scene and take care of each other.
+        </p>
+      </footer>
     </>
   )
 }

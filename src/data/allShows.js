@@ -597,9 +597,18 @@ export const allShows = [
   },
   {
     "artist": [
-      "Clem Snide"
+      "Clem Snide",
+      "Rye Valley"
     ],
-    "link": "https://www.beachlandballroom.com/e/13155758/clem-snide",
+    "link": "https://www.beachlandballroom.com/e/13155758/clem-snide-rye-valley",
+    "date": "2023-09-15T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Sabor! A Latin Burlesque & Drag"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag",
     "date": "2023-09-15T20:00:00",
     "venue": "Beachland"
   },
@@ -631,9 +640,10 @@ export const allShows = [
   },
   {
     "artist": [
-      "David Wain & Ken Marino's Middle Age Dad Jam Band"
+      "David Wain & Ken Marino's Middle Age Dad Jam Band",
+      "Mood Music by DJ Bethanderin"
     ],
-    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band",
+    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-mood-music-by-dj-bethanderin",
     "date": "2023-09-18T20:00:00",
     "venue": "Beachland"
   },
@@ -710,6 +720,14 @@ export const allShows = [
       "Dos Santos"
     ],
     "link": "https://www.beachlandballroom.com/e/13314488/monophonics-dos-santos",
+    "date": "2023-09-27T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Hotel Fiction"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13517988/hotel-fiction",
     "date": "2023-09-27T20:00:00",
     "venue": "Beachland"
   },
@@ -901,9 +919,11 @@ export const allShows = [
   },
   {
     "artist": [
-      "Chris Cresswell"
+      "Chris Cresswell",
+      "Jon Snodgrass",
+      "Seth Anderson"
     ],
-    "link": "https://www.beachlandballroom.com/e/13286228/chris-cresswell",
+    "link": "https://www.beachlandballroom.com/e/13286228/chris-cresswell-jon-snodgrass-seth-anderson",
     "date": "2023-10-17T20:00:00",
     "venue": "Beachland"
   },
@@ -1096,9 +1116,11 @@ export const allShows = [
   },
   {
     "artist": [
-      "Kendra Morris"
+      "Kendra Morris",
+      "Benny Lava and the Guavas",
+      "DJ Teddy Eisenberg"
     ],
-    "link": "https://www.beachlandballroom.com/e/13404028/kendra-morris",
+    "link": "https://www.beachlandballroom.com/e/13404028/kendra-morris-benny-lava-and-the-guavas-dj-teddy-eisenberg",
     "date": "2023-11-06T20:00:00",
     "venue": "Beachland"
   },
@@ -1158,6 +1180,32 @@ export const allShows = [
   },
   {
     "artist": [
+      "PISSE"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13521728/pisse",
+    "date": "2023-11-18T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "BoomBox",
+      "Tep No"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13489368/boombox-tep-no",
+    "date": "2023-11-19T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Start Making Sense",
+      "Drew & The Blue"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13527568/start-making-sense-drew-the-blue",
+    "date": "2023-12-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
       "Pokey LaFarge"
     ],
     "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge",
@@ -1206,6 +1254,14 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
     "date": "2023-12-13T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Keller Williams"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
+    "date": "2024-02-09T20:00:00",
     "venue": "Beachland"
   },
   {
@@ -1534,6 +1590,14 @@ export const allShows = [
     ],
     "link": "https://www.agoracleveland.com/events/detail/496570",
     "date": "2023-12-07T20:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Roy Woods"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/498637",
+    "date": "2023-12-08T20:00:00",
     "venue": "Agora"
   },
   {
@@ -1874,6 +1938,14 @@ export const allShows = [
   },
   {
     "artist": [
+      "We Came As Romans: DARKBLOOM II TOUR 2023"
+    ],
+    "link": "https://concerts.livenation.com/we-came-as-romans-darkbloom-ii-cleveland-ohio-10-14-2023/event/05005F04A4DF6212",
+    "date": "2023-10-14T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Stephen Sanchez"
     ],
     "link": "https://concerts.livenation.com/stephen-sanchez-cleveland-ohio-10-15-2023/event/05005E34CDCA5952",
@@ -1943,22 +2015,6 @@ export const allShows = [
     "link": "https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C",
     "date": "2023-10-23T19:00:00",
     "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Laufey: The Bewitched Tour"
-    ],
-    "link": "https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA",
-    "date": "2023-10-24T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Park National"
-    ],
-    "link": "https://link.dice.fm/ga3aed1a1f56",
-    "date": "2023-08-22T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -2179,17 +2235,17 @@ export const allShows = [
   },
   {
     "artist": [
-      "Autopilot"
+      "The Astronomers"
     ],
-    "link": "https://link.dice.fm/T4381d524f65",
+    "link": "https://link.dice.fm/s4cada23b8e0",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "The Astronomers"
+      "Autopilot"
     ],
-    "link": "https://link.dice.fm/s4cada23b8e0",
+    "link": "https://link.dice.fm/T4381d524f65",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -2332,17 +2388,17 @@ export const allShows = [
   },
   {
     "artist": [
-      "SUICIDE SILENCE AND CHELSEA GRIN "
+      "Emblem3"
     ],
-    "link": "https://link.dice.fm/S333ab788856",
+    "link": "https://link.dice.fm/ve8a20f788c7",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Emblem3"
+      "SUICIDE SILENCE AND CHELSEA GRIN "
     ],
-    "link": "https://link.dice.fm/ve8a20f788c7",
+    "link": "https://link.dice.fm/S333ab788856",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -2396,17 +2452,17 @@ export const allShows = [
   },
   {
     "artist": [
-      "Into It. Over It."
+      "Walter Etc."
     ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
+    "link": "https://link.dice.fm/ja5bf7c187cf",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Walter Etc."
+      "Into It. Over It."
     ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "link": "https://link.dice.fm/Ka4c8810172d",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
@@ -2480,6 +2536,14 @@ export const allShows = [
     ],
     "link": "https://link.dice.fm/V5b92716e486",
     "date": "2023-12-16T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Soen"
+    ],
+    "link": "https://link.dice.fm/Tda2fa30b6c3",
+    "date": "2024-05-08T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -2928,6 +2992,14 @@ export const allShows = [
     ],
     "link": "https://grogshop.gs/event-details/13445988/n8noface-uniity-bias-selector",
     "date": "2023-10-16T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "NONAME - Sundial Tour"
+    ],
+    "link": "https://grogshop.gs/event-details/13509568/noname-sundial-tour",
+    "date": "2023-10-17T20:00:00",
     "venue": "Grog Shop"
   },
   {

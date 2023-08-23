@@ -303,9 +303,18 @@
   },
   {
     "artist": [
-      "Clem Snide"
+      "Clem Snide",
+      "Rye Valley"
     ],
-    "link": "https://www.beachlandballroom.com/e/13155758/clem-snide",
+    "link": "https://www.beachlandballroom.com/e/13155758/clem-snide-rye-valley",
+    "date": "2023-09-15T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Sabor! A Latin Burlesque & Drag"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag",
     "date": "2023-09-15T20:00:00",
     "venue": "Beachland"
   },
@@ -337,9 +346,10 @@
   },
   {
     "artist": [
-      "David Wain & Ken Marino's Middle Age Dad Jam Band"
+      "David Wain & Ken Marino's Middle Age Dad Jam Band",
+      "Mood Music by DJ Bethanderin"
     ],
-    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band",
+    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-mood-music-by-dj-bethanderin",
     "date": "2023-09-18T20:00:00",
     "venue": "Beachland"
   },
@@ -416,6 +426,14 @@
       "Dos Santos"
     ],
     "link": "https://www.beachlandballroom.com/e/13314488/monophonics-dos-santos",
+    "date": "2023-09-27T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Hotel Fiction"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13517988/hotel-fiction",
     "date": "2023-09-27T20:00:00",
     "venue": "Beachland"
   },
@@ -607,9 +625,11 @@
   },
   {
     "artist": [
-      "Chris Cresswell"
+      "Chris Cresswell",
+      "Jon Snodgrass",
+      "Seth Anderson"
     ],
-    "link": "https://www.beachlandballroom.com/e/13286228/chris-cresswell",
+    "link": "https://www.beachlandballroom.com/e/13286228/chris-cresswell-jon-snodgrass-seth-anderson",
     "date": "2023-10-17T20:00:00",
     "venue": "Beachland"
   },
@@ -802,9 +822,11 @@
   },
   {
     "artist": [
-      "Kendra Morris"
+      "Kendra Morris",
+      "Benny Lava and the Guavas",
+      "DJ Teddy Eisenberg"
     ],
-    "link": "https://www.beachlandballroom.com/e/13404028/kendra-morris",
+    "link": "https://www.beachlandballroom.com/e/13404028/kendra-morris-benny-lava-and-the-guavas-dj-teddy-eisenberg",
     "date": "2023-11-06T20:00:00",
     "venue": "Beachland"
   },
@@ -864,6 +886,32 @@
   },
   {
     "artist": [
+      "PISSE"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13521728/pisse",
+    "date": "2023-11-18T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "BoomBox",
+      "Tep No"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13489368/boombox-tep-no",
+    "date": "2023-11-19T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Start Making Sense",
+      "Drew & The Blue"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13527568/start-making-sense-drew-the-blue",
+    "date": "2023-12-02T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
       "Pokey LaFarge"
     ],
     "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge",
@@ -912,6 +960,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
     "date": "2023-12-13T20:00:00",
+    "venue": "Beachland"
+  },
+  {
+    "artist": [
+      "Keller Williams"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
+    "date": "2024-02-09T20:00:00",
     "venue": "Beachland"
   }
 ]

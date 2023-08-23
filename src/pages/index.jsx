@@ -70,18 +70,10 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
 }
 
 export default function Home() {
-  // Create an empty array to store all unique venue for the below filter
-  let allVenues = [];
-  // Map through the shows to find all venues…
-  allShows.map(venue => {
-    // …to check if the current venue is not already in the above array
-    if (allVenues.indexOf(venue.venue) === -1) {
-    // …and if it’s not, add it
-      allVenues.push(venue.venue)
-    }
-  });
-  
-  // Initialize state for venue filter with arrays
+  // Create an array of all unique venues
+  const allVenues = Array.from(new Set(allShows.map(show => show.venue)));
+
+  // Initialize state for selected venues
   const [selectedVenues, setSelectedVenues] = useState(allVenues);
 
   // Handle venue toggling by changing state

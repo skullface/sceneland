@@ -67,31 +67,6 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
 );
 }
 
-// Map through the data to display each show
-export function ShowList({ shows }) {
-  return (
-    <section className='shows'>
-      {shows.map((show, i) => (
-        show.artist && (
-          <a
-            key={i}
-            href={show.link}
-            className='show group flex flex-col h-full'
-          >
-            {show.sold_out && <span className='sold-out'>Sold out</span>}
-            <h2 className='artist'>
-              {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
-              {' '}
-            </h2>
-            <span className='venue'>{show.venue}</span>
-            <time className='flex-1 flex items-end' dateTime={new Date(show.date)}>
-              {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
-            </time>
-          </a>
-        )
-      ))}
-    </section>
-  );
 }
 
 export default function Home() {
@@ -155,7 +130,27 @@ export default function Home() {
         </header>
         
         <main>
-          <ShowList shows={filteredShows} />
+          <section className='shows'>
+            {sortedFilteredShows.map((show, i) => (
+              show.artist && (
+                <a
+                  key={i}
+                  href={show.link}
+                  className='show group flex flex-col h-full'
+                >
+                  {show.sold_out && <span className='sold-out'>Sold out</span>}
+                  <h2 className='artist'>
+                    {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
+                    {' '}
+                  </h2>
+                  <span className='venue'>{show.venue}</span>
+                  <time className='flex-1 flex items-end' dateTime={new Date(show.date)}>
+                    {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
+                  </time>
+                </a>
+              )
+            ))}
+          </section>
         </main>
         
         <footer>

@@ -17,8 +17,8 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
     <DropdownMenu>
       <DropdownMenuTrigger className='group dropdown-button'>
         Select your fav Cleveland venues{' '}
-        <span className='inline-block text-zinc-400 transition group-hover:translate-x-0.5'>
-          &rarr;
+        <span className='inline-block text-zinc-400 transition group-hover:translate-y-0.5 transform -rotate-90'>
+          &lt;
         </span>
       </DropdownMenuTrigger>
       <DropdownMenuContent className='dropdown-content'>
@@ -70,41 +70,37 @@ export default function Home() {
       </Head>
       
       <div>
-        <header className='text-center flex flex-col px-3 pt-3 pb-4 lg:p-8 gap-2 text-sm max-md:sticky max-md:top-0 max-md:shadow-xl shadow-black/25 max-md:border-b max-md:border-b-white/5 dark:max-md:bg-black/50 max-md:backdrop-blur'>
-          <h1 className='text-xl font-mono md:text-5xl md:tracking-tight md:font-semibold md:uppercase text-zinc-800 dark:text-zinc-200'>
+        <header className='text-center md:container mx-auto items-center flex max-md:flex-col md:justify-center md:gap-x-4 p-4 lg:p-8 gap-2 text-sm sticky top-0 shadow-xl shadow-black/25 border-b border-b-white/5 dark:bg-black/50 backdrop-blur'>
+          <h1 className='text-xl font-mono md:tracking-tight md:font-semibold md:uppercase md:text-2xl text-zinc-800 dark:text-zinc-200'>
             216.show
           </h1>
-          <div className=''>
-            <VenueFilter
-              venues={allVenues} // pass the array of all unique venues names as a prop
-              selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
-              onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
-            />
-          </div>
+          <VenueFilter
+            venues={allVenues} // pass the array of all unique venues names as a prop
+            selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
+            onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
+          />
         </header>
         
-        <main>
-          <section className='shows'>
-            {sortedFilteredShows.map((show, i) => (
-              show.artist && (
-                <a
-                  key={i}
-                  href={show.link}
-                  className='show group flex flex-col h-full'
-                >
-                  {show.sold_out && <span className='sold-out'>Sold out</span>}
-                  <h2 className='artist'>
-                    {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
-                    {' '}
-                  </h2>
-                  <span className='venue'>{show.venue}</span>
-                  <time className='flex-1 flex items-end' dateTime={new Date(show.date)}>
-                    {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
-                  </time>
-                </a>
-              )
-            ))}
-          </section>
+        <main className='shows'>
+          {sortedFilteredShows.map((show, i) => (
+            show.artist && (
+              <a
+                key={i}
+                href={show.link}
+                className='show group flex flex-col h-full'
+              >
+                {show.sold_out && <span className='sold-out'>Sold out</span>}
+                <h2 className='artist'>
+                  {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
+                  {' '}
+                </h2>
+                <span className='venue'>{show.venue}</span>
+                <time className='flex-1 flex items-end' dateTime={new Date(show.date)}>
+                  {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
+                </time>
+              </a>
+            )
+          ))}
         </main>
         
         <footer>

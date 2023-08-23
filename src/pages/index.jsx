@@ -95,13 +95,11 @@ export default function Home() {
     }
   };
   
-  // Sort shows chronologically
-  const sortedShows = allShows.sort((a, b) => new Date(a.date) - new Date(b.date));
-
-  // Filter chrono-sorted shows by selected venues
-  const filteredShows = sortedShows.filter(show => 
-    selectedVenues.includes(show.venue)
-  )
+  // Filter shows by selected venues
+  const filteredShows = allShows.filter(show => selectedVenues.includes(show.venue));
+  
+  // Sort filtered shows chronologically by show date
+  const sortedFilteredShows = filteredShows.sort((a, b) => new Date(a.date) - new Date(b.date));
 
   return (
     <>

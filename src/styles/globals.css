@@ -10,7 +10,7 @@
 }
 
 .dropdown-button[data-state='open'] span {
-  @apply rotate-90;
+  @apply rotate-90 relative left-0.5;
 }
 
 .dropdown-content span svg {

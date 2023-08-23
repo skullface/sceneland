@@ -15,8 +15,11 @@ export const getStaticProps = async () => {
 export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
   return (
     <DropdownMenu>
-      <DropdownMenuTrigger className='dropdown-button'>
-        Select your fav Cleveland venues <span>&darr;</span>
+      <DropdownMenuTrigger className='group dropdown-button'>
+        Select your fav Cleveland venues{' '}
+        <span className='inline-block text-zinc-400 transition group-hover:translate-x-0.5'>
+          &rarr;
+        </span>
       </DropdownMenuTrigger>
       <DropdownMenuContent className='dropdown-content'>
         {venues.map(venue => (
@@ -67,17 +70,17 @@ export default function Home() {
       </Head>
       
       <div>
-        <header className='text-center'>
-          <h1 className='text-6xl tracking-tight font-semibold'>
+        <header className='text-center flex flex-col px-3 pt-3 pb-4 lg:p-8 gap-2 text-sm max-md:sticky max-md:top-0 max-md:shadow-xl shadow-black/25 max-md:border-b max-md:border-b-white/5 dark:max-md:bg-black/50 max-md:backdrop-blur'>
+          <h1 className='text-xl font-mono md:text-5xl md:tracking-tight md:font-semibold md:uppercase text-zinc-800 dark:text-zinc-200'>
             216.show
           </h1>
-          <form className='flex flex-col gap-2'>
+          <div className=''>
             <VenueFilter
               venues={allVenues} // pass the array of all unique venues names as a prop
               selectedVenues={selectedVenues} // pass the array of selected (checked) venues as a prop
               onVenueToggle={handleVenueToggle} // pass the function to handle toggling as a prop
             />
-          </form>
+          </div>
         </header>
         
         <main>

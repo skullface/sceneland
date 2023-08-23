@@ -10,16 +10,8 @@
 }
 
 @layer components {
-  header, main, footer {
+  main, footer {
     @apply container mx-auto p-4 lg:p-8
-  }
-  
-  header {
-    @apply flex flex-col gap-6 text-sm
-  }
-
-  h1 {
-    @apply text-2xl !font-semibold uppercase text-zinc-800 dark:text-zinc-300 leading-tight;
   }
   
   .shows {
@@ -27,7 +19,7 @@
   }
   
   .show {
-    @apply bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10
+    @apply bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10  focus:outline-none focus:ring focus:ring-indigo-500/25
   }
   
   .artist {
@@ -52,21 +44,34 @@
 }
 
 .dropdown-button {
-  @apply w-auto text-white p-2 font-medium rounded font-mono bg-zinc-900 border
+  @apply w-auto px-4 py-2 font-medium rounded-full text-base bg-zinc-950 hover:bg-zinc-800 transition text-zinc-50 dark:bg-zinc-50 dark:text-zinc-800 border border-zinc-400 dark:border-white dark:hover:bg-zinc-200 focus:outline-none focus:ring focus:ring-indigo-500/50
 }
 
-.dropdown-button[data-state='open'] span {
-  @apply inline-block transform rotate-180
-}
+  .dropdown-button[data-state='open'] span {
+    @apply transform rotate-90
+  }
 
 .dropdown-content {
-  @apply dark:bg-zinc-900 min-w-[200px] md:min-w-[300px] p-4 border rounded shadow-lg shadow-black/50 flex flex-col gap-y-2
+  @apply dark:bg-zinc-50 min-w-[200px] md:min-w-[360px] border rounded-xl shadow-lg shadow-black/5 flex flex-col bg-zinc-900
 }
 
 .dropdown-item {
-  @apply flex gap-x-4 justify-between items-center text-zinc-200 font-medium
+  @apply flex gap-x-2 justify-start px-4 py-2 items-center text-zinc-100 dark:text-zinc-800 font-medium cursor-pointer first-of-type:pt-3 first-of-type:rounded-t-xl last-of-type:pb-3 last-of-type:rounded-b-xl
 }
 
-.dropdown-item[data-state='unchecked'] {
-  @apply text-zinc-400 dark:text-zinc-500
-}
+  .dropdown-item:focus,
+  .dropdown-item:hover {
+    @apply dark:text-zinc-950 dark:bg-zinc-100 bg-zinc-800 text-white outline-none
+  }
+
+  .dropdown-item[data-state='unchecked'] {
+    @apply text-zinc-400
+  }
+  
+  .dropdown-item span {
+    @apply order-first text-center w-5 font-mono
+  }
+
+  .dropdown-item[data-state='checked'] span {
+    @apply text-green-600
+  }

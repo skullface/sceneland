@@ -27,9 +27,9 @@ export const DropdownMenuCheckboxItem = React.forwardRef(
         onSelect={event => event.preventDefault()}
       >
         {children}
-        <DropdownMenuPrimitive.ItemIndicator>
-          {props.checked === true && '✓'}
-        </DropdownMenuPrimitive.ItemIndicator>
+        <span>
+          {props.checked ? '✓' : '×'}
+        </span>
       </DropdownMenuPrimitive.CheckboxItem>
     );
   }

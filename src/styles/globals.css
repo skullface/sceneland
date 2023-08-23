@@ -9,73 +9,18 @@
   }
 }
 
-@layer components {
-  main, footer {
-    @apply container mx-auto p-4 lg:p-8
-  }
-
-  .shows {
-    @apply grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3 xl:grid-cols-4
-  }
-  
-  .show {
-    @apply bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10  focus:outline-none focus:ring focus:ring-indigo-500/25
-  }
-  
-  .artist {
-    @apply font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300
-  }
-  
-  .sold-out {
-    @apply self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2.5 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600
-  }
-
-  .venue {
-    @apply font-mono text-sm
-  }
-  
-  time {
-    @apply mt-3 text-zinc-800 dark:text-zinc-300
-  }
-  
-  footer {
-    @apply text-sm flex flex-col gap-2 text-center
-  }
-}
-
-.dropdown-button {
-  @apply w-auto px-4 py-2 font-medium rounded-full text-base bg-zinc-950 hover:bg-zinc-800 transition text-zinc-50 dark:bg-zinc-50 dark:text-zinc-800 border border-zinc-400 dark:border-white dark:hover:bg-zinc-200 focus:outline-none focus:ring focus:ring-indigo-500/50
-}
-
-  .dropdown-button[data-state='open'] span {
-    @apply rotate-90
-  }
-
-.dropdown-content {
-  @apply dark:bg-zinc-50 min-w-[200px] md:min-w-[360px] rounded-xl shadow-lg shadow-black/5 flex flex-col bg-zinc-900
+.dropdown-button[data-state='open'] span {
+  @apply rotate-90;
 }
 
 .dropdown-content span svg {
   @apply dark:!fill-zinc-50
 }
 
-.dropdown-item {
-  @apply flex gap-x-2 justify-start px-4 py-2 items-center text-zinc-100 dark:text-zinc-800 font-medium cursor-pointer first-of-type:pt-3 first-of-type:rounded-t-xl last-of-type:pb-3 last-of-type:rounded-b-xl
+.dropdown-item[data-state='unchecked'] {
+  @apply text-zinc-400;
 }
 
-  .dropdown-item:focus,
-  .dropdown-item:hover {
-    @apply dark:text-zinc-950 dark:bg-zinc-100 bg-zinc-800 text-white outline-none
-  }
-
-  .dropdown-item[data-state='unchecked'] {
-    @apply text-zinc-400
-  }
-  
-  .dropdown-item span {
-    @apply order-first text-center w-5 font-mono
-  }
-
-  .dropdown-item[data-state='checked'] span {
-    @apply text-green-600
-  }
+.dropdown-item[data-state='checked'] span {
+  @apply text-green-600;
+}

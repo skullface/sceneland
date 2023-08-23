@@ -15,14 +15,14 @@ export const getStaticProps = async () => {
 export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
   return (
     <DropdownMenu>
-      <DropdownMenuTrigger className='group dropdown-button'>
+      <DropdownMenuTrigger className='group dropdown-button w-auto px-4 py-2 font-medium rounded-full text-base bg-zinc-950 hover:bg-zinc-800 transition text-zinc-50 dark:bg-zinc-50 dark:text-zinc-800 border border-zinc-400 dark:border-white dark:hover:bg-zinc-200 focus:outline-none focus:ring focus:ring-indigo-500/50'>
         Select your fav Cleveland venues{' '}
         <span className='inline-block text-zinc-400 transition group-hover:translate-y-0.5 transform -rotate-90'>
           &lt;
         </span>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className='dropdown-content'>
         {venues.map(venue => (
+      <DropdownMenuContent className='dark:bg-zinc-50 min-w-[200px] md:min-w-[360px] rounded-xl shadow-lg shadow-black/5 flex flex-col bg-zinc-900'>
           <DropdownMenuCheckboxItem
             key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
             checked={selectedVenues.includes(venue)}
@@ -80,32 +80,32 @@ export default function Home() {
         />
       </header>
       
-      <main className='shows'>
         {sortedFilteredShows.map((show, i) => (
           show.artist && (
             <a
               key={i}
               href={show.link}
-              className='show group flex flex-col h-full'
             >
-              {show.sold_out && <span className='sold-out'>Sold out</span>}
-              <h2 className='artist'>
                 {JSON.stringify(show.artist).replace(/\[|\]|\"/g,'').replace(/\,/g, ', ')}
                 {' '}
               </h2>
-              <span className='venue'>{show.venue}</span>
-              <time className='flex-1 flex items-end' dateTime={new Date(show.date)}>
                 {new Date(show.date).toLocaleDateString('en-US', {weekday: 'short', year: 'numeric', month: 'long', day: 'numeric'})}
               </time>
             </a>
           )
         ))}
+      <main className='grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3 xl:grid-cols-4 container mx-auto p-4 lg:p-8'>
+              <a key={i} href={show.link} className='group flex flex-col h-full bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10  focus:outline-none focus:ring focus:ring-indigo-500/25'>
+                {show.sold_out && <span className='self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2.5 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600'>Sold out</span>}
+                <h2 className='font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300'>
+                <span className='font-mono text-sm'>{show.venue}</span>
+                <time className='flex-1 flex items-end mt-3 text-zinc-800 dark:text-zinc-300' dateTime={new Date(show.date)}>
       </main>
       
-      <footer>
         <p>
           All data is pulled from the venues’ individual websites and aggregated here. No ownership of information is claimed nor implied.
         </p>
+      <footer className='container mx-auto p-4 lg:p-8 text-sm flex flex-col gap-2 text-center'>
         <p>
           Support your scene and take care of each other.
         </p>

@@ -50,3 +50,23 @@
     @apply text-sm flex flex-col gap-2 text-center
   }
 }
+
+.dropdown-button {
+  @apply w-auto text-white p-2 font-medium rounded font-mono bg-zinc-900 border
+}
+
+.dropdown-button[data-state='open'] span {
+  @apply inline-block transform rotate-180
+}
+
+.dropdown-content {
+  @apply dark:bg-zinc-900 min-w-[200px] md:min-w-[300px] p-4 border rounded shadow-lg shadow-black/50 flex flex-col gap-y-2
+}
+
+.dropdown-item {
+  @apply flex gap-x-4 justify-between items-center text-zinc-200 font-medium
+}
+
+.dropdown-item[data-state='unchecked'] {
+  @apply text-zinc-400 dark:text-zinc-500
+}

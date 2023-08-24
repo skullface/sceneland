@@ -417,6 +417,30 @@ export const allShows = [
   },
   {
     "artist": [
+      "CAKE"
+    ],
+    "link": "https://www.axs.com/events/482364/cake-tickets",
+    "date": "2023-09-16T19:00:00-04:00",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Nathaniel Rateliff & The Night Sweats"
+    ],
+    "link": "https://www.axs.com/events/481061/nathaniel-rateliff-the-night-sweats-tickets",
+    "date": "2023-09-19T19:00:00-04:00",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Parkway Drive, The Amity Affliction, Northlane, Make Them Suffer"
+    ],
+    "link": "https://www.axs.com/events/480989/parkway-drive-tickets",
+    "date": "2023-09-22T18:00:00-04:00",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
       "Bop To The Top feat Lucas Grabeel & Life By Michael: 18+"
     ],
     "link": "https://concerts.livenation.com/bop-to-the-top-feat-lucas-cleveland-ohio-08-25-2023/event/05005EA5FE6C7E60",

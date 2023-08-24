@@ -314,6 +314,78 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Glyders, Marty Brass & The Lavender Jets, Simon & The Apparatus'],
+    link: 'https://www.eventbrite.com/e/glyders-marty-brass-the-lavender-jets-simon-the-apparatus-tickets-694384872847',
+    date: '2023-08-24T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Cereal Banter, Magnetic West Record Release w/ Nothing Phase'],
+    link: 'https://www.eventbrite.com/e/cereal-banter-magnetic-west-record-release-w-nothing-phase-tickets-675728140057',
+    date: '2023-08-26T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-694398784457',
+    date: '2023-08-28T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Crowning, Niboowin, Orphaned, Inosuke'],
+    link: 'https://www.eventbrite.com/e/crowning-niboowin-orphaned-inosuke-tickets-692013871117',
+    date: '2023-08-31T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: [
+      'The Michael Character, Eleanor Elektra, Jason Kaminski, House of Wills',
+    ],
+    link: 'https://www.eventbrite.com/e/the-michael-character-eleanor-elektra-jason-kaminski-house-of-wills-tickets-695041386497',
+    date: '2023-09-01T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Knowso, Show Pink, PAL: 15th Anniversary Show!'],
+    link: 'https://www.eventbrite.com/e/knowso-show-pink-pal-15th-anniversary-show-tickets-700354528247',
+    date: '2023-09-02T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-695043954177',
+    date: '2023-09-04T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Blossom Park, Bleeder, Hosta'],
+    link: 'https://www.eventbrite.com/e/blossom-park-bleeder-hosta-tickets-694394130537',
+    date: '2023-09-08T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Supercult, Silicon Heartbeat, Slug Fest, Terrycloth Mother'],
+    link: 'https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707',
+    date: '2023-09-15T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Lowspot, Wig Doubt, Quiet Zoo'],
+    link: 'https://www.eventbrite.com/e/lowspot-wig-doubt-quiet-zoo-tickets-694405765337',
+    date: '2023-09-16T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Classical Revolution Cleveland'],
+    link: 'https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307',
+    date: '2023-09-20T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['The Liquidated, TV Drugs, Drug Abuse, Self Checkout'],
+    link: 'https://www.eventbrite.com/e/the-liquidated-tv-drugs-drug-abuse-self-checkout-tickets-695045930087',
+    date: '2023-09-22T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
     artist: ['The 5 Seconds Of Summer Show'],
     link: 'https://concerts.livenation.com/the-5-seconds-of-summer-show-cuyahoga-falls-ohio-08-25-2023/event/05005E8403D753BA',
     date: '2023-08-25T20:00:00',

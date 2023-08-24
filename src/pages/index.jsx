@@ -71,26 +71,22 @@ export default function Home() {
 
   // Reduce the sorted, filtered shows
   const showsByWeek = sortedFilteredShows.reduce((acc, show) => {
-    // Get a show’s first day of the week
+    // Get a show’s first day of the week (starting on Monday)
     const weekStartDate = new Date(show.date)
     weekStartDate.setHours(0, 0, 0, 0)
-    weekStartDate.setDate(weekStartDate.getDate() - weekStartDate.getDay())
 
-    // Computers say Sunday, but we want Monday
+    // Calculate the number of days to subtract to get to Monday (one day lol)
     const daysToSubtract = (weekStartDate.getDay() + 6) % 7
     weekStartDate.setDate(weekStartDate.getDate() - daysToSubtract)
 
     // Convert the first day of the week to ISO
-    const weekStartStr = weekStartDate.toISOString()
-
+    const weekStartDateAsString = weekStartDate.toISOString()
     // Make an empty array if the first day of the week hasn’t happened yet
-    if (!acc[weekStartStr]) {
-      acc[weekStartStr] = []
+    if (!acc[weekStartDateAsString]) {
+      acc[weekStartDateAsString] = []
     }
-
     // Push the show into its corresponding week array
-    acc[weekStartStr].push(show)
-
+    acc[weekStartDateAsString].push(show)
     // Return the accumulator (that *accumulates* the grouped-by-week shows)
     return acc
   }, {})

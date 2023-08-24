@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup 
 import json
+from datetime import datetime
 
 session = requests.Session()
 page = session.get('https://www.livenation.com/venue/KovZpZAEAtAA/blossom-music-center-events', headers={'User-Agent': 'Mozilla/5.0'})
@@ -21,7 +22,10 @@ for show in shows:
   else:
     all_shows_data['artist'] = [artist.text.strip().replace(" - ", ": ")]
   all_shows_data['link'] = link.get('href')
-  all_shows_data['date'] = date.get('datetime')
+  if date.get('datetime') == "2024-12-31T00:00:01":
+    all_shows_data['date'] = datetime.now().strftime("%Y-%m-%d") + "T20:00:00"
+  else:
+    all_shows_data['date'] = date.get('datetime')
   all_shows_data['venue'] = "Blossom"
   all_shows_list.append(all_shows_data)
 

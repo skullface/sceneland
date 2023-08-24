@@ -4,24 +4,24 @@ import * as Fathom from 'fathom-client'
 import '@/styles/globals.css'
 
 export default function App({ Component, pageProps }) {
-  const router = useRouter();
+  const router = useRouter()
 
   useEffect(() => {
     Fathom.load('WXSTWRMY', {
       includedDomains: ['216.show'],
-    });
+    })
 
     function onRouteChangeComplete() {
-      Fathom.trackPageview();
+      Fathom.trackPageview()
     }
     // Record a pageview when route changes
-    router.events.on('routeChangeComplete', onRouteChangeComplete);
+    router.events.on('routeChangeComplete', onRouteChangeComplete)
 
     // Unassign event listener
     return () => {
-      router.events.off('routeChangeComplete', onRouteChangeComplete);
-    };
-  }, [router.events]);
+      router.events.off('routeChangeComplete', onRouteChangeComplete)
+    }
+  }, [router.events])
 
   return <Component {...pageProps} />
 }

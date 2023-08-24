@@ -24,11 +24,11 @@ export const DropdownMenuCheckboxItem = React.forwardRef(
       <DropdownMenuPrimitive.CheckboxItem
         {...props}
         ref={forwardedRef}
-        className='dropdown-item flex gap-x-2 justify-start px-4 py-2 items-center text-zinc-100 dark:text-zinc-800 font-medium cursor-pointer first-of-type:pt-3 first-of-type:rounded-t-xl last-of-type:pb-3 last-of-type:rounded-b-xl dark:hover:text-zinc-950 dark:hover:bg-zinc-200 hover:bg-zinc-800 hover:text-white dark:focus:text-zinc-950 dark:focus:bg-zinc-200 focus:bg-zinc-800 focus:text-white  focus:outline-none'
+        className='dropdown-item flex cursor-pointer items-center justify-start gap-x-2 px-4 py-2 font-medium text-zinc-100 first-of-type:rounded-t-xl first-of-type:pt-3 last-of-type:rounded-b-xl last-of-type:pb-3 hover:bg-zinc-800 hover:text-white focus:bg-zinc-800 focus:text-white focus:outline-none dark:text-zinc-800 dark:hover:bg-zinc-200 dark:hover:text-zinc-950 dark:focus:bg-zinc-200  dark:focus:text-zinc-950'
         onSelect={(event) => event.preventDefault()}
       >
         {children}
-        <span className='order-first text-center w-5 font-mono'>
+        <span className='order-first w-5 text-center font-mono'>
           {props.checked ? '✓' : '×'}
         </span>
       </DropdownMenuPrimitive.CheckboxItem>

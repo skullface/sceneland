@@ -20,13 +20,13 @@ export const getStaticProps = async () => {
 export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
   return (
     <DropdownMenu>
-      <DropdownMenuTrigger className='group dropdown-button select-none w-auto px-4 py-2 font-medium rounded-md text-base bg-zinc-950 hover:bg-zinc-800 transition text-zinc-50 dark:bg-zinc-100 dark:hover:bg-white dark:text-zinc-800 border border-zinc-800 dark:border-white focus:outline-none focus:ring focus:ring-lime-500/75 dark:shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(0,0,0,0.25) shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(255,255,255,0.25)]'>
+      <DropdownMenuTrigger className='dropdown-button dark:shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(0,0,0,0.25) group w-auto select-none rounded-md border border-zinc-800 bg-zinc-950 px-4 py-2 text-base font-medium text-zinc-50 shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(255,255,255,0.25)] transition hover:bg-zinc-800 focus:outline-none focus:ring focus:ring-lime-500/75 dark:border-white dark:bg-zinc-100 dark:text-zinc-800 dark:hover:bg-white'>
         Select your fav Cleveland venues{' '}
-        <span className='inline-block leading-none text-zinc-400 dark:group-hover:text-zinc-500 group-hover:text-zinc-200 transition-colors transform -rotate-90'>
+        <span className='inline-block -rotate-90 transform leading-none text-zinc-400 transition-colors group-hover:text-zinc-200 dark:group-hover:text-zinc-500'>
           &lt;
         </span>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className='dropdown-content dark:bg-zinc-50 min-w-[200px] md:min-w-[360px] rounded-xl shadow-lg shadow-black/5 flex flex-col bg-zinc-900'>
+      <DropdownMenuContent className='dropdown-content flex min-w-[200px] flex-col rounded-xl bg-zinc-900 shadow-lg shadow-black/5 dark:bg-zinc-50 md:min-w-[360px]'>
         {venues.map((venue) => (
           <DropdownMenuCheckboxItem
             key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
@@ -115,8 +115,8 @@ export default function Home() {
         <link rel='icon' href='/favicon.png' />
       </Head>
 
-      <header className='text-center mx-auto items-center flex max-md:flex-col md:justify-center md:gap-x-4 p-4 lg:p-8 gap-2 text-sm sticky top-0 shadow-xl dark:shadow-black/25 shadow-black/[0.03] border-b border-b-black/10 dark:border-b-white/5 bg-zinc-50 dark:bg-black/50 backdrop-blur'>
-        <h1 className='text-xl font-mono md:tracking-tight md:font-semibold md:uppercase md:text-2xl text-zinc-800 dark:text-zinc-200'>
+      <header className='sticky top-0 mx-auto flex items-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:flex-col md:justify-center md:gap-x-4 lg:p-8'>
+        <h1 className='font-mono text-xl text-zinc-800 dark:text-zinc-200 md:text-2xl md:font-semibold md:uppercase md:tracking-tight'>
           216.show
         </h1>
         <VenueFilter
@@ -126,11 +126,11 @@ export default function Home() {
         />
       </header>
 
-      <main className='container mx-auto p-4 lg:p-8 flex flex-col gap-14'>
+      <main className='container mx-auto flex flex-col gap-14 p-4 lg:p-8'>
         {groupedShows.map(({ weekStartDate, shows }) => (
           <section key={weekStartDate} className='flex flex-col gap-6'>
             <h2
-              className={`w-full dark:text-zinc-500 text-zinc-400 text-3xl flex items-center gap-x-2 before:content-[''] before:dark:bg-zinc-800 before:bg-zinc-300 before:w-full before:h-[1px] after:content-[''] after:dark:bg-zinc-800 after:bg-zinc-300 after:w-full after:h-[1px]`}
+              className={`flex w-full items-center gap-x-2 text-3xl text-zinc-400 before:h-[1px] before:w-full before:bg-zinc-300 before:content-[''] after:h-[1px] after:w-full after:bg-zinc-300 after:content-[''] dark:text-zinc-500 before:dark:bg-zinc-800 after:dark:bg-zinc-800`}
             >
               <span className='flex-shrink-0 font-mono text-lg uppercase'>
                 Week of
@@ -143,28 +143,28 @@ export default function Home() {
                 })}
               </span>
             </h2>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+            <div className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
               {shows.map(
                 (show, i) =>
                   show.artist && (
                     <a
                       key={i}
                       href={show.link}
-                      className='group flex flex-col h-full bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded leading-snug p-4 gap-y-2 shadow-sm dark:shadow-md transition hover:dark:border-zinc-700 hover:border-zinc-300 hover:shadow-black/10  focus:outline-none focus:ring focus:ring-lime-500/50'
+                      className='group flex h-full flex-col gap-y-2 rounded border border-zinc-200 bg-white p-4 leading-snug shadow-sm transition hover:border-zinc-300 hover:shadow-black/10 focus:outline-none focus:ring focus:ring-lime-500/50 dark:border-zinc-800  dark:bg-zinc-900 dark:shadow-md hover:dark:border-zinc-700'
                     >
                       {show.sold_out && (
-                        <span className='self-start uppercase border transition rounded-full [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] px-2.5 py-1 text-xs font-semibold tracking-wide whitespace-nowrap dark:text-red-500 text-white border-red-700 dark:border-red-900/75 group-hover:dark:border-red-900 dark:bg-red-950 bg-red-600'>
+                        <span className='self-start whitespace-nowrap rounded-full border border-red-700 bg-red-600 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white transition [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] dark:border-red-900/75 dark:bg-red-950 dark:text-red-500 group-hover:dark:border-red-900'>
                           Sold out
                         </span>
                       )}
-                      <h3 className='font-semibold dark:font-medium text-zinc-800 dark:text-zinc-300'>
+                      <h3 className='font-semibold text-zinc-800 dark:font-medium dark:text-zinc-300'>
                         {JSON.stringify(show.artist)
                           .replace(/\[|\]|\"/g, '')
                           .replace(/\,/g, ', ')}{' '}
                       </h3>
                       <span className='font-mono text-sm'>{show.venue}</span>{' '}
                       <time
-                        className='flex-1 flex items-end mt-3 text-zinc-800 dark:text-zinc-300'
+                        className='mt-3 flex flex-1 items-end text-zinc-800 dark:text-zinc-300'
                         dateTime={new Date(show.date)}
                       >
                         {new Date(show.date).toLocaleDateString('en-US', {
@@ -182,7 +182,7 @@ export default function Home() {
         ))}
       </main>
 
-      <footer className='container mx-auto p-4 lg:p-8 text-sm flex flex-col gap-2 text-center'>
+      <footer className='container mx-auto flex flex-col gap-2 p-4 text-center text-sm lg:p-8'>
         <p>
           All data is pulled from the venues’ individual websites and aggregated
           here. No ownership of information is claimed nor implied.

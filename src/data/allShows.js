@@ -417,6 +417,91 @@ export const allShows = [
   },
   {
     "artist": [
+      "The 5 Seconds Of Summer Show"
+    ],
+    "link": "https://concerts.livenation.com/the-5-seconds-of-summer-show-cuyahoga-falls-ohio-08-25-2023/event/05005E8403D753BA",
+    "date": "2023-08-25T20:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Disturbed: Take Back Your Life Tour"
+    ],
+    "link": "https://concerts.livenation.com/disturbed-take-back-your-life-tour-cuyahoga-falls-ohio-08-27-2023/event/05005E4212477ACC",
+    "date": "2023-08-27T18:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Shinedown: Revolutions Live"
+    ],
+    "link": "https://concerts.livenation.com/shinedown-revolutions-live-cuyahoga-falls-ohio-09-06-2023/event/05005E99ED8155A5",
+    "date": "2023-09-06T18:40:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "DURAN DURAN: FUTURE PAST"
+    ],
+    "link": "https://concerts.livenation.com/duran-duran-future-past-cuyahoga-falls-ohio-09-10-2023/event/05005E422AF481A2",
+    "date": "2023-09-10T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "NE-YO: Champagne and Roses Tour with Mario and Pleasure P"
+    ],
+    "link": "https://concerts.livenation.com/neyo-champagne-and-roses-tour-with-cuyahoga-falls-ohio-09-13-2023/event/05005ECAB4923837",
+    "date": "2023-09-13T19:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Brandi Carlile"
+    ],
+    "link": "https://concerts.livenation.com/brandi-carlile-cuyahoga-falls-ohio-09-16-2023/event/05005E99DDC448B7",
+    "date": "2023-09-16T19:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Jason Aldean: Highway Desperado Tour 2023"
+    ],
+    "link": "https://concerts.livenation.com/jason-aldean-highway-desperado-tour-2023-cuyahoga-falls-ohio-09-17-2023/event/05005E48DE174901",
+    "date": "2023-09-17T19:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Godsmack"
+    ],
+    "link": "https://concerts.livenation.com/godsmack-cuyahoga-falls-ohio-09-24-2023/event/05005EF023A9804C",
+    "date": "2023-09-24T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Jelly Roll: Backroad Baptism Tour 2023"
+    ],
+    "link": "https://concerts.livenation.com/jelly-roll-backroad-baptism-tour-2023-cuyahoga-falls-ohio-09-30-2023/event/05005E5042387690",
+    "date": "2023-09-30T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Niall Horan: \"THE SHOW\" LIVE ON TOUR 2024"
+    ],
+    "link": "https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F",
+    "date": "2024-06-26T19:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "link": "https://premium.livenation.com/venue/blossom-music-center",
+    "date": "2024-12-31T00:00:01",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
       "CAKE"
     ],
     "link": "https://www.axs.com/events/482364/cake-tickets",

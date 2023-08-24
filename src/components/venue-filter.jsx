@@ -16,15 +16,17 @@ export function VenueFilter({ venues, selectedVenues, onVenueToggle }) {
         </span>
       </DropdownMenuTrigger>
       <DropdownMenuContent className='dropdown-content flex min-w-[200px] flex-col rounded-xl bg-zinc-900 shadow-lg shadow-black/5 dark:bg-zinc-50 md:min-w-[360px]'>
-        {venues.map((venue) => (
-          <DropdownMenuCheckboxItem
-            key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
-            checked={selectedVenues.includes(venue)}
-            onCheckedChange={() => onVenueToggle(venue)}
-          >
-            {venue}
-          </DropdownMenuCheckboxItem>
-        ))}
+        {venues
+          .sort((a, b) => a.localeCompare(b))
+          .map((venue) => (
+            <DropdownMenuCheckboxItem
+              key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
+              checked={selectedVenues.includes(venue)}
+              onCheckedChange={() => onVenueToggle(venue)}
+            >
+              {venue}
+            </DropdownMenuCheckboxItem>
+          ))}
       </DropdownMenuContent>
     </DropdownMenu>
   )

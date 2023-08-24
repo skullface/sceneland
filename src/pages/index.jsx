@@ -119,9 +119,7 @@ export default function Home() {
                         </span>
                       )}
                       <h3 className='font-semibold text-zinc-800 dark:font-medium dark:text-zinc-300'>
-                        {JSON.stringify(show.artist)
-                          .replace(/\[|\]|\"/g, '')
-                          .replace(/\,/g, ', ')}{' '}
+                        {show.artist.join(', ')}
                       </h3>
                       <span className='font-mono text-sm'>{show.venue}</span>{' '}
                       <time

@@ -1,7 +1,7 @@
-import Head from 'next/head'
 import { useState } from 'react'
 
-import { allShows } from 'src/data/allShows'
+import { allShows } from '@/data/allShows'
+import { SiteMeta } from '@/components/meta'
 import { VenueFilter } from '@/components/venue-filter'
 
 export const getStaticProps = async () => {
@@ -76,15 +76,7 @@ export default function Home() {
 
   return (
     <>
-      <Head>
-        <title>216.show: Music in Cleveland 🤘</title>
-        <meta
-          name='description'
-          content='Concerts coming up at your fav local venues like the Beachland, Agora, Mahall’s, and more'
-        />
-        <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <link rel='icon' href='/favicon.png' />
-      </Head>
+      <SiteMeta />
 
       <header className='sticky top-0 mx-auto flex items-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:flex-col md:justify-center md:gap-x-4 lg:p-8'>
         <h1 className='font-mono text-xl text-zinc-800 dark:text-zinc-200 md:text-2xl md:font-semibold md:uppercase md:tracking-tight'>

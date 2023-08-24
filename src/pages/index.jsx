@@ -70,13 +70,17 @@ export default function Home() {
   )
 
   // Reduce the sorted, filtered shows
+  const days = 7
+  const monday = 1 // zero-indexed
+
   const showsByWeek = sortedFilteredShows.reduce((acc, show) => {
     // Get a show’s first day of the week (starting on Monday)
     const weekStartDate = new Date(show.date)
     weekStartDate.setHours(0, 0, 0, 0)
 
-    // Calculate the number of days to subtract to get to Monday (one day lol)
-    const daysToSubtract = (weekStartDate.getDay() + 6) % 7
+    // Calculate # of days to subtract to get to Monday
+    const daysToSubtract = (weekStartDate.getDay() + (days - monday)) % days
+    // Subtract that many days to always get Mondays
     weekStartDate.setDate(weekStartDate.getDate() - daysToSubtract)
 
     // Convert the first day of the week to ISO

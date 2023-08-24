@@ -106,11 +106,14 @@ export default function Home() {
               </span>
             </h2>
             <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
-              {shows.map((show, i) => show.artist && (
-                <li key={i}>
-                  <ShowCard show={show} />
-                </li>
-              ))}
+              {shows.map(
+                (show, i) =>
+                  show.artist && (
+                    <li key={i}>
+                      <ShowCard show={show} />
+                    </li>
+                  ),
+              )}
             </ul>
           </section>
         ))}

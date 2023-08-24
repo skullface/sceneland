@@ -447,7 +447,7 @@ export const allShows = [
   },
   {
     link: 'https://premium.livenation.com/venue/blossom-music-center',
-    date: '2024-12-31T00:00:01',
+    date: '2023-08-24T20:00:00',
     venue: 'Blossom',
   },
   {

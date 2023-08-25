@@ -2,8 +2,8 @@ import React from 'react'
 
 interface Show {
   link: string
-  sold_out: boolean
-  artist: string[]
+  sold_out?: boolean
+  artist?: string[]
   venue: string
   date: string
 }

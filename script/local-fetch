@@ -14,5 +14,6 @@ for input_file in ${input_directory}/*.py; do
 done
 
 python3.11 script/merge.py
+npm run format
 echo "---------------------------"
 echo "⬆️ allShows.js was merged ✅"

@@ -1,15 +1,8 @@
 import React from 'react'
+import { ShowProps } from '~/utils/types'
 
-interface Show {
-  link: string
-  sold_out?: boolean
-  artist?: string[]
-  venue: string
-  date: string
-}
-
-interface ShowCardProps {
-  show: Show
+type ShowCardProps = {
+  show: ShowProps
   i: number
 }
 

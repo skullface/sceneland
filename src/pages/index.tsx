@@ -1,17 +1,13 @@
 import React, { useState } from 'react'
 import { GetStaticProps } from 'next'
+
+import { ShowProps } from '~/utils/types'
+
 import { allShows } from '~/data/allShows'
+
 import { SiteMeta } from '~/components/meta'
 import { VenueFilter } from '~/components/venue-filter'
 import { ShowCard } from '~/components/show-card'
-
-type ShowProps = {
-  link: string
-  sold_out?: boolean
-  artist?: string[]
-  venue: string
-  date: string
-}
 
 type ShowsByWeekProps = {
   [weekStartDate: string]: ShowProps[]

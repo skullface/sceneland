@@ -10,13 +10,13 @@ interface Show {
 
 interface ShowCardProps {
   show: Show
-  key: number
+  i: number
 }
 
-export const ShowCard: React.FC<ShowCardProps> = ({ show, key }) => {
+export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
   return (
     show.artist && (
-      <li key={key}>
+      <li key={i}>
         <a
           href={show.link}
           className='group flex h-full flex-col gap-y-2 rounded border border-zinc-200 bg-white p-4 leading-snug shadow-sm transition hover:border-zinc-300 hover:shadow-black/10 focus:outline-none focus:ring focus:ring-lime-500/50 dark:border-zinc-800  dark:bg-zinc-900 dark:shadow-md hover:dark:border-zinc-700'

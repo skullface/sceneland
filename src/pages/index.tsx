@@ -153,8 +153,8 @@ export default function Home({ shows }: HomeProps) {
                 </span>
               </h2>
               <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
-                {shows.map((show, key) => (
-                  <ShowCard key={key} show={show} />
+                {shows.map((show, i) => (
+                  <ShowCard key={i} show={show} i={0} />
                 ))}
               </ul>
             </section>

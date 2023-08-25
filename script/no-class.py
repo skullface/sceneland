@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup 
 import json
+from datetime import datetime, timedelta
 
 session = requests.Session()
 page = session.get('https://www.eventbrite.com/o/no-class-41123421913', headers={'User-Agent': 'Mozilla/5.0'})

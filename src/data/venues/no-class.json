@@ -73,6 +73,14 @@
   },
   {
     "artist": [
+      "HIGH SUNN"
+    ],
+    "link": "https://www.eventbrite.com/e/high-sunn-tickets-706036693757",
+    "date": "2023-10-01T20:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "ARTILLERY"
     ],
     "link": "https://www.eventbrite.com/e/artillery-tickets-660652378047",
@@ -85,14 +93,6 @@
     ],
     "link": "https://www.eventbrite.com/e/exciter-tickets-678146914677",
     "date": "2023-10-14T20:00:00",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "FULL OF HELL"
-    ],
-    "link": "https://www.eventbrite.com/e/full-of-hell-tickets-654945308047",
-    "date": "2023-11-13T20:00:00",
     "venue": "No Class"
   }
 ]

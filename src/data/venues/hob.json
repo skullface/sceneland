@@ -233,14 +233,6 @@
   },
   {
     "artist": [
-      "Sammie: Love Always Wins Tour 2023"
-    ],
-    "link": "https://concerts.livenation.com/sammie-love-always-wins-tour-2023-cleveland-ohio-09-30-2023/event/05005ED6AEA95064",
-    "date": "2023-09-30T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Eric Johnson"
     ],
     "link": "https://concerts.livenation.com/eric-johnson-cleveland-ohio-10-01-2023/event/05005E4D8FFB0FB2",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C",
     "date": "2023-10-23T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Laufey: The Bewitched Tour"
+    ],
+    "link": "https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA",
+    "date": "2023-10-24T19:00:00",
     "venue": "House of Blues"
   }
 ]

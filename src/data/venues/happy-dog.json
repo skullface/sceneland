@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Glyders, Marty Brass & The Lavender Jets, Simon & The Apparatus"
-    ],
-    "link": "https://www.eventbrite.com/e/glyders-marty-brass-the-lavender-jets-simon-the-apparatus-tickets-694384872847",
-    "date": "2023-08-24T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Cereal Banter, Magnetic West Record Release w/ Nothing Phase"
     ],
     "link": "https://www.eventbrite.com/e/cereal-banter-magnetic-west-record-release-w-nothing-phase-tickets-675728140057",
@@ -45,8 +37,24 @@
     "venue": "Happy Dog"
   },
   {
+    "artist": [
+      "The Tangees, King Buu, Oongow!!!"
+    ],
+    "link": "https://www.eventbrite.com/e/the-tangees-king-buu-oongow-tickets-706329720207",
+    "date": "2023-09-03T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-695043954177",
     "date": "2023-09-04T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Istvan Medgyesi, The Strangers, Joey Beltram: in the Underdog!"
+    ],
+    "link": "https://www.eventbrite.com/e/istvan-medgyesi-the-strangers-joey-beltram-in-the-underdog-tickets-706325828567",
+    "date": "2023-09-07T20:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -59,34 +67,23 @@
   },
   {
     "artist": [
+      "Closedown, Heart and Lung, Honeybee, Soul Charge"
+    ],
+    "link": "https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197",
+    "date": "2023-09-09T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706345457277",
+    "date": "2023-09-11T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Supercult, Silicon Heartbeat, Slug Fest, Terrycloth Mother"
     ],
     "link": "https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707",
     "date": "2023-09-15T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Lowspot, Wig Doubt, Quiet Zoo"
-    ],
-    "link": "https://www.eventbrite.com/e/lowspot-wig-doubt-quiet-zoo-tickets-694405765337",
-    "date": "2023-09-16T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Classical Revolution Cleveland"
-    ],
-    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307",
-    "date": "2023-09-20T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "The Liquidated, TV Drugs, Drug Abuse, Self Checkout"
-    ],
-    "link": "https://www.eventbrite.com/e/the-liquidated-tv-drugs-drug-abuse-self-checkout-tickets-695045930087",
-    "date": "2023-09-22T20:00:00",
     "venue": "Happy Dog"
   }
 ]

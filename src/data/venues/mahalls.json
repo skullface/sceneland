@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Hideaway Beach"
-    ],
-    "link": "https://link.dice.fm/k6a056ec4402",
-    "date": "2023-08-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Nude Party"
     ],
     "link": "https://link.dice.fm/n99204623149",
@@ -100,6 +92,14 @@
       "Honey Pocket"
     ],
     "link": "https://link.dice.fm/z5acb49bcca5",
+    "date": "2023-09-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Secret Society &BravoArtist present Michael Turner"
+    ],
+    "link": "https://link.dice.fm/Ya876ce6f4c1",
     "date": "2023-09-09T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -299,6 +299,14 @@
   },
   {
     "artist": [
+      "French Cassettes"
+    ],
+    "link": "https://link.dice.fm/i9d3198de992",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Frankie Cosmos with Good Morning"
     ],
     "link": "https://link.dice.fm/x212bc9821be",
@@ -315,17 +323,17 @@
   },
   {
     "artist": [
-      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
+      "Kate Bollinger"
     ],
-    "link": "https://link.dice.fm/d079039b50bc",
+    "link": "https://link.dice.fm/P8653582ac4e",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Kate Bollinger"
+      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
     ],
-    "link": "https://link.dice.fm/P8653582ac4e",
+    "link": "https://link.dice.fm/d079039b50bc",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -391,6 +399,14 @@
     ],
     "link": "https://link.dice.fm/L1d99087ee2c",
     "date": "2023-10-21T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "El Camino Acid and The Wonderfool"
+    ],
+    "link": "https://link.dice.fm/Q89c1c620f45",
+    "date": "2023-10-25T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

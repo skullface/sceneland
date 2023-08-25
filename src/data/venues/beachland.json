@@ -1,21 +1,5 @@
 [
   {
-    "artist": [
-      "Pre/Post Party with DJs Chris & Heidi Kulscar"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13440848/pre-post-party-with-djs-chris-heidi-kulscar",
-    "date": "2023-08-24T20:00:00",
-    "venue": "Beachland"
-  },
-  {
-    "artist": [
-      "The Baseball Project feat. Peter Buck, Scott McCaughey, Mike Mills, Linda Pitmon, & Steve Wynn"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13118375/the-baseball-project-feat-peter-buck-scott-mccaughey-mike-mills-linda-pitmon-steve-wynn",
-    "date": "2023-08-24T20:00:00",
-    "venue": "Beachland"
-  },
-  {
     "link": "https://www.beachlandballroom.com/e/13502958/this-way-out",
     "date": "2023-08-25T20:00:00",
     "venue": "Beachland"
@@ -364,9 +348,10 @@
   {
     "artist": [
       "MAN ON MAN",
-      "Factual Brains"
+      "Factual Brains",
+      "Duo Decibel System"
     ],
-    "link": "https://www.beachlandballroom.com/e/13317508/man-on-man-factual-brains",
+    "link": "https://www.beachlandballroom.com/e/13317508/man-on-man-factual-brains-duo-decibel-system",
     "date": "2023-09-21T20:00:00",
     "venue": "Beachland"
   },
@@ -392,6 +377,7 @@
       "Norman Westberg"
     ],
     "link": "https://www.beachlandballroom.com/e/13019205/swans-norman-westberg",
+    "sold_out": true,
     "date": "2023-09-24T20:00:00",
     "venue": "Beachland"
   },

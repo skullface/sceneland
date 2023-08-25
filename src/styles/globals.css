@@ -4,8 +4,7 @@
 
 @layer base {
   body {
-    @apply min-h-screen [text-wrap:pretty];
-    @apply bg-zinc-50 text-zinc-500 dark:bg-zinc-950 dark:text-zinc-500;
+    @apply bg-zinc-50 text-zinc-500 [text-wrap:pretty] dark:bg-zinc-950 dark:text-zinc-500;
   }
 }
 

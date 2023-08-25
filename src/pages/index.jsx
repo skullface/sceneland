@@ -85,10 +85,10 @@ export default function Home() {
   )
 
   return (
-    <>
+    <div className='flex min-h-screen flex-col'>
       <SiteMeta />
 
-      <header className='sticky top-0 mx-auto flex items-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:flex-col md:justify-center md:gap-x-4 lg:p-8'>
+      <header className='sticky top-0 mx-auto flex w-full items-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:flex-col md:justify-center md:gap-x-4 lg:p-8'>
         <h1 className='font-mono text-xl text-zinc-800 dark:text-zinc-200 md:text-2xl md:font-semibold md:uppercase md:tracking-tight'>
           216.show
         </h1>
@@ -141,13 +141,13 @@ export default function Home() {
         )}
       </main>
 
-      <footer className='container mx-auto flex flex-col gap-2 p-4 text-center text-sm lg:p-8'>
+      <footer className='container mx-auto mt-auto flex flex-col gap-2 p-4 text-center text-sm lg:p-8'>
         <p>
           All data is pulled from the venues’ individual websites and aggregated
           here. No ownership of information is claimed nor implied.
         </p>
         <p>Support your scene and take care of each other.</p>
       </footer>
-    </>
+    </div>
   )
 }

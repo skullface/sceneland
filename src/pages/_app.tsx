@@ -1,5 +1,5 @@
 import { type AppType } from 'next/dist/shared/lib/utils'
-import '@/styles/globals.css'
+import '~/styles/globals.css'
 import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 import * as Fathom from 'fathom-client'

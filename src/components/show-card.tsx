@@ -10,10 +10,10 @@ interface Show {
 
 interface ShowCardProps {
   show: Show
-  i: number
+  key: number
 }
 
-export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
+export const ShowCard: React.FC<ShowCardProps> = ({ show, key }) => {
   return (
     <a
       key={i}

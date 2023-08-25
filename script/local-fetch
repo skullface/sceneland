@@ -1,3 +1,18 @@
 #!/bin/sh
 
-python3.11 script/beachland.py > src/data/venues/beachland.json; echo "✅ Beachland" ; python3.11 script/grog-shop.py > src/data/venues/grog-shop.json; echo "✅ Grog Shop" ; python3.11 script/mahalls.py > src/data/venues/mahalls.json; echo "✅ Mahalls" ; python3.11 script/agora.py > src/data/venues/agora.json; echo "✅ Agora" ; python3.11 script/hob.py > src/data/venues/hob.json; echo "✅ HOB" ; python3.11 script/no-class.py > src/data/venues/no-class.json; echo "✅ No Class" ; python3.11 script/merge.py ; echo "✅ merged to allShows.js"
+input_directory="script"
+output_directory="src/data/venues"
+
+for input_file in ${input_directory}/*.py; do
+  if [ "$(basename "$input_file")" != "merge.py" ]; then
+    venue_name=$(basename "$input_file" .py)
+    output_file="${output_directory}/${venue_name}.json"
+    
+    python3.11 "$input_file" > "$output_file"
+    echo "✅ ${venue_name}.json"
+  fi
+done
+
+python3.11 script/merge.py
+echo "---------------------------"
+echo "⬆️ allShows.js was merged ✅"

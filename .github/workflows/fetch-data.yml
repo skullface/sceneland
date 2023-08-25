@@ -18,15 +18,23 @@ jobs:
         run: pip install -r requirements.txt
       - name: Get data
         run: |
-          python script/agora.py > src/data/venues/agora.json
-          python script/beachland.py > src/data/venues/beachland.json
-          python script/grog-shop.py > src/data/venues/grog-shop.json
-          python script/hob.py > src/data/venues/hob.json
-          python script/mahalls.py > src/data/venues/mahalls.json
-          python script/nautica.py > src/data/venues/nautica.json
-          python script/no-class.py > src/data/venues/no-class.json
+          input_directory="script"
+          output_directory="src/data/venues"
+
+          for input_file in ${input_directory}/*.py; do
+            if [ "$(basename "$input_file")" != "merge.py" ]; then
+              venue_name=$(basename "$input_file" .py)
+              output_file="${output_directory}/${venue_name}.json"
+              
+              python "$input_file" > "$output_file"
+              echo "✅ ${venue_name}.json"
+            fi
+          done
       - name: Merge data
-        run: python script/merge.py
+        run: |
+          python script/merge.py
+          echo "---------------------------"
+          echo "⬆️ allShows.js was merged ✅"
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

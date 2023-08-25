@@ -1,4 +1,19 @@
-export const ShowCard = ({ show, i }) => {
+import React from 'react'
+
+interface Show {
+  link: string
+  sold_out: boolean
+  artist: string[]
+  venue: string
+  date: string
+}
+
+interface ShowCardProps {
+  show: Show
+  i: number
+}
+
+export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
   return (
     <a
       key={i}
@@ -16,7 +31,7 @@ export const ShowCard = ({ show, i }) => {
       <span className='font-mono text-sm'>{show.venue}</span>{' '}
       <time
         className='mt-3 flex flex-1 items-end text-zinc-800 dark:text-zinc-300'
-        dateTime={new Date(show.date)}
+        dateTime={new Date(show.date).toISOString()}
       >
         {new Date(show.date).toLocaleDateString('en-US', {
           weekday: 'long',

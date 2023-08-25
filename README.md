@@ -1,12 +1,12 @@
 # 🎸 [216.show](https://216.show)
 
-Aggregates concerts from local venues in one website.
+Aggregates concerts from local Cleveland venues in one website.
 
 ## How it works
 
 ### Get show data (🐍 Python)
 
-- Extract and normalize data from local venues’ websites [with Python](https://github.com/skullface/sceneland/tree/main/script)
+- Extract and normalize data from local venues’ websites [with Python](https://github.com/skullface/sceneland/tree/main/script/venues)
 - Export that data [per venue as JSON](https://github.com/skullface/sceneland/tree/main/src/data/venues)
 - [Merge](https://github.com/skullface/sceneland/blob/main/script/merge.py) JSON files together as [a `.js` array of objects](https://github.com/skullface/sceneland/blob/main/src/data/allShows.js)
 
@@ -21,7 +21,7 @@ Aggregates concerts from local venues in one website.
 
 - At 5:00am ET, [refresh data](https://github.com/skullface/sceneland/blob/main/.github/workflows/fetch-data.yml) by re-fetching, re-merging, and re-deploying
 
-## Fork your own
+## Fork this repo for your own city
 
 ### Local requirements
 

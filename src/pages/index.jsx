@@ -31,6 +31,15 @@ export default function Home() {
     }
   }
 
+  // Select and deselect all button logic
+  const handleSelectAll = () => {
+    setSelectedVenues([...allVenues])
+  }
+
+  const handleDeselectAll = () => {
+    setSelectedVenues([])
+  }
+
   // Filter shows by selected venues
   const filteredShows = allShows.filter((show) =>
     selectedVenues.includes(show.venue),
@@ -87,6 +96,8 @@ export default function Home() {
           venues={allVenues} // array of all unique venues names
           selectedVenues={selectedVenues} // array of selected/checked
           onVenueToggle={handleVenueToggle} // function to handle toggling
+          onSelectAll={handleSelectAll}
+          onDeselectAll={handleDeselectAll}
         />
       </header>
 

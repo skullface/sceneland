@@ -5,7 +5,7 @@ import { SiteMeta } from '~/components/meta'
 import { VenueFilter } from '~/components/venue-filter'
 import { ShowCard } from '~/components/show-card'
 
-interface Show {
+type ShowProps = {
   link: string
   sold_out?: boolean
   artist?: string[]
@@ -13,20 +13,20 @@ interface Show {
   date: string
 }
 
-interface GroupedShows {
+type ShowsByWeekProps = {
+  [weekStartDate: string]: ShowProps[]
+}
+
+type GroupedShowsProps = {
   weekStartDate: Date
-  shows: Show[]
+  shows: ShowProps[]
 }
 
-interface HomeProps {
-  shows: Show[]
+type PageProps = {
+  shows: ShowProps[]
 }
 
-interface ShowsByWeek {
-  [weekStartDate: string]: Show[]
-}
-
-export const getStaticProps: GetStaticProps<HomeProps> = async () => {
+export const getStaticProps: GetStaticProps<PageProps> = async () => {
   return {
     props: {
       shows: allShows,
@@ -34,7 +34,7 @@ export const getStaticProps: GetStaticProps<HomeProps> = async () => {
   }
 }
 
-export default function Home({ shows }: HomeProps) {
+export default function Page({ shows }: PageProps) {
   // Create an array of all unique venues
   const allVenues = Array.from(new Set(shows.map((show) => show.venue)))
 
@@ -90,16 +90,16 @@ export default function Home({ shows }: HomeProps) {
     // Make an empty array if the first day of the week hasn’t happened yet
     // Assert expected type of the accumulator
     if (!acc[weekStartDateAsString]) {
-      acc[weekStartDateAsString] = [] as Show[]
+      acc[weekStartDateAsString] = [] as ShowProps[]
     }
     // Push the show into its corresponding week array
     acc[weekStartDateAsString]!.push(show)
     // Return the accumulator (that *accumulates* the grouped-by-week shows)
     return acc
-  }, {} as ShowsByWeek)
+  }, {} as ShowsByWeekProps)
 
   // Convert the grouped shows into an array of `{ weekStartDate, shows }` objects
-  const groupedShows: GroupedShows[] = Object.entries(showsByWeek).map(
+  const groupedShows: GroupedShowsProps[] = Object.entries(showsByWeek).map(
     ([weekStart, weekShows]) => ({
       weekStartDate: new Date(weekStart),
       shows: weekShows,

@@ -120,6 +120,7 @@ export default function Home({ shows }: HomeProps) {
           onVenueToggle={handleVenueToggle} // function to handle toggling
           onSelectAll={handleSelectAll}
           onDeselectAll={handleDeselectAll}
+          checked={false}
         />
       </header>
 

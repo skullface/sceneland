@@ -7,11 +7,11 @@ for input_file in ${input_directory}/*.py; do
   venue_name=$(basename "$input_file" .py)
   output_file="${output_directory}/${venue_name}.json"
   
-  python3.11 "$input_file" > "$output_file"
+  python3 "$input_file" > "$output_file"
   echo "✅ ${venue_name}.json"
 done
 
-python3.11 script/merge.py
+python3 script/merge.py
 npm run format:data
 echo "---------------------------"
 echo "⬆️ allShows.js was merged ✅"

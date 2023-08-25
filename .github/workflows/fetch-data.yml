@@ -20,7 +20,9 @@ jobs:
           node-version: 18
           cache: npm
       - name: Setup dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          npm install
       - name: Get data
         run: |
           input_directory="script"

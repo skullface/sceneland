@@ -102,32 +102,43 @@ export default function Home() {
       </header>
 
       <main className='container mx-auto flex flex-col gap-14 p-4 lg:p-8'>
-        {groupedShows.map(({ weekStartDate, shows }) => (
-          <section key={weekStartDate} className='flex flex-col gap-6'>
-            <h2 className='flex w-full items-center gap-x-2 text-3xl text-zinc-400 before:h-[1px] before:w-full before:bg-zinc-300 before:content-[""] after:h-[1px] after:w-full after:bg-zinc-300 after:content-[""] dark:text-zinc-500 before:dark:bg-zinc-800 after:dark:bg-zinc-800'>
-              <span className='flex-shrink-0 font-mono text-lg uppercase'>
-                Week of
-              </span>{' '}
-              <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
-                {weekStartDate.toLocaleDateString('en-US', {
-                  year: 'numeric',
-                  month: 'long',
-                  day: 'numeric',
-                })}
-              </span>
+        {groupedShows.length === 0 ? (
+          <div className='flex flex-col gap-2 rounded border p-6 text-center dark:border-red-900 dark:bg-red-950/75'>
+            <h2 className='text-3xl font-medium dark:text-zinc-50'>
+              No shows available
             </h2>
-            <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
-              {shows.map(
-                (show, i) =>
-                  show.artist && (
-                    <li key={i}>
-                      <ShowCard show={show} />
-                    </li>
-                  ),
-              )}
-            </ul>
-          </section>
-        ))}
+            <p className='text-lg dark:text-red-600/75'>
+              Please select at least one venue to view upcoming shows.
+            </p>
+          </div>
+        ) : (
+          groupedShows.map(({ weekStartDate, shows }) => (
+            <section key={weekStartDate} className='flex flex-col gap-6'>
+              <h2 className='flex w-full items-center gap-x-2 text-3xl text-zinc-400 before:h-[1px] before:w-full before:bg-zinc-300 before:content-[""] after:h-[1px] after:w-full after:bg-zinc-300 after:content-[""] dark:text-zinc-500 before:dark:bg-zinc-800 after:dark:bg-zinc-800'>
+                <span className='flex-shrink-0 font-mono text-lg uppercase'>
+                  Week of
+                </span>{' '}
+                <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
+                  {weekStartDate.toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric',
+                  })}
+                </span>
+              </h2>
+              <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
+                {shows.map(
+                  (show, i) =>
+                    show.artist && (
+                      <li key={i}>
+                        <ShowCard show={show} />
+                      </li>
+                    ),
+                )}
+              </ul>
+            </section>
+          ))
+        )}
       </main>
 
       <footer className='container mx-auto flex flex-col gap-2 p-4 text-center text-sm lg:p-8'>

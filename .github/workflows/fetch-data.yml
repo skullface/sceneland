@@ -40,7 +40,7 @@ jobs:
       - name: Merge data
         run: |
           python script/merge.py
-          npm run format
+          npm run format:data
           echo "---------------------------"
           echo "⬆️ allShows.js was merged ✅"
       - name: Commit changes

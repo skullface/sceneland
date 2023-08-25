@@ -25,17 +25,15 @@ jobs:
           npm install
       - name: Get data
         run: |
-          input_directory="script"
+          input_directory="script/venues"
           output_directory="src/data/venues"
 
           for input_file in ${input_directory}/*.py; do
-            if [ "$(basename "$input_file")" != "merge.py" ]; then
-              venue_name=$(basename "$input_file" .py)
-              output_file="${output_directory}/${venue_name}.json"
-              
-              python "$input_file" > "$output_file"
-              echo "✅ ${venue_name}.json"
-            fi
+            venue_name=$(basename "$input_file" .py)
+            output_file="${output_directory}/${venue_name}.json"
+            
+            python "$input_file" > "$output_file"
+            echo "✅ ${venue_name}.json"
           done
       - name: Merge data
         run: |

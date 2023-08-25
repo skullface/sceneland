@@ -1,9 +1,10 @@
+import { type AppType } from 'next/dist/shared/lib/utils'
+import '@/styles/globals.css'
 import { useEffect } from 'react'
 import { useRouter } from 'next/router'
 import * as Fathom from 'fathom-client'
-import '@/styles/globals.css'
 
-export default function App({ Component, pageProps }) {
+const MyApp: AppType = ({ Component, pageProps }) => {
   const router = useRouter()
 
   useEffect(() => {
@@ -25,3 +26,5 @@ export default function App({ Component, pageProps }) {
 
   return <Component {...pageProps} />
 }
+
+export default MyApp

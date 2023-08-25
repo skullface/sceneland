@@ -33,9 +33,19 @@ export function VenueFilter({
               {venue}
             </DropdownMenuCheckboxItem>
           ))}
-        <div>
-          <button onClick={onSelectAll}>Select all</button>
-          <button onClick={onDeselectAll}>Deselect all</button>
+        <div className='mb-5 mt-3 grid grid-cols-2 gap-3 px-5'>
+          <button
+            className='rounded-md border border-zinc-700 p-1.5 text-sm text-zinc-400 transition hover:border-zinc-600 hover:bg-zinc-800 hover:text-zinc-50 dark:border-zinc-200 dark:text-zinc-500 dark:hover:border-zinc-300 dark:hover:bg-zinc-100 dark:hover:text-zinc-800'
+            onClick={onDeselectAll}
+          >
+            Clear all
+          </button>
+          <button
+            className='rounded-md border border-zinc-700 p-1.5 text-sm text-zinc-400 transition hover:border-zinc-600 hover:bg-zinc-800 hover:text-zinc-50 dark:border-zinc-200 dark:text-zinc-500 dark:hover:border-zinc-300 dark:hover:bg-zinc-100 dark:hover:text-zinc-800'
+            onClick={onSelectAll}
+          >
+            Select all
+          </button>
         </div>
       </DropdownMenuContent>
     </DropdownMenu>

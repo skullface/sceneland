@@ -1,11 +1,32 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
+import { GetStaticProps } from 'next'
+import { allShows } from '~/data/allShows'
+import { SiteMeta } from '~/components/meta'
+import { VenueFilter } from '~/components/venue-filter'
+import { ShowCard } from '~/components/show-card'
 
-import { allShows } from '@/data/allShows'
-import { SiteMeta } from '@/components/meta'
-import { VenueFilter } from '@/components/venue-filter'
-import { ShowCard } from '@/components/show-card'
+interface Show {
+  link: string
+  sold_out?: boolean
+  artist?: string[]
+  venue: string
+  date: string
+}
 
-export const getStaticProps = async () => {
+interface GroupedShows {
+  weekStartDate: Date
+  shows: Show[]
+}
+
+interface HomeProps {
+  shows: Show[]
+}
+
+interface ShowsByWeek {
+  [weekStartDate: string]: Show[]
+}
+
+export const getStaticProps: GetStaticProps<HomeProps> = async () => {
   return {
     props: {
       shows: allShows,
@@ -13,15 +34,15 @@ export const getStaticProps = async () => {
   }
 }
 
-export default function Home() {
+export default function Home({ shows }: HomeProps) {
   // Create an array of all unique venues
-  const allVenues = Array.from(new Set(allShows.map((show) => show.venue)))
+  const allVenues = Array.from(new Set(shows.map((show) => show.venue)))
 
   // Initialize state for selected venues
-  const [selectedVenues, setSelectedVenues] = useState(allVenues)
+  const [selectedVenues, setSelectedVenues] = useState<string[]>(allVenues)
 
   // Handle venue toggling by changing state
-  const handleVenueToggle = (venue) => {
+  const handleVenueToggle = (venue: string) => {
     // If the `selectedVenues` array already includes the venue, remove it
     if (selectedVenues.includes(venue)) {
       setSelectedVenues(selectedVenues.filter((v) => v !== venue))
@@ -41,13 +62,13 @@ export default function Home() {
   }
 
   // Filter shows by selected venues
-  const filteredShows = allShows.filter((show) =>
+  const filteredShows = shows.filter((show) =>
     selectedVenues.includes(show.venue),
   )
 
   // Sort filtered shows chronologically by show date
   const sortedFilteredShows = filteredShows.sort(
-    (a, b) => new Date(a.date) - new Date(b.date),
+    (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime(),
   )
 
   // Reduce the sorted, filtered shows
@@ -67,17 +88,18 @@ export default function Home() {
     // Convert the first day of the week to ISO
     const weekStartDateAsString = weekStartDate.toISOString()
     // Make an empty array if the first day of the week hasn’t happened yet
+    // Assert expected type of the accumulator
     if (!acc[weekStartDateAsString]) {
-      acc[weekStartDateAsString] = []
+      acc[weekStartDateAsString] = [] as Show[]
     }
     // Push the show into its corresponding week array
-    acc[weekStartDateAsString].push(show)
+    acc[weekStartDateAsString]!.push(show)
     // Return the accumulator (that *accumulates* the grouped-by-week shows)
     return acc
-  }, {})
+  }, {} as ShowsByWeek)
 
   // Convert the grouped shows into an array of `{ weekStartDate, shows }` objects
-  const groupedShows = Object.entries(showsByWeek).map(
+  const groupedShows: GroupedShows[] = Object.entries(showsByWeek).map(
     ([weekStart, weekShows]) => ({
       weekStartDate: new Date(weekStart),
       shows: weekShows,
@@ -113,7 +135,10 @@ export default function Home() {
           </div>
         ) : (
           groupedShows.map(({ weekStartDate, shows }) => (
-            <section key={weekStartDate} className='flex flex-col gap-6'>
+            <section
+              key={weekStartDate.toISOString()}
+              className='flex flex-col gap-6'
+            >
               <h2 className='flex w-full items-center gap-x-2 text-3xl text-zinc-400 before:h-[1px] before:w-full before:bg-zinc-300 before:content-[""] after:h-[1px] after:w-full after:bg-zinc-300 after:content-[""] dark:text-zinc-500 before:dark:bg-zinc-800 after:dark:bg-zinc-800'>
                 <span className='flex-shrink-0 font-mono text-lg uppercase'>
                   Week of
@@ -127,14 +152,9 @@ export default function Home() {
                 </span>
               </h2>
               <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
-                {shows.map(
-                  (show, i) =>
-                    show.artist && (
-                      <li key={i}>
-                        <ShowCard show={show} />
-                      </li>
-                    ),
-                )}
+                {shows.map((show, key) => (
+                  <ShowCard key={key} show={show} />
+                ))}
               </ul>
             </section>
           ))

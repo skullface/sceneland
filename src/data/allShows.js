@@ -989,7 +989,8 @@ export const allShows = [
   },
   {
     "link": "https://www.beachlandballroom.com/e/13502968/this-way-out",
-    "date": "2023-08-26T20:00:00"
+    "date": "2023-08-26T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -1081,7 +1082,8 @@ export const allShows = [
   },
   {
     "link": "https://www.beachlandballroom.com/e/13521438/this-way-out",
-    "date": "2023-09-01T20:00:00"
+    "date": "2023-09-01T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -1093,7 +1095,8 @@ export const allShows = [
   },
   {
     "link": "https://www.beachlandballroom.com/e/13521448/this-way-out",
-    "date": "2023-09-02T20:00:00"
+    "date": "2023-09-02T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -1254,7 +1257,8 @@ export const allShows = [
       "Joey Simeone (The Bellfuries)"
     ],
     "link": "https://www.beachlandballroom.com/e/13503618/deke-dickerson-with-crazy-joe-tritschler-kyle-eldridge-joey-simeone-the-bellfuries-",
-    "date": "2023-09-16T20:00:00"
+    "date": "2023-09-16T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -1401,7 +1405,8 @@ export const allShows = [
       "Andy Frasco & The U.N."
     ],
     "link": "https://www.beachlandballroom.com/e/13405208/andy-frasco-the-u-n-",
-    "date": "2023-09-29T20:00:00"
+    "date": "2023-09-29T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -1428,7 +1433,8 @@ export const allShows = [
       "Tasha"
     ],
     "link": "https://www.beachlandballroom.com/e/13245308/margaret-glaspy-tasha",
-    "date": "2023-10-03T20:00:00"
+    "date": "2023-10-03T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -1630,7 +1636,8 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour",
     "sold_out": true,
-    "date": "2023-10-24T20:00:00"
+    "date": "2023-10-24T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -1810,7 +1817,8 @@ export const allShows = [
       "Rayland Baxter"
     ],
     "link": "https://www.beachlandballroom.com/e/13387938/shakey-graves-rayland-baxter",
-    "date": "2023-11-16T20:00:00"
+    "date": "2023-11-16T20:00:00",
+    "venue": ""
   },
   {
     "artist": [

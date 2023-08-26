@@ -46,11 +46,11 @@ for show in shows:
   venue = show.find("span", class_="venue")
   # Add the venue to the object
   if venue.text.strip() == 'Beachland Ballroom':
-    all_shows_data['venue'] = 'Beachland Ballroom'
+    all_shows_data['venue'] = venue.text.strip()
   elif venue.text.strip() == 'Beachland Tavern':
-    all_shows_data['venue'] = 'Beachland Tavern'
+    all_shows_data['venue'] = venue.text.strip()
   else:
-    ...
+    all_shows_data['venue'] = ""
   # Populate the empty array `[]` with the object we just defined
   all_shows_list.append(all_shows_data)
 

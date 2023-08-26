@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { GetStaticProps } from 'next'
 import { ShowProps } from '~/utils/types'
 
@@ -109,6 +109,7 @@ export default function Page({ shows }: PageProps) {
     }),
   )
 
+  // Animate header elements on scroll
   const [animateOnScroll, setAnimateOnScroll] = useState(false)
 
   useEffect(() => {
@@ -121,6 +122,43 @@ export default function Page({ shows }: PageProps) {
       window.removeEventListener('scroll', handleScroll)
     }
   }, [])
+
+  const renderGroupedShows = () => {
+    if (groupedShows.length === 0) {
+      return (
+        <div className='container flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 md:gap-2'>
+          <h2 className='text-2xl font-medium text-red-600 dark:text-zinc-50 md:text-3xl'>
+            No shows available
+          </h2>
+          <p className='text-base leading-snug text-red-500 dark:text-red-500/75 md:text-lg'>
+            Please select at least one venue to view upcoming shows.
+          </p>
+        </div>
+      )
+    } else {
+      return groupedShows.map(({ weekStartDate, shows }) => (
+        <section key={weekStartDate.toISOString()} className='flex flex-col'>
+          <h2 className='sticky top-16 flex w-full items-center justify-center gap-x-2 text-base text-zinc-400 dark:text-zinc-500 md:top-[78px] md:text-xl '>
+            <span className='flex-shrink-0 font-mono text-xs uppercase md:text-lg'>
+              Week of
+            </span>{' '}
+            <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
+              {weekStartDate.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+              })}
+            </span>
+          </h2>
+          <ul className='container grid grid-cols-1 gap-4 p-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-8 lg:p-8'>
+            {shows.map((show, i) => (
+              <ShowCard key={i} show={show} i={0} />
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+  }
 
   return (
     <div className='flex min-h-screen flex-col'>
@@ -156,41 +194,7 @@ export default function Page({ shows }: PageProps) {
       </div>
 
       <main className='mx-auto flex flex-col gap-14'>
-        {groupedShows.length === 0 ? (
-          <div className='container flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 md:gap-2'>
-            <h2 className='text-2xl font-medium text-red-600 dark:text-zinc-50 md:text-3xl'>
-              No shows available
-            </h2>
-            <p className='text-base leading-snug text-red-500 dark:text-red-500/75 md:text-lg'>
-              Please select at least one venue to view upcoming shows.
-            </p>
-          </div>
-        ) : (
-          groupedShows.map(({ weekStartDate, shows }) => (
-            <section
-              key={weekStartDate.toISOString()}
-              className='flex flex-col'
-            >
-              <h2 className='sticky top-16 flex w-full items-center justify-center gap-x-2 text-base text-zinc-400 dark:text-zinc-500 md:top-[78px] md:text-xl '>
-                <span className='flex-shrink-0 font-mono text-xs uppercase md:text-lg'>
-                  Week of
-                </span>{' '}
-                <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
-                  {weekStartDate.toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  })}
-                </span>
-              </h2>
-              <ul className='container grid grid-cols-1 gap-4 p-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-8 lg:p-8'>
-                {shows.map((show, i) => (
-                  <ShowCard key={i} show={show} i={0} />
-                ))}
-              </ul>
-            </section>
-          ))
-        )}
+        {renderGroupedShows()}
       </main>
 
       <footer className='container mx-auto mt-auto flex flex-col gap-2 p-4 text-center text-sm lg:p-8'>

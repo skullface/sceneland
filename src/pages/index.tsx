@@ -136,8 +136,8 @@ export default function Page({ shows }: PageProps) {
               key={weekStartDate.toISOString()}
               className='flex flex-col gap-6'
             >
-              <h2 className='flex w-full items-center gap-x-2 text-3xl text-zinc-400 before:h-[1px] before:w-full before:bg-zinc-300 before:content-[""] after:h-[1px] after:w-full after:bg-zinc-300 after:content-[""] dark:text-zinc-500 before:dark:bg-zinc-800 after:dark:bg-zinc-800'>
-                <span className='flex-shrink-0 font-mono text-lg uppercase'>
+              <h2 className='flex w-full items-center gap-x-2 text-xl text-zinc-400 before:h-[1px] before:w-full before:bg-zinc-300 before:content-[""] after:h-[1px] after:w-full after:bg-zinc-300 after:content-[""] dark:text-zinc-500 before:dark:bg-zinc-800 after:dark:bg-zinc-800 md:text-3xl'>
+                <span className='flex-shrink-0 font-mono text-base uppercase md:text-lg'>
                   Week of
                 </span>{' '}
                 <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>

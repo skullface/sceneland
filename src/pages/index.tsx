@@ -1,6 +1,5 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { GetStaticProps } from 'next'
-
 import { ShowProps } from '~/utils/types'
 
 import { allShows } from '~/data/allShows'
@@ -102,14 +101,42 @@ export default function Page({ shows }: PageProps) {
     }),
   )
 
+  const [animateOnScroll, setAnimateOnScroll] = useState(false)
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollThreshold = window.innerWidth < 480 ? 25 : 30
+      setAnimateOnScroll(window.scrollY > scrollThreshold)
+    }
+    window.addEventListener('scroll', handleScroll)
+    return () => {
+      window.removeEventListener('scroll', handleScroll)
+    }
+  }, [])
+
   return (
     <div className='flex min-h-screen flex-col'>
       <SiteMeta />
 
-      <header className='sticky top-0 mx-auto flex w-full items-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:flex-col md:justify-center md:gap-x-4 lg:p-8'>
-        <h1 className='font-mono text-xl text-zinc-800 dark:text-zinc-200 md:text-2xl md:font-semibold md:uppercase md:tracking-tight'>
-          216.show
+      <header className='sticky top-0 mx-auto mb-6 h-[100px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:pb-11 md:h-[120px]'>
+        <h1
+          className={`relative w-full text-sm font-medium text-zinc-600 transition duration-300 ease-in-out dark:text-zinc-400 ${
+            animateOnScroll
+              ? 'translate-y-[-6em] opacity-0'
+              : 'mt-0.5 opacity-100 md:mt-1'
+          }`}
+        >
+          Shows upcoming in CLE, updated daily
         </h1>
+      </header>
+
+      <div
+        className={`fixed top-5 z-[1] mx-auto w-full text-center transition duration-300 ${
+          animateOnScroll
+            ? 'translate-y-0'
+            : 'translate-y-[1.25em] md:translate-y-[2em]'
+        }`}
+      >
         <VenueFilter
           venues={allVenues} // array of all unique venues names
           selectedVenues={selectedVenues} // array of selected/checked
@@ -118,11 +145,11 @@ export default function Page({ shows }: PageProps) {
           onDeselectAll={handleDeselectAll}
           checked={false}
         />
-      </header>
+      </div>
 
-      <main className='container mx-auto flex flex-col gap-14 p-4 lg:p-8'>
+      <main className='mx-auto flex flex-col gap-14'>
         {groupedShows.length === 0 ? (
-          <div className='flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 md:gap-2'>
+          <div className='container flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 md:gap-2'>
             <h2 className='text-2xl font-medium text-red-600 dark:text-zinc-50 md:text-3xl'>
               No shows available
             </h2>
@@ -134,10 +161,10 @@ export default function Page({ shows }: PageProps) {
           groupedShows.map(({ weekStartDate, shows }) => (
             <section
               key={weekStartDate.toISOString()}
-              className='flex flex-col gap-6'
+              className='flex flex-col'
             >
-              <h2 className='flex w-full items-center gap-x-2 text-xl text-zinc-400 before:h-[1px] before:w-full before:bg-zinc-300 before:content-[""] after:h-[1px] after:w-full after:bg-zinc-300 after:content-[""] dark:text-zinc-500 before:dark:bg-zinc-800 after:dark:bg-zinc-800 md:text-3xl'>
-                <span className='flex-shrink-0 font-mono text-base uppercase md:text-lg'>
+              <h2 className='sticky top-16 flex w-full items-center justify-center gap-x-2 text-base text-zinc-400 dark:text-zinc-500 md:top-[78px] md:text-xl '>
+                <span className='flex-shrink-0 font-mono text-xs uppercase md:text-lg'>
                   Week of
                 </span>{' '}
                 <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
@@ -148,7 +175,7 @@ export default function Page({ shows }: PageProps) {
                   })}
                 </span>
               </h2>
-              <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-8'>
+              <ul className='container grid grid-cols-1 gap-4 p-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-8 lg:p-8'>
                 {shows.map((show, i) => (
                   <ShowCard key={i} show={show} i={0} />
                 ))}

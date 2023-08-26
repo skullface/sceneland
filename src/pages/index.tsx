@@ -148,7 +148,7 @@ export default function Page({ shows }: PageProps) {
                   })}
                 </span>
               </h2>
-              <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3'>
+              <ul className='grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-8'>
                 {shows.map((show, i) => (
                   <ShowCard key={i} show={show} i={0} />
                 ))}

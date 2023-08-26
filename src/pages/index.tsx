@@ -30,21 +30,25 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
 }
 
 export default function Page({ shows }: PageProps) {
+  // Overwrite specific venue names to group them together
+  const venueMapping: { [key: string]: string } = {
+  }
+
   // Create an array of all unique venues
-  const allVenues = Array.from(new Set(shows.map((show) => show.venue)))
+  const allVenues = Array.from(
+    new Set(shows.map((show) => venueMapping[show.venue] || show.venue)),
+  )
 
   // Initialize state for selected venues
   const [selectedVenues, setSelectedVenues] = useState<string[]>(allVenues)
 
-  // Handle venue toggling by changing state
   const handleVenueToggle = (venue: string) => {
-    // If the `selectedVenues` array already includes the venue, remove it
-    if (selectedVenues.includes(venue)) {
-      setSelectedVenues(selectedVenues.filter((v) => v !== venue))
-    } else {
-      // If the venue is not in the `selectedVenues` array, add it
-      setSelectedVenues([...selectedVenues, venue])
-    }
+    const mappedVenue = venueMapping[venue] || venue
+    setSelectedVenues((prevSelectedVenues) =>
+      prevSelectedVenues.includes(mappedVenue)
+        ? prevSelectedVenues.filter((v) => v !== mappedVenue)
+        : [...prevSelectedVenues, mappedVenue],
+    )
   }
 
   // Select and deselect all button logic
@@ -58,7 +62,7 @@ export default function Page({ shows }: PageProps) {
 
   // Filter shows by selected venues
   const filteredShows = shows.filter((show) =>
-    selectedVenues.includes(show.venue),
+    selectedVenues.includes(venueMapping[show.venue] || show.venue),
   )
 
   // Sort filtered shows chronologically by show date

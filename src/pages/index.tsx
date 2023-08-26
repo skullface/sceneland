@@ -122,11 +122,11 @@ export default function Page({ shows }: PageProps) {
 
       <main className='container mx-auto flex flex-col gap-14 p-4 lg:p-8'>
         {groupedShows.length === 0 ? (
-          <div className='flex flex-col gap-2 rounded border p-6 text-center dark:border-red-900 dark:bg-red-950/75'>
-            <h2 className='text-3xl font-medium dark:text-zinc-50'>
+          <div className='flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 md:gap-2'>
+            <h2 className='text-2xl font-medium text-red-600 dark:text-zinc-50 md:text-3xl'>
               No shows available
             </h2>
-            <p className='text-lg dark:text-red-600/75'>
+            <p className='text-base leading-snug text-red-500 dark:text-red-500/75 md:text-lg'>
               Please select at least one venue to view upcoming shows.
             </p>
           </div>

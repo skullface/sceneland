@@ -989,8 +989,7 @@ export const allShows = [
   },
   {
     "link": "https://www.beachlandballroom.com/e/13502968/this-way-out",
-    "date": "2023-08-26T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-08-26T20:00:00"
   },
   {
     "artist": [
@@ -1005,7 +1004,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13363968/after-the-apocalypse-inducing-panic-72-legions-hams-heir-to-none-psycho-plantation-the-great-iron-snake-bessemer-saints",
     "date": "2023-08-26T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1013,7 +1012,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13332848/3rd-celebration-of-cleveland-rock-history",
     "date": "2023-08-27T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1028,7 +1027,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13404148/tobyraps-honeyland-the-baggs-jazz-project-quick-mystery-coe-rent-for-cheryl-unc-d-people-in-the-daytime",
     "date": "2023-08-27T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1037,7 +1036,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13434228/brewdog-beachland-bingo-dj-advance",
     "date": "2023-08-29T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1046,7 +1045,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13206448/drifting-roots-lake-irie",
     "date": "2023-08-30T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1055,7 +1054,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13322448/los-straitjackets-jake-la-botz-trio",
     "date": "2023-08-30T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1067,7 +1066,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind-navy-jayde-namejai-trav-hen",
     "date": "2023-08-31T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1078,12 +1077,11 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13481568/blaire-blades-and-the-backstabbers-the-little-ditties-tama-andi-chakraborty",
     "date": "2023-08-31T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "link": "https://www.beachlandballroom.com/e/13521438/this-way-out",
-    "date": "2023-09-01T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-09-01T20:00:00"
   },
   {
     "artist": [
@@ -1091,12 +1089,11 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13514508/sh-k-ground",
     "date": "2023-09-01T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "link": "https://www.beachlandballroom.com/e/13521448/this-way-out",
-    "date": "2023-09-02T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-09-02T20:00:00"
   },
   {
     "artist": [
@@ -1113,7 +1110,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-mellowman-funk-e-side4-y-a-y-a-melted-strawberry-westside-lo-pico-the-guy-tho-mike-mike-dusty-loops",
     "date": "2023-09-02T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1124,7 +1121,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13522748/snooze-whiffler-clipboards-tall-grass",
     "date": "2023-09-02T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1133,7 +1130,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13496558/austin-lucas-ty-prager",
     "date": "2023-09-03T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1144,7 +1141,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13508328/racket-man-sun-junkies-fruitfly-girl-cologne",
     "date": "2023-09-05T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1153,7 +1150,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13453188/the-split-squad-dave-swanson-s-mystery-airship",
     "date": "2023-09-06T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1162,7 +1159,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13364478/yarn-james-mckeivier",
     "date": "2023-09-07T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1170,7 +1167,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13449288/drag-pride-showcase",
     "date": "2023-09-08T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1180,7 +1177,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13317238/nox-novacula-uniity-hiram-maxim",
     "date": "2023-09-08T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1188,7 +1185,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023",
     "date": "2023-09-09T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1196,7 +1193,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band",
     "date": "2023-09-10T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1205,7 +1202,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13281188/chris-pureka-kym-register",
     "date": "2023-09-11T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1214,7 +1211,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13234928/the-band-of-heathens-lilly-hiatt",
     "date": "2023-09-12T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1223,7 +1220,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13249978/carolyn-wonderland-kristine-jackson",
     "date": "2023-09-12T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1232,7 +1229,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13298248/boris-melvins-mr-phylzz",
     "date": "2023-09-14T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1241,7 +1238,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13155758/clem-snide-rye-valley",
     "date": "2023-09-15T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1249,7 +1246,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag",
     "date": "2023-09-15T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1257,8 +1254,7 @@ export const allShows = [
       "Joey Simeone (The Bellfuries)"
     ],
     "link": "https://www.beachlandballroom.com/e/13503618/deke-dickerson-with-crazy-joe-tritschler-kyle-eldridge-joey-simeone-the-bellfuries-",
-    "date": "2023-09-16T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-09-16T20:00:00"
   },
   {
     "artist": [
@@ -1268,7 +1264,7 @@ export const allShows = [
     "link": "https://www.beachlandballroom.com/e/12868355/osees-population-ii",
     "sold_out": true,
     "date": "2023-09-17T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1276,7 +1272,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13409408/electric-blue-yonder",
     "date": "2023-09-18T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1285,7 +1281,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-mood-music-by-dj-bethanderin",
     "date": "2023-09-18T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1293,7 +1289,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13478558/boyish",
     "date": "2023-09-19T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1301,7 +1297,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13405078/veronica-swift",
     "date": "2023-09-20T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1310,7 +1306,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13235398/black-joe-lewis-cities-coasts",
     "date": "2023-09-21T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1320,7 +1316,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13317508/man-on-man-factual-brains-duo-decibel-system",
     "date": "2023-09-21T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1328,7 +1324,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13155948/devotional-2023",
     "date": "2023-09-22T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1336,7 +1332,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13155958/devotional-2023",
     "date": "2023-09-23T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1346,7 +1342,7 @@ export const allShows = [
     "link": "https://www.beachlandballroom.com/e/13019205/swans-norman-westberg",
     "sold_out": true,
     "date": "2023-09-24T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1354,7 +1350,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13446918/kiefer",
     "date": "2023-09-26T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1363,7 +1359,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13314488/monophonics-dos-santos",
     "date": "2023-09-27T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1371,7 +1367,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13517988/hotel-fiction",
     "date": "2023-09-27T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1381,7 +1377,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13248738/fortunate-youth-kash-d-out-dubbest",
     "date": "2023-09-28T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1390,7 +1386,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13399808/the-lemon-twigs-joanna-sternberg",
     "date": "2023-09-29T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1398,15 +1394,14 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13404478/baba-commandant-and-the-mandingo-band",
     "date": "2023-09-29T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
       "Andy Frasco & The U.N."
     ],
     "link": "https://www.beachlandballroom.com/e/13405208/andy-frasco-the-u-n-",
-    "date": "2023-09-29T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-09-29T20:00:00"
   },
   {
     "artist": [
@@ -1416,7 +1411,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13413118/falling-stars-the-laughing-chimes-the-style-section",
     "date": "2023-09-30T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1425,7 +1420,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13504178/travis-larson-band-ego",
     "date": "2023-10-02T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1433,8 +1428,7 @@ export const allShows = [
       "Tasha"
     ],
     "link": "https://www.beachlandballroom.com/e/13245308/margaret-glaspy-tasha",
-    "date": "2023-10-03T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-10-03T20:00:00"
   },
   {
     "artist": [
@@ -1443,7 +1437,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13440688/margo-price-brit-taylor",
     "date": "2023-10-03T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1451,7 +1445,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/11955005/boy-pablo",
     "date": "2023-10-04T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1460,7 +1454,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle",
     "date": "2023-10-06T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1468,7 +1462,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13396368/bitchin-bajas",
     "date": "2023-10-06T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1477,7 +1471,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13254518/the-brook-the-bluff-bendigo-fletcher",
     "date": "2023-10-07T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1486,7 +1480,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13205278/mssv-c-level",
     "date": "2023-10-07T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1495,7 +1489,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13249758/cam-cole-arthur-buezo",
     "date": "2023-10-08T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1503,7 +1497,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13510778/scott-h-biram",
     "date": "2023-10-10T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1512,7 +1506,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13222048/southern-culture-on-the-skids-the-woggles",
     "date": "2023-10-11T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1521,7 +1515,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13395838/dopapod-tauk",
     "date": "2023-10-12T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1530,7 +1524,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13125495/dylan-matthew-caleb-hearn",
     "date": "2023-10-13T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1539,7 +1533,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane",
     "date": "2023-10-13T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1547,7 +1541,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13367298/brown-eyed-women",
     "date": "2023-10-14T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1557,7 +1551,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13346238/lewsberg-obnox-wrong-places",
     "date": "2023-10-14T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1567,7 +1561,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13286228/chris-cresswell-jon-snodgrass-seth-anderson",
     "date": "2023-10-17T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1576,7 +1570,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13373038/dale-watson-matt-hillyer",
     "date": "2023-10-18T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1585,7 +1579,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13412548/kiss-the-tiger-the-buffalo-ryders",
     "date": "2023-10-18T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1593,7 +1587,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13225388/carbon-leaf",
     "date": "2023-10-20T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1602,7 +1596,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13420938/squirrel-flower-truth-club",
     "date": "2023-10-20T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1610,7 +1604,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13377388/messa-maggot-heart",
     "date": "2023-10-21T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1618,7 +1612,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13364038/zach-nugent-s-dead-set",
     "date": "2023-10-22T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1628,7 +1622,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13174908/be-your-own-pet-a-giant-dog",
     "date": "2023-10-23T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1636,8 +1630,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour",
     "sold_out": true,
-    "date": "2023-10-24T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-10-24T20:00:00"
   },
   {
     "artist": [
@@ -1647,7 +1640,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13221478/kings-kaleidoscope-mike-mains-the-branches",
     "date": "2023-10-25T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1655,7 +1648,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13410198/grateful-dub",
     "date": "2023-10-25T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1663,7 +1656,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13405598/the-main-squeeze",
     "date": "2023-10-26T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1673,7 +1666,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13483498/daisychain-lilieae-buzz-balldrin",
     "date": "2023-10-26T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1685,7 +1678,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13338738/midnight-black-death-assault-nunslaughter-destructor",
     "date": "2023-10-27T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1693,7 +1686,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13489988/dale-hollow",
     "date": "2023-10-29T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1701,7 +1694,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13392758/walter-trout",
     "date": "2023-11-02T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1711,7 +1704,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center",
     "date": "2023-11-02T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1721,7 +1714,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13336088/shane-smith-the-saints-angel-white-calder-allen",
     "date": "2023-11-03T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1729,7 +1722,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band",
     "date": "2023-11-04T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1737,7 +1730,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13506898/corb-lund",
     "date": "2023-11-04T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1746,7 +1739,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria",
     "date": "2023-11-05T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1754,7 +1747,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13474678/grateful-shred",
     "date": "2023-11-05T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1764,7 +1757,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13404028/kendra-morris-benny-lava-and-the-guavas-dj-teddy-eisenberg",
     "date": "2023-11-06T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1774,7 +1767,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13465208/screaming-females-dusk-grumpy-plum",
     "date": "2023-11-08T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1784,7 +1777,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13398978/great-lakes-swimmers-christian-lopez-leslie-mendelson",
     "date": "2023-11-09T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1792,7 +1785,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
     "date": "2023-11-11T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1801,7 +1794,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13270968/s-g-goodman-why-bonnie",
     "date": "2023-11-12T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1809,7 +1802,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13338788/the-hotelier-foxing",
     "date": "2023-11-12T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1817,8 +1810,7 @@ export const allShows = [
       "Rayland Baxter"
     ],
     "link": "https://www.beachlandballroom.com/e/13387938/shakey-graves-rayland-baxter",
-    "date": "2023-11-16T20:00:00",
-    "venue": "Beachland"
+    "date": "2023-11-16T20:00:00"
   },
   {
     "artist": [
@@ -1826,7 +1818,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13521728/pisse",
     "date": "2023-11-18T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1835,7 +1827,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13489368/boombox-tep-no",
     "date": "2023-11-19T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1844,7 +1836,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13527568/start-making-sense-drew-the-blue",
     "date": "2023-12-02T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1852,7 +1844,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge",
     "date": "2023-12-03T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1863,7 +1855,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13414248/angel-du-t-candy-dazy-steve-marino",
     "date": "2023-12-06T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1872,7 +1864,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13483268/pigeons-playing-ping-pong-broccoli-samurai",
     "date": "2023-12-07T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1880,7 +1872,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
     "date": "2023-12-07T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1888,7 +1880,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis",
     "date": "2023-12-10T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1896,7 +1888,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
     "date": "2023-12-13T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -1904,7 +1896,7 @@ export const allShows = [
     ],
     "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
     "date": "2024-02-09T20:00:00",
-    "venue": "Beachland"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

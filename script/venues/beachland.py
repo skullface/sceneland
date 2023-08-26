@@ -42,8 +42,15 @@ for show in shows:
   # Get the date as plaintext, format it as YYYY-MM-(D)D, add it to the object
   dateFormatted = date.text.strip().replace("\n", " ").replace("Aug ", "2023-08-").replace("Sep ", "2023-09-").replace("Oct ", "2023-10-").replace("Nov ", "2023-11-").replace("Dec ", "2023-12-").replace("Jan ", "2024-01-").replace("Feb ", "2024-02-").replace("Mar ", "2024-03-").replace("Apr ", "2024-04-").replace("May ", "2024-05-").replace("Jun ", "2024-06-").replace("Jul ", "2024-07-").replace("Monday ", "").replace("Tuesday ", "").replace("Wednesday ", "").replace("Thursday ", "").replace("Friday ", "").replace("Saturday ", "").replace("Sunday ", "") + "T20:00:00"
   all_shows_data['date'] = dateFormatted.replace("-1T", "-01T").replace("-2T", "-02T").replace("-3T", "-03T").replace("-4T", "-04T").replace("-5T", "-05T").replace("-6T", "-06T").replace("-7T", "-07T").replace("-8T", "-08T").replace("-9T", "-09T")
-  # Add the venue name to the object
-  all_shows_data['venue'] = "Beachland"
+  # Get the venue DOM element
+  venue = show.find("span", class_="venue")
+  # Add the venue to the object
+  if venue.text.strip() == 'Beachland Ballroom':
+    all_shows_data['venue'] = 'Beachland Ballroom'
+  elif venue.text.strip() == 'Beachland Tavern':
+    all_shows_data['venue'] = 'Beachland Tavern'
+  else:
+    ...
   # Populate the empty array `[]` with the object we just defined
   all_shows_list.append(all_shows_data)
 

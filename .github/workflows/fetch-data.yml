@@ -44,5 +44,5 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 🤖 press Ⓧ to json
+          commit_message: 🤖 update data
           branch: ${{ github.head_ref }}

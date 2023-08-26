@@ -34,7 +34,10 @@ export function VenueFilter({
                 className='dropdown-item flex cursor-pointer items-center justify-start gap-x-2 px-4 py-2 font-medium text-zinc-100 first-of-type:rounded-t-xl first-of-type:pt-3 last-of-type:rounded-b-xl last-of-type:pb-4 hover:bg-zinc-800 hover:text-white focus:bg-zinc-800 focus:text-white focus:outline-none dark:text-zinc-800 dark:hover:bg-zinc-200 dark:hover:text-zinc-950 dark:focus:bg-zinc-200 dark:focus:text-zinc-950'
                 key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
                 checked={selectedVenues.includes(venue)}
-                onCheckedChange={() => onVenueToggle(venue)}
+                onSelect={(event) => {
+                  event.preventDefault() // Prevent menu from closing
+                  onVenueToggle(venue)
+                }}
               >
                 {venue}
                 <span className='order-first w-5 text-center font-mono'>

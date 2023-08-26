@@ -1,6 +1,6 @@
 import * as DropdownMenu from '@radix-ui/react-dropdown-menu'
 
-interface VenueFilterProps {
+type VenueFilterProps = {
   venues: string[]
   selectedVenues: string[]
   onVenueToggle: (venue: string) => void

@@ -2,7 +2,7 @@ export const allShows = [
   {
     artist: ['96 BITTER BEINGS'],
     link: 'https://www.eventbrite.com/e/96-bitter-beings-tickets-654961516527',
-    date: '2023-08-26T20:00:00',
+    date: '2023-08-27T20:00:00',
     venue: 'No Class',
   },
   {
@@ -133,25 +133,8 @@ export const allShows = [
   },
   {
     link: 'https://premium.livenation.com/venue/blossom-music-center',
-    date: '2023-08-25T20:00:00',
+    date: '2023-08-26T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    link: 'https://www.beachlandballroom.com/e/13502958/this-way-out',
-    date: '2023-08-25T20:00:00',
-    venue: 'Beachland',
-  },
-  {
-    artist: ['Messer Chups', 'Ichi Bons'],
-    link: 'https://www.beachlandballroom.com/e/13187428/messer-chups-ichi-bons',
-    date: '2023-08-25T20:00:00',
-    venue: 'Beachland',
-  },
-  {
-    artist: ['Dry Reef', 'The Chewy Center'],
-    link: 'https://www.beachlandballroom.com/e/13263638/dry-reef-the-chewy-center',
-    date: '2023-08-25T20:00:00',
-    venue: 'Beachland',
   },
   {
     link: 'https://www.beachlandballroom.com/e/13502968/this-way-out',
@@ -213,8 +196,8 @@ export const allShows = [
     venue: 'Beachland',
   },
   {
-    artist: ['Kari Faux', 'theMIND', 'Navy Jayde'],
-    link: 'https://www.beachlandballroom.com/e/13330998/kari-faux-themind-navy-jayde',
+    artist: ['Kari Faux', 'theMIND', 'Navy Jayde', 'NameJai', 'Trav Hen'],
+    link: 'https://www.beachlandballroom.com/e/13330998/kari-faux-themind-navy-jayde-namejai-trav-hen',
     date: '2023-08-31T20:00:00',
     venue: 'Beachland',
   },
@@ -1388,12 +1371,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['The Nude Party'],
-    link: 'https://link.dice.fm/n99204623149',
-    date: '2023-08-25T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Superviolet and The Sonder Bombs'],
     link: 'https://link.dice.fm/F3993448450f',
     date: '2023-08-26T19:00:00-04:00',
@@ -1606,14 +1583,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['George Clanton'],
-    link: 'https://link.dice.fm/o5e5253cefd2',
+    artist: ['French Cassettes'],
+    link: 'https://link.dice.fm/i9d3198de992',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['French Cassettes'],
-    link: 'https://link.dice.fm/i9d3198de992',
+    artist: ['George Clanton'],
+    link: 'https://link.dice.fm/o5e5253cefd2',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
@@ -1630,14 +1607,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Kate Bollinger'],
-    link: 'https://link.dice.fm/P8653582ac4e',
+    artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
+    link: 'https://link.dice.fm/d079039b50bc',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
-    link: 'https://link.dice.fm/d079039b50bc',
+    artist: ['Kate Bollinger'],
+    link: 'https://link.dice.fm/P8653582ac4e',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
@@ -1768,6 +1745,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Better Off'],
+    link: 'https://link.dice.fm/d03ed5769012',
+    date: '2023-11-28T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Oliver Hazard'],
     link: 'https://link.dice.fm/Of0606359dfc',
     date: '2023-11-30T19:00:00-05:00',
@@ -1802,17 +1785,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: [
-      'Total Downer',
-      'Wish Queen',
-      'Charity Cunningham',
-      'Anya Van Rose',
-    ],
-    link: 'https://grogshop.gs/event-details/13340128/total-downer-wish-queen-charity-cunningham-anya-van-rose',
-    date: '2023-08-25T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Ringer', 'Whiskey Daredevils', '45 Spider'],
@@ -2270,6 +2242,17 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'Total Downer',
+      'Wish Queen',
+      'Charity Cunningham',
+      'Anya Van Rose',
+    ],
+    link: 'https://grogshop.gs/event-details/13340128/total-downer-wish-queen-charity-cunningham-anya-van-rose',
+    date: '2023-12-08T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['The Flatliners Present The Holiday Melee'],
     link: 'https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee',
     date: '2023-12-15T20:00:00',
@@ -2278,12 +2261,18 @@ export const allShows = [
   {
     artist: ['Cereal Banter, Magnetic West Record Release w/ Nothing Phase'],
     link: 'https://www.eventbrite.com/e/cereal-banter-magnetic-west-record-release-w-nothing-phase-tickets-675728140057',
-    date: '2023-08-26T20:00:00',
+    date: '2023-08-27T20:00:00',
     venue: 'Happy Dog',
   },
   {
     link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-694398784457',
     date: '2023-08-28T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ["The Stranger's Glove: VHS Night in the Underdog!"],
+    link: 'https://www.eventbrite.com/e/the-strangers-glove-vhs-night-in-the-underdog-tickets-706905833377',
+    date: '2023-08-29T20:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -2338,12 +2327,6 @@ export const allShows = [
   {
     link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-706345457277',
     date: '2023-09-11T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Supercult, Silicon Heartbeat, Slug Fest, Terrycloth Mother'],
-    link: 'https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707',
-    date: '2023-09-15T20:00:00',
     venue: 'Happy Dog',
   },
   {

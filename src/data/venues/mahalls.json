@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Nude Party"
-    ],
-    "link": "https://link.dice.fm/n99204623149",
-    "date": "2023-08-25T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Superviolet and The Sonder Bombs"
     ],
     "link": "https://link.dice.fm/F3993448450f",
@@ -291,17 +283,17 @@
   },
   {
     "artist": [
-      "George Clanton"
+      "French Cassettes"
     ],
-    "link": "https://link.dice.fm/o5e5253cefd2",
+    "link": "https://link.dice.fm/i9d3198de992",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "French Cassettes"
+      "George Clanton"
     ],
-    "link": "https://link.dice.fm/i9d3198de992",
+    "link": "https://link.dice.fm/o5e5253cefd2",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -323,17 +315,17 @@
   },
   {
     "artist": [
-      "Kate Bollinger"
+      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
     ],
-    "link": "https://link.dice.fm/P8653582ac4e",
+    "link": "https://link.dice.fm/d079039b50bc",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
+      "Kate Bollinger"
     ],
-    "link": "https://link.dice.fm/d079039b50bc",
+    "link": "https://link.dice.fm/P8653582ac4e",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -503,6 +495,14 @@
     ],
     "link": "https://link.dice.fm/G711b0995a1f",
     "date": "2023-11-24T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Better Off"
+    ],
+    "link": "https://link.dice.fm/d03ed5769012",
+    "date": "2023-11-28T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

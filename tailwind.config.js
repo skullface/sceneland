@@ -4,7 +4,6 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: [
-        'DM Sans',
         '-apple-system',
         'BlinkMacSystemFont',
         'Noto Sans',
@@ -16,7 +15,6 @@ module.exports = {
         'Segoe UI Emoji',
       ],
       mono: [
-        'Fragment Mono',
         'ui-monospace',
         'SFMono-Regular',
         'SF Mono',

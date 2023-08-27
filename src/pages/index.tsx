@@ -132,27 +132,44 @@ export default function Page({ shows }: PageProps) {
         </div>
       )
     } else {
-      return groupedShows.map(({ weekStartDate, shows }) => (
-        <section key={weekStartDate.toISOString()} className='show-grouping'>
-          <h2>
-            <span className='flex-shrink-0 font-mono text-xs uppercase md:text-lg'>
-              Week of
-            </span>{' '}
-            <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
-              {weekStartDate.toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric',
-              })}
-            </span>
-          </h2>
-          <ul>
-            {shows.map((show, i) => (
-              <ShowCard key={i} show={show} i={0} />
-            ))}
-          </ul>
-        </section>
-      ))
+      return groupedShows.map(({ weekStartDate, shows }) => {
+        let weekLabel = weekStartDate.toLocaleDateString('en-US', {
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        })
+
+        const today = new Date()
+        const weekStartToTodayDiff = Math.floor(
+          (weekStartDate.getTime() - today.getTime()) / (1000 * 60 * 60 * 24),
+        )
+
+        if (weekStartToTodayDiff >= -7 && weekStartToTodayDiff < 0) {
+          weekLabel = 'This week'
+        } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 7) {
+          weekLabel = 'Next week'
+        }
+
+        return (
+          <section key={weekStartDate.toISOString()} className='show-grouping'>
+            <h2>
+              {weekLabel != 'This week' && weekLabel != 'Next week' && (
+                <span className='flex-shrink-0 font-mono text-xs uppercase md:text-lg'>
+                  Week of
+                </span>
+              )}
+              <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
+                {weekLabel}
+              </span>
+            </h2>
+            <ul>
+              {shows.map((show, i) => (
+                <ShowCard key={i} show={show} i={0} />
+              ))}
+            </ul>
+          </section>
+        )
+      })
     }
   }
 

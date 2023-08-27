@@ -158,7 +158,7 @@ export default function Page({ shows }: PageProps) {
           <section key={weekStartDate.toISOString()} className='show-grouping'>
             <h2>
               {groupPrefix && (
-                <span className='font-mono text-xs uppercase md:text-lg'>
+                <span className='font-mono text-sm font-medium uppercase md:text-lg'>
                   {groupPrefix}&nbsp;
                 </span>
               )}

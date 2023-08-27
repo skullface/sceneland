@@ -29,7 +29,7 @@
 
   /* Empty state */
   .empty-state {
-    @apply container flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 md:gap-2;
+    @apply container mx-auto flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 max-md:w-[90%] md:gap-2;
   }
 
   .empty-state h2 {

@@ -30,6 +30,20 @@ export const getStaticProps: GetStaticProps<PageProps> = async () => {
 }
 
 export default function Page({ shows }: PageProps) {
+  // Animate header elements on scroll
+  const [animateOnScroll, setAnimateOnScroll] = useState(false)
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollThreshold = window.innerWidth < 480 ? 25 : 30
+      setAnimateOnScroll(window.scrollY > scrollThreshold)
+    }
+    window.addEventListener('scroll', handleScroll)
+    return () => {
+      window.removeEventListener('scroll', handleScroll)
+    }
+  }, [])
+
   // Overwrite specific venue names to group them together
   const venueMapping: { [key: string]: string } = {
     'Beachland Ballroom': 'Beachland',
@@ -109,36 +123,18 @@ export default function Page({ shows }: PageProps) {
     }),
   )
 
-  // Animate header elements on scroll
-  const [animateOnScroll, setAnimateOnScroll] = useState(false)
-
-  useEffect(() => {
-    const handleScroll = () => {
-      const scrollThreshold = window.innerWidth < 480 ? 25 : 30
-      setAnimateOnScroll(window.scrollY > scrollThreshold)
-    }
-    window.addEventListener('scroll', handleScroll)
-    return () => {
-      window.removeEventListener('scroll', handleScroll)
-    }
-  }, [])
-
   const renderGroupedShows = () => {
     if (groupedShows.length === 0) {
       return (
-        <div className='container flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 md:gap-2'>
-          <h2 className='text-2xl font-medium text-red-600 dark:text-zinc-50 md:text-3xl'>
-            No shows available
-          </h2>
-          <p className='text-base leading-snug text-red-500 dark:text-red-500/75 md:text-lg'>
-            Please select at least one venue to view upcoming shows.
-          </p>
+        <div className='empty-state'>
+          <h2>No shows available</h2>
+          <p>Please select at least one venue to view upcoming shows.</p>
         </div>
       )
     } else {
       return groupedShows.map(({ weekStartDate, shows }) => (
-        <section key={weekStartDate.toISOString()} className='flex flex-col'>
-          <h2 className='sticky top-16 flex w-full items-center justify-center gap-x-2 text-base text-zinc-400 dark:text-zinc-500 md:top-[78px] md:text-xl '>
+        <section key={weekStartDate.toISOString()} className='show-grouping'>
+          <h2>
             <span className='flex-shrink-0 font-mono text-xs uppercase md:text-lg'>
               Week of
             </span>{' '}
@@ -150,7 +146,7 @@ export default function Page({ shows }: PageProps) {
               })}
             </span>
           </h2>
-          <ul className='container grid grid-cols-1 gap-4 p-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-8 lg:p-8'>
+          <ul>
             {shows.map((show, i) => (
               <ShowCard key={i} show={show} i={0} />
             ))}
@@ -164,9 +160,9 @@ export default function Page({ shows }: PageProps) {
     <div className='flex min-h-screen flex-col'>
       <SiteMeta />
 
-      <header className='sticky top-0 mx-auto mb-6 h-[100px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:pb-11 md:h-[120px]'>
+      <header>
         <h1
-          className={`relative w-full text-sm font-medium text-zinc-600 transition duration-300 ease-in-out dark:text-zinc-400 ${
+          className={`${
             animateOnScroll
               ? 'translate-y-[-6em] opacity-0'
               : 'mt-0.5 opacity-100 md:mt-1'
@@ -177,7 +173,7 @@ export default function Page({ shows }: PageProps) {
       </header>
 
       <div
-        className={`fixed top-5 z-[1] mx-auto w-full text-center transition duration-300 ${
+        className={`dropdown-container ${
           animateOnScroll
             ? 'translate-y-0'
             : 'translate-y-[1.25em] md:translate-y-[2em]'
@@ -197,7 +193,7 @@ export default function Page({ shows }: PageProps) {
         {renderGroupedShows()}
       </main>
 
-      <footer className='container mx-auto mt-auto flex flex-col gap-2 p-4 text-center text-sm lg:p-8'>
+      <footer>
         <p>
           All data is pulled from the venues’ individual websites and aggregated
           here. No ownership of information is claimed nor implied.

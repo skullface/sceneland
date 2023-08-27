@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sorry Papi Tour: The All Girl Party (18+ Only)"
-    ],
-    "link": "https://concerts.livenation.com/sorry-papi-tour-the-all-girl-cleveland-ohio-08-26-2023/event/05005E9DF00D500E",
-    "date": "2023-08-26T21:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Soulja Boy"
     ],
     "link": "https://concerts.livenation.com/soulja-boy-cleveland-ohio-08-27-2023/event/05005E42F05E6293",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/frenship-w-special-guests-cleveland-ohio-10-25-2023/event/05005ECFF97C6A82",
     "date": "2023-10-25T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Big Bubble Rave: 18+ Only"
+    ],
+    "link": "https://concerts.livenation.com/big-bubble-rave-18-only-cleveland-ohio-10-27-2023/event/05005ECCA12B224B",
+    "date": "2023-10-27T21:00:00",
     "venue": "House of Blues"
   }
 ]

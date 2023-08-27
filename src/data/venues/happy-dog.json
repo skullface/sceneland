@@ -1,13 +1,5 @@
 [
   {
-    "artist": [
-      "Cereal Banter, Magnetic West Record Release w/ Nothing Phase"
-    ],
-    "link": "https://www.eventbrite.com/e/cereal-banter-magnetic-west-record-release-w-nothing-phase-tickets-675728140057",
-    "date": "2023-08-26T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-694398784457",
     "date": "2023-08-28T20:00:00",
     "venue": "Happy Dog"
@@ -84,6 +76,14 @@
   {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706345457277",
     "date": "2023-09-11T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "DJ Kishka Happy Hour!"
+    ],
+    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887",
+    "date": "2023-09-15T20:00:00",
     "venue": "Happy Dog"
   }
 ]

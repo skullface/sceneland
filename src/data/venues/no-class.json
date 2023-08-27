@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "96 BITTER BEINGS"
-    ],
-    "link": "https://www.eventbrite.com/e/96-bitter-beings-tickets-654961516527",
-    "date": "2023-08-26T20:00:00",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CODY MANSON"
     ],
     "link": "https://www.eventbrite.com/e/cody-manson-tickets-642514316617",
@@ -93,6 +85,14 @@
     ],
     "link": "https://www.eventbrite.com/e/exciter-tickets-678146914677",
     "date": "2023-10-14T20:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MAKEWAR"
+    ],
+    "link": "https://www.eventbrite.com/e/makewar-tickets-706112981937",
+    "date": "2023-11-02T20:00:00",
     "venue": "No Class"
   }
 ]

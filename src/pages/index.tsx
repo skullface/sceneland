@@ -133,33 +133,37 @@ export default function Page({ shows }: PageProps) {
       )
     } else {
       return groupedShows.map(({ weekStartDate, shows }) => {
-        let weekLabel = weekStartDate.toLocaleDateString('en-US', {
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric',
-        })
-
         const today = new Date()
         const weekStartToTodayDiff = Math.floor(
           (weekStartDate.getTime() - today.getTime()) / (1000 * 60 * 60 * 24),
         )
 
+        let groupPrefix = ''
+
+        let groupLabel = weekStartDate.toLocaleDateString('en-US', {
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        })
+
         if (weekStartToTodayDiff >= -7 && weekStartToTodayDiff < 0) {
-          weekLabel = 'This week'
+          groupLabel = 'This week'
         } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 7) {
-          weekLabel = 'Next week'
+          groupLabel = 'Next week'
+        } else {
+          groupPrefix = 'Week of'
         }
 
         return (
           <section key={weekStartDate.toISOString()} className='show-grouping'>
             <h2>
-              {weekLabel != 'This week' && weekLabel != 'Next week' && (
-                <span className='flex-shrink-0 font-mono text-xs uppercase md:text-lg'>
-                  Week of
+              {groupPrefix && (
+                <span className='font-mono text-xs uppercase md:text-lg'>
+                  {groupPrefix}&nbsp;
                 </span>
               )}
-              <span className='flex-shrink-0 font-medium text-zinc-500 dark:text-zinc-400'>
-                {weekLabel}
+              <span className='font-medium text-zinc-500 dark:text-zinc-400'>
+                {groupLabel}
               </span>
             </h2>
             <ul>
@@ -174,7 +178,7 @@ export default function Page({ shows }: PageProps) {
   }
 
   return (
-    <div className='flex min-h-screen flex-col'>
+    <div className='body'>
       <SiteMeta />
 
       <header>
@@ -206,9 +210,7 @@ export default function Page({ shows }: PageProps) {
         />
       </div>
 
-      <main className='mx-auto flex flex-col gap-14'>
-        {renderGroupedShows()}
-      </main>
+      <main className='main'>{renderGroupedShows()}</main>
 
       <footer>
         <p>

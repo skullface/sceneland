@@ -134,6 +134,7 @@ export default function Page({ shows }: PageProps) {
     } else {
       return groupedShows.map(({ weekStartDate, shows }) => {
         const today = new Date()
+        const dayOfWeek = today.getDay()
         const weekStartToTodayDiff = Math.floor(
           (weekStartDate.getTime() - today.getTime()) / (1000 * 60 * 60 * 24),
         )
@@ -146,7 +147,20 @@ export default function Page({ shows }: PageProps) {
           day: 'numeric',
         })
 
-        if (weekStartToTodayDiff >= -7 && weekStartToTodayDiff < 0) {
+        if (
+          (dayOfWeek === 5 && weekStartToTodayDiff >= -2) ||
+          (dayOfWeek === 6 && weekStartToTodayDiff >= -1) ||
+          (dayOfWeek === 0 &&
+            weekStartToTodayDiff >= -7 &&
+            weekStartToTodayDiff < 0)
+        ) {
+          groupLabel = 'This weekend'
+        } else if (
+          dayOfWeek >= 1 &&
+          dayOfWeek <= 3 &&
+          weekStartToTodayDiff >= -7 &&
+          weekStartToTodayDiff < 0
+        ) {
           groupLabel = 'This week'
         } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 7) {
           groupLabel = 'Next week'

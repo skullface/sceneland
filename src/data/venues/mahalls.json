@@ -1,11 +1,11 @@
 [
   {
     "artist": [
-      "Invasion Invasion"
+      "Grumpy Plum / Rat Motel / Honey Pocket"
     ],
-    "link": "https://link.dice.fm/U856fc0dba7f",
-    "date": "2023-08-27T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    "link": "https://link.dice.fm/id8c9d12d8e2",
+    "date": "2023-09-01T19:30:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -22,6 +22,14 @@
     "link": "https://link.dice.fm/d93e95524895",
     "date": "2023-09-02T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Connor McLaren"
+    ],
+    "link": "https://link.dice.fm/nb1b5b15dda8",
+    "date": "2023-09-02T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -73,19 +81,19 @@
   },
   {
     "artist": [
-      "Secret Society &BravoArtist present Michael Turner"
-    ],
-    "link": "https://link.dice.fm/Ya876ce6f4c1",
-    "date": "2023-09-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Honey Pocket"
     ],
     "link": "https://link.dice.fm/z5acb49bcca5",
     "date": "2023-09-09T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Secret Society &BravoArtist present Michael Turner"
+    ],
+    "link": "https://link.dice.fm/Ya876ce6f4c1",
+    "date": "2023-09-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -202,19 +210,19 @@
   },
   {
     "artist": [
-      "The Astronomers"
-    ],
-    "link": "https://link.dice.fm/s4cada23b8e0",
-    "date": "2023-09-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autopilot"
     ],
     "link": "https://link.dice.fm/T4381d524f65",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "The Astronomers"
+    ],
+    "link": "https://link.dice.fm/s4cada23b8e0",
+    "date": "2023-09-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -266,6 +274,14 @@
   },
   {
     "artist": [
+      "Social Cig"
+    ],
+    "link": "https://link.dice.fm/n867e033c065",
+    "date": "2023-10-01T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "slowdive at The Roxy"
     ],
     "link": "https://link.dice.fm/w4af3377248b",
@@ -275,19 +291,19 @@
   },
   {
     "artist": [
-      "French Cassettes"
-    ],
-    "link": "https://link.dice.fm/i9d3198de992",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "George Clanton"
     ],
     "link": "https://link.dice.fm/o5e5253cefd2",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "French Cassettes"
+    ],
+    "link": "https://link.dice.fm/i9d3198de992",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -307,6 +323,22 @@
   },
   {
     "artist": [
+      "Strawberry Launch"
+    ],
+    "link": "https://link.dice.fm/w1370c7f4afb",
+    "date": "2023-10-07T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "One Direction vs. 5 Seconds of Summer"
+    ],
+    "link": "https://link.dice.fm/C8dd3932d1af",
+    "date": "2023-10-07T20:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
     ],
     "link": "https://link.dice.fm/d079039b50bc",
@@ -320,6 +352,14 @@
     "link": "https://link.dice.fm/P8653582ac4e",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "GIFT"
+    ],
+    "link": "https://link.dice.fm/cac8be85f81f",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -387,6 +427,14 @@
   },
   {
     "artist": [
+      "Annie Dukes"
+    ],
+    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "El Camino Acid and The Wonderfool"
     ],
     "link": "https://link.dice.fm/Q89c1c620f45",
@@ -400,6 +448,14 @@
     "link": "https://link.dice.fm/U5a25190bc4d",
     "date": "2023-10-28T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Taylorween: an all Taylor Swift halloween party"
+    ],
+    "link": "https://link.dice.fm/I13e0ec569c5",
+    "date": "2023-10-28T20:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

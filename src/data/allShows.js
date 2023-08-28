@@ -72,12 +72,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Disturbed: Take Back Your Life Tour'],
-    link: 'https://concerts.livenation.com/disturbed-take-back-your-life-tour-cuyahoga-falls-ohio-08-27-2023/event/05005E4212477ACC',
-    date: '2023-08-27T18:30:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['Shinedown: Revolutions Live'],
     link: 'https://concerts.livenation.com/shinedown-revolutions-live-cuyahoga-falls-ohio-09-06-2023/event/05005E99ED8155A5',
     date: '2023-09-06T18:40:00',
@@ -127,29 +121,8 @@ export const allShows = [
   },
   {
     link: 'https://premium.livenation.com/venue/blossom-music-center',
-    date: '2023-08-27T20:00:00',
+    date: '2023-08-28T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['3rd  Celebration of Cleveland Rock History'],
-    link: 'https://www.beachlandballroom.com/e/13332848/3rd-celebration-of-cleveland-rock-history',
-    date: '2023-08-27T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: [
-      'TobyRaps',
-      'Honeyland',
-      'The Baggs Jazz Project',
-      'Quick Mystery',
-      'COE',
-      'Rent For Cheryl',
-      'Unc D',
-      'People in the Daytime',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13404148/tobyraps-honeyland-the-baggs-jazz-project-quick-mystery-coe-rent-for-cheryl-unc-d-people-in-the-daytime',
-    date: '2023-08-27T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['BrewDog Beachland BINGO', 'DJ Advance'],
@@ -1055,12 +1028,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Soulja Boy'],
-    link: 'https://concerts.livenation.com/soulja-boy-cleveland-ohio-08-27-2023/event/05005E42F05E6293',
-    date: '2023-08-27T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['X'],
     link: 'https://concerts.livenation.com/x-cleveland-ohio-08-29-2023/event/05005E8DBBB231C2',
     date: '2023-08-29T19:00:00',
@@ -1345,10 +1312,16 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Invasion Invasion'],
-    link: 'https://link.dice.fm/U856fc0dba7f',
-    date: '2023-08-27T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
+    artist: ['Chris Webby'],
+    link: 'https://concerts.livenation.com/chris-webby-cleveland-ohio-11-05-2023/event/05005F15D15627C0',
+    date: '2023-11-05T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Grumpy Plum / Rat Motel / Honey Pocket'],
+    link: 'https://link.dice.fm/id8c9d12d8e2',
+    date: '2023-09-01T19:30:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Broadway Rave'],
@@ -1361,6 +1334,12 @@ export const allShows = [
     link: 'https://link.dice.fm/d93e95524895',
     date: '2023-09-02T18:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Connor McLaren'],
+    link: 'https://link.dice.fm/nb1b5b15dda8',
+    date: '2023-09-02T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Gimme Gimme Disco'],
@@ -1399,16 +1378,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Secret Society &BravoArtist present Michael Turner'],
-    link: 'https://link.dice.fm/Ya876ce6f4c1',
-    date: '2023-09-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Honey Pocket'],
     link: 'https://link.dice.fm/z5acb49bcca5',
     date: '2023-09-09T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Secret Society &BravoArtist present Michael Turner'],
+    link: 'https://link.dice.fm/Ya876ce6f4c1',
+    date: '2023-09-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Dayseeker'],
@@ -1496,16 +1475,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Astronomers'],
-    link: 'https://link.dice.fm/s4cada23b8e0',
-    date: '2023-09-26T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Autopilot'],
     link: 'https://link.dice.fm/T4381d524f65',
     date: '2023-09-26T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['The Astronomers'],
+    link: 'https://link.dice.fm/s4cada23b8e0',
+    date: '2023-09-26T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Casey'],
@@ -1544,6 +1523,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Social Cig'],
+    link: 'https://link.dice.fm/n867e033c065',
+    date: '2023-10-01T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
+  },
+  {
     artist: ['slowdive at The Roxy'],
     link: 'https://link.dice.fm/w4af3377248b',
     sold_out: true,
@@ -1551,16 +1536,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['French Cassettes'],
-    link: 'https://link.dice.fm/i9d3198de992',
-    date: '2023-10-03T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['George Clanton'],
     link: 'https://link.dice.fm/o5e5253cefd2',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['French Cassettes'],
+    link: 'https://link.dice.fm/i9d3198de992',
+    date: '2023-10-03T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Frankie Cosmos with Good Morning'],
@@ -1575,6 +1560,18 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Strawberry Launch'],
+    link: 'https://link.dice.fm/w1370c7f4afb',
+    date: '2023-10-07T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['One Direction vs. 5 Seconds of Summer'],
+    link: 'https://link.dice.fm/C8dd3932d1af',
+    date: '2023-10-07T20:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
     link: 'https://link.dice.fm/d079039b50bc',
     date: '2023-10-08T19:00:00-04:00',
@@ -1585,6 +1582,12 @@ export const allShows = [
     link: 'https://link.dice.fm/P8653582ac4e',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['GIFT'],
+    link: 'https://link.dice.fm/cac8be85f81f',
+    date: '2023-10-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Dead on a Sunday'],
@@ -1635,6 +1638,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Annie Dukes'],
+    link: 'https://link.dice.fm/Gd2cf5c8f6ca',
+    date: '2023-10-24T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
+  },
+  {
     artist: ['El Camino Acid and The Wonderfool'],
     link: 'https://link.dice.fm/Q89c1c620f45',
     date: '2023-10-25T19:00:00-04:00',
@@ -1645,6 +1654,12 @@ export const allShows = [
     link: 'https://link.dice.fm/U5a25190bc4d',
     date: '2023-10-28T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Taylorween: an all Taylor Swift halloween party'],
+    link: 'https://link.dice.fm/I13e0ec569c5',
+    date: '2023-10-28T20:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['BL\u00dc EYES'],
@@ -1753,12 +1768,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Abel, Solon, Bloodhounds'],
-    link: 'https://grogshop.gs/event-details/13420798/abel-solon-bloodhounds',
-    date: '2023-08-27T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Together Pangea', 'THICK', 'Reckling'],

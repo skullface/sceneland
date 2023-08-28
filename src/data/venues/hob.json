@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Soulja Boy"
-    ],
-    "link": "https://concerts.livenation.com/soulja-boy-cleveland-ohio-08-27-2023/event/05005E42F05E6293",
-    "date": "2023-08-27T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "X"
     ],
     "link": "https://concerts.livenation.com/x-cleveland-ohio-08-29-2023/event/05005E8DBBB231C2",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/big-bubble-rave-18-only-cleveland-ohio-10-27-2023/event/05005ECCA12B224B",
     "date": "2023-10-27T21:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Chris Webby"
+    ],
+    "link": "https://concerts.livenation.com/chris-webby-cleveland-ohio-11-05-2023/event/05005F15D15627C0",
+    "date": "2023-11-05T19:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -31,11 +31,13 @@ for show in shows:
   date_delete_before = "-ohio-"
   date_delete_after = "/event"
   date = linkHref[linkHref.find(date_delete_before):].replace("-ohio-", "").split("/", 1)[0]
+  if len(date) == 1:
+    date = ""
   if "2023" in date:
-    date = "2023-" + date.replace("-2023", "")
+    date = "2023-" + date.replace("-2023", "") + "T20:00:00"
   if "2024" in date:
-    date = "2024-" + date.replace("-2024", "")
-  all_shows_data['date'] = date + "T20:00:00"
+    date = "2024-" + date.replace("-2024", "") + "T20:00:00"
+  all_shows_data['date'] = date
   all_shows_data['venue'] = "Masonic Temple"
   all_shows_list.append(all_shows_data)
 

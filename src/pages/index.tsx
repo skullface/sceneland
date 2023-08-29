@@ -79,8 +79,10 @@ export default function Page({ shows }: PageProps) {
   }
 
   // Filter shows by selected venues
-  const filteredShows = shows.filter((show) =>
-    selectedVenues.includes(venueMapping[show.venue] || show.venue),
+  const filteredShows = shows.filter(
+    (show) =>
+      show.date !== '' &&
+      selectedVenues.includes(venueMapping[show.venue] || show.venue),
   )
 
   // Sort filtered shows chronologically by show date

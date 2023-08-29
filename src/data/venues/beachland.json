@@ -134,6 +134,11 @@
     "venue": "Beachland Tavern"
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13555758/this-way-out",
+    "date": "2023-09-08T20:00:00",
+    "venue": ""
+  },
+  {
     "artist": [
       "Drag Pride Showcase"
     ],
@@ -158,6 +163,11 @@
     "link": "https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023",
     "date": "2023-09-09T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "link": "https://www.beachlandballroom.com/e/13555768/this-way-out",
+    "date": "2023-09-09T20:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -558,6 +568,14 @@
   },
   {
     "artist": [
+      "Eggy"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13453398/eggy",
+    "date": "2023-10-19T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Carbon Leaf"
     ],
     "link": "https://www.beachlandballroom.com/e/13225388/carbon-leaf",
@@ -601,7 +619,8 @@
   },
   {
     "artist": [
-      "Laufey"
+      "Laufey",
+      "Adam Melchor"
     ],
     "link": "https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour",
     "sold_out": true,
@@ -808,6 +827,15 @@
   },
   {
     "artist": [
+      "Urban Heat",
+      "Rare DM"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm",
+    "date": "2023-11-30T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Start Making Sense",
       "Drew & The Blue"
     ],
@@ -873,6 +901,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
     "date": "2024-02-09T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Ty Segall"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13457108/ty-segall",
+    "date": "2024-05-05T20:00:00",
     "venue": "Beachland Ballroom"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Stranger's Glove: VHS Night in the Underdog!"
-    ],
-    "link": "https://www.eventbrite.com/e/the-strangers-glove-vhs-night-in-the-underdog-tickets-706905833377",
-    "date": "2023-08-29T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Crowning, Niboowin, Orphaned, Inosuke"
     ],
     "link": "https://www.eventbrite.com/e/crowning-niboowin-orphaned-inosuke-tickets-692013871117",
@@ -87,6 +79,14 @@
     ],
     "link": "https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707",
     "date": "2023-09-15T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Lowspot, Wig Doubt"
+    ],
+    "link": "https://www.eventbrite.com/e/lowspot-wig-doubt-tickets-694405765337",
+    "date": "2023-09-16T20:00:00",
     "venue": "Happy Dog"
   }
 ]

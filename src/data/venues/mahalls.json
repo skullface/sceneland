@@ -178,6 +178,14 @@
   },
   {
     "artist": [
+      "Provoker"
+    ],
+    "link": "https://link.dice.fm/ud683cc3ca26",
+    "date": "2023-09-20T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "Tigercub"
     ],
     "link": "https://link.dice.fm/Zcdf94528bf8",
@@ -331,7 +339,7 @@
   },
   {
     "artist": [
-      "One Direction vs. 5 Seconds of Summer"
+      "One Direction vs. 5 Seconds of Summer dance party"
     ],
     "link": "https://link.dice.fm/C8dd3932d1af",
     "date": "2023-10-07T20:00:00-04:00",
@@ -355,19 +363,19 @@
   },
   {
     "artist": [
-      "Dead on a Sunday"
-    ],
-    "link": "https://link.dice.fm/ta0ec89681c5",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "GIFT"
     ],
     "link": "https://link.dice.fm/cac8be85f81f",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Dead on a Sunday"
+    ],
+    "link": "https://link.dice.fm/ta0ec89681c5",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -391,6 +399,14 @@
     ],
     "link": "https://link.dice.fm/Xe6acf311944",
     "date": "2023-10-14T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Dysautonomia Awareness Show w/ The Stereotypes"
+    ],
+    "link": "https://link.dice.fm/cc78d29ba300",
+    "date": "2023-10-15T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -499,19 +515,19 @@
   },
   {
     "artist": [
-      "Walter Etc."
-    ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Into It. Over It."
     ],
     "link": "https://link.dice.fm/Ka4c8810172d",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Walter Etc."
+    ],
+    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -551,6 +567,14 @@
     ],
     "link": "https://link.dice.fm/pbda085c7995",
     "date": "2023-11-17T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Scene Queen"
+    ],
+    "link": "https://link.dice.fm/G75fd065ef75",
+    "date": "2023-11-18T18:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {

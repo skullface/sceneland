@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Together Pangea",
-      "THICK",
-      "Reckling"
-    ],
-    "link": "https://grogshop.gs/event-details/13318738/together-pangea",
-    "date": "2023-08-29T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Jack Lutz + Temple Brothers, Coe, Mack Hubbard + Ty Bogikes, Seconds Away"
     ],
     "link": "https://grogshop.gs/event-details/13420898/jack-lutz-temple-brothers-coe-mack-hubbard-ty-bogikes-seconds-away",
@@ -66,14 +56,6 @@
   },
   {
     "artist": [
-      "Nissim Black with Kosha Dillz"
-    ],
-    "link": "https://grogshop.gs/event-details/13470048/nissim-black-with-kosha-dillz",
-    "date": "2023-09-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Alex Cameron & Roy Molloy",
       "Toyon",
       "Mikey Silas"
@@ -109,7 +91,8 @@
   {
     "artist": [
       "The Bones of J.R. Jones",
-      "Benjamin Dakota Rogers"
+      "Benjamin Dakota Rogers",
+      "The Brakes"
     ],
     "link": "https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones",
     "date": "2023-09-09T20:00:00",
@@ -172,7 +155,6 @@
       "Mr. Phylzzz"
     ],
     "link": "https://grogshop.gs/event-details/13297938/boris-and-melvins",
-    "sold_out": true,
     "date": "2023-09-14T20:00:00",
     "venue": "Grog Shop"
   },
@@ -221,6 +203,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13501088/make-em-laugh-mondays-hosted-by-kevin-ford",
     "date": "2023-09-18T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Space Cadets, Dishwasher Possum, Lake Effect"
+    ],
+    "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-dishwasher-possum-lake-effect",
+    "date": "2023-09-19T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -475,6 +465,17 @@
   },
   {
     "artist": [
+      "John-Allison Weiss: \"Say What You Mean\" 10 Year Anniversary",
+      "Crash Nebula",
+      "Molly O'Malley",
+      "The Heavy Forgiveness"
+    ],
+    "link": "https://grogshop.gs/event-details/13537988/john-allison-weiss-say-what-you-mean-10-year-anniversary",
+    "date": "2023-10-18T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Passafire",
       "C-Level w",
       "Mellowman Funk"
@@ -517,6 +518,24 @@
     ],
     "link": "https://grogshop.gs/event-details/12974495/mudhoney",
     "date": "2023-10-24T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sub:Merged and Vibe & Direct Present: Vibe In Horror: Duality Edition",
+      "Vampa",
+      "Chalk Dinosaur",
+      "Vibe & Direct",
+      "Hayden George",
+      "Jondoetho1 b2b Wolftown",
+      "Land of Panda",
+      "Toro",
+      "Lilly Chan",
+      "Phyzque",
+      "Smash"
+    ],
+    "link": "https://grogshop.gs/event-details/13556888/sub-merged-and-vibe-direct-present-vibe-in-horror-duality-edition",
+    "date": "2023-10-28T20:00:00",
     "venue": "Grog Shop"
   },
   {

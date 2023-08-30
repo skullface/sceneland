@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "BrewDog Beachland BINGO",
-      "DJ Advance"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13434228/brewdog-beachland-bingo-dj-advance",
-    "date": "2023-08-29T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Drifting Roots",
       "Lake Irie"
     ],
@@ -30,11 +21,12 @@
     "artist": [
       "Kari Faux",
       "theMIND",
+      "Courtnie",
       "Navy Jayde",
       "NameJai",
       "Trav Hen"
     ],
-    "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind-navy-jayde-namejai-trav-hen",
+    "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind-courtnie-navy-jayde-namejai-trav-hen",
     "date": "2023-08-31T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -149,10 +141,9 @@
   {
     "artist": [
       "Nox Novacula",
-      "Uniity",
       "Hiram-Maxim"
     ],
-    "link": "https://www.beachlandballroom.com/e/13317238/nox-novacula-uniity-hiram-maxim",
+    "link": "https://www.beachlandballroom.com/e/13317238/nox-novacula-hiram-maxim",
     "date": "2023-09-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -647,9 +638,10 @@
   },
   {
     "artist": [
-      "The Main Squeeze"
+      "The Main Squeeze",
+      "Saxsquatch"
     ],
-    "link": "https://www.beachlandballroom.com/e/13405598/the-main-squeeze",
+    "link": "https://www.beachlandballroom.com/e/13405598/the-main-squeeze-saxsquatch",
     "date": "2023-10-26T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -893,6 +885,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
     "date": "2023-12-13T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Bearly Dead - A Tribute To The Grateful Dead"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead",
+    "date": "2024-01-20T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

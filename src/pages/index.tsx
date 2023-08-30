@@ -149,22 +149,9 @@ export default function Page({ shows }: PageProps) {
           day: 'numeric',
         })
 
-        if (
-          (dayOfWeek === 5 && weekStartToTodayDiff >= -2) ||
-          (dayOfWeek === 6 && weekStartToTodayDiff >= -1) ||
-          (dayOfWeek === 0 &&
-            weekStartToTodayDiff >= -7 &&
-            weekStartToTodayDiff < 0)
-        ) {
-          groupLabel = 'This weekend'
-        } else if (
-          dayOfWeek >= 1 &&
-          dayOfWeek <= 3 &&
-          weekStartToTodayDiff >= -7 &&
-          weekStartToTodayDiff < 0
-        ) {
+        if (weekStartToTodayDiff >= -6 && weekStartToTodayDiff < 0) {
           groupLabel = 'This week'
-        } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 7) {
+        } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 6) {
           groupLabel = 'Next week'
         } else {
           groupPrefix = 'Week of'

@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Drifting Roots",
-      "Lake Irie"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13206448/drifting-roots-lake-irie",
-    "date": "2023-08-30T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Los Straitjackets",
-      "Jake La Botz Trio"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13322448/los-straitjackets-jake-la-botz-trio",
-    "date": "2023-08-30T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Kari Faux",
       "theMIND",
       "Courtnie",
@@ -162,9 +144,10 @@
   },
   {
     "artist": [
-      "Jennifer Hartswick Band"
+      "Jennifer Hartswick Band",
+      "Color Phase"
     ],
-    "link": "https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band",
+    "link": "https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band-color-phase",
     "date": "2023-09-10T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -621,8 +604,7 @@
   {
     "artist": [
       "Kings Kaleidoscope",
-      "Mike Mains and the Branches",
-      "Adam Paddock"
+      "Mike Mains and the Branches"
     ],
     "link": "https://www.beachlandballroom.com/e/13221478/kings-kaleidoscope-mike-mains-the-branches",
     "date": "2023-10-25T20:00:00",

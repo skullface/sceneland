@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jack Lutz + Temple Brothers, Coe, Mack Hubbard + Ty Bogikes, Seconds Away"
-    ],
-    "link": "https://grogshop.gs/event-details/13420898/jack-lutz-temple-brothers-coe-mack-hubbard-ty-bogikes-seconds-away",
-    "date": "2023-08-30T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Coffee & Cream, Mayor Wertz, Mighty Misc"
     ],
     "link": "https://grogshop.gs/event-details/13421248/coffee-cream-mayor-wertz-mighty-misc",
@@ -522,6 +514,16 @@
   },
   {
     "artist": [
+      "A Pop Punk Halloween ft TRUSS",
+      "This Summer",
+      "Grant"
+    ],
+    "link": "https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss",
+    "date": "2023-10-27T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Sub:Merged and Vibe & Direct Present: Vibe In Horror: Duality Edition",
       "Vampa",
       "Chalk Dinosaur",
@@ -567,6 +569,14 @@
   },
   {
     "artist": [
+      "Airiel, Tallies, Niights, Bleeder"
+    ],
+    "link": "https://grogshop.gs/event-details/13527238/airiel-tallies-niights-bleeder",
+    "date": "2023-11-04T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Beauty School Dropout",
       "Not A Toy",
       "Ava Maybee"
@@ -585,10 +595,10 @@
   },
   {
     "artist": [
-      "GZA: Truth and Swords Tour",
+      "GZA and Fishbone: Truth and Swords Tour",
       "Beau Young Prince"
     ],
-    "link": "https://grogshop.gs/event-details/13474718/gza-truth-and-swords-tour",
+    "link": "https://grogshop.gs/event-details/13474718/gza-and-fishbone-truth-and-swords-tour",
     "date": "2023-11-12T20:00:00",
     "venue": "Grog Shop"
   },
@@ -598,6 +608,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13501118/hot-goss-the-improvised-musical",
     "date": "2023-11-14T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Skuff Micksun \"Wrapped Up In The Wind Album Release\" ft Peachcurls and TBA",
+      "Peachcurls"
+    ],
+    "link": "https://grogshop.gs/event-details/13568818/skuff-micksun-wrapped-up-in-the-wind-album-release-ft-peachcurls-and-tba",
+    "date": "2023-11-18T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -621,7 +640,8 @@
   },
   {
     "artist": [
-      "Nolan Taylor"
+      "Nolan Taylor",
+      "Logan Halstead"
     ],
     "link": "https://grogshop.gs/event-details/13516538/nolan-taylor",
     "date": "2023-12-02T20:00:00",

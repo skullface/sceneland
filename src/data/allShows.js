@@ -66,9 +66,9 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['MAKEWAR'],
-    link: 'https://www.eventbrite.com/e/makewar-tickets-706112981937',
-    date: '2023-11-02T20:00:00',
+    artist: ['DRAWN AND QUARTERED + FULCI'],
+    link: 'https://www.eventbrite.com/e/drawn-and-quartered-fulci-tickets-709459340987',
+    date: '2023-10-28T20:00:00',
     venue: 'No Class',
   },
   {
@@ -105,6 +105,12 @@ export const allShows = [
     artist: ['K-POP NITE'],
     link: 'https://www.ticketweb.com/event/k-pop-nite-musica-tickets/13524068?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-09-30T20:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['Pkew Pkew Pkew, Heart & Lung + Sector 442'],
+    link: 'https://www.ticketweb.com/event/pkew-pkew-pkew-heart-musica-tickets/13563108?pl=celebrityetc&REFID=clientsitewpecheck',
+    date: '2023-10-01T20:00:00',
     venue: 'Musica Akron',
   },
   {
@@ -175,20 +181,8 @@ export const allShows = [
   },
   {
     link: 'https://premium.livenation.com/venue/blossom-music-center',
-    date: '2023-08-30T20:00:00',
+    date: '2023-08-31T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Drifting Roots', 'Lake Irie'],
-    link: 'https://www.beachlandballroom.com/e/13206448/drifting-roots-lake-irie',
-    date: '2023-08-30T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Los Straitjackets', 'Jake La Botz Trio'],
-    link: 'https://www.beachlandballroom.com/e/13322448/los-straitjackets-jake-la-botz-trio',
-    date: '2023-08-30T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: [
@@ -306,8 +300,8 @@ export const allShows = [
     venue: '',
   },
   {
-    artist: ['Jennifer Hartswick Band'],
-    link: 'https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band',
+    artist: ['Jennifer Hartswick Band', 'Color Phase'],
+    link: 'https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band-color-phase',
     date: '2023-09-10T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -627,11 +621,7 @@ export const allShows = [
     venue: '',
   },
   {
-    artist: [
-      'Kings Kaleidoscope',
-      'Mike Mains and the Branches',
-      'Adam Paddock',
-    ],
+    artist: ['Kings Kaleidoscope', 'Mike Mains and the Branches'],
     link: 'https://www.beachlandballroom.com/e/13221478/kings-kaleidoscope-mike-mains-the-branches',
     date: '2023-10-25T20:00:00',
     venue: 'Beachland Ballroom',
@@ -1131,6 +1121,12 @@ export const allShows = [
   {
     artist: ['Pete Davidson Live'],
     link: 'https://www.agoracleveland.com/events/detail/500438',
+    date: '2023-10-15T20:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Pete Davidson Live'],
+    link: 'https://www.agoracleveland.com/events/detail/500766',
     date: '2023-10-15T20:00:00',
     venue: 'Agora',
   },
@@ -1655,16 +1651,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Michael Turner'],
+    link: 'https://link.dice.fm/Ya876ce6f4c1',
+    date: '2023-09-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
+  },
+  {
     artist: ['Honey Pocket'],
     link: 'https://link.dice.fm/z5acb49bcca5',
     date: '2023-09-09T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Secret Society &BravoArtist present Michael Turner'],
-    link: 'https://link.dice.fm/Ya876ce6f4c1',
-    date: '2023-09-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Dayseeker'],
@@ -1728,16 +1724,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Provoker'],
-    link: 'https://link.dice.fm/ud683cc3ca26',
-    date: '2023-09-20T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Tigercub'],
     link: 'https://link.dice.fm/Zcdf94528bf8',
     date: '2023-09-20T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Provoker'],
+    link: 'https://link.dice.fm/ud683cc3ca26',
+    date: '2023-09-20T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Senses Fail'],
@@ -1819,16 +1815,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['French Cassettes'],
-    link: 'https://link.dice.fm/i9d3198de992',
-    date: '2023-10-03T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['George Clanton'],
     link: 'https://link.dice.fm/o5e5253cefd2',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['French Cassettes'],
+    link: 'https://link.dice.fm/i9d3198de992',
+    date: '2023-10-03T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Frankie Cosmos with Good Morning'],
@@ -1885,6 +1881,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['The Brummies'],
+    link: 'https://link.dice.fm/l9573f9cbae8',
+    date: '2023-10-12T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Horse Jumper Of Love'],
     link: 'https://link.dice.fm/E9d27f9dd16c',
     date: '2023-10-13T19:00:00-04:00',
@@ -1901,6 +1903,12 @@ export const allShows = [
     link: 'https://link.dice.fm/cc78d29ba300',
     date: '2023-10-15T18:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ["Thank You, I'm Sorry"],
+    link: 'https://link.dice.fm/Tf1836d47d92',
+    date: '2023-10-15T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['DEHD '],
@@ -1927,10 +1935,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Vedo at The Roxy'],
+    artist: ['Vedo '],
     link: 'https://link.dice.fm/Ma1d6e0f3876',
     date: '2023-10-21T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ["Belmont and Can't Swim"],
+    link: 'https://link.dice.fm/r96a272cc1ab',
+    date: '2023-10-22T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Annie Dukes'],
@@ -2081,14 +2095,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: [
-      'Jack Lutz + Temple Brothers, Coe, Mack Hubbard + Ty Bogikes, Seconds Away',
-    ],
-    link: 'https://grogshop.gs/event-details/13420898/jack-lutz-temple-brothers-coe-mack-hubbard-ty-bogikes-seconds-away',
-    date: '2023-08-30T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Coffee & Cream, Mayor Wertz, Mighty Misc'],
@@ -2471,6 +2477,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['A Pop Punk Halloween ft TRUSS', 'This Summer', 'Grant'],
+    link: 'https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss',
+    date: '2023-10-27T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: [
       'Sub:Merged and Vibe & Direct Present: Vibe In Horror: Duality Edition',
       'Vampa',
@@ -2507,6 +2519,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Airiel, Tallies, Niights, Bleeder'],
+    link: 'https://grogshop.gs/event-details/13527238/airiel-tallies-niights-bleeder',
+    date: '2023-11-04T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Beauty School Dropout', 'Not A Toy', 'Ava Maybee'],
     link: 'https://grogshop.gs/event-details/13522888/beauty-school-dropout',
     date: '2023-11-10T20:00:00',
@@ -2519,8 +2537,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['GZA: Truth and Swords Tour', 'Beau Young Prince'],
-    link: 'https://grogshop.gs/event-details/13474718/gza-truth-and-swords-tour',
+    artist: ['GZA and Fishbone: Truth and Swords Tour', 'Beau Young Prince'],
+    link: 'https://grogshop.gs/event-details/13474718/gza-and-fishbone-truth-and-swords-tour',
     date: '2023-11-12T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2528,6 +2546,15 @@ export const allShows = [
     artist: ['Hot Goss: The Improvised Musical'],
     link: 'https://grogshop.gs/event-details/13501118/hot-goss-the-improvised-musical',
     date: '2023-11-14T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      'Skuff Micksun "Wrapped Up In The Wind Album Release" ft Peachcurls and TBA',
+      'Peachcurls',
+    ],
+    link: 'https://grogshop.gs/event-details/13568818/skuff-micksun-wrapped-up-in-the-wind-album-release-ft-peachcurls-and-tba',
+    date: '2023-11-18T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2543,7 +2570,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Nolan Taylor'],
+    artist: ['Nolan Taylor', 'Logan Halstead'],
     link: 'https://grogshop.gs/event-details/13516538/nolan-taylor',
     date: '2023-12-02T20:00:00',
     venue: 'Grog Shop',

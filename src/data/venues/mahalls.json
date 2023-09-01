@@ -81,19 +81,19 @@
   },
   {
     "artist": [
-      "Michael Turner"
-    ],
-    "link": "https://link.dice.fm/Ya876ce6f4c1",
-    "date": "2023-09-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Honey Pocket"
     ],
     "link": "https://link.dice.fm/z5acb49bcca5",
     "date": "2023-09-09T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Michael Turner"
+    ],
+    "link": "https://link.dice.fm/Ya876ce6f4c1",
+    "date": "2023-09-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -178,19 +178,19 @@
   },
   {
     "artist": [
-      "Tigercub"
-    ],
-    "link": "https://link.dice.fm/Zcdf94528bf8",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Provoker"
     ],
     "link": "https://link.dice.fm/ud683cc3ca26",
     "date": "2023-09-20T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Tigercub"
+    ],
+    "link": "https://link.dice.fm/Zcdf94528bf8",
+    "date": "2023-09-20T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -218,19 +218,19 @@
   },
   {
     "artist": [
-      "The Astronomers"
-    ],
-    "link": "https://link.dice.fm/s4cada23b8e0",
-    "date": "2023-09-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autopilot"
     ],
     "link": "https://link.dice.fm/T4381d524f65",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "The Astronomers"
+    ],
+    "link": "https://link.dice.fm/s4cada23b8e0",
+    "date": "2023-09-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -299,19 +299,19 @@
   },
   {
     "artist": [
-      "George Clanton"
-    ],
-    "link": "https://link.dice.fm/o5e5253cefd2",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "French Cassettes"
     ],
     "link": "https://link.dice.fm/i9d3198de992",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "George Clanton"
+    ],
+    "link": "https://link.dice.fm/o5e5253cefd2",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -347,14 +347,6 @@
   },
   {
     "artist": [
-      "Kate Bollinger"
-    ],
-    "link": "https://link.dice.fm/P8653582ac4e",
-    "date": "2023-10-08T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
     ],
     "link": "https://link.dice.fm/d079039b50bc",
@@ -363,11 +355,11 @@
   },
   {
     "artist": [
-      "GIFT"
+      "Kate Bollinger"
     ],
-    "link": "https://link.dice.fm/cac8be85f81f",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
+    "link": "https://link.dice.fm/P8653582ac4e",
+    "date": "2023-10-08T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -376,6 +368,14 @@
     "link": "https://link.dice.fm/ta0ec89681c5",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "GIFT"
+    ],
+    "link": "https://link.dice.fm/cac8be85f81f",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -539,19 +539,19 @@
   },
   {
     "artist": [
-      "Into It. Over It."
-    ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Walter Etc."
     ],
     "link": "https://link.dice.fm/ja5bf7c187cf",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Into It. Over It."
+    ],
+    "link": "https://link.dice.fm/Ka4c8810172d",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Coffee & Cream, Mayor Wertz, Mighty Misc"
-    ],
-    "link": "https://grogshop.gs/event-details/13421248/coffee-cream-mayor-wertz-mighty-misc",
-    "date": "2023-08-31T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "GlamGore: Babes of Bedrock",
       "Anhedonia Delight"
     ],
@@ -147,6 +139,7 @@
       "Mr. Phylzzz"
     ],
     "link": "https://grogshop.gs/event-details/13297938/boris-and-melvins",
+    "sold_out": true,
     "date": "2023-09-14T20:00:00",
     "venue": "Grog Shop"
   },
@@ -191,9 +184,9 @@
   },
   {
     "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
+      "MELM ft. John Armstrong, Eulise Dickerson, Tony Bowers, John Brown, & John King"
     ],
-    "link": "https://grogshop.gs/event-details/13501088/make-em-laugh-mondays-hosted-by-kevin-ford",
+    "link": "https://grogshop.gs/event-details/13501088/melm-ft-john-armstrong-eulise-dickerson-tony-bowers-john-brown-john-king",
     "date": "2023-09-18T20:00:00",
     "venue": "Grog Shop"
   },
@@ -288,6 +281,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13165778/idk",
     "date": "2023-09-27T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Head Automatica",
+      "Foxy Shazam"
+    ],
+    "link": "https://grogshop.gs/event-details/13573888/head-automatica",
+    "date": "2023-09-28T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -510,6 +512,14 @@
     ],
     "link": "https://grogshop.gs/event-details/12974495/mudhoney",
     "date": "2023-10-24T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Midnight Rental presents Secret Movie Night"
+    ],
+    "link": "https://grogshop.gs/event-details/13574018/midnight-rental-presents-secret-movie-night",
+    "date": "2023-10-25T20:00:00",
     "venue": "Grog Shop"
   },
   {

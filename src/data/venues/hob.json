@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Chl\u00f6e: The In Pieces Tour"
-    ],
-    "link": "https://concerts.livenation.com/chloe-the-in-pieces-tour-cleveland-ohio-08-31-2023/event/05005EEAE3F23E6E",
-    "date": "2023-08-31T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Saved By The 90's"
     ],
     "link": "https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-09-01-2023/event/05005EB1BC8761DF",
@@ -173,14 +165,6 @@
     ],
     "link": "https://concerts.livenation.com/saliva-and-drowning-pool-snafu-le-cleveland-ohio-09-27-2023/event/05005EDAD6D859C7",
     "date": "2023-09-27T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Head Automatica"
-    ],
-    "link": "https://concerts.livenation.com/head-automatica-cleveland-ohio-09-28-2023/event/05005ED0B75F6D99",
-    "date": "2023-09-28T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/lil-darkie-and-the-collapse-of-cleveland-ohio-11-08-2023/event/05005EC1D5015422",
     "date": "2023-11-08T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Zebra"
+    ],
+    "link": "https://concerts.livenation.com/zebra-cleveland-ohio-11-10-2023/event/05005EECB3F2419D",
+    "date": "2023-11-10T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "GZA and Fishbone: Truth And Swords Tour"
+    ],
+    "link": "https://concerts.livenation.com/gza-and-fishbone-truth-and-swords-cleveland-ohio-11-12-2023/event/05005EFFB56B5C97",
+    "date": "2023-11-12T18:30:00",
     "venue": "House of Blues"
   }
 ]

@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['CODY MANSON'],
-    link: 'https://www.eventbrite.com/e/cody-manson-tickets-642514316617',
-    date: '2023-08-31T20:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: ['200 STAB WOUNDS'],
     link: 'https://www.eventbrite.com/e/200-stab-wounds-tickets-696104395987',
     date: '2023-09-08T20:00:00',
@@ -72,14 +66,20 @@ export const allShows = [
     venue: 'No Class',
   },
   {
+    artist: ['MAKEWAR'],
+    link: 'https://www.eventbrite.com/e/makewar-tickets-706112981937',
+    date: '2023-11-02T20:00:00',
+    venue: 'No Class',
+  },
+  {
     artist: ['Coup De Grace, Goody & The Gospel, Fear of Dancing'],
     link: 'https://www.ticketweb.com/event/coup-de-grace-goody-musica-tickets/13494668?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-09-02T20:00:00',
     venue: 'Musica Akron',
   },
   {
-    artist: ['The Buttertones,  Okey Dokey'],
-    link: 'https://www.ticketweb.com/event/the-buttertones-okey-dokey-musica-tickets/13474928?pl=celebrityetc&REFID=clientsitewpecheck',
+    artist: ['The Buttertones,  New Misphoria & Funeral Proposals'],
+    link: 'https://www.ticketweb.com/event/the-buttertones-new-misphoria-funeral-musica-tickets/13474928?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-09-12T20:00:00',
     venue: 'Musica Akron',
   },
@@ -181,32 +181,8 @@ export const allShows = [
   },
   {
     link: 'https://premium.livenation.com/venue/blossom-music-center',
-    date: '2023-08-31T20:00:00',
+    date: '2023-09-01T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: [
-      'Kari Faux',
-      'theMIND',
-      'Courtnie',
-      'Navy Jayde',
-      'NameJai',
-      'Trav Hen',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13330998/kari-faux-themind-courtnie-navy-jayde-namejai-trav-hen',
-    date: '2023-08-31T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: [
-      'Blaire Blades and The Backstabbers',
-      'The Little Ditties',
-      'TAMA',
-      'Andi Chakraborty',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13481568/blaire-blades-and-the-backstabbers-the-little-ditties-tama-andi-chakraborty',
-    date: '2023-08-31T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     link: 'https://www.beachlandballroom.com/e/13521438/this-way-out',
@@ -300,8 +276,8 @@ export const allShows = [
     venue: '',
   },
   {
-    artist: ['Jennifer Hartswick Band', 'Color Phase'],
-    link: 'https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band-color-phase',
+    artist: ['Jennifer Hartswick Band', 'Colour Phase'],
+    link: 'https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band-colour-phase',
     date: '2023-09-10T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -488,6 +464,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['MSPAINT'],
+    link: 'https://www.beachlandballroom.com/e/13573458/mspaint',
+    date: '2023-10-05T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Cut Worms', 'Ryder The Eagle'],
     link: 'https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle',
     date: '2023-10-06T20:00:00',
@@ -518,8 +500,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Scott H. Biram'],
-    link: 'https://www.beachlandballroom.com/e/13510778/scott-h-biram',
+    artist: ['Scott H. Biram', 'Cory Grinder & Anthony Papaleo (Duo)'],
+    link: 'https://www.beachlandballroom.com/e/13510778/scott-h-biram-cory-grinder-anthony-papaleo-duo-',
     date: '2023-10-10T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -864,6 +846,12 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['Leave Your Mark!'],
+    link: 'https://www.ticketmaster.com/leave-your-mark-cleveland-ohio-09-15-2023/event/05005F1ED01531D1',
+    date: '2023-09-15T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     link: 'https://www.ticketmaster.com/aiw-fresh-meat-3-cleveland-ohio-09-16-2023/event/05005EFB1C3993C8',
     date: '2023-09-16T20:00:00',
     venue: 'Masonic Temple',
@@ -1125,188 +1113,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Pete Davidson Live'],
-    link: 'https://www.agoracleveland.com/events/detail/500766',
-    date: '2023-10-15T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Bullet For My Valentine, Of Mice & Men, Vended'],
-    link: 'https://www.agoracleveland.com/events/detail/495546',
-    date: '2023-10-18T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['San Holo Presents Existential Dance Music, DROELOE, OddKidOut'],
-    link: 'https://www.agoracleveland.com/events/detail/489602',
-    date: '2023-10-19T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ["Chris D'Elia"],
-    link: 'https://www.agoracleveland.com/events/detail/479424',
-    date: '2023-10-20T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Larry Fleet, Karley Scott Collins'],
-    link: 'https://www.agoracleveland.com/events/detail/486524',
-    date: '2023-10-21T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Russell Dickerson, Restless Road'],
-    link: 'https://www.agoracleveland.com/events/detail/485227',
-    date: '2023-10-26T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['TRAP KARAOKE: CLEVELAND'],
-    link: 'https://www.agoracleveland.com/events/detail/494709',
-    date: '2023-10-27T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: [
-      'Mushroomhead, Hellzapoppin, Kurt Deimer, Fleischkrieg, Bittersweet Revenge, Twysted Asylum',
-    ],
-    link: 'https://www.agoracleveland.com/events/detail/481912',
-    date: '2023-10-28T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Mark Normand'],
-    link: 'https://www.agoracleveland.com/events/detail/484281',
-    date: '2023-11-03T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Grace Potter'],
-    link: 'https://www.agoracleveland.com/events/detail/498022',
-    date: '2023-11-04T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Teddy Swims'],
-    link: 'https://www.agoracleveland.com/events/detail/488227',
-    date: '2023-11-05T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Tech N9ne & Hollywood Undead, King Iso'],
-    link: 'https://www.agoracleveland.com/events/detail/493988',
-    date: '2023-11-06T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['DragonForce, Amaranthe, NanowaR Of Steel, Edge Of Paradise'],
-    link: 'https://www.agoracleveland.com/events/detail/497352',
-    date: '2023-11-08T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['UNDERTAKER'],
-    link: 'https://www.agoracleveland.com/events/detail/492176',
-    date: '2023-11-10T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Hot Mulligan, Heart Attack Man, Spanish Love Songs, Ben Quad'],
-    link: 'https://www.agoracleveland.com/events/detail/495803',
-    date: '2023-11-11T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Vir Das'],
-    link: 'https://www.agoracleveland.com/events/detail/492353',
-    date: '2023-11-12T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Shakey Graves, Rayland Baxter'],
-    link: 'https://www.agoracleveland.com/events/detail/491162',
-    date: '2023-11-16T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Ian Munsick, Randall King'],
-    link: 'https://www.agoracleveland.com/events/detail/490514',
-    date: '2023-11-17T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Wish You Were Here'],
-    link: 'https://www.agoracleveland.com/events/detail/489517',
-    date: '2023-11-18T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['The Rock Orchestra by Candlelight'],
-    link: 'https://www.agoracleveland.com/events/detail/489063',
-    date: '2023-11-19T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Baroness, Soul Glo, Spotlights, Cloud Rat'],
-    link: 'https://www.agoracleveland.com/events/detail/490436',
-    date: '2023-11-24T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['First Snow'],
-    link: 'https://www.agoracleveland.com/events/detail/500326',
-    date: '2023-12-02T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['LSDREAM, ZINGARA, Super Future'],
-    link: 'https://www.agoracleveland.com/events/detail/489352',
-    date: '2023-12-03T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Pigeons Playing Ping Pong, Broccoli Samurai'],
-    link: 'https://www.agoracleveland.com/events/detail/496570',
-    date: '2023-12-07T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Roy Woods'],
-    link: 'https://www.agoracleveland.com/events/detail/498637',
-    date: '2023-12-08T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Story of the Year, We the Kings, Youth Fountain'],
-    link: 'https://www.agoracleveland.com/events/detail/498046',
-    date: '2024-01-06T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['G Jones, IMANU, KOAN Sound, Sayer'],
-    link: 'https://www.agoracleveland.com/events/detail/494799',
-    date: '2024-01-19T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Darcy & Jer'],
-    link: 'https://www.agoracleveland.com/events/detail/489478',
-    date: '2024-02-18T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ["Jimbo's Drag Circus"],
-    link: 'https://www.agoracleveland.com/events/detail/495366',
-    date: '2024-03-02T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Chl\u00f6e: The In Pieces Tour'],
-    link: 'https://concerts.livenation.com/chloe-the-in-pieces-tour-cleveland-ohio-08-31-2023/event/05005EEAE3F23E6E',
-    date: '2023-08-31T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ["Saved By The 90's"],
     link: 'https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-09-01-2023/event/05005EB1BC8761DF',
     date: '2023-09-01T20:00:00',
@@ -1430,12 +1236,6 @@ export const allShows = [
     artist: ['SALIVA and DROWNING POOL: SNAFU Le Tour Presented By WMMS'],
     link: 'https://concerts.livenation.com/saliva-and-drowning-pool-snafu-le-cleveland-ohio-09-27-2023/event/05005EDAD6D859C7',
     date: '2023-09-27T18:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Head Automatica'],
-    link: 'https://concerts.livenation.com/head-automatica-cleveland-ohio-09-28-2023/event/05005ED0B75F6D99',
-    date: '2023-09-28T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1591,6 +1391,18 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Zebra'],
+    link: 'https://concerts.livenation.com/zebra-cleveland-ohio-11-10-2023/event/05005EECB3F2419D',
+    date: '2023-11-10T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['GZA and Fishbone: Truth And Swords Tour'],
+    link: 'https://concerts.livenation.com/gza-and-fishbone-truth-and-swords-cleveland-ohio-11-12-2023/event/05005EFFB56B5C97',
+    date: '2023-11-12T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Grumpy Plum / Rat Motel / Honey Pocket'],
     link: 'https://link.dice.fm/id8c9d12d8e2',
     date: '2023-09-01T19:30:00-04:00',
@@ -1651,16 +1463,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Michael Turner'],
-    link: 'https://link.dice.fm/Ya876ce6f4c1',
-    date: '2023-09-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Honey Pocket'],
     link: 'https://link.dice.fm/z5acb49bcca5',
     date: '2023-09-09T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Michael Turner'],
+    link: 'https://link.dice.fm/Ya876ce6f4c1',
+    date: '2023-09-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Dayseeker'],
@@ -1724,16 +1536,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Tigercub'],
-    link: 'https://link.dice.fm/Zcdf94528bf8',
-    date: '2023-09-20T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Provoker'],
     link: 'https://link.dice.fm/ud683cc3ca26',
     date: '2023-09-20T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Tigercub'],
+    link: 'https://link.dice.fm/Zcdf94528bf8',
+    date: '2023-09-20T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Senses Fail'],
@@ -1754,16 +1566,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Astronomers'],
-    link: 'https://link.dice.fm/s4cada23b8e0',
-    date: '2023-09-26T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Autopilot'],
     link: 'https://link.dice.fm/T4381d524f65',
     date: '2023-09-26T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['The Astronomers'],
+    link: 'https://link.dice.fm/s4cada23b8e0',
+    date: '2023-09-26T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Casey'],
@@ -1815,16 +1627,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['George Clanton'],
-    link: 'https://link.dice.fm/o5e5253cefd2',
-    date: '2023-10-03T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['French Cassettes'],
     link: 'https://link.dice.fm/i9d3198de992',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['George Clanton'],
+    link: 'https://link.dice.fm/o5e5253cefd2',
+    date: '2023-10-03T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Frankie Cosmos with Good Morning'],
@@ -1851,28 +1663,28 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Kate Bollinger'],
-    link: 'https://link.dice.fm/P8653582ac4e',
-    date: '2023-10-08T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
     link: 'https://link.dice.fm/d079039b50bc',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['GIFT'],
-    link: 'https://link.dice.fm/cac8be85f81f',
-    date: '2023-10-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
+    artist: ['Kate Bollinger'],
+    link: 'https://link.dice.fm/P8653582ac4e',
+    date: '2023-10-08T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Dead on a Sunday'],
     link: 'https://link.dice.fm/ta0ec89681c5',
     date: '2023-10-09T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['GIFT'],
+    link: 'https://link.dice.fm/cac8be85f81f',
+    date: '2023-10-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Chris Farren'],
@@ -1995,16 +1807,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Into It. Over It.'],
-    link: 'https://link.dice.fm/Ka4c8810172d',
-    date: '2023-11-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Walter Etc.'],
     link: 'https://link.dice.fm/ja5bf7c187cf',
     date: '2023-11-08T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Into It. Over It.'],
+    link: 'https://link.dice.fm/Ka4c8810172d',
+    date: '2023-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Real Friends and Knuckle Puck'],
@@ -2095,12 +1907,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Coffee & Cream, Mayor Wertz, Mighty Misc'],
-    link: 'https://grogshop.gs/event-details/13421248/coffee-cream-mayor-wertz-mighty-misc',
-    date: '2023-08-31T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['GlamGore: Babes of Bedrock', 'Anhedonia Delight'],
@@ -2213,6 +2019,7 @@ export const allShows = [
   {
     artist: ['BORIS and MELVINS', 'Mr. Phylzzz'],
     link: 'https://grogshop.gs/event-details/13297938/boris-and-melvins',
+    sold_out: true,
     date: '2023-09-14T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2248,8 +2055,10 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
-    link: 'https://grogshop.gs/event-details/13501088/make-em-laugh-mondays-hosted-by-kevin-ford',
+    artist: [
+      'MELM ft. John Armstrong, Eulise Dickerson, Tony Bowers, John Brown, & John King',
+    ],
+    link: 'https://grogshop.gs/event-details/13501088/melm-ft-john-armstrong-eulise-dickerson-tony-bowers-john-brown-john-king',
     date: '2023-09-18T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2311,6 +2120,12 @@ export const allShows = [
     artist: ['IDK', 'Lute', 'Joey Aich', 'Kingxzell'],
     link: 'https://grogshop.gs/event-details/13165778/idk',
     date: '2023-09-27T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Head Automatica', 'Foxy Shazam'],
+    link: 'https://grogshop.gs/event-details/13573888/head-automatica',
+    date: '2023-09-28T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2477,6 +2292,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/event-details/13574018/midnight-rental-presents-secret-movie-night',
+    date: '2023-10-25T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['A Pop Punk Halloween ft TRUSS', 'This Summer', 'Grant'],
     link: 'https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss',
     date: '2023-10-27T20:00:00',
@@ -2593,12 +2414,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Crowning, Niboowin, Orphaned, Inosuke'],
-    link: 'https://www.eventbrite.com/e/crowning-niboowin-orphaned-inosuke-tickets-692013871117',
-    date: '2023-08-31T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: [
       'The Michael Character, Eleanor Elektra, Jason Kaminski, House of Wills',
     ],
@@ -2662,6 +2477,11 @@ export const allShows = [
     artist: ['Lowspot, Wig Doubt'],
     link: 'https://www.eventbrite.com/e/lowspot-wig-doubt-tickets-694405765337',
     date: '2023-09-16T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-706349068077',
+    date: '2023-09-18T20:00:00',
     venue: 'Happy Dog',
   },
   {

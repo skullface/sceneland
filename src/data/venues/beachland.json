@@ -1,29 +1,5 @@
 [
   {
-    "artist": [
-      "Kari Faux",
-      "theMIND",
-      "Courtnie",
-      "Navy Jayde",
-      "NameJai",
-      "Trav Hen"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13330998/kari-faux-themind-courtnie-navy-jayde-namejai-trav-hen",
-    "date": "2023-08-31T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Blaire Blades and The Backstabbers",
-      "The Little Ditties",
-      "TAMA",
-      "Andi Chakraborty"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13481568/blaire-blades-and-the-backstabbers-the-little-ditties-tama-andi-chakraborty",
-    "date": "2023-08-31T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
     "link": "https://www.beachlandballroom.com/e/13521438/this-way-out",
     "date": "2023-09-01T20:00:00",
     "venue": ""
@@ -145,9 +121,9 @@
   {
     "artist": [
       "Jennifer Hartswick Band",
-      "Color Phase"
+      "Colour Phase"
     ],
-    "link": "https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band-color-phase",
+    "link": "https://www.beachlandballroom.com/e/13409758/jennifer-hartswick-band-colour-phase",
     "date": "2023-09-10T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -408,6 +384,14 @@
   },
   {
     "artist": [
+      "MSPAINT"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13573458/mspaint",
+    "date": "2023-10-05T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Cut Worms",
       "Ryder The Eagle"
     ],
@@ -452,9 +436,10 @@
   },
   {
     "artist": [
-      "Scott H. Biram"
+      "Scott H. Biram",
+      "Cory Grinder & Anthony Papaleo (Duo)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13510778/scott-h-biram",
+    "link": "https://www.beachlandballroom.com/e/13510778/scott-h-biram-cory-grinder-anthony-papaleo-duo-",
     "date": "2023-10-10T20:00:00",
     "venue": "Beachland Tavern"
   },

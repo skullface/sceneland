@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Crowning, Niboowin, Orphaned, Inosuke"
-    ],
-    "link": "https://www.eventbrite.com/e/crowning-niboowin-orphaned-inosuke-tickets-692013871117",
-    "date": "2023-08-31T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "The Michael Character, Eleanor Elektra, Jason Kaminski, House of Wills"
     ],
     "link": "https://www.eventbrite.com/e/the-michael-character-eleanor-elektra-jason-kaminski-house-of-wills-tickets-695041386497",
@@ -87,6 +79,11 @@
     ],
     "link": "https://www.eventbrite.com/e/lowspot-wig-doubt-tickets-694405765337",
     "date": "2023-09-16T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706349068077",
+    "date": "2023-09-18T20:00:00",
     "venue": "Happy Dog"
   }
 ]

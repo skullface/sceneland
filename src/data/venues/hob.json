@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Saved By The 90's"
-    ],
-    "link": "https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-09-01-2023/event/05005EB1BC8761DF",
-    "date": "2023-09-01T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Corey Taylor"
     ],
     "link": "https://concerts.livenation.com/corey-taylor-cleveland-ohio-09-07-2023/event/05005EAA0E8588E5",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/gza-and-fishbone-truth-and-swords-cleveland-ohio-11-12-2023/event/05005EFFB56B5C97",
     "date": "2023-11-12T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Dying Fetus: Make Them Beg For Death"
+    ],
+    "link": "https://concerts.livenation.com/dying-fetus-make-them-beg-for-cleveland-ohio-11-14-2023/event/05005ED7B11B4523",
+    "date": "2023-11-14T18:00:00",
     "venue": "House of Blues"
   }
 ]

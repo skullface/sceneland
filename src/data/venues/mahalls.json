@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Grumpy Plum / Rat Motel / Honey Pocket"
-    ],
-    "link": "https://link.dice.fm/id8c9d12d8e2",
-    "date": "2023-09-01T19:30:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "Broadway Rave"
-    ],
-    "link": "https://link.dice.fm/o5837e997e62",
-    "date": "2023-09-01T21:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Ace Enders"
     ],
     "link": "https://link.dice.fm/d93e95524895",
@@ -81,19 +65,19 @@
   },
   {
     "artist": [
-      "Honey Pocket"
-    ],
-    "link": "https://link.dice.fm/z5acb49bcca5",
-    "date": "2023-09-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Michael Turner"
     ],
     "link": "https://link.dice.fm/Ya876ce6f4c1",
     "date": "2023-09-09T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Honey Pocket"
+    ],
+    "link": "https://link.dice.fm/z5acb49bcca5",
+    "date": "2023-09-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -178,19 +162,19 @@
   },
   {
     "artist": [
-      "Provoker"
-    ],
-    "link": "https://link.dice.fm/ud683cc3ca26",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Tigercub"
     ],
     "link": "https://link.dice.fm/Zcdf94528bf8",
     "date": "2023-09-20T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Provoker"
+    ],
+    "link": "https://link.dice.fm/ud683cc3ca26",
+    "date": "2023-09-20T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -299,19 +283,19 @@
   },
   {
     "artist": [
-      "French Cassettes"
-    ],
-    "link": "https://link.dice.fm/i9d3198de992",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "George Clanton"
     ],
     "link": "https://link.dice.fm/o5e5253cefd2",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "French Cassettes"
+    ],
+    "link": "https://link.dice.fm/i9d3198de992",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -363,19 +347,19 @@
   },
   {
     "artist": [
-      "Dead on a Sunday"
-    ],
-    "link": "https://link.dice.fm/ta0ec89681c5",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "GIFT"
     ],
     "link": "https://link.dice.fm/cac8be85f81f",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Dead on a Sunday"
+    ],
+    "link": "https://link.dice.fm/ta0ec89681c5",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

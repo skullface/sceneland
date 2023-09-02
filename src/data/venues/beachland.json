@@ -1,18 +1,5 @@
 [
   {
-    "link": "https://www.beachlandballroom.com/e/13521438/this-way-out",
-    "date": "2023-09-01T20:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Sh\u0101k\u0113 Ground"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13514508/sh-k-ground",
-    "date": "2023-09-01T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
     "link": "https://www.beachlandballroom.com/e/13521448/this-way-out",
     "date": "2023-09-02T20:00:00",
     "venue": ""
@@ -401,9 +388,10 @@
   },
   {
     "artist": [
-      "Bitchin Bajas"
+      "Bitchin Bajas",
+      "swisher"
     ],
-    "link": "https://www.beachlandballroom.com/e/13396368/bitchin-bajas",
+    "link": "https://www.beachlandballroom.com/e/13396368/bitchin-bajas-swisher",
     "date": "2023-10-06T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -641,6 +629,24 @@
     "link": "https://www.beachlandballroom.com/e/13489988/dale-hollow",
     "date": "2023-10-29T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Songstress Jo",
+      "Girl Cologne",
+      "Blaire Blades and The Backstabbers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13573188/songstress-jo-girl-cologne-blaire-blades-and-the-backstabbers",
+    "date": "2023-10-31T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Liliac"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13579068/liliac",
+    "date": "2023-10-31T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

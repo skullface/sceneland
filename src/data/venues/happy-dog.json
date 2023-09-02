@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Michael Character, Eleanor Elektra, Jason Kaminski, House of Wills"
-    ],
-    "link": "https://www.eventbrite.com/e/the-michael-character-eleanor-elektra-jason-kaminski-house-of-wills-tickets-695041386497",
-    "date": "2023-09-01T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Knowso, Show Pink, PAL: 15th Anniversary Show!"
     ],
     "link": "https://www.eventbrite.com/e/knowso-show-pink-pal-15th-anniversary-show-tickets-700354528247",
@@ -84,6 +76,14 @@
   {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706349068077",
     "date": "2023-09-18T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Classical Revolution Cleveland"
+    ],
+    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307",
+    "date": "2023-09-20T20:00:00",
     "venue": "Happy Dog"
   }
 ]

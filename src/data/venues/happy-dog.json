@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Knowso, Show Pink, PAL: 15th Anniversary Show!"
-    ],
-    "link": "https://www.eventbrite.com/e/knowso-show-pink-pal-15th-anniversary-show-tickets-700354528247",
-    "date": "2023-09-02T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "The Tangees, King Buu, Oongow!!!"
     ],
     "link": "https://www.eventbrite.com/e/the-tangees-king-buu-oongow-tickets-706329720207",
@@ -84,6 +76,14 @@
     ],
     "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307",
     "date": "2023-09-20T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Alien Nosejob, Science Man, The Hell, Perverts Again"
+    ],
+    "link": "https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597",
+    "date": "2023-09-21T20:00:00",
     "venue": "Happy Dog"
   }
 ]

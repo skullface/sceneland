@@ -72,12 +72,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Coup De Grace, Goody & The Gospel, Fear of Dancing'],
-    link: 'https://www.ticketweb.com/event/coup-de-grace-goody-musica-tickets/13494668?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-09-02T20:00:00',
-    venue: 'Musica Akron',
-  },
-  {
     artist: ['The Buttertones,  New Misphoria & Funeral Proposals'],
     link: 'https://www.ticketweb.com/event/the-buttertones-new-misphoria-funeral-musica-tickets/13474928?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-09-12T20:00:00',
@@ -181,36 +175,8 @@ export const allShows = [
   },
   {
     link: 'https://premium.livenation.com/venue/blossom-music-center',
-    date: '2023-09-02T20:00:00',
+    date: '2023-09-03T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    link: 'https://www.beachlandballroom.com/e/13521448/this-way-out',
-    date: '2023-09-02T20:00:00',
-    venue: '',
-  },
-  {
-    artist: [
-      'Shway Fest 2023',
-      'Charity Evonna',
-      'RADDERALL',
-      'Mellowman Funk',
-      'E.Side4',
-      'Y.A.Y.A.',
-      'Melted Strawberry',
-      'Westside Lo',
-      'Pico The Guy Tho',
-      'Mike Mike Dusty Loops',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13510868/shway-fest-2023-charity-evonna-radderall-mellowman-funk-e-side4-y-a-y-a-melted-strawberry-westside-lo-pico-the-guy-tho-mike-mike-dusty-loops',
-    date: '2023-09-02T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Snooze', 'Whiffler', 'Clipboards', 'Tall Grass'],
-    link: 'https://www.beachlandballroom.com/e/13522748/snooze-whiffler-clipboards-tall-grass',
-    date: '2023-09-02T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Austin Lucas', 'Ty Prager'],
@@ -1578,24 +1544,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Ace Enders'],
-    link: 'https://link.dice.fm/d93e95524895',
-    date: '2023-09-02T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Connor McLaren'],
-    link: 'https://link.dice.fm/nb1b5b15dda8',
-    date: '2023-09-02T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
-    artist: ['Gimme Gimme Disco'],
-    link: 'https://link.dice.fm/r14b615090d8',
-    date: '2023-09-02T22:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Ivy'],
     link: 'https://link.dice.fm/sdcf975fc781',
     date: '2023-09-03T19:00:00-04:00',
@@ -1699,16 +1647,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Tigercub'],
-    link: 'https://link.dice.fm/Zcdf94528bf8',
-    date: '2023-09-20T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Provoker'],
     link: 'https://link.dice.fm/ud683cc3ca26',
     date: '2023-09-20T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Tigercub'],
+    link: 'https://link.dice.fm/Zcdf94528bf8',
+    date: '2023-09-20T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Senses Fail'],
@@ -1729,16 +1677,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Autopilot'],
-    link: 'https://link.dice.fm/T4381d524f65',
-    date: '2023-09-26T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['The Astronomers'],
     link: 'https://link.dice.fm/s4cada23b8e0',
     date: '2023-09-26T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Autopilot'],
+    link: 'https://link.dice.fm/T4381d524f65',
+    date: '2023-09-26T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Casey'],
@@ -1826,16 +1774,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
-    link: 'https://link.dice.fm/d079039b50bc',
-    date: '2023-10-08T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Kate Bollinger'],
     link: 'https://link.dice.fm/P8653582ac4e',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
+    link: 'https://link.dice.fm/d079039b50bc',
+    date: '2023-10-08T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['GIFT'],
@@ -1892,16 +1840,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['SUICIDE SILENCE AND CHELSEA GRIN '],
-    link: 'https://link.dice.fm/S333ab788856',
-    date: '2023-10-20T18:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Emblem3'],
     link: 'https://link.dice.fm/ve8a20f788c7',
     date: '2023-10-20T18:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['SUICIDE SILENCE AND CHELSEA GRIN '],
+    link: 'https://link.dice.fm/S333ab788856',
+    date: '2023-10-20T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Krooked Kings'],
@@ -1970,16 +1918,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Walter Etc.'],
-    link: 'https://link.dice.fm/ja5bf7c187cf',
-    date: '2023-11-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Into It. Over It.'],
     link: 'https://link.dice.fm/Ka4c8810172d',
     date: '2023-11-08T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Walter Etc.'],
+    link: 'https://link.dice.fm/ja5bf7c187cf',
+    date: '2023-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Real Friends and Knuckle Puck'],
@@ -2070,17 +2018,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: [
-      'Mutilation Barbecue',
-      'Innoculation',
-      'Sarcoughagus',
-      'Ignominious',
-    ],
-    link: 'https://grogshop.gs/event-details/13483858/mutilation-barbecue-innoculation-sarcoughagus-ignominious',
-    date: '2023-09-02T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -2571,12 +2508,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Knowso, Show Pink, PAL: 15th Anniversary Show!'],
-    link: 'https://www.eventbrite.com/e/knowso-show-pink-pal-15th-anniversary-show-tickets-700354528247',
-    date: '2023-09-02T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['The Tangees, King Buu, Oongow!!!'],
     link: 'https://www.eventbrite.com/e/the-tangees-king-buu-oongow-tickets-706329720207',
     date: '2023-09-03T20:00:00',
@@ -2637,6 +2568,12 @@ export const allShows = [
     artist: ['Classical Revolution Cleveland'],
     link: 'https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307',
     date: '2023-09-20T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Alien Nosejob, Science Man, The Hell, Perverts Again'],
+    link: 'https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597',
+    date: '2023-09-21T20:00:00',
     venue: 'Happy Dog',
   },
   {

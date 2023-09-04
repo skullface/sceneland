@@ -158,7 +158,13 @@ export default function Page({ shows }: PageProps) {
           day: 'numeric',
         })
 
-        if (weekStartToTodayDiff >= -6 && weekStartToTodayDiff < 0) {
+        if (
+          (dayOfWeek === 5 || dayOfWeek === 6 || dayOfWeek === 0) &&
+          weekStartToTodayDiff >= -6 &&
+          weekStartToTodayDiff < 0
+        ) {
+          groupLabel = 'This weekend'
+        } else if (weekStartToTodayDiff >= -6 && weekStartToTodayDiff < 0) {
           groupLabel = 'This week'
         } else if (weekStartToTodayDiff >= 0 && weekStartToTodayDiff < 6) {
           groupLabel = 'Next week'

@@ -1,33 +1,78 @@
-import requests
+from selenium import webdriver
+from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
+import time
 from datetime import datetime, timedelta
 
-session = requests.Session()
-page = session.get('https://www.eventbrite.com/o/the-happy-dog-20098107793', headers={'User-Agent': 'Mozilla/5.0'})
+url = 'https://www.eventbrite.com/o/the-happy-dog-20098107793'
+options = FirefoxOptions()
+options.add_argument('--headless')
+browser = webdriver.Firefox(options=options)
+browser.implicitly_wait(15)
+browser.get(url)
+load_more_button = browser.find_element('xpath', '/html/body/div[1]/div/div[2]/div/div/div/div[1]/div/main/section/div[3]/section/div/div[1]/div/div[3]/button')
+load_more_button.click()
+time.sleep(5)
+load_more_button.click()
+time.sleep(5)
 
-soup = BeautifulSoup(page.content, "html.parser")
-calendar = soup.find("div", {"data-testid": "organizer-profile__future-events"})
-shows = calendar.find_all("article", class_="eds-event-card-content--grid")
+soup = BeautifulSoup(browser.page_source, 'html.parser')
+calendar = soup.find('div', {'data-testid': 'organizer-profile__future-events'})
+shows = calendar.find_all('article', class_='eds-event-card-content--grid')
 
 all_shows_list = []
 
 for show in shows:
   all_shows_data = {} 
-  artist = show.find("div", class_="eds-is-hidden-accessible")
-  link = show.find("a", class_="eds-event-card-content__action-link")
-  date = show.find("div", class_="eds-event-card-content__sub-title")
-  if artist.text.strip() == "Monday Night Trivia!":
+  artist = show.find('div', class_='eds-is-hidden-accessible')
+  if artist.text.strip() == 'Monday Night Trivia!':
     ...
   else:
-    all_shows_data['artist'] = [artist.text.strip().replace(" / ", ", ").replace(" - ", ": ")]
-  all_shows_data['link'] = link.get('href').split("?", 1)[0]
-  today = datetime.now()
-  tomorrow = today + timedelta(1)
-  dateRelative = date.text.strip().replace(" at ", ", ").replace("Today", today.strftime("%Y-%m-%d")).replace("Tomorrow", tomorrow.strftime("%Y-%m-%d"))
-  dateFormatted = dateRelative.replace("Aug ", "2023-08-").replace("Sep ", "2023-09-").replace("Oct ", "2023-10-").replace("Nov ", "2023-11-").replace("Dec ", "2023-12-").replace("Jan ", "2024-01-").replace("Feb ", "2024-02-").replace("Mar ", "2024-03-").replace("Apr ", "2024-04-").replace("May ", "2024-05-").replace("Jun ", "2024-06-").replace("Jul ", "2024-07-").replace("Mon, ", "").replace("Tue, ", "").replace("Wed, ", "").replace("Thu, ", "").replace("Fri, ", "").replace("Sat, ", "").replace("Sun, ", "").split(", ", 1)[0] + "T20:00:00"
-  all_shows_data['date'] = dateFormatted.replace("-1T", "-01T").replace("-2T", "-02T").replace("-3T", "-03T").replace("-4T", "-04T").replace("-5T", "-05T").replace("-6T", "-06T").replace("-7T", "-07T").replace("-8T", "-08T").replace("-9T", "-09T")
-  all_shows_data['venue'] = "Happy Dog"
+    all_shows_data['artist'] = [artist.text.strip().replace(' / ', ', ').replace(' - ', ': ')]
+
+  link = show.find('a', class_='eds-event-card-content__action-link')
+  all_shows_data['link'] = link.get('href').split('?', 1)[0]
+
+  date = show.find('div', class_='eds-event-card-content__sub-title').text.strip()
+
+  def transform_date(input_date):
+    today = datetime.now()
+    tomorrow = today + timedelta(1)
+    input_date = input_date.replace(' at ', ', ')
+    input_date = input_date.replace('Today', today.strftime('%a, %b %d'))
+    input_date = input_date.replace('Tomorrow', tomorrow.strftime('%a, %b %d'))
+    return input_date
+
+  transformed_date = transform_date(date)
+  date_parts = transformed_date.split(', ', 2)
+  
+  if len(date_parts) == 3:
+    weekday, date, time = date_parts
+    date_parts = date.split(' ', 1)
+    if len(date_parts) == 2:
+      month, day = date_parts
+    else:
+      month, day = '', date
+  else:
+    weekday, date, month, day, time = '', date_parts[0], '', '', ''
+        
+  current_date = datetime.now().date()
+  year = current_date.year
+
+  month_number = datetime.strptime(month, '%b').month
+
+  if month_number < current_date.month:
+    year = current_date.year + 1
+  else:
+    year = current_date.year
+
+  date_only = month + day + str(year)
+  final_date = datetime.strptime(date_only, '%b%d%Y')
+  final_time = datetime.strptime(time, '%I:%M %p').time()
+  all_shows_data['date'] = str(final_date).split(' ', 1)[0] + 'T' + str(final_time)
+
+  all_shows_data['venue'] = 'Happy Dog'
   all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 

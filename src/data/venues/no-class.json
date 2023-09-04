@@ -12,7 +12,7 @@
       "MORTICIAN"
     ],
     "link": "https://www.eventbrite.com/e/mortician-tickets-628048870077",
-    "date": "2023-09-09T20:00:00",
+    "date": "2023-09-09T16:00:00",
     "venue": "No Class"
   },
   {
@@ -20,7 +20,7 @@
       "UADA"
     ],
     "link": "https://www.eventbrite.com/e/uada-tickets-679558737477",
-    "date": "2023-09-11T20:00:00",
+    "date": "2023-09-11T19:00:00",
     "venue": "No Class"
   },
   {
@@ -28,7 +28,7 @@
       "ESCAPE FROM THE ZOO"
     ],
     "link": "https://www.eventbrite.com/e/escape-from-the-zoo-tickets-684848649747",
-    "date": "2023-09-13T20:00:00",
+    "date": "2023-09-13T19:00:00",
     "venue": "No Class"
   },
   {
@@ -36,7 +36,7 @@
       "THE EXPLOITED"
     ],
     "link": "https://www.eventbrite.com/e/the-exploited-tickets-620250073667",
-    "date": "2023-09-14T20:00:00",
+    "date": "2023-09-14T19:00:00",
     "venue": "No Class"
   },
   {
@@ -44,7 +44,7 @@
       "VENOM INC"
     ],
     "link": "https://www.eventbrite.com/e/venom-inc-tickets-670913058017",
-    "date": "2023-09-28T20:00:00",
+    "date": "2023-09-28T18:00:00",
     "venue": "No Class"
   },
   {
@@ -60,7 +60,7 @@
       "HIGH SUNN"
     ],
     "link": "https://www.eventbrite.com/e/high-sunn-tickets-706036693757",
-    "date": "2023-10-01T20:00:00",
+    "date": "2023-10-01T17:00:00",
     "venue": "No Class"
   },
   {
@@ -68,7 +68,7 @@
       "ARTILLERY"
     ],
     "link": "https://www.eventbrite.com/e/artillery-tickets-660652378047",
-    "date": "2023-10-02T20:00:00",
+    "date": "2023-10-02T18:00:00",
     "venue": "No Class"
   },
   {
@@ -84,7 +84,7 @@
       "TRASHOWEEN"
     ],
     "link": "https://www.eventbrite.com/e/trashoween-tickets-708203795617",
-    "date": "2023-10-28T20:00:00",
+    "date": "2023-10-28T18:00:00",
     "venue": "No Class"
   },
   {
@@ -92,7 +92,23 @@
       "DRAWN AND QUARTERED + FULCI"
     ],
     "link": "https://www.eventbrite.com/e/drawn-and-quartered-fulci-tickets-709459340987",
-    "date": "2023-10-28T20:00:00",
+    "date": "2023-10-28T19:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MAKEWAR"
+    ],
+    "link": "https://www.eventbrite.com/e/makewar-tickets-706112981937",
+    "date": "2023-11-02T19:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FULL OF HELL"
+    ],
+    "link": "https://www.eventbrite.com/e/full-of-hell-tickets-654945308047",
+    "date": "2023-11-13T19:00:00",
     "venue": "No Class"
   }
 ]

@@ -1,14 +1,24 @@
-import requests
+from selenium import webdriver
+from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
+import time
 from datetime import datetime, timedelta
 
-session = requests.Session()
-page = session.get('https://www.eventbrite.com/o/no-class-41123421913', headers={'User-Agent': 'Mozilla/5.0'})
+url = 'https://www.eventbrite.com/o/no-class-41123421913'
+options = FirefoxOptions()
+options.add_argument('--headless')
+browser = webdriver.Firefox(options=options)
+browser.implicitly_wait(15)
+browser.get(url)
+load_more_button = browser.find_element('xpath', '/html/body/div[1]/div/div[2]/div/div/div/div[1]/div/main/section/div[3]/section/div/div[1]/div/div[3]/button')
+time.sleep(5)
+load_more_button.click()
+time.sleep(5)
 
-soup = BeautifulSoup(page.content, "html.parser")
-calendar = soup.find("div", {"data-testid": "organizer-profile__future-events"})
-shows = calendar.find_all("article", class_="eds-event-card-content--grid")
+soup = BeautifulSoup(browser.page_source, 'html.parser')
+calendar = soup.find('div', {'data-testid': 'organizer-profile__future-events'})
+shows = calendar.find_all('article', class_='eds-event-card-content--grid')
 
 all_shows_list = []
 

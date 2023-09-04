@@ -85,8 +85,17 @@ export default function Page({ shows }: PageProps) {
       selectedVenues.includes(venueMapping[show.venue] || show.venue),
   )
 
+  // Get the current date and time
+  const currentDate = new Date()
+
+  // Ignore shows that have already happened
+  const filteredCurrentShows = filteredShows.filter((show) => {
+    const showDate = new Date(show.date)
+    return showDate >= currentDate
+  })
+
   // Sort filtered shows chronologically by show date
-  const sortedFilteredShows = filteredShows.sort(
+  const sortedFilteredShows = filteredCurrentShows.sort(
     (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime(),
   )
 

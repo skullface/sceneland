@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { GetStaticProps } from 'next'
 import { ShowProps } from '~/utils/types'
 
+import generateRssFeed from '~/utils/generate-feed'
+
 import { allShows } from '~/data/allShows'
 
 import { SiteMeta } from '~/components/meta'
@@ -22,6 +24,8 @@ type PageProps = {
 }
 
 export const getStaticProps: GetStaticProps<PageProps> = async () => {
+  generateRssFeed()
+
   return {
     props: {
       shows: allShows,

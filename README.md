@@ -12,10 +12,11 @@ Aggregates concerts from local Cleveland venues in one website.
 
 ### Present show data (⚛️ React via Next.js)
 
-- Use the `.js` data file to [display events](https://github.com/skullface/sceneland/blob/main/src/components/show-card.tsx) in [chronological order](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L72-L75)
-- [Group events by week](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L77-L110) for improved readability/scannability
-- [Filter](hhttps://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L33-L70) events by venue, [selectable by user](https://github.com/skullface/sceneland/blob/main/src/components/venue-filter.tsx) (via [Radix](https://www.radix-ui.com/primitives/docs/components/dropdown-menu#checkboxitem))
+- Use the `.js` data file to [display events](https://github.com/skullface/sceneland/blob/main/src/components/show-card.tsx) in chronological order
+- [Group events by week](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L92-L139) for improved readability/scannability
+- [Filter](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L51-L90) events by venue, [selectable by user](https://github.com/skullface/sceneland/blob/main/src/components/venue-filter.tsx) (via [Radix](https://www.radix-ui.com/primitives/docs/components/dropdown-menu#checkboxitem))
 - Serve the page [statically](https://github.com/skullface/sceneland/blob/main/.github/workflows/build-and-deploy.yml) with [GitHub Pages](https://github.com/skullface/sceneland/tree/gh-pages) when data file is updated
+- [Generate](https://github.com/skullface/sceneland/blob/main/src/utils/generate-feed.ts) an [RSS feed](https://216.show/rss.xml) with all shows as feed items
 
 ### Update daily
 
@@ -34,7 +35,7 @@ Aggregates concerts from local Cleveland venues in one website.
 ### Data
 
 - Create [Python scripts](https://github.com/skullface/sceneland/tree/main/script/venues) for your own venues’ websites using [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
-- [Re-map related venues](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L33-L39) if necessary
+- [Re-map related venues](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L51-L57) if necessary
 
 ### Repo settings
 

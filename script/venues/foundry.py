@@ -16,8 +16,6 @@ for url_page in url_pages:
   calendar = soup.find("div", class_="tw-plugin-upcoming-event-list")
   shows = calendar.find_all("div", class_="tw-section")
 
-  all_shows_list = []
-
   def should_skip_artist(artist_text):
     excluded_keywords = ['Last Call Trivia', 'Taco Tuesday', 'Burger', 'Pop-Up', 'Dance Party']
     return any(keyword in artist_text for keyword in excluded_keywords)

@@ -1,0 +1,53 @@
+import requests
+from bs4 import BeautifulSoup 
+import json
+from datetime import datetime
+
+url_base = 'https://www.playhousesquare.org/multicategory/category/'
+url_pages = ['comedy', 'concerts']
+
+all_shows_list = []
+ 
+for url_page in url_pages:
+  url_concat = url_base + str(url_page)
+  session = requests.Session()
+  page = session.get(url_concat, headers={'User-Agent': 'Mozilla/5.0'})
+  soup = BeautifulSoup(page.content, 'html.parser')
+  calendar = soup.find('div', class_='m-eventList__wrapper')
+  shows = calendar.find_all('div', class_='m-eventItem')
+
+  def should_skip_artist(text):
+    excluded_keywords = ['Musical', 'Christmas']
+    return any(keyword in text for keyword in excluded_keywords)
+
+  for show in shows:
+    all_shows_data = {}
+
+    artist = show.find('h3', class_='m-eventItem__title').text.strip()
+    if should_skip_artist(artist):
+      continue
+    else:
+      all_shows_data['artist'] = [artist]
+
+    for link_element in show.findAll('a'):
+      if link_element.parent == artist:
+        all_shows_data['link'] = link_element['href']
+
+    day = show.find('span', class_='m-date__day').text.strip()
+    day = datetime.strptime(day, '%d').day
+    
+    month = show.find('span', class_='m-date__month').text.strip()
+    month_number = datetime.strptime(month, '%b').month
+    
+    year = show.find('span', class_='m-date__year')
+    year = year.text.strip().replace(', ', '')
+    year = datetime.strptime(year, '%Y').year
+
+    date = f'{year:02d}-{month_number:02d}-{day:02d}'
+    all_shows_data['date'] = date 
+
+    all_shows_data['venue'] = 'Playhouse Square'
+    all_shows_list.append(all_shows_data)
+
+all_shows_json = json.dumps(all_shows_list, indent=2)
+print(all_shows_json)

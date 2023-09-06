@@ -14,8 +14,6 @@ browser.get(url)
 load_more_button = browser.find_element('xpath', '/html/body/div[1]/div/div[2]/div/div/div/div[1]/div/main/section/div[3]/section/div/div[1]/div/div[3]/button')
 load_more_button.click()
 time.sleep(5)
-load_more_button.click()
-time.sleep(5)
 
 soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', {'data-testid': 'organizer-profile__future-events'})

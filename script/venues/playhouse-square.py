@@ -29,10 +29,9 @@ for url_page in url_pages:
     else:
       all_shows_data['artist'] = [artist]
 
-    for link_element in show.findAll('a'):
-      if link_element.parent == artist:
-        all_shows_data['link'] = link_element['href']
-
+    link = show.find_all('a')[0]
+    all_shows_data['link'] = 'https://www.playhousesquare.org' + link.get('href')
+ 
     day = show.find('span', class_='m-date__day').text.strip()
     day = datetime.strptime(day, '%d').day
     

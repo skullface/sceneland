@@ -26,14 +26,14 @@ export function VenueFilter({
       </DropdownMenu.Trigger>
 
       <DropdownMenu.Portal>
-        <DropdownMenu.Content className='dropdown-content flex min-w-[200px] flex-col rounded-xl bg-zinc-900 shadow-lg shadow-black/5 dark:bg-zinc-50 md:min-w-[360px]'>
+        <DropdownMenu.Content className='dropdown-content flex min-w-[260px] flex-col rounded-xl bg-zinc-900 shadow-lg shadow-black/5 dark:bg-zinc-50 md:min-w-[360px]'>
           {venues
             .sort((a, b) => a.localeCompare(b))
             .map(
               (venue) =>
                 venue && (
                   <DropdownMenu.CheckboxItem
-                    className='dropdown-item flex cursor-pointer items-center justify-start gap-x-2 px-4 py-2 font-medium text-zinc-100 first-of-type:rounded-t-xl first-of-type:pt-3 last-of-type:rounded-b-xl last-of-type:pb-4 hover:bg-zinc-800 hover:text-white focus:bg-zinc-800 focus:text-white focus:outline-none dark:text-zinc-800 dark:hover:bg-zinc-200 dark:hover:text-zinc-950 dark:focus:bg-zinc-200 dark:focus:text-zinc-950'
+                    className='dropdown-item flex cursor-pointer items-center justify-start gap-x-2 px-4 py-1.5 font-medium text-zinc-100 first-of-type:rounded-t-xl first-of-type:pt-3 last-of-type:rounded-b-xl last-of-type:pb-4 hover:bg-zinc-800 hover:text-white focus:bg-zinc-800 focus:text-white focus:outline-none dark:text-zinc-800 dark:hover:bg-zinc-200 dark:hover:text-zinc-950 dark:focus:bg-zinc-200 dark:focus:text-zinc-950 md:py-2'
                     key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
                     checked={selectedVenues.includes(venue)}
                     onSelect={(event) => {

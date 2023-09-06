@@ -21,13 +21,10 @@ for show in shows:
     ...
   else:
     all_shows_data['artist'] = [artist.text.strip().replace(' - ', ': ')]
-  all_shows_data['link'] = link.get('href')
-  if date.get('datetime') == '2024-12-31T00:00:01':
-    all_shows_data['date'] = datetime.now().strftime('%Y-%m-%d') + 'T20:00:00'
-  else:
+    all_shows_data['link'] = link.get('href')
     all_shows_data['date'] = date.get('datetime')
-  all_shows_data['venue'] = 'Blossom'
-  all_shows_list.append(all_shows_data)
+    all_shows_data['venue'] = 'Blossom'
+    all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 
 print(all_shows_json)

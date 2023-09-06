@@ -966,11 +966,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    link: 'https://premium.livenation.com/venue/blossom-music-center',
-    date: '2023-09-03T20:00:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['CAKE'],
     link: 'https://www.axs.com/events/482364/cake-tickets',
     date: '2023-09-16T19:00:00-04:00',

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Shinedown: Revolutions Live"
-    ],
-    "link": "https://concerts.livenation.com/shinedown-revolutions-live-cuyahoga-falls-ohio-09-06-2023/event/05005E99ED8155A5",
-    "date": "2023-09-06T18:40:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
       "DURAN DURAN: FUTURE PAST"
     ],
     "link": "https://concerts.livenation.com/duran-duran-future-past-cuyahoga-falls-ohio-09-10-2023/event/05005E422AF481A2",
@@ -65,7 +57,7 @@
   },
   {
     "link": "https://premium.livenation.com/venue/blossom-music-center",
-    "date": "2023-09-03T20:00:00",
+    "date": "2023-09-07T20:00:00",
     "venue": "Blossom"
   }
 ]

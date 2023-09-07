@@ -1,35 +1,6 @@
 [
   {
     "artist": [
-      "Austin Lucas",
-      "Ty Prager"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13496558/austin-lucas-ty-prager",
-    "date": "2023-09-03T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Racket Man",
-      "Sun Junkies",
-      "Fruitfly",
-      "Girl Cologne"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13508328/racket-man-sun-junkies-fruitfly-girl-cologne",
-    "date": "2023-09-05T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "The Split Squad",
-      "Dave Swanson's Mystery Airship"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13453188/the-split-squad-dave-swanson-s-mystery-airship",
-    "date": "2023-09-06T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Yarn",
       "James McKeivier"
     ],
@@ -71,6 +42,16 @@
     "link": "https://www.beachlandballroom.com/e/13555768/this-way-out",
     "date": "2023-09-09T12:00:00",
     "venue": ""
+  },
+  {
+    "artist": [
+      "Waterloo Arts Fest After Party",
+      "Country Honk",
+      "DJ Chris Kulscar"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13594198/waterloo-arts-fest-after-party-country-honk-dj-chris-kulscar",
+    "date": "2023-09-09T18:30:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -118,6 +99,11 @@
     "venue": "Beachland Ballroom"
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13592328/this-way-out",
+    "date": "2023-09-15T12:00:00",
+    "venue": ""
+  },
+  {
     "artist": [
       "Clem Snide",
       "Rye Valley"
@@ -133,6 +119,11 @@
     "link": "https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag",
     "date": "2023-09-15T20:30:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "link": "https://www.beachlandballroom.com/e/13592348/this-way-out",
+    "date": "2023-09-16T12:00:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -220,6 +211,14 @@
     "link": "https://www.beachlandballroom.com/e/13155958/devotional-2023",
     "date": "2023-09-23T15:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Pre/Post Party with DJ Snarkeology"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13593898/pre-post-party-with-dj-snarkeology",
+    "date": "2023-09-24T18:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -482,6 +481,18 @@
   },
   {
     "artist": [
+      "Voices of the Land Acoustic Showcase",
+      "Joseph Figueroa (The Rosies)",
+      "Alex Sclazo (False Teeth/Honeyland)",
+      "Tessa Smith",
+      "Jack McLaughlin"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13593588/voices-of-the-land-acoustic-showcase-joseph-figueroa-the-rosies-alex-sclazo-false-teeth-honeyland-tessa-smith-jack-mclaughlin",
+    "date": "2023-10-19T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Eggy"
     ],
     "link": "https://www.beachlandballroom.com/e/13453398/eggy",
@@ -540,6 +551,14 @@
     "sold_out": true,
     "date": "2023-10-24T20:00:00",
     "venue": ""
+  },
+  {
+    "artist": [
+      "The Arcadian Wild"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13593758/the-arcadian-wild",
+    "date": "2023-10-24T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -809,6 +828,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
     "date": "2023-12-07T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "CLE MOSH"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13551688/cle-mosh",
+    "date": "2023-12-09T16:00:00",
     "venue": "Beachland Ballroom"
   },
   {

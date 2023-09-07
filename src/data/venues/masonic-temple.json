@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cleveland Silent Film Festival Presents: Safety Last"
-    ],
-    "link": "https://www.ticketmaster.com/cleveland-silent-film-festival-presents-safety-cleveland-ohio-09-06-2023/event/05005F0F816C1280",
-    "date": "2023-09-06T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Mizphit Fetish Ball"
     ],
     "link": "https://www.ticketmaster.com/mizphit-fetish-ball-cleveland-ohio-09-08-2023/event/05005ED6033D72FF",
@@ -109,14 +101,6 @@
   },
   {
     "artist": [
-      "Mr. Princess"
-    ],
-    "link": "https://www.ticketmaster.com/mr-princess-cleveland-ohio-09-30-2023/event/05005F08C2A85392",
-    "date": "2023-09-30T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Theo Von : Return of the Rat"
     ],
     "link": "https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1",
@@ -165,10 +149,18 @@
   },
   {
     "artist": [
-      "Y.A.Y.A. & Luv"
+      "The Toxhards"
     ],
-    "link": "https://www.ticketmaster.com/yaya-luv-cleveland-ohio-10-14-2023/event/05005F15DE1730E2",
-    "date": "2023-10-14T21:00:00",
+    "link": "https://www.ticketmaster.com/the-toxhards-cleveland-ohio-10-15-2023/event/05005F1F8A2213C5",
+    "date": "2023-10-15T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Invasion Invasion"
+    ],
+    "link": "https://www.ticketmaster.com/invasion-invasion-cleveland-ohio-10-19-2023/event/05005F11B5DC2D31",
+    "date": "2023-10-19T20:00:00",
     "venue": "Masonic Temple"
   },
   {
@@ -221,10 +213,26 @@
   },
   {
     "artist": [
+      "Pop Evil Flesh & Bone Tour"
+    ],
+    "link": "https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A",
+    "date": "2023-11-18T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Liz Phair: Guyville Tour"
     ],
     "link": "https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA",
     "date": "2023-12-09T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "American Girl Live!   In Concert"
+    ],
+    "link": "https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339",
+    "date": "2023-12-17T17:00:00",
     "venue": "Masonic Temple"
   }
 ]

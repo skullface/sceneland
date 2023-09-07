@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "SPIRIT OF THE BEEHIVE"
-    ],
-    "link": "https://link.dice.fm/Fb5914061072",
-    "date": "2023-09-05T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Kurt Travis"
-    ],
-    "link": "https://link.dice.fm/W165d3961beb",
-    "date": "2023-09-06T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "AFTER LIKE: a K-pop themed dance party"
     ],
     "link": "https://link.dice.fm/ba9246cc4cc5",
@@ -52,6 +36,7 @@
       "Dayseeker"
     ],
     "link": "https://link.dice.fm/u04095dbbc48",
+    "sold_out": true,
     "date": "2023-09-12T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
@@ -403,6 +388,14 @@
   },
   {
     "artist": [
+      "Broadway Rave"
+    ],
+    "link": "https://link.dice.fm/m5c4833fc334",
+    "date": "2023-10-20T22:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Krooked Kings"
     ],
     "link": "https://link.dice.fm/L1d99087ee2c",
@@ -419,6 +412,14 @@
   },
   {
     "artist": [
+      "The Smiths vs. The Cure dance party"
+    ],
+    "link": "https://link.dice.fm/od0e0cc30775",
+    "date": "2023-10-21T22:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Belmont and Can't Swim"
     ],
     "link": "https://link.dice.fm/r96a272cc1ab",
@@ -432,6 +433,14 @@
     "link": "https://link.dice.fm/Gd2cf5c8f6ca",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Radiator Hospital"
+    ],
+    "link": "https://link.dice.fm/S73e91266b0a",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -491,19 +500,19 @@
   },
   {
     "artist": [
-      "Walter Etc."
-    ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Into It. Over It."
     ],
     "link": "https://link.dice.fm/Ka4c8810172d",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Walter Etc."
+    ],
+    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -555,6 +564,14 @@
   },
   {
     "artist": [
+      "Cochise"
+    ],
+    "link": "https://link.dice.fm/S3b4449419fd",
+    "date": "2023-11-18T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "This Wild Life"
     ],
     "link": "https://link.dice.fm/O2a9bd4ccd33",
@@ -595,6 +612,14 @@
   },
   {
     "artist": [
+      "Princess Chelsea"
+    ],
+    "link": "https://link.dice.fm/C12136fca41b",
+    "date": "2023-12-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Oso Oso"
     ],
     "link": "https://link.dice.fm/X3e730b069c8",
@@ -607,6 +632,14 @@
     ],
     "link": "https://link.dice.fm/V5b92716e486",
     "date": "2023-12-16T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Big Something: Headspace Tour"
+    ],
+    "link": "https://link.dice.fm/md45554ce3c8",
+    "date": "2024-04-11T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

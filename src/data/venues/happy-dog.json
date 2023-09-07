@@ -1,6 +1,88 @@
 [
   {
     "artist": [
+      "Istvan Medgyesi, The Strangers, Joey Beltram: in the Underdog!"
+    ],
+    "link": "https://www.eventbrite.com/e/istvan-medgyesi-the-strangers-joey-beltram-in-the-underdog-tickets-706325828567",
+    "date": "2023-09-07T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Blossom Park, Bleeder, Hosta"
+    ],
+    "link": "https://www.eventbrite.com/e/blossom-park-bleeder-hosta-tickets-694394130537",
+    "date": "2023-09-08T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Closedown, Heart and Lung, Honeybee, Soul Charge"
+    ],
+    "link": "https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197",
+    "date": "2023-09-09T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706345457277",
+    "date": "2023-09-11T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "DJ Kishka Happy Hour!"
+    ],
+    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887",
+    "date": "2023-09-15T18:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Supercult, Silicon Heartbeat, Slug Fest, Terrycloth Mother"
+    ],
+    "link": "https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707",
+    "date": "2023-09-15T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Lowspot, Wig Doubt, Toyon"
+    ],
+    "link": "https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337",
+    "date": "2023-09-16T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706349068077",
+    "date": "2023-09-18T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Sorry Eric, Kill the Hippies, O.R.P.H.A.N.S."
+    ],
+    "link": "https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157",
+    "date": "2023-09-19T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Classical Revolution Cleveland"
+    ],
+    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307",
+    "date": "2023-09-20T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Alien Nosejob, Science Man, The Hell, Perverts Again"
+    ],
+    "link": "https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597",
+    "date": "2023-09-21T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "The Liquidated, TV Drugs, Drug Abuse, Self Checkout"
     ],
     "link": "https://www.eventbrite.com/e/the-liquidated-tv-drugs-drug-abuse-self-checkout-tickets-695045930087",
@@ -9,9 +91,17 @@
   },
   {
     "artist": [
-      "Private Lives, Wristwatch, DANA, The Missed"
+      "Hyper Viper, Uncanny Valley, Church + State"
     ],
-    "link": "https://www.eventbrite.com/e/private-lives-wristwatch-dana-the-missed-tickets-695047103597",
+    "link": "https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417",
+    "date": "2023-09-23T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Private Lives, Whippets, DANA, The Missed"
+    ],
+    "link": "https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597",
     "date": "2023-09-24T21:00:00",
     "venue": "Happy Dog"
   },
@@ -30,10 +120,18 @@
   },
   {
     "artist": [
-      "Roselit Bone, Craig Brown Band"
+      "Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country"
     ],
-    "link": "https://www.eventbrite.com/e/roselit-bone-craig-brown-band-tickets-699358619457",
+    "link": "https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457",
     "date": "2023-09-28T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Dentist, Perfect Pals, Parfait Girls"
+    ],
+    "link": "https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207",
+    "date": "2023-09-29T21:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -42,6 +140,14 @@
     ],
     "link": "https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-tickets-706900236637",
     "date": "2023-09-30T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Scott Yoder, Oft Dreamy, Confusions"
+    ],
+    "link": "https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607",
+    "date": "2023-10-01T21:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -74,11 +180,24 @@
     "venue": "Happy Dog"
   },
   {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-714951528267",
+    "date": "2023-10-09T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
     "artist": [
       "Good Reverend, Slug Fest, Buffalo Ryders"
     ],
     "link": "https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437",
     "date": "2023-10-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Backbiter, xEighty-Sixedx, Unvow, Seeress"
+    ],
+    "link": "https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-seeress-tickets-714976081707",
+    "date": "2023-10-14T21:00:00",
     "venue": "Happy Dog"
   },
   {

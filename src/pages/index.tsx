@@ -204,15 +204,29 @@ export default function Page({ shows }: PageProps) {
       <SiteMeta />
 
       <header>
-        <h1
+        <div
           className={`${
             animateOnScroll
               ? 'translate-y-[-6em] opacity-0'
               : 'mt-0.5 opacity-100 md:mt-1'
           }`}
         >
-          Shows upcoming in CLE, updated daily
-        </h1>
+          <h1 className='inline'>Upcoming shows in CLE</h1>
+          {process.env.NEXT_PUBLIC_LAST_UPDATED_AT && (
+            <span>
+              {' '}
+              · Last updated{' '}
+              <time dateTime={process.env.NEXT_PUBLIC_LAST_UPDATED_AT}>
+                {new Date(
+                  process.env.NEXT_PUBLIC_LAST_UPDATED_AT,
+                ).toLocaleString('en-US', {
+                  month: 'short',
+                  day: 'numeric',
+                })}
+              </time>
+            </span>
+          )}
+        </div>
       </header>
 
       <div

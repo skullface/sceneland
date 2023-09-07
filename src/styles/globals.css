@@ -23,7 +23,7 @@
     @apply sticky top-0 mx-auto mb-6 h-[100px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:pb-11 md:h-[120px];
   }
 
-  header h1 {
+  header div {
     @apply relative w-full text-sm font-medium text-zinc-600 transition duration-300 ease-in-out dark:text-zinc-400;
   }
 

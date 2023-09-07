@@ -16,6 +16,14 @@ jobs:
         with:
           node-version: 18
           cache: npm
+      - name: Get build date
+        id: date-get
+        run: |
+          echo "BUILD_DATE=$(date +%Y-%m-%dT%H:%M:%S)" >> $GITHUB_ENV
+      - name: Print build date
+        id: date-print
+        run: |
+          echo ${{ env.BUILD_DATE }} >> .last-updated
       - name: Build
         run: |
           npm ci

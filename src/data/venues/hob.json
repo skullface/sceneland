@@ -345,6 +345,14 @@
   },
   {
     "artist": [
+      "Be Our Guest: A DJ Disney Night"
+    ],
+    "link": "https://concerts.livenation.com/be-our-guest-a-dj-disney-cleveland-ohio-11-03-2023/event/05005F1CDC692A12",
+    "date": "2023-11-03T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Chris Webby"
     ],
     "link": "https://concerts.livenation.com/chris-webby-cleveland-ohio-11-05-2023/event/05005F15D15627C0",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/gza-and-fishbone-truth-and-swords-cleveland-ohio-11-12-2023/event/05005EFFB56B5C97",
     "date": "2023-11-12T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Dying Fetus: Make Them Beg For Death"
-    ],
-    "link": "https://concerts.livenation.com/dying-fetus-make-them-beg-for-cleveland-ohio-11-14-2023/event/05005ED7B11B4523",
-    "date": "2023-11-14T18:00:00",
     "venue": "House of Blues"
   }
 ]

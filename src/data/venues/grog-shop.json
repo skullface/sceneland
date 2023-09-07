@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "Geauxt Studios and Global Nation Presentsd : V'z and Friends.",
-      "Bloz",
-      "Aviator Ju",
-      "Lamboza"
-    ],
-    "link": "https://grogshop.gs/event-details/13438108/geauxt-studios-and-global-nation-presentsd-v-z-and-friends-",
-    "date": "2023-09-03T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Murder By Death, Saintseneca"
-    ],
-    "link": "https://grogshop.gs/event-details/13102265/murder-by-death-saintseneca",
-    "date": "2023-09-05T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Alex Cameron & Roy Molloy",
       "Toyon",
       "Mikey Silas"
@@ -59,7 +40,7 @@
       "The Brakes"
     ],
     "link": "https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones",
-    "date": "2023-09-09T20:30:00",
+    "date": "2023-09-09T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -245,8 +226,21 @@
   },
   {
     "artist": [
+      "R Squared Studios Presents : The Tale Of A City Part 3",
+      "Fatham From Hands Of Fe",
+      "The N9NE",
+      "Sonic Boom",
+      "Thicarus"
+    ],
+    "link": "https://grogshop.gs/event-details/13597638/r-squared-studios-presents-the-tale-of-a-city-part-3",
+    "date": "2023-09-25T19:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Jesse Jo Stark",
-      "Rachel Bobbitt"
+      "Rachel Bobbitt",
+      "Charity Cunningham"
     ],
     "link": "https://grogshop.gs/event-details/13352558/jesse-jo-stark",
     "date": "2023-09-26T20:00:00",
@@ -611,12 +605,28 @@
   },
   {
     "artist": [
+      "Aaron Smith & RDAA, Billie Mitchell"
+    ],
+    "link": "https://grogshop.gs/event-details/13593748/aaron-smith-rdaa-billie-mitchell",
+    "date": "2023-11-20T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "BRUJERIA: Esto Es Tour 2023",
       "Pi\u00f1ata Protest",
       "NO/MAS"
     ],
     "link": "https://grogshop.gs/event-details/13470718/brujeria-esto-es-tour-2023",
     "date": "2023-11-24T18:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Jon Spencer"
+    ],
+    "link": "https://grogshop.gs/event-details/13579978/jon-spencer",
+    "date": "2023-11-25T21:00:00",
     "venue": "Grog Shop"
   },
   {

@@ -216,7 +216,7 @@ export default function Page({ shows }: PageProps) {
             <span>
               {' '}
               · Last updated{' '}
-              <time dateTime={process.env.NEXT_PUBLIC_LAST_UPDATED_AT}>
+              <time dateTime={process.env.NEXT_PUBLIC_LAST_UPDATED_AT.trim()}>
                 {new Date(
                   process.env.NEXT_PUBLIC_LAST_UPDATED_AT,
                 ).toLocaleString('en-US', {

@@ -19,7 +19,7 @@ jobs:
       - name: Get build date
         id: date-get
         run: |
-          echo "BUILD_DATE=$(date +%Y-%m-%dT%H:%M:%S)" >> $GITHUB_ENV
+          echo "BUILD_DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
       - name: Print build date
         id: date-print
         run: |

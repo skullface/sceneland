@@ -1,14 +1,5 @@
 [
   {
-    "artist": [
-      "Yarn",
-      "James McKeivier"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13364478/yarn-james-mckeivier",
-    "date": "2023-09-07T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
     "link": "https://www.beachlandballroom.com/e/13555758/this-way-out",
     "date": "2023-09-08T12:00:00",
     "venue": ""
@@ -163,9 +154,11 @@
   },
   {
     "artist": [
-      "Boyish"
+      "Boyish",
+      "Ivers",
+      "JET STAR"
     ],
-    "link": "https://www.beachlandballroom.com/e/13478558/boyish",
+    "link": "https://www.beachlandballroom.com/e/13478558/boyish-ivers-jet-star",
     "date": "2023-09-19T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -229,6 +222,14 @@
     "sold_out": true,
     "date": "2023-09-24T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "A Crown Royal Dance Party"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party",
+    "date": "2023-09-26T18:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -659,6 +660,7 @@
       "Calder Allen"
     ],
     "link": "https://www.beachlandballroom.com/e/13336088/shane-smith-the-saints-angel-white-calder-allen",
+    "sold_out": true,
     "date": "2023-11-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -861,6 +863,14 @@
     "link": "https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead",
     "date": "2024-01-20T20:30:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Soiree of the Stallions Charity Concert"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert",
+    "date": "2024-01-27T15:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

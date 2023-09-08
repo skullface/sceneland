@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Corey Taylor"
-    ],
-    "link": "https://concerts.livenation.com/corey-taylor-cleveland-ohio-09-07-2023/event/05005EAA0E8588E5",
-    "date": "2023-09-07T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Hulvey: The Beautiful Tour"
-    ],
-    "link": "https://concerts.livenation.com/hulvey-the-beautiful-tour-cleveland-ohio-09-07-2023/event/05005EAAB15E6B63",
-    "date": "2023-09-07T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Ondara: The Rebirth Tour"
     ],
     "link": "https://concerts.livenation.com/ondara-the-rebirth-tour-cleveland-ohio-09-08-2023/event/05005EF1ADFD2BAE",
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/gza-and-fishbone-truth-and-swords-cleveland-ohio-11-12-2023/event/05005EFFB56B5C97",
     "date": "2023-11-12T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Dying Fetus: Make Them Beg For Death"
+    ],
+    "link": "https://concerts.livenation.com/dying-fetus-make-them-beg-for-cleveland-ohio-11-14-2023/event/05005ED7B11B4523",
+    "date": "2023-11-14T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Petey"
+    ],
+    "link": "https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235",
+    "date": "2023-11-15T19:00:00",
     "venue": "House of Blues"
   }
 ]

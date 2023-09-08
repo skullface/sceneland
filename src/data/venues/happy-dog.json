@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Istvan Medgyesi, The Strangers, Joey Beltram: in the Underdog!"
-    ],
-    "link": "https://www.eventbrite.com/e/istvan-medgyesi-the-strangers-joey-beltram-in-the-underdog-tickets-706325828567",
-    "date": "2023-09-07T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Blossom Park, Bleeder, Hosta"
     ],
     "link": "https://www.eventbrite.com/e/blossom-park-bleeder-hosta-tickets-694394130537",
@@ -182,38 +174,6 @@
   {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-714951528267",
     "date": "2023-10-09T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Good Reverend, Slug Fest, Buffalo Ryders"
-    ],
-    "link": "https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437",
-    "date": "2023-10-12T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Backbiter, xEighty-Sixedx, Unvow, Seeress"
-    ],
-    "link": "https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-seeress-tickets-714976081707",
-    "date": "2023-10-14T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Choke, Narc, Body Farm, Pillars"
-    ],
-    "link": "https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947",
-    "date": "2023-10-17T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Duck Butter, Factual Brains, Lowspot"
-    ],
-    "link": "https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307",
-    "date": "2023-10-22T21:00:00",
     "venue": "Happy Dog"
   }
 ]

@@ -1,27 +1,5 @@
 [
   {
-    "link": "https://www.beachlandballroom.com/e/13555758/this-way-out",
-    "date": "2023-09-08T12:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Drag Pride Showcase"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13449288/drag-pride-showcase",
-    "date": "2023-09-08T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Nox Novacula",
-      "Hiram-Maxim"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13317238/nox-novacula-hiram-maxim",
-    "date": "2023-09-08T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
     "artist": [
       "Waterloo Arts Fest 2023"
     ],
@@ -82,6 +60,14 @@
   },
   {
     "artist": [
+      "Pre/Post Party with DJ Advance"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance",
+    "date": "2023-09-14T18:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Boris + Melvins",
       "Mr. Phylzz"
     ],
@@ -137,9 +123,10 @@
   },
   {
     "artist": [
-      "Electric Blue Yonder"
+      "Electric Blue Yonder",
+      "Clare Feorene"
     ],
-    "link": "https://www.beachlandballroom.com/e/13409408/electric-blue-yonder",
+    "link": "https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene",
     "date": "2023-09-18T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -349,7 +336,7 @@
       "Cut Worms",
       "Ryder The Eagle"
     ],
-    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle",
+    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus",
     "date": "2023-10-06T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -637,6 +624,15 @@
   },
   {
     "artist": [
+      "Shrapknel",
+      "Rich Jones"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones",
+    "date": "2023-11-01T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Walter Trout"
     ],
     "link": "https://www.beachlandballroom.com/e/13392758/walter-trout",
@@ -666,9 +662,10 @@
   },
   {
     "artist": [
-      "Ryan Montbleau Band"
+      "Ryan Montbleau Band",
+      "Collin Miller"
     ],
-    "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band",
+    "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band-collin-miller",
     "date": "2023-11-04T20:00:00",
     "venue": "Beachland Tavern"
   },

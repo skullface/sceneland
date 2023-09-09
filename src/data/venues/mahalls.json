@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Born Without Bones \"Baby\" 10 year anniversary tour"
-    ],
-    "link": "https://link.dice.fm/t94aca80dd05",
-    "date": "2023-09-08T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Michael Turner"
     ],
     "link": "https://link.dice.fm/Ya876ce6f4c1",
@@ -229,19 +221,19 @@
   },
   {
     "artist": [
-      "George Clanton"
-    ],
-    "link": "https://link.dice.fm/o5e5253cefd2",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "French Cassettes"
     ],
     "link": "https://link.dice.fm/i9d3198de992",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "George Clanton"
+    ],
+    "link": "https://link.dice.fm/o5e5253cefd2",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -365,19 +357,19 @@
   },
   {
     "artist": [
-      "SUICIDE SILENCE AND CHELSEA GRIN "
-    ],
-    "link": "https://link.dice.fm/S333ab788856",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Emblem3"
     ],
     "link": "https://link.dice.fm/ve8a20f788c7",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "SUICIDE SILENCE AND CHELSEA GRIN "
+    ],
+    "link": "https://link.dice.fm/S333ab788856",
+    "date": "2023-10-20T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -513,6 +505,14 @@
     ],
     "link": "https://link.dice.fm/J8ea137aa7aa",
     "date": "2023-11-09T18:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rumours ATL: The Live Fleetwood Mac Experience"
+    ],
+    "link": "https://link.dice.fm/Mdff2de0fb11",
+    "date": "2023-11-12T18:30:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {

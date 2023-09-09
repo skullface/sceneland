@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Blossom Park, Bleeder, Hosta"
-    ],
-    "link": "https://www.eventbrite.com/e/blossom-park-bleeder-hosta-tickets-694394130537",
-    "date": "2023-09-08T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Closedown, Heart and Lung, Honeybee, Soul Charge"
     ],
     "link": "https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197",
@@ -145,6 +137,14 @@
   {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706925732897",
     "date": "2023-10-02T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Le Ren, Kid.Tigrrr, Shy Moon"
+    ],
+    "link": "https://www.eventbrite.com/e/le-ren-kidtigrrr-shy-moon-tickets-714946954587",
+    "date": "2023-10-05T21:00:00",
     "venue": "Happy Dog"
   },
   {

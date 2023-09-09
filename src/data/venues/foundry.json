@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Violent J, R.A. The Rugged Man, Esham"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/violent-j-r-a-the-rugged-man-esham/",
-    "date": "2023-09-08T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Goth Homecoming"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/goth-homecoming/",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/tomorrows-ghosts/",
     "date": "2023-09-29T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "/WORSHIP/"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/worship/",
+    "date": "2023-10-01T19:00:00",
     "venue": "Foundry"
   },
   {

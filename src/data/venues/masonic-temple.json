@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mizphit Fetish Ball"
-    ],
-    "link": "https://www.ticketmaster.com/mizphit-fetish-ball-cleveland-ohio-09-08-2023/event/05005ED6033D72FF",
-    "date": "2023-09-08T19:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Danzig"
     ],
     "link": "https://www.ticketmaster.com/danzig-cleveland-ohio-09-13-2023/event/05005EB9864118B4",
@@ -184,7 +176,15 @@
       "Bad Religion"
     ],
     "link": "https://www.ticketmaster.com/bad-religion-cleveland-ohio-10-21-2023/event/05005EFFEAC67B82",
-    "date": "2023-10-21T20:00:00",
+    "date": "2023-10-21T19:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "NWA Presents:  Samhain"
+    ],
+    "link": "https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4",
+    "date": "2023-10-28T19:00:00",
     "venue": "Masonic Temple"
   },
   {

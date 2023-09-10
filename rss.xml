@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Sep 2023 09:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 09:06:13 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[MORTICIAN at No Class]]></title>
-            <description><![CDATA[Get tickets to MORTICIAN at No Class on Saturday, September 9, 2023, 04:00 PM: https://www.eventbrite.com/e/mortician-tickets-628048870077]]></description>
-            <link>https://www.eventbrite.com/e/mortician-tickets-628048870077</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/mortician-tickets-628048870077</guid>
-            <pubDate>Sat, 09 Sep 2023 16:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[UADA at No Class]]></title>
             <description><![CDATA[Get tickets to UADA at No Class on Monday, September 11, 2023, 07:00 PM: https://www.eventbrite.com/e/uada-tickets-679558737477]]></description>
@@ -103,6 +96,13 @@
             <link>https://www.eventbrite.com/e/full-of-hell-tickets-654945308047</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/full-of-hell-tickets-654945308047</guid>
             <pubDate>Mon, 13 Nov 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[REGURGITATION at No Class]]></title>
+            <description><![CDATA[Get tickets to REGURGITATION at No Class on Saturday, January 27, 2024, 08:00 PM: https://www.eventbrite.com/e/regurgitation-tickets-716501734977]]></description>
+            <link>https://www.eventbrite.com/e/regurgitation-tickets-716501734977</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/regurgitation-tickets-716501734977</guid>
+            <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Buttertones,  New Misphoria & Funeral Proposals at Musica Akron]]></title>
@@ -243,20 +243,6 @@
             <link>https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</link>
             <guid isPermaLink="true">https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</guid>
             <pubDate>Wed, 26 Jun 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waterloo Arts Fest 2023 at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Waterloo Arts Fest 2023 at Beachland Ballroom on Saturday, September 9, 2023, 12:00 PM: https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023]]></description>
-            <link>https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023</guid>
-            <pubDate>Sat, 09 Sep 2023 12:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waterloo Arts Fest After Party, Country Honk, DJ Chris Kulscar at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Waterloo Arts Fest After Party, Country Honk, DJ Chris Kulscar at Beachland Tavern on Saturday, September 9, 2023, 06:30 PM: https://www.beachlandballroom.com/e/13594198/waterloo-arts-fest-after-party-country-honk-dj-chris-kulscar]]></description>
-            <link>https://www.beachlandballroom.com/e/13594198/waterloo-arts-fest-after-party-country-honk-dj-chris-kulscar</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13594198/waterloo-arts-fest-after-party-country-honk-dj-chris-kulscar</guid>
-            <pubDate>Sat, 09 Sep 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jennifer Hartswick Band, Colour Phase at Beachland Ballroom]]></title>
@@ -1777,13 +1763,6 @@
             <pubDate>Sat, 02 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Local Natives: Time Will Wait For No One Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Local Natives: Time Will Wait For No One Tour at House of Blues on Saturday, September 9, 2023, 07:00 PM: https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5]]></description>
-            <link>https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5</guid>
-            <pubDate>Sat, 09 Sep 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Everclear with The Ataris at House of Blues]]></title>
             <description><![CDATA[Get tickets to Everclear with The Ataris at House of Blues on Monday, September 11, 2023, 06:00 PM: https://concerts.livenation.com/everclear-with-the-ataris-cleveland-ohio-09-11-2023/event/05005EA8EC439B84]]></description>
             <link>https://concerts.livenation.com/everclear-with-the-ataris-cleveland-ohio-09-11-2023/event/05005EA8EC439B84</link>
@@ -2113,11 +2092,11 @@
             <pubDate>Fri, 17 Nov 2023 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Goth Homecoming at Foundry]]></title>
-            <description><![CDATA[Get tickets to Goth Homecoming at Foundry on Saturday, September 9, 2023, 09:00 PM: https://www.foundryconcertclub.com/tm-event/goth-homecoming/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/goth-homecoming/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/goth-homecoming/</guid>
-            <pubDate>Sat, 09 Sep 2023 21:00:00 GMT</pubDate>
+            <title><![CDATA[Daniel Seavey at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Daniel Seavey at House of Blues on Saturday, November 18, 2023, 07:00 PM: https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41]]></description>
+            <link>https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41</guid>
+            <pubDate>Sat, 18 Nov 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tallah, Convictions, 6Deep at Foundry]]></title>
@@ -2365,20 +2344,6 @@
             <pubDate>Sun, 03 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Michael Turner at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Michael Turner at Mahall’s Apartment on Saturday, September 9, 2023, 11:00 PM: https://link.dice.fm/Ya876ce6f4c1]]></description>
-            <link>https://link.dice.fm/Ya876ce6f4c1</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ya876ce6f4c1</guid>
-            <pubDate>Sat, 09 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Honey Pocket at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Honey Pocket at Mahall’s on Saturday, September 9, 2023, 11:00 PM: https://link.dice.fm/z5acb49bcca5]]></description>
-            <link>https://link.dice.fm/z5acb49bcca5</link>
-            <guid isPermaLink="true">https://link.dice.fm/z5acb49bcca5</guid>
-            <pubDate>Sat, 09 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dayseeker at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Dayseeker at The Roxy at Mahall’s on Tuesday, September 12, 2023, 10:30 PM: https://link.dice.fm/u04095dbbc48]]></description>
             <link>https://link.dice.fm/u04095dbbc48</link>
@@ -2484,17 +2449,17 @@
             <pubDate>Sat, 23 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Astronomers at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Astronomers at Mahall’s on Tuesday, September 26, 2023, 11:00 PM: https://link.dice.fm/s4cada23b8e0]]></description>
-            <link>https://link.dice.fm/s4cada23b8e0</link>
-            <guid isPermaLink="true">https://link.dice.fm/s4cada23b8e0</guid>
-            <pubDate>Tue, 26 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Autopilot at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Autopilot at Mahall’s Apartment on Tuesday, September 26, 2023, 11:00 PM: https://link.dice.fm/T4381d524f65]]></description>
             <link>https://link.dice.fm/T4381d524f65</link>
             <guid isPermaLink="true">https://link.dice.fm/T4381d524f65</guid>
+            <pubDate>Tue, 26 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Astronomers at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to The Astronomers at Mahall’s on Tuesday, September 26, 2023, 11:00 PM: https://link.dice.fm/s4cada23b8e0]]></description>
+            <link>https://link.dice.fm/s4cada23b8e0</link>
+            <guid isPermaLink="true">https://link.dice.fm/s4cada23b8e0</guid>
             <pubDate>Tue, 26 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2596,13 +2561,6 @@
             <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kate Bollinger at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Kate Bollinger at Mahall’s on Sunday, October 8, 2023, 11:00 PM: https://link.dice.fm/P8653582ac4e]]></description>
-            <link>https://link.dice.fm/P8653582ac4e</link>
-            <guid isPermaLink="true">https://link.dice.fm/P8653582ac4e</guid>
-            <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Aces – I’ve Loved You For So Long World Tour at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Aces – I’ve Loved You For So Long World Tour at The Roxy at Mahall’s on Sunday, October 8, 2023, 11:00 PM: https://link.dice.fm/d079039b50bc]]></description>
             <link>https://link.dice.fm/d079039b50bc</link>
@@ -2610,17 +2568,24 @@
             <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GIFT at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to GIFT at Mahall’s Apartment on Monday, October 9, 2023, 11:00 PM: https://link.dice.fm/cac8be85f81f]]></description>
-            <link>https://link.dice.fm/cac8be85f81f</link>
-            <guid isPermaLink="true">https://link.dice.fm/cac8be85f81f</guid>
-            <pubDate>Mon, 09 Oct 2023 23:00:00 GMT</pubDate>
+            <title><![CDATA[Kate Bollinger at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Kate Bollinger at Mahall’s on Sunday, October 8, 2023, 11:00 PM: https://link.dice.fm/P8653582ac4e]]></description>
+            <link>https://link.dice.fm/P8653582ac4e</link>
+            <guid isPermaLink="true">https://link.dice.fm/P8653582ac4e</guid>
+            <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dead on a Sunday at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Dead on a Sunday at Mahall’s on Monday, October 9, 2023, 11:00 PM: https://link.dice.fm/ta0ec89681c5]]></description>
             <link>https://link.dice.fm/ta0ec89681c5</link>
             <guid isPermaLink="true">https://link.dice.fm/ta0ec89681c5</guid>
+            <pubDate>Mon, 09 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GIFT at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to GIFT at Mahall’s Apartment on Monday, October 9, 2023, 11:00 PM: https://link.dice.fm/cac8be85f81f]]></description>
+            <link>https://link.dice.fm/cac8be85f81f</link>
+            <guid isPermaLink="true">https://link.dice.fm/cac8be85f81f</guid>
             <pubDate>Mon, 09 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2930,20 +2895,6 @@
             <link>https://link.dice.fm/ndd45cda1606</link>
             <guid isPermaLink="true">https://link.dice.fm/ndd45cda1606</guid>
             <pubDate>Thu, 16 May 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Local Natives: Time Will Wait For No One Tour WSG HalfNoise at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Local Natives: Time Will Wait For No One Tour WSG HalfNoise at Grog Shop on Saturday, September 9, 2023, 08:00 PM: https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise]]></description>
-            <link>https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise</guid>
-            <pubDate>Sat, 09 Sep 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bones of J.R. Jones, Benjamin Dakota Rogers, The Brakes at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Bones of J.R. Jones, Benjamin Dakota Rogers, The Brakes at Grog Shop on Saturday, September 9, 2023, 08:00 PM: https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones]]></description>
-            <link>https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones</guid>
-            <pubDate>Sat, 09 Sep 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mustard Plug, The Toasters, Half Past Two, Low Morale at Grog Shop]]></title>
@@ -3436,13 +3387,6 @@
             <pubDate>Sat, 16 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Closedown, Heart and Lung, Honeybee, Soul Charge at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Closedown, Heart and Lung, Honeybee, Soul Charge at Happy Dog on Saturday, September 9, 2023, 09:00 PM: https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197]]></description>
-            <link>https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197</guid>
-            <pubDate>Sat, 09 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DJ Kishka Happy Hour! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to DJ Kishka Happy Hour! at Happy Dog on Friday, September 15, 2023, 06:00 PM: https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887]]></description>
             <link>https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887</link>
@@ -3567,6 +3511,13 @@
             <link>https://www.eventbrite.com/e/pynkie-wished-bone-solon-false-teeth-tickets-706924990677</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/pynkie-wished-bone-solon-false-teeth-tickets-706924990677</guid>
             <pubDate>Sun, 08 Oct 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good Reverend, Slug Fest, Buffalo Ryders at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Good Reverend, Slug Fest, Buffalo Ryders at Happy Dog on Thursday, October 12, 2023, 09:00 PM: https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437]]></description>
+            <link>https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437</guid>
+            <pubDate>Thu, 12 Oct 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[CAKE at Jacobs Pavilion at Nautica]]></title>

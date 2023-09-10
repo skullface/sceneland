@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "Corey Taylor"
-    ],
-    "link": "https://concerts.livenation.com/corey-taylor-cleveland-ohio-09-07-2023/event/05005EAA0E8588E5",
-    "date": "2023-09-07T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Hulvey: The Beautiful Tour"
-    ],
-    "link": "https://concerts.livenation.com/hulvey-the-beautiful-tour-cleveland-ohio-09-07-2023/event/05005EAAB15E6B63",
-    "date": "2023-09-07T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Ondara: The Rebirth Tour"
-    ],
-    "link": "https://concerts.livenation.com/ondara-the-rebirth-tour-cleveland-ohio-09-08-2023/event/05005EF1ADFD2BAE",
-    "date": "2023-09-08T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "The Cancelled Podcast Tour With Tana Mongeau & Brooke Schofield"
-    ],
-    "link": "https://concerts.livenation.com/the-cancelled-podcast-tour-with-tana-cleveland-ohio-09-08-2023/event/05005EEDD7F96B0A",
-    "date": "2023-09-08T19:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Local Natives: Time Will Wait For No One Tour"
-    ],
-    "link": "https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5",
-    "date": "2023-09-09T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Everclear with The Ataris"
     ],
     "link": "https://concerts.livenation.com/everclear-with-the-ataris-cleveland-ohio-09-11-2023/event/05005EA8EC439B84",
@@ -381,6 +341,46 @@
     ],
     "link": "https://concerts.livenation.com/gza-and-fishbone-truth-and-swords-cleveland-ohio-11-12-2023/event/05005EFFB56B5C97",
     "date": "2023-11-12T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Dying Fetus: Make Them Beg For Death"
+    ],
+    "link": "https://concerts.livenation.com/dying-fetus-make-them-beg-for-cleveland-ohio-11-14-2023/event/05005ED7B11B4523",
+    "date": "2023-11-14T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Petey"
+    ],
+    "link": "https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235",
+    "date": "2023-11-15T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "PlanBri Live"
+    ],
+    "link": "https://concerts.livenation.com/planbri-live-cleveland-ohio-11-16-2023/event/05005F18F19863AA",
+    "date": "2023-11-16T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Tropidelic with The Elovators and Shwayze and Surfer Girl"
+    ],
+    "link": "https://concerts.livenation.com/tropidelic-with-the-elovators-and-shwayze-cleveland-ohio-11-17-2023/event/05005EE6ABB62222",
+    "date": "2023-11-17T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Daniel Seavey"
+    ],
+    "link": "https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41",
+    "date": "2023-11-18T19:00:00",
     "venue": "House of Blues"
   }
 ]

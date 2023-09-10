@@ -1,60 +1,6 @@
 [
   {
     "artist": [
-      "Yarn",
-      "James McKeivier"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13364478/yarn-james-mckeivier",
-    "date": "2023-09-07T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "link": "https://www.beachlandballroom.com/e/13555758/this-way-out",
-    "date": "2023-09-08T12:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Drag Pride Showcase"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13449288/drag-pride-showcase",
-    "date": "2023-09-08T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Nox Novacula",
-      "Hiram-Maxim"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13317238/nox-novacula-hiram-maxim",
-    "date": "2023-09-08T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Waterloo Arts Fest 2023"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023",
-    "date": "2023-09-09T12:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "link": "https://www.beachlandballroom.com/e/13555768/this-way-out",
-    "date": "2023-09-09T12:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Waterloo Arts Fest After Party",
-      "Country Honk",
-      "DJ Chris Kulscar"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13594198/waterloo-arts-fest-after-party-country-honk-dj-chris-kulscar",
-    "date": "2023-09-09T18:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Jennifer Hartswick Band",
       "Colour Phase"
     ],
@@ -87,6 +33,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13249978/carolyn-wonderland-kristine-jackson",
     "date": "2023-09-12T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Pre/Post Party with DJ Advance"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance",
+    "date": "2023-09-14T18:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -146,9 +100,10 @@
   },
   {
     "artist": [
-      "Electric Blue Yonder"
+      "Electric Blue Yonder",
+      "Clare Feorene"
     ],
-    "link": "https://www.beachlandballroom.com/e/13409408/electric-blue-yonder",
+    "link": "https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene",
     "date": "2023-09-18T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -163,9 +118,11 @@
   },
   {
     "artist": [
-      "Boyish"
+      "Boyish",
+      "Ivers",
+      "JET STAR"
     ],
-    "link": "https://www.beachlandballroom.com/e/13478558/boyish",
+    "link": "https://www.beachlandballroom.com/e/13478558/boyish-ivers-jet-star",
     "date": "2023-09-19T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -229,6 +186,14 @@
     "sold_out": true,
     "date": "2023-09-24T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "A Crown Royal Dance Party"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party",
+    "date": "2023-09-26T18:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -348,7 +313,7 @@
       "Cut Worms",
       "Ryder The Eagle"
     ],
-    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle",
+    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus",
     "date": "2023-10-06T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -636,6 +601,15 @@
   },
   {
     "artist": [
+      "Shrapknel",
+      "Rich Jones"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones",
+    "date": "2023-11-01T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Walter Trout"
     ],
     "link": "https://www.beachlandballroom.com/e/13392758/walter-trout",
@@ -659,14 +633,16 @@
       "Calder Allen"
     ],
     "link": "https://www.beachlandballroom.com/e/13336088/shane-smith-the-saints-angel-white-calder-allen",
+    "sold_out": true,
     "date": "2023-11-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
     "artist": [
-      "Ryan Montbleau Band"
+      "Ryan Montbleau Band",
+      "Collin Miller"
     ],
-    "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band",
+    "link": "https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band-collin-miller",
     "date": "2023-11-04T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -861,6 +837,14 @@
     "link": "https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead",
     "date": "2024-01-20T20:30:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Soiree of the Stallions Charity Concert"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert",
+    "date": "2024-01-27T15:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

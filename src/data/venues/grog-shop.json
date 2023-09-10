@@ -1,50 +1,6 @@
 [
   {
     "artist": [
-      "Alex Cameron & Roy Molloy",
-      "Toyon",
-      "Mikey Silas"
-    ],
-    "link": "https://grogshop.gs/event-details/13495618/alex-cameron-roy-molloy",
-    "date": "2023-09-07T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "SE SO NEON"
-    ],
-    "link": "https://grogshop.gs/event-details/13368048/se-so-neon",
-    "date": "2023-09-08T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Pro3 Entertainment and The 5th Coast Presents : The Podcasters Mixer and Live filming"
-    ],
-    "link": "https://grogshop.gs/event-details/13497238/pro3-entertainment-and-the-5th-coast-presents-the-podcasters-mixer-and-live-filming",
-    "date": "2023-09-08T22:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Local Natives: Time Will Wait For No One Tour WSG HalfNoise"
-    ],
-    "link": "https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise",
-    "date": "2023-09-09T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Bones of J.R. Jones",
-      "Benjamin Dakota Rogers",
-      "The Brakes"
-    ],
-    "link": "https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones",
-    "date": "2023-09-09T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Mustard Plug",
       "The Toasters",
       "Half Past Two",
@@ -153,9 +109,9 @@
   },
   {
     "artist": [
-      "The Space Cadets, Dishwasher Possum, Lake Effect"
+      "The Space Cadets & Lake Effect"
     ],
-    "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-dishwasher-possum-lake-effect",
+    "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect",
     "date": "2023-09-19T19:30:00",
     "venue": "Grog Shop"
   },
@@ -561,6 +517,16 @@
   },
   {
     "artist": [
+      "Goatwhore",
+      "Withered",
+      "Spiter"
+    ],
+    "link": "https://grogshop.gs/event-details/13598718/goatwhore-withered-spiter",
+    "date": "2023-11-08T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Beauty School Dropout",
       "Not A Toy",
       "Ava Maybee"
@@ -592,6 +558,16 @@
     ],
     "link": "https://grogshop.gs/event-details/13501118/hot-goss-the-improvised-musical",
     "date": "2023-11-14T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Myth and Company Single Release \"OCB\"",
+      "Myth and Company",
+      "Burning River"
+    ],
+    "link": "https://grogshop.gs/event-details/13597838/myth-and-company-single-release-ocb-",
+    "date": "2023-11-16T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -649,14 +625,6 @@
   },
   {
     "artist": [
-      "Teenage Halloween, Grievance Club, Biitchseat"
-    ],
-    "link": "https://grogshop.gs/event-details/13593298/teenage-halloween-grievance-club-biitchseat",
-    "date": "2023-12-07T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Total Downer",
       "Wish Queen",
       "Charity Cunningham",
@@ -672,6 +640,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
     "date": "2023-12-15T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "CupcakKe"
+    ],
+    "link": "https://grogshop.gs/event-details/13604468/cupcakke",
+    "date": "2023-12-16T20:00:00",
     "venue": "Grog Shop"
   }
 ]

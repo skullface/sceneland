@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['MORTICIAN'],
-    link: 'https://www.eventbrite.com/e/mortician-tickets-628048870077',
-    date: '2023-09-09T16:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: ['UADA'],
     link: 'https://www.eventbrite.com/e/uada-tickets-679558737477',
     date: '2023-09-11T19:00:00',
@@ -81,6 +75,12 @@ export const allShows = [
     artist: ['FULL OF HELL'],
     link: 'https://www.eventbrite.com/e/full-of-hell-tickets-654945308047',
     date: '2023-11-13T19:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['REGURGITATION'],
+    link: 'https://www.eventbrite.com/e/regurgitation-tickets-716501734977',
+    date: '2024-01-27T20:00:00',
     venue: 'No Class',
   },
   {
@@ -202,27 +202,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Waterloo Arts Fest 2023'],
-    link: 'https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023',
-    date: '2023-09-09T12:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    link: 'https://www.beachlandballroom.com/e/13555768/this-way-out',
-    date: '2023-09-09T12:00:00',
-    venue: '',
-  },
-  {
-    artist: [
-      'Waterloo Arts Fest After Party',
-      'Country Honk',
-      'DJ Chris Kulscar',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13594198/waterloo-arts-fest-after-party-country-honk-dj-chris-kulscar',
-    date: '2023-09-09T18:30:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Jennifer Hartswick Band', 'Colour Phase'],
@@ -1591,12 +1570,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Local Natives: Time Will Wait For No One Tour'],
-    link: 'https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5',
-    date: '2023-09-09T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Everclear with The Ataris'],
     link: 'https://concerts.livenation.com/everclear-with-the-ataris-cleveland-ohio-09-11-2023/event/05005EA8EC439B84',
     date: '2023-09-11T18:00:00',
@@ -1881,10 +1854,10 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Goth Homecoming'],
-    link: 'https://www.foundryconcertclub.com/tm-event/goth-homecoming/',
-    date: '2023-09-09T21:00:00',
-    venue: 'Foundry',
+    artist: ['Daniel Seavey'],
+    link: 'https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41',
+    date: '2023-11-18T19:00:00',
+    venue: 'House of Blues',
   },
   {
     artist: ['Tallah, Convictions, 6Deep'],
@@ -2105,18 +2078,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Michael Turner'],
-    link: 'https://link.dice.fm/Ya876ce6f4c1',
-    date: '2023-09-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
-    artist: ['Honey Pocket'],
-    link: 'https://link.dice.fm/z5acb49bcca5',
-    date: '2023-09-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Dayseeker'],
     link: 'https://link.dice.fm/u04095dbbc48',
     sold_out: true,
@@ -2210,16 +2171,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Astronomers'],
-    link: 'https://link.dice.fm/s4cada23b8e0',
-    date: '2023-09-26T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Autopilot'],
     link: 'https://link.dice.fm/T4381d524f65',
     date: '2023-09-26T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['The Astronomers'],
+    link: 'https://link.dice.fm/s4cada23b8e0',
+    date: '2023-09-26T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Casey'],
@@ -2307,28 +2268,28 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Kate Bollinger'],
-    link: 'https://link.dice.fm/P8653582ac4e',
-    date: '2023-10-08T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
     link: 'https://link.dice.fm/d079039b50bc',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['GIFT'],
-    link: 'https://link.dice.fm/cac8be85f81f',
-    date: '2023-10-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
+    artist: ['Kate Bollinger'],
+    link: 'https://link.dice.fm/P8653582ac4e',
+    date: '2023-10-08T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Dead on a Sunday'],
     link: 'https://link.dice.fm/ta0ec89681c5',
     date: '2023-10-09T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['GIFT'],
+    link: 'https://link.dice.fm/cac8be85f81f',
+    date: '2023-10-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Chris Farren'],
@@ -2593,18 +2554,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Local Natives: Time Will Wait For No One Tour WSG HalfNoise'],
-    link: 'https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise',
-    date: '2023-09-09T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['The Bones of J.R. Jones', 'Benjamin Dakota Rogers', 'The Brakes'],
-    link: 'https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones',
-    date: '2023-09-09T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Mustard Plug', 'The Toasters', 'Half Past Two', 'Low Morale'],
@@ -3092,12 +3041,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Closedown, Heart and Lung, Honeybee, Soul Charge'],
-    link: 'https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197',
-    date: '2023-09-09T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-706345457277',
     date: '2023-09-11T20:00:00',
     venue: 'Happy Dog',
@@ -3228,6 +3171,12 @@ export const allShows = [
   {
     link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-714951528267',
     date: '2023-10-09T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Good Reverend, Slug Fest, Buffalo Ryders'],
+    link: 'https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437',
+    date: '2023-10-12T21:00:00',
     venue: 'Happy Dog',
   },
   {

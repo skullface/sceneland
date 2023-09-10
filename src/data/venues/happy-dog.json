@@ -1,13 +1,5 @@
 [
   {
-    "artist": [
-      "Closedown, Heart and Lung, Honeybee, Soul Charge"
-    ],
-    "link": "https://www.eventbrite.com/e/closedown-heart-and-lung-honeybee-soul-charge-tickets-706337072197",
-    "date": "2023-09-09T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706345457277",
     "date": "2023-09-11T20:00:00",
     "venue": "Happy Dog"
@@ -174,6 +166,14 @@
   {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-714951528267",
     "date": "2023-10-09T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Good Reverend, Slug Fest, Buffalo Ryders"
+    ],
+    "link": "https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437",
+    "date": "2023-10-12T21:00:00",
     "venue": "Happy Dog"
   }
 ]

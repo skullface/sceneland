@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MORTICIAN"
-    ],
-    "link": "https://www.eventbrite.com/e/mortician-tickets-628048870077",
-    "date": "2023-09-09T16:00:00",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "UADA"
     ],
     "link": "https://www.eventbrite.com/e/uada-tickets-679558737477",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.eventbrite.com/e/full-of-hell-tickets-654945308047",
     "date": "2023-11-13T19:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "REGURGITATION"
+    ],
+    "link": "https://www.eventbrite.com/e/regurgitation-tickets-716501734977",
+    "date": "2024-01-27T20:00:00",
     "venue": "No Class"
   }
 ]

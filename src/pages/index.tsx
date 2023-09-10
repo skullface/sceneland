@@ -164,7 +164,7 @@ export default function Page({ shows }: PageProps) {
 
         if (
           (dayOfWeek === 5 || dayOfWeek === 6 || dayOfWeek === 0) &&
-          weekStartToTodayDiff >= -6 &&
+          weekStartToTodayDiff >= -7 &&
           weekStartToTodayDiff < 0
         ) {
           groupLabel = 'This weekend'

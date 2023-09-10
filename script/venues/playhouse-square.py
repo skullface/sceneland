@@ -29,24 +29,24 @@ for url_page in url_pages:
     else:
       all_shows_data['artist'] = [artist]
 
-    link = show.find_all('a')[0]
-    all_shows_data['link'] = 'https://www.playhousesquare.org' + link.get('href')
- 
-    day = show.find('span', class_='m-date__day').text.strip()
-    day = datetime.strptime(day, '%d').day
-    
-    month = show.find('span', class_='m-date__month').text.strip()
-    month_number = datetime.strptime(month, '%b').month
-    
-    year = show.find('span', class_='m-date__year')
-    year = year.text.strip().replace(', ', '')
-    year = datetime.strptime(year, '%Y').year
+      link = show.find_all('a')[0]
+      all_shows_data['link'] = 'https://www.playhousesquare.org' + link.get('href')
+  
+      day = show.find('span', class_='m-date__day').text.strip()
+      day = datetime.strptime(day, '%d').day
+      
+      month = show.find('span', class_='m-date__month').text.strip()
+      month_number = datetime.strptime(month, '%b').month
+      
+      year = show.find('span', class_='m-date__year')
+      year = year.text.strip().replace(', ', '')
+      year = datetime.strptime(year, '%Y').year
 
-    date = f'{year:02d}-{month_number:02d}-{day:02d}'
-    all_shows_data['date'] = date 
+      date = f'{year:02d}-{month_number:02d}-{day:02d}'
+      all_shows_data['date'] = date 
 
-    all_shows_data['venue'] = 'Playhouse Square'
-    all_shows_list.append(all_shows_data)
+      all_shows_data['venue'] = 'Playhouse Square'
+      all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2)
 print(all_shows_json)

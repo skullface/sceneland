@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Tash Sultana, Go-Jo"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/482546",
-    "date": "2023-09-10T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Yung Bleu"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/490405",
-    "date": "2023-09-14T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Flogging Molly, The Bronx and Vandoliers"
     ],
     "link": "https://www.agoracleveland.com/events/detail/481317",
@@ -333,54 +317,6 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/496570",
     "date": "2023-12-07T18:15:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Roy Woods"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/498637",
-    "date": "2023-12-08T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "CupcakKe"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/501510",
-    "date": "2023-12-16T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Story of the Year, We the Kings, Youth Fountain"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/498046",
-    "date": "2024-01-06T18:30:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "G Jones, IMANU, KOAN Sound, Sayer"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/494799",
-    "date": "2024-01-19T20:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Darcy & Jer"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/489478",
-    "date": "2024-02-18T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Jimbo's Drag Circus"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/495366",
-    "date": "2024-03-02T19:00:00",
     "venue": "Agora"
   }
 ]

@@ -16,7 +16,7 @@ Aggregates concerts from local Cleveland venues in one website.
 - [Group events by week](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L92-L139) for improved readability/scannability
 - [Filter](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L51-L90) events by venue, [selectable by user](https://github.com/skullface/sceneland/blob/main/src/components/venue-filter.tsx) (via [Radix](https://www.radix-ui.com/primitives/docs/components/dropdown-menu#checkboxitem))
 - Serve the page [statically](https://github.com/skullface/sceneland/blob/main/.github/workflows/build-and-deploy.yml) with [GitHub Pages](https://github.com/skullface/sceneland/tree/gh-pages) when data file is updated
-- [Generate](https://github.com/skullface/sceneland/blob/main/src/utils/generate-feed.ts) an [RSS feed](https://216.show/rss.xml) with all shows as feed items
+- [Generate](https://github.com/skullface/sceneland/blob/main/src/utils/generate-feed.ts) an [RSS feed](https://216.show/feed.xml) with all shows as feed items
 
 ### Update daily
 

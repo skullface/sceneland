@@ -4,22 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Sep 2023 21:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 01:43:17 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cleveland Silent Film Festival Presents: Safety Last at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Cleveland Silent Film Festival Presents: Safety Last at Masonic Temple on Wednesday, September 6, 2023, 07:30 PM: https://www.ticketmaster.com/cleveland-silent-film-festival-presents-safety-cleveland-ohio-09-06-2023/event/05005F0F816C1280]]></description>
-            <link>https://www.ticketmaster.com/cleveland-silent-film-festival-presents-safety-cleveland-ohio-09-06-2023/event/05005F0F816C1280</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/cleveland-silent-film-festival-presents-safety-cleveland-ohio-09-06-2023/event/05005F0F816C1280</guid>
-            <pubDate>Wed, 06 Sep 2023 23:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mizphit Fetish Ball at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Mizphit Fetish Ball at Masonic Temple on Friday, September 8, 2023, 07:00 PM: https://www.ticketmaster.com/mizphit-fetish-ball-cleveland-ohio-09-08-2023/event/05005ED6033D72FF]]></description>
-            <link>https://www.ticketmaster.com/mizphit-fetish-ball-cleveland-ohio-09-08-2023/event/05005ED6033D72FF</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/mizphit-fetish-ball-cleveland-ohio-09-08-2023/event/05005ED6033D72FF</guid>
-            <pubDate>Fri, 08 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Danzig at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Danzig at Masonic Temple on Wednesday, September 13, 2023, 06:30 PM: https://www.ticketmaster.com/danzig-cleveland-ohio-09-13-2023/event/05005EB9864118B4]]></description>
@@ -84,13 +70,6 @@
             <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mr. Princess at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Mr. Princess at Masonic Temple on Saturday, September 30, 2023, 08:00 PM: https://www.ticketmaster.com/mr-princess-cleveland-ohio-09-30-2023/event/05005F08C2A85392]]></description>
-            <link>https://www.ticketmaster.com/mr-princess-cleveland-ohio-09-30-2023/event/05005F08C2A85392</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/mr-princess-cleveland-ohio-09-30-2023/event/05005F08C2A85392</guid>
-            <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Theo Von : Return of the Rat at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Theo Von : Return of the Rat at Masonic Temple on Thursday, October 5, 2023, 07:30 PM: https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1]]></description>
             <link>https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1</link>
@@ -132,11 +111,18 @@
             <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Y.A.Y.A. & Luv at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Y.A.Y.A. & Luv at Masonic Temple on Saturday, October 14, 2023, 09:00 PM: https://www.ticketmaster.com/yaya-luv-cleveland-ohio-10-14-2023/event/05005F15DE1730E2]]></description>
-            <link>https://www.ticketmaster.com/yaya-luv-cleveland-ohio-10-14-2023/event/05005F15DE1730E2</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/yaya-luv-cleveland-ohio-10-14-2023/event/05005F15DE1730E2</guid>
-            <pubDate>Sun, 15 Oct 2023 01:00:00 GMT</pubDate>
+            <title><![CDATA[The Toxhards at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to The Toxhards at Masonic Temple on Sunday, October 15, 2023, 08:00 PM: https://www.ticketmaster.com/the-toxhards-cleveland-ohio-10-15-2023/event/05005F1F8A2213C5]]></description>
+            <link>https://www.ticketmaster.com/the-toxhards-cleveland-ohio-10-15-2023/event/05005F1F8A2213C5</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/the-toxhards-cleveland-ohio-10-15-2023/event/05005F1F8A2213C5</guid>
+            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Invasion Invasion at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Invasion Invasion at Masonic Temple on Thursday, October 19, 2023, 08:00 PM: https://www.ticketmaster.com/invasion-invasion-cleveland-ohio-10-19-2023/event/05005F11B5DC2D31]]></description>
+            <link>https://www.ticketmaster.com/invasion-invasion-cleveland-ohio-10-19-2023/event/05005F11B5DC2D31</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/invasion-invasion-cleveland-ohio-10-19-2023/event/05005F11B5DC2D31</guid>
+            <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Led Zeppelin 2 at Masonic Temple]]></title>
@@ -154,10 +140,17 @@
         </item>
         <item>
             <title><![CDATA[Bad Religion at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Bad Religion at Masonic Temple on Saturday, October 21, 2023, 08:00 PM: https://www.ticketmaster.com/bad-religion-cleveland-ohio-10-21-2023/event/05005EFFEAC67B82]]></description>
+            <description><![CDATA[Get tickets to Bad Religion at Masonic Temple on Saturday, October 21, 2023, 07:30 PM: https://www.ticketmaster.com/bad-religion-cleveland-ohio-10-21-2023/event/05005EFFEAC67B82]]></description>
             <link>https://www.ticketmaster.com/bad-religion-cleveland-ohio-10-21-2023/event/05005EFFEAC67B82</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/bad-religion-cleveland-ohio-10-21-2023/event/05005EFFEAC67B82</guid>
-            <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 21 Oct 2023 23:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NWA Presents:  Samhain at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to NWA Presents:  Samhain at Masonic Temple on Saturday, October 28, 2023, 07:00 PM: https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4]]></description>
+            <link>https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4</guid>
+            <pubDate>Sat, 28 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Life with the Thrill Kill Kult at Masonic Temple]]></title>
@@ -181,6 +174,13 @@
             <pubDate>Mon, 06 Nov 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pop Evil Flesh & Bone Tour at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Pop Evil Flesh & Bone Tour at Masonic Temple on Saturday, November 18, 2023, 07:00 PM: https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A]]></description>
+            <link>https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A</guid>
+            <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Liz Phair: Guyville Tour at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Liz Phair: Guyville Tour at Masonic Temple on Saturday, December 9, 2023, 08:00 PM: https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA]]></description>
             <link>https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA</link>
@@ -188,18 +188,11 @@
             <pubDate>Sun, 10 Dec 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[200 STAB WOUNDS at No Class]]></title>
-            <description><![CDATA[Get tickets to 200 STAB WOUNDS at No Class on Friday, September 8, 2023, 08:00 PM: https://www.eventbrite.com/e/200-stab-wounds-tickets-696104395987]]></description>
-            <link>https://www.eventbrite.com/e/200-stab-wounds-tickets-696104395987</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/200-stab-wounds-tickets-696104395987</guid>
-            <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MORTICIAN at No Class]]></title>
-            <description><![CDATA[Get tickets to MORTICIAN at No Class on Saturday, September 9, 2023, 04:00 PM: https://www.eventbrite.com/e/mortician-tickets-628048870077]]></description>
-            <link>https://www.eventbrite.com/e/mortician-tickets-628048870077</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/mortician-tickets-628048870077</guid>
-            <pubDate>Sat, 09 Sep 2023 20:00:00 GMT</pubDate>
+            <title><![CDATA[American Girl Live!   In Concert at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to American Girl Live!   In Concert at Masonic Temple on Sunday, December 17, 2023, 05:00 PM: https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339]]></description>
+            <link>https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339</guid>
+            <pubDate>Sun, 17 Dec 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[UADA at No Class]]></title>
@@ -216,10 +209,10 @@
             <pubDate>Wed, 13 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[THE EXPLOITED at No Class]]></title>
-            <description><![CDATA[Get tickets to THE EXPLOITED at No Class on Thursday, September 14, 2023, 07:00 PM: https://www.eventbrite.com/e/the-exploited-tickets-620250073667]]></description>
-            <link>https://www.eventbrite.com/e/the-exploited-tickets-620250073667</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/the-exploited-tickets-620250073667</guid>
+            <title><![CDATA[TOTAL CHAOS at No Class]]></title>
+            <description><![CDATA[Get tickets to TOTAL CHAOS at No Class on Thursday, September 14, 2023, 07:00 PM: https://www.eventbrite.com/e/total-chaos-tickets-620250073667]]></description>
+            <link>https://www.eventbrite.com/e/total-chaos-tickets-620250073667</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/total-chaos-tickets-620250073667</guid>
             <pubDate>Thu, 14 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -258,6 +251,13 @@
             <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[AMERICAN WEREWOLVES at No Class]]></title>
+            <description><![CDATA[Get tickets to AMERICAN WEREWOLVES at No Class on Friday, October 20, 2023, 08:00 PM: https://www.eventbrite.com/e/american-werewolves-tickets-715158647767]]></description>
+            <link>https://www.eventbrite.com/e/american-werewolves-tickets-715158647767</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/american-werewolves-tickets-715158647767</guid>
+            <pubDate>Sat, 21 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TRASHOWEEN at No Class]]></title>
             <description><![CDATA[Get tickets to TRASHOWEEN at No Class on Saturday, October 28, 2023, 06:00 PM: https://www.eventbrite.com/e/trashoween-tickets-708203795617]]></description>
             <link>https://www.eventbrite.com/e/trashoween-tickets-708203795617</link>
@@ -286,18 +286,333 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DETHKLOK & BABYMETAL, Jason Richardson at Agora]]></title>
-            <description><![CDATA[Get tickets to DETHKLOK & BABYMETAL, Jason Richardson at Agora on Wednesday, September 6, 2023, 06:00 PM: https://www.agoracleveland.com/events/detail/480461]]></description>
-            <link>https://www.agoracleveland.com/events/detail/480461</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/480461</guid>
-            <pubDate>Wed, 06 Sep 2023 22:00:00 GMT</pubDate>
+            <title><![CDATA[REGURGITATION at No Class]]></title>
+            <description><![CDATA[Get tickets to REGURGITATION at No Class on Saturday, January 27, 2024, 08:00 PM: https://www.eventbrite.com/e/regurgitation-tickets-716501734977]]></description>
+            <link>https://www.eventbrite.com/e/regurgitation-tickets-716501734977</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/regurgitation-tickets-716501734977</guid>
+            <pubDate>Sun, 28 Jan 2024 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jake Owen, Tyler Booth, Daves Highway at Agora]]></title>
-            <description><![CDATA[Get tickets to Jake Owen, Tyler Booth, Daves Highway at Agora on Thursday, September 7, 2023, 06:00 PM: https://www.agoracleveland.com/events/detail/488100]]></description>
-            <link>https://www.agoracleveland.com/events/detail/488100</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/488100</guid>
-            <pubDate>Thu, 07 Sep 2023 22:00:00 GMT</pubDate>
+            <title><![CDATA[Jim Gaffigan: Barely Alive Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Jim Gaffigan: Barely Alive Tour at Playhouse Square on Wednesday, September 13, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/jim-gaffigan-barely-alive-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/jim-gaffigan-barely-alive-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/jim-gaffigan-barely-alive-tour</guid>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kathleen Madigan: Boxed Wine & Tiny Banjos at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Kathleen Madigan: Boxed Wine & Tiny Banjos at Playhouse Square on Friday, September 15, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/kathleen-madigan-boxed-wine-tiny-banjos]]></description>
+            <link>https://www.playhousesquare.org/events/detail/kathleen-madigan-boxed-wine-tiny-banjos</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/kathleen-madigan-boxed-wine-tiny-banjos</guid>
+            <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tina Fey & Amy Poehler: Restless Leg Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Tina Fey & Amy Poehler: Restless Leg Tour at Playhouse Square on Wednesday, September 20, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EDDIE IZZARD - The Remix: The First 35 Years at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to EDDIE IZZARD - The Remix: The First 35 Years at Playhouse Square on Tuesday, September 26, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/eddie-izzard-the-remix-the-first-35-years]]></description>
+            <link>https://www.playhousesquare.org/events/detail/eddie-izzard-the-remix-the-first-35-years</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/eddie-izzard-the-remix-the-first-35-years</guid>
+            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nick Offerman Live! at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Nick Offerman Live! at Playhouse Square on Thursday, September 28, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/nick-offerman-live]]></description>
+            <link>https://www.playhousesquare.org/events/detail/nick-offerman-live</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nick-offerman-live</guid>
+            <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tim Allen at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Tim Allen at Playhouse Square on Friday, September 29, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/tim-allen]]></description>
+            <link>https://www.playhousesquare.org/events/detail/tim-allen</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/tim-allen</guid>
+            <pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Margaret Cho: Live and LIVID! at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Margaret Cho: Live and LIVID! at Playhouse Square on Friday, October 6, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/margaret-cho]]></description>
+            <link>https://www.playhousesquare.org/events/detail/margaret-cho</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/margaret-cho</guid>
+            <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Carr: Terribly Funny at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Jimmy Carr: Terribly Funny at Playhouse Square on Tuesday, October 10, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/jimmy-carr-terribly-funny]]></description>
+            <link>https://www.playhousesquare.org/events/detail/jimmy-carr-terribly-funny</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/jimmy-carr-terribly-funny</guid>
+            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Tucker: The Legend Tour 2023 at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Chris Tucker: The Legend Tour 2023 at Playhouse Square on Wednesday, October 11, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/chris-tucker-the-legend-tour-2023]]></description>
+            <link>https://www.playhousesquare.org/events/detail/chris-tucker-the-legend-tour-2023</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/chris-tucker-the-legend-tour-2023</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Evening with David Sedaris at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to An Evening with David Sedaris at Playhouse Square on Friday, October 13, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/an-evening-with-david-sedaris]]></description>
+            <link>https://www.playhousesquare.org/events/detail/an-evening-with-david-sedaris</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/an-evening-with-david-sedaris</guid>
+            <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ryan Hamilton at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Ryan Hamilton at Playhouse Square on Friday, October 13, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/ryan-hamilton-1]]></description>
+            <link>https://www.playhousesquare.org/events/detail/ryan-hamilton-1</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/ryan-hamilton-1</guid>
+            <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea Handler: Little Big Bitch at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Chelsea Handler: Little Big Bitch at Playhouse Square on Thursday, October 19, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/chelsea-handler-little-big-bitch]]></description>
+            <link>https://www.playhousesquare.org/events/detail/chelsea-handler-little-big-bitch</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/chelsea-handler-little-big-bitch</guid>
+            <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nurse Blake: Shock Advised Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Nurse Blake: Shock Advised Tour at Playhouse Square on Tuesday, October 24, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/nurse-blake-shock-advised-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/nurse-blake-shock-advised-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nurse-blake-shock-advised-tour</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sam Morril: The Class Act Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Sam Morril: The Class Act Tour at Playhouse Square on Wednesday, October 25, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/sam-morril-the-class-act-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/sam-morril-the-class-act-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/sam-morril-the-class-act-tour</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Gatto at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Joe Gatto at Playhouse Square on Friday, October 27, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/joe-gatto]]></description>
+            <link>https://www.playhousesquare.org/events/detail/joe-gatto</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/joe-gatto</guid>
+            <pubDate>Sat, 28 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pete Correale at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Pete Correale at Playhouse Square on Friday, November 10, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/pete-correale-2]]></description>
+            <link>https://www.playhousesquare.org/events/detail/pete-correale-2</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/pete-correale-2</guid>
+            <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Misfit: A Gary Gulman Stand Up Comedy and Book Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Misfit: A Gary Gulman Stand Up Comedy and Book Tour at Playhouse Square on Wednesday, November 15, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/gary-gulman-misfit-book-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/gary-gulman-misfit-book-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/gary-gulman-misfit-book-tour</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nate Bargatze: The Be Funny Tour! at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Nate Bargatze: The Be Funny Tour! at Playhouse Square on Thursday, November 16, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/nate-bargatze-the-be-funny-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/nate-bargatze-the-be-funny-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nate-bargatze-the-be-funny-tour</guid>
+            <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Uncle Louie Variety Show at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to The Uncle Louie Variety Show at Playhouse Square on Friday, November 17, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/the-uncle-louie-variety-show-4]]></description>
+            <link>https://www.playhousesquare.org/events/detail/the-uncle-louie-variety-show-4</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/the-uncle-louie-variety-show-4</guid>
+            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hasan Minhaj: Off With His Head at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Hasan Minhaj: Off With His Head at Playhouse Square on Friday, December 1, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head]]></description>
+            <link>https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head</guid>
+            <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Todd Barry: Half Joking Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Todd Barry: Half Joking Tour at Playhouse Square on Friday, December 1, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour</guid>
+            <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[STEVE MARTIN & MARTIN SHORT at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to STEVE MARTIN & MARTIN SHORT at Playhouse Square on Saturday, December 2, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today]]></description>
+            <link>https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today</guid>
+            <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lúnasa at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Lúnasa at Playhouse Square on Saturday, September 9, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/lunasa]]></description>
+            <link>https://www.playhousesquare.org/events/detail/lunasa</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/lunasa</guid>
+            <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shining Star CLE 2023 at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Shining Star CLE 2023 at Playhouse Square on Saturday, September 9, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/shining-star-cle-2023]]></description>
+            <link>https://www.playhousesquare.org/events/detail/shining-star-cle-2023</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/shining-star-cle-2023</guid>
+            <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newsboys Let the Music Speak Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Newsboys Let the Music Speak Tour at Playhouse Square on Wednesday, September 13, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/newsboys-let-the-music-speak-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/newsboys-let-the-music-speak-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/newsboys-let-the-music-speak-tour</guid>
+            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cleveland Pride Band presents Legacy at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Cleveland Pride Band presents Legacy at Playhouse Square on Friday, September 15, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/cleveland-pride-band-presents-legacy]]></description>
+            <link>https://www.playhousesquare.org/events/detail/cleveland-pride-band-presents-legacy</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/cleveland-pride-band-presents-legacy</guid>
+            <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is Jesus: A Worship Concert Event Starring Michael W. Smith with Jordin Sparks ft. Jordan Smith at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to This is Jesus: A Worship Concert Event Starring Michael W. Smith with Jordin Sparks ft. Jordan Smith at Playhouse Square on Friday, September 15, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/this-is-jesus-a-worship-concert-event-starring-michael-w-smith-with-jordin-sparks-ft-jordan-smith]]></description>
+            <link>https://www.playhousesquare.org/events/detail/this-is-jesus-a-worship-concert-event-starring-michael-w-smith-with-jordin-sparks-ft-jordan-smith</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/this-is-jesus-a-worship-concert-event-starring-michael-w-smith-with-jordin-sparks-ft-jordan-smith</guid>
+            <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Herb Alpert And Lani Hall in Concert at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Herb Alpert And Lani Hall in Concert at Playhouse Square on Saturday, September 16, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert]]></description>
+            <link>https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave: Live In North America at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Nick Cave: Live In North America at Playhouse Square on Sunday, September 24, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/nick-cave-live-in-north-america]]></description>
+            <link>https://www.playhousesquare.org/events/detail/nick-cave-live-in-north-america</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nick-cave-live-in-north-america</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stavros Halkias: The Fat Rascal Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Stavros Halkias: The Fat Rascal Tour at Playhouse Square on Friday, October 6, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/stavros-halkias-the-fat-rascal-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/stavros-halkias-the-fat-rascal-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/stavros-halkias-the-fat-rascal-tour</guid>
+            <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raphael Saadiq Revisits Tony! Toni! Toné! at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Raphael Saadiq Revisits Tony! Toni! Toné! at Playhouse Square on Saturday, October 7, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/raphael-saadiq-revisits-tony-toni-tone]]></description>
+            <link>https://www.playhousesquare.org/events/detail/raphael-saadiq-revisits-tony-toni-tone</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/raphael-saadiq-revisits-tony-toni-tone</guid>
+            <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tommy Emmanuel, CGP at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Tommy Emmanuel, CGP at Playhouse Square on Wednesday, October 11, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/tommy-emmanuel-cgp]]></description>
+            <link>https://www.playhousesquare.org/events/detail/tommy-emmanuel-cgp</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/tommy-emmanuel-cgp</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Casting Crowns 20th Anniversary Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Casting Crowns 20th Anniversary Tour at Playhouse Square on Thursday, October 12, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/casting-crowns]]></description>
+            <link>https://www.playhousesquare.org/events/detail/casting-crowns</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/casting-crowns</guid>
+            <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Temptations & The Four Tops at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to The Temptations & The Four Tops at Playhouse Square on Saturday, October 14, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/the-temptations-the-four-tops]]></description>
+            <link>https://www.playhousesquare.org/events/detail/the-temptations-the-four-tops</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/the-temptations-the-four-tops</guid>
+            <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spider-Man: Into The Spider-Verse Live in Concert at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Spider-Man: Into The Spider-Verse Live in Concert at Playhouse Square on Friday, October 20, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/spider-man-into-the-spider-verse-live-in-concert]]></description>
+            <link>https://www.playhousesquare.org/events/detail/spider-man-into-the-spider-verse-live-in-concert</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/spider-man-into-the-spider-verse-live-in-concert</guid>
+            <pubDate>Sat, 21 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dirty Dancing in Concert at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Dirty Dancing in Concert at Playhouse Square on Saturday, October 21, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/dirty-dancing-in-concert]]></description>
+            <link>https://www.playhousesquare.org/events/detail/dirty-dancing-in-concert</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/dirty-dancing-in-concert</guid>
+            <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jim Breuer: Survival With Laughter Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Jim Breuer: Survival With Laughter Tour at Playhouse Square on Tuesday, October 24, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/jim-breuer-survival-with-laughter-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/jim-breuer-survival-with-laughter-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/jim-breuer-survival-with-laughter-tour</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pod Save America at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Pod Save America at Playhouse Square on Saturday, October 28, 2023, 08:00 PM: https://www.playhousesquare.org/events/detail/pod-save-america]]></description>
+            <link>https://www.playhousesquare.org/events/detail/pod-save-america</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/pod-save-america</guid>
+            <pubDate>Sun, 29 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Festival of Laughs at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Festival of Laughs at Playhouse Square on Friday, November 10, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/festival-of-laughs-2]]></description>
+            <link>https://www.playhousesquare.org/events/detail/festival-of-laughs-2</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/festival-of-laughs-2</guid>
+            <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joanne Shaw Taylor at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Joanne Shaw Taylor at Playhouse Square on Saturday, November 11, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/joanne-shaw-taylor]]></description>
+            <link>https://www.playhousesquare.org/events/detail/joanne-shaw-taylor</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/joanne-shaw-taylor</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Urban Vibe Presents R&B Groove Thang at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Urban Vibe Presents R&B Groove Thang at Playhouse Square on Thursday, November 23, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang]]></description>
+            <link>https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang</guid>
+            <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cleveland Pops Orchestra HOLIDAY CHEER at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Cleveland Pops Orchestra HOLIDAY CHEER at Playhouse Square on Saturday, November 25, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/cleveland-pops-orchestra-holiday-cheer]]></description>
+            <link>https://www.playhousesquare.org/events/detail/cleveland-pops-orchestra-holiday-cheer</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/cleveland-pops-orchestra-holiday-cheer</guid>
+            <pubDate>Sun, 26 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WGAR Winter Wonder Jam Starring LEE BRICE at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to WGAR Winter Wonder Jam Starring LEE BRICE at Playhouse Square on Wednesday, November 29, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice]]></description>
+            <link>https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Straight No Chaser - Sleighin' It Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Straight No Chaser - Sleighin' It Tour at Playhouse Square on Friday, December 1, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour</guid>
+            <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Legendary Soul Jam at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to The Legendary Soul Jam at Playhouse Square on Friday, December 29, 2023, 07:00 PM: https://www.playhousesquare.org/events/detail/the-legendary-soul-jam]]></description>
+            <link>https://www.playhousesquare.org/events/detail/the-legendary-soul-jam</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/the-legendary-soul-jam</guid>
+            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nimesh Patel: Fast and Loose Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Nimesh Patel: Fast and Loose Tour at Playhouse Square on Saturday, January 20, 2024, 07:00 PM: https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</guid>
+            <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tash Sultana, Go-Jo at Agora]]></title>
@@ -496,8 +811,8 @@
             <pubDate>Sat, 04 Nov 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Teddy Swims at Agora]]></title>
-            <description><![CDATA[Get tickets to Teddy Swims at Agora on Sunday, November 5, 2023, 07:00 PM: https://www.agoracleveland.com/events/detail/488227]]></description>
+            <title><![CDATA[Teddy Swims, Elley Duhé at Agora]]></title>
+            <description><![CDATA[Get tickets to Teddy Swims, Elley Duhé at Agora on Sunday, November 5, 2023, 07:00 PM: https://www.agoracleveland.com/events/detail/488227]]></description>
             <link>https://www.agoracleveland.com/events/detail/488227</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/488227</guid>
             <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
@@ -601,6 +916,13 @@
             <pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CupcakKe at Agora]]></title>
+            <description><![CDATA[Get tickets to CupcakKe at Agora on Saturday, December 16, 2023, 07:00 PM: https://www.agoracleveland.com/events/detail/501510]]></description>
+            <link>https://www.agoracleveland.com/events/detail/501510</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/501510</guid>
+            <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Story of the Year, We the Kings, Youth Fountain at Agora]]></title>
             <description><![CDATA[Get tickets to Story of the Year, We the Kings, Youth Fountain at Agora on Saturday, January 6, 2024, 06:30 PM: https://www.agoracleveland.com/events/detail/498046]]></description>
             <link>https://www.agoracleveland.com/events/detail/498046</link>
@@ -629,6 +951,48 @@
             <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DJ Kishka Happy Hour! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to DJ Kishka Happy Hour! at Happy Dog on Friday, September 15, 2023, 06:00 PM: https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887]]></description>
+            <link>https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887</guid>
+            <pubDate>Fri, 15 Sep 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supercult, Silicon Heartbeat, Slug Fest, Terrycloth Mother at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Supercult, Silicon Heartbeat, Slug Fest, Terrycloth Mother at Happy Dog on Friday, September 15, 2023, 09:00 PM: https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707]]></description>
+            <link>https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/supercult-silicon-heartbeat-slug-fest-terrycloth-mother-tickets-694401542707</guid>
+            <pubDate>Sat, 16 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lowspot, Wig Doubt, Toyon at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Lowspot, Wig Doubt, Toyon at Happy Dog on Saturday, September 16, 2023, 09:00 PM: https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337]]></description>
+            <link>https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337</guid>
+            <pubDate>Sun, 17 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sorry Eric, Kill the Hippies, O.R.P.H.A.N.S. at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Sorry Eric, Kill the Hippies, O.R.P.H.A.N.S. at Happy Dog on Tuesday, September 19, 2023, 09:00 PM: https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157]]></description>
+            <link>https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157</guid>
+            <pubDate>Wed, 20 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classical Revolution Cleveland at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Classical Revolution Cleveland at Happy Dog on Wednesday, September 20, 2023, 08:00 PM: https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307]]></description>
+            <link>https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alien Nosejob, Science Man, The Hell, Perverts Again at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Alien Nosejob, Science Man, The Hell, Perverts Again at Happy Dog on Thursday, September 21, 2023, 09:00 PM: https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597]]></description>
+            <link>https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597</guid>
+            <pubDate>Fri, 22 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Liquidated, TV Drugs, Drug Abuse, Self Checkout at Happy Dog]]></title>
             <description><![CDATA[Get tickets to The Liquidated, TV Drugs, Drug Abuse, Self Checkout at Happy Dog on Friday, September 22, 2023, 09:00 PM: https://www.eventbrite.com/e/the-liquidated-tv-drugs-drug-abuse-self-checkout-tickets-695045930087]]></description>
             <link>https://www.eventbrite.com/e/the-liquidated-tv-drugs-drug-abuse-self-checkout-tickets-695045930087</link>
@@ -636,10 +1000,17 @@
             <pubDate>Sat, 23 Sep 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Private Lives, Wristwatch, DANA, The Missed at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Private Lives, Wristwatch, DANA, The Missed at Happy Dog on Sunday, September 24, 2023, 09:00 PM: https://www.eventbrite.com/e/private-lives-wristwatch-dana-the-missed-tickets-695047103597]]></description>
-            <link>https://www.eventbrite.com/e/private-lives-wristwatch-dana-the-missed-tickets-695047103597</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/private-lives-wristwatch-dana-the-missed-tickets-695047103597</guid>
+            <title><![CDATA[Hyper Viper, Uncanny Valley, Church + State at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Hyper Viper, Uncanny Valley, Church + State at Happy Dog on Saturday, September 23, 2023, 09:00 PM: https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417]]></description>
+            <link>https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417</guid>
+            <pubDate>Sun, 24 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Private Lives, Whippets, DANA, The Missed at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Private Lives, Whippets, DANA, The Missed at Happy Dog on Sunday, September 24, 2023, 09:00 PM: https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597]]></description>
+            <link>https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597</guid>
             <pubDate>Mon, 25 Sep 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
@@ -650,11 +1021,18 @@
             <pubDate>Wed, 27 Sep 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Roselit Bone, Craig Brown Band at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Roselit Bone, Craig Brown Band at Happy Dog on Thursday, September 28, 2023, 09:00 PM: https://www.eventbrite.com/e/roselit-bone-craig-brown-band-tickets-699358619457]]></description>
-            <link>https://www.eventbrite.com/e/roselit-bone-craig-brown-band-tickets-699358619457</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/roselit-bone-craig-brown-band-tickets-699358619457</guid>
+            <title><![CDATA[Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country at Happy Dog on Thursday, September 28, 2023, 09:00 PM: https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457]]></description>
+            <link>https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457</guid>
             <pubDate>Fri, 29 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dentist, Perfect Pals, Parfait Girls at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Dentist, Perfect Pals, Parfait Girls at Happy Dog on Friday, September 29, 2023, 09:00 PM: https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207]]></description>
+            <link>https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207</guid>
+            <pubDate>Sat, 30 Sep 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jyonson Tsu, Brood X, Anteater at Happy Dog]]></title>
@@ -662,6 +1040,20 @@
             <link>https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-tickets-706900236637</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-tickets-706900236637</guid>
             <pubDate>Sun, 01 Oct 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scott Yoder, Oft Dreamy, Confusions at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Scott Yoder, Oft Dreamy, Confusions at Happy Dog on Sunday, October 1, 2023, 09:00 PM: https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607]]></description>
+            <link>https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607</guid>
+            <pubDate>Mon, 02 Oct 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Le Ren, Kid.Tigrrr, Shy Moon at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Le Ren, Kid.Tigrrr, Shy Moon at Happy Dog on Thursday, October 5, 2023, 09:00 PM: https://www.eventbrite.com/e/le-ren-kidtigrrr-shy-moon-tickets-714946954587]]></description>
+            <link>https://www.eventbrite.com/e/le-ren-kidtigrrr-shy-moon-tickets-714946954587</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/le-ren-kidtigrrr-shy-moon-tickets-714946954587</guid>
+            <pubDate>Fri, 06 Oct 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Home Entertainment, Prewn, Buzz Balldrin, Night Medicine at Happy Dog]]></title>
@@ -692,20 +1084,6 @@
             <pubDate>Fri, 13 Oct 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Choke, Narc, Body Farm, Pillars at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Choke, Narc, Body Farm, Pillars at Happy Dog on Tuesday, October 17, 2023, 09:00 PM: https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947]]></description>
-            <link>https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947</guid>
-            <pubDate>Wed, 18 Oct 2023 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Duck Butter, Factual Brains, Lowspot at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Duck Butter, Factual Brains, Lowspot at Happy Dog on Sunday, October 22, 2023, 09:00 PM: https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307]]></description>
-            <link>https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307</guid>
-            <pubDate>Mon, 23 Oct 2023 01:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Buttertones,  New Misphoria & Funeral Proposals at Musica Akron]]></title>
             <description><![CDATA[Get tickets to The Buttertones,  New Misphoria & Funeral Proposals at Musica Akron on Tuesday, September 12, 2023, 08:00 PM: https://www.ticketweb.com/event/the-buttertones-new-misphoria-funeral-musica-tickets/13474928?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
             <link>https://www.ticketweb.com/event/the-buttertones-new-misphoria-funeral-musica-tickets/13474928?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
@@ -725,6 +1103,20 @@
             <link>https://www.ticketweb.com/event/the-last-witch-twin-drugs-musica-tickets/13521378?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/the-last-witch-twin-drugs-musica-tickets/13521378?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Sat, 23 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liam Brock, Zach Beaver & DJ Roza at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to Liam Brock, Zach Beaver & DJ Roza at Musica Akron on Saturday, September 23, 2023, 08:00 PM: https://www.ticketweb.com/event/liam-brock-zach-beaver-dj-musica-tickets/13592508?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/liam-brock-zach-beaver-dj-musica-tickets/13592508?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/liam-brock-zach-beaver-dj-musica-tickets/13592508?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Candace Campana & J Edward at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to Candace Campana & J Edward at Musica Akron on Thursday, September 28, 2023, 08:00 PM: https://www.ticketweb.com/event/candace-campana-j-edward-musica-tickets/13597748?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/candace-campana-j-edward-musica-tickets/13597748?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/candace-campana-j-edward-musica-tickets/13597748?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Worry Club at Musica Akron]]></title>
@@ -748,6 +1140,20 @@
             <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[DIVEBOMB, CHAIN RULE, Frenzy & Nailgun at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to DIVEBOMB, CHAIN RULE, Frenzy & Nailgun at Musica Akron on Wednesday, October 4, 2023, 08:00 PM: https://www.ticketweb.com/event/divebomb-chain-rule-frenzy-nailgun-musica-tickets/13597588?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/divebomb-chain-rule-frenzy-nailgun-musica-tickets/13597588?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/divebomb-chain-rule-frenzy-nailgun-musica-tickets/13597588?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indre, Anya Van Rose & Good Dropouts at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to Indre, Anya Van Rose & Good Dropouts at Musica Akron on Thursday, October 5, 2023, 08:00 PM: https://www.ticketweb.com/event/indre-anya-van-rose-good-musica-tickets/13592418?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/indre-anya-van-rose-good-musica-tickets/13592418?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/indre-anya-van-rose-good-musica-tickets/13592418?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[COLDSTATE, What Lies Below, No Eye Has Seen, Featherweight at Musica Akron]]></title>
             <description><![CDATA[Get tickets to COLDSTATE, What Lies Below, No Eye Has Seen, Featherweight at Musica Akron on Friday, October 6, 2023, 08:00 PM: https://www.ticketweb.com/event/coldstate-what-lies-below-no-musica-tickets/13504048?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
             <link>https://www.ticketweb.com/event/coldstate-what-lies-below-no-musica-tickets/13504048?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
@@ -767,13 +1173,6 @@
             <link>https://www.ticketweb.com/event/chloe-ament-tedious-brief-musica-tickets/13500048?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/chloe-ament-tedious-brief-musica-tickets/13500048?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Sun, 12 Nov 2023 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shinedown: Revolutions Live at Blossom]]></title>
-            <description><![CDATA[Get tickets to Shinedown: Revolutions Live at Blossom on Wednesday, September 6, 2023, 06:40 PM: https://concerts.livenation.com/shinedown-revolutions-live-cuyahoga-falls-ohio-09-06-2023/event/05005E99ED8155A5]]></description>
-            <link>https://concerts.livenation.com/shinedown-revolutions-live-cuyahoga-falls-ohio-09-06-2023/event/05005E99ED8155A5</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/shinedown-revolutions-live-cuyahoga-falls-ohio-09-06-2023/event/05005E99ED8155A5</guid>
-            <pubDate>Wed, 06 Sep 2023 22:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DURAN DURAN: FUTURE PAST at Blossom]]></title>
@@ -846,39 +1245,81 @@
             <pubDate>Fri, 22 Sep 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Corey Taylor at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Corey Taylor at House of Blues on Thursday, September 7, 2023, 06:30 PM: https://concerts.livenation.com/corey-taylor-cleveland-ohio-09-07-2023/event/05005EAA0E8588E5]]></description>
-            <link>https://concerts.livenation.com/corey-taylor-cleveland-ohio-09-07-2023/event/05005EAA0E8588E5</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/corey-taylor-cleveland-ohio-09-07-2023/event/05005EAA0E8588E5</guid>
-            <pubDate>Thu, 07 Sep 2023 22:30:00 GMT</pubDate>
+            <title><![CDATA[Jonas Brothers: FIVE ALBUMS. ONE NIGHT., Lawrence at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Jonas Brothers: FIVE ALBUMS. ONE NIGHT., Lawrence at Rocket Mortgage FieldHouse on Sunday, September 17, 2023, 08:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/jonas-brothers-230918]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/jonas-brothers-230918</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/jonas-brothers-230918</guid>
+            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hulvey: The Beautiful Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Hulvey: The Beautiful Tour at House of Blues on Thursday, September 7, 2023, 07:00 PM: https://concerts.livenation.com/hulvey-the-beautiful-tour-cleveland-ohio-09-07-2023/event/05005EAAB15E6B63]]></description>
-            <link>https://concerts.livenation.com/hulvey-the-beautiful-tour-cleveland-ohio-09-07-2023/event/05005EAAB15E6B63</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/hulvey-the-beautiful-tour-cleveland-ohio-09-07-2023/event/05005EAAB15E6B63</guid>
-            <pubDate>Thu, 07 Sep 2023 23:00:00 GMT</pubDate>
+            <title><![CDATA[Aerosmith: PEACE OUT The Farewell Tour with The Black Crowes at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Aerosmith: PEACE OUT The Farewell Tour with The Black Crowes at Rocket Mortgage FieldHouse on Wednesday, September 20, 2023, 08:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ondara: The Rebirth Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Ondara: The Rebirth Tour at House of Blues on Friday, September 8, 2023, 07:00 PM: https://concerts.livenation.com/ondara-the-rebirth-tour-cleveland-ohio-09-08-2023/event/05005EF1ADFD2BAE]]></description>
-            <link>https://concerts.livenation.com/ondara-the-rebirth-tour-cleveland-ohio-09-08-2023/event/05005EF1ADFD2BAE</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/ondara-the-rebirth-tour-cleveland-ohio-09-08-2023/event/05005EF1ADFD2BAE</guid>
-            <pubDate>Fri, 08 Sep 2023 23:00:00 GMT</pubDate>
+            <title><![CDATA[Greta Van Fleet: Starcatcher World Tour, Surf Curse at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Greta Van Fleet: Starcatcher World Tour, Surf Curse at Rocket Mortgage FieldHouse on Friday, September 22, 2023, 08:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/gvf-230923]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/gvf-230923</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/gvf-230923</guid>
+            <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Cancelled Podcast Tour With Tana Mongeau & Brooke Schofield at House of Blues]]></title>
-            <description><![CDATA[Get tickets to The Cancelled Podcast Tour With Tana Mongeau & Brooke Schofield at House of Blues on Friday, September 8, 2023, 07:30 PM: https://concerts.livenation.com/the-cancelled-podcast-tour-with-tana-cleveland-ohio-09-08-2023/event/05005EEDD7F96B0A]]></description>
-            <link>https://concerts.livenation.com/the-cancelled-podcast-tour-with-tana-cleveland-ohio-09-08-2023/event/05005EEDD7F96B0A</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/the-cancelled-podcast-tour-with-tana-cleveland-ohio-09-08-2023/event/05005EEDD7F96B0A</guid>
-            <pubDate>Fri, 08 Sep 2023 23:30:00 GMT</pubDate>
+            <title><![CDATA[Peter Gabriel: i/o The Tour at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Peter Gabriel: i/o The Tour at Rocket Mortgage FieldHouse on Tuesday, September 26, 2023, 08:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/peter-gabriel-io-the-tour-230927]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/peter-gabriel-io-the-tour-230927</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/peter-gabriel-io-the-tour-230927</guid>
+            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Local Natives: Time Will Wait For No One Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Local Natives: Time Will Wait For No One Tour at House of Blues on Saturday, September 9, 2023, 07:00 PM: https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5]]></description>
-            <link>https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/local-natives-time-will-wait-for-cleveland-ohio-09-09-2023/event/05005EA4F03C66D5</guid>
-            <pubDate>Sat, 09 Sep 2023 23:00:00 GMT</pubDate>
+            <title><![CDATA[Eagles: The Long Goodbye, Steely Dan at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Eagles: The Long Goodbye, Steely Dan at Rocket Mortgage FieldHouse on Monday, October 16, 2023, 08:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/eagles231017]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/eagles231017</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/eagles231017</guid>
+            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KISS: End of the Road Tour at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to KISS: End of the Road Tour at Rocket Mortgage FieldHouse on Saturday, October 21, 2023, 08:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/kiss-231022]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/kiss-231022</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/kiss-231022</guid>
+            <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[P!NK:TRUSTFALL TOUR, w/ Grouplove & KidCutUp at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to P!NK:TRUSTFALL TOUR, w/ Grouplove & KidCutUp at Rocket Mortgage FieldHouse on Tuesday, November 7, 2023, 07:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/pnk-trustfall-tour-231108]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/pnk-trustfall-tour-231108</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/pnk-trustfall-tour-231108</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Depeche Mode: The Memento Mori Tour, DIIV at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Depeche Mode: The Memento Mori Tour, DIIV at Rocket Mortgage FieldHouse on Thursday, November 9, 2023, 07:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/depeche-mode-231110]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/depeche-mode-231110</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/depeche-mode-231110</guid>
+            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WWE Monday Night Raw at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to WWE Monday Night Raw at Rocket Mortgage FieldHouse on Sunday, December 10, 2023, 07:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/wwe-monday-night-raw-231211]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/wwe-monday-night-raw-231211</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/wwe-monday-night-raw-231211</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Playboi Carti: Antagonist Tour, with Homixide Gang, Ken Carson and Destroy Lonely at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Playboi Carti: Antagonist Tour, with Homixide Gang, Ken Carson and Destroy Lonely at Rocket Mortgage FieldHouse on Saturday, February 3, 2024, 07:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/playboi-carti-231015]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/playboi-carti-231015</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/playboi-carti-231015</guid>
+            <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Madonna: The Celebration Tour at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Madonna: The Celebration Tour at Rocket Mortgage FieldHouse on Wednesday, February 7, 2024, 07:00 PM: https://www.rocketmortgagefieldhouse.com/events/detail/madonna-the-celebration-tour-240208]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/madonna-the-celebration-tour-240208</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/madonna-the-celebration-tour-240208</guid>
+            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Everclear with The Ataris at House of Blues]]></title>
@@ -1147,6 +1588,13 @@
             <pubDate>Sat, 28 Oct 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Be Our Guest: A DJ Disney Night at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Be Our Guest: A DJ Disney Night at House of Blues on Friday, November 3, 2023, 07:00 PM: https://concerts.livenation.com/be-our-guest-a-dj-disney-cleveland-ohio-11-03-2023/event/05005F1CDC692A12]]></description>
+            <link>https://concerts.livenation.com/be-our-guest-a-dj-disney-cleveland-ohio-11-03-2023/event/05005F1CDC692A12</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/be-our-guest-a-dj-disney-cleveland-ohio-11-03-2023/event/05005F1CDC692A12</guid>
+            <pubDate>Fri, 03 Nov 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chris Webby at House of Blues]]></title>
             <description><![CDATA[Get tickets to Chris Webby at House of Blues on Sunday, November 5, 2023, 07:00 PM: https://concerts.livenation.com/chris-webby-cleveland-ohio-11-05-2023/event/05005F15D15627C0]]></description>
             <link>https://concerts.livenation.com/chris-webby-cleveland-ohio-11-05-2023/event/05005F15D15627C0</link>
@@ -1182,53 +1630,32 @@
             <pubDate>Tue, 14 Nov 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Austin Lucas, Ty Prager at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Austin Lucas, Ty Prager at Beachland Tavern on Sunday, September 3, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13496558/austin-lucas-ty-prager]]></description>
-            <link>https://www.beachlandballroom.com/e/13496558/austin-lucas-ty-prager</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13496558/austin-lucas-ty-prager</guid>
-            <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+            <title><![CDATA[Petey at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Petey at House of Blues on Wednesday, November 15, 2023, 07:00 PM: https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235]]></description>
+            <link>https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Racket Man, Sun Junkies, Fruitfly, Girl Cologne at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Racket Man, Sun Junkies, Fruitfly, Girl Cologne at Beachland Tavern on Tuesday, September 5, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13508328/racket-man-sun-junkies-fruitfly-girl-cologne]]></description>
-            <link>https://www.beachlandballroom.com/e/13508328/racket-man-sun-junkies-fruitfly-girl-cologne</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13508328/racket-man-sun-junkies-fruitfly-girl-cologne</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+            <title><![CDATA[PlanBri Live at House of Blues]]></title>
+            <description><![CDATA[Get tickets to PlanBri Live at House of Blues on Thursday, November 16, 2023, 06:30 PM: https://concerts.livenation.com/planbri-live-cleveland-ohio-11-16-2023/event/05005F18F19863AA]]></description>
+            <link>https://concerts.livenation.com/planbri-live-cleveland-ohio-11-16-2023/event/05005F18F19863AA</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/planbri-live-cleveland-ohio-11-16-2023/event/05005F18F19863AA</guid>
+            <pubDate>Thu, 16 Nov 2023 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Split Squad, Dave Swanson's Mystery Airship at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Split Squad, Dave Swanson's Mystery Airship at Beachland Tavern on Wednesday, September 6, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13453188/the-split-squad-dave-swanson-s-mystery-airship]]></description>
-            <link>https://www.beachlandballroom.com/e/13453188/the-split-squad-dave-swanson-s-mystery-airship</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13453188/the-split-squad-dave-swanson-s-mystery-airship</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <title><![CDATA[Tropidelic with The Elovators and Shwayze and Surfer Girl at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Tropidelic with The Elovators and Shwayze and Surfer Girl at House of Blues on Friday, November 17, 2023, 06:00 PM: https://concerts.livenation.com/tropidelic-with-the-elovators-and-shwayze-cleveland-ohio-11-17-2023/event/05005EE6ABB62222]]></description>
+            <link>https://concerts.livenation.com/tropidelic-with-the-elovators-and-shwayze-cleveland-ohio-11-17-2023/event/05005EE6ABB62222</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/tropidelic-with-the-elovators-and-shwayze-cleveland-ohio-11-17-2023/event/05005EE6ABB62222</guid>
+            <pubDate>Fri, 17 Nov 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yarn, James McKeivier at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Yarn, James McKeivier at Beachland Tavern on Thursday, September 7, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13364478/yarn-james-mckeivier]]></description>
-            <link>https://www.beachlandballroom.com/e/13364478/yarn-james-mckeivier</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13364478/yarn-james-mckeivier</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drag Pride Showcase at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Drag Pride Showcase at Beachland Ballroom on Friday, September 8, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13449288/drag-pride-showcase]]></description>
-            <link>https://www.beachlandballroom.com/e/13449288/drag-pride-showcase</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13449288/drag-pride-showcase</guid>
-            <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nox Novacula, Hiram-Maxim at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Nox Novacula, Hiram-Maxim at Beachland Tavern on Friday, September 8, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13317238/nox-novacula-hiram-maxim]]></description>
-            <link>https://www.beachlandballroom.com/e/13317238/nox-novacula-hiram-maxim</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13317238/nox-novacula-hiram-maxim</guid>
-            <pubDate>Sat, 09 Sep 2023 00:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waterloo Arts Fest 2023 at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Waterloo Arts Fest 2023 at Beachland Ballroom on Saturday, September 9, 2023, 12:00 PM: https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023]]></description>
-            <link>https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13530968/waterloo-arts-fest-2023</guid>
-            <pubDate>Sat, 09 Sep 2023 16:00:00 GMT</pubDate>
+            <title><![CDATA[Daniel Seavey at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Daniel Seavey at House of Blues on Saturday, November 18, 2023, 07:00 PM: https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41]]></description>
+            <link>https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41</guid>
+            <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jennifer Hartswick Band, Colour Phase at Beachland Ballroom]]></title>
@@ -1257,6 +1684,13 @@
             <link>https://www.beachlandballroom.com/e/13249978/carolyn-wonderland-kristine-jackson</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13249978/carolyn-wonderland-kristine-jackson</guid>
             <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pre/Post Party with DJ Advance at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Pre/Post Party with DJ Advance at Beachland Tavern on Thursday, September 14, 2023, 06:00 PM: https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance]]></description>
+            <link>https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance</guid>
+            <pubDate>Thu, 14 Sep 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Boris + Melvins, Mr. Phylzz at Beachland Ballroom]]></title>
@@ -1294,10 +1728,10 @@
             <pubDate>Mon, 18 Sep 2023 00:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Electric Blue Yonder at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Electric Blue Yonder at Beachland Tavern on Monday, September 18, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13409408/electric-blue-yonder]]></description>
-            <link>https://www.beachlandballroom.com/e/13409408/electric-blue-yonder</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13409408/electric-blue-yonder</guid>
+            <title><![CDATA[Electric Blue Yonder, Clare Feorene at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Electric Blue Yonder, Clare Feorene at Beachland Tavern on Monday, September 18, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene]]></description>
+            <link>https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene</guid>
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1308,10 +1742,10 @@
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boyish at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Boyish at Beachland Tavern on Tuesday, September 19, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13478558/boyish]]></description>
-            <link>https://www.beachlandballroom.com/e/13478558/boyish</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13478558/boyish</guid>
+            <title><![CDATA[Boyish, Ivers, JET STAR at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Boyish, Ivers, JET STAR at Beachland Tavern on Tuesday, September 19, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13478558/boyish-ivers-jet-star]]></description>
+            <link>https://www.beachlandballroom.com/e/13478558/boyish-ivers-jet-star</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13478558/boyish-ivers-jet-star</guid>
             <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1350,11 +1784,25 @@
             <pubDate>Sat, 23 Sep 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pre/Post Party with DJ Snarkeology at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Pre/Post Party with DJ Snarkeology at Beachland Tavern on Sunday, September 24, 2023, 06:00 PM: https://www.beachlandballroom.com/e/13593898/pre-post-party-with-dj-snarkeology]]></description>
+            <link>https://www.beachlandballroom.com/e/13593898/pre-post-party-with-dj-snarkeology</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13593898/pre-post-party-with-dj-snarkeology</guid>
+            <pubDate>Sun, 24 Sep 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Swans, Norman Westberg at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Swans, Norman Westberg at Beachland Ballroom on Sunday, September 24, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13019205/swans-norman-westberg]]></description>
             <link>https://www.beachlandballroom.com/e/13019205/swans-norman-westberg</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13019205/swans-norman-westberg</guid>
             <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Crown Royal Dance Party at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to A Crown Royal Dance Party at Beachland Tavern on Tuesday, September 26, 2023, 06:00 PM: https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party]]></description>
+            <link>https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party</guid>
+            <pubDate>Tue, 26 Sep 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kiefer at Beachland Ballroom]]></title>
@@ -1449,9 +1897,9 @@
         </item>
         <item>
             <title><![CDATA[Cut Worms, Ryder The Eagle at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Cut Worms, Ryder The Eagle at Beachland Ballroom on Friday, October 6, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle]]></description>
-            <link>https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle</guid>
+            <description><![CDATA[Get tickets to Cut Worms, Ryder The Eagle at Beachland Ballroom on Friday, October 6, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus]]></description>
+            <link>https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus</guid>
             <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1553,6 +2001,13 @@
             <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Voices of the Land Acoustic Showcase, Joseph Figueroa (The Rosies), Alex Sclazo (False Teeth/Honeyland), Tessa Smith, Jack McLaughlin at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Voices of the Land Acoustic Showcase, Joseph Figueroa (The Rosies), Alex Sclazo (False Teeth/Honeyland), Tessa Smith, Jack McLaughlin at Beachland Tavern on Thursday, October 19, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13593588/voices-of-the-land-acoustic-showcase-joseph-figueroa-the-rosies-alex-sclazo-false-teeth-honeyland-tessa-smith-jack-mclaughlin]]></description>
+            <link>https://www.beachlandballroom.com/e/13593588/voices-of-the-land-acoustic-showcase-joseph-figueroa-the-rosies-alex-sclazo-false-teeth-honeyland-tessa-smith-jack-mclaughlin</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13593588/voices-of-the-land-acoustic-showcase-joseph-figueroa-the-rosies-alex-sclazo-false-teeth-honeyland-tessa-smith-jack-mclaughlin</guid>
+            <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eggy at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Eggy at Beachland Ballroom on Thursday, October 19, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13453398/eggy]]></description>
             <link>https://www.beachlandballroom.com/e/13453398/eggy</link>
@@ -1599,6 +2054,13 @@
             <description><![CDATA[Get tickets to Laufey, Adam Melchor at  on Tuesday, October 24, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour]]></description>
             <link>https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Arcadian Wild at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Arcadian Wild at Beachland Tavern on Tuesday, October 24, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13593758/the-arcadian-wild]]></description>
+            <link>https://www.beachlandballroom.com/e/13593758/the-arcadian-wild</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13593758/the-arcadian-wild</guid>
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1658,6 +2120,13 @@
             <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Shrapknel, Rich Jones at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Shrapknel, Rich Jones at Beachland Tavern on Wednesday, November 1, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones]]></description>
+            <link>https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones</guid>
+            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Walter Trout at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Walter Trout at Beachland Ballroom on Thursday, November 2, 2023, 07:30 PM: https://www.beachlandballroom.com/e/13392758/walter-trout]]></description>
             <link>https://www.beachlandballroom.com/e/13392758/walter-trout</link>
@@ -1679,10 +2148,10 @@
             <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ryan Montbleau Band at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Ryan Montbleau Band at Beachland Tavern on Saturday, November 4, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band]]></description>
-            <link>https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band</guid>
+            <title><![CDATA[Ryan Montbleau Band, Collin Miller at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Ryan Montbleau Band, Collin Miller at Beachland Tavern on Saturday, November 4, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band-collin-miller]]></description>
+            <link>https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band-collin-miller</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13503188/ryan-montbleau-band-collin-miller</guid>
             <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1812,6 +2281,13 @@
             <pubDate>Fri, 08 Dec 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CLE MOSH at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to CLE MOSH at Beachland Ballroom on Saturday, December 9, 2023, 04:00 PM: https://www.beachlandballroom.com/e/13551688/cle-mosh]]></description>
+            <link>https://www.beachlandballroom.com/e/13551688/cle-mosh</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13551688/cle-mosh</guid>
+            <pubDate>Sat, 09 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Salami Rose Joe Louis at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Salami Rose Joe Louis at Beachland Tavern on Sunday, December 10, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis]]></description>
             <link>https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis</link>
@@ -1833,6 +2309,13 @@
             <pubDate>Sun, 21 Jan 2024 01:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Soiree of the Stallions Charity Concert at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Soiree of the Stallions Charity Concert at Beachland Ballroom on Saturday, January 27, 2024, 03:00 PM: https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert]]></description>
+            <link>https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert</guid>
+            <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Keller Williams at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Keller Williams at Beachland Ballroom on Friday, February 9, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13468278/keller-williams]]></description>
             <link>https://www.beachlandballroom.com/e/13468278/keller-williams</link>
@@ -1845,6 +2328,174 @@
             <link>https://www.beachlandballroom.com/e/13457108/ty-segall</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13457108/ty-segall</guid>
             <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tallah, Convictions, 6Deep at Foundry]]></title>
+            <description><![CDATA[Get tickets to Tallah, Convictions, 6Deep at Foundry on Tuesday, September 12, 2023, 06:30 PM: https://www.foundryconcertclub.com/tm-event/tallah/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/tallah/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/tallah/</guid>
+            <pubDate>Tue, 12 Sep 2023 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Y2KRAY PRESENTS: A FUNDRAISER FOR DEAR JACK FOUNDATION at Foundry]]></title>
+            <description><![CDATA[Get tickets to Y2KRAY PRESENTS: A FUNDRAISER FOR DEAR JACK FOUNDATION at Foundry on Friday, September 15, 2023, 09:00 PM: https://www.foundryconcertclub.com/tm-event/y2kray-presents-a-fundraiser-for-dear-jack-foundation/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/y2kray-presents-a-fundraiser-for-dear-jack-foundation/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/y2kray-presents-a-fundraiser-for-dear-jack-foundation/</guid>
+            <pubDate>Sat, 16 Sep 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dead Earth, Voices Of The Damned, Muerete, Stella Maris, Busby Death Chair at Foundry]]></title>
+            <description><![CDATA[Get tickets to Dead Earth, Voices Of The Damned, Muerete, Stella Maris, Busby Death Chair at Foundry on Saturday, September 16, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/dead-earth-voices-of-the-damned-muerete/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/dead-earth-voices-of-the-damned-muerete/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/dead-earth-voices-of-the-damned-muerete/</guid>
+            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dom Corleo, Yung Kayo at Foundry]]></title>
+            <description><![CDATA[Get tickets to Dom Corleo, Yung Kayo at Foundry on Sunday, September 17, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/</guid>
+            <pubDate>Sun, 17 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Idle Threat, Symphony In Peril, Stay Lost, Thieves Stay Thieves at Foundry]]></title>
+            <description><![CDATA[Get tickets to Idle Threat, Symphony In Peril, Stay Lost, Thieves Stay Thieves at Foundry on Monday, September 18, 2023, 07:30 PM: https://www.foundryconcertclub.com/tm-event/idle-threat-symphony-in-peril-stay-lost-thieves-stay-thieves/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/idle-threat-symphony-in-peril-stay-lost-thieves-stay-thieves/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/idle-threat-symphony-in-peril-stay-lost-thieves-stay-thieves/</guid>
+            <pubDate>Mon, 18 Sep 2023 23:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Hails, Shallow Alcove at Foundry]]></title>
+            <description><![CDATA[Get tickets to The Hails, Shallow Alcove at Foundry on Tuesday, September 19, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/the-hails-shallow-alcove/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/the-hails-shallow-alcove/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-hails-shallow-alcove/</guid>
+            <pubDate>Tue, 19 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sarah and the Safe Word, Bullpup, Rrriot! at Foundry]]></title>
+            <description><![CDATA[Get tickets to Sarah and the Safe Word, Bullpup, Rrriot! at Foundry on Thursday, September 21, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/sarah-and-the-safe-word-bullpup/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/sarah-and-the-safe-word-bullpup/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/sarah-and-the-safe-word-bullpup/</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SIERRA, Nocturnal at Foundry]]></title>
+            <description><![CDATA[Get tickets to SIERRA, Nocturnal at Foundry on Friday, September 22, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/sierra-nocturnal/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/sierra-nocturnal/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/sierra-nocturnal/</guid>
+            <pubDate>Fri, 22 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dead Boys, Lords of the Highway, The Missing at Foundry]]></title>
+            <description><![CDATA[Get tickets to Dead Boys, Lords of the Highway, The Missing at Foundry on Saturday, September 23, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/dead-boys-lords-of-the-highway/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/dead-boys-lords-of-the-highway/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/dead-boys-lords-of-the-highway/</guid>
+            <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MellowLOvation Tour at Foundry]]></title>
+            <description><![CDATA[Get tickets to MellowLOvation Tour at Foundry on Sunday, September 24, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/mellowlovation-tour/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/mellowlovation-tour/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/mellowlovation-tour/</guid>
+            <pubDate>Sun, 24 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tomorrows Ghosts, Ozolith, Thrapple, Velo City at Foundry]]></title>
+            <description><![CDATA[Get tickets to Tomorrows Ghosts, Ozolith, Thrapple, Velo City at Foundry on Friday, September 29, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/tomorrows-ghosts/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/tomorrows-ghosts/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/tomorrows-ghosts/</guid>
+            <pubDate>Sat, 30 Sep 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[/WORSHIP/ at Foundry]]></title>
+            <description><![CDATA[Get tickets to /WORSHIP/ at Foundry on Sunday, October 1, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/worship/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/worship/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/worship/</guid>
+            <pubDate>Sun, 01 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Red Pears, Mexican Slum Rats, 60 Juno at Foundry]]></title>
+            <description><![CDATA[Get tickets to The Red Pears, Mexican Slum Rats, 60 Juno at Foundry on Tuesday, October 3, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/the-red-pears-mexican-slum-rats-60-juno/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/the-red-pears-mexican-slum-rats-60-juno/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-red-pears-mexican-slum-rats-60-juno/</guid>
+            <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shaggy 2 Dope, DJ Clay, Hexxx, Lardi B, Face, Down 2 Grind, Zak Da Terror at Foundry]]></title>
+            <description><![CDATA[Get tickets to Shaggy 2 Dope, DJ Clay, Hexxx, Lardi B, Face, Down 2 Grind, Zak Da Terror at Foundry on Friday, October 6, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/shaggy-2-dope-dj-clay/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/shaggy-2-dope-dj-clay/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/shaggy-2-dope-dj-clay/</guid>
+            <pubDate>Fri, 06 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Catbamboo, Sweet Myths at Foundry]]></title>
+            <description><![CDATA[Get tickets to Catbamboo, Sweet Myths at Foundry on Sunday, October 8, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/catbamboo-sweet-myths/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/catbamboo-sweet-myths/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/catbamboo-sweet-myths/</guid>
+            <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Invent Animate, Void of Vision, Thrown, Aviana at Foundry]]></title>
+            <description><![CDATA[Get tickets to Invent Animate, Void of Vision, Thrown, Aviana at Foundry on Monday, October 9, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/invent-animate-void-of-vision-thrown-aviana/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/invent-animate-void-of-vision-thrown-aviana/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/invent-animate-void-of-vision-thrown-aviana/</guid>
+            <pubDate>Mon, 09 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monuments, For The Fallen Dreams, Vrsty at Foundry]]></title>
+            <description><![CDATA[Get tickets to Monuments, For The Fallen Dreams, Vrsty at Foundry on Tuesday, October 10, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/monuments-for-the-fallen-dreams-vrsty/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/monuments-for-the-fallen-dreams-vrsty/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/monuments-for-the-fallen-dreams-vrsty/</guid>
+            <pubDate>Tue, 10 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moon Tooth, Her Familiar, Soleo at Foundry]]></title>
+            <description><![CDATA[Get tickets to Moon Tooth, Her Familiar, Soleo at Foundry on Wednesday, October 11, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/moon-tooth-her-familiar-soleo/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/moon-tooth-her-familiar-soleo/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/moon-tooth-her-familiar-soleo/</guid>
+            <pubDate>Wed, 11 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Demun Jones, Dusty Leigh at Foundry]]></title>
+            <description><![CDATA[Get tickets to Demun Jones, Dusty Leigh at Foundry on Thursday, October 12, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/demun-jones/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/demun-jones/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/demun-jones/</guid>
+            <pubDate>Thu, 12 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Static Wake, Audience Of Rain, Titans In Time, Adrift On River Styx, 6Deep at Foundry]]></title>
+            <description><![CDATA[Get tickets to The Static Wake, Audience Of Rain, Titans In Time, Adrift On River Styx, 6Deep at Foundry on Saturday, October 14, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/the-static-wake-audience-of-rain-titans-in-time-adrift-on-river-styx-6deep/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/the-static-wake-audience-of-rain-titans-in-time-adrift-on-river-styx-6deep/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-static-wake-audience-of-rain-titans-in-time-adrift-on-river-styx-6deep/</guid>
+            <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three Little Pigs 30th Anniversary Tour at Foundry]]></title>
+            <description><![CDATA[Get tickets to Three Little Pigs 30th Anniversary Tour at Foundry on Sunday, October 15, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/three-little-pigs-30th-anniversary-tour/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/three-little-pigs-30th-anniversary-tour/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/three-little-pigs-30th-anniversary-tour/</guid>
+            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frayle, GRVE, Bonded By Darkness at Foundry]]></title>
+            <description><![CDATA[Get tickets to Frayle, GRVE, Bonded By Darkness at Foundry on Friday, October 20, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/frayle/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/frayle/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/frayle/</guid>
+            <pubDate>Sat, 21 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Benefit For Mark Bedford at Foundry]]></title>
+            <description><![CDATA[Get tickets to A Benefit For Mark Bedford at Foundry on Sunday, October 22, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/a-benefit-for-mark-bedford/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/a-benefit-for-mark-bedford/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/a-benefit-for-mark-bedford/</guid>
+            <pubDate>Sun, 22 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lonewolf, TBA, Deadscar, xEighty-Sixedx at Foundry]]></title>
+            <description><![CDATA[Get tickets to Lonewolf, TBA, Deadscar, xEighty-Sixedx at Foundry on Friday, October 27, 2023, 06:30 PM: https://www.foundryconcertclub.com/tm-event/lonewolf-tba-deadscar-xeighty-sixedx/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/lonewolf-tba-deadscar-xeighty-sixedx/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/lonewolf-tba-deadscar-xeighty-sixedx/</guid>
+            <pubDate>Fri, 27 Oct 2023 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drawn and Quartered, Fulci, Molder at Foundry]]></title>
@@ -1924,55 +2575,6 @@
             <pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Geauxt Studios and Global Nation Presentsd : V'z and Friends., Bloz, Aviator Ju, Lamboza at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Geauxt Studios and Global Nation Presentsd : V'z and Friends., Bloz, Aviator Ju, Lamboza at Grog Shop on Sunday, September 3, 2023, 09:00 PM: https://grogshop.gs/event-details/13438108/geauxt-studios-and-global-nation-presentsd-v-z-and-friends-]]></description>
-            <link>https://grogshop.gs/event-details/13438108/geauxt-studios-and-global-nation-presentsd-v-z-and-friends-</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13438108/geauxt-studios-and-global-nation-presentsd-v-z-and-friends-</guid>
-            <pubDate>Mon, 04 Sep 2023 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murder By Death, Saintseneca at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Murder By Death, Saintseneca at Grog Shop on Tuesday, September 5, 2023, 08:00 PM: https://grogshop.gs/event-details/13102265/murder-by-death-saintseneca]]></description>
-            <link>https://grogshop.gs/event-details/13102265/murder-by-death-saintseneca</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13102265/murder-by-death-saintseneca</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alex Cameron & Roy Molloy, Toyon, Mikey Silas at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Alex Cameron & Roy Molloy, Toyon, Mikey Silas at Grog Shop on Thursday, September 7, 2023, 08:00 PM: https://grogshop.gs/event-details/13495618/alex-cameron-roy-molloy]]></description>
-            <link>https://grogshop.gs/event-details/13495618/alex-cameron-roy-molloy</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13495618/alex-cameron-roy-molloy</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SE SO NEON at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to SE SO NEON at Grog Shop on Friday, September 8, 2023, 07:30 PM: https://grogshop.gs/event-details/13368048/se-so-neon]]></description>
-            <link>https://grogshop.gs/event-details/13368048/se-so-neon</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13368048/se-so-neon</guid>
-            <pubDate>Fri, 08 Sep 2023 23:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pro3 Entertainment and The 5th Coast Presents : The Podcasters Mixer and Live filming at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Pro3 Entertainment and The 5th Coast Presents : The Podcasters Mixer and Live filming at Grog Shop on Friday, September 8, 2023, 10:00 PM: https://grogshop.gs/event-details/13497238/pro3-entertainment-and-the-5th-coast-presents-the-podcasters-mixer-and-live-filming]]></description>
-            <link>https://grogshop.gs/event-details/13497238/pro3-entertainment-and-the-5th-coast-presents-the-podcasters-mixer-and-live-filming</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13497238/pro3-entertainment-and-the-5th-coast-presents-the-podcasters-mixer-and-live-filming</guid>
-            <pubDate>Sat, 09 Sep 2023 02:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Local Natives: Time Will Wait For No One Tour WSG HalfNoise at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Local Natives: Time Will Wait For No One Tour WSG HalfNoise at Grog Shop on Saturday, September 9, 2023, 08:00 PM: https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise]]></description>
-            <link>https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13218358/local-natives-time-will-wait-for-no-one-tour-wsg-halfnoise</guid>
-            <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Bones of J.R. Jones, Benjamin Dakota Rogers, The Brakes at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Bones of J.R. Jones, Benjamin Dakota Rogers, The Brakes at Grog Shop on Saturday, September 9, 2023, 08:30 PM: https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones]]></description>
-            <link>https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13339468/the-bones-of-j-r-jones</guid>
-            <pubDate>Sun, 10 Sep 2023 00:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mustard Plug, The Toasters, Half Past Two, Low Morale at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Mustard Plug, The Toasters, Half Past Two, Low Morale at Grog Shop on Sunday, September 10, 2023, 07:30 PM: https://grogshop.gs/event-details/13106325/mustard-plug-the-toasters]]></description>
             <link>https://grogshop.gs/event-details/13106325/mustard-plug-the-toasters</link>
@@ -2050,10 +2652,10 @@
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Space Cadets, Dishwasher Possum, Lake Effect at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Space Cadets, Dishwasher Possum, Lake Effect at Grog Shop on Tuesday, September 19, 2023, 07:30 PM: https://grogshop.gs/event-details/13563018/the-space-cadets-dishwasher-possum-lake-effect]]></description>
-            <link>https://grogshop.gs/event-details/13563018/the-space-cadets-dishwasher-possum-lake-effect</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13563018/the-space-cadets-dishwasher-possum-lake-effect</guid>
+            <title><![CDATA[The Space Cadets & Lake Effect at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Space Cadets & Lake Effect at Grog Shop on Tuesday, September 19, 2023, 07:30 PM: https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect]]></description>
+            <link>https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect</guid>
             <pubDate>Tue, 19 Sep 2023 23:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2106,8 +2708,15 @@
             <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jesse Jo Stark, Rachel Bobbitt at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Jesse Jo Stark, Rachel Bobbitt at Grog Shop on Tuesday, September 26, 2023, 08:00 PM: https://grogshop.gs/event-details/13352558/jesse-jo-stark]]></description>
+            <title><![CDATA[R Squared Studios Presents : The Tale Of A City Part 3, Fatham From Hands Of Fe, The N9NE, Sonic Boom, Thicarus at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to R Squared Studios Presents : The Tale Of A City Part 3, Fatham From Hands Of Fe, The N9NE, Sonic Boom, Thicarus at Grog Shop on Monday, September 25, 2023, 07:00 PM: https://grogshop.gs/event-details/13597638/r-squared-studios-presents-the-tale-of-a-city-part-3]]></description>
+            <link>https://grogshop.gs/event-details/13597638/r-squared-studios-presents-the-tale-of-a-city-part-3</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13597638/r-squared-studios-presents-the-tale-of-a-city-part-3</guid>
+            <pubDate>Mon, 25 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jesse Jo Stark, Rachel Bobbitt, Charity Cunningham at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Jesse Jo Stark, Rachel Bobbitt, Charity Cunningham at Grog Shop on Tuesday, September 26, 2023, 08:00 PM: https://grogshop.gs/event-details/13352558/jesse-jo-stark]]></description>
             <link>https://grogshop.gs/event-details/13352558/jesse-jo-stark</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13352558/jesse-jo-stark</guid>
             <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
@@ -2351,6 +2960,13 @@
             <pubDate>Sun, 05 Nov 2023 00:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Goatwhore, Withered, Spiter at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Goatwhore, Withered, Spiter at Grog Shop on Wednesday, November 8, 2023, 08:00 PM: https://grogshop.gs/event-details/13598718/goatwhore-withered-spiter]]></description>
+            <link>https://grogshop.gs/event-details/13598718/goatwhore-withered-spiter</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13598718/goatwhore-withered-spiter</guid>
+            <pubDate>Thu, 09 Nov 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beauty School Dropout, Not A Toy, Ava Maybee at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Beauty School Dropout, Not A Toy, Ava Maybee at Grog Shop on Friday, November 10, 2023, 08:00 PM: https://grogshop.gs/event-details/13522888/beauty-school-dropout]]></description>
             <link>https://grogshop.gs/event-details/13522888/beauty-school-dropout</link>
@@ -2379,6 +2995,13 @@
             <pubDate>Wed, 15 Nov 2023 00:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Myth and Company Single Release "OCB", Myth and Company, Burning River at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Myth and Company Single Release "OCB", Myth and Company, Burning River at Grog Shop on Thursday, November 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13597838/myth-and-company-single-release-ocb-]]></description>
+            <link>https://grogshop.gs/event-details/13597838/myth-and-company-single-release-ocb-</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13597838/myth-and-company-single-release-ocb-</guid>
+            <pubDate>Fri, 17 Nov 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Skuff Micksun "Wrapped Up In Wind Album Release" ft Peachcurls and TBA, Peachcurls at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Skuff Micksun "Wrapped Up In Wind Album Release" ft Peachcurls and TBA, Peachcurls at Grog Shop on Saturday, November 18, 2023, 08:00 PM: https://grogshop.gs/event-details/13568818/skuff-micksun-wrapped-up-in-wind-album-release-ft-peachcurls-and-tba]]></description>
             <link>https://grogshop.gs/event-details/13568818/skuff-micksun-wrapped-up-in-wind-album-release-ft-peachcurls-and-tba</link>
@@ -2386,11 +3009,25 @@
             <pubDate>Sun, 19 Nov 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aaron Smith & RDAA, Billie Mitchell at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Aaron Smith & RDAA, Billie Mitchell at Grog Shop on Monday, November 20, 2023, 08:00 PM: https://grogshop.gs/event-details/13593748/aaron-smith-rdaa-billie-mitchell]]></description>
+            <link>https://grogshop.gs/event-details/13593748/aaron-smith-rdaa-billie-mitchell</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13593748/aaron-smith-rdaa-billie-mitchell</guid>
+            <pubDate>Tue, 21 Nov 2023 01:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BRUJERIA: Esto Es Tour 2023, Piñata Protest, NO/MAS at Grog Shop]]></title>
             <description><![CDATA[Get tickets to BRUJERIA: Esto Es Tour 2023, Piñata Protest, NO/MAS at Grog Shop on Friday, November 24, 2023, 06:30 PM: https://grogshop.gs/event-details/13470718/brujeria-esto-es-tour-2023]]></description>
             <link>https://grogshop.gs/event-details/13470718/brujeria-esto-es-tour-2023</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13470718/brujeria-esto-es-tour-2023</guid>
             <pubDate>Fri, 24 Nov 2023 23:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jon Spencer at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Jon Spencer at Grog Shop on Saturday, November 25, 2023, 09:00 PM: https://grogshop.gs/event-details/13579978/jon-spencer]]></description>
+            <link>https://grogshop.gs/event-details/13579978/jon-spencer</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13579978/jon-spencer</guid>
+            <pubDate>Sun, 26 Nov 2023 02:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GlamGore: Galactic Ghouls, Anhedonia Delight at Grog Shop]]></title>
@@ -2421,46 +3058,11 @@
             <pubDate>Sat, 16 Dec 2023 01:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SPIRIT OF THE BEEHIVE at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to SPIRIT OF THE BEEHIVE at Mahall’s on Tuesday, September 5, 2023, 07:00 PM: https://link.dice.fm/Fb5914061072]]></description>
-            <link>https://link.dice.fm/Fb5914061072</link>
-            <guid isPermaLink="true">https://link.dice.fm/Fb5914061072</guid>
-            <pubDate>Tue, 05 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kurt Travis at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Kurt Travis at Mahall’s on Wednesday, September 6, 2023, 06:00 PM: https://link.dice.fm/W165d3961beb]]></description>
-            <link>https://link.dice.fm/W165d3961beb</link>
-            <guid isPermaLink="true">https://link.dice.fm/W165d3961beb</guid>
-            <pubDate>Wed, 06 Sep 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AFTER LIKE: a K-pop themed dance party at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to AFTER LIKE: a K-pop themed dance party at Mahall’s on Thursday, September 7, 2023, 08:00 PM: https://link.dice.fm/ba9246cc4cc5]]></description>
-            <link>https://link.dice.fm/ba9246cc4cc5</link>
-            <guid isPermaLink="true">https://link.dice.fm/ba9246cc4cc5</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Born Without Bones "Baby" 10 year anniversary tour at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Born Without Bones "Baby" 10 year anniversary tour at Mahall’s on Friday, September 8, 2023, 07:00 PM: https://link.dice.fm/t94aca80dd05]]></description>
-            <link>https://link.dice.fm/t94aca80dd05</link>
-            <guid isPermaLink="true">https://link.dice.fm/t94aca80dd05</guid>
-            <pubDate>Fri, 08 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Honey Pocket at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Honey Pocket at Mahall’s on Saturday, September 9, 2023, 07:00 PM: https://link.dice.fm/z5acb49bcca5]]></description>
-            <link>https://link.dice.fm/z5acb49bcca5</link>
-            <guid isPermaLink="true">https://link.dice.fm/z5acb49bcca5</guid>
-            <pubDate>Sat, 09 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michael Turner at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Michael Turner at Mahall’s Apartment on Saturday, September 9, 2023, 07:00 PM: https://link.dice.fm/Ya876ce6f4c1]]></description>
-            <link>https://link.dice.fm/Ya876ce6f4c1</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ya876ce6f4c1</guid>
-            <pubDate>Sat, 09 Sep 2023 23:00:00 GMT</pubDate>
+            <title><![CDATA[CupcakKe at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to CupcakKe at Grog Shop on Saturday, December 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13604468/cupcakke]]></description>
+            <link>https://grogshop.gs/event-details/13604468/cupcakke</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13604468/cupcakke</guid>
+            <pubDate>Sun, 17 Dec 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dayseeker at The Roxy at Mahall’s]]></title>
@@ -2757,6 +3359,13 @@
             <pubDate>Tue, 17 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emblem3 at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 06:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
+            <link>https://link.dice.fm/ve8a20f788c7</link>
+            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
+            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s on Friday, October 20, 2023, 06:00 PM: https://link.dice.fm/S333ab788856]]></description>
             <link>https://link.dice.fm/S333ab788856</link>
@@ -2764,11 +3373,11 @@
             <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emblem3 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 06:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
-            <link>https://link.dice.fm/ve8a20f788c7</link>
-            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
-            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+            <title><![CDATA[Broadway Rave at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Broadway Rave at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/m5c4833fc334]]></description>
+            <link>https://link.dice.fm/m5c4833fc334</link>
+            <guid isPermaLink="true">https://link.dice.fm/m5c4833fc334</guid>
+            <pubDate>Sat, 21 Oct 2023 02:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Krooked Kings at Mahall’s]]></title>
@@ -2785,6 +3394,13 @@
             <pubDate>Sat, 21 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Smiths vs. The Cure dance party at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to The Smiths vs. The Cure dance party at Mahall’s on Saturday, October 21, 2023, 10:00 PM: https://link.dice.fm/od0e0cc30775]]></description>
+            <link>https://link.dice.fm/od0e0cc30775</link>
+            <guid isPermaLink="true">https://link.dice.fm/od0e0cc30775</guid>
+            <pubDate>Sun, 22 Oct 2023 02:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Belmont and Can't Swim at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Belmont and Can't Swim at Mahall’s on Sunday, October 22, 2023, 06:00 PM: https://link.dice.fm/r96a272cc1ab]]></description>
             <link>https://link.dice.fm/r96a272cc1ab</link>
@@ -2796,6 +3412,13 @@
             <description><![CDATA[Get tickets to Annie Dukes at Mahall’s Apartment on Tuesday, October 24, 2023, 07:00 PM: https://link.dice.fm/Gd2cf5c8f6ca]]></description>
             <link>https://link.dice.fm/Gd2cf5c8f6ca</link>
             <guid isPermaLink="true">https://link.dice.fm/Gd2cf5c8f6ca</guid>
+            <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Radiator Hospital at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Radiator Hospital at Mahall’s on Tuesday, October 24, 2023, 07:00 PM: https://link.dice.fm/S73e91266b0a]]></description>
+            <link>https://link.dice.fm/S73e91266b0a</link>
+            <guid isPermaLink="true">https://link.dice.fm/S73e91266b0a</guid>
             <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2869,6 +3492,13 @@
             <pubDate>Thu, 09 Nov 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rumours ATL: The Live Fleetwood Mac Experience at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Rumours ATL: The Live Fleetwood Mac Experience at The Roxy at Mahall’s on Sunday, November 12, 2023, 06:30 PM: https://link.dice.fm/Mdff2de0fb11]]></description>
+            <link>https://link.dice.fm/Mdff2de0fb11</link>
+            <guid isPermaLink="true">https://link.dice.fm/Mdff2de0fb11</guid>
+            <pubDate>Sun, 12 Nov 2023 23:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chase Petra and Carpool Tunnel at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Chase Petra and Carpool Tunnel at Mahall’s on Tuesday, November 14, 2023, 07:00 PM: https://link.dice.fm/m8113a5c6215]]></description>
             <link>https://link.dice.fm/m8113a5c6215</link>
@@ -2902,6 +3532,13 @@
             <link>https://link.dice.fm/G75fd065ef75</link>
             <guid isPermaLink="true">https://link.dice.fm/G75fd065ef75</guid>
             <pubDate>Sat, 18 Nov 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cochise at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Cochise at Mahall’s on Saturday, November 18, 2023, 07:00 PM: https://link.dice.fm/S3b4449419fd]]></description>
+            <link>https://link.dice.fm/S3b4449419fd</link>
+            <guid isPermaLink="true">https://link.dice.fm/S3b4449419fd</guid>
+            <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Wild Life at Mahall’s]]></title>
@@ -2939,6 +3576,13 @@
             <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Princess Chelsea at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Princess Chelsea at Mahall’s on Friday, December 8, 2023, 07:00 PM: https://link.dice.fm/C12136fca41b]]></description>
+            <link>https://link.dice.fm/C12136fca41b</link>
+            <guid isPermaLink="true">https://link.dice.fm/C12136fca41b</guid>
+            <pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Oso Oso at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Oso Oso at Mahall’s on Sunday, December 10, 2023, 07:00 PM: https://link.dice.fm/X3e730b069c8]]></description>
             <link>https://link.dice.fm/X3e730b069c8</link>
@@ -2951,6 +3595,13 @@
             <link>https://link.dice.fm/V5b92716e486</link>
             <guid isPermaLink="true">https://link.dice.fm/V5b92716e486</guid>
             <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Big Something: Headspace Tour at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Big Something: Headspace Tour at Mahall’s on Thursday, April 11, 2024, 07:00 PM: https://link.dice.fm/md45554ce3c8]]></description>
+            <link>https://link.dice.fm/md45554ce3c8</link>
+            <guid isPermaLink="true">https://link.dice.fm/md45554ce3c8</guid>
+            <pubDate>Thu, 11 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soen at The Roxy at Mahall’s]]></title>

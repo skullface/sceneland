@@ -37,5 +37,5 @@ export default async function generateRssFeed() {
       })
   })
 
-  fs.writeFileSync('./public/rss.xml', feed.xml({ indent: true }))
+  fs.writeFileSync('./public/feed.xml', feed.xml({ indent: true }))
 }

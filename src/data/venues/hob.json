@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Everclear with The Ataris"
-    ],
-    "link": "https://concerts.livenation.com/everclear-with-the-ataris-cleveland-ohio-09-11-2023/event/05005EA8EC439B84",
-    "date": "2023-09-11T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "ZZ Ward: One Hell Of A Night Tour"
-    ],
-    "link": "https://concerts.livenation.com/zz-ward-one-hell-of-a-cleveland-ohio-09-12-2023/event/05005ED69AB73C3C",
-    "date": "2023-09-12T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Poppy & PVRIS: Godless / Goddess Tour"
     ],
     "link": "https://concerts.livenation.com/poppy-pvris-godless-goddess-tour-cleveland-ohio-09-14-2023/event/05005E83BD6B1C51",
@@ -305,6 +289,14 @@
   },
   {
     "artist": [
+      "Hunter Hayes: The Red Sky Tour Continued"
+    ],
+    "link": "https://concerts.livenation.com/hunter-hayes-the-red-sky-tour-cleveland-ohio-11-02-2023/event/05005F25DCE72B24",
+    "date": "2023-11-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Be Our Guest: A DJ Disney Night"
     ],
     "link": "https://concerts.livenation.com/be-our-guest-a-dj-disney-cleveland-ohio-11-03-2023/event/05005F1CDC692A12",
@@ -317,6 +309,14 @@
     ],
     "link": "https://concerts.livenation.com/chris-webby-cleveland-ohio-11-05-2023/event/05005F15D15627C0",
     "date": "2023-11-05T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Coco Jones: What I Didn't Tell You Tour Part II"
+    ],
+    "link": "https://concerts.livenation.com/coco-jones-what-i-didnt-tell-cleveland-ohio-11-07-2023/event/05005F2927CF85DD",
+    "date": "2023-11-07T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -377,10 +377,10 @@
   },
   {
     "artist": [
-      "Daniel Seavey"
+      "Ekoostik Hookah"
     ],
-    "link": "https://concerts.livenation.com/daniel-seavey-cleveland-ohio-11-18-2023/event/05005F03E7707E41",
-    "date": "2023-11-18T19:00:00",
+    "link": "https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-24-2023/event/05005E7ECC57495A",
+    "date": "2023-11-24T18:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Tallah, Convictions, 6Deep"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/tallah/",
-    "date": "2023-09-12T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Y2KRAY PRESENTS: A FUNDRAISER FOR DEAR JACK FOUNDATION"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/y2kray-presents-a-fundraiser-for-dear-jack-foundation/",
@@ -113,14 +105,6 @@
   },
   {
     "artist": [
-      "Catbamboo, Sweet Myths"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/catbamboo-sweet-myths/",
-    "date": "2023-10-08T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Invent Animate, Void of Vision, Thrown, Aviana"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/invent-animate-void-of-vision-thrown-aviana/",
@@ -153,6 +137,14 @@
   },
   {
     "artist": [
+      "Fight From Within, Exitwounds, For Absent Friends"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/fight-from-within-exitwounds-for-absent-friends/",
+    "date": "2023-10-13T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "The Static Wake, Audience Of Rain, Titans In Time, Adrift On River Styx, 6Deep"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-static-wake-audience-of-rain-titans-in-time-adrift-on-river-styx-6deep/",
@@ -173,6 +165,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/frayle/",
     "date": "2023-10-20T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "HALLOWEEN FLEA MARKET"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/halloween-flea-market/",
+    "date": "2023-10-21T12:00:00",
     "venue": "Foundry"
   },
   {
@@ -209,10 +209,26 @@
   },
   {
     "artist": [
+      "The Old Breed, The Brazen Rogues"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-old-breed-the-brazen-rogues/",
+    "date": "2023-11-03T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "She 1 Him 2, Two Forks, Crune"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/she-1-him-2-two-forks-crune/",
     "date": "2023-11-04T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "2 Shadows"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/2-shadows/",
+    "date": "2023-11-07T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -269,6 +285,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nine-of-clubs-reunion-lestat/",
     "date": "2023-11-22T22:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Priscilla, Kidd Wicked, Sammy T\u2019s Sideshow, Vultan"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/priscilla-kidd-wicked-sammy-ts-sideshow-vultan/",
+    "date": "2023-12-01T19:00:00",
     "venue": "Foundry"
   },
   {

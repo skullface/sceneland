@@ -1,33 +1,6 @@
 [
   {
     "artist": [
-      "Chris Pureka",
-      "Kym Register"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13281188/chris-pureka-kym-register",
-    "date": "2023-09-11T19:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "The Band of Heathens",
-      "Lilly Hiatt"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13234928/the-band-of-heathens-lilly-hiatt",
-    "date": "2023-09-12T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Carolyn Wonderland",
-      "Kristine Jackson"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13249978/carolyn-wonderland-kristine-jackson",
-    "date": "2023-09-12T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Pre/Post Party with DJ Advance"
     ],
     "link": "https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance",
@@ -101,9 +74,9 @@
   {
     "artist": [
       "David Wain & Ken Marino's Middle Age Dad Jam Band",
-      "Mood Music by DJ Bethanderin"
+      "special guests Kathryn Hahn and Craig Wedren"
     ],
-    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-mood-music-by-dj-bethanderin",
+    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-special-guests-kathryn-hahn-and-craig-wedren",
     "date": "2023-09-18T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -119,9 +92,10 @@
   },
   {
     "artist": [
-      "Veronica Swift"
+      "Veronica Swift",
+      "Colin Palmieri"
     ],
-    "link": "https://www.beachlandballroom.com/e/13405078/veronica-swift",
+    "link": "https://www.beachlandballroom.com/e/13405078/veronica-swift-colin-palmieri",
     "date": "2023-09-20T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -145,18 +119,40 @@
     "venue": "Beachland Tavern"
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13617008/this-way-out",
+    "date": "2023-09-22T12:00:00",
+    "venue": ""
+  },
+  {
     "artist": [
-      "DEVOtional 2023"
+      "DEVOtional 2023",
+      "Fantastic Plastics",
+      "Malcolm Tent",
+      "Bamboo Bimbos",
+      "DEVOID"
     ],
-    "link": "https://www.beachlandballroom.com/e/13155948/devotional-2023",
+    "link": "https://www.beachlandballroom.com/e/13155948/devotional-2023-fantastic-plastics-malcolm-tent-bamboo-bimbos-devoid",
     "date": "2023-09-22T19:00:00",
     "venue": "Beachland Ballroom"
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13617028/this-way-out",
+    "date": "2023-09-23T12:00:00",
+    "venue": ""
+  },
+  {
     "artist": [
-      "DEVOtional 2023"
+      "DEVOtional 2023",
+      "Detention",
+      "Fight Milk",
+      "Raffle",
+      "Massive Hot Dog Recall",
+      "Delaney Jane",
+      "DJ Lance",
+      "Muzzle",
+      "Johnny Spud"
     ],
-    "link": "https://www.beachlandballroom.com/e/13155958/devotional-2023",
+    "link": "https://www.beachlandballroom.com/e/13155958/devotional-2023-detention-fight-milk-raffle-massive-hot-dog-recall-delaney-jane-dj-lance-muzzle-johnny-spud",
     "date": "2023-09-23T15:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -180,6 +176,15 @@
   },
   {
     "artist": [
+      "BrewDog Beachland BINGO",
+      "DJ Advance"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13622228/brewdog-beachland-bingo-dj-advance",
+    "date": "2023-09-25T19:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "A Crown Royal Dance Party"
     ],
     "link": "https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party",
@@ -188,9 +193,10 @@
   },
   {
     "artist": [
-      "Kiefer"
+      "Kiefer",
+      "Nathan-Paul"
     ],
-    "link": "https://www.beachlandballroom.com/e/13446918/kiefer",
+    "link": "https://www.beachlandballroom.com/e/13446918/kiefer-nathan-paul",
     "date": "2023-09-26T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -205,9 +211,11 @@
   },
   {
     "artist": [
-      "Hotel Fiction"
+      "Hotel Fiction",
+      "Rent For Cheryl",
+      "Dishwasher Possum"
     ],
-    "link": "https://www.beachlandballroom.com/e/13517988/hotel-fiction",
+    "link": "https://www.beachlandballroom.com/e/13517988/hotel-fiction-rent-for-cheryl-dishwasher-possum",
     "date": "2023-09-27T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -285,28 +293,11 @@
   },
   {
     "artist": [
-      "Boy Pablo"
-    ],
-    "link": "https://www.beachlandballroom.com/e/11955005/boy-pablo",
-    "date": "2023-10-04T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "MSPAINT"
     ],
     "link": "https://www.beachlandballroom.com/e/13573458/mspaint",
     "date": "2023-10-05T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Cut Worms",
-      "Ryder The Eagle"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus",
-    "date": "2023-10-06T20:00:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -316,6 +307,16 @@
     "link": "https://www.beachlandballroom.com/e/13396368/bitchin-bajas-swisher",
     "date": "2023-10-06T20:30:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Cut Worms",
+      "Ryder The Eagle",
+      "Simon & the Apparatus"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus",
+    "date": "2023-10-06T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -482,6 +483,14 @@
   },
   {
     "artist": [
+      "Fright Night: Masters of Horror A Burlesque Revue"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13529668/fright-night-masters-of-horror-a-burlesque-revue",
+    "date": "2023-10-21T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Zach Nugent's Dead Set"
     ],
     "link": "https://www.beachlandballroom.com/e/13364038/zach-nugent-s-dead-set",
@@ -593,19 +602,12 @@
   {
     "artist": [
       "Shrapknel",
-      "Rich Jones"
+      "Rich Jones",
+      "Eliy Orcko"
     ],
-    "link": "https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones",
+    "link": "https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones-eliy-orcko",
     "date": "2023-11-01T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Walter Trout"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13392758/walter-trout",
-    "date": "2023-11-02T19:30:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -616,6 +618,15 @@
     "link": "https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center",
     "date": "2023-11-02T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Walter Trout",
+      "Sam Hooper"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13392758/walter-trout-sam-hooper",
+    "date": "2023-11-02T19:30:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -799,6 +810,14 @@
   },
   {
     "artist": [
+      "Heartless Bastards"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13608708/heartless-bastards",
+    "date": "2023-12-08T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "CLE MOSH"
     ],
     "link": "https://www.beachlandballroom.com/e/13551688/cle-mosh",
@@ -807,9 +826,10 @@
   },
   {
     "artist": [
-      "Salami Rose Joe Louis"
+      "Salami Rose Joe Louis",
+      "Me:You"
     ],
-    "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis",
+    "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis-me-you",
     "date": "2023-12-10T20:00:00",
     "venue": "Beachland Tavern"
   },

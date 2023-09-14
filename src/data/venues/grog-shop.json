@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "Fred Mascherino (The Color Fred",
-      "ex-Taking Back Sunday)",
-      "Learning Curve",
-      "Messmaker"
-    ],
-    "link": "https://grogshop.gs/event-details/13434768/fred-mascherino-the-color-fred-ex-taking-back-sunday-",
-    "date": "2023-09-11T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Hot Goss: The Improvised Musical"
-    ],
-    "link": "https://grogshop.gs/event-details/13501108/hot-goss-the-improvised-musical",
-    "date": "2023-09-12T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "John Kalman",
-      "Parfait Girls",
-      "Dana Perry",
-      "Chris Anderson.",
-      "John Kalmam",
-      "Chris Anderson"
-    ],
-    "link": "https://grogshop.gs/event-details/13453518/john-kalman-w-parfait-girls-dana-perry-chris-anderson-",
-    "date": "2023-09-12T21:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Midnight Rental presents Secret Movie Night"
-    ],
-    "link": "https://grogshop.gs/event-details/13396978/midnight-rental-presents-secret-movie-night",
-    "date": "2023-09-13T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "BORIS and MELVINS",
       "Mr. Phylzzz"
     ],
@@ -62,7 +22,8 @@
   {
     "artist": [
       "The Milk Carton Kids: I Only See The Moon Tour",
-      "Charlie Hickey"
+      "Charlie Hickey",
+      "Tom Evanchuck"
     ],
     "link": "https://grogshop.gs/event-details/13239558/the-milk-carton-kids-i-only-see-the-moon-tour",
     "date": "2023-09-15T20:30:00",
@@ -98,7 +59,8 @@
   },
   {
     "artist": [
-      "The Space Cadets & Lake Effect"
+      "The Space Cadets & Lake Effect",
+      "No Pitches?"
     ],
     "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect",
     "date": "2023-09-19T19:30:00",
@@ -221,6 +183,18 @@
   },
   {
     "artist": [
+      "Lack Of Direction",
+      "Millions of Mighty Horses",
+      "Shabang",
+      "Mossom",
+      "MOSSOM"
+    ],
+    "link": "https://grogshop.gs/event-details/13626288/lack-of-direction-millions-of-mighty-horses-shabang-mossom",
+    "date": "2023-09-30T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Ohio Against The World Tour Ft. Retro Pharaoh",
       "Retro Pharaoh"
     ],
@@ -308,6 +282,14 @@
   },
   {
     "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/event-details/13630468/make-em-laugh-mondays-hosted-by-kevin-ford",
+    "date": "2023-10-09T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "CIVIC, The Hell, Show Pink"
     ],
     "link": "https://grogshop.gs/event-details/13195478/civic-the-hell-show-pink",
@@ -317,10 +299,26 @@
   {
     "artist": [
       "Low Cut Connie",
-      "Matthew Logan Vasquez"
+      "Matthew Logan Vasquez",
+      "Jack Harris"
     ],
     "link": "https://grogshop.gs/event-details/13155818/low-cut-connie",
     "date": "2023-10-11T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "FALL KICKOFF 2023",
+      "Forced Happiness",
+      "Eaten By Kittens",
+      "Pink Maskerade",
+      "Fatal Union",
+      "Miguel Cafe",
+      "The Evan Furillo Project",
+      "Jack and the Cadavers"
+    ],
+    "link": "https://grogshop.gs/event-details/13622238/fall-kickoff-2023",
+    "date": "2023-10-12T19:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -408,6 +406,14 @@
   },
   {
     "artist": [
+      "Carlos Jones (+)"
+    ],
+    "link": "https://grogshop.gs/event-details/13630738/carlos-jones-",
+    "date": "2023-10-21T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Will Butler + Sister Squares",
       "False Teeth"
     ],
@@ -476,7 +482,7 @@
       "Bandaid Brigade"
     ],
     "link": "https://grogshop.gs/event-details/13288578/skinny-lister",
-    "date": "2023-10-30T19:00:00",
+    "date": "2023-10-30T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -508,9 +514,10 @@
     "artist": [
       "Goatwhore",
       "Withered",
-      "Spiter"
+      "Spiter",
+      "Axioma"
     ],
-    "link": "https://grogshop.gs/event-details/13598718/goatwhore-withered-spiter",
+    "link": "https://grogshop.gs/event-details/13598718/goatwhore-withered-spiter-axioma",
     "date": "2023-11-08T20:00:00",
     "venue": "Grog Shop"
   },
@@ -561,10 +568,11 @@
   },
   {
     "artist": [
-      "Skuff Micksun \"Wrapped Up In Wind Album Release\" ft Peachcurls and TBA",
-      "Peachcurls"
+      "Skuff Micksun \"Wrapped Up In Wind Album Release\" ft Peachcurls and Radderall",
+      "Peachcurls",
+      "Radderall"
     ],
-    "link": "https://grogshop.gs/event-details/13568818/skuff-micksun-wrapped-up-in-wind-album-release-ft-peachcurls-and-tba",
+    "link": "https://grogshop.gs/event-details/13568818/skuff-micksun-wrapped-up-in-wind-album-release-ft-peachcurls-and-radderall",
     "date": "2023-11-18T20:00:00",
     "venue": "Grog Shop"
   },
@@ -574,6 +582,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13593748/aaron-smith-rdaa-billie-mitchell",
     "date": "2023-11-20T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "ACO a tribute to Rob Williams"
+    ],
+    "link": "https://grogshop.gs/event-details/13622688/aco-a-tribute-to-rob-williams",
+    "date": "2023-11-21T19:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -614,6 +630,14 @@
   },
   {
     "artist": [
+      "Teenage Halloween, Grievance Club, Biitchseat"
+    ],
+    "link": "https://grogshop.gs/event-details/13593298/teenage-halloween-grievance-club-biitchseat",
+    "date": "2023-12-07T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Total Downer",
       "Wish Queen",
       "Charity Cunningham",
@@ -637,6 +661,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13604468/cupcakke",
     "date": "2023-12-16T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Horse Lords",
+      "Ka Baird"
+    ],
+    "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird",
+    "date": "2024-03-14T20:00:00",
     "venue": "Grog Shop"
   }
 ]

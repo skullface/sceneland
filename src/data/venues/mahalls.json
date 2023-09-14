@@ -1,31 +1,6 @@
 [
   {
     "artist": [
-      "Dayseeker"
-    ],
-    "link": "https://link.dice.fm/u04095dbbc48",
-    "sold_out": true,
-    "date": "2023-09-12T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Mahall's Vegan Market"
-    ],
-    "link": "https://link.dice.fm/F56b5955189f",
-    "date": "2023-09-13T17:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "After The Burial"
-    ],
-    "link": "https://link.dice.fm/Fb105ba1801a",
-    "date": "2023-09-13T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Red Jumpsuit Apparatus"
     ],
     "link": "https://link.dice.fm/paedde883895",
@@ -83,19 +58,19 @@
   },
   {
     "artist": [
-      "Tigercub"
-    ],
-    "link": "https://link.dice.fm/Zcdf94528bf8",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Provoker"
     ],
     "link": "https://link.dice.fm/ud683cc3ca26",
     "date": "2023-09-20T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Tigercub"
+    ],
+    "link": "https://link.dice.fm/Zcdf94528bf8",
+    "date": "2023-09-20T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -124,19 +99,19 @@
   },
   {
     "artist": [
-      "Autopilot"
-    ],
-    "link": "https://link.dice.fm/T4381d524f65",
-    "date": "2023-09-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "The Astronomers"
     ],
     "link": "https://link.dice.fm/s4cada23b8e0",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Autopilot"
+    ],
+    "link": "https://link.dice.fm/T4381d524f65",
+    "date": "2023-09-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -205,19 +180,19 @@
   },
   {
     "artist": [
-      "French Cassettes"
-    ],
-    "link": "https://link.dice.fm/i9d3198de992",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "George Clanton"
     ],
     "link": "https://link.dice.fm/o5e5253cefd2",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "French Cassettes"
+    ],
+    "link": "https://link.dice.fm/i9d3198de992",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -253,19 +228,19 @@
   },
   {
     "artist": [
-      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
-    ],
-    "link": "https://link.dice.fm/d079039b50bc",
-    "date": "2023-10-08T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Kate Bollinger"
     ],
     "link": "https://link.dice.fm/P8653582ac4e",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
+    ],
+    "link": "https://link.dice.fm/d079039b50bc",
+    "date": "2023-10-08T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -309,10 +284,10 @@
   },
   {
     "artist": [
-      "Superheaven"
+      "The Monster Ball: an all Lady Gaga dance party"
     ],
-    "link": "https://link.dice.fm/Xe6acf311944",
-    "date": "2023-10-14T19:00:00-04:00",
+    "link": "https://link.dice.fm/o6d3c68f54bb",
+    "date": "2023-10-14T20:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -341,19 +316,19 @@
   },
   {
     "artist": [
-      "SUICIDE SILENCE AND CHELSEA GRIN "
-    ],
-    "link": "https://link.dice.fm/S333ab788856",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Emblem3"
     ],
     "link": "https://link.dice.fm/ve8a20f788c7",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "SUICIDE SILENCE AND CHELSEA GRIN "
+    ],
+    "link": "https://link.dice.fm/S333ab788856",
+    "date": "2023-10-20T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -417,6 +392,14 @@
     ],
     "link": "https://link.dice.fm/Q89c1c620f45",
     "date": "2023-10-25T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Spooky Jukey: Halloween Emo Night"
+    ],
+    "link": "https://link.dice.fm/C350a313ae5a",
+    "date": "2023-10-27T21:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

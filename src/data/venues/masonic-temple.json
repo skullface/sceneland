@@ -1,13 +1,5 @@
 [
   {
-    "artist": [
-      "Danzig"
-    ],
-    "link": "https://www.ticketmaster.com/danzig-cleveland-ohio-09-13-2023/event/05005EB9864118B4",
-    "date": "2023-09-13T18:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
     "link": "https://www.ticketmaster.com/aiw-jt-lightning-invitational-tournament-night-cleveland-ohio-09-15-2023/event/05005EFB19F39317",
     "date": "2023-09-15T19:30:00",
     "venue": "Masonic Temple"
@@ -217,6 +209,14 @@
     ],
     "link": "https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A",
     "date": "2023-11-18T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Heather Land Live!"
+    ],
+    "link": "https://www.ticketmaster.com/heather-land-live-cleveland-ohio-12-02-2023/event/05005F27B87A32AD",
+    "date": "2023-12-02T20:00:00",
     "venue": "Masonic Temple"
   },
   {

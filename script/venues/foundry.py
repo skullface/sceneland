@@ -17,7 +17,7 @@ for url_page in url_pages:
   shows = calendar.find_all("div", class_="tw-section")
 
   def should_skip_artist(artist_text):
-    excluded_keywords = ['Last Call Trivia', 'Taco Tuesday', 'Burger', 'Pop-Up', 'Dance Party']
+    excluded_keywords = ['Last Call Trivia', 'Taco Tuesday', 'Burger', 'Pop-Up', 'POP UP', 'Dance Party']
     return any(keyword in artist_text for keyword in excluded_keywords)
 
   for show in shows:

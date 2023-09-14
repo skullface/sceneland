@@ -18,7 +18,7 @@ try:
   load_more_button.click()
   time.sleep(2)
 except NoSuchElementException:
-  print('“Load more button” not found, continuing without clicking.')
+  pass
 
 soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', {'data-testid': 'organizer-profile__future-events'})

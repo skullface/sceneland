@@ -1,22 +1,5 @@
 [
   {
-    "artist": [
-      "Pre/Post Party with DJ Advance"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance",
-    "date": "2023-09-14T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Boris + Melvins",
-      "Mr. Phylzz"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13298248/boris-melvins-mr-phylzz",
-    "date": "2023-09-14T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
     "link": "https://www.beachlandballroom.com/e/13592328/this-way-out",
     "date": "2023-09-15T12:00:00",
     "venue": ""
@@ -338,6 +321,14 @@
   },
   {
     "artist": [
+      "Richard Shack and Friends"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13630978/richard-shack-and-friends",
+    "date": "2023-10-08T14:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Cam Cole",
       "Arthur Buezo"
     ],
@@ -407,6 +398,14 @@
     "link": "https://www.beachlandballroom.com/e/13346238/lewsberg-obnox-wrong-places",
     "date": "2023-10-14T20:30:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "BIRTH"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13632058/birth",
+    "date": "2023-10-15T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -793,20 +792,20 @@
   },
   {
     "artist": [
-      "Pigeons Playing Ping Pong",
-      "Broccoli Samurai"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13483268/pigeons-playing-ping-pong-broccoli-samurai",
-    "date": "2023-12-07T19:15:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Robert Jon & The Wreck"
     ],
     "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
     "date": "2023-12-07T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Pigeons Playing Ping Pong",
+      "Broccoli Samurai"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13483268/pigeons-playing-ping-pong-broccoli-samurai",
+    "date": "2023-12-07T19:15:00",
+    "venue": ""
   },
   {
     "artist": [

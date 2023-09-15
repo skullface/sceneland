@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "BORIS and MELVINS",
-      "Mr. Phylzzz"
-    ],
-    "link": "https://grogshop.gs/event-details/13297938/boris-and-melvins",
-    "sold_out": true,
-    "date": "2023-09-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Joe Hertler & The Rainbow Seekers",
-      "Rubix Groove",
-      "Melted Strawberry"
-    ],
-    "link": "https://grogshop.gs/event-details/13466168/joe-hertler-the-rainbow-seekers-rubix-groove-melted-strawberry",
-    "date": "2023-09-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Milk Carton Kids: I Only See The Moon Tour",
       "Charlie Hickey",
       "Tom Evanchuck"
@@ -59,10 +39,11 @@
   },
   {
     "artist": [
-      "The Space Cadets & Lake Effect",
+      "The Space Cadets",
+      "Lake Effect",
       "No Pitches?"
     ],
-    "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect",
+    "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect-no-pitches-",
     "date": "2023-09-19T19:30:00",
     "venue": "Grog Shop"
   },
@@ -242,6 +223,16 @@
     ],
     "link": "https://grogshop.gs/event-details/12967605/arooj-aftab-vijay-iyer-shahzad-ismaily-love-in-exile-trio",
     "date": "2023-10-04T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "PAL",
+      "Anti-Feds",
+      "Bigg Egg"
+    ],
+    "link": "https://grogshop.gs/event-details/13632628/pal-anti-feds-bigg-egg",
+    "date": "2023-10-04T20:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -477,6 +468,16 @@
   },
   {
     "artist": [
+      "Wish Queen \"Saturnalia\" Album Release",
+      "Radderall",
+      "tessas"
+    ],
+    "link": "https://grogshop.gs/event-details/13630848/wish-queen-saturnalia-album-release",
+    "date": "2023-10-29T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Skinny Lister",
       "PET NEEDS",
       "Bandaid Brigade"
@@ -508,6 +509,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13527238/airiel-tallies-niights-bleeder",
     "date": "2023-11-04T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Party for the Peace Park : A Fundraiser for Coventry Peace Park",
+      "Grandview"
+    ],
+    "link": "https://grogshop.gs/event-details/13631648/party-for-the-peace-park-a-fundraiser-for-coventry-peace-park",
+    "date": "2023-11-05T16:30:00",
     "venue": "Grog Shop"
   },
   {

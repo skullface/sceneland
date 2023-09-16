@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jim Gaffigan: Barely Alive Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/jim-gaffigan-barely-alive-tour",
-    "date": "2023-09-14",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Kathleen Madigan: Boxed Wine & Tiny Banjos"
     ],
     "link": "https://www.playhousesquare.org/events/detail/kathleen-madigan-boxed-wine-tiny-banjos",
@@ -73,17 +65,17 @@
   },
   {
     "artist": [
-      "An Evening with David Sedaris"
+      "Ryan Hamilton"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/an-evening-with-david-sedaris",
+    "link": "https://www.playhousesquare.org/events/detail/ryan-hamilton-1",
     "date": "2023-10-14",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Ryan Hamilton"
+      "An Evening with David Sedaris"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/ryan-hamilton-1",
+    "link": "https://www.playhousesquare.org/events/detail/an-evening-with-david-sedaris",
     "date": "2023-10-14",
     "venue": "Playhouse Square"
   },

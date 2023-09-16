@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "DJ Kishka Happy Hour!"
-    ],
-    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-706936093887",
-    "date": "2023-09-15T18:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Supercult, Slug Fest, Terrycloth Mother"
-    ],
-    "link": "https://www.eventbrite.com/e/supercult-slug-fest-terrycloth-mother-tickets-694401542707",
-    "date": "2023-09-15T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Lowspot, Wig Doubt, Toyon"
     ],
     "link": "https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337",
@@ -177,6 +161,22 @@
     ],
     "link": "https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437",
     "date": "2023-10-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Ace of Wands, Slow Wake"
+    ],
+    "link": "https://www.eventbrite.com/e/ace-of-wands-slow-wake-tickets-718847290597",
+    "date": "2023-10-13T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Backbiter, xEighty-Sixedx, Unvow"
+    ],
+    "link": "https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707",
+    "date": "2023-10-14T21:00:00",
     "venue": "Happy Dog"
   }
 ]

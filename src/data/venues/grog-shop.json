@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "The Milk Carton Kids: I Only See The Moon Tour",
-      "Charlie Hickey",
-      "Tom Evanchuck"
-    ],
-    "link": "https://grogshop.gs/event-details/13239558/the-milk-carton-kids-i-only-see-the-moon-tour",
-    "date": "2023-09-15T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Fake Names",
       "The Missed",
       "Public Squares"
@@ -99,7 +89,7 @@
       "Soul Blind"
     ],
     "link": "https://grogshop.gs/event-details/13420068/helmet-soul-blind",
-    "date": "2023-09-23T20:00:00",
+    "date": "2023-09-23T20:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -676,9 +666,10 @@
   {
     "artist": [
       "Horse Lords",
-      "Ka Baird"
+      "Ka Baird",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird",
+    "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo",
     "date": "2024-03-14T20:00:00",
     "venue": "Grog Shop"
   }

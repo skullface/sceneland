@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Drew Holcomb & The Neighbors: Find Your People Tour"
-    ],
-    "link": "https://concerts.livenation.com/drew-holcomb-the-neighbors-find-your-cleveland-ohio-09-15-2023/event/05005E8DE19D4A49",
-    "date": "2023-09-15T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Here Come the Mummies"
     ],
     "link": "https://concerts.livenation.com/here-come-the-mummies-cleveland-ohio-09-16-2023/event/05005E92CA5A2911",
@@ -365,6 +357,14 @@
     ],
     "link": "https://concerts.livenation.com/tropidelic-with-the-elovators-and-shwayze-cleveland-ohio-11-17-2023/event/05005EE6ABB62222",
     "date": "2023-11-17T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Avery Anna"
+    ],
+    "link": "https://concerts.livenation.com/avery-anna-cleveland-ohio-11-17-2023/event/05005F2DBFEC3323",
+    "date": "2023-11-17T19:00:00",
     "venue": "House of Blues"
   },
   {

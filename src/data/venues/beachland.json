@@ -1,19 +1,5 @@
 [
   {
-    "link": "https://www.beachlandballroom.com/e/13592328/this-way-out",
-    "date": "2023-09-15T12:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Clem Snide",
-      "Rye Valley"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13155758/clem-snide-rye-valley",
-    "date": "2023-09-15T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
     "artist": [
       "Sabor! A Latin Burlesque & Drag"
     ],
@@ -57,9 +43,9 @@
   {
     "artist": [
       "David Wain & Ken Marino's Middle Age Dad Jam Band",
-      "special guests Kathryn Hahn and Craig Wedren"
+      "special guests Kathryn Hahn, Amy Miles, Craig Wedren, and James Eason"
     ],
-    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-special-guests-kathryn-hahn-and-craig-wedren",
+    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-special-guests-kathryn-hahn-amy-miles-craig-wedren-and-james-eason",
     "date": "2023-09-18T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -691,6 +677,14 @@
     "link": "https://www.beachlandballroom.com/e/13465208/screaming-females-dusk-grumpy-plum",
     "date": "2023-11-08T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Wayne Baker Brooks"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks",
+    "date": "2023-11-08T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

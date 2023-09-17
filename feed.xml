@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 Sep 2023 09:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 09:06:44 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Dead Earth, Voices Of The Damned, Muerete, Stella Maris, Busby Death Chair at Foundry]]></title>
-            <description><![CDATA[Get tickets to Dead Earth, Voices Of The Damned, Muerete, Stella Maris, Busby Death Chair at Foundry on Saturday, September 16, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/dead-earth-voices-of-the-damned-muerete/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/dead-earth-voices-of-the-damned-muerete/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/dead-earth-voices-of-the-damned-muerete/</guid>
-            <pubDate>Sat, 16 Sep 2023 20:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Dom Corleo, Yung Kayo at Foundry]]></title>
             <description><![CDATA[Get tickets to Dom Corleo, Yung Kayo at Foundry on Sunday, September 17, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/]]></description>
@@ -266,13 +259,6 @@
             <pubDate>Sun, 03 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Two Mile Moon at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Two Mile Moon at Masonic Temple on Saturday, September 16, 2023, 08:00 PM: https://www.ticketmaster.com/two-mile-moon-cleveland-ohio-09-16-2023/event/05005F07B07322A8]]></description>
-            <link>https://www.ticketmaster.com/two-mile-moon-cleveland-ohio-09-16-2023/event/05005F07B07322A8</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/two-mile-moon-cleveland-ohio-09-16-2023/event/05005F07B07322A8</guid>
-            <pubDate>Sat, 16 Sep 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Asking Alexandria and The Hu at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Asking Alexandria and The Hu at Masonic Temple on Tuesday, September 19, 2023, 06:30 PM: https://www.ticketmaster.com/asking-alexandria-the-hu-cleveland-ohio-09-19-2023/event/05005ECCD49D4139]]></description>
             <link>https://www.ticketmaster.com/asking-alexandria-the-hu-cleveland-ohio-09-19-2023/event/05005ECCD49D4139</link>
@@ -419,6 +405,13 @@
             <pubDate>Sat, 18 Nov 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Honor Fight Championship MMA Fights at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Honor Fight Championship MMA Fights at Masonic Temple on Saturday, November 25, 2023, 06:00 PM: https://www.ticketmaster.com/honor-fight-championship-mma-fights-cleveland-ohio-11-25-2023/event/05005F2FF24A623B]]></description>
+            <link>https://www.ticketmaster.com/honor-fight-championship-mma-fights-cleveland-ohio-11-25-2023/event/05005F2FF24A623B</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/honor-fight-championship-mma-fights-cleveland-ohio-11-25-2023/event/05005F2FF24A623B</guid>
+            <pubDate>Sat, 25 Nov 2023 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Heather Land Live! at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Heather Land Live! at Masonic Temple on Saturday, December 2, 2023, 08:00 PM: https://www.ticketmaster.com/heather-land-live-cleveland-ohio-12-02-2023/event/05005F27B87A32AD]]></description>
             <link>https://www.ticketmaster.com/heather-land-live-cleveland-ohio-12-02-2023/event/05005F27B87A32AD</link>
@@ -438,13 +431,6 @@
             <link>https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339</guid>
             <pubDate>Sun, 17 Dec 2023 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lowspot, Wig Doubt, Toyon at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Lowspot, Wig Doubt, Toyon at Happy Dog on Saturday, September 16, 2023, 09:00 PM: https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337]]></description>
-            <link>https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337</guid>
-            <pubDate>Sat, 16 Sep 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sorry Eric, Kill the Hippies, O.R.P.H.A.N.S. at Happy Dog]]></title>
@@ -580,11 +566,11 @@
             <pubDate>Sat, 14 Oct 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brandi Carlile at Blossom]]></title>
-            <description><![CDATA[Get tickets to Brandi Carlile at Blossom on Saturday, September 16, 2023, 07:30 PM: https://concerts.livenation.com/brandi-carlile-cuyahoga-falls-ohio-09-16-2023/event/05005E99DDC448B7]]></description>
-            <link>https://concerts.livenation.com/brandi-carlile-cuyahoga-falls-ohio-09-16-2023/event/05005E99DDC448B7</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/brandi-carlile-cuyahoga-falls-ohio-09-16-2023/event/05005E99DDC448B7</guid>
-            <pubDate>Sat, 16 Sep 2023 19:30:00 GMT</pubDate>
+            <title><![CDATA[Necromoon, The Magnavox's, Edwin Agustin Jr at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Necromoon, The Magnavox's, Edwin Agustin Jr at Happy Dog on Sunday, October 15, 2023, 09:00 PM: https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987]]></description>
+            <link>https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987</guid>
+            <pubDate>Sun, 15 Oct 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jason Aldean: Highway Desperado Tour 2023 at Blossom]]></title>
@@ -788,13 +774,6 @@
             <link>https://www.eventbrite.com/e/regurgitation-tickets-716501734977</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/regurgitation-tickets-716501734977</guid>
             <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here Come the Mummies at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Here Come the Mummies at House of Blues on Saturday, September 16, 2023, 07:00 PM: https://concerts.livenation.com/here-come-the-mummies-cleveland-ohio-09-16-2023/event/05005E92CA5A2911]]></description>
-            <link>https://concerts.livenation.com/here-come-the-mummies-cleveland-ohio-09-16-2023/event/05005E92CA5A2911</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/here-come-the-mummies-cleveland-ohio-09-16-2023/event/05005E92CA5A2911</guid>
-            <pubDate>Sat, 16 Sep 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[half·alive: Conditions of a Punk at House of Blues]]></title>
@@ -1126,11 +1105,11 @@
             <pubDate>Sat, 25 Nov 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CAKE at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to CAKE at Jacobs Pavilion at Nautica on Saturday, September 16, 2023, 11:00 PM: https://www.axs.com/events/482364/cake-tickets]]></description>
-            <link>https://www.axs.com/events/482364/cake-tickets</link>
-            <guid isPermaLink="true">https://www.axs.com/events/482364/cake-tickets</guid>
-            <pubDate>Sat, 16 Sep 2023 23:00:00 GMT</pubDate>
+            <title><![CDATA[NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues]]></title>
+            <description><![CDATA[Get tickets to NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues on Tuesday, November 28, 2023, 07:00 PM: https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1]]></description>
+            <link>https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1</guid>
+            <pubDate>Tue, 28 Nov 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nathaniel Rateliff & The Night Sweats at Jacobs Pavilion at Nautica]]></title>
@@ -1145,13 +1124,6 @@
             <link>https://www.axs.com/events/480989/parkway-drive-tickets</link>
             <guid isPermaLink="true">https://www.axs.com/events/480989/parkway-drive-tickets</guid>
             <pubDate>Fri, 22 Sep 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Mars Volta Tour, Teri Gender Bender at Agora]]></title>
-            <description><![CDATA[Get tickets to The Mars Volta Tour, Teri Gender Bender at Agora on Saturday, September 16, 2023, 07:00 PM: https://www.agoracleveland.com/events/detail/482231]]></description>
-            <link>https://www.agoracleveland.com/events/detail/482231</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/482231</guid>
-            <pubDate>Sat, 16 Sep 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Royal Blood, Bad Nerves at Agora]]></title>
@@ -1462,13 +1434,6 @@
             <pubDate>Sat, 02 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kathleen Madigan: Boxed Wine & Tiny Banjos at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Kathleen Madigan: Boxed Wine & Tiny Banjos at Playhouse Square on Saturday, September 16, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/kathleen-madigan-boxed-wine-tiny-banjos]]></description>
-            <link>https://www.playhousesquare.org/events/detail/kathleen-madigan-boxed-wine-tiny-banjos</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/kathleen-madigan-boxed-wine-tiny-banjos</guid>
-            <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tina Fey & Amy Poehler: Restless Leg Tour at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Tina Fey & Amy Poehler: Restless Leg Tour at Playhouse Square on Thursday, September 21, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour]]></description>
             <link>https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour</link>
@@ -1609,20 +1574,6 @@
             <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cleveland Pride Band presents Legacy at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Cleveland Pride Band presents Legacy at Playhouse Square on Saturday, September 16, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/cleveland-pride-band-presents-legacy]]></description>
-            <link>https://www.playhousesquare.org/events/detail/cleveland-pride-band-presents-legacy</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/cleveland-pride-band-presents-legacy</guid>
-            <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is Jesus: A Worship Concert Event Starring Michael W. Smith with Jordin Sparks ft. Jordan Smith at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to This is Jesus: A Worship Concert Event Starring Michael W. Smith with Jordin Sparks ft. Jordan Smith at Playhouse Square on Saturday, September 16, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/this-is-jesus-a-worship-concert-event-starring-michael-w-smith-with-jordin-sparks-ft-jordan-smith]]></description>
-            <link>https://www.playhousesquare.org/events/detail/this-is-jesus-a-worship-concert-event-starring-michael-w-smith-with-jordin-sparks-ft-jordan-smith</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/this-is-jesus-a-worship-concert-event-starring-michael-w-smith-with-jordin-sparks-ft-jordan-smith</guid>
-            <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Herb Alpert And Lani Hall in Concert at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Herb Alpert And Lani Hall in Concert at Playhouse Square on Sunday, September 17, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert]]></description>
             <link>https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert</link>
@@ -1754,13 +1705,6 @@
             <link>https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</guid>
             <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fake Names, The Missed, Public Squares at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Fake Names, The Missed, Public Squares at Grog Shop on Saturday, September 16, 2023, 08:30 PM: https://grogshop.gs/event-details/13230278/fake-names-the-missed-public-squares]]></description>
-            <link>https://grogshop.gs/event-details/13230278/fake-names-the-missed-public-squares</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13230278/fake-names-the-missed-public-squares</guid>
-            <pubDate>Sat, 16 Sep 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Night Beats, Moonwalks, Nail Biters at Grog Shop]]></title>
@@ -2260,20 +2204,6 @@
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sabor! A Latin Burlesque & Drag at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Sabor! A Latin Burlesque & Drag at Beachland Ballroom on Friday, September 15, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag]]></description>
-            <link>https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag</guid>
-            <pubDate>Fri, 15 Sep 2023 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deke Dickerson with Crazy Joe Tritschler & Kyle Eldridge, Joey Simeone (The Bellfuries) at ]]></title>
-            <description><![CDATA[Get tickets to Deke Dickerson with Crazy Joe Tritschler & Kyle Eldridge, Joey Simeone (The Bellfuries) at  on Saturday, September 16, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13503618/deke-dickerson-with-crazy-joe-tritschler-kyle-eldridge-joey-simeone-the-bellfuries-]]></description>
-            <link>https://www.beachlandballroom.com/e/13503618/deke-dickerson-with-crazy-joe-tritschler-kyle-eldridge-joey-simeone-the-bellfuries-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13503618/deke-dickerson-with-crazy-joe-tritschler-kyle-eldridge-joey-simeone-the-bellfuries-</guid>
-            <pubDate>Sat, 16 Sep 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Osees, Population II at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Osees, Population II at Beachland Ballroom on Sunday, September 17, 2023, 08:30 PM: https://www.beachlandballroom.com/e/12868355/osees-population-ii]]></description>
             <link>https://www.beachlandballroom.com/e/12868355/osees-population-ii</link>
@@ -2281,8 +2211,8 @@
             <pubDate>Sun, 17 Sep 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Electric Blue Yonder, Clare Feorene at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Electric Blue Yonder, Clare Feorene at Beachland Tavern on Monday, September 18, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene]]></description>
+            <title><![CDATA[Electric Blue Yonder, Clare Feorene at ]]></title>
+            <description><![CDATA[Get tickets to Electric Blue Yonder, Clare Feorene at  on Monday, September 18, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene]]></description>
             <link>https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene</guid>
             <pubDate>Mon, 18 Sep 2023 20:00:00 GMT</pubDate>
@@ -3002,13 +2932,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Thing With Feathers at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Thing With Feathers at Mahall’s on Saturday, September 16, 2023, 11:00 PM: https://link.dice.fm/a81e9d6045e3]]></description>
-            <link>https://link.dice.fm/a81e9d6045e3</link>
-            <guid isPermaLink="true">https://link.dice.fm/a81e9d6045e3</guid>
-            <pubDate>Sat, 16 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[nothing, nowhere. at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to nothing, nowhere. at The Roxy at Mahall’s on Sunday, September 17, 2023, 10:00 PM: https://link.dice.fm/Yc671f228cb0]]></description>
             <link>https://link.dice.fm/Yc671f228cb0</link>
@@ -3037,17 +2960,17 @@
             <pubDate>Tue, 19 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tigercub at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Tigercub at Mahall’s on Wednesday, September 20, 2023, 11:00 PM: https://link.dice.fm/Zcdf94528bf8]]></description>
-            <link>https://link.dice.fm/Zcdf94528bf8</link>
-            <guid isPermaLink="true">https://link.dice.fm/Zcdf94528bf8</guid>
-            <pubDate>Wed, 20 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Provoker at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Provoker at Mahall’s Apartment on Wednesday, September 20, 2023, 11:00 PM: https://link.dice.fm/ud683cc3ca26]]></description>
             <link>https://link.dice.fm/ud683cc3ca26</link>
             <guid isPermaLink="true">https://link.dice.fm/ud683cc3ca26</guid>
+            <pubDate>Wed, 20 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tigercub at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Tigercub at Mahall’s on Wednesday, September 20, 2023, 11:00 PM: https://link.dice.fm/Zcdf94528bf8]]></description>
+            <link>https://link.dice.fm/Zcdf94528bf8</link>
+            <guid isPermaLink="true">https://link.dice.fm/Zcdf94528bf8</guid>
             <pubDate>Wed, 20 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3261,17 +3184,17 @@
             <pubDate>Tue, 17 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/S333ab788856]]></description>
-            <link>https://link.dice.fm/S333ab788856</link>
-            <guid isPermaLink="true">https://link.dice.fm/S333ab788856</guid>
-            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emblem3 at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
             <link>https://link.dice.fm/ve8a20f788c7</link>
             <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
+            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/S333ab788856]]></description>
+            <link>https://link.dice.fm/S333ab788856</link>
+            <guid isPermaLink="true">https://link.dice.fm/S333ab788856</guid>
             <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>

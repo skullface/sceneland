@@ -1,13 +1,5 @@
 [
   {
-    "artist": [
-      "Lowspot, Wig Doubt, Toyon"
-    ],
-    "link": "https://www.eventbrite.com/e/lowspot-wig-doubt-toyon-tickets-694405765337",
-    "date": "2023-09-16T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706349068077",
     "date": "2023-09-18T20:00:00",
     "venue": "Happy Dog"
@@ -177,6 +169,14 @@
     ],
     "link": "https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707",
     "date": "2023-10-14T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Necromoon, The Magnavox's, Edwin Agustin Jr"
+    ],
+    "link": "https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987",
+    "date": "2023-10-15T21:00:00",
     "venue": "Happy Dog"
   }
 ]

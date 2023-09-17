@@ -1,23 +1,5 @@
 [
   {
-    "link": "https://www.ticketmaster.com/aiw-fresh-meat-3-cleveland-ohio-09-16-2023/event/05005EFB1C3993C8",
-    "date": "2023-09-16T15:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "link": "https://www.ticketmaster.com/aiw-jt-lightning-invitational-tournament-night-cleveland-ohio-09-16-2023/event/05005EFB1DC99441",
-    "date": "2023-09-16T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Two Mile Moon"
-    ],
-    "link": "https://www.ticketmaster.com/two-mile-moon-cleveland-ohio-09-16-2023/event/05005F07B07322A8",
-    "date": "2023-09-16T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
     "artist": [
       "Asking Alexandria and The Hu"
     ],
@@ -188,6 +170,14 @@
     ],
     "link": "https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A",
     "date": "2023-11-18T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Honor Fight Championship MMA Fights"
+    ],
+    "link": "https://www.ticketmaster.com/honor-fight-championship-mma-fights-cleveland-ohio-11-25-2023/event/05005F2FF24A623B",
+    "date": "2023-11-25T18:00:00",
     "venue": "Masonic Temple"
   },
   {

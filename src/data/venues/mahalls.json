@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Thing With Feathers"
-    ],
-    "link": "https://link.dice.fm/a81e9d6045e3",
-    "date": "2023-09-16T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "nothing, nowhere."
     ],
     "link": "https://link.dice.fm/Yc671f228cb0",
@@ -41,19 +33,19 @@
   },
   {
     "artist": [
-      "Tigercub"
-    ],
-    "link": "https://link.dice.fm/Zcdf94528bf8",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Provoker"
     ],
     "link": "https://link.dice.fm/ud683cc3ca26",
     "date": "2023-09-20T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Tigercub"
+    ],
+    "link": "https://link.dice.fm/Zcdf94528bf8",
+    "date": "2023-09-20T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -299,19 +291,19 @@
   },
   {
     "artist": [
-      "SUICIDE SILENCE AND CHELSEA GRIN "
-    ],
-    "link": "https://link.dice.fm/S333ab788856",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Emblem3"
     ],
     "link": "https://link.dice.fm/ve8a20f788c7",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "SUICIDE SILENCE AND CHELSEA GRIN "
+    ],
+    "link": "https://link.dice.fm/S333ab788856",
+    "date": "2023-10-20T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

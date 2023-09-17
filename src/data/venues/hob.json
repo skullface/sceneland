@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Here Come the Mummies"
-    ],
-    "link": "https://concerts.livenation.com/here-come-the-mummies-cleveland-ohio-09-16-2023/event/05005E92CA5A2911",
-    "date": "2023-09-16T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "half\u00b7alive: Conditions of a Punk"
     ],
     "link": "https://concerts.livenation.com/halfalive-conditions-of-a-punk-cleveland-ohio-09-18-2023/event/05005EC8B43E43C7",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/welshly-arms-presented-by-waps-cleveland-ohio-11-25-2023/event/05005F0BDBE69247",
     "date": "2023-11-25T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "NEFFEX: Born A Rockstar: The World Tour 2023"
+    ],
+    "link": "https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1",
+    "date": "2023-11-28T19:00:00",
     "venue": "House of Blues"
   }
 ]

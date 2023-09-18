@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 Sep 2023 09:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 09:06:26 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Dom Corleo, Yung Kayo at Foundry]]></title>
-            <description><![CDATA[Get tickets to Dom Corleo, Yung Kayo at Foundry on Sunday, September 17, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/</guid>
-            <pubDate>Sun, 17 Sep 2023 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Idle Threat, Symphony In Peril, Stay Lost, Thieves Stay Thieves at Foundry]]></title>
             <description><![CDATA[Get tickets to Idle Threat, Symphony In Peril, Stay Lost, Thieves Stay Thieves at Foundry on Monday, September 18, 2023, 07:30 PM: https://www.foundryconcertclub.com/tm-event/idle-threat-symphony-in-peril-stay-lost-thieves-stay-thieves/]]></description>
@@ -433,76 +426,6 @@
             <pubDate>Sun, 17 Dec 2023 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sorry Eric, Kill the Hippies, O.R.P.H.A.N.S. at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Sorry Eric, Kill the Hippies, O.R.P.H.A.N.S. at Happy Dog on Tuesday, September 19, 2023, 09:00 PM: https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157]]></description>
-            <link>https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157</guid>
-            <pubDate>Tue, 19 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Classical Revolution Cleveland at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Classical Revolution Cleveland at Happy Dog on Wednesday, September 20, 2023, 08:00 PM: https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307]]></description>
-            <link>https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307</guid>
-            <pubDate>Wed, 20 Sep 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alien Nosejob, Science Man, The Hell, Perverts Again at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Alien Nosejob, Science Man, The Hell, Perverts Again at Happy Dog on Thursday, September 21, 2023, 09:00 PM: https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597]]></description>
-            <link>https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597</guid>
-            <pubDate>Thu, 21 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Self Checkout Tape Release w/ TV Drugs, Drug Abuse at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Self Checkout Tape Release w/ TV Drugs, Drug Abuse at Happy Dog on Friday, September 22, 2023, 09:00 PM: https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-drug-abuse-tickets-695045930087]]></description>
-            <link>https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-drug-abuse-tickets-695045930087</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-drug-abuse-tickets-695045930087</guid>
-            <pubDate>Fri, 22 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyper Viper, Uncanny Valley, Church + State at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Hyper Viper, Uncanny Valley, Church + State at Happy Dog on Saturday, September 23, 2023, 09:00 PM: https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417]]></description>
-            <link>https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417</guid>
-            <pubDate>Sat, 23 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Private Lives, Whippets, DANA, The Missed at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Private Lives, Whippets, DANA, The Missed at Happy Dog on Sunday, September 24, 2023, 09:00 PM: https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597]]></description>
-            <link>https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597</guid>
-            <pubDate>Sun, 24 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vintage Crop, Show Pink, The Carp at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Vintage Crop, Show Pink, The Carp at Happy Dog on Tuesday, September 26, 2023, 09:00 PM: https://www.eventbrite.com/e/vintage-crop-show-pink-the-carp-tickets-706358556457]]></description>
-            <link>https://www.eventbrite.com/e/vintage-crop-show-pink-the-carp-tickets-706358556457</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/vintage-crop-show-pink-the-carp-tickets-706358556457</guid>
-            <pubDate>Tue, 26 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country at Happy Dog on Thursday, September 28, 2023, 09:00 PM: https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457]]></description>
-            <link>https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457</guid>
-            <pubDate>Thu, 28 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dentist, Perfect Pals, Parfait Girls at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Dentist, Perfect Pals, Parfait Girls at Happy Dog on Friday, September 29, 2023, 09:00 PM: https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207]]></description>
-            <link>https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207</guid>
-            <pubDate>Fri, 29 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jyonson Tsu, Brood X, Anteater, Burning Plastic Blues Band at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Jyonson Tsu, Brood X, Anteater, Burning Plastic Blues Band at Happy Dog on Saturday, September 30, 2023, 09:00 PM: https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-burning-plastic-blues-band-tickets-706900236637]]></description>
-            <link>https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-burning-plastic-blues-band-tickets-706900236637</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-burning-plastic-blues-band-tickets-706900236637</guid>
-            <pubDate>Sat, 30 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Scott Yoder, Oft Dreamy, Confusions at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Scott Yoder, Oft Dreamy, Confusions at Happy Dog on Sunday, October 1, 2023, 09:00 PM: https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607]]></description>
             <link>https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607</link>
@@ -571,13 +494,6 @@
             <link>https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987</guid>
             <pubDate>Sun, 15 Oct 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jason Aldean: Highway Desperado Tour 2023 at Blossom]]></title>
-            <description><![CDATA[Get tickets to Jason Aldean: Highway Desperado Tour 2023 at Blossom on Sunday, September 17, 2023, 07:30 PM: https://concerts.livenation.com/jason-aldean-highway-desperado-tour-2023-cuyahoga-falls-ohio-09-17-2023/event/05005E48DE174901]]></description>
-            <link>https://concerts.livenation.com/jason-aldean-highway-desperado-tour-2023-cuyahoga-falls-ohio-09-17-2023/event/05005E48DE174901</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/jason-aldean-highway-desperado-tour-2023-cuyahoga-falls-ohio-09-17-2023/event/05005E48DE174901</guid>
-            <pubDate>Sun, 17 Sep 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Godsmack at Blossom]]></title>
@@ -1574,13 +1490,6 @@
             <pubDate>Sun, 03 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Herb Alpert And Lani Hall in Concert at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Herb Alpert And Lani Hall in Concert at Playhouse Square on Sunday, September 17, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert]]></description>
-            <link>https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert</guid>
-            <pubDate>Sun, 17 Sep 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nick Cave: Live In North America at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Nick Cave: Live In North America at Playhouse Square on Monday, September 25, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/nick-cave-live-in-north-america]]></description>
             <link>https://www.playhousesquare.org/events/detail/nick-cave-live-in-north-america</link>
@@ -1705,13 +1614,6 @@
             <link>https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</guid>
             <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Night Beats, Moonwalks, Nail Biters at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Night Beats, Moonwalks, Nail Biters at Grog Shop on Sunday, September 17, 2023, 08:00 PM: https://grogshop.gs/event-details/13446408/night-beats-moonwalks-nail-biters]]></description>
-            <link>https://grogshop.gs/event-details/13446408/night-beats-moonwalks-nail-biters</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13446408/night-beats-moonwalks-nail-biters</guid>
-            <pubDate>Sun, 17 Sep 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MELM ft. John Armstrong, Eulise Dickerson, Tony Bowers, John Brown, & John King at Grog Shop]]></title>
@@ -2202,13 +2104,6 @@
             <link>https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo</guid>
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Osees, Population II at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Osees, Population II at Beachland Ballroom on Sunday, September 17, 2023, 08:30 PM: https://www.beachlandballroom.com/e/12868355/osees-population-ii]]></description>
-            <link>https://www.beachlandballroom.com/e/12868355/osees-population-ii</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/12868355/osees-population-ii</guid>
-            <pubDate>Sun, 17 Sep 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Electric Blue Yonder, Clare Feorene at ]]></title>
@@ -2932,20 +2827,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[nothing, nowhere. at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to nothing, nowhere. at The Roxy at Mahall’s on Sunday, September 17, 2023, 10:00 PM: https://link.dice.fm/Yc671f228cb0]]></description>
-            <link>https://link.dice.fm/Yc671f228cb0</link>
-            <guid isPermaLink="true">https://link.dice.fm/Yc671f228cb0</guid>
-            <pubDate>Sun, 17 Sep 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bay Ledges at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Bay Ledges at Mahall’s on Sunday, September 17, 2023, 11:00 PM: https://link.dice.fm/t64ce3221a56]]></description>
-            <link>https://link.dice.fm/t64ce3221a56</link>
-            <guid isPermaLink="true">https://link.dice.fm/t64ce3221a56</guid>
-            <pubDate>Sun, 17 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[True Widow at Mahall’s]]></title>
             <description><![CDATA[Get tickets to True Widow at Mahall’s on Monday, September 18, 2023, 11:00 PM: https://link.dice.fm/w480cee5e703]]></description>
             <link>https://link.dice.fm/w480cee5e703</link>
@@ -3065,17 +2946,17 @@
             <pubDate>Mon, 02 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[French Cassettes at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to French Cassettes at Mahall’s on Tuesday, October 3, 2023, 11:00 PM: https://link.dice.fm/i9d3198de992]]></description>
-            <link>https://link.dice.fm/i9d3198de992</link>
-            <guid isPermaLink="true">https://link.dice.fm/i9d3198de992</guid>
-            <pubDate>Tue, 03 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[George Clanton at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to George Clanton at The Roxy at Mahall’s on Tuesday, October 3, 2023, 11:00 PM: https://link.dice.fm/o5e5253cefd2]]></description>
             <link>https://link.dice.fm/o5e5253cefd2</link>
             <guid isPermaLink="true">https://link.dice.fm/o5e5253cefd2</guid>
+            <pubDate>Tue, 03 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French Cassettes at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to French Cassettes at Mahall’s on Tuesday, October 3, 2023, 11:00 PM: https://link.dice.fm/i9d3198de992]]></description>
+            <link>https://link.dice.fm/i9d3198de992</link>
+            <guid isPermaLink="true">https://link.dice.fm/i9d3198de992</guid>
             <pubDate>Tue, 03 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3107,17 +2988,17 @@
             <pubDate>Sun, 08 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kate Bollinger at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Kate Bollinger at Mahall’s on Sunday, October 8, 2023, 11:00 PM: https://link.dice.fm/P8653582ac4e]]></description>
-            <link>https://link.dice.fm/P8653582ac4e</link>
-            <guid isPermaLink="true">https://link.dice.fm/P8653582ac4e</guid>
-            <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Aces – I’ve Loved You For So Long World Tour at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Aces – I’ve Loved You For So Long World Tour at The Roxy at Mahall’s on Sunday, October 8, 2023, 11:00 PM: https://link.dice.fm/d079039b50bc]]></description>
             <link>https://link.dice.fm/d079039b50bc</link>
             <guid isPermaLink="true">https://link.dice.fm/d079039b50bc</guid>
+            <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kate Bollinger at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Kate Bollinger at Mahall’s on Sunday, October 8, 2023, 11:00 PM: https://link.dice.fm/P8653582ac4e]]></description>
+            <link>https://link.dice.fm/P8653582ac4e</link>
+            <guid isPermaLink="true">https://link.dice.fm/P8653582ac4e</guid>
             <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3184,17 +3065,17 @@
             <pubDate>Tue, 17 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emblem3 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
-            <link>https://link.dice.fm/ve8a20f788c7</link>
-            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
-            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/S333ab788856]]></description>
             <link>https://link.dice.fm/S333ab788856</link>
             <guid isPermaLink="true">https://link.dice.fm/S333ab788856</guid>
+            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emblem3 at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
+            <link>https://link.dice.fm/ve8a20f788c7</link>
+            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
             <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3233,17 +3114,17 @@
             <pubDate>Sun, 22 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Annie Dukes at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Annie Dukes at Mahall’s Apartment on Tuesday, October 24, 2023, 11:00 PM: https://link.dice.fm/Gd2cf5c8f6ca]]></description>
-            <link>https://link.dice.fm/Gd2cf5c8f6ca</link>
-            <guid isPermaLink="true">https://link.dice.fm/Gd2cf5c8f6ca</guid>
-            <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Radiator Hospital at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Radiator Hospital at Mahall’s on Tuesday, October 24, 2023, 11:00 PM: https://link.dice.fm/S73e91266b0a]]></description>
             <link>https://link.dice.fm/S73e91266b0a</link>
             <guid isPermaLink="true">https://link.dice.fm/S73e91266b0a</guid>
+            <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Annie Dukes at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Annie Dukes at Mahall’s Apartment on Tuesday, October 24, 2023, 11:00 PM: https://link.dice.fm/Gd2cf5c8f6ca]]></description>
+            <link>https://link.dice.fm/Gd2cf5c8f6ca</link>
+            <guid isPermaLink="true">https://link.dice.fm/Gd2cf5c8f6ca</guid>
             <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>

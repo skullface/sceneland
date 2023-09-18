@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Dom Corleo, Yung Kayo'],
-    link: 'https://www.foundryconcertclub.com/tm-event/dom-corleo-yung-kayo/',
-    date: '2023-09-17T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Idle Threat, Symphony In Peril, Stay Lost, Thieves Stay Thieves'],
     link: 'https://www.foundryconcertclub.com/tm-event/idle-threat-symphony-in-peril-stay-lost-thieves-stay-thieves/',
     date: '2023-09-18T19:30:00',
@@ -377,76 +371,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-706349068077',
-    date: '2023-09-18T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Sorry Eric, Kill the Hippies, O.R.P.H.A.N.S.'],
-    link: 'https://www.eventbrite.com/e/sorry-eric-kill-the-hippies-orphans-tickets-714920064157',
-    date: '2023-09-19T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Classical Revolution Cleveland'],
-    link: 'https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-694410770307',
-    date: '2023-09-20T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Alien Nosejob, Science Man, The Hell, Perverts Again'],
-    link: 'https://www.eventbrite.com/e/alien-nosejob-science-man-the-hell-perverts-again-tickets-706350913597',
-    date: '2023-09-21T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Self Checkout Tape Release w/ TV Drugs, Drug Abuse'],
-    link: 'https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-drug-abuse-tickets-695045930087',
-    date: '2023-09-22T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Hyper Viper, Uncanny Valley, Church + State'],
-    link: 'https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417',
-    date: '2023-09-23T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Private Lives, Whippets, DANA, The Missed'],
-    link: 'https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597',
-    date: '2023-09-24T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-706354604637',
-    date: '2023-09-25T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Vintage Crop, Show Pink, The Carp'],
-    link: 'https://www.eventbrite.com/e/vintage-crop-show-pink-the-carp-tickets-706358556457',
-    date: '2023-09-26T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country'],
-    link: 'https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457',
-    date: '2023-09-28T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Dentist, Perfect Pals, Parfait Girls'],
-    link: 'https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207',
-    date: '2023-09-29T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Jyonson Tsu, Brood X, Anteater, Burning Plastic Blues Band'],
-    link: 'https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-burning-plastic-blues-band-tickets-706900236637',
-    date: '2023-09-30T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Scott Yoder, Oft Dreamy, Confusions'],
     link: 'https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607',
     date: '2023-10-01T21:00:00',
@@ -515,12 +439,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987',
     date: '2023-10-15T21:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['Jason Aldean: Highway Desperado Tour 2023'],
-    link: 'https://concerts.livenation.com/jason-aldean-highway-desperado-tour-2023-cuyahoga-falls-ohio-09-17-2023/event/05005E48DE174901',
-    date: '2023-09-17T19:30:00',
-    venue: 'Blossom',
   },
   {
     artist: ['Godsmack'],
@@ -1381,12 +1299,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Herb Alpert And Lani Hall in Concert'],
-    link: 'https://www.playhousesquare.org/events/detail/herb-alpert-and-lani-hall-in-concert',
-    date: '2023-09-17',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Nick Cave: Live In North America'],
     link: 'https://www.playhousesquare.org/events/detail/nick-cave-live-in-north-america',
     date: '2023-09-25',
@@ -1493,12 +1405,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour',
     date: '2024-01-21',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Night Beats', 'Moonwalks', 'Nail Biters'],
-    link: 'https://grogshop.gs/event-details/13446408/night-beats-moonwalks-nail-biters',
-    date: '2023-09-17T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1983,13 +1889,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo',
     date: '2024-03-14T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Osees', 'Population II'],
-    link: 'https://www.beachlandballroom.com/e/12868355/osees-population-ii',
-    sold_out: true,
-    date: '2023-09-17T20:30:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Electric Blue Yonder', 'Clare Feorene'],
@@ -2665,18 +2564,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['nothing, nowhere.'],
-    link: 'https://link.dice.fm/Yc671f228cb0',
-    date: '2023-09-17T18:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Bay Ledges'],
-    link: 'https://link.dice.fm/t64ce3221a56',
-    date: '2023-09-17T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['True Widow'],
     link: 'https://link.dice.fm/w480cee5e703',
     date: '2023-09-18T19:00:00-04:00',
@@ -2781,16 +2668,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['French Cassettes'],
-    link: 'https://link.dice.fm/i9d3198de992',
-    date: '2023-10-03T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['George Clanton'],
     link: 'https://link.dice.fm/o5e5253cefd2',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['French Cassettes'],
+    link: 'https://link.dice.fm/i9d3198de992',
+    date: '2023-10-03T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Frankie Cosmos with Good Morning'],
@@ -2817,16 +2704,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Kate Bollinger'],
-    link: 'https://link.dice.fm/P8653582ac4e',
-    date: '2023-10-08T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
     link: 'https://link.dice.fm/d079039b50bc',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Kate Bollinger'],
+    link: 'https://link.dice.fm/P8653582ac4e',
+    date: '2023-10-08T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Dead on a Sunday'],
@@ -2883,16 +2770,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Emblem3'],
-    link: 'https://link.dice.fm/ve8a20f788c7',
-    date: '2023-10-20T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['SUICIDE SILENCE AND CHELSEA GRIN '],
     link: 'https://link.dice.fm/S333ab788856',
     date: '2023-10-20T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Emblem3'],
+    link: 'https://link.dice.fm/ve8a20f788c7',
+    date: '2023-10-20T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Broadway Rave'],
@@ -2925,16 +2812,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Annie Dukes'],
-    link: 'https://link.dice.fm/Gd2cf5c8f6ca',
-    date: '2023-10-24T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Radiator Hospital'],
     link: 'https://link.dice.fm/S73e91266b0a',
     date: '2023-10-24T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Annie Dukes'],
+    link: 'https://link.dice.fm/Gd2cf5c8f6ca',
+    date: '2023-10-24T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['El Camino Acid and The Wonderfool'],

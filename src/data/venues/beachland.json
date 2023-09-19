@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Electric Blue Yonder",
-      "Clare Feorene"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene",
-    "date": "2023-09-18T20:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "David Wain & Ken Marino's Middle Age Dad Jam Band",
-      "special guests Kathryn Hahn, Amy Miles, Craig Wedren, and James Eason"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-special-guests-kathryn-hahn-amy-miles-craig-wedren-and-james-eason",
-    "date": "2023-09-18T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Boyish",
       "Ivers",
       "JET STAR"
@@ -167,6 +149,11 @@
     "venue": "Beachland Ballroom"
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13644158/this-way-out",
+    "date": "2023-09-29T12:00:00",
+    "venue": ""
+  },
+  {
     "artist": [
       "The Lemon Twigs",
       "Joanna Sternberg"
@@ -192,6 +179,11 @@
     "venue": ""
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13644168/this-way-out",
+    "date": "2023-09-30T12:00:00",
+    "venue": ""
+  },
+  {
     "artist": [
       "Falling Stars",
       "The Laughing Chimes",
@@ -200,6 +192,14 @@
     "link": "https://www.beachlandballroom.com/e/13413118/falling-stars-the-laughing-chimes-the-style-section",
     "date": "2023-09-30T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "School of Rock"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13644908/school-of-rock",
+    "date": "2023-10-01T12:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -603,9 +603,10 @@
   },
   {
     "artist": [
-      "Corb Lund"
+      "Corb Lund",
+      "Branson Anderson"
     ],
-    "link": "https://www.beachlandballroom.com/e/13506898/corb-lund",
+    "link": "https://www.beachlandballroom.com/e/13506898/corb-lund-branson-anderson",
     "date": "2023-11-04T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -732,6 +733,14 @@
     "link": "https://www.beachlandballroom.com/e/13527568/start-making-sense-drew-the-blue",
     "date": "2023-12-02T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Televisionaires"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13644868/televisionaires",
+    "date": "2023-12-02T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

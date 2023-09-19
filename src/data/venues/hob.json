@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "half\u00b7alive: Conditions of a Punk"
-    ],
-    "link": "https://concerts.livenation.com/halfalive-conditions-of-a-punk-cleveland-ohio-09-18-2023/event/05005EC8B43E43C7",
-    "date": "2023-09-18T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Gaslight Anthem"
     ],
     "link": "https://concerts.livenation.com/the-gaslight-anthem-cleveland-ohio-09-19-2023/event/05005E99F2045903",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1",
     "date": "2023-11-28T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "NEFFEX: Born A Rockstar: The World Tour 2023"
+    ],
+    "link": "https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8",
+    "date": "2023-11-30T19:00:00",
     "venue": "House of Blues"
   }
 ]

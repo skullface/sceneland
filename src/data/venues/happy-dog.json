@@ -1,13 +1,5 @@
 [
   {
-    "artist": [
-      "Scott Yoder, Oft Dreamy, Confusions"
-    ],
-    "link": "https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607",
-    "date": "2023-10-01T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706925732897",
     "date": "2023-10-02T20:00:00",
     "venue": "Happy Dog"
@@ -87,6 +79,11 @@
     ],
     "link": "https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987",
     "date": "2023-10-15T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-718858363717",
+    "date": "2023-10-16T20:00:00",
     "venue": "Happy Dog"
   }
 ]

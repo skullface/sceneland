@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "The Space Cadets",
-      "Lake Effect",
-      "No Pitches?"
-    ],
-    "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect-no-pitches-",
-    "date": "2023-09-19T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Royel Otis US \u201923 SOFA KINGS TOUR",
-      "Friko",
-      "Louse"
-    ],
-    "link": "https://grogshop.gs/event-details/13287048/royel-otis-us-23-sofa-kings-tour",
-    "date": "2023-09-19T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Glorious Sons: The Glory Tour"
     ],
     "link": "https://grogshop.gs/event-details/13339868/the-glorious-sons-the-glory-tour",
@@ -623,7 +603,8 @@
   },
   {
     "artist": [
-      "The Flatliners Present The Holiday Melee"
+      "The Flatliners Present The Holiday Melee",
+      "Pet Symmetry"
     ],
     "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
     "date": "2023-12-15T20:30:00",

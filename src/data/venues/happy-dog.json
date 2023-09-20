@@ -1,10 +1,5 @@
 [
   {
-    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706925732897",
-    "date": "2023-10-02T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "artist": [
       "Happy Dog Takes on Everything"
     ],
@@ -84,6 +79,14 @@
   {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-718858363717",
     "date": "2023-10-16T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Choke, Narc, Body Farm, Pillars"
+    ],
+    "link": "https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947",
+    "date": "2023-10-17T21:00:00",
     "venue": "Happy Dog"
   }
 ]

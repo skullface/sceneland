@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Boyish",
-      "Ivers",
-      "JET STAR"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13478558/boyish-ivers-jet-star",
-    "date": "2023-09-19T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Veronica Swift",
       "Colin Palmieri"
     ],
@@ -230,9 +220,10 @@
   },
   {
     "artist": [
-      "MSPAINT"
+      "MSPAINT",
+      "Blossom Park"
     ],
-    "link": "https://www.beachlandballroom.com/e/13573458/mspaint",
+    "link": "https://www.beachlandballroom.com/e/13573458/mspaint-blossom-park",
     "date": "2023-10-05T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -718,6 +709,26 @@
   },
   {
     "artist": [
+      "Rumpke Mountain Boys",
+      "Dupree's Dead Band",
+      "Whiskey Drinks"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13645718/rumpke-mountain-boys-dupree-s-dead-band-whiskey-drinks",
+    "date": "2023-11-24T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Rumpke Mountain Boys",
+      "The Stolen Faces",
+      "Sugar Mules"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13645788/rumpke-mountain-boys-the-stolen-faces-sugar-mules",
+    "date": "2023-11-25T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Urban Heat",
       "Rare DM"
     ],
@@ -744,9 +755,10 @@
   },
   {
     "artist": [
-      "Pokey LaFarge"
+      "Pokey LaFarge",
+      "Louisa Stancioff"
     ],
-    "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge",
+    "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge-louisa-stancioff",
     "date": "2023-12-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -833,6 +845,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
     "date": "2024-02-09T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Deap Vally",
+      "Sloppy Jane"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane",
+    "date": "2024-02-13T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

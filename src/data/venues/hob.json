@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Gaslight Anthem"
-    ],
-    "link": "https://concerts.livenation.com/the-gaslight-anthem-cleveland-ohio-09-19-2023/event/05005E99F2045903",
-    "date": "2023-09-19T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Glorious Sons: The Glory Tour"
     ],
     "link": "https://concerts.livenation.com/the-glorious-sons-the-glory-tour-cleveland-ohio-09-20-2023/event/05005ECE021F7F9D",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8",
     "date": "2023-11-30T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "The Suicide Machines Celebrating 20 Years of A Match and Some Gasoline"
+    ],
+    "link": "https://concerts.livenation.com/the-suicide-machines-celebrating-20-years-cleveland-ohio-12-01-2023/event/05005EF1A45423B2",
+    "date": "2023-12-01T19:00:00",
     "venue": "House of Blues"
   }
 ]

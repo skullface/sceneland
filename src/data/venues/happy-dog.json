@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Happy Dog Takes on Everything"
-    ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-718857882277",
-    "date": "2023-10-04T19:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Le Ren, Kid.Tigrrr, Shy Moon"
     ],
     "link": "https://www.eventbrite.com/e/le-ren-kidtigrrr-shy-moon-tickets-714946954587",
@@ -54,9 +46,9 @@
   },
   {
     "artist": [
-      "Ace of Wands, Slow Wake"
+      "Ace of Wands, Slow Wake, October Beach Club"
     ],
-    "link": "https://www.eventbrite.com/e/ace-of-wands-slow-wake-tickets-718847290597",
+    "link": "https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597",
     "date": "2023-10-13T21:00:00",
     "venue": "Happy Dog"
   },
@@ -87,6 +79,14 @@
     ],
     "link": "https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947",
     "date": "2023-10-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Blood Chill, Mr. Princess, Bloodhounds"
+    ],
+    "link": "https://www.eventbrite.com/e/blood-chill-mr-princess-bloodhounds-tickets-718865454927",
+    "date": "2023-10-19T21:00:00",
     "venue": "Happy Dog"
   }
 ]

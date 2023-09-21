@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Veronica Swift",
-      "Colin Palmieri"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13405078/veronica-swift-colin-palmieri",
-    "date": "2023-09-20T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Black Joe Lewis",
       "Cities & Coasts"
     ],
@@ -626,6 +617,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13404028/kendra-morris-benny-lava-and-the-guavas-dj-teddy-eisenberg",
     "date": "2023-11-06T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Charlie Parr"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13644658/charlie-parr",
+    "date": "2023-11-07T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

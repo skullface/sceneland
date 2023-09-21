@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Provoker"
-    ],
-    "link": "https://link.dice.fm/ud683cc3ca26",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "Tigercub"
-    ],
-    "link": "https://link.dice.fm/Zcdf94528bf8",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Senses Fail"
     ],
     "link": "https://link.dice.fm/R187e2db8f05",
@@ -42,19 +26,19 @@
   },
   {
     "artist": [
-      "The Astronomers"
-    ],
-    "link": "https://link.dice.fm/s4cada23b8e0",
-    "date": "2023-09-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autopilot"
     ],
     "link": "https://link.dice.fm/T4381d524f65",
     "date": "2023-09-26T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "The Astronomers"
+    ],
+    "link": "https://link.dice.fm/s4cada23b8e0",
+    "date": "2023-09-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -171,14 +155,6 @@
   },
   {
     "artist": [
-      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
-    ],
-    "link": "https://link.dice.fm/d079039b50bc",
-    "date": "2023-10-08T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Kate Bollinger"
     ],
     "link": "https://link.dice.fm/P8653582ac4e",
@@ -187,11 +163,11 @@
   },
   {
     "artist": [
-      "Dead on a Sunday"
+      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
     ],
-    "link": "https://link.dice.fm/ta0ec89681c5",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    "link": "https://link.dice.fm/d079039b50bc",
+    "date": "2023-10-08T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -200,6 +176,14 @@
     "link": "https://link.dice.fm/cac8be85f81f",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Dead on a Sunday"
+    ],
+    "link": "https://link.dice.fm/ta0ec89681c5",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -315,19 +299,19 @@
   },
   {
     "artist": [
-      "Annie Dukes"
-    ],
-    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Radiator Hospital"
     ],
     "link": "https://link.dice.fm/S73e91266b0a",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Annie Dukes"
+    ],
+    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -379,6 +363,22 @@
   },
   {
     "artist": [
+      "Dumbo Gets Mad"
+    ],
+    "link": "https://link.dice.fm/o7e24e75039a",
+    "date": "2023-11-02T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Cousin Simple and Spirit of the Bear"
+    ],
+    "link": "https://link.dice.fm/V1ed70b20162",
+    "date": "2023-11-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Alan Palomo"
     ],
     "link": "https://link.dice.fm/K5555bdfa1f4",
@@ -395,19 +395,19 @@
   },
   {
     "artist": [
-      "Into It. Over It."
-    ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Walter Etc."
     ],
     "link": "https://link.dice.fm/ja5bf7c187cf",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Into It. Over It."
+    ],
+    "link": "https://link.dice.fm/Ka4c8810172d",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

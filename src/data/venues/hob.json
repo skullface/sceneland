@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Glorious Sons: The Glory Tour"
-    ],
-    "link": "https://concerts.livenation.com/the-glorious-sons-the-glory-tour-cleveland-ohio-09-20-2023/event/05005ECE021F7F9D",
-    "date": "2023-09-20T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Digable Planets Reachin' 30th Anniversary Tour"
     ],
     "link": "https://concerts.livenation.com/digable-planets-reachin-30th-anniversary-tour-cleveland-ohio-09-21-2023/event/05005EB3CC0C591A",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/the-suicide-machines-celebrating-20-years-cleveland-ohio-12-01-2023/event/05005EF1A45423B2",
     "date": "2023-12-01T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Andrew McMahon In The Wilderness: New Friends Tour 2023"
+    ],
+    "link": "https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1",
+    "date": "2023-12-02T18:00:00",
     "venue": "House of Blues"
   }
 ]

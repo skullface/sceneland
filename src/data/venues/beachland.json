@@ -1,26 +1,7 @@
 [
   {
-    "artist": [
-      "Black Joe Lewis",
-      "Cities & Coasts"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13235398/black-joe-lewis-cities-coasts",
-    "date": "2023-09-21T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "MAN ON MAN",
-      "Factual Brains",
-      "Duo Decibel System"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13317508/man-on-man-factual-brains-duo-decibel-system",
-    "date": "2023-09-21T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
     "link": "https://www.beachlandballroom.com/e/13617008/this-way-out",
-    "date": "2023-09-22T12:00:00",
+    "date": "2023-09-22T18:00:00",
     "venue": ""
   },
   {
@@ -130,6 +111,14 @@
     "venue": "Beachland Ballroom"
   },
   {
+    "artist": [
+      "Pre/Post Party with TobyRaps"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13658588/pre-post-party-with-tobyraps",
+    "date": "2023-09-28T18:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
     "link": "https://www.beachlandballroom.com/e/13644158/this-way-out",
     "date": "2023-09-29T12:00:00",
     "venue": ""
@@ -212,9 +201,10 @@
   {
     "artist": [
       "MSPAINT",
-      "Blossom Park"
+      "Blossom Park",
+      "Blind Equation"
     ],
-    "link": "https://www.beachlandballroom.com/e/13573458/mspaint-blossom-park",
+    "link": "https://www.beachlandballroom.com/e/13573458/mspaint-blossom-park-blind-equation",
     "date": "2023-10-05T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -691,9 +681,10 @@
   },
   {
     "artist": [
-      "PISSE"
+      "PISSE",
+      "The Serfs"
     ],
-    "link": "https://www.beachlandballroom.com/e/13521728/pisse",
+    "link": "https://www.beachlandballroom.com/e/13521728/pisse-the-serfs",
     "date": "2023-11-18T20:30:00",
     "venue": "Beachland Tavern"
   },

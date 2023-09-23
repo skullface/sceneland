@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['SIERRA, Nocturnal'],
-    link: 'https://www.foundryconcertclub.com/tm-event/sierra-nocturnal/',
-    date: '2023-09-22T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Dead Boys, Lords of the Highway, The Missing'],
     link: 'https://www.foundryconcertclub.com/tm-event/dead-boys-lords-of-the-highway/',
     date: '2023-09-23T20:00:00',
@@ -218,12 +212,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Attila'],
-    link: 'https://www.ticketmaster.com/attila-cleveland-ohio-09-22-2023/event/05005EA1C02E3580',
-    date: '2023-09-22T20:00:00',
-    venue: 'Masonic Temple',
-  },
-  {
     link: 'https://www.ticketmaster.com/victor-promotions-presents-mason-brothers-boxing-cleveland-ohio-09-23-2023/event/05005F0FF9FF67FD',
     date: '2023-09-23T19:00:00',
     venue: 'Masonic Temple',
@@ -385,12 +373,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Self Checkout Tape Release w/ TV Drugs: in the Underdog!'],
-    link: 'https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-in-the-underdog-tickets-695045930087',
-    date: '2023-09-22T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Hyper Viper, Uncanny Valley, Church + State'],
     link: 'https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417',
     date: '2023-09-23T21:00:00',
@@ -525,6 +507,12 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
+    artist: ['Oktoberfest w/ the Anthony Culkar Band!'],
+    link: 'https://www.eventbrite.com/e/oktoberfest-w-the-anthony-culkar-band-tickets-718868654497',
+    date: '2023-10-20T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
     artist: ['Godsmack'],
     link: 'https://concerts.livenation.com/godsmack-cuyahoga-falls-ohio-09-24-2023/event/05005EF023A9804C',
     date: '2023-09-24T19:00:00',
@@ -553,12 +541,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Green Tree Novelty Tea, Twin Drugs, Oak & Ivy, Kid Tigrrr'],
-    link: 'https://www.ticketweb.com/event/-green-tree-novelty-tea-musica-tickets/13521378?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-09-22T21:00:00',
-    venue: 'Musica Akron',
   },
   {
     artist: ['Liam Brock, Zach Beaver & DJ Roza'],
@@ -624,12 +606,6 @@ export const allShows = [
     artist: ['Easton Union, Blue Hour & Katy Robinson'],
     link: 'https://www.ticketweb.com/event/easton-union-blue-hour-katy-musica-tickets/13655198?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-10-14T20:00:00',
-    venue: 'Musica Akron',
-  },
-  {
-    artist: ['Annie Dukes, The Buffalo Ryders, Outdated View'],
-    link: 'https://www.ticketweb.com/event/annie-dukes-the-buffalo-ryders-musica-tickets/13495108?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-10-22T20:00:00',
     venue: 'Musica Akron',
   },
   {
@@ -723,12 +699,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Nothing But Thieves'],
-    link: 'https://concerts.livenation.com/nothing-but-thieves-cleveland-ohio-09-22-2023/event/05005E67CEB43E76',
-    date: '2023-09-22T18:30:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Dean Lewis: The Future Is Bright Tour'],
     link: 'https://concerts.livenation.com/dean-lewis-the-future-is-bright-cleveland-ohio-09-23-2023/event/05005E8ED7A64B46',
     date: '2023-09-23T19:00:00',
@@ -802,7 +772,13 @@ export const allShows = [
   },
   {
     artist: ['Valley'],
-    link: 'https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F07CDA632A2',
+    link: 'https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F351D5C66D9',
+    date: '2023-10-09T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Valley: Moved To the Cambridge Room!!'],
+    link: 'https://concerts.livenation.com/valley-moved-to-the-cambridge-room-cleveland-ohio-10-09-2023/event/05005F07CDA632A2',
     date: '2023-10-09T19:00:00',
     venue: 'House of Blues',
   },
@@ -1021,12 +997,6 @@ export const allShows = [
     link: 'https://www.axs.com/events/480989/parkway-drive-tickets',
     date: '2023-09-22T18:00:00-04:00',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Desi Banks'],
-    link: 'https://www.agoracleveland.com/events/detail/484074',
-    date: '2023-09-22T18:30:00',
-    venue: 'Agora',
   },
   {
     artist: ['Ashnikko, Audrey Nuna'],
@@ -1265,6 +1235,30 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['G Jones, IMANU, KOAN Sound, Sayer'],
+    link: 'https://www.agoracleveland.com/events/detail/494799',
+    date: '2024-01-19T20:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Darcy & Jer'],
+    link: 'https://www.agoracleveland.com/events/detail/489478',
+    date: '2024-02-18T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Static-X and Sevendust, Dope, Lines Of Loyalty'],
+    link: 'https://www.agoracleveland.com/events/detail/503221',
+    date: '2024-02-22T17:30:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ["Jimbo's Drag Circus"],
+    link: 'https://www.agoracleveland.com/events/detail/495366',
+    date: '2024-03-02T19:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Tina Fey & Amy Poehler: Restless Leg Tour'],
     link: 'https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour',
     date: '2023-09-21',
@@ -1499,15 +1493,9 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['The Monday Program, Mellowman Funk, Sierra Delaine, Trav Hen'],
-    link: 'https://grogshop.gs/event-details/13512138/the-monday-program-mellowman-funk-sierra-delaine-trav-hen',
-    date: '2023-09-22T21:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Helmet', 'Soul Blind'],
     link: 'https://grogshop.gs/event-details/13420068/helmet-soul-blind',
-    date: '2023-09-23T20:30:00',
+    date: '2023-09-23T21:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1761,6 +1749,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'Cellar Dwellar',
+      'The Little Ditties',
+      'People In The Daytime',
+      'Radio Dummies',
+      'People in the Daytime',
+    ],
+    link: 'https://grogshop.gs/event-details/13626658/cellar-dwellar-the-little-ditties-people-in-the-daytime-radio-dummies',
+    date: '2023-10-26T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['A Pop Punk Halloween ft TRUSS', 'This Summer', 'Grant'],
     link: 'https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss',
     date: '2023-10-27T20:00:00',
@@ -1946,23 +1946,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo',
     date: '2024-03-14T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    link: 'https://www.beachlandballroom.com/e/13617008/this-way-out',
-    date: '2023-09-22T18:00:00',
-    venue: '',
-  },
-  {
-    artist: [
-      'DEVOtional 2023',
-      'Fantastic Plastics',
-      'Malcolm Tent',
-      'Bamboo Bimbos',
-      'DEVOID',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13155948/devotional-2023-fantastic-plastics-malcolm-tent-bamboo-bimbos-devoid',
-    date: '2023-09-22T19:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     link: 'https://www.beachlandballroom.com/e/13617028/this-way-out',
@@ -2628,18 +2611,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Senses Fail'],
-    link: 'https://link.dice.fm/R187e2db8f05',
-    date: '2023-09-22T18:30:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Claud: Supermodels Tour Part 1'],
-    link: 'https://link.dice.fm/nc49322c925f',
-    date: '2023-09-22T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Richy Mitch and the Coalminers'],
     link: 'https://link.dice.fm/Kdd5ee17a3f1',
     sold_out: true,
@@ -2647,16 +2618,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Autopilot'],
-    link: 'https://link.dice.fm/T4381d524f65',
-    date: '2023-09-26T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['The Astronomers'],
     link: 'https://link.dice.fm/s4cada23b8e0',
     date: '2023-09-26T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Autopilot'],
+    link: 'https://link.dice.fm/T4381d524f65',
+    date: '2023-09-26T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Casey'],
@@ -2810,16 +2781,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Emblem3'],
-    link: 'https://link.dice.fm/ve8a20f788c7',
-    date: '2023-10-20T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['SUICIDE SILENCE AND CHELSEA GRIN '],
     link: 'https://link.dice.fm/S333ab788856',
     date: '2023-10-20T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Emblem3'],
+    link: 'https://link.dice.fm/ve8a20f788c7',
+    date: '2023-10-20T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Broadway Rave'],
@@ -2916,6 +2887,12 @@ export const allShows = [
     link: 'https://link.dice.fm/K5555bdfa1f4',
     date: '2023-11-04T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['TX2'],
+    link: 'https://link.dice.fm/f7d5a7db3918',
+    date: '2023-11-05T18:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Abraham Alexander'],

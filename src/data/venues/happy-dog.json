@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Self Checkout Tape Release w/ TV Drugs: in the Underdog!"
-    ],
-    "link": "https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-in-the-underdog-tickets-695045930087",
-    "date": "2023-09-22T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Hyper Viper, Uncanny Valley, Church + State"
     ],
     "link": "https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417",
@@ -177,6 +169,14 @@
     ],
     "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-718868253297",
     "date": "2023-10-20T18:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Oktoberfest w/ the Anthony Culkar Band!"
+    ],
+    "link": "https://www.eventbrite.com/e/oktoberfest-w-the-anthony-culkar-band-tickets-718868654497",
+    "date": "2023-10-20T21:00:00",
     "venue": "Happy Dog"
   }
 ]

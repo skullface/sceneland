@@ -36,6 +36,7 @@ Aggregates concerts from local Cleveland venues in one website.
 
 - Create [Python scripts](https://github.com/skullface/sceneland/tree/main/script/venues) for your own venues’ websites using [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 - [Re-map related venues](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L51-L57) if necessary
+- Update your [timezone](https://github.com/search?q=repo%3Askullface%2Fsceneland%20New_York&type=code) as necessary
 
 ### Repo settings
 

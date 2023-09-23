@@ -207,6 +207,18 @@ export default function Page({ shows }: PageProps) {
     }
   }
 
+  const dateParts =
+    process.env.NEXT_PUBLIC_LAST_UPDATED_AT?.split('-').map(Number) || []
+  const year = dateParts[0] ?? 0
+  const month = dateParts[1] ? dateParts[1] - 1 : 0
+  const day = dateParts[2] ?? 0
+  const dateObj = new Date(year, month, day)
+
+  const isValidDate = (dateStr: string) => {
+    const regex = /^\d{4}-\d{2}-\d{2}$/
+    return regex.test(dateStr)
+  }
+
   return (
     <div className='body'>
       <SiteMeta />
@@ -220,20 +232,20 @@ export default function Page({ shows }: PageProps) {
           }`}
         >
           <h1 className='inline'>Upcoming shows in CLE</h1>
-          {process.env.NEXT_PUBLIC_LAST_UPDATED_AT && (
-            <span>
-              {' '}
-              · Last updated{' '}
-              <time dateTime={process.env.NEXT_PUBLIC_LAST_UPDATED_AT.trim()}>
-                {new Date(
-                  process.env.NEXT_PUBLIC_LAST_UPDATED_AT,
-                ).toLocaleString('en-US', {
-                  month: 'short',
-                  day: 'numeric',
-                })}
-              </time>
-            </span>
-          )}
+          {process.env.NEXT_PUBLIC_LAST_UPDATED_AT &&
+            isValidDate(process.env.NEXT_PUBLIC_LAST_UPDATED_AT.trim()) && (
+              <span>
+                {' '}
+                · Last updated{' '}
+                <time dateTime={dateObj.toISOString()}>
+                  {dateObj.toLocaleString('en-US', {
+                    timeZone: 'America/New_York',
+                    month: 'short',
+                    day: 'numeric',
+                  })}
+                </time>
+              </span>
+            )}
         </div>
       </header>
 

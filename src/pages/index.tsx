@@ -90,12 +90,20 @@ export default function Page({ shows }: PageProps) {
   )
 
   // Get the current date and time
-  const currentDate = new Date()
+  const currentDate = new Date(
+    new Date().toLocaleString('en-US', { timeZone: 'America/New_York' }),
+  )
 
   // Ignore shows that have already happened
   const filteredCurrentShows = filteredShows.filter((show) => {
     const showDate = new Date(show.date)
-    return showDate >= currentDate
+
+    // Convert the show date to US Eastern Time
+    const showDateInET = new Date(
+      showDate.toLocaleString('en-US', { timeZone: 'America/New_York' }),
+    )
+
+    return showDateInET >= currentDate
   })
 
   // Sort filtered shows chronologically by show date

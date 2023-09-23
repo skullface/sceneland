@@ -1,10 +1,5 @@
 [
   {
-    "link": "https://www.beachlandballroom.com/e/13617028/this-way-out",
-    "date": "2023-09-23T12:00:00",
-    "venue": ""
-  },
-  {
     "artist": [
       "DEVOtional 2023",
       "Detention",
@@ -102,11 +97,6 @@
     "venue": "Beachland Tavern"
   },
   {
-    "link": "https://www.beachlandballroom.com/e/13644158/this-way-out",
-    "date": "2023-09-29T12:00:00",
-    "venue": ""
-  },
-  {
     "artist": [
       "The Lemon Twigs",
       "Joanna Sternberg"
@@ -122,19 +112,6 @@
     "link": "https://www.beachlandballroom.com/e/13404478/baba-commandant-and-the-mandingo-band",
     "date": "2023-09-29T20:30:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Andy Frasco & The U.N."
-    ],
-    "link": "https://www.beachlandballroom.com/e/13405208/andy-frasco-the-u-n-",
-    "date": "2023-09-29T20:30:00",
-    "venue": ""
-  },
-  {
-    "link": "https://www.beachlandballroom.com/e/13644168/this-way-out",
-    "date": "2023-09-30T12:00:00",
-    "venue": ""
   },
   {
     "artist": [
@@ -162,15 +139,6 @@
     "link": "https://www.beachlandballroom.com/e/13504178/travis-larson-band-ego",
     "date": "2023-10-02T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Margaret Glaspy",
-      "Tasha"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13245308/margaret-glaspy-tasha",
-    "date": "2023-10-03T20:00:00",
-    "venue": ""
   },
   {
     "artist": [
@@ -417,16 +385,6 @@
   },
   {
     "artist": [
-      "Laufey",
-      "Adam Melchor"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13204988/laufey-the-bewitched-tour",
-    "sold_out": true,
-    "date": "2023-10-24T20:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
       "The Arcadian Wild"
     ],
     "link": "https://www.beachlandballroom.com/e/13593758/the-arcadian-wild",
@@ -655,15 +613,6 @@
   },
   {
     "artist": [
-      "Shakey Graves",
-      "Rayland Baxter"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13387938/shakey-graves-rayland-baxter",
-    "date": "2023-11-16T20:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
       "PISSE",
       "The Serfs"
     ],
@@ -753,15 +702,6 @@
     "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
     "date": "2023-12-07T20:00:00",
     "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Pigeons Playing Ping Pong",
-      "Broccoli Samurai"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13483268/pigeons-playing-ping-pong-broccoli-samurai",
-    "date": "2023-12-07T19:15:00",
-    "venue": ""
   },
   {
     "artist": [

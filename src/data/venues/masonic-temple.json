@@ -1,60 +1,5 @@
 [
   {
-    "link": "https://www.ticketmaster.com/aiw-jt-lightning-invitational-tournament-night-cleveland-ohio-09-15-2023/event/05005EFB19F39317",
-    "date": "2023-09-15T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Josh Pray"
-    ],
-    "link": "https://www.ticketmaster.com/josh-pray-cleveland-ohio-09-15-2023/event/05005EF5E4A17000",
-    "date": "2023-09-15T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Leave Your Mark!"
-    ],
-    "link": "https://www.ticketmaster.com/leave-your-mark-cleveland-ohio-09-15-2023/event/05005F1ED01531D1",
-    "date": "2023-09-15T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "link": "https://www.ticketmaster.com/aiw-fresh-meat-3-cleveland-ohio-09-16-2023/event/05005EFB1C3993C8",
-    "date": "2023-09-16T15:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "link": "https://www.ticketmaster.com/aiw-jt-lightning-invitational-tournament-night-cleveland-ohio-09-16-2023/event/05005EFB1DC99441",
-    "date": "2023-09-16T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Two Mile Moon"
-    ],
-    "link": "https://www.ticketmaster.com/two-mile-moon-cleveland-ohio-09-16-2023/event/05005F07B07322A8",
-    "date": "2023-09-16T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Asking Alexandria and The Hu"
-    ],
-    "link": "https://www.ticketmaster.com/asking-alexandria-the-hu-cleveland-ohio-09-19-2023/event/05005ECCD49D4139",
-    "date": "2023-09-19T18:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Attila"
-    ],
-    "link": "https://www.ticketmaster.com/attila-cleveland-ohio-09-22-2023/event/05005EA1C02E3580",
-    "date": "2023-09-22T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
     "link": "https://www.ticketmaster.com/victor-promotions-presents-mason-brothers-boxing-cleveland-ohio-09-23-2023/event/05005F0FF9FF67FD",
     "date": "2023-09-23T19:00:00",
     "venue": "Masonic Temple"
@@ -189,10 +134,26 @@
   },
   {
     "artist": [
+      "Face 2 Face \u2013 A Tribute to Elton John & Billy Joel"
+    ],
+    "link": "https://www.ticketmaster.com/face-2-face-a-tribute-to-cleveland-ohio-11-03-2023/event/05005F320A0E46FB",
+    "date": "2023-11-03T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "SUSTO"
     ],
     "link": "https://www.ticketmaster.com/susto-cleveland-ohio-11-03-2023/event/05005EF99EB5345E",
     "date": "2023-11-03T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Corrupt UK"
+    ],
+    "link": "https://www.ticketmaster.com/corrupt-uk-cleveland-ohio-11-03-2023/event/05005F322B415443",
+    "date": "2023-11-03T21:00:00",
     "venue": "Masonic Temple"
   },
   {
@@ -209,6 +170,22 @@
     ],
     "link": "https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A",
     "date": "2023-11-18T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Honor Fight Championship MMA Fights"
+    ],
+    "link": "https://www.ticketmaster.com/honor-fight-championship-mma-fights-cleveland-ohio-11-25-2023/event/05005F2FF24A623B",
+    "date": "2023-11-25T18:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Steel Panther \u2013 On The Prowl Winter Holidaze Tour"
+    ],
+    "link": "https://www.ticketmaster.com/steel-panther-on-the-prowl-winter-cleveland-ohio-12-01-2023/event/05005F2FFBFB677B",
+    "date": "2023-12-01T20:00:00",
     "venue": "Masonic Temple"
   },
   {

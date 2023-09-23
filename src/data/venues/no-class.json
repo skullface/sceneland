@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "TOTAL CHAOS"
-    ],
-    "link": "https://www.eventbrite.com/e/total-chaos-tickets-620250073667",
-    "date": "2023-09-14T19:00:00",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "VENOM INC"
     ],
     "link": "https://www.eventbrite.com/e/venom-inc-tickets-670913058017",
@@ -85,6 +77,14 @@
     ],
     "link": "https://www.eventbrite.com/e/full-of-hell-tickets-654945308047",
     "date": "2023-11-13T19:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BODY VOID"
+    ],
+    "link": "https://www.eventbrite.com/e/body-void-tickets-719856910397",
+    "date": "2023-11-28T19:00:00",
     "venue": "No Class"
   },
   {

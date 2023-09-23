@@ -1,95 +1,6 @@
 [
   {
     "artist": [
-      "The Red Jumpsuit Apparatus"
-    ],
-    "link": "https://link.dice.fm/paedde883895",
-    "sold_out": true,
-    "date": "2023-09-14T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Speedy Ortiz"
-    ],
-    "link": "https://link.dice.fm/ca635670e86b",
-    "date": "2023-09-15T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Thing With Feathers"
-    ],
-    "link": "https://link.dice.fm/a81e9d6045e3",
-    "date": "2023-09-16T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "nothing, nowhere."
-    ],
-    "link": "https://link.dice.fm/Yc671f228cb0",
-    "date": "2023-09-17T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Bay Ledges"
-    ],
-    "link": "https://link.dice.fm/t64ce3221a56",
-    "date": "2023-09-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "True Widow"
-    ],
-    "link": "https://link.dice.fm/w480cee5e703",
-    "date": "2023-09-18T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Fame on Fire "
-    ],
-    "link": "https://link.dice.fm/tc4ff7da60b0",
-    "date": "2023-09-19T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Provoker"
-    ],
-    "link": "https://link.dice.fm/ud683cc3ca26",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "Tigercub"
-    ],
-    "link": "https://link.dice.fm/Zcdf94528bf8",
-    "date": "2023-09-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Senses Fail"
-    ],
-    "link": "https://link.dice.fm/R187e2db8f05",
-    "date": "2023-09-22T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Claud: Supermodels Tour Part 1"
-    ],
-    "link": "https://link.dice.fm/nc49322c925f",
-    "date": "2023-09-22T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Richy Mitch and the Coalminers"
     ],
     "link": "https://link.dice.fm/Kdd5ee17a3f1",
@@ -228,14 +139,6 @@
   },
   {
     "artist": [
-      "Kate Bollinger"
-    ],
-    "link": "https://link.dice.fm/P8653582ac4e",
-    "date": "2023-10-08T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
     ],
     "link": "https://link.dice.fm/d079039b50bc",
@@ -244,10 +147,10 @@
   },
   {
     "artist": [
-      "Dead on a Sunday"
+      "Kate Bollinger"
     ],
-    "link": "https://link.dice.fm/ta0ec89681c5",
-    "date": "2023-10-09T19:00:00-04:00",
+    "link": "https://link.dice.fm/P8653582ac4e",
+    "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -257,6 +160,14 @@
     "link": "https://link.dice.fm/cac8be85f81f",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Dead on a Sunday"
+    ],
+    "link": "https://link.dice.fm/ta0ec89681c5",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -316,19 +227,19 @@
   },
   {
     "artist": [
-      "Emblem3"
-    ],
-    "link": "https://link.dice.fm/ve8a20f788c7",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "SUICIDE SILENCE AND CHELSEA GRIN "
     ],
     "link": "https://link.dice.fm/S333ab788856",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Emblem3"
+    ],
+    "link": "https://link.dice.fm/ve8a20f788c7",
+    "date": "2023-10-20T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -372,19 +283,19 @@
   },
   {
     "artist": [
-      "Radiator Hospital"
-    ],
-    "link": "https://link.dice.fm/S73e91266b0a",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Annie Dukes"
     ],
     "link": "https://link.dice.fm/Gd2cf5c8f6ca",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Radiator Hospital"
+    ],
+    "link": "https://link.dice.fm/S73e91266b0a",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -436,6 +347,22 @@
   },
   {
     "artist": [
+      "Dumbo Gets Mad"
+    ],
+    "link": "https://link.dice.fm/o7e24e75039a",
+    "date": "2023-11-02T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Cousin Simple and Spirit of the Bear"
+    ],
+    "link": "https://link.dice.fm/V1ed70b20162",
+    "date": "2023-11-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Alan Palomo"
     ],
     "link": "https://link.dice.fm/K5555bdfa1f4",
@@ -444,10 +371,26 @@
   },
   {
     "artist": [
+      "TX2"
+    ],
+    "link": "https://link.dice.fm/f7d5a7db3918",
+    "date": "2023-11-05T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Abraham Alexander"
     ],
     "link": "https://link.dice.fm/o52d6784df40",
     "date": "2023-11-07T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Into It. Over It."
+    ],
+    "link": "https://link.dice.fm/Ka4c8810172d",
+    "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -460,14 +403,6 @@
   },
   {
     "artist": [
-      "Into It. Over It."
-    ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Real Friends and Knuckle Puck"
     ],
     "link": "https://link.dice.fm/J8ea137aa7aa",
@@ -476,7 +411,7 @@
   },
   {
     "artist": [
-      "Rumours ATL: The Live Fleetwood Mac Experience"
+      "Rumours ATL: The Live Fleetwood Mac Tribute"
     ],
     "link": "https://link.dice.fm/Mdff2de0fb11",
     "date": "2023-11-12T18:30:00-05:00",

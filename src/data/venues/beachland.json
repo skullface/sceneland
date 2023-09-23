@@ -1,141 +1,5 @@
 [
   {
-    "artist": [
-      "Pre/Post Party with DJ Advance"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13607998/pre-post-party-with-dj-advance",
-    "date": "2023-09-14T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Boris + Melvins",
-      "Mr. Phylzz"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13298248/boris-melvins-mr-phylzz",
-    "date": "2023-09-14T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "link": "https://www.beachlandballroom.com/e/13592328/this-way-out",
-    "date": "2023-09-15T12:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Clem Snide",
-      "Rye Valley"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13155758/clem-snide-rye-valley",
-    "date": "2023-09-15T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Sabor! A Latin Burlesque & Drag"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13527958/sabor-a-latin-burlesque-drag",
-    "date": "2023-09-15T20:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "link": "https://www.beachlandballroom.com/e/13592348/this-way-out",
-    "date": "2023-09-16T12:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Deke Dickerson with Crazy Joe Tritschler & Kyle Eldridge",
-      "Joey Simeone (The Bellfuries)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13503618/deke-dickerson-with-crazy-joe-tritschler-kyle-eldridge-joey-simeone-the-bellfuries-",
-    "date": "2023-09-16T20:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "Osees",
-      "Population II"
-    ],
-    "link": "https://www.beachlandballroom.com/e/12868355/osees-population-ii",
-    "sold_out": true,
-    "date": "2023-09-17T20:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Electric Blue Yonder",
-      "Clare Feorene"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13409408/electric-blue-yonder-clare-feorene",
-    "date": "2023-09-18T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "David Wain & Ken Marino's Middle Age Dad Jam Band",
-      "special guests Kathryn Hahn and Craig Wedren"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13424788/david-wain-ken-marino-s-middle-age-dad-jam-band-special-guests-kathryn-hahn-and-craig-wedren",
-    "date": "2023-09-18T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Boyish",
-      "Ivers",
-      "JET STAR"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13478558/boyish-ivers-jet-star",
-    "date": "2023-09-19T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Veronica Swift",
-      "Colin Palmieri"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13405078/veronica-swift-colin-palmieri",
-    "date": "2023-09-20T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Black Joe Lewis",
-      "Cities & Coasts"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13235398/black-joe-lewis-cities-coasts",
-    "date": "2023-09-21T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "MAN ON MAN",
-      "Factual Brains",
-      "Duo Decibel System"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13317508/man-on-man-factual-brains-duo-decibel-system",
-    "date": "2023-09-21T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "link": "https://www.beachlandballroom.com/e/13617008/this-way-out",
-    "date": "2023-09-22T12:00:00",
-    "venue": ""
-  },
-  {
-    "artist": [
-      "DEVOtional 2023",
-      "Fantastic Plastics",
-      "Malcolm Tent",
-      "Bamboo Bimbos",
-      "DEVOID"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13155948/devotional-2023-fantastic-plastics-malcolm-tent-bamboo-bimbos-devoid",
-    "date": "2023-09-22T19:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
     "link": "https://www.beachlandballroom.com/e/13617028/this-way-out",
     "date": "2023-09-23T12:00:00",
     "venue": ""
@@ -231,6 +95,19 @@
   },
   {
     "artist": [
+      "Pre/Post Party with TobyRaps"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13658588/pre-post-party-with-tobyraps",
+    "date": "2023-09-28T18:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "link": "https://www.beachlandballroom.com/e/13644158/this-way-out",
+    "date": "2023-09-29T12:00:00",
+    "venue": ""
+  },
+  {
+    "artist": [
       "The Lemon Twigs",
       "Joanna Sternberg"
     ],
@@ -255,6 +132,11 @@
     "venue": ""
   },
   {
+    "link": "https://www.beachlandballroom.com/e/13644168/this-way-out",
+    "date": "2023-09-30T12:00:00",
+    "venue": ""
+  },
+  {
     "artist": [
       "Falling Stars",
       "The Laughing Chimes",
@@ -263,6 +145,14 @@
     "link": "https://www.beachlandballroom.com/e/13413118/falling-stars-the-laughing-chimes-the-style-section",
     "date": "2023-09-30T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "School of Rock"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13644908/school-of-rock",
+    "date": "2023-10-01T12:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -293,9 +183,11 @@
   },
   {
     "artist": [
-      "MSPAINT"
+      "MSPAINT",
+      "Blossom Park",
+      "Blind Equation"
     ],
-    "link": "https://www.beachlandballroom.com/e/13573458/mspaint",
+    "link": "https://www.beachlandballroom.com/e/13573458/mspaint-blossom-park-blind-equation",
     "date": "2023-10-05T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -334,6 +226,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13205278/mssv-c-level",
     "date": "2023-10-07T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Richard Shack and Friends"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13630978/richard-shack-and-friends",
+    "date": "2023-10-08T14:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -407,6 +307,14 @@
     "link": "https://www.beachlandballroom.com/e/13346238/lewsberg-obnox-wrong-places",
     "date": "2023-10-14T20:30:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "BIRTH"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13632058/birth",
+    "date": "2023-10-15T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -650,9 +558,10 @@
   },
   {
     "artist": [
-      "Corb Lund"
+      "Corb Lund",
+      "Branson Anderson"
     ],
-    "link": "https://www.beachlandballroom.com/e/13506898/corb-lund",
+    "link": "https://www.beachlandballroom.com/e/13506898/corb-lund-branson-anderson",
     "date": "2023-11-04T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -685,6 +594,14 @@
   },
   {
     "artist": [
+      "Charlie Parr"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13644658/charlie-parr",
+    "date": "2023-11-07T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Screaming Females",
       "Dusk",
       "Grumpy Plum"
@@ -692,6 +609,14 @@
     "link": "https://www.beachlandballroom.com/e/13465208/screaming-females-dusk-grumpy-plum",
     "date": "2023-11-08T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Wayne Baker Brooks"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks",
+    "date": "2023-11-08T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -739,9 +664,10 @@
   },
   {
     "artist": [
-      "PISSE"
+      "PISSE",
+      "The Serfs"
     ],
-    "link": "https://www.beachlandballroom.com/e/13521728/pisse",
+    "link": "https://www.beachlandballroom.com/e/13521728/pisse-the-serfs",
     "date": "2023-11-18T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -752,6 +678,26 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13489368/boombox-tep-no",
     "date": "2023-11-19T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Rumpke Mountain Boys",
+      "Dupree's Dead Band",
+      "Whiskey Drinks"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13645718/rumpke-mountain-boys-dupree-s-dead-band-whiskey-drinks",
+    "date": "2023-11-24T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Rumpke Mountain Boys",
+      "The Stolen Faces",
+      "Sugar Mules"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13645788/rumpke-mountain-boys-the-stolen-faces-sugar-mules",
+    "date": "2023-11-25T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -774,9 +720,18 @@
   },
   {
     "artist": [
-      "Pokey LaFarge"
+      "Televisionaires"
     ],
-    "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge",
+    "link": "https://www.beachlandballroom.com/e/13644868/televisionaires",
+    "date": "2023-12-02T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Pokey LaFarge",
+      "Louisa Stancioff"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge-louisa-stancioff",
     "date": "2023-12-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -793,20 +748,20 @@
   },
   {
     "artist": [
-      "Pigeons Playing Ping Pong",
-      "Broccoli Samurai"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13483268/pigeons-playing-ping-pong-broccoli-samurai",
-    "date": "2023-12-07T19:15:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Robert Jon & The Wreck"
     ],
     "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
     "date": "2023-12-07T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Pigeons Playing Ping Pong",
+      "Broccoli Samurai"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13483268/pigeons-playing-ping-pong-broccoli-samurai",
+    "date": "2023-12-07T19:15:00",
+    "venue": ""
   },
   {
     "artist": [
@@ -863,6 +818,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
     "date": "2024-02-09T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Deap Vally",
+      "Sloppy Jane"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane",
+    "date": "2024-02-13T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

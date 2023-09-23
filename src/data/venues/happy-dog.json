@@ -1,6 +1,35 @@
 [
   {
     "artist": [
+      "Hyper Viper, Uncanny Valley, Church + State"
+    ],
+    "link": "https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417",
+    "date": "2023-09-23T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Private Lives, Whippets, DANA, The Missed"
+    ],
+    "link": "https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597",
+    "date": "2023-09-24T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706354604637",
+    "date": "2023-09-25T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Vintage Crop, Show Pink, The Carp"
+    ],
+    "link": "https://www.eventbrite.com/e/vintage-crop-show-pink-the-carp-tickets-706358556457",
+    "date": "2023-09-26T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country"
     ],
     "link": "https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457",
@@ -25,9 +54,9 @@
   },
   {
     "artist": [
-      "Scott Yoder, Oft Dreamy, Confusions"
+      "Scott Yoder, Oft Dreamy, Language, Confusions"
     ],
-    "link": "https://www.eventbrite.com/e/scott-yoder-oft-dreamy-confusions-tickets-714939271607",
+    "link": "https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607",
     "date": "2023-10-01T21:00:00",
     "venue": "Happy Dog"
   },
@@ -38,9 +67,9 @@
   },
   {
     "artist": [
-      "Copy of Happy Dog Takes on Everything"
+      "Happy Dog Takes on Everything"
     ],
-    "link": "https://www.eventbrite.com/e/copy-of-happy-dog-takes-on-everything-tickets-718857882277",
+    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-718857882277",
     "date": "2023-10-04T19:30:00",
     "venue": "Happy Dog"
   },
@@ -87,6 +116,67 @@
     ],
     "link": "https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437",
     "date": "2023-10-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Ace of Wands, Slow Wake, October Beach Club"
+    ],
+    "link": "https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597",
+    "date": "2023-10-13T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Backbiter, xEighty-Sixedx, Unvow"
+    ],
+    "link": "https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707",
+    "date": "2023-10-14T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Necromoon, The Magnavox's, Edwin Agustin Jr"
+    ],
+    "link": "https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987",
+    "date": "2023-10-15T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-718858363717",
+    "date": "2023-10-16T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Choke, Narc, Body Farm, Pillars"
+    ],
+    "link": "https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947",
+    "date": "2023-10-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Blood Chill, Mr. Princess, Bloodhounds"
+    ],
+    "link": "https://www.eventbrite.com/e/blood-chill-mr-princess-bloodhounds-tickets-718865454927",
+    "date": "2023-10-19T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "DJ Kishka Happy Hour!"
+    ],
+    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-718868253297",
+    "date": "2023-10-20T18:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Oktoberfest w/ the Anthony Culkar Band!"
+    ],
+    "link": "https://www.eventbrite.com/e/oktoberfest-w-the-anthony-culkar-band-tickets-718868654497",
+    "date": "2023-10-20T21:00:00",
     "venue": "Happy Dog"
   }
 ]

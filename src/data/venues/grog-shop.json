@@ -1,124 +1,11 @@
 [
   {
     "artist": [
-      "BORIS and MELVINS",
-      "Mr. Phylzzz"
-    ],
-    "link": "https://grogshop.gs/event-details/13297938/boris-and-melvins",
-    "sold_out": true,
-    "date": "2023-09-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Joe Hertler & The Rainbow Seekers",
-      "Rubix Groove",
-      "Melted Strawberry"
-    ],
-    "link": "https://grogshop.gs/event-details/13466168/joe-hertler-the-rainbow-seekers-rubix-groove-melted-strawberry",
-    "date": "2023-09-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Milk Carton Kids: I Only See The Moon Tour",
-      "Charlie Hickey",
-      "Tom Evanchuck"
-    ],
-    "link": "https://grogshop.gs/event-details/13239558/the-milk-carton-kids-i-only-see-the-moon-tour",
-    "date": "2023-09-15T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Fake Names",
-      "The Missed",
-      "Public Squares"
-    ],
-    "link": "https://grogshop.gs/event-details/13230278/fake-names-the-missed-public-squares",
-    "date": "2023-09-16T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Night Beats",
-      "Moonwalks",
-      "Nail Biters"
-    ],
-    "link": "https://grogshop.gs/event-details/13446408/night-beats-moonwalks-nail-biters",
-    "date": "2023-09-17T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "MELM ft. John Armstrong, Eulise Dickerson, Tony Bowers, John Brown, & John King"
-    ],
-    "link": "https://grogshop.gs/event-details/13501088/melm-ft-john-armstrong-eulise-dickerson-tony-bowers-john-brown-john-king",
-    "date": "2023-09-18T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Space Cadets & Lake Effect",
-      "No Pitches?"
-    ],
-    "link": "https://grogshop.gs/event-details/13563018/the-space-cadets-lake-effect",
-    "date": "2023-09-19T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Royel Otis US \u201923 SOFA KINGS TOUR",
-      "Friko",
-      "Louse"
-    ],
-    "link": "https://grogshop.gs/event-details/13287048/royel-otis-us-23-sofa-kings-tour",
-    "date": "2023-09-19T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Glorious Sons: The Glory Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13339868/the-glorious-sons-the-glory-tour",
-    "date": "2023-09-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "PATRICK DRONEY",
-      "Cecilia Castleman"
-    ],
-    "link": "https://grogshop.gs/event-details/13359848/patrick-droney",
-    "date": "2023-09-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "People in the Daytime",
-      "Solon",
-      "Post Saga",
-      "Jung Speedbat"
-    ],
-    "link": "https://grogshop.gs/event-details/13497628/people-in-the-daytime-solon-post-saga-jung-speedbat",
-    "date": "2023-09-21T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Monday Program, Mellowman Funk, Sierra Delaine, Trav Hen"
-    ],
-    "link": "https://grogshop.gs/event-details/13512138/the-monday-program-mellowman-funk-sierra-delaine-trav-hen",
-    "date": "2023-09-22T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Helmet",
       "Soul Blind"
     ],
     "link": "https://grogshop.gs/event-details/13420068/helmet-soul-blind",
-    "date": "2023-09-23T20:00:00",
+    "date": "2023-09-23T21:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -246,6 +133,16 @@
   },
   {
     "artist": [
+      "PAL",
+      "Anti-Feds",
+      "Bigg Egg"
+    ],
+    "link": "https://grogshop.gs/event-details/13632628/pal-anti-feds-bigg-egg",
+    "date": "2023-10-04T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "CONWAY THE MACHINE W/ SAUCE WALKA & JAE SKEESE",
       "Westside LO",
       "Matt Key & Rude Rebel"
@@ -274,7 +171,8 @@
   {
     "artist": [
       "Mustard Service",
-      "JW Francis"
+      "JW Francis",
+      "Tall Grass"
     ],
     "link": "https://grogshop.gs/event-details/13504718/mustard-service",
     "date": "2023-10-08T20:00:00",
@@ -312,10 +210,10 @@
       "Forced Happiness",
       "Eaten By Kittens",
       "Pink Maskerade",
-      "Fatal Union",
       "Miguel Cafe",
       "The Evan Furillo Project",
-      "Jack and the Cadavers"
+      "Jack and the Cadavers",
+      "Groundstate"
     ],
     "link": "https://grogshop.gs/event-details/13622238/fall-kickoff-2023",
     "date": "2023-10-12T19:00:00",
@@ -449,6 +347,18 @@
   },
   {
     "artist": [
+      "Cellar Dwellar",
+      "The Little Ditties",
+      "People In The Daytime",
+      "Radio Dummies",
+      "People in the Daytime"
+    ],
+    "link": "https://grogshop.gs/event-details/13626658/cellar-dwellar-the-little-ditties-people-in-the-daytime-radio-dummies",
+    "date": "2023-10-26T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "A Pop Punk Halloween ft TRUSS",
       "This Summer",
       "Grant"
@@ -477,6 +387,16 @@
   },
   {
     "artist": [
+      "Wish Queen \"Saturnalia\" Album Release",
+      "Radderall",
+      "tessas"
+    ],
+    "link": "https://grogshop.gs/event-details/13630848/wish-queen-saturnalia-album-release",
+    "date": "2023-10-29T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Skinny Lister",
       "PET NEEDS",
       "Bandaid Brigade"
@@ -487,7 +407,8 @@
   },
   {
     "artist": [
-      "Nick Shoulders and The Okay Crawdad: \u201cAll Bad Tour\u201d"
+      "Nick Shoulders and The Okay Crawdad: \u201cAll Bad Tour\u201d",
+      "Maddy Kirgo"
     ],
     "link": "https://grogshop.gs/event-details/13442118/nick-shoulders-and-the-okay-crawdad-all-bad-tour-",
     "date": "2023-10-31T20:00:00",
@@ -508,6 +429,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13527238/airiel-tallies-niights-bleeder",
     "date": "2023-11-04T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Party for the Peace Park : A Fundraiser for Coventry Peace Park",
+      "Grandview"
+    ],
+    "link": "https://grogshop.gs/event-details/13631648/party-for-the-peace-park-a-fundraiser-for-coventry-peace-park",
+    "date": "2023-11-05T16:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -649,7 +579,8 @@
   },
   {
     "artist": [
-      "The Flatliners Present The Holiday Melee"
+      "The Flatliners Present The Holiday Melee",
+      "Pet Symmetry"
     ],
     "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
     "date": "2023-12-15T20:30:00",
@@ -666,9 +597,10 @@
   {
     "artist": [
       "Horse Lords",
-      "Ka Baird"
+      "Ka Baird",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird",
+    "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo",
     "date": "2024-03-14T20:00:00",
     "venue": "Grog Shop"
   }

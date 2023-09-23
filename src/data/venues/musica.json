@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Flicker // Fade Live Band Emo Night!"
-    ],
-    "link": "https://www.ticketweb.com/event/flicker-fade-live-band-musica-tickets/13502008?pl=celebrityetc&REFID=clientsitewpecheck",
-    "date": "2023-09-15T21:00:00",
-    "venue": "Musica Akron"
-  },
-  {
-    "artist": [
-      "The Last Witch, Twin Drugs, Green Tree Novelty Tea, Oak & Ivy"
-    ],
-    "link": "https://www.ticketweb.com/event/the-last-witch-twin-drugs-musica-tickets/13521378?pl=celebrityetc&REFID=clientsitewpecheck",
-    "date": "2023-09-22T21:00:00",
-    "venue": "Musica Akron"
-  },
-  {
-    "artist": [
       "Liam Brock, Zach Beaver & DJ Roza"
     ],
     "link": "https://www.ticketweb.com/event/liam-brock-zach-beaver-dj-musica-tickets/13592508?pl=celebrityetc&REFID=clientsitewpecheck",
@@ -33,9 +17,9 @@
   },
   {
     "artist": [
-      "Worry Club"
+      "Worry Club, Posture, Learning Curve"
     ],
-    "link": "https://www.ticketweb.com/event/worry-club-musica-tickets/13489128?pl=celebrityetc&REFID=clientsitewpecheck",
+    "link": "https://www.ticketweb.com/event/worry-club-posture-learning-curve-musica-tickets/13489128?pl=celebrityetc&REFID=clientsitewpecheck",
     "date": "2023-09-29T20:00:00",
     "venue": "Musica Akron"
   },
@@ -81,10 +65,34 @@
   },
   {
     "artist": [
-      "Annie Dukes, The Buffalo Ryders, Outdated View"
+      "Kali Masi, Trash Mountain"
     ],
-    "link": "https://www.ticketweb.com/event/annie-dukes-the-buffalo-ryders-musica-tickets/13495108?pl=celebrityetc&REFID=clientsitewpecheck",
-    "date": "2023-10-22T20:00:00",
+    "link": "https://www.ticketweb.com/event/kali-masi-trash-mountain-musica-tickets/13649488?pl=celebrityetc&REFID=clientsitewpecheck",
+    "date": "2023-10-09T20:00:00",
+    "venue": "Musica Akron"
+  },
+  {
+    "artist": [
+      "Young Robot, Portage & Dome Test"
+    ],
+    "link": "https://www.ticketweb.com/event/young-robot-portage-dome-test-musica-tickets/13655448?pl=celebrityetc&REFID=clientsitewpecheck",
+    "date": "2023-10-12T20:00:00",
+    "venue": "Musica Akron"
+  },
+  {
+    "artist": [
+      "Easton Union, Blue Hour & Katy Robinson"
+    ],
+    "link": "https://www.ticketweb.com/event/easton-union-blue-hour-katy-musica-tickets/13655198?pl=celebrityetc&REFID=clientsitewpecheck",
+    "date": "2023-10-14T20:00:00",
+    "venue": "Musica Akron"
+  },
+  {
+    "artist": [
+      "Johnny Dynamite"
+    ],
+    "link": "https://www.ticketweb.com/event/johnny-dynamite-musica-tickets/13636368?pl=celebrityetc&REFID=clientsitewpecheck",
+    "date": "2023-11-01T20:00:00",
     "venue": "Musica Akron"
   },
   {

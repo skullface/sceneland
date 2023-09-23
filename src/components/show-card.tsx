@@ -23,21 +23,23 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
                 Sold out
               </p>
             )}
-            <p className='order-1 font-mono text-sm'>{show.venue}</p>{' '}
+            <p className='order-1 font-mono text-sm text-zinc-500'>
+              {show.venue}
+            </p>{' '}
           </div>
           <time
             dateTime={new Date(show.date).toISOString()}
-            className='mt-3 flex flex-1 items-end justify-between gap-x-2 text-zinc-800 dark:text-zinc-500'
+            className='mt-3 flex flex-1 items-end justify-between gap-x-2 text-zinc-500'
           >
             <span>
-              <span className='dark:text-zinc-300'>
+              <span className='text-zinc-800 dark:text-zinc-300'>
                 {new Date(show.date).toLocaleDateString('en-US', {
                   timeZone: 'America/New_York',
                   weekday: 'short',
                 })}
               </span>
               ,{' '}
-              <span className='dark:text-zinc-300'>
+              <span className='text-zinc-800 dark:text-zinc-300'>
                 {new Date(show.date).toLocaleDateString('en-US', {
                   timeZone: 'America/New_York',
                   month: 'long',

@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Sep 2023 09:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 09:06:12 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[SIERRA, Nocturnal at Foundry]]></title>
-            <description><![CDATA[Get tickets to SIERRA, Nocturnal at Foundry on Friday, September 22, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/sierra-nocturnal/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/sierra-nocturnal/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/sierra-nocturnal/</guid>
-            <pubDate>Fri, 22 Sep 2023 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Dead Boys, Lords of the Highway, The Missing at Foundry]]></title>
             <description><![CDATA[Get tickets to Dead Boys, Lords of the Highway, The Missing at Foundry on Saturday, September 23, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/dead-boys-lords-of-the-highway/]]></description>
@@ -252,13 +245,6 @@
             <pubDate>Sun, 03 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Attila at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Attila at Masonic Temple on Friday, September 22, 2023, 08:00 PM: https://www.ticketmaster.com/attila-cleveland-ohio-09-22-2023/event/05005EA1C02E3580]]></description>
-            <link>https://www.ticketmaster.com/attila-cleveland-ohio-09-22-2023/event/05005EA1C02E3580</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/attila-cleveland-ohio-09-22-2023/event/05005EA1C02E3580</guid>
-            <pubDate>Fri, 22 Sep 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sector 442 at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Sector 442 at Masonic Temple on Saturday, September 23, 2023, 08:00 PM: https://www.ticketmaster.com/sector-442-cleveland-ohio-09-23-2023/event/05005F11BAD42FB8]]></description>
             <link>https://www.ticketmaster.com/sector-442-cleveland-ohio-09-23-2023/event/05005F11BAD42FB8</link>
@@ -440,13 +426,6 @@
             <pubDate>Sun, 17 Dec 2023 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Self Checkout Tape Release w/ TV Drugs: in the Underdog! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Self Checkout Tape Release w/ TV Drugs: in the Underdog! at Happy Dog on Friday, September 22, 2023, 09:00 PM: https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-in-the-underdog-tickets-695045930087]]></description>
-            <link>https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-in-the-underdog-tickets-695045930087</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/self-checkout-tape-release-w-tv-drugs-in-the-underdog-tickets-695045930087</guid>
-            <pubDate>Fri, 22 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hyper Viper, Uncanny Valley, Church + State at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Hyper Viper, Uncanny Valley, Church + State at Happy Dog on Saturday, September 23, 2023, 09:00 PM: https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417]]></description>
             <link>https://www.eventbrite.com/e/hyper-viper-uncanny-valley-church-state-tickets-714926503417</link>
@@ -580,6 +559,13 @@
             <pubDate>Fri, 20 Oct 2023 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Oktoberfest w/ the Anthony Culkar Band! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Oktoberfest w/ the Anthony Culkar Band! at Happy Dog on Friday, October 20, 2023, 09:00 PM: https://www.eventbrite.com/e/oktoberfest-w-the-anthony-culkar-band-tickets-718868654497]]></description>
+            <link>https://www.eventbrite.com/e/oktoberfest-w-the-anthony-culkar-band-tickets-718868654497</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/oktoberfest-w-the-anthony-culkar-band-tickets-718868654497</guid>
+            <pubDate>Fri, 20 Oct 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Godsmack at Blossom]]></title>
             <description><![CDATA[Get tickets to Godsmack at Blossom on Sunday, September 24, 2023, 07:00 PM: https://concerts.livenation.com/godsmack-cuyahoga-falls-ohio-09-24-2023/event/05005EF023A9804C]]></description>
             <link>https://concerts.livenation.com/godsmack-cuyahoga-falls-ohio-09-24-2023/event/05005EF023A9804C</link>
@@ -613,13 +599,6 @@
             <link>https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</link>
             <guid isPermaLink="true">https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</guid>
             <pubDate>Wed, 26 Jun 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Green Tree Novelty Tea, Twin Drugs, Oak & Ivy, Kid Tigrrr at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to Green Tree Novelty Tea, Twin Drugs, Oak & Ivy, Kid Tigrrr at Musica Akron on Friday, September 22, 2023, 09:00 PM: https://www.ticketweb.com/event/-green-tree-novelty-tea-musica-tickets/13521378?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
-            <link>https://www.ticketweb.com/event/-green-tree-novelty-tea-musica-tickets/13521378?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/-green-tree-novelty-tea-musica-tickets/13521378?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
-            <pubDate>Fri, 22 Sep 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liam Brock, Zach Beaver & DJ Roza at Musica Akron]]></title>
@@ -697,13 +676,6 @@
             <link>https://www.ticketweb.com/event/easton-union-blue-hour-katy-musica-tickets/13655198?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/easton-union-blue-hour-katy-musica-tickets/13655198?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Sat, 14 Oct 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Annie Dukes, The Buffalo Ryders, Outdated View at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to Annie Dukes, The Buffalo Ryders, Outdated View at Musica Akron on Sunday, October 22, 2023, 08:00 PM: https://www.ticketweb.com/event/annie-dukes-the-buffalo-ryders-musica-tickets/13495108?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
-            <link>https://www.ticketweb.com/event/annie-dukes-the-buffalo-ryders-musica-tickets/13495108?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/annie-dukes-the-buffalo-ryders-musica-tickets/13495108?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
-            <pubDate>Sun, 22 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Johnny Dynamite at Musica Akron]]></title>
@@ -811,13 +783,6 @@
             <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nothing But Thieves at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Nothing But Thieves at House of Blues on Friday, September 22, 2023, 06:30 PM: https://concerts.livenation.com/nothing-but-thieves-cleveland-ohio-09-22-2023/event/05005E67CEB43E76]]></description>
-            <link>https://concerts.livenation.com/nothing-but-thieves-cleveland-ohio-09-22-2023/event/05005E67CEB43E76</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/nothing-but-thieves-cleveland-ohio-09-22-2023/event/05005E67CEB43E76</guid>
-            <pubDate>Fri, 22 Sep 2023 18:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dean Lewis: The Future Is Bright Tour at House of Blues]]></title>
             <description><![CDATA[Get tickets to Dean Lewis: The Future Is Bright Tour at House of Blues on Saturday, September 23, 2023, 07:00 PM: https://concerts.livenation.com/dean-lewis-the-future-is-bright-cleveland-ohio-09-23-2023/event/05005E8ED7A64B46]]></description>
             <link>https://concerts.livenation.com/dean-lewis-the-future-is-bright-cleveland-ohio-09-23-2023/event/05005E8ED7A64B46</link>
@@ -903,9 +868,16 @@
         </item>
         <item>
             <title><![CDATA[Valley at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Valley at House of Blues on Monday, October 9, 2023, 07:00 PM: https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F07CDA632A2]]></description>
-            <link>https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F07CDA632A2</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F07CDA632A2</guid>
+            <description><![CDATA[Get tickets to Valley at House of Blues on Monday, October 9, 2023, 07:00 PM: https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F351D5C66D9]]></description>
+            <link>https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F351D5C66D9</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F351D5C66D9</guid>
+            <pubDate>Mon, 09 Oct 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valley: Moved To the Cambridge Room!! at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Valley: Moved To the Cambridge Room!! at House of Blues on Monday, October 9, 2023, 07:00 PM: https://concerts.livenation.com/valley-moved-to-the-cambridge-room-cleveland-ohio-10-09-2023/event/05005F07CDA632A2]]></description>
+            <link>https://concerts.livenation.com/valley-moved-to-the-cambridge-room-cleveland-ohio-10-09-2023/event/05005F07CDA632A2</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/valley-moved-to-the-cambridge-room-cleveland-ohio-10-09-2023/event/05005F07CDA632A2</guid>
             <pubDate>Mon, 09 Oct 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1152,13 +1124,6 @@
             <link>https://www.axs.com/events/480989/parkway-drive-tickets</link>
             <guid isPermaLink="true">https://www.axs.com/events/480989/parkway-drive-tickets</guid>
             <pubDate>Fri, 22 Sep 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Desi Banks at Agora]]></title>
-            <description><![CDATA[Get tickets to Desi Banks at Agora on Friday, September 22, 2023, 06:30 PM: https://www.agoracleveland.com/events/detail/484074]]></description>
-            <link>https://www.agoracleveland.com/events/detail/484074</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/484074</guid>
-            <pubDate>Fri, 22 Sep 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ashnikko, Audrey Nuna at Agora]]></title>
@@ -1434,6 +1399,34 @@
             <pubDate>Sat, 06 Jan 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[G Jones, IMANU, KOAN Sound, Sayer at Agora]]></title>
+            <description><![CDATA[Get tickets to G Jones, IMANU, KOAN Sound, Sayer at Agora on Friday, January 19, 2024, 08:00 PM: https://www.agoracleveland.com/events/detail/494799]]></description>
+            <link>https://www.agoracleveland.com/events/detail/494799</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/494799</guid>
+            <pubDate>Fri, 19 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Darcy & Jer at Agora]]></title>
+            <description><![CDATA[Get tickets to Darcy & Jer at Agora on Sunday, February 18, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/489478]]></description>
+            <link>https://www.agoracleveland.com/events/detail/489478</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/489478</guid>
+            <pubDate>Sun, 18 Feb 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Static-X and Sevendust, Dope, Lines Of Loyalty at Agora]]></title>
+            <description><![CDATA[Get tickets to Static-X and Sevendust, Dope, Lines Of Loyalty at Agora on Thursday, February 22, 2024, 05:30 PM: https://www.agoracleveland.com/events/detail/503221]]></description>
+            <link>https://www.agoracleveland.com/events/detail/503221</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/503221</guid>
+            <pubDate>Thu, 22 Feb 2024 17:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jimbo's Drag Circus at Agora]]></title>
+            <description><![CDATA[Get tickets to Jimbo's Drag Circus at Agora on Saturday, March 2, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/495366]]></description>
+            <link>https://www.agoracleveland.com/events/detail/495366</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/495366</guid>
+            <pubDate>Sat, 02 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tina Fey & Amy Poehler: Restless Leg Tour at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Tina Fey & Amy Poehler: Restless Leg Tour at Playhouse Square on Thursday, September 21, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour]]></description>
             <link>https://www.playhousesquare.org/events/detail/tina-fey-amy-poehler-restless-leg-tour</link>
@@ -1707,18 +1700,11 @@
             <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Monday Program, Mellowman Funk, Sierra Delaine, Trav Hen at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Monday Program, Mellowman Funk, Sierra Delaine, Trav Hen at Grog Shop on Friday, September 22, 2023, 09:00 PM: https://grogshop.gs/event-details/13512138/the-monday-program-mellowman-funk-sierra-delaine-trav-hen]]></description>
-            <link>https://grogshop.gs/event-details/13512138/the-monday-program-mellowman-funk-sierra-delaine-trav-hen</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13512138/the-monday-program-mellowman-funk-sierra-delaine-trav-hen</guid>
-            <pubDate>Fri, 22 Sep 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Helmet, Soul Blind at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Helmet, Soul Blind at Grog Shop on Saturday, September 23, 2023, 08:30 PM: https://grogshop.gs/event-details/13420068/helmet-soul-blind]]></description>
+            <description><![CDATA[Get tickets to Helmet, Soul Blind at Grog Shop on Saturday, September 23, 2023, 09:00 PM: https://grogshop.gs/event-details/13420068/helmet-soul-blind]]></description>
             <link>https://grogshop.gs/event-details/13420068/helmet-soul-blind</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13420068/helmet-soul-blind</guid>
-            <pubDate>Sat, 23 Sep 2023 20:30:00 GMT</pubDate>
+            <pubDate>Sat, 23 Sep 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Harley Poe, The Homeless Gospel Choir, The House of Wills at Grog Shop]]></title>
@@ -1973,6 +1959,13 @@
             <pubDate>Wed, 25 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cellar Dwellar, The Little Ditties, People In The Daytime, Radio Dummies, People in the Daytime at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Cellar Dwellar, The Little Ditties, People In The Daytime, Radio Dummies, People in the Daytime at Grog Shop on Thursday, October 26, 2023, 08:00 PM: https://grogshop.gs/event-details/13626658/cellar-dwellar-the-little-ditties-people-in-the-daytime-radio-dummies]]></description>
+            <link>https://grogshop.gs/event-details/13626658/cellar-dwellar-the-little-ditties-people-in-the-daytime-radio-dummies</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13626658/cellar-dwellar-the-little-ditties-people-in-the-daytime-radio-dummies</guid>
+            <pubDate>Thu, 26 Oct 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Pop Punk Halloween ft TRUSS, This Summer, Grant at Grog Shop]]></title>
             <description><![CDATA[Get tickets to A Pop Punk Halloween ft TRUSS, This Summer, Grant at Grog Shop on Friday, October 27, 2023, 08:00 PM: https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss]]></description>
             <link>https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss</link>
@@ -2153,13 +2146,6 @@
             <link>https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo</guid>
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEVOtional 2023, Fantastic Plastics, Malcolm Tent, Bamboo Bimbos, DEVOID at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to DEVOtional 2023, Fantastic Plastics, Malcolm Tent, Bamboo Bimbos, DEVOID at Beachland Ballroom on Friday, September 22, 2023, 07:00 PM: https://www.beachlandballroom.com/e/13155948/devotional-2023-fantastic-plastics-malcolm-tent-bamboo-bimbos-devoid]]></description>
-            <link>https://www.beachlandballroom.com/e/13155948/devotional-2023-fantastic-plastics-malcolm-tent-bamboo-bimbos-devoid</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13155948/devotional-2023-fantastic-plastics-malcolm-tent-bamboo-bimbos-devoid</guid>
-            <pubDate>Fri, 22 Sep 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DEVOtional 2023, Detention, Fight Milk, Raffle, Massive Hot Dog Recall, Delaney Jane, DJ Lance, Muzzle, Johnny Spud at Beachland Ballroom]]></title>
@@ -2876,20 +2862,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Senses Fail at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Senses Fail at The Roxy at Mahall’s on Friday, September 22, 2023, 10:30 PM: https://link.dice.fm/R187e2db8f05]]></description>
-            <link>https://link.dice.fm/R187e2db8f05</link>
-            <guid isPermaLink="true">https://link.dice.fm/R187e2db8f05</guid>
-            <pubDate>Fri, 22 Sep 2023 22:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claud: Supermodels Tour Part 1 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Claud: Supermodels Tour Part 1 at Mahall’s on Friday, September 22, 2023, 11:00 PM: https://link.dice.fm/nc49322c925f]]></description>
-            <link>https://link.dice.fm/nc49322c925f</link>
-            <guid isPermaLink="true">https://link.dice.fm/nc49322c925f</guid>
-            <pubDate>Fri, 22 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Richy Mitch and the Coalminers at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Richy Mitch and the Coalminers at Mahall’s on Saturday, September 23, 2023, 11:00 PM: https://link.dice.fm/Kdd5ee17a3f1]]></description>
             <link>https://link.dice.fm/Kdd5ee17a3f1</link>
@@ -2897,17 +2869,17 @@
             <pubDate>Sat, 23 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Autopilot at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Autopilot at Mahall’s Apartment on Tuesday, September 26, 2023, 11:00 PM: https://link.dice.fm/T4381d524f65]]></description>
-            <link>https://link.dice.fm/T4381d524f65</link>
-            <guid isPermaLink="true">https://link.dice.fm/T4381d524f65</guid>
-            <pubDate>Tue, 26 Sep 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Astronomers at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Astronomers at Mahall’s on Tuesday, September 26, 2023, 11:00 PM: https://link.dice.fm/s4cada23b8e0]]></description>
             <link>https://link.dice.fm/s4cada23b8e0</link>
             <guid isPermaLink="true">https://link.dice.fm/s4cada23b8e0</guid>
+            <pubDate>Tue, 26 Sep 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autopilot at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Autopilot at Mahall’s Apartment on Tuesday, September 26, 2023, 11:00 PM: https://link.dice.fm/T4381d524f65]]></description>
+            <link>https://link.dice.fm/T4381d524f65</link>
+            <guid isPermaLink="true">https://link.dice.fm/T4381d524f65</guid>
             <pubDate>Tue, 26 Sep 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3086,17 +3058,17 @@
             <pubDate>Tue, 17 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emblem3 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
-            <link>https://link.dice.fm/ve8a20f788c7</link>
-            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
-            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/S333ab788856]]></description>
             <link>https://link.dice.fm/S333ab788856</link>
             <guid isPermaLink="true">https://link.dice.fm/S333ab788856</guid>
+            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emblem3 at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
+            <link>https://link.dice.fm/ve8a20f788c7</link>
+            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
             <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3210,6 +3182,13 @@
             <link>https://link.dice.fm/K5555bdfa1f4</link>
             <guid isPermaLink="true">https://link.dice.fm/K5555bdfa1f4</guid>
             <pubDate>Sat, 04 Nov 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TX2 at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to TX2 at Mahall’s on Sunday, November 5, 2023, 11:00 PM: https://link.dice.fm/f7d5a7db3918]]></description>
+            <link>https://link.dice.fm/f7d5a7db3918</link>
+            <guid isPermaLink="true">https://link.dice.fm/f7d5a7db3918</guid>
+            <pubDate>Sun, 05 Nov 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Abraham Alexander at Mahall’s]]></title>

@@ -89,14 +89,14 @@ export default function Page({ shows }: PageProps) {
       selectedVenues.includes(venueMapping[show.venue] || show.venue),
   )
 
-  // Get the current date and time
-  const currentDate = new Date(
-    new Date().toLocaleString('en-US', { timeZone: 'America/New_York' }),
-  )
-
   // Ignore shows that have already happened
   const filteredCurrentShows = filteredShows.filter((show) => {
     const showDate = new Date(show.date)
+
+    // Get the current date at 4am ET
+    const currentDate = new Date()
+    currentDate.setHours(4, 0, 0, 0)
+    currentDate.toLocaleString('en-US', { timeZone: 'America/New_York' })
 
     // Convert the show date to US Eastern Time
     const showDateInET = new Date(

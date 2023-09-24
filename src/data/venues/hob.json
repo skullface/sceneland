@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dean Lewis: The Future Is Bright Tour"
-    ],
-    "link": "https://concerts.livenation.com/dean-lewis-the-future-is-bright-cleveland-ohio-09-23-2023/event/05005E8ED7A64B46",
-    "date": "2023-09-23T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Yelawolf"
     ],
     "link": "https://concerts.livenation.com/yelawolf-cleveland-ohio-09-24-2023/event/05005EF18E5F18C1",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/jazz-is-dead-cleveland-ohio-12-03-2023/event/05005EE505D05AD2",
     "date": "2023-12-03T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Dirty Honey: Can't Find The Brakes Tour"
+    ],
+    "link": "https://concerts.livenation.com/dirty-honey-cant-find-the-brakes-cleveland-ohio-12-09-2023/event/05005F02BD4E662B",
+    "date": "2023-12-09T19:00:00",
     "venue": "House of Blues"
   }
 ]

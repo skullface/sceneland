@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Yelawolf"
-    ],
-    "link": "https://concerts.livenation.com/yelawolf-cleveland-ohio-09-24-2023/event/05005EF18E5F18C1",
-    "date": "2023-09-24T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Jake Miller"
-    ],
-    "link": "https://concerts.livenation.com/jake-miller-cleveland-ohio-09-24-2023/event/05005EA9BC6C5081",
-    "date": "2023-09-24T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Sammy Rae & The Friends"
     ],
     "link": "https://concerts.livenation.com/sammy-rae-the-friends-cleveland-ohio-09-26-2023/event/05005E56ADF34AB7",
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/dirty-honey-cant-find-the-brakes-cleveland-ohio-12-09-2023/event/05005F02BD4E662B",
     "date": "2023-12-09T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "The Vindys"
+    ],
+    "link": "https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4",
+    "date": "2023-12-30T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Badfish: A Tribute To Sublime"
+    ],
+    "link": "https://concerts.livenation.com/badfish-a-tribute-to-sublime-cleveland-ohio-02-09-2024/event/05005F2FCF5D4CF7",
+    "date": "2024-02-09T19:00:00",
     "venue": "House of Blues"
   }
 ]

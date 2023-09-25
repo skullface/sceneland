@@ -1,13 +1,5 @@
 [
   {
-    "artist": [
-      "Private Lives, Whippets, DANA, The Missed"
-    ],
-    "link": "https://www.eventbrite.com/e/private-lives-whippets-dana-the-missed-tickets-695047103597",
-    "date": "2023-09-24T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706354604637",
     "date": "2023-09-25T20:00:00",
     "venue": "Happy Dog"
@@ -177,6 +169,14 @@
     ],
     "link": "https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307",
     "date": "2023-10-22T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Class, Disintegration, DJ Peffer"
+    ],
+    "link": "https://www.eventbrite.com/e/class-disintegration-dj-peffer-tickets-718879236147",
+    "date": "2023-10-23T21:00:00",
     "venue": "Happy Dog"
   }
 ]

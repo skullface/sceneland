@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply bg-zinc-50 text-zinc-500 [text-wrap:pretty] dark:bg-zinc-950 dark:text-zinc-500;
+    @apply bg-zinc-100 text-zinc-500 [text-wrap:pretty] dark:bg-zinc-950 dark:text-zinc-500;
   }
 }
 

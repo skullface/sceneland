@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "BrewDog Beachland BINGO",
-      "DJ Advance"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13622228/brewdog-beachland-bingo-dj-advance",
-    "date": "2023-09-25T19:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "A Crown Royal Dance Party"
     ],
     "link": "https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party",
@@ -114,6 +105,14 @@
     "link": "https://www.beachlandballroom.com/e/13440688/margo-price-brit-taylor",
     "date": "2023-10-03T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Pre/Post Party with The A-Team (DJ Lady Que & DJ Agnebrew)"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13673538/pre-post-party-with-the-a-team-dj-lady-que-dj-agnebrew-",
+    "date": "2023-10-03T18:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -300,20 +299,20 @@
   },
   {
     "artist": [
-      "Carbon Leaf"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13225388/carbon-leaf",
-    "date": "2023-10-20T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Squirrel Flower",
       "Truth Club"
     ],
     "link": "https://www.beachlandballroom.com/e/13420938/squirrel-flower-truth-club",
     "date": "2023-10-20T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Carbon Leaf"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13225388/carbon-leaf",
+    "date": "2023-10-20T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -415,6 +414,15 @@
   },
   {
     "artist": [
+      "BrewDog Beachland Halloween BINGO",
+      "DJ Advance"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13625788/brewdog-beachland-halloween-bingo-dj-advance",
+    "date": "2023-10-30T19:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Songstress Jo",
       "Girl Cologne",
       "Blaire Blades and The Backstabbers"
@@ -440,6 +448,16 @@
     "link": "https://www.beachlandballroom.com/e/13607688/shrapknel-rich-jones-eliy-orcko",
     "date": "2023-11-01T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Light Beams",
+      "Night Medicine",
+      "Wrong Places"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13674678/light-beams-night-medicine-wrong-places",
+    "date": "2023-11-01T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -700,6 +718,16 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
     "date": "2023-12-13T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Lung",
+      "Honeyland",
+      "The Brakes"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes",
+    "date": "2023-12-21T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

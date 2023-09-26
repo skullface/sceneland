@@ -1,10 +1,5 @@
 [
   {
-    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706354604637",
-    "date": "2023-09-25T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "artist": [
       "Vintage Crop, Show Pink, The Carp"
     ],
@@ -177,6 +172,14 @@
     ],
     "link": "https://www.eventbrite.com/e/class-disintegration-dj-peffer-tickets-718879236147",
     "date": "2023-10-23T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Machine Go Boom, Honolulu High, Perfect Pals"
+    ],
+    "link": "https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947",
+    "date": "2023-10-27T21:00:00",
     "venue": "Happy Dog"
   }
 ]

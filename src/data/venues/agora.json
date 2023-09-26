@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dance Gavin Dance, SiM, Rain City Drive, Within Destruction"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/486158",
-    "date": "2023-09-25T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "The Front Bottoms, Vundabar"
     ],
     "link": "https://www.agoracleveland.com/events/detail/487928",
@@ -117,6 +109,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/486524",
     "date": "2023-10-21T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Hair and the Blog"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/501611",
+    "date": "2023-10-22T18:30:00",
     "venue": "Agora"
   },
   {
@@ -317,6 +317,22 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/489478",
     "date": "2024-02-18T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Static-X and Sevendust, Dope, Lines Of Loyalty"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/503221",
+    "date": "2024-02-22T17:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jimbo's Drag Circus"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/495366",
+    "date": "2024-03-02T19:00:00",
     "venue": "Agora"
   }
 ]

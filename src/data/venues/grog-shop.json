@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Jesse Jo Stark",
-      "Rachel Bobbitt",
-      "Charity Cunningham"
-    ],
-    "link": "https://grogshop.gs/event-details/13352558/jesse-jo-stark",
-    "date": "2023-09-26T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "IDK",
       "Lute",
       "Joey Aich",
@@ -235,14 +225,6 @@
   },
   {
     "artist": [
-      "NONAME: Sundial Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13509568/noname-sundial-tour",
-    "date": "2023-10-17T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "John-Allison Weiss: \"Say What You Mean\" 10 Year Anniversary",
       "Crash Nebula",
       "Molly O'Malley",
@@ -422,6 +404,14 @@
   },
   {
     "artist": [
+      "Splash Tour: I am DJ Squirt"
+    ],
+    "link": "https://grogshop.gs/event-details/13679818/splash-tour-i-am-dj-squirt",
+    "date": "2023-11-09T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Beauty School Dropout",
       "Not A Toy",
       "Ava Maybee"
@@ -473,6 +463,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13568818/skuff-micksun-wrapped-up-in-wind-album-release-ft-peachcurls-and-radderall",
     "date": "2023-11-18T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "NONAME: Sundial Tour"
+    ],
+    "link": "https://grogshop.gs/event-details/13509568/noname-sundial-tour",
+    "date": "2023-11-19T20:00:00",
     "venue": "Grog Shop"
   },
   {

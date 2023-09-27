@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Astronomers"
-    ],
-    "link": "https://link.dice.fm/s4cada23b8e0",
-    "date": "2023-09-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Autopilot"
-    ],
-    "link": "https://link.dice.fm/T4381d524f65",
-    "date": "2023-09-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Casey"
     ],
     "link": "https://link.dice.fm/Uc495f26de15",
@@ -410,6 +394,14 @@
   },
   {
     "artist": [
+      "Gimme Gimme Disco"
+    ],
+    "link": "https://link.dice.fm/y3ef543a5dce",
+    "date": "2023-11-10T21:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Rumours ATL: The Live Fleetwood Mac Tribute"
     ],
     "link": "https://link.dice.fm/Mdff2de0fb11",
@@ -518,6 +510,14 @@
     ],
     "link": "https://link.dice.fm/X3e730b069c8",
     "date": "2023-12-10T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Orphan The Poet"
+    ],
+    "link": "https://link.dice.fm/z6cc7e5031be",
+    "date": "2023-12-15T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

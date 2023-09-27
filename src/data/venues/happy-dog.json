@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Vintage Crop, Show Pink, The Carp"
-    ],
-    "link": "https://www.eventbrite.com/e/vintage-crop-show-pink-the-carp-tickets-706358556457",
-    "date": "2023-09-26T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country"
     ],
     "link": "https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457",
@@ -42,6 +34,14 @@
   {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706925732897",
     "date": "2023-10-02T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Full 90: a Free Night of Irish Music!"
+    ],
+    "link": "https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-727087557457",
+    "date": "2023-10-03T20:00:00",
     "venue": "Happy Dog"
   },
   {

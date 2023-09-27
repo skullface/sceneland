@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sammy Rae & The Friends"
-    ],
-    "link": "https://concerts.livenation.com/sammy-rae-the-friends-cleveland-ohio-09-26-2023/event/05005E56ADF34AB7",
-    "date": "2023-09-26T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "SALIVA and DROWNING POOL: SNAFU Le Tour Presented By WMMS"
     ],
     "link": "https://concerts.livenation.com/saliva-and-drowning-pool-snafu-le-cleveland-ohio-09-27-2023/event/05005EDAD6D859C7",
@@ -313,9 +305,9 @@
   },
   {
     "artist": [
-      "Welshly Arms: Presented By WAPS"
+      "Welshly Arms: Presented By The Summit FM"
     ],
-    "link": "https://concerts.livenation.com/welshly-arms-presented-by-waps-cleveland-ohio-11-25-2023/event/05005F0BDBE69247",
+    "link": "https://concerts.livenation.com/welshly-arms-presented-by-the-summit-cleveland-ohio-11-25-2023/event/05005F0BDBE69247",
     "date": "2023-11-25T19:00:00",
     "venue": "House of Blues"
   },
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4",
     "date": "2023-12-30T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "anees: Winter Camp Tour"
+    ],
+    "link": "https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17",
+    "date": "2024-02-03T19:00:00",
     "venue": "House of Blues"
   }
 ]

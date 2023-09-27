@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cast Iron Comedy Showcase"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/",
-    "date": "2023-09-26T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Tomorrows Ghosts, Ozolith, Thrapple, Velo City"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/tomorrows-ghosts/",
@@ -37,6 +29,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/shaggy-2-dope-dj-clay/",
     "date": "2023-10-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "NOCTURNAL HALLOWEEN PARTY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-halloween-party/",
+    "date": "2023-10-07T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -161,6 +161,14 @@
   },
   {
     "artist": [
+      "Vinyl Party"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/vinyl-party/",
+    "date": "2023-11-04T11:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "She 1 Him 2, Two Forks, Crune"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/she-1-him-2-two-forks-crune/",
@@ -225,7 +233,7 @@
   },
   {
     "artist": [
-      "Whitehall"
+      "Whitehall, Variety Pack, Night Elm"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/whitehall/",
     "date": "2023-11-19T19:00:00",

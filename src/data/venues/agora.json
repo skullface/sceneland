@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Front Bottoms, Vundabar"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/487928",
-    "date": "2023-09-26T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Explosions In The Sky, Black Island Condors"
     ],
     "link": "https://www.agoracleveland.com/events/detail/481528",
@@ -333,6 +325,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/495366",
     "date": "2024-03-02T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Scott Bradlee's  Postmodern Jukebox"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/503995",
+    "date": "2024-03-10T19:00:00",
     "venue": "Agora"
   }
 ]

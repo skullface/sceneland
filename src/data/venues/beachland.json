@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "A Crown Royal Dance Party"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13603378/a-crown-royal-dance-party",
-    "date": "2023-09-26T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Kiefer",
-      "Nathan-Paul"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13446918/kiefer-nathan-paul",
-    "date": "2023-09-26T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "MONOPHONICS",
       "Dos Santos"
     ],
@@ -402,6 +385,16 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13338738/midnight-black-death-assault-nunslaughter-destructor",
     "date": "2023-10-27T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "WCSB's Halloween Ball",
+      "Two stages! Eight acts!",
+      "Free and all ages \u2014 plus a costume contest with cash prizes!"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13679028/wcsb-s-halloween-ball-two-stages-eight-acts-free-and-all-ages-plus-a-costume-contest-with-cash-prizes-",
+    "date": "2023-10-28T19:00:00",
     "venue": "Beachland Ballroom"
   },
   {

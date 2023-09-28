@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "EDDIE IZZARD - The Remix: The First 35 Years"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/eddie-izzard-the-remix-the-first-35-years",
-    "date": "2023-09-27",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Nick Offerman Live!"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nick-offerman-live",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/tim-allen",
     "date": "2023-09-30",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Stavros Halkias: The Fat Rascal Tour"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/stavros-halkias-the-fat-rascal-tour",
+    "date": "2023-10-07",
     "venue": "Playhouse Square"
   },
   {
@@ -73,6 +73,14 @@
   },
   {
     "artist": [
+      "Jim Breuer: Survival With Laughter Tour"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/jim-breuer-survival-with-laughter-tour",
+    "date": "2023-10-25",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Nurse Blake: Shock Advised Tour"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nurse-blake-shock-advised-tour",
@@ -100,6 +108,14 @@
       "Pete Correale"
     ],
     "link": "https://www.playhousesquare.org/events/detail/pete-correale-2",
+    "date": "2023-11-11",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Festival of Laughs"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/festival-of-laughs-2",
     "date": "2023-11-11",
     "venue": "Playhouse Square"
   },
@@ -153,10 +169,10 @@
   },
   {
     "artist": [
-      "Stavros Halkias: The Fat Rascal Tour"
+      "Nimesh Patel: Fast and Loose Tour"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/stavros-halkias-the-fat-rascal-tour",
-    "date": "2023-10-07",
+    "link": "https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour",
+    "date": "2024-01-21",
     "venue": "Playhouse Square"
   },
   {
@@ -209,26 +225,10 @@
   },
   {
     "artist": [
-      "Jim Breuer: Survival With Laughter Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/jim-breuer-survival-with-laughter-tour",
-    "date": "2023-10-25",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Pod Save America"
     ],
     "link": "https://www.playhousesquare.org/events/detail/pod-save-america",
     "date": "2023-10-29",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Festival of Laughs"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/festival-of-laughs-2",
-    "date": "2023-11-11",
     "venue": "Playhouse Square"
   },
   {
@@ -285,14 +285,6 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/elvis-tribute-artist-spectacular-2",
     "date": "2024-01-07",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Nimesh Patel: Fast and Loose Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour",
-    "date": "2024-01-21",
     "venue": "Playhouse Square"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Casey"
-    ],
-    "link": "https://link.dice.fm/Uc495f26de15",
-    "date": "2023-09-27T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Field Medic"
     ],
     "link": "https://link.dice.fm/g6f5921177b5",
@@ -114,19 +106,19 @@
   },
   {
     "artist": [
-      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
-    ],
-    "link": "https://link.dice.fm/d079039b50bc",
-    "date": "2023-10-08T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Kate Bollinger"
     ],
     "link": "https://link.dice.fm/P8653582ac4e",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
+    ],
+    "link": "https://link.dice.fm/d079039b50bc",
+    "date": "2023-10-08T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -258,19 +250,19 @@
   },
   {
     "artist": [
-      "Radiator Hospital"
-    ],
-    "link": "https://link.dice.fm/S73e91266b0a",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Annie Dukes"
     ],
     "link": "https://link.dice.fm/Gd2cf5c8f6ca",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Radiator Hospital"
+    ],
+    "link": "https://link.dice.fm/S73e91266b0a",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -318,6 +310,14 @@
     ],
     "link": "https://link.dice.fm/te8545465b8f",
     "date": "2023-10-30T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mahall's Halloween party: Gala or Graveyard?"
+    ],
+    "link": "https://link.dice.fm/K3c5000ea7a6",
+    "date": "2023-10-31T20:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -370,19 +370,19 @@
   },
   {
     "artist": [
-      "Walter Etc."
-    ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Into It. Over It."
     ],
     "link": "https://link.dice.fm/Ka4c8810172d",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Walter Etc."
+    ],
+    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -502,6 +502,14 @@
     ],
     "link": "https://link.dice.fm/C12136fca41b",
     "date": "2023-12-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Violent"
+    ],
+    "link": "https://link.dice.fm/E761194502a0",
+    "date": "2023-12-09T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

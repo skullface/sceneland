@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "MONOPHONICS",
-      "Dos Santos"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13314488/monophonics-dos-santos",
-    "date": "2023-09-27T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Hotel Fiction",
-      "Rent For Cheryl",
-      "Dishwasher Possum"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13517988/hotel-fiction-rent-for-cheryl-dishwasher-possum",
-    "date": "2023-09-27T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Fortunate Youth",
       "Kash'd Out",
       "Dubbest"
@@ -47,9 +28,10 @@
   },
   {
     "artist": [
-      "Baba Commandant and the Mandingo Band"
+      "Baba Commandant and the Mandingo Band",
+      "Neil Chastain (DJ + Live Percussion)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13404478/baba-commandant-and-the-mandingo-band",
+    "link": "https://www.beachlandballroom.com/e/13404478/baba-commandant-and-the-mandingo-band-neil-chastain-dj-live-percussion-",
     "date": "2023-09-29T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -186,15 +168,6 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13395838/dopapod-tauk",
     "date": "2023-10-12T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Dylan Matthew",
-      "Caleb Hearn"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13125495/dylan-matthew-caleb-hearn",
-    "date": "2023-10-13T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -399,9 +372,10 @@
   },
   {
     "artist": [
-      "Dale Hollow"
+      "Dale Hollow",
+      "Easton Union"
     ],
-    "link": "https://www.beachlandballroom.com/e/13489988/dale-hollow",
+    "link": "https://www.beachlandballroom.com/e/13489988/dale-hollow-easton-union",
     "date": "2023-10-29T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -715,6 +689,14 @@
   },
   {
     "artist": [
+      "Beachland Holiday Flea"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13677948/beachland-holiday-flea",
+    "date": "2023-12-16T10:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Lung",
       "Honeyland",
       "The Brakes"
@@ -755,6 +737,14 @@
     "link": "https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane",
     "date": "2024-02-13T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jill Andrews"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13654878/jill-andrews",
+    "date": "2024-02-22T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

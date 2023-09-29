@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Fortunate Youth",
-      "Kash'd Out",
-      "Dubbest"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13248738/fortunate-youth-kash-d-out-dubbest",
-    "date": "2023-09-28T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Pre/Post Party with TobyRaps"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13658588/pre-post-party-with-tobyraps",
-    "date": "2023-09-28T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The Lemon Twigs",
       "Joanna Sternberg"
     ],
@@ -664,6 +646,15 @@
   },
   {
     "artist": [
+      "Huntertones",
+      "The Labra Brothers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13683218/huntertones-the-labra-brothers",
+    "date": "2023-12-08T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "CLE MOSH"
     ],
     "link": "https://www.beachlandballroom.com/e/13551688/cle-mosh",
@@ -719,6 +710,22 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert",
     "date": "2024-01-27T15:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Bumpin Uglies"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies",
+    "date": "2024-02-02T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Bumpin Uglies"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies",
+    "date": "2024-02-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

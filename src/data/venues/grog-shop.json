@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Head Automatica",
-      "Foxy Shazam"
-    ],
-    "link": "https://grogshop.gs/event-details/13573888/head-automatica",
-    "date": "2023-09-28T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "CROWBAR with PRIMITIVE MAN, Bodybox, Fistula"
     ],
     "link": "https://grogshop.gs/event-details/13453898/crowbar-with-primitive-man-bodybox-fistula",
@@ -487,6 +478,17 @@
     ],
     "link": "https://grogshop.gs/event-details/13470718/brujeria-esto-es-tour-2023",
     "date": "2023-11-24T18:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Signals Midwest: 15 Year Anniversary",
+      "Sun Run",
+      "Joy Ceiling",
+      "Honeybee"
+    ],
+    "link": "https://grogshop.gs/event-details/13678838/signals-midwest-15-year-anniversary",
+    "date": "2023-11-25T20:00:00",
     "venue": "Grog Shop"
   },
   {

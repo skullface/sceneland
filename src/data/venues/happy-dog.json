@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Roselit Bone, Craig Brown Band, Nolan Cavano, DJ Dollar Country"
-    ],
-    "link": "https://www.eventbrite.com/e/roselit-bone-craig-brown-band-nolan-cavano-dj-dollar-country-tickets-699358619457",
-    "date": "2023-09-28T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Dentist, Perfect Pals, Parfait Girls"
     ],
     "link": "https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207",
@@ -180,6 +172,14 @@
     ],
     "link": "https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947",
     "date": "2023-10-27T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Cowboys, The Gerds, The Wastemen"
+    ],
+    "link": "https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497",
+    "date": "2023-10-28T21:00:00",
     "venue": "Happy Dog"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dentist, Perfect Pals, Parfait Girls"
-    ],
-    "link": "https://www.eventbrite.com/e/dentist-perfect-pals-parfait-girls-tickets-714933454207",
-    "date": "2023-09-29T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Jyonson Tsu, Brood X, Anteater, Burning Plastic Blues Band"
     ],
     "link": "https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-burning-plastic-blues-band-tickets-706900236637",
@@ -107,9 +99,9 @@
   },
   {
     "artist": [
-      "Necromoon, The Magnavox's, Edwin Agustin Jr"
+      "Necromoon, The Magnavox's, Edwin Agustin"
     ],
-    "link": "https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-jr-tickets-718859456987",
+    "link": "https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-tickets-718859456987",
     "date": "2023-10-15T21:00:00",
     "venue": "Happy Dog"
   },
@@ -160,9 +152,9 @@
   },
   {
     "artist": [
-      "Class, Disintegration, DJ Peffer"
+      "Class, Disintegration, Knowso, DJ Hausfrau"
     ],
-    "link": "https://www.eventbrite.com/e/class-disintegration-dj-peffer-tickets-718879236147",
+    "link": "https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147",
     "date": "2023-10-23T21:00:00",
     "venue": "Happy Dog"
   },
@@ -180,6 +172,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497",
     "date": "2023-10-28T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Monday Night Trivia: Halloween Edition!"
+    ],
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997",
+    "date": "2023-10-30T20:00:00",
     "venue": "Happy Dog"
   }
 ]

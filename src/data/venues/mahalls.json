@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Grumpster"
-    ],
-    "link": "https://link.dice.fm/w39b410f732a",
-    "date": "2023-09-29T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "Jukebox Breakdown aka Emo Night CLE"
-    ],
-    "link": "https://link.dice.fm/G141f4fca4d6",
-    "date": "2023-09-29T21:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Washer"
     ],
     "link": "https://link.dice.fm/if7e55b22c3e",
@@ -50,19 +34,19 @@
   },
   {
     "artist": [
-      "George Clanton"
-    ],
-    "link": "https://link.dice.fm/o5e5253cefd2",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "French Cassettes"
     ],
     "link": "https://link.dice.fm/i9d3198de992",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "George Clanton"
+    ],
+    "link": "https://link.dice.fm/o5e5253cefd2",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -98,19 +82,19 @@
   },
   {
     "artist": [
-      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
-    ],
-    "link": "https://link.dice.fm/d079039b50bc",
-    "date": "2023-10-08T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Kate Bollinger"
     ],
     "link": "https://link.dice.fm/P8653582ac4e",
     "date": "2023-10-08T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
+    ],
+    "link": "https://link.dice.fm/d079039b50bc",
+    "date": "2023-10-08T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -362,19 +346,19 @@
   },
   {
     "artist": [
-      "Into It. Over It."
-    ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Walter Etc."
     ],
     "link": "https://link.dice.fm/ja5bf7c187cf",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Into It. Over It."
+    ],
+    "link": "https://link.dice.fm/Ka4c8810172d",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

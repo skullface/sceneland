@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "This Is Important Live!"
-    ],
-    "link": "https://www.ticketmaster.com/this-is-important-live-cleveland-ohio-09-29-2023/event/05005F0E7E1115C5",
-    "date": "2023-09-29T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Ed Bassmaster"
     ],
     "link": "https://www.ticketmaster.com/ed-bassmaster-cleveland-ohio-09-30-2023/event/05005F07D20C3CEB",
@@ -105,6 +97,14 @@
   },
   {
     "artist": [
+      "The Fifth House"
+    ],
+    "link": "https://www.ticketmaster.com/the-fifth-house-cleveland-ohio-10-27-2023/event/05005F3AC7DC18D9",
+    "date": "2023-10-27T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "NWA Presents:  Samhain"
     ],
     "link": "https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4",
@@ -149,6 +149,14 @@
     ],
     "link": "https://www.ticketmaster.com/mac-sabbath-more-than-meats-the-cleveland-ohio-11-05-2023/event/05005F0292AA22F7",
     "date": "2023-11-05T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "The Erly"
+    ],
+    "link": "https://www.ticketmaster.com/the-erly-cleveland-ohio-11-10-2023/event/05005F3ACA91197D",
+    "date": "2023-11-10T20:00:00",
     "venue": "Masonic Temple"
   },
   {

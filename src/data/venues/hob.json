@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Lauren Sanderson: IDC AT ALL Tour"
-    ],
-    "link": "https://concerts.livenation.com/lauren-sanderson-idc-at-all-tour-cleveland-ohio-09-29-2023/event/05005EB3F3AD71EA",
-    "date": "2023-09-29T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Andy Frasco & The UN"
-    ],
-    "link": "https://concerts.livenation.com/andy-frasco-the-un-cleveland-ohio-09-29-2023/event/05005EDE8ECA238D",
-    "date": "2023-09-29T19:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Eric Johnson"
     ],
     "link": "https://concerts.livenation.com/eric-johnson-cleveland-ohio-10-01-2023/event/05005E4D8FFB0FB2",
@@ -35,7 +19,15 @@
     "artist": [
       "Christian French"
     ],
-    "link": "https://concerts.livenation.com/christian-french-cleveland-ohio-10-04-2023/event/05005EB9BCC7382F",
+    "link": "https://concerts.livenation.com/christian-french-cleveland-ohio-10-04-2023/event/05005F3D901C171B",
+    "date": "2023-10-04T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Christian French: MOVED TO CAMBRIDGE ROOM"
+    ],
+    "link": "https://concerts.livenation.com/christian-french-moved-to-cambridge-room-cleveland-ohio-10-04-2023/event/05005EB9BCC7382F",
     "date": "2023-10-04T19:00:00",
     "venue": "House of Blues"
   },
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/badfish-a-tribute-to-sublime-cleveland-ohio-02-09-2024/event/05005F2FCF5D4CF7",
     "date": "2024-02-09T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Cold War Kids: 20 Years Tour"
+    ],
+    "link": "https://concerts.livenation.com/cold-war-kids-20-years-tour-cleveland-ohio-02-26-2024/event/05005F26A8DE1B1C",
+    "date": "2024-02-26T19:00:00",
     "venue": "House of Blues"
   }
 ]

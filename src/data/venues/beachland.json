@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Lemon Twigs",
-      "Joanna Sternberg"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13399808/the-lemon-twigs-joanna-sternberg",
-    "date": "2023-09-29T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Baba Commandant and the Mandingo Band",
       "Neil Chastain (DJ + Live Percussion)"
     ],
@@ -521,6 +512,14 @@
   },
   {
     "artist": [
+      "Constant Smiles"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13682998/constant-smiles",
+    "date": "2023-11-10T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Mike Doughty and Ghost of Vroom"
     ],
     "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
@@ -543,6 +542,14 @@
     "link": "https://www.beachlandballroom.com/e/13338788/the-hotelier-foxing",
     "date": "2023-11-12T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Hembree"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13689038/hembree",
+    "date": "2023-11-15T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

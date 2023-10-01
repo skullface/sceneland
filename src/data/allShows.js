@@ -242,12 +242,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ["Scott Bradlee's  Postmodern Jukebox"],
-    link: 'https://www.agoracleveland.com/events/detail/503995',
-    date: '2024-03-10T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Eric Johnson'],
     link: 'https://concerts.livenation.com/eric-johnson-cleveland-ohio-10-01-2023/event/05005E4D8FFB0FB2',
     date: '2023-10-01T19:00:00',
@@ -540,12 +534,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Ed Bassmaster'],
-    link: 'https://www.ticketmaster.com/ed-bassmaster-cleveland-ohio-09-30-2023/event/05005F07D20C3CEB',
-    date: '2023-09-30T20:00:00',
-    venue: 'Masonic Temple',
-  },
-  {
     artist: ['Theo Von : Return of the Rat'],
     link: 'https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1',
     date: '2023-10-05T19:30:00',
@@ -694,21 +682,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339',
     date: '2023-12-17T17:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: [
-      'Baba Commandant and the Mandingo Band',
-      'Neil Chastain (DJ + Live Percussion)',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13404478/baba-commandant-and-the-mandingo-band-neil-chastain-dj-live-percussion-',
-    date: '2023-09-29T20:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Falling Stars', 'The Laughing Chimes', 'The Style Section'],
-    link: 'https://www.beachlandballroom.com/e/13413118/falling-stars-the-laughing-chimes-the-style-section',
-    date: '2023-09-30T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['School of Rock'],
@@ -1240,12 +1213,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Jyonson Tsu, Brood X, Anteater, Burning Plastic Blues Band'],
-    link: 'https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-burning-plastic-blues-band-tickets-706900236637',
-    date: '2023-09-30T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Scott Yoder, Oft Dreamy, Language, Confusions'],
     link: 'https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607',
     date: '2023-10-01T21:00:00',
@@ -1381,10 +1348,10 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Tim Allen'],
-    link: 'https://www.playhousesquare.org/events/detail/tim-allen',
-    date: '2023-09-30',
-    venue: 'Playhouse Square',
+    artist: ['Happy Dog Takes on Everything'],
+    link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267',
+    date: '2023-11-01T19:30:00',
+    venue: 'Happy Dog',
   },
   {
     artist: ['Stavros Halkias: The Fat Rascal Tour'],
@@ -1817,18 +1784,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Washer'],
-    link: 'https://link.dice.fm/if7e55b22c3e',
-    date: '2023-09-30T18:30:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
-    artist: ['Dead Poet Society'],
-    link: 'https://link.dice.fm/Uc479fcaad20',
-    date: '2023-09-30T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Social Cig'],
     link: 'https://link.dice.fm/n867e033c065',
     date: '2023-10-01T19:00:00-04:00',
@@ -1842,16 +1797,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['French Cassettes'],
-    link: 'https://link.dice.fm/i9d3198de992',
-    date: '2023-10-03T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['George Clanton'],
     link: 'https://link.dice.fm/o5e5253cefd2',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['French Cassettes'],
+    link: 'https://link.dice.fm/i9d3198de992',
+    date: '2023-10-03T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Frankie Cosmos with Good Morning'],
@@ -1878,21 +1833,15 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Kate Bollinger'],
-    link: 'https://link.dice.fm/P8653582ac4e',
-    date: '2023-10-08T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Aces \u2013 I\u2019ve Loved You For So Long World Tour'],
     link: 'https://link.dice.fm/d079039b50bc',
     date: '2023-10-08T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Dead on a Sunday'],
-    link: 'https://link.dice.fm/ta0ec89681c5',
-    date: '2023-10-09T19:00:00-04:00',
+    artist: ['Kate Bollinger'],
+    link: 'https://link.dice.fm/P8653582ac4e',
+    date: '2023-10-08T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -1900,6 +1849,12 @@ export const allShows = [
     link: 'https://link.dice.fm/cac8be85f81f',
     date: '2023-10-09T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Dead on a Sunday'],
+    link: 'https://link.dice.fm/ta0ec89681c5',
+    date: '2023-10-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Chris Farren'],
@@ -1986,16 +1941,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Radiator Hospital'],
-    link: 'https://link.dice.fm/S73e91266b0a',
-    date: '2023-10-24T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Annie Dukes'],
     link: 'https://link.dice.fm/Gd2cf5c8f6ca',
     date: '2023-10-24T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Radiator Hospital'],
+    link: 'https://link.dice.fm/S73e91266b0a',
+    date: '2023-10-24T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['El Camino Acid and The Wonderfool'],
@@ -2275,18 +2230,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: [
-      'Lack Of Direction',
-      'Millions of Mighty Horses',
-      'Shabang',
-      'Mossom',
-      'MOSSOM',
-    ],
-    link: 'https://grogshop.gs/event-details/13626288/lack-of-direction-millions-of-mighty-horses-shabang-mossom',
-    date: '2023-09-30T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Ohio Against The World Tour Ft. Retro Pharaoh', 'Retro Pharaoh'],
@@ -2768,12 +2711,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['K-POP NITE'],
-    link: 'https://www.ticketweb.com/event/k-pop-nite-musica-tickets/13524068?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-09-30T21:00:00',
-    venue: 'Musica Akron',
-  },
-  {
     artist: ['Pkew Pkew Pkew, Heart & Lung + Sector 442'],
     link: 'https://www.ticketweb.com/event/pkew-pkew-pkew-heart-musica-tickets/13563108?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-10-01T20:00:00',
@@ -2850,12 +2787,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/jeff-buckley-tribute-musica-tickets/13665268?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-11-18T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Jelly Roll: Backroad Baptism Tour 2023'],
-    link: 'https://concerts.livenation.com/jelly-roll-backroad-baptism-tour-2023-cuyahoga-falls-ohio-09-30-2023/event/05005E5042387690',
-    date: '2023-09-30T19:00:00',
-    venue: 'Blossom',
   },
   {
     artist: ["Noah Kahan: We'll All Be Here Forever Tour"],

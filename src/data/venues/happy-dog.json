@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jyonson Tsu, Brood X, Anteater, Burning Plastic Blues Band"
-    ],
-    "link": "https://www.eventbrite.com/e/jyonson-tsu-brood-x-anteater-burning-plastic-blues-band-tickets-706900236637",
-    "date": "2023-09-30T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Scott Yoder, Oft Dreamy, Language, Confusions"
     ],
     "link": "https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607",
@@ -180,6 +172,14 @@
     ],
     "link": "https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997",
     "date": "2023-10-30T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Happy Dog Takes on Everything"
+    ],
+    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267",
+    "date": "2023-11-01T19:30:00",
     "venue": "Happy Dog"
   }
 ]

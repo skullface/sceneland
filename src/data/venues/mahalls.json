@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Social Cig"
-    ],
-    "link": "https://link.dice.fm/n867e033c065",
-    "date": "2023-10-01T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "slowdive at The Roxy"
     ],
     "link": "https://link.dice.fm/w4af3377248b",
@@ -18,19 +10,19 @@
   },
   {
     "artist": [
-      "George Clanton"
-    ],
-    "link": "https://link.dice.fm/o5e5253cefd2",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "French Cassettes"
     ],
     "link": "https://link.dice.fm/i9d3198de992",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "George Clanton"
+    ],
+    "link": "https://link.dice.fm/o5e5253cefd2",
+    "date": "2023-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -82,19 +74,19 @@
   },
   {
     "artist": [
-      "GIFT"
-    ],
-    "link": "https://link.dice.fm/cac8be85f81f",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Dead on a Sunday"
     ],
     "link": "https://link.dice.fm/ta0ec89681c5",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "GIFT"
+    ],
+    "link": "https://link.dice.fm/cac8be85f81f",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [

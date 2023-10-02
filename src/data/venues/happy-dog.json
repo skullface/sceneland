@@ -1,13 +1,5 @@
 [
   {
-    "artist": [
-      "Scott Yoder, Oft Dreamy, Language, Confusions"
-    ],
-    "link": "https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607",
-    "date": "2023-10-01T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-706925732897",
     "date": "2023-10-02T20:00:00",
     "venue": "Happy Dog"
@@ -180,6 +172,14 @@
     ],
     "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267",
     "date": "2023-11-01T19:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Pons, People in the Daytime, Hiram-Maxim, Bigg Egg"
+    ],
+    "link": "https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377",
+    "date": "2023-11-02T21:00:00",
     "venue": "Happy Dog"
   }
 ]

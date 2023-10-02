@@ -242,10 +242,10 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Eric Johnson'],
-    link: 'https://concerts.livenation.com/eric-johnson-cleveland-ohio-10-01-2023/event/05005E4D8FFB0FB2',
-    date: '2023-10-01T19:00:00',
-    venue: 'House of Blues',
+    artist: ["Scott Bradlee's  Postmodern Jukebox"],
+    link: 'https://www.agoracleveland.com/events/detail/503995',
+    date: '2024-03-10T19:00:00',
+    venue: 'Agora',
   },
   {
     artist: ['Chris Renzema: Manna Tour: with special guest Jess Ray'],
@@ -534,6 +534,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Beach Weather: Pineapple Sunrise The Tour'],
+    link: 'https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257',
+    date: '2024-03-09T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Theo Von : Return of the Rat'],
     link: 'https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1',
     date: '2023-10-05T19:30:00',
@@ -682,12 +688,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339',
     date: '2023-12-17T17:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['School of Rock'],
-    link: 'https://www.beachlandballroom.com/e/13644908/school-of-rock',
-    date: '2023-10-01T12:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Travis Larson Band', 'Ego'],
@@ -1213,12 +1213,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Scott Yoder, Oft Dreamy, Language, Confusions'],
-    link: 'https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607',
-    date: '2023-10-01T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-706925732897',
     date: '2023-10-02T20:00:00',
     venue: 'Happy Dog',
@@ -1351,6 +1345,12 @@ export const allShows = [
     artist: ['Happy Dog Takes on Everything'],
     link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267',
     date: '2023-11-01T19:30:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Pons, People in the Daytime, Hiram-Maxim, Bigg Egg'],
+    link: 'https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377',
+    date: '2023-11-02T21:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -1570,12 +1570,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['/WORSHIP/'],
-    link: 'https://www.foundryconcertclub.com/tm-event/worship/',
-    date: '2023-10-01T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['The Red Pears, Mexican Slum Rats, 60 Juno'],
     link: 'https://www.foundryconcertclub.com/tm-event/the-red-pears-mexican-slum-rats-60-juno/',
     date: '2023-10-03T20:00:00',
@@ -1784,12 +1778,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Social Cig'],
-    link: 'https://link.dice.fm/n867e033c065',
-    date: '2023-10-01T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['slowdive at The Roxy'],
     link: 'https://link.dice.fm/w4af3377248b',
     sold_out: true,
@@ -1797,16 +1785,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['George Clanton'],
-    link: 'https://link.dice.fm/o5e5253cefd2',
-    date: '2023-10-03T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['French Cassettes'],
     link: 'https://link.dice.fm/i9d3198de992',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['George Clanton'],
+    link: 'https://link.dice.fm/o5e5253cefd2',
+    date: '2023-10-03T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Frankie Cosmos with Good Morning'],
@@ -1845,16 +1833,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['GIFT'],
-    link: 'https://link.dice.fm/cac8be85f81f',
-    date: '2023-10-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Dead on a Sunday'],
     link: 'https://link.dice.fm/ta0ec89681c5',
     date: '2023-10-09T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['GIFT'],
+    link: 'https://link.dice.fm/cac8be85f81f',
+    date: '2023-10-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Chris Farren'],
@@ -2230,12 +2218,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Ohio Against The World Tour Ft. Retro Pharaoh', 'Retro Pharaoh'],
-    link: 'https://grogshop.gs/event-details/13535108/ohio-against-the-world-tour-ft-retro-pharaoh',
-    date: '2023-10-01T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Frankie and the Witch Fingers, Wine Lips'],
@@ -2645,12 +2627,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['HIGH SUNN'],
-    link: 'https://www.eventbrite.com/e/high-sunn-tickets-706036693757',
-    date: '2023-10-01T17:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: ['ARTILLERY'],
     link: 'https://www.eventbrite.com/e/artillery-tickets-660652378047',
     date: '2023-10-02T18:00:00',
@@ -2709,12 +2685,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/regurgitation-tickets-716501734977',
     date: '2024-01-27T20:00:00',
     venue: 'No Class',
-  },
-  {
-    artist: ['Pkew Pkew Pkew, Heart & Lung + Sector 442'],
-    link: 'https://www.ticketweb.com/event/pkew-pkew-pkew-heart-musica-tickets/13563108?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-10-01T20:00:00',
-    venue: 'Musica Akron',
   },
   {
     artist: ['DIVEBOMB, CHAIN RULE, Frenzy & Nailgun'],

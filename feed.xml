@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Oct 2023 09:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 09:06:37 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Midnight, Flamingosis at Agora]]></title>
@@ -287,11 +287,11 @@
             <pubDate>Sat, 02 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eric Johnson at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Eric Johnson at House of Blues on Sunday, October 1, 2023, 07:00 PM: https://concerts.livenation.com/eric-johnson-cleveland-ohio-10-01-2023/event/05005E4D8FFB0FB2]]></description>
-            <link>https://concerts.livenation.com/eric-johnson-cleveland-ohio-10-01-2023/event/05005E4D8FFB0FB2</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/eric-johnson-cleveland-ohio-10-01-2023/event/05005E4D8FFB0FB2</guid>
-            <pubDate>Sun, 01 Oct 2023 19:00:00 GMT</pubDate>
+            <title><![CDATA[Scott Bradlee's  Postmodern Jukebox at Agora]]></title>
+            <description><![CDATA[Get tickets to Scott Bradlee's  Postmodern Jukebox at Agora on Sunday, March 10, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/503995]]></description>
+            <link>https://www.agoracleveland.com/events/detail/503995</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/503995</guid>
+            <pubDate>Sun, 10 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chris Renzema: Manna Tour: with special guest Jess Ray at House of Blues]]></title>
@@ -623,6 +623,13 @@
             <pubDate>Mon, 26 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beach Weather: Pineapple Sunrise The Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Beach Weather: Pineapple Sunrise The Tour at House of Blues on Saturday, March 9, 2024, 06:30 PM: https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257]]></description>
+            <link>https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257</guid>
+            <pubDate>Sat, 09 Mar 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Theo Von : Return of the Rat at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Theo Von : Return of the Rat at Masonic Temple on Thursday, October 5, 2023, 07:30 PM: https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1]]></description>
             <link>https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1</link>
@@ -795,13 +802,6 @@
             <link>https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339</guid>
             <pubDate>Sun, 17 Dec 2023 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School of Rock at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to School of Rock at Beachland Ballroom on Sunday, October 1, 2023, 12:00 PM: https://www.beachlandballroom.com/e/13644908/school-of-rock]]></description>
-            <link>https://www.beachlandballroom.com/e/13644908/school-of-rock</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13644908/school-of-rock</guid>
-            <pubDate>Sun, 01 Oct 2023 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Travis Larson Band, Ego at Beachland Tavern]]></title>
@@ -1385,13 +1385,6 @@
             <pubDate>Sun, 05 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scott Yoder, Oft Dreamy, Language, Confusions at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Scott Yoder, Oft Dreamy, Language, Confusions at Happy Dog on Sunday, October 1, 2023, 09:00 PM: https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607]]></description>
-            <link>https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/scott-yoder-oft-dreamy-language-confusions-tickets-714939271607</guid>
-            <pubDate>Sun, 01 Oct 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Full 90: a Free Night of Irish Music! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Full 90: a Free Night of Irish Music! at Happy Dog on Tuesday, October 3, 2023, 08:00 PM: https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-727087557457]]></description>
             <link>https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-727087557457</link>
@@ -1530,6 +1523,13 @@
             <link>https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267</guid>
             <pubDate>Wed, 01 Nov 2023 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pons, People in the Daytime, Hiram-Maxim, Bigg Egg at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Pons, People in the Daytime, Hiram-Maxim, Bigg Egg at Happy Dog on Thursday, November 2, 2023, 09:00 PM: https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377]]></description>
+            <link>https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377</guid>
+            <pubDate>Thu, 02 Nov 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stavros Halkias: The Fat Rascal Tour at Playhouse Square]]></title>
@@ -1784,13 +1784,6 @@
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[/WORSHIP/ at Foundry]]></title>
-            <description><![CDATA[Get tickets to /WORSHIP/ at Foundry on Sunday, October 1, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/worship/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/worship/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/worship/</guid>
-            <pubDate>Sun, 01 Oct 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Red Pears, Mexican Slum Rats, 60 Juno at Foundry]]></title>
             <description><![CDATA[Get tickets to The Red Pears, Mexican Slum Rats, 60 Juno at Foundry on Tuesday, October 3, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/the-red-pears-mexican-slum-rats-60-juno/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/the-red-pears-mexican-slum-rats-60-juno/</link>
@@ -2022,13 +2015,6 @@
             <pubDate>Sun, 03 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Social Cig at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Social Cig at Mahall’s Apartment on Sunday, October 1, 2023, 11:00 PM: https://link.dice.fm/n867e033c065]]></description>
-            <link>https://link.dice.fm/n867e033c065</link>
-            <guid isPermaLink="true">https://link.dice.fm/n867e033c065</guid>
-            <pubDate>Sun, 01 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[slowdive at The Roxy at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to slowdive at The Roxy at The Roxy at Mahall’s on Monday, October 2, 2023, 11:00 PM: https://link.dice.fm/w4af3377248b]]></description>
             <link>https://link.dice.fm/w4af3377248b</link>
@@ -2036,17 +2022,17 @@
             <pubDate>Mon, 02 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[George Clanton at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to George Clanton at The Roxy at Mahall’s on Tuesday, October 3, 2023, 11:00 PM: https://link.dice.fm/o5e5253cefd2]]></description>
-            <link>https://link.dice.fm/o5e5253cefd2</link>
-            <guid isPermaLink="true">https://link.dice.fm/o5e5253cefd2</guid>
-            <pubDate>Tue, 03 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[French Cassettes at Mahall’s]]></title>
             <description><![CDATA[Get tickets to French Cassettes at Mahall’s on Tuesday, October 3, 2023, 11:00 PM: https://link.dice.fm/i9d3198de992]]></description>
             <link>https://link.dice.fm/i9d3198de992</link>
             <guid isPermaLink="true">https://link.dice.fm/i9d3198de992</guid>
+            <pubDate>Tue, 03 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Clanton at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to George Clanton at The Roxy at Mahall’s on Tuesday, October 3, 2023, 11:00 PM: https://link.dice.fm/o5e5253cefd2]]></description>
+            <link>https://link.dice.fm/o5e5253cefd2</link>
+            <guid isPermaLink="true">https://link.dice.fm/o5e5253cefd2</guid>
             <pubDate>Tue, 03 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2092,17 +2078,17 @@
             <pubDate>Sun, 08 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GIFT at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to GIFT at Mahall’s Apartment on Monday, October 9, 2023, 11:00 PM: https://link.dice.fm/cac8be85f81f]]></description>
-            <link>https://link.dice.fm/cac8be85f81f</link>
-            <guid isPermaLink="true">https://link.dice.fm/cac8be85f81f</guid>
-            <pubDate>Mon, 09 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dead on a Sunday at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Dead on a Sunday at Mahall’s on Monday, October 9, 2023, 11:00 PM: https://link.dice.fm/ta0ec89681c5]]></description>
             <link>https://link.dice.fm/ta0ec89681c5</link>
             <guid isPermaLink="true">https://link.dice.fm/ta0ec89681c5</guid>
+            <pubDate>Mon, 09 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GIFT at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to GIFT at Mahall’s Apartment on Monday, October 9, 2023, 11:00 PM: https://link.dice.fm/cac8be85f81f]]></description>
+            <link>https://link.dice.fm/cac8be85f81f</link>
+            <guid isPermaLink="true">https://link.dice.fm/cac8be85f81f</guid>
             <pubDate>Mon, 09 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2540,13 +2526,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ohio Against The World Tour Ft. Retro Pharaoh, Retro Pharaoh at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Ohio Against The World Tour Ft. Retro Pharaoh, Retro Pharaoh at Grog Shop on Sunday, October 1, 2023, 08:00 PM: https://grogshop.gs/event-details/13535108/ohio-against-the-world-tour-ft-retro-pharaoh]]></description>
-            <link>https://grogshop.gs/event-details/13535108/ohio-against-the-world-tour-ft-retro-pharaoh</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13535108/ohio-against-the-world-tour-ft-retro-pharaoh</guid>
-            <pubDate>Sun, 01 Oct 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Frankie and the Witch Fingers, Wine Lips at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Frankie and the Witch Fingers, Wine Lips at Grog Shop on Monday, October 2, 2023, 08:00 PM: https://grogshop.gs/event-details/13308298/frankie-and-the-witch-fingers-wine-lips]]></description>
             <link>https://grogshop.gs/event-details/13308298/frankie-and-the-witch-fingers-wine-lips</link>
@@ -2946,13 +2925,6 @@
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HIGH SUNN at No Class]]></title>
-            <description><![CDATA[Get tickets to HIGH SUNN at No Class on Sunday, October 1, 2023, 05:00 PM: https://www.eventbrite.com/e/high-sunn-tickets-706036693757]]></description>
-            <link>https://www.eventbrite.com/e/high-sunn-tickets-706036693757</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/high-sunn-tickets-706036693757</guid>
-            <pubDate>Sun, 01 Oct 2023 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ARTILLERY at No Class]]></title>
             <description><![CDATA[Get tickets to ARTILLERY at No Class on Monday, October 2, 2023, 06:00 PM: https://www.eventbrite.com/e/artillery-tickets-660652378047]]></description>
             <link>https://www.eventbrite.com/e/artillery-tickets-660652378047</link>
@@ -3021,13 +2993,6 @@
             <link>https://www.eventbrite.com/e/regurgitation-tickets-716501734977</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/regurgitation-tickets-716501734977</guid>
             <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pkew Pkew Pkew, Heart & Lung + Sector 442 at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to Pkew Pkew Pkew, Heart & Lung + Sector 442 at Musica Akron on Sunday, October 1, 2023, 08:00 PM: https://www.ticketweb.com/event/pkew-pkew-pkew-heart-musica-tickets/13563108?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
-            <link>https://www.ticketweb.com/event/pkew-pkew-pkew-heart-musica-tickets/13563108?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/pkew-pkew-pkew-heart-musica-tickets/13563108?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
-            <pubDate>Sun, 01 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DIVEBOMB, CHAIN RULE, Frenzy & Nailgun at Musica Akron]]></title>

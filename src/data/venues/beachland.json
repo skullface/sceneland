@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Travis Larson Band",
-      "Ego"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13504178/travis-larson-band-ego",
-    "date": "2023-10-02T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Margo Price",
       "Brit Taylor"
     ],
@@ -124,6 +115,14 @@
     "link": "https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane",
     "date": "2023-10-13T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "A Heavenly Birthday Celebration fro Desiree Schmitt"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13702998/a-heavenly-birthday-celebration-fro-desiree-schmitt",
+    "date": "2023-10-14T12:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -309,10 +308,16 @@
   {
     "artist": [
       "WCSB's Halloween Ball",
-      "Two stages! Eight acts!",
-      "Free and all ages \u2014 plus a costume contest with cash prizes!"
+      "This Moment In Black History",
+      "Rozwell Kid",
+      "Whiffler",
+      "Red Rose Panic",
+      "Telecult Powers",
+      "Charming Disaster",
+      "Stop The Presses",
+      "Bleeder"
     ],
-    "link": "https://www.beachlandballroom.com/e/13679028/wcsb-s-halloween-ball-two-stages-eight-acts-free-and-all-ages-plus-a-costume-contest-with-cash-prizes-",
+    "link": "https://www.beachlandballroom.com/e/13679028/wcsb-s-halloween-ball-this-moment-in-black-history-rozwell-kid-whiffler-red-rose-panic-telecult-powers-charming-disaster-stop-the-presses-bleeder",
     "date": "2023-10-28T19:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -526,6 +531,14 @@
   },
   {
     "artist": [
+      "The Razzz"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13702528/the-razzz",
+    "date": "2023-11-17T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "PISSE",
       "The Serfs"
     ],
@@ -582,9 +595,10 @@
   },
   {
     "artist": [
-      "Televisionaires"
+      "Televisionaires",
+      "The Fox Sisters"
     ],
-    "link": "https://www.beachlandballroom.com/e/13644868/televisionaires",
+    "link": "https://www.beachlandballroom.com/e/13644868/televisionaires-the-fox-sisters",
     "date": "2023-12-02T20:00:00",
     "venue": "Beachland Tavern"
   },

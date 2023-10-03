@@ -1,11 +1,10 @@
 [
   {
     "artist": [
-      "slowdive at The Roxy"
+      "George Clanton"
     ],
-    "link": "https://link.dice.fm/w4af3377248b",
-    "sold_out": true,
-    "date": "2023-10-02T19:00:00-04:00",
+    "link": "https://link.dice.fm/o5e5253cefd2",
+    "date": "2023-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {
@@ -15,14 +14,6 @@
     "link": "https://link.dice.fm/i9d3198de992",
     "date": "2023-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "George Clanton"
-    ],
-    "link": "https://link.dice.fm/o5e5253cefd2",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -74,19 +65,19 @@
   },
   {
     "artist": [
-      "Dead on a Sunday"
-    ],
-    "link": "https://link.dice.fm/ta0ec89681c5",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "GIFT"
     ],
     "link": "https://link.dice.fm/cac8be85f81f",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Dead on a Sunday"
+    ],
+    "link": "https://link.dice.fm/ta0ec89681c5",
+    "date": "2023-10-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -202,19 +193,19 @@
   },
   {
     "artist": [
-      "Annie Dukes"
-    ],
-    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Radiator Hospital"
     ],
     "link": "https://link.dice.fm/S73e91266b0a",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Annie Dukes"
+    ],
+    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -418,10 +409,18 @@
   },
   {
     "artist": [
+      "Whiffler album release show"
+    ],
+    "link": "https://link.dice.fm/Tf1236377d16",
+    "date": "2023-11-24T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Better Off"
     ],
     "link": "https://link.dice.fm/d03ed5769012",
-    "date": "2023-11-28T19:00:00-05:00",
+    "date": "2023-11-28T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -439,6 +438,14 @@
     "link": "https://link.dice.fm/v94d14fa1810",
     "date": "2023-12-01T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Night Rider"
+    ],
+    "link": "https://link.dice.fm/H01453c09b7d",
+    "date": "2023-12-08T18:30:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

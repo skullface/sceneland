@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['The Midnight, Flamingosis'],
-    link: 'https://www.agoracleveland.com/events/detail/480125',
-    date: '2023-10-02T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Christopher Cross'],
     link: 'https://www.agoracleveland.com/events/detail/496706',
     date: '2023-10-04T19:00:00',
@@ -510,6 +504,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Rock The Halls'],
+    link: 'https://concerts.livenation.com/rock-the-halls-cleveland-ohio-12-16-2023/event/05005F36F7848150',
+    date: '2023-12-16T18:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['The Vindys'],
     link: 'https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4',
     date: '2023-12-30T19:00:00',
@@ -531,12 +531,6 @@ export const allShows = [
     artist: ['Cold War Kids: 20 Years Tour'],
     link: 'https://concerts.livenation.com/cold-war-kids-20-years-tour-cleveland-ohio-02-26-2024/event/05005F26A8DE1B1C',
     date: '2024-02-26T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Beach Weather: Pineapple Sunrise The Tour'],
-    link: 'https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257',
-    date: '2024-03-09T18:30:00',
     venue: 'House of Blues',
   },
   {
@@ -690,10 +684,10 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Travis Larson Band', 'Ego'],
-    link: 'https://www.beachlandballroom.com/e/13504178/travis-larson-band-ego',
-    date: '2023-10-02T20:00:00',
-    venue: 'Beachland Tavern',
+    artist: ['The Dead South'],
+    link: 'https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F',
+    date: '2024-02-12T19:30:00',
+    venue: 'Masonic Temple',
   },
   {
     artist: ['Margo Price', 'Brit Taylor'],
@@ -772,6 +766,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane',
     date: '2023-10-13T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['A Heavenly Birthday Celebration fro Desiree Schmitt'],
+    link: 'https://www.beachlandballroom.com/e/13702998/a-heavenly-birthday-celebration-fro-desiree-schmitt',
+    date: '2023-10-14T12:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Brown Eyed Women'],
@@ -908,10 +908,16 @@ export const allShows = [
   {
     artist: [
       "WCSB's Halloween Ball",
-      'Two stages! Eight acts!',
-      'Free and all ages \u2014 plus a costume contest with cash prizes!',
+      'This Moment In Black History',
+      'Rozwell Kid',
+      'Whiffler',
+      'Red Rose Panic',
+      'Telecult Powers',
+      'Charming Disaster',
+      'Stop The Presses',
+      'Bleeder',
     ],
-    link: 'https://www.beachlandballroom.com/e/13679028/wcsb-s-halloween-ball-two-stages-eight-acts-free-and-all-ages-plus-a-costume-contest-with-cash-prizes-',
+    link: 'https://www.beachlandballroom.com/e/13679028/wcsb-s-halloween-ball-this-moment-in-black-history-rozwell-kid-whiffler-red-rose-panic-telecult-powers-charming-disaster-stop-the-presses-bleeder',
     date: '2023-10-28T19:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1063,6 +1069,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['The Razzz'],
+    link: 'https://www.beachlandballroom.com/e/13702528/the-razzz',
+    date: '2023-11-17T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['PISSE', 'The Serfs'],
     link: 'https://www.beachlandballroom.com/e/13521728/pisse-the-serfs',
     date: '2023-11-18T20:30:00',
@@ -1099,8 +1111,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Televisionaires'],
-    link: 'https://www.beachlandballroom.com/e/13644868/televisionaires',
+    artist: ['Televisionaires', 'The Fox Sisters'],
+    link: 'https://www.beachlandballroom.com/e/13644868/televisionaires-the-fox-sisters',
     date: '2023-12-02T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1211,11 +1223,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13457108/ty-segall',
     date: '2024-05-05T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-706925732897',
-    date: '2023-10-02T20:00:00',
-    venue: 'Happy Dog',
   },
   {
     artist: ['Full 90: a Free Night of Irish Music!'],
@@ -1351,6 +1358,12 @@ export const allShows = [
     artist: ['Pons, People in the Daytime, Hiram-Maxim, Bigg Egg'],
     link: 'https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377',
     date: '2023-11-02T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Loveseat, The Missed, Hyper Viper'],
+    link: 'https://www.eventbrite.com/e/loveseat-the-missed-hyper-viper-tickets-719551928187',
+    date: '2023-11-03T21:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -1525,6 +1538,12 @@ export const allShows = [
     artist: ['Joanne Shaw Taylor'],
     link: 'https://www.playhousesquare.org/events/detail/joanne-shaw-taylor',
     date: '2023-11-12',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ["GEDDY LEE - MY EFFIN' LIFE In Conversation"],
+    link: 'https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation',
+    date: '2023-11-19',
     venue: 'Playhouse Square',
   },
   {
@@ -1778,10 +1797,9 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['slowdive at The Roxy'],
-    link: 'https://link.dice.fm/w4af3377248b',
-    sold_out: true,
-    date: '2023-10-02T19:00:00-04:00',
+    artist: ['George Clanton'],
+    link: 'https://link.dice.fm/o5e5253cefd2',
+    date: '2023-10-03T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
@@ -1789,12 +1807,6 @@ export const allShows = [
     link: 'https://link.dice.fm/i9d3198de992',
     date: '2023-10-03T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['George Clanton'],
-    link: 'https://link.dice.fm/o5e5253cefd2',
-    date: '2023-10-03T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Frankie Cosmos with Good Morning'],
@@ -1833,16 +1845,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Dead on a Sunday'],
-    link: 'https://link.dice.fm/ta0ec89681c5',
-    date: '2023-10-09T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['GIFT'],
     link: 'https://link.dice.fm/cac8be85f81f',
     date: '2023-10-09T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Dead on a Sunday'],
+    link: 'https://link.dice.fm/ta0ec89681c5',
+    date: '2023-10-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Chris Farren'],
@@ -1929,16 +1941,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Annie Dukes'],
-    link: 'https://link.dice.fm/Gd2cf5c8f6ca',
-    date: '2023-10-24T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Radiator Hospital'],
     link: 'https://link.dice.fm/S73e91266b0a',
     date: '2023-10-24T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Annie Dukes'],
+    link: 'https://link.dice.fm/Gd2cf5c8f6ca',
+    date: '2023-10-24T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['El Camino Acid and The Wonderfool'],
@@ -2091,9 +2103,15 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['Whiffler album release show'],
+    link: 'https://link.dice.fm/Tf1236377d16',
+    date: '2023-11-24T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Better Off'],
     link: 'https://link.dice.fm/d03ed5769012',
-    date: '2023-11-28T19:00:00-05:00',
+    date: '2023-11-28T18:30:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2107,6 +2125,12 @@ export const allShows = [
     link: 'https://link.dice.fm/v94d14fa1810',
     date: '2023-12-01T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Night Rider'],
+    link: 'https://link.dice.fm/H01453c09b7d',
+    date: '2023-12-08T18:30:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Princess Chelsea'],
@@ -2218,12 +2242,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Frankie and the Witch Fingers, Wine Lips'],
-    link: 'https://grogshop.gs/event-details/13308298/frankie-and-the-witch-fingers-wine-lips',
-    date: '2023-10-02T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Ratboys, Free Range, Jason Kaminski'],
@@ -2625,12 +2643,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo',
     date: '2024-03-14T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['ARTILLERY'],
-    link: 'https://www.eventbrite.com/e/artillery-tickets-660652378047',
-    date: '2023-10-02T18:00:00',
-    venue: 'No Class',
   },
   {
     artist: ['EXCITER'],

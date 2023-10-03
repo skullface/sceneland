@@ -198,5 +198,13 @@
     "link": "https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339",
     "date": "2023-12-17T17:00:00",
     "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "The Dead South"
+    ],
+    "link": "https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F",
+    "date": "2024-02-12T19:30:00",
+    "venue": "Masonic Temple"
   }
 ]

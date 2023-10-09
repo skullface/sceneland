@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver import FirefoxOptions
+from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup 
 import json
 import time
@@ -11,10 +12,13 @@ options.add_argument('--headless')
 browser = webdriver.Firefox(options=options)
 browser.implicitly_wait(15)
 browser.get(url)
-time.sleep(2)
-load_more_button = browser.find_element('xpath', '/html/body/div[1]/div/div[2]/div/div/div/div[1]/div/main/section/div[3]/section/div/div[1]/div/div[3]/button')
-load_more_button.click()
-time.sleep(2)
+try:
+  load_more_button = browser.find_element('xpath', '/html/body/div[1]/div/div[2]/div/div/div/div[1]/div/main/section/div[3]/section/div/div[1]/div/div[3]/button')
+  time.sleep(2)
+  load_more_button.click()
+  time.sleep(2)
+except NoSuchElementException:
+  pass
 
 soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', {'data-testid': 'organizer-profile__future-events'})

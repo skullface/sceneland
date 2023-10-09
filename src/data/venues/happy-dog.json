@@ -1,53 +1,5 @@
 [
   {
-    "artist": [
-      "Full 90: a Free Night of Irish Music!"
-    ],
-    "link": "https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-727087557457",
-    "date": "2023-10-03T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Happy Dog Takes on Everything"
-    ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-718857882277",
-    "date": "2023-10-04T19:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Le Ren, Kid.Tigrrr, Shy Moon"
-    ],
-    "link": "https://www.eventbrite.com/e/le-ren-kidtigrrr-shy-moon-tickets-714946954587",
-    "date": "2023-10-05T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Home Entertainment, Prewn, Buzz Balldrin, Night Medicine"
-    ],
-    "link": "https://www.eventbrite.com/e/home-entertainment-prewn-buzz-balldrin-night-medicine-tickets-706902112247",
-    "date": "2023-10-06T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "The Boll Weevils, Whatever, A-10s"
-    ],
-    "link": "https://www.eventbrite.com/e/the-boll-weevils-whatever-a-10s-tickets-688228529057",
-    "date": "2023-10-07T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "PYNKIE, Wished Bone, Solon, False Teeth"
-    ],
-    "link": "https://www.eventbrite.com/e/pynkie-wished-bone-solon-false-teeth-tickets-706924990677",
-    "date": "2023-10-08T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
     "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-714951528267",
     "date": "2023-10-09T20:00:00",
     "venue": "Happy Dog"
@@ -73,7 +25,7 @@
       "Backbiter, xEighty-Sixedx, Unvow"
     ],
     "link": "https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707",
-    "date": "2023-10-14T21:00:00",
+    "date": "2023-10-14T22:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -183,6 +135,51 @@
     ],
     "link": "https://www.eventbrite.com/e/loveseat-the-missed-hyper-viper-tickets-719551928187",
     "date": "2023-11-03T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Dead Selves, Wig Doubt, Runaway Brother"
+    ],
+    "link": "https://www.eventbrite.com/e/dead-selves-wig-doubt-runaway-brother-tickets-719552720557",
+    "date": "2023-11-04T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-719553502897",
+    "date": "2023-11-06T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg"
+    ],
+    "link": "https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787",
+    "date": "2023-11-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Simple Routes EP release w/ Ray Flanagan, Michelle Gaw"
+    ],
+    "link": "https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037",
+    "date": "2023-11-16T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu"
+    ],
+    "link": "https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387",
+    "date": "2023-11-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Jon Spencer"
+    ],
+    "link": "https://www.eventbrite.com/e/jon-spencer-tickets-715748231227",
+    "date": "2023-11-25T21:00:00",
     "venue": "Happy Dog"
   }
 ]

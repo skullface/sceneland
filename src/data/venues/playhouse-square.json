@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Stavros Halkias: The Fat Rascal Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/stavros-halkias-the-fat-rascal-tour",
-    "date": "2023-10-07",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Margaret Cho: Live and LIVID!"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/margaret-cho",
-    "date": "2023-10-07",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Jimmy Carr: Terribly Funny"
     ],
     "link": "https://www.playhousesquare.org/events/detail/jimmy-carr-terribly-funny",
@@ -161,18 +145,10 @@
   },
   {
     "artist": [
-      "Stavros Halkias: The Fat Rascal Tour"
+      "Leanne Morgan: Just Getting Started"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/stavros-halkias-the-fat-rascal-tour",
-    "date": "2023-10-07",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Raphael Saadiq Revisits Tony! Toni! Ton\u00e9!"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/raphael-saadiq-revisits-tony-toni-tone",
-    "date": "2023-10-08",
+    "link": "https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started",
+    "date": "2024-03-15",
     "venue": "Playhouse Square"
   },
   {
@@ -285,6 +261,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/elvis-tribute-artist-spectacular-2",
     "date": "2024-01-07",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Black Violin: The Experience Tour"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/black-violin-the-experience-tour",
+    "date": "2024-03-23",
     "venue": "Playhouse Square"
   },
   {

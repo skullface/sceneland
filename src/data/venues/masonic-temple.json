@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Theo Von : Return of the Rat"
-    ],
-    "link": "https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-05-2023/event/05005EE7364193D1",
-    "date": "2023-10-05T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Theo Von : Return of the Rat \u2013 2nd Show"
-    ],
-    "link": "https://www.ticketmaster.com/theo-von-return-of-the-rat-cleveland-ohio-10-06-2023/event/05005EEAF7EE5188",
-    "date": "2023-10-06T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Anthony Jeselnik \u2013 Bones & All"
-    ],
-    "link": "https://www.ticketmaster.com/event/05005E7F9E9515DF",
-    "date": "",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Anthony Jeselnik: Bones and All \u2013 Second Show Added"
-    ],
-    "link": "https://www.ticketmaster.com/anthony-jeselnik-bones-and-all-cleveland-ohio-10-07-2023/event/05005EE709E18C1C",
-    "date": "2023-10-07T21:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Violent Femmes"
     ],
     "link": "https://www.ticketmaster.com/violent-femmes-cleveland-ohio-10-09-2023/event/05005EC1C0A74631",
@@ -57,17 +25,17 @@
   },
   {
     "artist": [
-      "Invasion Invasion"
+      "Led Zeppelin 2"
     ],
-    "link": "https://www.ticketmaster.com/invasion-invasion-cleveland-ohio-10-19-2023/event/05005F11B5DC2D31",
+    "link": "https://www.ticketmaster.com/led-zeppelin-2-cleveland-ohio-10-19-2023/event/05005E8B8E5012A5",
     "date": "2023-10-19T20:00:00",
     "venue": "Masonic Temple"
   },
   {
     "artist": [
-      "Led Zeppelin 2"
+      "Invasion Invasion"
     ],
-    "link": "https://www.ticketmaster.com/led-zeppelin-2-cleveland-ohio-10-19-2023/event/05005E8B8E5012A5",
+    "link": "https://www.ticketmaster.com/invasion-invasion-cleveland-ohio-10-19-2023/event/05005F11B5DC2D31",
     "date": "2023-10-19T20:00:00",
     "venue": "Masonic Temple"
   },
@@ -89,14 +57,6 @@
   },
   {
     "artist": [
-      "The Fifth House"
-    ],
-    "link": "https://www.ticketmaster.com/the-fifth-house-cleveland-ohio-10-27-2023/event/05005F3AC7DC18D9",
-    "date": "2023-10-27T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "NWA Presents:  Samhain"
     ],
     "link": "https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4",
@@ -113,17 +73,17 @@
   },
   {
     "artist": [
-      "Face 2 Face \u2013 A Tribute to Elton John & Billy Joel"
+      "SUSTO"
     ],
-    "link": "https://www.ticketmaster.com/face-2-face-a-tribute-to-cleveland-ohio-11-03-2023/event/05005F320A0E46FB",
+    "link": "https://www.ticketmaster.com/susto-cleveland-ohio-11-03-2023/event/05005EF99EB5345E",
     "date": "2023-11-03T20:00:00",
     "venue": "Masonic Temple"
   },
   {
     "artist": [
-      "SUSTO"
+      "Face 2 Face \u2013 A Tribute to Elton John & Billy Joel"
     ],
-    "link": "https://www.ticketmaster.com/susto-cleveland-ohio-11-03-2023/event/05005EF99EB5345E",
+    "link": "https://www.ticketmaster.com/face-2-face-a-tribute-to-cleveland-ohio-11-03-2023/event/05005F320A0E46FB",
     "date": "2023-11-03T20:00:00",
     "venue": "Masonic Temple"
   },
@@ -165,6 +125,14 @@
     ],
     "link": "https://www.ticketmaster.com/honor-fight-championship-mma-fights-cleveland-ohio-11-25-2023/event/05005F2FF24A623B",
     "date": "2023-11-25T18:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Hellzapoppin Circus Sideshow"
+    ],
+    "link": "https://www.ticketmaster.com/hellzapoppin-circus-sideshow-cleveland-ohio-11-25-2023/event/05005F44E55A2E96",
+    "date": "2023-11-25T20:00:00",
     "venue": "Masonic Temple"
   },
   {

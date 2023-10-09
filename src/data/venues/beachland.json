@@ -1,92 +1,19 @@
 [
   {
     "artist": [
-      "Margo Price",
-      "Brit Taylor"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13440688/margo-price-brit-taylor",
-    "date": "2023-10-03T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Pre/Post Party with The A-Team (DJ Lady Que & DJ Agnebrew)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13673538/pre-post-party-with-the-a-team-dj-lady-que-dj-agnebrew-",
-    "date": "2023-10-03T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "MSPAINT",
-      "Blossom Park",
-      "Blind Equation"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13573458/mspaint-blossom-park-blind-equation",
-    "date": "2023-10-05T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Bitchin Bajas",
-      "swisher"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13396368/bitchin-bajas-swisher",
-    "date": "2023-10-06T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Cut Worms",
-      "Ryder The Eagle",
-      "Simon & the Apparatus"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13258948/cut-worms-ryder-the-eagle-simon-the-apparatus",
-    "date": "2023-10-06T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "The Brook & the Bluff",
-      "Bendigo Fletcher"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13254518/the-brook-the-bluff-bendigo-fletcher",
-    "date": "2023-10-07T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "mssv",
-      "C-Level"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13205278/mssv-c-level",
-    "date": "2023-10-07T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Richard Shack and Friends"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13630978/richard-shack-and-friends",
-    "date": "2023-10-08T14:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Cam Cole",
-      "Arthur Buezo"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13249758/cam-cole-arthur-buezo",
-    "date": "2023-10-08T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Scott H. Biram",
       "Cory Grinder & Anthony Papaleo (Duo)"
     ],
     "link": "https://www.beachlandballroom.com/e/13510778/scott-h-biram-cory-grinder-anthony-papaleo-duo-",
     "date": "2023-10-10T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Pre/Post Party with DJ Marky Ray"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13719158/pre-post-party-with-dj-marky-ray",
+    "date": "2023-10-11T18:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -118,11 +45,11 @@
   },
   {
     "artist": [
-      "A Heavenly Birthday Celebration fro Desiree Schmitt"
+      "A Heavenly Birthday Celebration for Desiree Schmitt"
     ],
-    "link": "https://www.beachlandballroom.com/e/13702998/a-heavenly-birthday-celebration-fro-desiree-schmitt",
+    "link": "https://www.beachlandballroom.com/e/13702998/a-heavenly-birthday-celebration-for-desiree-schmitt",
     "date": "2023-10-14T12:00:00",
-    "venue": "Beachland Ballroom"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -172,9 +99,10 @@
   {
     "artist": [
       "Kiss The Tiger",
-      "The Buffalo Ryders"
+      "The Buffalo Ryders",
+      "Charity Cunningham"
     ],
-    "link": "https://www.beachlandballroom.com/e/13412548/kiss-the-tiger-the-buffalo-ryders",
+    "link": "https://www.beachlandballroom.com/e/13412548/kiss-the-tiger-the-buffalo-ryders-charity-cunningham",
     "date": "2023-10-18T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -200,20 +128,29 @@
   },
   {
     "artist": [
-      "Squirrel Flower",
-      "Truth Club"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13420938/squirrel-flower-truth-club",
-    "date": "2023-10-20T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Carbon Leaf"
     ],
     "link": "https://www.beachlandballroom.com/e/13225388/carbon-leaf",
     "date": "2023-10-20T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Squirrel Flower",
+      "Truth Club",
+      "Napsack"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13420938/squirrel-flower-truth-club-napsack",
+    "date": "2023-10-20T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "A Benevolent Brunch @ The Beachland"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13708538/a-benevolent-brunch-the-beachland",
+    "date": "2023-10-21T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -238,6 +175,14 @@
     "link": "https://www.beachlandballroom.com/e/13364038/zach-nugent-s-dead-set",
     "date": "2023-10-22T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "A Benefit for CLEAN HOUSE"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13712808/a-benefit-for-clean-house",
+    "date": "2023-10-22T18:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -351,9 +296,10 @@
   },
   {
     "artist": [
-      "Liliac"
+      "Liliac",
+      "Burning River"
     ],
-    "link": "https://www.beachlandballroom.com/e/13579068/liliac",
+    "link": "https://www.beachlandballroom.com/e/13579068/liliac-burning-river",
     "date": "2023-10-31T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -539,6 +485,15 @@
   },
   {
     "artist": [
+      "Dreadlock Dave & Friends",
+      "Tightwind: Ramones Tribute Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13708938/dreadlock-dave-friends-tightwind-ramones-tribute-band",
+    "date": "2023-11-17T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "PISSE",
       "The Serfs"
     ],
@@ -674,6 +629,14 @@
   },
   {
     "artist": [
+      "Just Jerry Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13718608/just-jerry-band",
+    "date": "2023-12-15T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Beachland Holiday Flea"
     ],
     "link": "https://www.beachlandballroom.com/e/13677948/beachland-holiday-flea",
@@ -746,6 +709,14 @@
     "link": "https://www.beachlandballroom.com/e/13654878/jill-andrews",
     "date": "2024-02-22T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Maddie Zahm"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm",
+    "date": "2024-03-02T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

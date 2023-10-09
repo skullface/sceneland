@@ -1,66 +1,10 @@
 [
   {
     "artist": [
-      "George Clanton"
+      "Dead on a Sunday"
     ],
-    "link": "https://link.dice.fm/o5e5253cefd2",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "French Cassettes"
-    ],
-    "link": "https://link.dice.fm/i9d3198de992",
-    "date": "2023-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Frankie Cosmos with Good Morning"
-    ],
-    "link": "https://link.dice.fm/x212bc9821be",
-    "date": "2023-10-04T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Generationals"
-    ],
-    "link": "https://link.dice.fm/ja2724c3aa19",
-    "date": "2023-10-06T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Strawberry Launch"
-    ],
-    "link": "https://link.dice.fm/w1370c7f4afb",
-    "date": "2023-10-07T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "One Direction vs. 5 Seconds of Summer dance party"
-    ],
-    "link": "https://link.dice.fm/C8dd3932d1af",
-    "date": "2023-10-07T20:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Aces \u2013 I\u2019ve Loved You For So Long World Tour"
-    ],
-    "link": "https://link.dice.fm/d079039b50bc",
-    "date": "2023-10-08T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Kate Bollinger"
-    ],
-    "link": "https://link.dice.fm/P8653582ac4e",
-    "date": "2023-10-08T19:00:00-04:00",
+    "link": "https://link.dice.fm/ta0ec89681c5",
+    "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -70,14 +14,6 @@
     "link": "https://link.dice.fm/cac8be85f81f",
     "date": "2023-10-09T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "Dead on a Sunday"
-    ],
-    "link": "https://link.dice.fm/ta0ec89681c5",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -137,19 +73,19 @@
   },
   {
     "artist": [
-      "SUICIDE SILENCE AND CHELSEA GRIN "
-    ],
-    "link": "https://link.dice.fm/S333ab788856",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Emblem3"
     ],
     "link": "https://link.dice.fm/ve8a20f788c7",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "SUICIDE SILENCE AND CHELSEA GRIN "
+    ],
+    "link": "https://link.dice.fm/S333ab788856",
+    "date": "2023-10-20T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -161,7 +97,7 @@
   },
   {
     "artist": [
-      "Krooked Kings"
+      "Krooked Kings w/ Toledo "
     ],
     "link": "https://link.dice.fm/L1d99087ee2c",
     "date": "2023-10-21T18:00:00-04:00",
@@ -193,19 +129,19 @@
   },
   {
     "artist": [
-      "Radiator Hospital"
-    ],
-    "link": "https://link.dice.fm/S73e91266b0a",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Annie Dukes"
     ],
     "link": "https://link.dice.fm/Gd2cf5c8f6ca",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Radiator Hospital"
+    ],
+    "link": "https://link.dice.fm/S73e91266b0a",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -353,6 +289,14 @@
   },
   {
     "artist": [
+      "Pronoun"
+    ],
+    "link": "https://link.dice.fm/z8596180c75d",
+    "date": "2023-11-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "Moon Walker"
     ],
     "link": "https://link.dice.fm/od15100b5387",
@@ -485,6 +429,14 @@
     ],
     "link": "https://link.dice.fm/V5b92716e486",
     "date": "2023-12-16T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Meet Me @ The Altar: Say It To My Face Tour"
+    ],
+    "link": "https://link.dice.fm/a52d96a03436",
+    "date": "2024-02-01T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

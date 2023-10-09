@@ -1,50 +1,10 @@
 [
   {
     "artist": [
-      "Christopher Cross"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/496706",
-    "date": "2023-10-04T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Ilana Glazer Live!"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/493858",
-    "date": "2023-10-06T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Ghost Files Live!"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/487589",
-    "date": "2023-10-08T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Orny Adams"
+      "Orny Adams, Jeff Shaw"
     ],
     "link": "https://www.agoracleveland.com/events/detail/496865",
     "date": "2023-10-13T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Pete Davidson Live"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/500438",
-    "date": "2023-10-15T17:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Pete Davidson Live"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/500766",
-    "date": "2023-10-15T20:00:00",
     "venue": "Agora"
   },
   {
@@ -177,6 +137,22 @@
   },
   {
     "artist": [
+      "Pete Davidson Live"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/500438",
+    "date": "2023-11-13T17:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Pete Davidson Live"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/500766",
+    "date": "2023-11-13T20:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Shakey Graves, Rayland Baxter"
     ],
     "link": "https://www.agoracleveland.com/events/detail/491162",
@@ -285,6 +261,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/494799",
     "date": "2024-01-19T20:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Neck Deep, DRAIN, Bearings, Higher Power"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/505282",
+    "date": "2024-02-14T18:00:00",
     "venue": "Agora"
   },
   {

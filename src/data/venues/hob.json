@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "Chris Renzema: Manna Tour: with special guest Jess Ray"
-    ],
-    "link": "https://concerts.livenation.com/chris-renzema-manna-tour-with-special-cleveland-ohio-10-03-2023/event/05005E92D7A12DE6",
-    "date": "2023-10-03T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Christian French"
-    ],
-    "link": "https://concerts.livenation.com/christian-french-cleveland-ohio-10-04-2023/event/05005F3D901C171B",
-    "date": "2023-10-04T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Christian French: MOVED TO CAMBRIDGE ROOM"
-    ],
-    "link": "https://concerts.livenation.com/christian-french-moved-to-cambridge-room-cleveland-ohio-10-04-2023/event/05005EB9BCC7382F",
-    "date": "2023-10-04T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Wheeler Walker, Jr.: The Spread Eagle Tour"
-    ],
-    "link": "https://concerts.livenation.com/wheeler-walker-jr-the-spread-eagle-cleveland-ohio-10-06-2023/event/05005E9393DC1F9B",
-    "date": "2023-10-06T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "NoCap: The BirdNest Tour"
-    ],
-    "link": "https://concerts.livenation.com/nocap-the-birdnest-tour-cleveland-ohio-10-08-2023/event/05005EEC888013C8",
-    "date": "2023-10-08T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Valley"
     ],
     "link": "https://concerts.livenation.com/valley-cleveland-ohio-10-09-2023/event/05005F351D5C66D9",
@@ -361,6 +321,22 @@
   },
   {
     "artist": [
+      "Zakk Sabbath"
+    ],
+    "link": "https://concerts.livenation.com/zakk-sabbath-cleveland-ohio-12-31-2023/event/05005F3EBED62503",
+    "date": "2023-12-31T20:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Big Head Todd & the Monsters"
+    ],
+    "link": "https://concerts.livenation.com/big-head-todd-the-monsters-cleveland-ohio-01-23-2024/event/05005F3B06A74B56",
+    "date": "2024-01-23T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "anees: Winter Camp Tour"
     ],
     "link": "https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17",
@@ -381,6 +357,22 @@
     ],
     "link": "https://concerts.livenation.com/cold-war-kids-20-years-tour-cleveland-ohio-02-26-2024/event/05005F26A8DE1B1C",
     "date": "2024-02-26T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Beach Weather: Pineapple Sunrise The Tour"
+    ],
+    "link": "https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257",
+    "date": "2024-03-09T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Magic Men Australia"
+    ],
+    "link": "https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0",
+    "date": "2024-08-27T18:30:00",
     "venue": "House of Blues"
   }
 ]

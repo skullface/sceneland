@@ -7,6 +7,16 @@ on:
     types: [completed]
 
 jobs:
+  exit:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    steps:
+      - name: Exit on fetch failure
+        run: |
+          gh run cancel ${{ github.run_id }}
+          gh run watch ${{ github.run_id }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   build:
     runs-on: ubuntu-latest
     if: ${{ github.event.workflow_run.conclusion == 'success' }} || ${{ github.event_name == 'workflow_dispatch' }}

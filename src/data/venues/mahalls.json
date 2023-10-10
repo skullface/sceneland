@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Dead on a Sunday"
-    ],
-    "link": "https://link.dice.fm/ta0ec89681c5",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "GIFT"
-    ],
-    "link": "https://link.dice.fm/cac8be85f81f",
-    "date": "2023-10-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Chris Farren"
     ],
     "link": "https://link.dice.fm/D8b0d2ca7c38",
@@ -129,19 +113,19 @@
   },
   {
     "artist": [
-      "Annie Dukes"
-    ],
-    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Radiator Hospital"
     ],
     "link": "https://link.dice.fm/S73e91266b0a",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Annie Dukes"
+    ],
+    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -281,19 +265,19 @@
   },
   {
     "artist": [
-      "Chase Petra and Carpool Tunnel"
-    ],
-    "link": "https://link.dice.fm/m8113a5c6215",
-    "date": "2023-11-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pronoun"
     ],
     "link": "https://link.dice.fm/z8596180c75d",
     "date": "2023-11-14T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Chase Petra and Carpool Tunnel"
+    ],
+    "link": "https://link.dice.fm/m8113a5c6215",
+    "date": "2023-11-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

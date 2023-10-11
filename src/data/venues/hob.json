@@ -329,6 +329,14 @@
   },
   {
     "artist": [
+      "Joseph"
+    ],
+    "link": "https://concerts.livenation.com/joseph-cleveland-ohio-01-27-2024/event/05005F4427964F0D",
+    "date": "2024-01-27T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "anees: Winter Camp Tour"
     ],
     "link": "https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17",
@@ -357,6 +365,14 @@
     ],
     "link": "https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257",
     "date": "2024-03-09T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Drake White: The Bridge Tour"
+    ],
+    "link": "https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176",
+    "date": "2024-05-02T19:00:00",
     "venue": "House of Blues"
   },
   {

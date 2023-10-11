@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Scott H. Biram",
-      "Cory Grinder & Anthony Papaleo (Duo)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13510778/scott-h-biram-cory-grinder-anthony-papaleo-duo-",
-    "date": "2023-10-10T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Pre/Post Party with DJ Marky Ray"
     ],
     "link": "https://www.beachlandballroom.com/e/13719158/pre-post-party-with-dj-marky-ray",
@@ -45,7 +36,7 @@
   },
   {
     "artist": [
-      "Jacob Deeickson Celebration of Life"
+      "Jacob Derrickson Celebration of Life"
     ],
     "link": "https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life",
     "date": "2023-10-13T19:00:00",
@@ -204,9 +195,10 @@
   },
   {
     "artist": [
-      "The Arcadian Wild"
+      "The Arcadian Wild",
+      "My Biscuits (Jen Maurer + Leigh Ann Wise)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13593758/the-arcadian-wild",
+    "link": "https://www.beachlandballroom.com/e/13593758/the-arcadian-wild-my-biscuits-jen-maurer-leigh-ann-wise-",
     "date": "2023-10-24T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -216,14 +208,15 @@
       "Shake Ground",
       "Falling Stars",
       "Dreadlock Dave's Automatonic Alien Entropy",
-      "Brent Kirby",
+      "The Jack Fords",
       "Tracy Marie and Friends",
       "Xela",
       "Tommy Wiggins",
-      "Bill Lestock and Jen Maurer",
-      "Jackie Warren"
+      "Bill Lestock",
+      "Jackie Warren + Sammy Deleon",
+      "Rachel Brown & the Beatnik Playboys"
     ],
-    "link": "https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-brent-kirby-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-and-jen-maurer-jackie-warren",
+    "link": "https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-the-jack-fords-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-jackie-warren-sammy-deleon-rachel-brown-the-beatnik-playboys",
     "date": "2023-10-24T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -425,9 +418,10 @@
   },
   {
     "artist": [
-      "Charlie Parr"
+      "Charlie Parr",
+      "Roger Hoover"
     ],
-    "link": "https://www.beachlandballroom.com/e/13644658/charlie-parr",
+    "link": "https://www.beachlandballroom.com/e/13644658/charlie-parr-roger-hoover",
     "date": "2023-11-07T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -494,10 +488,28 @@
   },
   {
     "artist": [
+      "The Way Down Wanderers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers",
+    "date": "2023-11-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Hembree"
     ],
     "link": "https://www.beachlandballroom.com/e/13689038/hembree",
     "date": "2023-11-15T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Youth Pallet",
+      "Yawn Mower",
+      "Charity Cunningham"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13735648/youth-pallet-yawn-mower-charity-cunningham",
+    "date": "2023-11-16T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -554,6 +566,16 @@
     "link": "https://www.beachlandballroom.com/e/13645788/rumpke-mountain-boys-the-stolen-faces-sugar-mules",
     "date": "2023-11-25T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "King Buu",
+      "Slag Genie",
+      "Magnavox's"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13735708/king-buu-slag-genie-magnavox-s",
+    "date": "2023-11-26T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -646,14 +668,6 @@
   },
   {
     "artist": [
-      "Ruen Brothers"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
-    "date": "2023-12-13T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Just Jerry Band"
     ],
     "link": "https://www.beachlandballroom.com/e/13718608/just-jerry-band",
@@ -729,6 +743,14 @@
   },
   {
     "artist": [
+      "Stick Men"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13717748/stick-men",
+    "date": "2024-02-21T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Jill Andrews"
     ],
     "link": "https://www.beachlandballroom.com/e/13654878/jill-andrews",
@@ -742,6 +764,22 @@
     "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm",
     "date": "2024-03-02T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Tophouse"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13718918/tophouse",
+    "date": "2024-03-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Ruen Brothers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
+    "date": "2024-04-17T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

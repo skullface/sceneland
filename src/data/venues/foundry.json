@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Monuments, For The Fallen Dreams, Vrsty"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/monuments-for-the-fallen-dreams-vrsty/",
-    "date": "2023-10-10T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Moon Tooth, Her Familiar, Soleo"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/moon-tooth-her-familiar-soleo/",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/a-benefit-for-mark-bedford/",
     "date": "2023-10-22T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Cast Iron Comedy Showcase"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
+    "date": "2023-10-24T20:00:00",
     "venue": "Foundry"
   },
   {
@@ -245,6 +245,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nine-of-clubs-reunion-lestat/",
     "date": "2023-11-22T22:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Makeout, Lil Lotus, Saceb, Lemonbar, Skippy\u2019s On The Run"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/",
+    "date": "2023-11-28T18:30:00",
     "venue": "Foundry"
   },
   {

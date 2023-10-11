@@ -233,19 +233,19 @@
   },
   {
     "artist": [
-      "Into It. Over It."
-    ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Walter Etc."
     ],
     "link": "https://link.dice.fm/ja5bf7c187cf",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Into It. Over It."
+    ],
+    "link": "https://link.dice.fm/Ka4c8810172d",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -421,6 +421,14 @@
     ],
     "link": "https://link.dice.fm/a52d96a03436",
     "date": "2024-02-01T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Holding Absence"
+    ],
+    "link": "https://link.dice.fm/Se4ab3e1a738",
+    "date": "2024-02-06T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

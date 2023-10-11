@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Oct 2023 09:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 09:07:03 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Orny Adams, Jeff Shaw at Agora]]></title>
@@ -264,6 +264,13 @@
             <link>https://www.agoracleveland.com/events/detail/503221</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/503221</guid>
             <pubDate>Thu, 22 Feb 2024 17:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tony Hinchcliffe at Agora]]></title>
+            <description><![CDATA[Get tickets to Tony Hinchcliffe at Agora on Friday, February 23, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/506904]]></description>
+            <link>https://www.agoracleveland.com/events/detail/506904</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/506904</guid>
+            <pubDate>Fri, 23 Feb 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jimbo's Drag Circus at Agora]]></title>
@@ -567,6 +574,13 @@
             <pubDate>Tue, 23 Jan 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Joseph at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Joseph at House of Blues on Saturday, January 27, 2024, 07:00 PM: https://concerts.livenation.com/joseph-cleveland-ohio-01-27-2024/event/05005F4427964F0D]]></description>
+            <link>https://concerts.livenation.com/joseph-cleveland-ohio-01-27-2024/event/05005F4427964F0D</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/joseph-cleveland-ohio-01-27-2024/event/05005F4427964F0D</guid>
+            <pubDate>Sat, 27 Jan 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[anees: Winter Camp Tour at House of Blues]]></title>
             <description><![CDATA[Get tickets to anees: Winter Camp Tour at House of Blues on Saturday, February 3, 2024, 07:00 PM: https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17]]></description>
             <link>https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17</link>
@@ -593,6 +607,13 @@
             <link>https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257</link>
             <guid isPermaLink="true">https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257</guid>
             <pubDate>Sat, 09 Mar 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drake White: The Bridge Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Drake White: The Bridge Tour at House of Blues on Thursday, May 2, 2024, 07:00 PM: https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176]]></description>
+            <link>https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176</guid>
+            <pubDate>Thu, 02 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Magic Men Australia at House of Blues]]></title>
@@ -749,13 +770,6 @@
             <pubDate>Mon, 12 Feb 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Scott H. Biram, Cory Grinder & Anthony Papaleo (Duo) at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Scott H. Biram, Cory Grinder & Anthony Papaleo (Duo) at Beachland Tavern on Tuesday, October 10, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13510778/scott-h-biram-cory-grinder-anthony-papaleo-duo-]]></description>
-            <link>https://www.beachlandballroom.com/e/13510778/scott-h-biram-cory-grinder-anthony-papaleo-duo-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13510778/scott-h-biram-cory-grinder-anthony-papaleo-duo-</guid>
-            <pubDate>Tue, 10 Oct 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pre/Post Party with DJ Marky Ray at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Pre/Post Party with DJ Marky Ray at Beachland Tavern on Wednesday, October 11, 2023, 06:00 PM: https://www.beachlandballroom.com/e/13719158/pre-post-party-with-dj-marky-ray]]></description>
             <link>https://www.beachlandballroom.com/e/13719158/pre-post-party-with-dj-marky-ray</link>
@@ -784,8 +798,8 @@
             <pubDate>Fri, 13 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jacob Deeickson Celebration of Life at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Jacob Deeickson Celebration of Life at Beachland Ballroom on Friday, October 13, 2023, 07:00 PM: https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life]]></description>
+            <title><![CDATA[Jacob Derrickson Celebration of Life at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Jacob Derrickson Celebration of Life at Beachland Ballroom on Friday, October 13, 2023, 07:00 PM: https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life]]></description>
             <link>https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life</guid>
             <pubDate>Fri, 13 Oct 2023 19:00:00 GMT</pubDate>
@@ -910,17 +924,17 @@
             <pubDate>Mon, 23 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Arcadian Wild at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Arcadian Wild at Beachland Tavern on Tuesday, October 24, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13593758/the-arcadian-wild]]></description>
-            <link>https://www.beachlandballroom.com/e/13593758/the-arcadian-wild</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13593758/the-arcadian-wild</guid>
+            <title><![CDATA[The Arcadian Wild, My Biscuits (Jen Maurer + Leigh Ann Wise) at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Arcadian Wild, My Biscuits (Jen Maurer + Leigh Ann Wise) at Beachland Tavern on Tuesday, October 24, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13593758/the-arcadian-wild-my-biscuits-jen-maurer-leigh-ann-wise-]]></description>
+            <link>https://www.beachlandballroom.com/e/13593758/the-arcadian-wild-my-biscuits-jen-maurer-leigh-ann-wise-</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13593758/the-arcadian-wild-my-biscuits-jen-maurer-leigh-ann-wise-</guid>
             <pubDate>Tue, 24 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Friends of Crooked River Groove Reunion + Concert, Shake Ground, Falling Stars, Dreadlock Dave's Automatonic Alien Entropy, Brent Kirby, Tracy Marie and Friends, Xela, Tommy Wiggins, Bill Lestock and Jen Maurer, Jackie Warren at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Friends of Crooked River Groove Reunion + Concert, Shake Ground, Falling Stars, Dreadlock Dave's Automatonic Alien Entropy, Brent Kirby, Tracy Marie and Friends, Xela, Tommy Wiggins, Bill Lestock and Jen Maurer, Jackie Warren at Beachland Ballroom on Tuesday, October 24, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-brent-kirby-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-and-jen-maurer-jackie-warren]]></description>
-            <link>https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-brent-kirby-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-and-jen-maurer-jackie-warren</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-brent-kirby-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-and-jen-maurer-jackie-warren</guid>
+            <title><![CDATA[Friends of Crooked River Groove Reunion + Concert, Shake Ground, Falling Stars, Dreadlock Dave's Automatonic Alien Entropy, The Jack Fords, Tracy Marie and Friends, Xela, Tommy Wiggins, Bill Lestock, Jackie Warren + Sammy Deleon, Rachel Brown & the Beatnik Playboys at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Friends of Crooked River Groove Reunion + Concert, Shake Ground, Falling Stars, Dreadlock Dave's Automatonic Alien Entropy, The Jack Fords, Tracy Marie and Friends, Xela, Tommy Wiggins, Bill Lestock, Jackie Warren + Sammy Deleon, Rachel Brown & the Beatnik Playboys at Beachland Ballroom on Tuesday, October 24, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-the-jack-fords-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-jackie-warren-sammy-deleon-rachel-brown-the-beatnik-playboys]]></description>
+            <link>https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-the-jack-fords-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-jackie-warren-sammy-deleon-rachel-brown-the-beatnik-playboys</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-the-jack-fords-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-jackie-warren-sammy-deleon-rachel-brown-the-beatnik-playboys</guid>
             <pubDate>Tue, 24 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1064,10 +1078,10 @@
             <pubDate>Mon, 06 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Charlie Parr at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Charlie Parr at Beachland Tavern on Tuesday, November 7, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13644658/charlie-parr]]></description>
-            <link>https://www.beachlandballroom.com/e/13644658/charlie-parr</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13644658/charlie-parr</guid>
+            <title><![CDATA[Charlie Parr, Roger Hoover at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Charlie Parr, Roger Hoover at Beachland Tavern on Tuesday, November 7, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13644658/charlie-parr-roger-hoover]]></description>
+            <link>https://www.beachlandballroom.com/e/13644658/charlie-parr-roger-hoover</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13644658/charlie-parr-roger-hoover</guid>
             <pubDate>Tue, 07 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1120,11 +1134,25 @@
             <pubDate>Sun, 12 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Way Down Wanderers at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Way Down Wanderers at Beachland Tavern on Tuesday, November 14, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers]]></description>
+            <link>https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers</guid>
+            <pubDate>Tue, 14 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hembree at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Hembree at Beachland Tavern on Wednesday, November 15, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13689038/hembree]]></description>
             <link>https://www.beachlandballroom.com/e/13689038/hembree</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13689038/hembree</guid>
             <pubDate>Wed, 15 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Youth Pallet, Yawn Mower, Charity Cunningham at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Youth Pallet, Yawn Mower, Charity Cunningham at Beachland Tavern on Thursday, November 16, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13735648/youth-pallet-yawn-mower-charity-cunningham]]></description>
+            <link>https://www.beachlandballroom.com/e/13735648/youth-pallet-yawn-mower-charity-cunningham</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13735648/youth-pallet-yawn-mower-charity-cunningham</guid>
+            <pubDate>Thu, 16 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Razzz at Beachland Ballroom]]></title>
@@ -1167,6 +1195,13 @@
             <link>https://www.beachlandballroom.com/e/13645788/rumpke-mountain-boys-the-stolen-faces-sugar-mules</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13645788/rumpke-mountain-boys-the-stolen-faces-sugar-mules</guid>
             <pubDate>Sat, 25 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[King Buu, Slag Genie, Magnavox's at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to King Buu, Slag Genie, Magnavox's at Beachland Tavern on Sunday, November 26, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13735708/king-buu-slag-genie-magnavox-s]]></description>
+            <link>https://www.beachlandballroom.com/e/13735708/king-buu-slag-genie-magnavox-s</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13735708/king-buu-slag-genie-magnavox-s</guid>
+            <pubDate>Sun, 26 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Urban Heat, Rare DM at Beachland Tavern]]></title>
@@ -1239,13 +1274,6 @@
             <pubDate>Sun, 10 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ruen Brothers at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Ruen Brothers at Beachland Tavern on Wednesday, December 13, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13409098/ruen-brothers]]></description>
-            <link>https://www.beachlandballroom.com/e/13409098/ruen-brothers</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13409098/ruen-brothers</guid>
-            <pubDate>Wed, 13 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Just Jerry Band at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Just Jerry Band at Beachland Tavern on Friday, December 15, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13718608/just-jerry-band]]></description>
             <link>https://www.beachlandballroom.com/e/13718608/just-jerry-band</link>
@@ -1309,6 +1337,13 @@
             <pubDate>Tue, 13 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stick Men at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Stick Men at Beachland Ballroom on Wednesday, February 21, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13717748/stick-men]]></description>
+            <link>https://www.beachlandballroom.com/e/13717748/stick-men</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13717748/stick-men</guid>
+            <pubDate>Wed, 21 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jill Andrews at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Jill Andrews at Beachland Tavern on Thursday, February 22, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13654878/jill-andrews]]></description>
             <link>https://www.beachlandballroom.com/e/13654878/jill-andrews</link>
@@ -1321,6 +1356,20 @@
             <link>https://www.beachlandballroom.com/e/13688828/maddie-zahm</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13688828/maddie-zahm</guid>
             <pubDate>Sat, 02 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tophouse at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Tophouse at Beachland Tavern on Thursday, March 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13718918/tophouse]]></description>
+            <link>https://www.beachlandballroom.com/e/13718918/tophouse</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13718918/tophouse</guid>
+            <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruen Brothers at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Ruen Brothers at Beachland Tavern on Wednesday, April 17, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13409098/ruen-brothers]]></description>
+            <link>https://www.beachlandballroom.com/e/13409098/ruen-brothers</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13409098/ruen-brothers</guid>
+            <pubDate>Wed, 17 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ty Segall at Beachland Ballroom]]></title>
@@ -1666,13 +1715,6 @@
             <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monuments, For The Fallen Dreams, Vrsty at Foundry]]></title>
-            <description><![CDATA[Get tickets to Monuments, For The Fallen Dreams, Vrsty at Foundry on Tuesday, October 10, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/monuments-for-the-fallen-dreams-vrsty/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/monuments-for-the-fallen-dreams-vrsty/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/monuments-for-the-fallen-dreams-vrsty/</guid>
-            <pubDate>Tue, 10 Oct 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Moon Tooth, Her Familiar, Soleo at Foundry]]></title>
             <description><![CDATA[Get tickets to Moon Tooth, Her Familiar, Soleo at Foundry on Wednesday, October 11, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/moon-tooth-her-familiar-soleo/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/moon-tooth-her-familiar-soleo/</link>
@@ -1734,6 +1776,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/a-benefit-for-mark-bedford/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/a-benefit-for-mark-bedford/</guid>
             <pubDate>Sun, 22 Oct 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cast Iron Comedy Showcase at Foundry]]></title>
+            <description><![CDATA[Get tickets to Cast Iron Comedy Showcase at Foundry on Tuesday, October 24, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/</guid>
+            <pubDate>Tue, 24 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Across The White Water Tower, Dark Island, Midwinter at Foundry]]></title>
@@ -1881,6 +1930,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/nine-of-clubs-reunion-lestat/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nine-of-clubs-reunion-lestat/</guid>
             <pubDate>Wed, 22 Nov 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Makeout, Lil Lotus, Saceb, Lemonbar, Skippy’s On The Run at Foundry]]></title>
+            <description><![CDATA[Get tickets to Makeout, Lil Lotus, Saceb, Lemonbar, Skippy’s On The Run at Foundry on Tuesday, November 28, 2023, 06:30 PM: https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/</guid>
+            <pubDate>Tue, 28 Nov 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Priscilla, Kidd Wicked, Sammy T’s Sideshow, Vultan at Foundry]]></title>
@@ -2100,17 +2156,17 @@
             <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Into It. Over It. at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Into It. Over It. at Mahall’s on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/Ka4c8810172d]]></description>
-            <link>https://link.dice.fm/Ka4c8810172d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ka4c8810172d</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Walter Etc. at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Walter Etc. at Mahall’s Apartment on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/ja5bf7c187cf]]></description>
             <link>https://link.dice.fm/ja5bf7c187cf</link>
             <guid isPermaLink="true">https://link.dice.fm/ja5bf7c187cf</guid>
+            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Into It. Over It. at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Into It. Over It. at Mahall’s on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/Ka4c8810172d]]></description>
+            <link>https://link.dice.fm/Ka4c8810172d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ka4c8810172d</guid>
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2268,6 +2324,13 @@
             <pubDate>Thu, 01 Feb 2024 23:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Holding Absence at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Holding Absence at Mahall’s on Tuesday, February 6, 2024, 11:00 PM: https://link.dice.fm/Se4ab3e1a738]]></description>
+            <link>https://link.dice.fm/Se4ab3e1a738</link>
+            <guid isPermaLink="true">https://link.dice.fm/Se4ab3e1a738</guid>
+            <pubDate>Tue, 06 Feb 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Big Something: Headspace Tour at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Big Something: Headspace Tour at Mahall’s on Thursday, April 11, 2024, 11:00 PM: https://link.dice.fm/md45554ce3c8]]></description>
             <link>https://link.dice.fm/md45554ce3c8</link>
@@ -2357,13 +2420,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CIVIC, The Hell, Show Pink at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to CIVIC, The Hell, Show Pink at Grog Shop on Tuesday, October 10, 2023, 08:00 PM: https://grogshop.gs/event-details/13195478/civic-the-hell-show-pink]]></description>
-            <link>https://grogshop.gs/event-details/13195478/civic-the-hell-show-pink</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13195478/civic-the-hell-show-pink</guid>
-            <pubDate>Tue, 10 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Low Cut Connie, Matthew Logan Vasquez, Jack Harris at Grog Shop]]></title>
@@ -2709,8 +2765,15 @@
             <pubDate>Tue, 12 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Flatliners Present The Holiday Melee, Pet Symmetry at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Flatliners Present The Holiday Melee, Pet Symmetry at Grog Shop on Friday, December 15, 2023, 08:30 PM: https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee]]></description>
+            <title><![CDATA[A Wilhelm Scream at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to A Wilhelm Scream at Grog Shop on Wednesday, December 13, 2023, 08:00 PM: https://grogshop.gs/event-details/13709008/a-wilhelm-scream]]></description>
+            <link>https://grogshop.gs/event-details/13709008/a-wilhelm-scream</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13709008/a-wilhelm-scream</guid>
+            <pubDate>Wed, 13 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Flatliners Present The Holiday Melee, Pet Symmetry, Heart & Lung at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Flatliners Present The Holiday Melee, Pet Symmetry, Heart & Lung at Grog Shop on Friday, December 15, 2023, 08:30 PM: https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee]]></description>
             <link>https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee</guid>
             <pubDate>Fri, 15 Dec 2023 20:30:00 GMT</pubDate>
@@ -2728,6 +2791,13 @@
             <link>https://grogshop.gs/event-details/13693768/torres</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13693768/torres</guid>
             <pubDate>Wed, 17 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wednesday, Hotline TNT at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Wednesday, Hotline TNT at Grog Shop on Sunday, January 28, 2024, 08:00 PM: https://grogshop.gs/event-details/13720188/wednesday]]></description>
+            <link>https://grogshop.gs/event-details/13720188/wednesday</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13720188/wednesday</guid>
+            <pubDate>Sun, 28 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Horse Lords, Ka Baird, Powers/Rolin Duo at Grog Shop]]></title>
@@ -2826,6 +2896,13 @@
             <link>https://www.ticketweb.com/event/johnny-dynamite-musica-tickets/13636368?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/johnny-dynamite-musica-tickets/13636368?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Wed, 01 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emo Night Karaoke! at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to Emo Night Karaoke! at Musica Akron on Friday, November 3, 2023, 09:00 PM: https://www.ticketweb.com/event/emo-night-karaoke-musica-tickets/13734328?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/emo-night-karaoke-musica-tickets/13734328?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/emo-night-karaoke-musica-tickets/13734328?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Fri, 03 Nov 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Shootouts With Corey King at Musica Akron]]></title>

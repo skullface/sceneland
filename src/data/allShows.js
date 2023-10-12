@@ -242,14 +242,14 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['The Wonder Years: The Greatest Generation 10th Anniversary Tour'],
-    link: 'https://concerts.livenation.com/the-wonder-years-the-greatest-generation-cleveland-ohio-10-11-2023/event/05005EB7D7CD547C',
-    date: '2023-10-11T18:00:00',
+    artist: ['Moon Taxi With The Stews'],
+    link: 'https://concerts.livenation.com/moon-taxi-with-the-stews-cleveland-ohio-10-12-2023/event/05005F4BB3C01E49',
+    date: '2023-10-12T19:00:00',
     venue: 'House of Blues',
   },
   {
-    artist: ['Moon Taxi With The Stews'],
-    link: 'https://concerts.livenation.com/moon-taxi-with-the-stews-cleveland-ohio-10-12-2023/event/05005EB39FF63FE1',
+    artist: ['Moon Taxi with The Stews: MOVED TO CAMBRIDGE ROOM'],
+    link: 'https://concerts.livenation.com/moon-taxi-with-the-stews-moved-cleveland-ohio-10-12-2023/event/05005EB39FF63FE1',
     date: '2023-10-12T19:00:00',
     venue: 'House of Blues',
   },
@@ -660,16 +660,10 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Pre/Post Party with DJ Marky Ray'],
-    link: 'https://www.beachlandballroom.com/e/13719158/pre-post-party-with-dj-marky-ray',
-    date: '2023-10-11T18:00:00',
+    artist: ['Pre/Post Party with goor\u00fc and M.Law'],
+    link: 'https://www.beachlandballroom.com/e/13741108/pre-post-party-with-goor-and-m-law',
+    date: '2023-10-12T18:00:00',
     venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Southern Culture On the Skids', 'The Woggles'],
-    link: 'https://www.beachlandballroom.com/e/13222048/southern-culture-on-the-skids-the-woggles',
-    date: '2023-10-11T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Dopapod', 'TAUK'],
@@ -1201,6 +1195,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Tyler Ramsey'],
+    link: 'https://www.beachlandballroom.com/e/13708728/tyler-ramsey',
+    date: '2024-02-27T20:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Maddie Zahm'],
     link: 'https://www.beachlandballroom.com/e/13688828/maddie-zahm',
     date: '2024-03-02T20:00:00',
@@ -1294,12 +1294,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147',
     date: '2023-10-23T21:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['Jimmy Carr: Terribly Funny'],
-    link: 'https://www.playhousesquare.org/events/detail/jimmy-carr-terribly-funny',
-    date: '2023-10-11',
-    venue: 'Playhouse Square',
   },
   {
     artist: ['Chris Tucker: The Legend Tour 2023'],
@@ -1494,6 +1488,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Ms. Pat: Ya Girl Done Made It'],
+    link: 'https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it',
+    date: '2024-02-02',
+    venue: 'Playhouse Square',
+  },
+  {
     artist: ['The Price Is Right Live'],
     link: 'https://www.playhousesquare.org/events/detail/the-price-is-right-live-3',
     date: '2024-03-01',
@@ -1516,12 +1516,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2',
     date: '2024-04-19',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Moon Tooth, Her Familiar, Soleo'],
-    link: 'https://www.foundryconcertclub.com/tm-event/moon-tooth-her-familiar-soleo/',
-    date: '2023-10-11T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Demun Jones, Dusty Leigh'],
@@ -1730,12 +1724,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Chris Farren'],
-    link: 'https://link.dice.fm/D8b0d2ca7c38',
-    date: '2023-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Brummies'],
     link: 'https://link.dice.fm/l9573f9cbae8',
     date: '2023-10-12T19:00:00-04:00',
@@ -1772,16 +1760,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['SUICIDE SILENCE AND CHELSEA GRIN '],
-    link: 'https://link.dice.fm/S333ab788856',
-    date: '2023-10-20T18:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Emblem3'],
     link: 'https://link.dice.fm/ve8a20f788c7',
     date: '2023-10-20T18:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['SUICIDE SILENCE AND CHELSEA GRIN '],
+    link: 'https://link.dice.fm/S333ab788856',
+    date: '2023-10-20T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Broadway Rave'],
@@ -1904,16 +1892,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Walter Etc.'],
-    link: 'https://link.dice.fm/ja5bf7c187cf',
-    date: '2023-11-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Into It. Over It.'],
     link: 'https://link.dice.fm/Ka4c8810172d',
     date: '2023-11-08T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Walter Etc.'],
+    link: 'https://link.dice.fm/ja5bf7c187cf',
+    date: '2023-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Gimme Gimme Disco'],
@@ -1928,16 +1916,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Pronoun'],
-    link: 'https://link.dice.fm/z8596180c75d',
-    date: '2023-11-14T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Chase Petra and Carpool Tunnel'],
     link: 'https://link.dice.fm/m8113a5c6215',
     date: '2023-11-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Pronoun'],
+    link: 'https://link.dice.fm/z8596180c75d',
+    date: '2023-11-14T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Moon Walker'],
@@ -2136,12 +2124,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Low Cut Connie', 'Matthew Logan Vasquez', 'Jack Harris'],
-    link: 'https://grogshop.gs/event-details/13155818/low-cut-connie',
-    date: '2023-10-11T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [

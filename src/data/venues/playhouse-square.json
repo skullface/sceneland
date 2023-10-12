@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jimmy Carr: Terribly Funny"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/jimmy-carr-terribly-funny",
-    "date": "2023-10-11",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Chris Tucker: The Legend Tour 2023"
     ],
     "link": "https://www.playhousesquare.org/events/detail/chris-tucker-the-legend-tour-2023",
@@ -261,6 +253,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/elvis-tribute-artist-spectacular-2",
     "date": "2024-01-07",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Ms. Pat: Ya Girl Done Made It"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it",
+    "date": "2024-02-02",
     "venue": "Playhouse Square"
   },
   {

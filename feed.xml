@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Oct 2023 09:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 09:06:41 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Orny Adams, Jeff Shaw at Agora]]></title>
@@ -285,20 +285,6 @@
             <link>https://www.agoracleveland.com/events/detail/503995</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/503995</guid>
             <pubDate>Sun, 10 Mar 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moon Taxi With The Stews at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Moon Taxi With The Stews at House of Blues on Thursday, October 12, 2023, 07:00 PM: https://concerts.livenation.com/moon-taxi-with-the-stews-cleveland-ohio-10-12-2023/event/05005F4BB3C01E49]]></description>
-            <link>https://concerts.livenation.com/moon-taxi-with-the-stews-cleveland-ohio-10-12-2023/event/05005F4BB3C01E49</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/moon-taxi-with-the-stews-cleveland-ohio-10-12-2023/event/05005F4BB3C01E49</guid>
-            <pubDate>Thu, 12 Oct 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moon Taxi with The Stews: MOVED TO CAMBRIDGE ROOM at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Moon Taxi with The Stews: MOVED TO CAMBRIDGE ROOM at House of Blues on Thursday, October 12, 2023, 07:00 PM: https://concerts.livenation.com/moon-taxi-with-the-stews-moved-cleveland-ohio-10-12-2023/event/05005EB39FF63FE1]]></description>
-            <link>https://concerts.livenation.com/moon-taxi-with-the-stews-moved-cleveland-ohio-10-12-2023/event/05005EB39FF63FE1</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/moon-taxi-with-the-stews-moved-cleveland-ohio-10-12-2023/event/05005EB39FF63FE1</guid>
-            <pubDate>Thu, 12 Oct 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[We Came As Romans: DARKBLOOM II TOUR 2023 at House of Blues]]></title>
@@ -768,20 +754,6 @@
             <link>https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F</guid>
             <pubDate>Mon, 12 Feb 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pre/Post Party with goorü and M.Law at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Pre/Post Party with goorü and M.Law at Beachland Tavern on Thursday, October 12, 2023, 06:00 PM: https://www.beachlandballroom.com/e/13741108/pre-post-party-with-goor-and-m-law]]></description>
-            <link>https://www.beachlandballroom.com/e/13741108/pre-post-party-with-goor-and-m-law</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13741108/pre-post-party-with-goor-and-m-law</guid>
-            <pubDate>Thu, 12 Oct 2023 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dopapod, TAUK at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Dopapod, TAUK at Beachland Ballroom on Thursday, October 12, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13395838/dopapod-tauk]]></description>
-            <link>https://www.beachlandballroom.com/e/13395838/dopapod-tauk</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13395838/dopapod-tauk</guid>
-            <pubDate>Thu, 12 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Buffalo Nichols, Austin "Walkin" Cane at Beachland Tavern]]></title>
@@ -1379,13 +1351,6 @@
             <pubDate>Sun, 05 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Good Reverend, Slug Fest, Buffalo Ryders at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Good Reverend, Slug Fest, Buffalo Ryders at Happy Dog on Thursday, October 12, 2023, 09:00 PM: https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437]]></description>
-            <link>https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437</guid>
-            <pubDate>Thu, 12 Oct 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ace of Wands, Slow Wake, October Beach Club at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Ace of Wands, Slow Wake, October Beach Club at Happy Dog on Friday, October 13, 2023, 09:00 PM: https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597]]></description>
             <link>https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597</link>
@@ -1456,11 +1421,11 @@
             <pubDate>Mon, 23 Oct 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chris Tucker: The Legend Tour 2023 at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Chris Tucker: The Legend Tour 2023 at Playhouse Square on Thursday, October 12, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/chris-tucker-the-legend-tour-2023]]></description>
-            <link>https://www.playhousesquare.org/events/detail/chris-tucker-the-legend-tour-2023</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/chris-tucker-the-legend-tour-2023</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+            <title><![CDATA[Dug, Actual Form, Brain Cave at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Dug, Actual Form, Brain Cave at Happy Dog on Tuesday, October 24, 2023, 09:00 PM: https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177]]></description>
+            <link>https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177</guid>
+            <pubDate>Tue, 24 Oct 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryan Hamilton at Playhouse Square]]></title>
@@ -1580,13 +1545,6 @@
             <link>https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started</guid>
             <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tommy Emmanuel, CGP at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Tommy Emmanuel, CGP at Playhouse Square on Thursday, October 12, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/tommy-emmanuel-cgp]]></description>
-            <link>https://www.playhousesquare.org/events/detail/tommy-emmanuel-cgp</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/tommy-emmanuel-cgp</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Casting Crowns 20th Anniversary Tour at Playhouse Square]]></title>
@@ -1713,13 +1671,6 @@
             <link>https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2</guid>
             <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Demun Jones, Dusty Leigh at Foundry]]></title>
-            <description><![CDATA[Get tickets to Demun Jones, Dusty Leigh at Foundry on Thursday, October 12, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/demun-jones/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/demun-jones/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/demun-jones/</guid>
-            <pubDate>Thu, 12 Oct 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fight From Within, Exitwounds, For Absent Friends, Midwinter, Left Unsaid at Foundry]]></title>
@@ -1946,13 +1897,6 @@
             <pubDate>Thu, 07 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Brummies at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Brummies at Mahall’s on Thursday, October 12, 2023, 11:00 PM: https://link.dice.fm/l9573f9cbae8]]></description>
-            <link>https://link.dice.fm/l9573f9cbae8</link>
-            <guid isPermaLink="true">https://link.dice.fm/l9573f9cbae8</guid>
-            <pubDate>Thu, 12 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Horse Jumper Of Love at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Horse Jumper Of Love at Mahall’s on Friday, October 13, 2023, 11:00 PM: https://link.dice.fm/E9d27f9dd16c]]></description>
             <link>https://link.dice.fm/E9d27f9dd16c</link>
@@ -1988,17 +1932,17 @@
             <pubDate>Tue, 17 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emblem3 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
-            <link>https://link.dice.fm/ve8a20f788c7</link>
-            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
-            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/S333ab788856]]></description>
             <link>https://link.dice.fm/S333ab788856</link>
             <guid isPermaLink="true">https://link.dice.fm/S333ab788856</guid>
+            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emblem3 at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
+            <link>https://link.dice.fm/ve8a20f788c7</link>
+            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
             <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2037,17 +1981,17 @@
             <pubDate>Sun, 22 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Radiator Hospital at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Radiator Hospital at Mahall’s on Tuesday, October 24, 2023, 11:00 PM: https://link.dice.fm/S73e91266b0a]]></description>
-            <link>https://link.dice.fm/S73e91266b0a</link>
-            <guid isPermaLink="true">https://link.dice.fm/S73e91266b0a</guid>
-            <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Annie Dukes at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Annie Dukes at Mahall’s Apartment on Tuesday, October 24, 2023, 11:00 PM: https://link.dice.fm/Gd2cf5c8f6ca]]></description>
             <link>https://link.dice.fm/Gd2cf5c8f6ca</link>
             <guid isPermaLink="true">https://link.dice.fm/Gd2cf5c8f6ca</guid>
+            <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Radiator Hospital at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Radiator Hospital at Mahall’s on Tuesday, October 24, 2023, 11:00 PM: https://link.dice.fm/S73e91266b0a]]></description>
+            <link>https://link.dice.fm/S73e91266b0a</link>
+            <guid isPermaLink="true">https://link.dice.fm/S73e91266b0a</guid>
             <pubDate>Tue, 24 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2170,17 +2114,17 @@
             <pubDate>Sun, 12 Nov 2023 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chase Petra and Carpool Tunnel at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Chase Petra and Carpool Tunnel at Mahall’s on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/m8113a5c6215]]></description>
-            <link>https://link.dice.fm/m8113a5c6215</link>
-            <guid isPermaLink="true">https://link.dice.fm/m8113a5c6215</guid>
-            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Pronoun at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Pronoun at Mahall’s Apartment on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/z8596180c75d]]></description>
             <link>https://link.dice.fm/z8596180c75d</link>
             <guid isPermaLink="true">https://link.dice.fm/z8596180c75d</guid>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chase Petra and Carpool Tunnel at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Chase Petra and Carpool Tunnel at Mahall’s on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/m8113a5c6215]]></description>
+            <link>https://link.dice.fm/m8113a5c6215</link>
+            <guid isPermaLink="true">https://link.dice.fm/m8113a5c6215</guid>
             <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2203,6 +2147,13 @@
             <link>https://link.dice.fm/pbda085c7995</link>
             <guid isPermaLink="true">https://link.dice.fm/pbda085c7995</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post Saga at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Post Saga at Mahall’s on Saturday, November 18, 2023, 12:30 AM: https://link.dice.fm/r10827f02b56]]></description>
+            <link>https://link.dice.fm/r10827f02b56</link>
+            <guid isPermaLink="true">https://link.dice.fm/r10827f02b56</guid>
+            <pubDate>Sat, 18 Nov 2023 00:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scene Queen at The Roxy at Mahall’s]]></title>
@@ -2259,6 +2210,13 @@
             <link>https://link.dice.fm/v94d14fa1810</link>
             <guid isPermaLink="true">https://link.dice.fm/v94d14fa1810</guid>
             <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arbor / Left Out at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Arbor / Left Out at Mahall’s on Monday, December 4, 2023, 12:00 AM: https://link.dice.fm/sbc1aa343f7c]]></description>
+            <link>https://link.dice.fm/sbc1aa343f7c</link>
+            <guid isPermaLink="true">https://link.dice.fm/sbc1aa343f7c</guid>
+            <pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Night Rider at The Roxy at Mahall’s]]></title>
@@ -2352,6 +2310,13 @@
             <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Only Treats at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Only Treats at Rocket Mortgage FieldHouse on Monday, October 23, 2023, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1</guid>
+            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[P!NK: TRUSTFALL TOUR, w/ Grouplove & KidCutUp at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to P!NK: TRUSTFALL TOUR, w/ Grouplove & KidCutUp at Rocket Mortgage FieldHouse on Wednesday, November 8, 2023, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/pnk-trustfall-tour-231108]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/pnk-trustfall-tour-231108</link>
@@ -2406,20 +2371,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FALL KICKOFF 2023, Forced Happiness, Eaten By Kittens, Pink Maskerade, Miguel Cafe, The Evan Furillo Project, Jack and the Cadavers, Groundstate at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to FALL KICKOFF 2023, Forced Happiness, Eaten By Kittens, Pink Maskerade, Miguel Cafe, The Evan Furillo Project, Jack and the Cadavers, Groundstate at Grog Shop on Thursday, October 12, 2023, 07:00 PM: https://grogshop.gs/event-details/13622238/fall-kickoff-2023]]></description>
-            <link>https://grogshop.gs/event-details/13622238/fall-kickoff-2023</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13622238/fall-kickoff-2023</guid>
-            <pubDate>Thu, 12 Oct 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Claudio Simonetti's GOBLIN performing the live score to a screening of Dario Argento's DEMONS at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Claudio Simonetti's GOBLIN performing the live score to a screening of Dario Argento's DEMONS at Grog Shop on Thursday, October 12, 2023, 08:00 PM: https://grogshop.gs/event-details/13368458/claudio-simonetti-s-goblin-performing-the-live-score-to-a-screening-of-dario-argento-s-demons]]></description>
-            <link>https://grogshop.gs/event-details/13368458/claudio-simonetti-s-goblin-performing-the-live-score-to-a-screening-of-dario-argento-s-demons</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13368458/claudio-simonetti-s-goblin-performing-the-live-score-to-a-screening-of-dario-argento-s-demons</guid>
-            <pubDate>Thu, 12 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cayucas & Matt Costa, Matt Costa, Kultures at Grog Shop]]></title>
@@ -2716,8 +2667,8 @@
             <pubDate>Fri, 01 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nolan Taylor, Logan Halstead at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Nolan Taylor, Logan Halstead at Grog Shop on Saturday, December 2, 2023, 08:00 PM: https://grogshop.gs/event-details/13516538/nolan-taylor]]></description>
+            <title><![CDATA[Nolan Taylor, Logan Halstead, The Morning Bird at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Nolan Taylor, Logan Halstead, The Morning Bird at Grog Shop on Saturday, December 2, 2023, 08:00 PM: https://grogshop.gs/event-details/13516538/nolan-taylor]]></description>
             <link>https://grogshop.gs/event-details/13516538/nolan-taylor</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13516538/nolan-taylor</guid>
             <pubDate>Sat, 02 Dec 2023 20:00:00 GMT</pubDate>
@@ -2847,13 +2798,6 @@
             <link>https://www.eventbrite.com/e/regurgitation-tickets-716501734977</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/regurgitation-tickets-716501734977</guid>
             <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Young Robot, Portage & Dome Test at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to Young Robot, Portage & Dome Test at Musica Akron on Thursday, October 12, 2023, 08:00 PM: https://www.ticketweb.com/event/young-robot-portage-dome-test-musica-tickets/13655448?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
-            <link>https://www.ticketweb.com/event/young-robot-portage-dome-test-musica-tickets/13655448?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/young-robot-portage-dome-test-musica-tickets/13655448?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
-            <pubDate>Thu, 12 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Easton Union, Blue Hour & Katy Robinson at Musica Akron]]></title>

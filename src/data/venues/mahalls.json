@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Brummies"
-    ],
-    "link": "https://link.dice.fm/l9573f9cbae8",
-    "date": "2023-10-12T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Horse Jumper Of Love"
     ],
     "link": "https://link.dice.fm/E9d27f9dd16c",
@@ -49,19 +41,19 @@
   },
   {
     "artist": [
-      "Emblem3"
-    ],
-    "link": "https://link.dice.fm/ve8a20f788c7",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "SUICIDE SILENCE AND CHELSEA GRIN "
     ],
     "link": "https://link.dice.fm/S333ab788856",
     "date": "2023-10-20T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Emblem3"
+    ],
+    "link": "https://link.dice.fm/ve8a20f788c7",
+    "date": "2023-10-20T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -105,19 +97,19 @@
   },
   {
     "artist": [
-      "Radiator Hospital"
-    ],
-    "link": "https://link.dice.fm/S73e91266b0a",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Annie Dukes"
     ],
     "link": "https://link.dice.fm/Gd2cf5c8f6ca",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Radiator Hospital"
+    ],
+    "link": "https://link.dice.fm/S73e91266b0a",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -257,19 +249,19 @@
   },
   {
     "artist": [
-      "Chase Petra and Carpool Tunnel"
-    ],
-    "link": "https://link.dice.fm/m8113a5c6215",
-    "date": "2023-11-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pronoun"
     ],
     "link": "https://link.dice.fm/z8596180c75d",
     "date": "2023-11-14T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Chase Petra and Carpool Tunnel"
+    ],
+    "link": "https://link.dice.fm/m8113a5c6215",
+    "date": "2023-11-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -294,6 +286,14 @@
     "link": "https://link.dice.fm/pbda085c7995",
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Post Saga"
+    ],
+    "link": "https://link.dice.fm/r10827f02b56",
+    "date": "2023-11-17T19:30:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -357,6 +357,14 @@
     ],
     "link": "https://link.dice.fm/v94d14fa1810",
     "date": "2023-12-01T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Arbor / Left Out"
+    ],
+    "link": "https://link.dice.fm/sbc1aa343f7c",
+    "date": "2023-12-03T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

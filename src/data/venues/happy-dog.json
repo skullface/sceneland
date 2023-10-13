@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Good Reverend, Slug Fest, Buffalo Ryders"
-    ],
-    "link": "https://www.eventbrite.com/e/good-reverend-slug-fest-buffalo-ryders-tickets-706926916437",
-    "date": "2023-10-12T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Ace of Wands, Slow Wake, October Beach Club"
     ],
     "link": "https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597",
@@ -90,6 +82,14 @@
     ],
     "link": "https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147",
     "date": "2023-10-23T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Dug, Actual Form, Brain Cave"
+    ],
+    "link": "https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177",
+    "date": "2023-10-24T21:00:00",
     "venue": "Happy Dog"
   }
 ]

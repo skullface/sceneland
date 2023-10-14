@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Oct 2023 09:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 09:06:25 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Orny Adams, Jeff Shaw at Agora]]></title>
-            <description><![CDATA[Get tickets to Orny Adams, Jeff Shaw at Agora on Friday, October 13, 2023, 07:00 PM: https://www.agoracleveland.com/events/detail/496865]]></description>
-            <link>https://www.agoracleveland.com/events/detail/496865</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/496865</guid>
-            <pubDate>Fri, 13 Oct 2023 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bullet For My Valentine, Of Mice & Men, Vended at Agora]]></title>
             <description><![CDATA[Get tickets to Bullet For My Valentine, Of Mice & Men, Vended at Agora on Wednesday, October 18, 2023, 06:30 PM: https://www.agoracleveland.com/events/detail/495546]]></description>
@@ -609,13 +602,6 @@
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Detention at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Detention at Masonic Temple on Friday, October 13, 2023, 08:00 PM: https://www.ticketmaster.com/detention-cleveland-ohio-10-13-2023/event/05005F15F83A4F97]]></description>
-            <link>https://www.ticketmaster.com/detention-cleveland-ohio-10-13-2023/event/05005F15F83A4F97</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/detention-cleveland-ohio-10-13-2023/event/05005F15F83A4F97</guid>
-            <pubDate>Fri, 13 Oct 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Toxhards at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to The Toxhards at Masonic Temple on Sunday, October 15, 2023, 08:00 PM: https://www.ticketmaster.com/the-toxhards-cleveland-ohio-10-15-2023/event/05005F1F8A2213C5]]></description>
             <link>https://www.ticketmaster.com/the-toxhards-cleveland-ohio-10-15-2023/event/05005F1F8A2213C5</link>
@@ -700,6 +686,13 @@
             <pubDate>Fri, 10 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cherry at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Cherry at Masonic Temple on Saturday, November 11, 2023, 08:00 PM: https://www.ticketmaster.com/cherry-cleveland-ohio-11-11-2023/event/05005F4D9E9A1928]]></description>
+            <link>https://www.ticketmaster.com/cherry-cleveland-ohio-11-11-2023/event/05005F4D9E9A1928</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/cherry-cleveland-ohio-11-11-2023/event/05005F4D9E9A1928</guid>
+            <pubDate>Sat, 11 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pop Evil Flesh & Bone Tour at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Pop Evil Flesh & Bone Tour at Masonic Temple on Saturday, November 18, 2023, 07:00 PM: https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A]]></description>
             <link>https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A</link>
@@ -756,18 +749,11 @@
             <pubDate>Mon, 12 Feb 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Buffalo Nichols, Austin "Walkin" Cane at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Buffalo Nichols, Austin "Walkin" Cane at Beachland Tavern on Friday, October 13, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane]]></description>
-            <link>https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13314898/buffalo-nichols-austin-walkin-cane</guid>
-            <pubDate>Fri, 13 Oct 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jacob Derrickson Celebration of Life at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Jacob Derrickson Celebration of Life at Beachland Ballroom on Friday, October 13, 2023, 07:00 PM: https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life]]></description>
-            <link>https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13731258/jacob-derrickson-celebration-of-life</guid>
-            <pubDate>Fri, 13 Oct 2023 19:00:00 GMT</pubDate>
+            <title><![CDATA[William Black at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to William Black at Masonic Temple on Friday, March 22, 2024, 07:30 PM: https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D]]></description>
+            <link>https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D</guid>
+            <pubDate>Fri, 22 Mar 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Heavenly Birthday Celebration for Desiree Schmitt at Beachland Tavern]]></title>
@@ -1351,13 +1337,6 @@
             <pubDate>Sun, 05 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ace of Wands, Slow Wake, October Beach Club at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Ace of Wands, Slow Wake, October Beach Club at Happy Dog on Friday, October 13, 2023, 09:00 PM: https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597]]></description>
-            <link>https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/ace-of-wands-slow-wake-october-beach-club-tickets-718847290597</guid>
-            <pubDate>Fri, 13 Oct 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Backbiter, xEighty-Sixedx, Unvow at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Backbiter, xEighty-Sixedx, Unvow at Happy Dog on Saturday, October 14, 2023, 10:00 PM: https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707]]></description>
             <link>https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707</link>
@@ -1426,6 +1405,13 @@
             <link>https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177</guid>
             <pubDate>Tue, 24 Oct 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emily Robb, Material, Swisher, Anteater at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Emily Robb, Material, Swisher, Anteater at Happy Dog on Thursday, October 26, 2023, 09:00 PM: https://www.eventbrite.com/e/emily-robb-material-swisher-anteater-tickets-734941960187]]></description>
+            <link>https://www.eventbrite.com/e/emily-robb-material-swisher-anteater-tickets-734941960187</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/emily-robb-material-swisher-anteater-tickets-734941960187</guid>
+            <pubDate>Thu, 26 Oct 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ryan Hamilton at Playhouse Square]]></title>
@@ -1547,13 +1533,6 @@
             <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Casting Crowns 20th Anniversary Tour at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Casting Crowns 20th Anniversary Tour at Playhouse Square on Friday, October 13, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/casting-crowns]]></description>
-            <link>https://www.playhousesquare.org/events/detail/casting-crowns</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/casting-crowns</guid>
-            <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Temptations & The Four Tops at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to The Temptations & The Four Tops at Playhouse Square on Sunday, October 15, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/the-temptations-the-four-tops]]></description>
             <link>https://www.playhousesquare.org/events/detail/the-temptations-the-four-tops</link>
@@ -1671,13 +1650,6 @@
             <link>https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2</guid>
             <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fight From Within, Exitwounds, For Absent Friends, Midwinter, Left Unsaid at Foundry]]></title>
-            <description><![CDATA[Get tickets to Fight From Within, Exitwounds, For Absent Friends, Midwinter, Left Unsaid at Foundry on Friday, October 13, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/fight-from-within-exitwounds-for-absent-friends/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/fight-from-within-exitwounds-for-absent-friends/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/fight-from-within-exitwounds-for-absent-friends/</guid>
-            <pubDate>Fri, 13 Oct 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Static Wake, Audience Of Rain, Titans In Time, Adrift On River Styx, 6Deep at Foundry]]></title>
@@ -1897,13 +1869,6 @@
             <pubDate>Thu, 07 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Horse Jumper Of Love at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Horse Jumper Of Love at Mahall’s on Friday, October 13, 2023, 11:00 PM: https://link.dice.fm/E9d27f9dd16c]]></description>
-            <link>https://link.dice.fm/E9d27f9dd16c</link>
-            <guid isPermaLink="true">https://link.dice.fm/E9d27f9dd16c</guid>
-            <pubDate>Fri, 13 Oct 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Monster Ball: an all Lady Gaga dance party at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Monster Ball: an all Lady Gaga dance party at Mahall’s on Sunday, October 15, 2023, 12:00 AM: https://link.dice.fm/o6d3c68f54bb]]></description>
             <link>https://link.dice.fm/o6d3c68f54bb</link>
@@ -2086,17 +2051,17 @@
             <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Into It. Over It. at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Into It. Over It. at Mahall’s on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/Ka4c8810172d]]></description>
-            <link>https://link.dice.fm/Ka4c8810172d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ka4c8810172d</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Walter Etc. at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Walter Etc. at Mahall’s Apartment on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/ja5bf7c187cf]]></description>
             <link>https://link.dice.fm/ja5bf7c187cf</link>
             <guid isPermaLink="true">https://link.dice.fm/ja5bf7c187cf</guid>
+            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Into It. Over It. at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Into It. Over It. at Mahall’s on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/Ka4c8810172d]]></description>
+            <link>https://link.dice.fm/Ka4c8810172d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ka4c8810172d</guid>
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2140,6 +2105,13 @@
             <link>https://link.dice.fm/Af1e609d01e2</link>
             <guid isPermaLink="true">https://link.dice.fm/Af1e609d01e2</guid>
             <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glare at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Glare at Mahall’s Apartment on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/P74e67b7b171]]></description>
+            <link>https://link.dice.fm/P74e67b7b171</link>
+            <guid isPermaLink="true">https://link.dice.fm/P74e67b7b171</guid>
+            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Katatonia at The Roxy at Mahall’s]]></title>
@@ -2371,13 +2343,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cayucas & Matt Costa, Matt Costa, Kultures at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Cayucas & Matt Costa, Matt Costa, Kultures at Grog Shop on Friday, October 13, 2023, 08:30 PM: https://grogshop.gs/event-details/13447548/cayucas-matt-costa]]></description>
-            <link>https://grogshop.gs/event-details/13447548/cayucas-matt-costa</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13447548/cayucas-matt-costa</guid>
-            <pubDate>Fri, 13 Oct 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nation of Language at Grog Shop]]></title>
@@ -2660,6 +2625,13 @@
             <pubDate>Mon, 27 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Noise Ctrl, This Summer and Dome Test, This Summer, Dome Test at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Noise Ctrl, This Summer and Dome Test, This Summer, Dome Test at Grog Shop on Thursday, November 30, 2023, 08:00 PM: https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test]]></description>
+            <link>https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test</guid>
+            <pubDate>Thu, 30 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GlamGore: Galactic Ghouls, Anhedonia Delight at Grog Shop]]></title>
             <description><![CDATA[Get tickets to GlamGore: Galactic Ghouls, Anhedonia Delight at Grog Shop on Friday, December 1, 2023, 09:00 PM: https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls]]></description>
             <link>https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls</link>
@@ -2723,6 +2695,13 @@
             <pubDate>Wed, 17 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Found Footage Festival Vol. 10: Popcorn Classics, Lenora's Midnight Rental at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Found Footage Festival Vol. 10: Popcorn Classics, Lenora's Midnight Rental at Grog Shop on Thursday, January 18, 2024, 08:00 PM: https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics]]></description>
+            <link>https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics</guid>
+            <pubDate>Thu, 18 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wednesday, Hotline TNT at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Wednesday, Hotline TNT at Grog Shop on Sunday, January 28, 2024, 08:00 PM: https://grogshop.gs/event-details/13720188/wednesday]]></description>
             <link>https://grogshop.gs/event-details/13720188/wednesday</link>
@@ -2735,6 +2714,13 @@
             <link>https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo</guid>
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MIKE , Special Guests at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to MIKE , Special Guests at Grog Shop on Sunday, April 21, 2024, 08:00 PM: https://grogshop.gs/event-details/13745648/mike-w-special-guests]]></description>
+            <link>https://grogshop.gs/event-details/13745648/mike-w-special-guests</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13745648/mike-w-special-guests</guid>
+            <pubDate>Sun, 21 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EXCITER at No Class]]></title>

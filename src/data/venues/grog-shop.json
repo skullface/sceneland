@@ -1,19 +1,10 @@
 [
   {
     "artist": [
-      "Cayucas & Matt Costa",
-      "Matt Costa",
-      "Kultures"
-    ],
-    "link": "https://grogshop.gs/event-details/13447548/cayucas-matt-costa",
-    "date": "2023-10-13T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Nation of Language"
     ],
     "link": "https://grogshop.gs/event-details/13018555/nation-of-language",
+    "sold_out": true,
     "date": "2023-10-14T20:30:00",
     "venue": "Grog Shop"
   },
@@ -395,6 +386,17 @@
   },
   {
     "artist": [
+      "Noise Ctrl",
+      "This Summer and Dome Test",
+      "This Summer",
+      "Dome Test"
+    ],
+    "link": "https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test",
+    "date": "2023-11-30T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "GlamGore: Galactic Ghouls",
       "Anhedonia Delight"
     ],
@@ -477,6 +479,15 @@
   },
   {
     "artist": [
+      "Found Footage Festival Vol. 10: Popcorn Classics",
+      "Lenora's Midnight Rental"
+    ],
+    "link": "https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics",
+    "date": "2024-01-18T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Wednesday",
       "Hotline TNT"
     ],
@@ -492,6 +503,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo",
     "date": "2024-03-14T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "MIKE , Special Guests"
+    ],
+    "link": "https://grogshop.gs/event-details/13745648/mike-w-special-guests",
+    "date": "2024-04-21T20:00:00",
     "venue": "Grog Shop"
   }
 ]

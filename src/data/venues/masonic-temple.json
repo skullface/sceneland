@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Detention"
-    ],
-    "link": "https://www.ticketmaster.com/detention-cleveland-ohio-10-13-2023/event/05005F15F83A4F97",
-    "date": "2023-10-13T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "The Toxhards"
     ],
     "link": "https://www.ticketmaster.com/the-toxhards-cleveland-ohio-10-15-2023/event/05005F1F8A2213C5",
@@ -105,6 +97,14 @@
   },
   {
     "artist": [
+      "Cherry"
+    ],
+    "link": "https://www.ticketmaster.com/cherry-cleveland-ohio-11-11-2023/event/05005F4D9E9A1928",
+    "date": "2023-11-11T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Pop Evil Flesh & Bone Tour"
     ],
     "link": "https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A",
@@ -165,6 +165,14 @@
     ],
     "link": "https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F",
     "date": "2024-02-12T19:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "William Black"
+    ],
+    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
+    "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   }
 ]

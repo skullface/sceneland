@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Backbiter, xEighty-Sixedx, Unvow"
-    ],
-    "link": "https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707",
-    "date": "2023-10-14T22:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Necromoon, The Magnavox's, Edwin Agustin"
     ],
     "link": "https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-tickets-718859456987",
@@ -90,6 +82,107 @@
     ],
     "link": "https://www.eventbrite.com/e/emily-robb-material-swisher-anteater-tickets-734941960187",
     "date": "2023-10-26T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Machine Go Boom, Honolulu High, Perfect Pals"
+    ],
+    "link": "https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947",
+    "date": "2023-10-27T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Cowboys, The Gerds, The Wastemen"
+    ],
+    "link": "https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497",
+    "date": "2023-10-28T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Monday Night Trivia: Halloween Edition!"
+    ],
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997",
+    "date": "2023-10-30T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Your Abduction: A Halloween Dance Party"
+    ],
+    "link": "https://www.eventbrite.com/e/your-abduction-a-halloween-dance-party-tickets-735795563337",
+    "date": "2023-10-31T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Happy Dog Takes on Everything"
+    ],
+    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267",
+    "date": "2023-11-01T19:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Pons, People in the Daytime, Hiram-Maxim, Bigg Egg"
+    ],
+    "link": "https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377",
+    "date": "2023-11-02T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Loveseat, The Missed, Hyper Viper, Lowspot"
+    ],
+    "link": "https://www.eventbrite.com/e/loveseat-the-missed-hyper-viper-lowspot-tickets-719551928187",
+    "date": "2023-11-03T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Dead Selves, Wig Doubt, Runaway Brother"
+    ],
+    "link": "https://www.eventbrite.com/e/dead-selves-wig-doubt-runaway-brother-tickets-719552720557",
+    "date": "2023-11-04T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-719553502897",
+    "date": "2023-11-06T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg"
+    ],
+    "link": "https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787",
+    "date": "2023-11-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Simple Routes EP release w/ Ray Flanagan, Michelle Gaw"
+    ],
+    "link": "https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037",
+    "date": "2023-11-16T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu"
+    ],
+    "link": "https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387",
+    "date": "2023-11-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest"
+    ],
+    "link": "https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847",
+    "date": "2023-11-18T20:30:00",
     "venue": "Happy Dog"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Monster Ball: an all Lady Gaga dance party"
-    ],
-    "link": "https://link.dice.fm/o6d3c68f54bb",
-    "date": "2023-10-14T20:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Dysautonomia Awareness Show w/ The Stereotypes"
     ],
     "link": "https://link.dice.fm/cc78d29ba300",
@@ -209,14 +201,6 @@
   },
   {
     "artist": [
-      "Walter Etc."
-    ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Into It. Over It."
     ],
     "link": "https://link.dice.fm/Ka4c8810172d",
@@ -225,10 +209,26 @@
   },
   {
     "artist": [
+      "Walter Etc."
+    ],
+    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "Gimme Gimme Disco"
     ],
     "link": "https://link.dice.fm/y3ef543a5dce",
     "date": "2023-11-10T21:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alexis Marrero"
+    ],
+    "link": "https://link.dice.fm/Te4b2e44a449",
+    "date": "2023-11-12T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

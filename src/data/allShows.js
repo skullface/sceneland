@@ -236,12 +236,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['We Came As Romans: DARKBLOOM II TOUR 2023'],
-    link: 'https://concerts.livenation.com/we-came-as-romans-darkbloom-ii-cleveland-ohio-10-14-2023/event/05005F04A4DF6212',
-    date: '2023-10-14T18:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Stephen Sanchez'],
     link: 'https://concerts.livenation.com/stephen-sanchez-cleveland-ohio-10-15-2023/event/05005E34CDCA5952',
     date: '2023-10-15T18:00:00',
@@ -646,18 +640,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['A Heavenly Birthday Celebration for Desiree Schmitt'],
-    link: 'https://www.beachlandballroom.com/e/13702998/a-heavenly-birthday-celebration-for-desiree-schmitt',
-    date: '2023-10-14T12:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Brown Eyed Women'],
-    link: 'https://www.beachlandballroom.com/e/13367298/brown-eyed-women',
-    date: '2023-10-14T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Lewsberg', 'Obnox', 'Wrong Places'],
@@ -1189,12 +1171,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Backbiter, xEighty-Sixedx, Unvow'],
-    link: 'https://www.eventbrite.com/e/backbiter-xeighty-sixedx-unvow-tickets-714976081707',
-    date: '2023-10-14T22:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ["Necromoon, The Magnavox's, Edwin Agustin"],
     link: 'https://www.eventbrite.com/e/necromoon-the-magnavoxs-edwin-agustin-tickets-718859456987',
     date: '2023-10-15T21:00:00',
@@ -1260,16 +1236,83 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Ryan Hamilton'],
-    link: 'https://www.playhousesquare.org/events/detail/ryan-hamilton-1',
-    date: '2023-10-14',
-    venue: 'Playhouse Square',
+    artist: ['Machine Go Boom, Honolulu High, Perfect Pals'],
+    link: 'https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947',
+    date: '2023-10-27T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    artist: ['An Evening with David Sedaris'],
-    link: 'https://www.playhousesquare.org/events/detail/an-evening-with-david-sedaris',
-    date: '2023-10-14',
-    venue: 'Playhouse Square',
+    artist: ['The Cowboys, The Gerds, The Wastemen'],
+    link: 'https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497',
+    date: '2023-10-28T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Monday Night Trivia: Halloween Edition!'],
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997',
+    date: '2023-10-30T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Your Abduction: A Halloween Dance Party'],
+    link: 'https://www.eventbrite.com/e/your-abduction-a-halloween-dance-party-tickets-735795563337',
+    date: '2023-10-31T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Happy Dog Takes on Everything'],
+    link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267',
+    date: '2023-11-01T19:30:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Pons, People in the Daytime, Hiram-Maxim, Bigg Egg'],
+    link: 'https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377',
+    date: '2023-11-02T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Loveseat, The Missed, Hyper Viper, Lowspot'],
+    link: 'https://www.eventbrite.com/e/loveseat-the-missed-hyper-viper-lowspot-tickets-719551928187',
+    date: '2023-11-03T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Dead Selves, Wig Doubt, Runaway Brother'],
+    link: 'https://www.eventbrite.com/e/dead-selves-wig-doubt-runaway-brother-tickets-719552720557',
+    date: '2023-11-04T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-719553502897',
+    date: '2023-11-06T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg'],
+    link: 'https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787',
+    date: '2023-11-12T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Simple Routes EP release w/ Ray Flanagan, Michelle Gaw'],
+    link: 'https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037',
+    date: '2023-11-16T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu'],
+    link: 'https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387',
+    date: '2023-11-17T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: [
+      'Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest',
+    ],
+    link: 'https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847',
+    date: '2023-11-18T20:30:00',
+    venue: 'Happy Dog',
   },
   {
     artist: ['Chelsea Handler: Little Big Bitch'],
@@ -1464,14 +1507,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: [
-      'The Static Wake, Audience Of Rain, Titans In Time, Adrift On River Styx, 6Deep',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/the-static-wake-audience-of-rain-titans-in-time-adrift-on-river-styx-6deep/',
-    date: '2023-10-14T20:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Three Little Pigs 30th Anniversary Tour'],
     link: 'https://www.foundryconcertclub.com/tm-event/three-little-pigs-30th-anniversary-tour/',
     date: '2023-10-15T20:00:00',
@@ -1656,12 +1691,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['The Monster Ball: an all Lady Gaga dance party'],
-    link: 'https://link.dice.fm/o6d3c68f54bb',
-    date: '2023-10-14T20:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Dysautonomia Awareness Show w/ The Stereotypes'],
     link: 'https://link.dice.fm/cc78d29ba300',
     date: '2023-10-15T18:00:00-04:00',
@@ -1812,21 +1841,27 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Walter Etc.'],
-    link: 'https://link.dice.fm/ja5bf7c187cf',
-    date: '2023-11-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Into It. Over It.'],
     link: 'https://link.dice.fm/Ka4c8810172d',
     date: '2023-11-08T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Walter Etc.'],
+    link: 'https://link.dice.fm/ja5bf7c187cf',
+    date: '2023-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
+  },
+  {
     artist: ['Gimme Gimme Disco'],
     link: 'https://link.dice.fm/y3ef543a5dce',
     date: '2023-11-10T21:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Alexis Marrero'],
+    link: 'https://link.dice.fm/Te4b2e44a449',
+    date: '2023-11-12T18:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2068,13 +2103,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Nation of Language'],
-    link: 'https://grogshop.gs/event-details/13018555/nation-of-language',
-    sold_out: true,
-    date: '2023-10-14T20:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['The Good Life', 'Doom Flower'],
@@ -2465,12 +2493,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['EXCITER'],
-    link: 'https://www.eventbrite.com/e/exciter-tickets-678146914677',
-    date: '2023-10-14T20:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: ['AMERICAN WEREWOLVES'],
     link: 'https://www.eventbrite.com/e/american-werewolves-tickets-715158647767',
     date: '2023-10-20T20:00:00',
@@ -2517,12 +2539,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/regurgitation-tickets-716501734977',
     date: '2024-01-27T20:00:00',
     venue: 'No Class',
-  },
-  {
-    artist: ['Easton Union, Blue Hour & Katy Robinson'],
-    link: 'https://www.ticketweb.com/event/easton-union-blue-hour-katy-musica-tickets/13655198?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-10-14T20:00:00',
-    venue: 'Musica Akron',
   },
   {
     artist: ['Annie Dukes, The Buffalo Ryders, Outdated View'],

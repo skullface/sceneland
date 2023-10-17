@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Oct 2023 09:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 09:07:16 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bullet For My Valentine, Of Mice & Men, Vended at Agora]]></title>
@@ -280,11 +280,11 @@
             <pubDate>Sun, 10 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jacquees: Sincerely For You Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Jacquees: Sincerely For You Tour at House of Blues on Monday, October 16, 2023, 07:00 PM: https://concerts.livenation.com/jacquees-sincerely-for-you-tour-cleveland-ohio-10-16-2023/event/05005F0F1FAD7D3B]]></description>
-            <link>https://concerts.livenation.com/jacquees-sincerely-for-you-tour-cleveland-ohio-10-16-2023/event/05005F0F1FAD7D3B</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/jacquees-sincerely-for-you-tour-cleveland-ohio-10-16-2023/event/05005F0F1FAD7D3B</guid>
-            <pubDate>Mon, 16 Oct 2023 19:00:00 GMT</pubDate>
+            <title><![CDATA[Our Last Night, Broadside, Normandie at Agora]]></title>
+            <description><![CDATA[Get tickets to Our Last Night, Broadside, Normandie at Agora on Friday, May 10, 2024, 06:30 PM: https://www.agoracleveland.com/events/detail/507744]]></description>
+            <link>https://www.agoracleveland.com/events/detail/507744</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/507744</guid>
+            <pubDate>Fri, 10 May 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TV Girl with special guest Monster Rally at House of Blues]]></title>
@@ -959,17 +959,17 @@
             <pubDate>Sat, 04 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NOAH VONNE, BLUPHORIA at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to NOAH VONNE, BLUPHORIA at Beachland Tavern on Sunday, November 5, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria]]></description>
-            <link>https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria</guid>
-            <pubDate>Sun, 05 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Grateful Shred at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Grateful Shred at Beachland Ballroom on Sunday, November 5, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13474678/grateful-shred]]></description>
             <link>https://www.beachlandballroom.com/e/13474678/grateful-shred</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13474678/grateful-shred</guid>
+            <pubDate>Sun, 05 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NOAH VONNE, BLUPHORIA, October Beach Club at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to NOAH VONNE, BLUPHORIA, October Beach Club at Beachland Tavern on Sunday, November 5, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria-october-beach-club]]></description>
+            <link>https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria-october-beach-club</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria-october-beach-club</guid>
             <pubDate>Sun, 05 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1083,6 +1083,13 @@
             <link>https://www.beachlandballroom.com/e/13489368/boombox-tep-no</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13489368/boombox-tep-no</guid>
             <pubDate>Sun, 19 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Y.A.Y.A., Jung Speedboat, Kwas-E, DJ Sleazus Christ at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Y.A.Y.A., Jung Speedboat, Kwas-E, DJ Sleazus Christ at Beachland Tavern on Wednesday, November 22, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13758408/y-a-y-a-jung-speedboat-kwas-e-dj-sleazus-christ]]></description>
+            <link>https://www.beachlandballroom.com/e/13758408/y-a-y-a-jung-speedboat-kwas-e-dj-sleazus-christ</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13758408/y-a-y-a-jung-speedboat-kwas-e-dj-sleazus-christ</guid>
+            <pubDate>Wed, 22 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rumpke Mountain Boys, Dupree's Dead Band, Whiskey Drinks at Beachland Ballroom]]></title>
@@ -1363,6 +1370,13 @@
             <link>https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497</guid>
             <pubDate>Sat, 28 Oct 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monday Night Trivia: Halloween Edition! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Monday Night Trivia: Halloween Edition! at Happy Dog on Monday, October 30, 2023, 08:00 PM: https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997]]></description>
+            <link>https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997</guid>
+            <pubDate>Mon, 30 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chelsea Handler: Little Big Bitch at Playhouse Square]]></title>
@@ -1715,6 +1729,13 @@
             <pubDate>Thu, 09 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Flagman, SUMPP, Melted Bodies at Foundry]]></title>
+            <description><![CDATA[Get tickets to Flagman, SUMPP, Melted Bodies at Foundry on Friday, November 10, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/flagman-sumpp-melted-bodies/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/flagman-sumpp-melted-bodies/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/flagman-sumpp-melted-bodies/</guid>
+            <pubDate>Fri, 10 Nov 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mystery Skulls at Foundry]]></title>
             <description><![CDATA[Get tickets to Mystery Skulls at Foundry on Saturday, November 11, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/mystery-skulls/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/mystery-skulls/</link>
@@ -1792,17 +1813,17 @@
             <pubDate>Tue, 17 Oct 2023 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Emblem3 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
-            <link>https://link.dice.fm/ve8a20f788c7</link>
-            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
-            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to SUICIDE SILENCE AND CHELSEA GRIN  at The Roxy at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/S333ab788856]]></description>
             <link>https://link.dice.fm/S333ab788856</link>
             <guid isPermaLink="true">https://link.dice.fm/S333ab788856</guid>
+            <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emblem3 at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Emblem3 at Mahall’s on Friday, October 20, 2023, 10:00 PM: https://link.dice.fm/ve8a20f788c7]]></description>
+            <link>https://link.dice.fm/ve8a20f788c7</link>
+            <guid isPermaLink="true">https://link.dice.fm/ve8a20f788c7</guid>
             <pubDate>Fri, 20 Oct 2023 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1981,17 +2002,17 @@
             <pubDate>Sun, 12 Nov 2023 23:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pronoun at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Pronoun at Mahall’s Apartment on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/z8596180c75d]]></description>
-            <link>https://link.dice.fm/z8596180c75d</link>
-            <guid isPermaLink="true">https://link.dice.fm/z8596180c75d</guid>
-            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chase Petra and Carpool Tunnel at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Chase Petra and Carpool Tunnel at Mahall’s on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/m8113a5c6215]]></description>
             <link>https://link.dice.fm/m8113a5c6215</link>
             <guid isPermaLink="true">https://link.dice.fm/m8113a5c6215</guid>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pronoun at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Pronoun at Mahall’s Apartment on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/z8596180c75d]]></description>
+            <link>https://link.dice.fm/z8596180c75d</link>
+            <guid isPermaLink="true">https://link.dice.fm/z8596180c75d</guid>
             <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2009,17 +2030,17 @@
             <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glare at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Glare at Mahall’s Apartment on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/P74e67b7b171]]></description>
-            <link>https://link.dice.fm/P74e67b7b171</link>
-            <guid isPermaLink="true">https://link.dice.fm/P74e67b7b171</guid>
-            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Katatonia at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Katatonia at The Roxy at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/pbda085c7995]]></description>
             <link>https://link.dice.fm/pbda085c7995</link>
             <guid isPermaLink="true">https://link.dice.fm/pbda085c7995</guid>
+            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glare at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Glare at Mahall’s Apartment on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/P74e67b7b171]]></description>
+            <link>https://link.dice.fm/P74e67b7b171</link>
+            <guid isPermaLink="true">https://link.dice.fm/P74e67b7b171</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2245,13 +2266,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N8NOFACE, Uniity, Bias Selector at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to N8NOFACE, Uniity, Bias Selector at Grog Shop on Monday, October 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13445988/n8noface-uniity-bias-selector]]></description>
-            <link>https://grogshop.gs/event-details/13445988/n8noface-uniity-bias-selector</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13445988/n8noface-uniity-bias-selector</guid>
-            <pubDate>Mon, 16 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hot Goss: The Improvised Musical with The Rogue Understudies (JCU), The Rogue Understudies at Grog Shop]]></title>
@@ -2513,8 +2527,8 @@
             <pubDate>Mon, 27 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Noise Ctrl, This Summer and Dome Test, This Summer, Dome Test at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Noise Ctrl, This Summer and Dome Test, This Summer, Dome Test at Grog Shop on Thursday, November 30, 2023, 08:00 PM: https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test]]></description>
+            <title><![CDATA[Noise Ctrl, This Summer and Dome Test, This Summer, Dome Test, akafayaven at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Noise Ctrl, This Summer and Dome Test, This Summer, Dome Test, akafayaven at Grog Shop on Thursday, November 30, 2023, 08:00 PM: https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test]]></description>
             <link>https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test</guid>
             <pubDate>Thu, 30 Nov 2023 20:00:00 GMT</pubDate>

@@ -236,10 +236,10 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Jacquees: Sincerely For You Tour'],
-    link: 'https://concerts.livenation.com/jacquees-sincerely-for-you-tour-cleveland-ohio-10-16-2023/event/05005F0F1FAD7D3B',
-    date: '2023-10-16T19:00:00',
-    venue: 'House of Blues',
+    artist: ['Our Last Night, Broadside, Normandie'],
+    link: 'https://www.agoracleveland.com/events/detail/507744',
+    date: '2024-05-10T18:30:00',
+    venue: 'Agora',
   },
   {
     artist: ['TV Girl with special guest Monster Rally'],
@@ -861,16 +861,16 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['NOAH VONNE', 'BLUPHORIA'],
-    link: 'https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria',
-    date: '2023-11-05T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Grateful Shred'],
     link: 'https://www.beachlandballroom.com/e/13474678/grateful-shred',
     date: '2023-11-05T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['NOAH VONNE', 'BLUPHORIA', 'October Beach Club'],
+    link: 'https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria-october-beach-club',
+    date: '2023-11-05T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: [
@@ -971,6 +971,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13489368/boombox-tep-no',
     date: '2023-11-19T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Y.A.Y.A.', 'Jung Speedboat', 'Kwas-E', 'DJ Sleazus Christ'],
+    link: 'https://www.beachlandballroom.com/e/13758408/y-a-y-a-jung-speedboat-kwas-e-dj-sleazus-christ',
+    date: '2023-11-22T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Rumpke Mountain Boys', "Dupree's Dead Band", 'Whiskey Drinks'],
@@ -1147,11 +1153,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-718858363717',
-    date: '2023-10-16T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Choke, Narc, Body Farm, Pillars'],
     link: 'https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947',
     date: '2023-10-17T21:00:00',
@@ -1215,6 +1216,12 @@ export const allShows = [
     artist: ['The Cowboys, The Gerds, The Wastemen'],
     link: 'https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497',
     date: '2023-10-28T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Monday Night Trivia: Halloween Edition!'],
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997',
+    date: '2023-10-30T20:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -1518,6 +1525,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Flagman, SUMPP, Melted Bodies'],
+    link: 'https://www.foundryconcertclub.com/tm-event/flagman-sumpp-melted-bodies/',
+    date: '2023-11-10T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Mystery Skulls'],
     link: 'https://www.foundryconcertclub.com/tm-event/mystery-skulls/',
     date: '2023-11-11T19:00:00',
@@ -1588,16 +1601,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Emblem3'],
-    link: 'https://link.dice.fm/ve8a20f788c7',
-    date: '2023-10-20T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['SUICIDE SILENCE AND CHELSEA GRIN '],
     link: 'https://link.dice.fm/S333ab788856',
     date: '2023-10-20T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Emblem3'],
+    link: 'https://link.dice.fm/ve8a20f788c7',
+    date: '2023-10-20T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Broadway Rave'],
@@ -1750,16 +1763,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Pronoun'],
-    link: 'https://link.dice.fm/z8596180c75d',
-    date: '2023-11-14T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Chase Petra and Carpool Tunnel'],
     link: 'https://link.dice.fm/m8113a5c6215',
     date: '2023-11-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Pronoun'],
+    link: 'https://link.dice.fm/z8596180c75d',
+    date: '2023-11-14T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Moon Walker'],
@@ -1774,16 +1787,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Glare'],
-    link: 'https://link.dice.fm/P74e67b7b171',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Katatonia'],
     link: 'https://link.dice.fm/pbda085c7995',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Glare'],
+    link: 'https://link.dice.fm/P74e67b7b171',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Post Saga'],
@@ -1982,12 +1995,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['N8NOFACE', 'Uniity', 'Bias Selector'],
-    link: 'https://grogshop.gs/event-details/13445988/n8noface-uniity-bias-selector',
-    date: '2023-10-16T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -2270,6 +2277,7 @@ export const allShows = [
       'This Summer and Dome Test',
       'This Summer',
       'Dome Test',
+      'akafayaven',
     ],
     link: 'https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test',
     date: '2023-11-30T20:00:00',

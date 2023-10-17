@@ -314,20 +314,21 @@
   },
   {
     "artist": [
-      "NOAH VONNE",
-      "BLUPHORIA"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria",
-    "date": "2023-11-05T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Grateful Shred"
     ],
     "link": "https://www.beachlandballroom.com/e/13474678/grateful-shred",
     "date": "2023-11-05T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "NOAH VONNE",
+      "BLUPHORIA",
+      "October Beach Club"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria-october-beach-club",
+    "date": "2023-11-05T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -469,6 +470,17 @@
     "link": "https://www.beachlandballroom.com/e/13489368/boombox-tep-no",
     "date": "2023-11-19T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Y.A.Y.A.",
+      "Jung Speedboat",
+      "Kwas-E",
+      "DJ Sleazus Christ"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13758408/y-a-y-a-jung-speedboat-kwas-e-dj-sleazus-christ",
+    "date": "2023-11-22T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

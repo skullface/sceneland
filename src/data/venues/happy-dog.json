@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Choke, Narc, Body Farm, Pillars"
-    ],
-    "link": "https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947",
-    "date": "2023-10-17T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Classical Revolution Cleveland"
     ],
     "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-734935310297",
@@ -93,6 +85,14 @@
     ],
     "link": "https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997",
     "date": "2023-10-30T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Your Abduction: A Halloween Dance Party"
+    ],
+    "link": "https://www.eventbrite.com/e/your-abduction-a-halloween-dance-party-tickets-735795563337",
+    "date": "2023-10-31T20:00:00",
     "venue": "Happy Dog"
   }
 ]

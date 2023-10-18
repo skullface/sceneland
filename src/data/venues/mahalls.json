@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "DEHD "
-    ],
-    "link": "https://link.dice.fm/T268e500c2b2",
-    "date": "2023-10-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "SUICIDE SILENCE AND CHELSEA GRIN "
     ],
     "link": "https://link.dice.fm/S333ab788856",
@@ -185,19 +177,19 @@
   },
   {
     "artist": [
-      "Into It. Over It."
-    ],
-    "link": "https://link.dice.fm/Ka4c8810172d",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Walter Etc."
     ],
     "link": "https://link.dice.fm/ja5bf7c187cf",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Into It. Over It."
+    ],
+    "link": "https://link.dice.fm/Ka4c8810172d",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -214,14 +206,6 @@
     "link": "https://link.dice.fm/Te4b2e44a449",
     "date": "2023-11-12T18:00:00-05:00",
     "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Rumours ATL: The Live Fleetwood Mac Tribute"
-    ],
-    "link": "https://link.dice.fm/Mdff2de0fb11",
-    "date": "2023-11-12T18:30:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -257,6 +241,14 @@
   },
   {
     "artist": [
+      "Post Saga"
+    ],
+    "link": "https://link.dice.fm/r10827f02b56",
+    "date": "2023-11-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Katatonia"
     ],
     "link": "https://link.dice.fm/pbda085c7995",
@@ -270,14 +262,6 @@
     "link": "https://link.dice.fm/P74e67b7b171",
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "Post Saga"
-    ],
-    "link": "https://link.dice.fm/r10827f02b56",
-    "date": "2023-11-17T19:30:00-05:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -317,6 +301,22 @@
     ],
     "link": "https://link.dice.fm/Tf1236377d16",
     "date": "2023-11-24T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Jukebox Breakdown aka Emo Night CLE"
+    ],
+    "link": "https://link.dice.fm/n08f961d80a7",
+    "date": "2023-11-24T22:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Action/Adventure and Cliffdiver"
+    ],
+    "link": "https://link.dice.fm/d5b8b652cdd6",
+    "date": "2023-11-26T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -382,6 +382,14 @@
     "link": "https://link.dice.fm/X3e730b069c8",
     "date": "2023-12-10T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Kasador"
+    ],
+    "link": "https://link.dice.fm/l19ef9ebd358",
+    "date": "2023-12-12T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [

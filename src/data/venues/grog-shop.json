@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Hot Goss: The Improvised Musical with The Rogue Understudies (JCU)",
-      "The Rogue Understudies"
-    ],
-    "link": "https://grogshop.gs/event-details/13501118/hot-goss-the-improvised-musical-with-the-rogue-understudies-jcu-",
-    "date": "2023-10-17T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "John-Allison Weiss: \"Say What You Mean\" 10 Year Anniversary",
       "Crash Nebula",
       "Molly O'Malley",
@@ -50,7 +41,8 @@
   {
     "artist": [
       "Will Butler + Sister Squares",
-      "False Teeth"
+      "False Teeth",
+      "Rachel Bobbitt"
     ],
     "link": "https://grogshop.gs/event-details/13359068/will-butler-sister-squares-w-false-teeth",
     "date": "2023-10-22T20:00:00",
@@ -296,7 +288,8 @@
   },
   {
     "artist": [
-      "NONAME: Sundial Tour"
+      "NONAME: Sundial Tour",
+      "STOUT"
     ],
     "link": "https://grogshop.gs/event-details/13509568/noname-sundial-tour",
     "date": "2023-11-19T20:00:00",
@@ -359,12 +352,11 @@
   {
     "artist": [
       "Noise Ctrl",
-      "This Summer and Dome Test",
       "This Summer",
       "Dome Test",
       "akafayaven"
     ],
-    "link": "https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-and-dome-test",
+    "link": "https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-dome-test-akafayaven",
     "date": "2023-11-30T20:00:00",
     "venue": "Grog Shop"
   },
@@ -470,12 +462,29 @@
   },
   {
     "artist": [
+      "PORTUGAL. THE MAN"
+    ],
+    "link": "https://grogshop.gs/event-details/13766078/portugal-the-man",
+    "date": "2024-02-17T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Horse Lords",
       "Ka Baird",
       "Powers/Rolin Duo"
     ],
     "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo",
     "date": "2024-03-14T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Otoboke Beaver",
+      "Drinking Boys and Girls Choir"
+    ],
+    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
+    "date": "2024-03-15T20:00:00",
     "venue": "Grog Shop"
   },
   {

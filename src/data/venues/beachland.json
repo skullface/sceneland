@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Chris Cresswell",
-      "Jon Snodgrass",
-      "Seth Anderson"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13286228/chris-cresswell-jon-snodgrass-seth-anderson",
-    "date": "2023-10-17T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Dale Watson",
       "Matt Hillyer"
     ],
@@ -92,19 +82,19 @@
   },
   {
     "artist": [
+      "A Benefit for CLEAN HOUSE"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13712808/a-benefit-for-clean-house",
+    "date": "2023-10-22T19:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Zach Nugent's Dead Set"
     ],
     "link": "https://www.beachlandballroom.com/e/13364038/zach-nugent-s-dead-set",
     "date": "2023-10-22T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "A Benefit for CLEAN HOUSE"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13712808/a-benefit-for-clean-house",
-    "date": "2023-10-22T18:00:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -523,6 +513,14 @@
   },
   {
     "artist": [
+      "Star Wars Burlesque: The Tease Be With You"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you",
+    "date": "2023-12-01T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Start Making Sense",
       "Drew & The Blue"
     ],
@@ -599,6 +597,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis-me-you",
     "date": "2023-12-10T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Wayne Graham"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13763558/wayne-graham",
+    "date": "2023-12-14T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -710,10 +716,26 @@
   },
   {
     "artist": [
+      "Lilly Hiatt"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13689198/lilly-hiatt",
+    "date": "2024-03-03T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Tophouse"
     ],
     "link": "https://www.beachlandballroom.com/e/13718918/tophouse",
     "date": "2024-03-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Steve Forbert"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13757928/steve-forbert",
+    "date": "2024-04-05T19:00:00",
     "venue": "Beachland Tavern"
   },
   {

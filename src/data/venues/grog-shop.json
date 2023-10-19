@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "John-Allison Weiss: \"Say What You Mean\" 10 Year Anniversary",
-      "Crash Nebula",
-      "Molly O'Malley",
-      "The Heavy Forgiveness"
-    ],
-    "link": "https://grogshop.gs/event-details/13537988/john-allison-weiss-say-what-you-mean-10-year-anniversary",
-    "date": "2023-10-18T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Passafire",
       "C-Level w",
       "Mellowman Funk"
@@ -41,10 +30,11 @@
   {
     "artist": [
       "Will Butler + Sister Squares",
-      "False Teeth",
-      "Rachel Bobbitt"
+      "Rachel Bobbitt & False Teeth",
+      "Rachel Bobbitt",
+      "False Teeth"
     ],
-    "link": "https://grogshop.gs/event-details/13359068/will-butler-sister-squares-w-false-teeth",
+    "link": "https://grogshop.gs/event-details/13359068/will-butler-sister-squares-w-rachel-bobbitt-false-teeth",
     "date": "2023-10-22T20:00:00",
     "venue": "Grog Shop"
   },
@@ -231,7 +221,7 @@
       "Lucero and Jason Boland & The Stragglers"
     ],
     "link": "https://grogshop.gs/event-details/13500788/lucero-and-jason-boland-the-stragglers",
-    "date": "2023-11-11T20:30:00",
+    "date": "2023-11-11T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -458,6 +448,32 @@
     ],
     "link": "https://grogshop.gs/event-details/13720188/wednesday",
     "date": "2024-01-28T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Record Company: Roll With It Tour",
+      "Jesse Ahern"
+    ],
+    "link": "https://grogshop.gs/event-details/13723678/the-record-company-roll-with-it-tour",
+    "date": "2024-02-03T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "PEEZY: The GHETTO Tour"
+    ],
+    "link": "https://grogshop.gs/event-details/13626948/peezy-the-ghetto-tour",
+    "date": "2024-02-04T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Siena Liggins: The FLOOZY Tour",
+      "Daisha McBride"
+    ],
+    "link": "https://grogshop.gs/event-details/13748958/siena-liggins-the-floozy-tour",
+    "date": "2024-02-09T21:00:00",
     "venue": "Grog Shop"
   },
   {

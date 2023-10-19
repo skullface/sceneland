@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "Dale Watson",
-      "Matt Hillyer"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13373038/dale-watson-matt-hillyer",
-    "date": "2023-10-18T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Kiss The Tiger",
-      "The Buffalo Ryders",
-      "Charity Cunningham"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13412548/kiss-the-tiger-the-buffalo-ryders-charity-cunningham",
-    "date": "2023-10-18T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Voices of the Land Acoustic Showcase",
       "Joseph Figueroa (The Rosies)",
       "Alex Sclazo (False Teeth/Honeyland)",
@@ -194,7 +175,7 @@
       "Bleeder"
     ],
     "link": "https://www.beachlandballroom.com/e/13679028/wcsb-s-halloween-ball-this-moment-in-black-history-rozwell-kid-whiffler-red-rose-panic-telecult-powers-charming-disaster-stop-the-presses-bleeder",
-    "date": "2023-10-28T19:00:00",
+    "date": "2023-10-28T18:30:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -304,14 +285,6 @@
   },
   {
     "artist": [
-      "Grateful Shred"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13474678/grateful-shred",
-    "date": "2023-11-05T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "NOAH VONNE",
       "BLUPHORIA",
       "October Beach Club"
@@ -319,6 +292,14 @@
     "link": "https://www.beachlandballroom.com/e/13457418/noah-vonne-bluphoria-october-beach-club",
     "date": "2023-11-05T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Grateful Shred"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13474678/grateful-shred",
+    "date": "2023-11-05T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -635,6 +616,22 @@
   },
   {
     "artist": [
+      "Alex Williams"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13769688/alex-williams",
+    "date": "2024-01-13T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Spafford"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13757338/spafford",
+    "date": "2024-01-19T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Bearly Dead: A Tribute To The Grateful Dead"
     ],
     "link": "https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead",
@@ -729,6 +726,15 @@
     "link": "https://www.beachlandballroom.com/e/13718918/tophouse",
     "date": "2024-03-14T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Sleepytime Gorilla Museum",
+      "Isolation Tank Ensemble"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13722208/sleepytime-gorilla-museum-isolation-tank-ensemble",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

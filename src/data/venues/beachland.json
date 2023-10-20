@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "Voices of the Land Acoustic Showcase",
-      "Joseph Figueroa (The Rosies)",
-      "Alex Sclazo (False Teeth/Honeyland)",
-      "Tessa Smith",
-      "Jack McLaughlin"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13593588/voices-of-the-land-acoustic-showcase-joseph-figueroa-the-rosies-alex-sclazo-false-teeth-honeyland-tessa-smith-jack-mclaughlin",
-    "date": "2023-10-19T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Eggy"
     ],
     "link": "https://www.beachlandballroom.com/e/13453398/eggy",
@@ -350,9 +338,10 @@
   },
   {
     "artist": [
-      "Constant Smiles"
+      "Constant Smiles",
+      "Orefice Roth"
     ],
-    "link": "https://www.beachlandballroom.com/e/13682998/constant-smiles",
+    "link": "https://www.beachlandballroom.com/e/13682998/constant-smiles-orefice-roth",
     "date": "2023-11-10T20:00:00",
     "venue": "Beachland Tavern"
   },

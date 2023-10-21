@@ -1,15 +1,7 @@
 [
   {
     "artist": [
-      "Chelsea Handler: Little Big Bitch"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/chelsea-handler-little-big-bitch",
-    "date": "2023-10-20",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Jim Breuer: Survival With Laughter Tour"
+      "Jim Breuer"
     ],
     "link": "https://www.playhousesquare.org/events/detail/jim-breuer-survival-with-laughter-tour",
     "date": "2023-10-25",
@@ -17,7 +9,7 @@
   },
   {
     "artist": [
-      "Nurse Blake: Shock Advised Tour"
+      "Nurse Blake"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nurse-blake-shock-advised-tour",
     "date": "2023-10-25",
@@ -25,7 +17,7 @@
   },
   {
     "artist": [
-      "Sam Morril: The Class Act Tour"
+      "Sam Morril"
     ],
     "link": "https://www.playhousesquare.org/events/detail/sam-morril-the-class-act-tour",
     "date": "2023-10-26",
@@ -65,7 +57,7 @@
   },
   {
     "artist": [
-      "Nate Bargatze: The Be Funny Tour!"
+      "Nate Bargatze"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nate-bargatze-the-be-funny-tour",
     "date": "2023-11-17",
@@ -81,7 +73,7 @@
   },
   {
     "artist": [
-      "Hasan Minhaj: Off With His Head"
+      "Hasan Minhaj"
     ],
     "link": "https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head",
     "date": "2023-12-02",
@@ -89,7 +81,7 @@
   },
   {
     "artist": [
-      "Todd Barry: Half Joking Tour"
+      "Todd Barry"
     ],
     "link": "https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour",
     "date": "2023-12-02",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today",
     "date": "2023-12-03",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Flanagan's Wake"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-2",
+    "date": "2024-01-05",
     "venue": "Playhouse Square"
   },
   {
@@ -137,14 +137,6 @@
   },
   {
     "artist": [
-      "Pod Save America"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/pod-save-america",
-    "date": "2023-10-29",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Joanne Shaw Taylor"
     ],
     "link": "https://www.playhousesquare.org/events/detail/joanne-shaw-taylor",
@@ -153,7 +145,7 @@
   },
   {
     "artist": [
-      "GEDDY LEE - MY EFFIN' LIFE In Conversation"
+      "GEDDY LEE"
     ],
     "link": "https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation",
     "date": "2023-11-19",
@@ -229,6 +221,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/the-price-is-right-live-3",
     "date": "2024-03-01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "The Blues is Alright Tour"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-blues-is-alright-tour",
+    "date": "2024-03-22",
     "venue": "Playhouse Square"
   },
   {

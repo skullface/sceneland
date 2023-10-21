@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Bob Mould Solo Electric",
-      "Jason Narducy"
-    ],
-    "link": "https://grogshop.gs/event-details/13165898/bob-mould-solo-electric",
-    "date": "2023-10-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Carlos Jones",
       "Melted Strawberry"
     ],
@@ -327,6 +318,16 @@
     ],
     "link": "https://grogshop.gs/event-details/13709178/make-em-laugh-mondays-hosted-by-kevin-ford",
     "date": "2023-11-27T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Radio Dummies",
+      "Dishwasher Possum",
+      "Jet Star"
+    ],
+    "link": "https://grogshop.gs/event-details/13778058/radio-dummies-dishwasher-possum-jet-star",
+    "date": "2023-11-28T20:00:00",
     "venue": "Grog Shop"
   },
   {

@@ -1,32 +1,6 @@
 [
   {
     "artist": [
-      "Eggy"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13453398/eggy",
-    "date": "2023-10-19T20:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Carbon Leaf"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13225388/carbon-leaf",
-    "date": "2023-10-20T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Squirrel Flower",
-      "Truth Club",
-      "Napsack"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13420938/squirrel-flower-truth-club-napsack",
-    "date": "2023-10-20T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "A Benevolent Brunch @ The Beachland"
     ],
     "link": "https://www.beachlandballroom.com/e/13708538/a-benevolent-brunch-the-beachland",
@@ -113,9 +87,10 @@
   },
   {
     "artist": [
-      "Grateful Dub"
+      "Grateful Dub",
+      "Benny & Zach Coleman (of The Quasi Kings)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13410198/grateful-dub",
+    "link": "https://www.beachlandballroom.com/e/13410198/grateful-dub-benny-zach-coleman-of-the-quasi-kings-",
     "date": "2023-10-25T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -380,9 +355,11 @@
   },
   {
     "artist": [
-      "Hembree"
+      "Hembree",
+      "Detention",
+      "Black Island Condors"
     ],
-    "link": "https://www.beachlandballroom.com/e/13689038/hembree",
+    "link": "https://www.beachlandballroom.com/e/13689038/hembree-detention-black-island-condors",
     "date": "2023-11-15T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -554,9 +531,18 @@
   },
   {
     "artist": [
-      "CLE MOSH"
+      "CLE MOSH",
+      "A Sense of Purpose",
+      "Mouthbreather",
+      "Audience of Rain",
+      "Tallah",
+      "The Dead Don't Sleep",
+      "Chamber",
+      "Midwinter",
+      "Tracheotomy",
+      "Left To Suffer"
     ],
-    "link": "https://www.beachlandballroom.com/e/13551688/cle-mosh",
+    "link": "https://www.beachlandballroom.com/e/13551688/cle-mosh-a-sense-of-purpose-mouthbreather-audience-of-rain-tallah-the-dead-don-t-sleep-chamber-midwinter-tracheotomy-left-to-suffer",
     "date": "2023-12-09T16:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -670,9 +656,10 @@
   },
   {
     "artist": [
-      "Stick Men"
+      "Stick Men",
+      "CuDa, Schief & CuDa"
     ],
-    "link": "https://www.beachlandballroom.com/e/13717748/stick-men",
+    "link": "https://www.beachlandballroom.com/e/13717748/stick-men-cuda-schief-cuda",
     "date": "2024-02-21T20:00:00",
     "venue": "Beachland Ballroom"
   },

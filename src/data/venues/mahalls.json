@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Emblem3"
-    ],
-    "link": "https://link.dice.fm/ve8a20f788c7",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "SUICIDE SILENCE AND CHELSEA GRIN "
-    ],
-    "link": "https://link.dice.fm/S333ab788856",
-    "date": "2023-10-20T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Broadway Rave"
-    ],
-    "link": "https://link.dice.fm/m5c4833fc334",
-    "date": "2023-10-20T22:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Krooked Kings w/ Toledo "
     ],
     "link": "https://link.dice.fm/L1d99087ee2c",
@@ -57,19 +33,19 @@
   },
   {
     "artist": [
-      "Annie Dukes"
-    ],
-    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
-    "date": "2023-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Radiator Hospital"
     ],
     "link": "https://link.dice.fm/S73e91266b0a",
     "date": "2023-10-24T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Annie Dukes"
+    ],
+    "link": "https://link.dice.fm/Gd2cf5c8f6ca",
+    "date": "2023-10-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -177,6 +153,14 @@
   },
   {
     "artist": [
+      "Walter Etc."
+    ],
+    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "Into It. Over It."
     ],
     "link": "https://link.dice.fm/Ka4c8810172d",
@@ -185,10 +169,10 @@
   },
   {
     "artist": [
-      "Walter Etc."
+      "Smut and High."
     ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
-    "date": "2023-11-08T19:00:00-05:00",
+    "link": "https://link.dice.fm/ae9a2a525bd9",
+    "date": "2023-11-10T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
   },
   {
@@ -206,6 +190,14 @@
     "link": "https://link.dice.fm/Te4b2e44a449",
     "date": "2023-11-12T18:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Hotelier + Foxing"
+    ],
+    "link": "https://link.dice.fm/h345331ac2a1",
+    "date": "2023-11-12T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

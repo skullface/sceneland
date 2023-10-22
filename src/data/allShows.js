@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Larry Fleet, Karley Scott Collins'],
-    link: 'https://www.agoracleveland.com/events/detail/486524',
-    date: '2023-10-21T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Hair and the Blog'],
     link: 'https://www.agoracleveland.com/events/detail/501611',
     date: '2023-10-22T18:30:00',
@@ -308,55 +302,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-719553502897',
-    date: '2023-11-06T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['The Whiffs, The Vumms, DJ Jam Jam'],
-    link: 'https://www.eventbrite.com/e/the-whiffs-the-vumms-dj-jam-jam-tickets-741151051747',
-    date: '2023-11-09T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg'],
-    link: 'https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787',
-    date: '2023-11-12T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Simple Routes EP release w/ Ray Flanagan, Michelle Gaw'],
-    link: 'https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037',
-    date: '2023-11-16T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu'],
-    link: 'https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387',
-    date: '2023-11-17T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: [
-      'Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest',
-    ],
-    link: 'https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847',
-    date: '2023-11-18T20:30:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Jon Spencer, Simon and the Apparatus'],
-    link: 'https://www.eventbrite.com/e/jon-spencer-simon-and-the-apparatus-tickets-715748231227',
-    date: '2023-11-25T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Boy Jr., Solon'],
-    link: 'https://www.eventbrite.com/e/boy-jr-solon-tickets-716549588107',
-    date: '2023-11-29T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['KISS: End of the Road Tour', 'Amber Wild'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/kiss-231022',
     date: '2023-10-22',
@@ -423,33 +368,9 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Krooked Kings w/ Toledo '],
-    link: 'https://link.dice.fm/L1d99087ee2c',
-    date: '2023-10-21T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Vedo '],
-    link: 'https://link.dice.fm/Ma1d6e0f3876',
-    date: '2023-10-21T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['The Smiths vs. The Cure dance party'],
-    link: 'https://link.dice.fm/od0e0cc30775',
-    date: '2023-10-21T22:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ["Belmont and Can't Swim"],
     link: 'https://link.dice.fm/r96a272cc1ab',
     date: '2023-10-22T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Radiator Hospital'],
-    link: 'https://link.dice.fm/S73e91266b0a',
-    date: '2023-10-24T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -457,6 +378,12 @@ export const allShows = [
     link: 'https://link.dice.fm/Gd2cf5c8f6ca',
     date: '2023-10-24T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Radiator Hospital'],
+    link: 'https://link.dice.fm/S73e91266b0a',
+    date: '2023-10-24T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['El Camino Acid and The Wonderfool'],
@@ -537,16 +464,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Walter Etc.'],
-    link: 'https://link.dice.fm/ja5bf7c187cf',
-    date: '2023-11-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Into It. Over It.'],
     link: 'https://link.dice.fm/Ka4c8810172d',
     date: '2023-11-08T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Walter Etc.'],
+    link: 'https://link.dice.fm/ja5bf7c187cf',
+    date: '2023-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Smut and High.'],
@@ -597,6 +524,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Post Saga'],
+    link: 'https://link.dice.fm/r10827f02b56',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Glare'],
     link: 'https://link.dice.fm/P74e67b7b171',
     date: '2023-11-17T19:00:00-05:00',
@@ -607,12 +540,6 @@ export const allShows = [
     link: 'https://link.dice.fm/pbda085c7995',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Post Saga'],
-    link: 'https://link.dice.fm/r10827f02b56',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Scene Queen'],
@@ -855,12 +782,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Spider-Man: Into The Spider-Verse Live in Concert'],
-    link: 'https://www.playhousesquare.org/events/detail/spider-man-into-the-spider-verse-live-in-concert',
-    date: '2023-10-21',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Dirty Dancing in Concert'],
     link: 'https://www.playhousesquare.org/events/detail/dirty-dancing-in-concert',
     date: '2023-10-22',
@@ -997,12 +918,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/jeff-buckley-tribute-musica-tickets/13665268?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-11-18T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['HALLOWEEN FLEA MARKET'],
-    link: 'https://www.foundryconcertclub.com/tm-event/halloween-flea-market/',
-    date: '2023-10-21T12:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['A Benefit For Mark Bedford'],
@@ -1171,12 +1086,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Bad Religion'],
-    link: 'https://www.ticketmaster.com/bad-religion-cleveland-ohio-10-21-2023/event/05005EFFEAC67B82',
-    date: '2023-10-21T19:30:00',
-    venue: 'Masonic Temple',
-  },
-  {
     artist: ['NWA Presents:  Samhain'],
     link: 'https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4',
     date: '2023-10-28T19:00:00',
@@ -1283,12 +1192,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Carlos Jones', 'Melted Strawberry'],
-    link: 'https://grogshop.gs/event-details/13630738/carlos-jones-w-melted-strawberry',
-    date: '2023-10-21T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1677,14 +1580,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: [
-      'Boys Like Girls: The Speaking Our Language Tour presented by Emo Nite',
-    ],
-    link: 'https://concerts.livenation.com/boys-like-girls-the-speaking-our-cleveland-ohio-10-21-2023/event/05005EB7A2EA2361',
-    date: '2023-10-21T17:30:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['The Happy Fits: Under The Shade of Green'],
     link: 'https://concerts.livenation.com/the-happy-fits-under-the-shade-cleveland-ohio-10-22-2023/event/05005EACE220721A',
     date: '2023-10-22T18:00:00',
@@ -1955,12 +1850,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['A Benevolent Brunch @ The Beachland'],
-    link: 'https://www.beachlandballroom.com/e/13708538/a-benevolent-brunch-the-beachland',
-    date: '2023-10-21T11:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Messa + Maggot Heart'],

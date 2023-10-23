@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Duck Butter, Factual Brains, Lowspot"
-    ],
-    "link": "https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307",
-    "date": "2023-10-22T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Class, Disintegration, Knowso, DJ Hausfrau"
     ],
     "link": "https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147",
@@ -93,6 +85,67 @@
     ],
     "link": "https://www.eventbrite.com/e/dead-selves-wig-doubt-runaway-brother-tickets-719552720557",
     "date": "2023-11-04T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-719553502897",
+    "date": "2023-11-06T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Whiffs, The Vumms, DJ Jam Jam"
+    ],
+    "link": "https://www.eventbrite.com/e/the-whiffs-the-vumms-dj-jam-jam-tickets-741151051747",
+    "date": "2023-11-09T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg"
+    ],
+    "link": "https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787",
+    "date": "2023-11-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Simple Routes EP release w/ Ray Flanagan, Michelle Gaw"
+    ],
+    "link": "https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037",
+    "date": "2023-11-16T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu"
+    ],
+    "link": "https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387",
+    "date": "2023-11-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest"
+    ],
+    "link": "https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847",
+    "date": "2023-11-18T20:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Jon Spencer, Simon and the Apparatus"
+    ],
+    "link": "https://www.eventbrite.com/e/jon-spencer-simon-and-the-apparatus-tickets-715748231227",
+    "date": "2023-11-25T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Boy Jr., Solon"
+    ],
+    "link": "https://www.eventbrite.com/e/boy-jr-solon-tickets-716549588107",
+    "date": "2023-11-29T21:00:00",
     "venue": "Happy Dog"
   }
 ]

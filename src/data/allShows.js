@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Hair and the Blog'],
-    link: 'https://www.agoracleveland.com/events/detail/501611',
-    date: '2023-10-22T18:30:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Russell Dickerson, Restless Road'],
     link: 'https://www.agoracleveland.com/events/detail/485227',
     date: '2023-10-26T19:00:00',
@@ -230,12 +224,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Duck Butter, Factual Brains, Lowspot'],
-    link: 'https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307',
-    date: '2023-10-22T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Class, Disintegration, Knowso, DJ Hausfrau'],
     link: 'https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147',
     date: '2023-10-23T21:00:00',
@@ -302,10 +290,53 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['KISS: End of the Road Tour', 'Amber Wild'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/kiss-231022',
-    date: '2023-10-22',
-    venue: 'Rocket Mortgage FieldHouse',
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-719553502897',
+    date: '2023-11-06T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['The Whiffs, The Vumms, DJ Jam Jam'],
+    link: 'https://www.eventbrite.com/e/the-whiffs-the-vumms-dj-jam-jam-tickets-741151051747',
+    date: '2023-11-09T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg'],
+    link: 'https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787',
+    date: '2023-11-12T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Simple Routes EP release w/ Ray Flanagan, Michelle Gaw'],
+    link: 'https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037',
+    date: '2023-11-16T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu'],
+    link: 'https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387',
+    date: '2023-11-17T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: [
+      'Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest',
+    ],
+    link: 'https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847',
+    date: '2023-11-18T20:30:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Jon Spencer, Simon and the Apparatus'],
+    link: 'https://www.eventbrite.com/e/jon-spencer-simon-and-the-apparatus-tickets-715748231227',
+    date: '2023-11-25T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Boy Jr., Solon'],
+    link: 'https://www.eventbrite.com/e/boy-jr-solon-tickets-716549588107',
+    date: '2023-11-29T21:00:00',
+    venue: 'Happy Dog',
   },
   {
     artist: ['Only Treats'],
@@ -366,12 +397,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ["Belmont and Can't Swim"],
-    link: 'https://link.dice.fm/r96a272cc1ab',
-    date: '2023-10-22T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Annie Dukes'],
@@ -464,16 +489,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Into It. Over It.'],
-    link: 'https://link.dice.fm/Ka4c8810172d',
-    date: '2023-11-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Walter Etc.'],
     link: 'https://link.dice.fm/ja5bf7c187cf',
     date: '2023-11-08T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Into It. Over It.'],
+    link: 'https://link.dice.fm/Ka4c8810172d',
+    date: '2023-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Smut and High.'],
@@ -530,16 +555,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Glare'],
-    link: 'https://link.dice.fm/P74e67b7b171',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Katatonia'],
     link: 'https://link.dice.fm/pbda085c7995',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Glare'],
+    link: 'https://link.dice.fm/P74e67b7b171',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Scene Queen'],
@@ -782,12 +807,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Dirty Dancing in Concert'],
-    link: 'https://www.playhousesquare.org/events/detail/dirty-dancing-in-concert',
-    date: '2023-10-22',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Joanne Shaw Taylor'],
     link: 'https://www.playhousesquare.org/events/detail/joanne-shaw-taylor',
     date: '2023-11-12',
@@ -878,12 +897,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Annie Dukes, The Buffalo Ryders, Outdated View'],
-    link: 'https://www.ticketweb.com/event/annie-dukes-the-buffalo-ryders-musica-tickets/13495108?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-10-22T20:00:00',
-    venue: 'Musica Akron',
-  },
-  {
     artist: ['Johnny Dynamite, Boy Future Guitars'],
     link: 'https://www.ticketweb.com/event/johnny-dynamite-boy-future-guitars-musica-tickets/13636368?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-11-01T20:00:00',
@@ -918,12 +931,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/jeff-buckley-tribute-musica-tickets/13665268?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-11-18T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['A Benefit For Mark Bedford'],
-    link: 'https://www.foundryconcertclub.com/tm-event/a-benefit-for-mark-bedford/',
-    date: '2023-10-22T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Cast Iron Comedy Showcase'],
@@ -1192,17 +1199,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: [
-      'Will Butler + Sister Squares',
-      'Rachel Bobbitt & False Teeth',
-      'Rachel Bobbitt',
-      'False Teeth',
-    ],
-    link: 'https://grogshop.gs/event-details/13359068/will-butler-sister-squares-w-rachel-bobbitt-false-teeth',
-    date: '2023-10-22T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['GILLA BAND', 'Bambara'],
@@ -1509,10 +1505,10 @@ export const allShows = [
       'Subliners',
       'Dairy Family',
       'Rrriot',
-      'Tunelvision',
+      'Tunnelvision',
       'TunnelVision',
     ],
-    link: 'https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunelvision',
+    link: 'https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision',
     date: '2024-01-03T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1578,12 +1574,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13745648/mike-w-special-guests',
     date: '2024-04-21T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['The Happy Fits: Under The Shade of Green'],
-    link: 'https://concerts.livenation.com/the-happy-fits-under-the-shade-cleveland-ohio-10-22-2023/event/05005EACE220721A',
-    date: '2023-10-22T18:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Southall: World Tour'],
@@ -1850,30 +1840,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Messa + Maggot Heart'],
-    link: 'https://www.beachlandballroom.com/e/13377388/messa-maggot-heart',
-    date: '2023-10-21T20:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Fright Night: Masters of Horror A Burlesque Revue'],
-    link: 'https://www.beachlandballroom.com/e/13529668/fright-night-masters-of-horror-a-burlesque-revue',
-    date: '2023-10-21T20:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['A Benefit for CLEAN HOUSE'],
-    link: 'https://www.beachlandballroom.com/e/13712808/a-benefit-for-clean-house',
-    date: '2023-10-22T19:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ["Zach Nugent's Dead Set"],
-    link: 'https://www.beachlandballroom.com/e/13364038/zach-nugent-s-dead-set',
-    date: '2023-10-22T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Be Your Own Pet', 'A Giant Dog', 'Birthday Girl'],

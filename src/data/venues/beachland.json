@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Be Your Own Pet",
-      "A Giant Dog",
-      "Birthday Girl"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13174908/be-your-own-pet-a-giant-dog",
-    "date": "2023-10-23T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "The Arcadian Wild",
       "My Biscuits (Jen Maurer + Leigh Ann Wise)"
     ],
@@ -160,6 +150,15 @@
   },
   {
     "artist": [
+      "Walter Trout",
+      "Sam Hooper"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13392758/walter-trout-sam-hooper",
+    "date": "2023-11-02T19:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Chirp",
       "Sqwerv",
       "The Chewy Center"
@@ -167,15 +166,6 @@
     "link": "https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center",
     "date": "2023-11-02T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Walter Trout",
-      "Sam Hooper"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13392758/walter-trout-sam-hooper",
-    "date": "2023-11-02T19:30:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -255,9 +245,10 @@
   },
   {
     "artist": [
-      "Wayne Baker Brooks"
+      "Wayne Baker Brooks",
+      "Crazy Marvin & the Blues Express with special guest D.C. Carnes"
     ],
-    "link": "https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks",
+    "link": "https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks-crazy-marvin-the-blues-express-with-special-guest-d-c-carnes",
     "date": "2023-11-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -538,6 +529,17 @@
     "link": "https://www.beachlandballroom.com/e/13677948/beachland-holiday-flea",
     "date": "2023-12-16T10:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Stay Gone",
+      "Black Spirit Clown",
+      "Seconds of Silence",
+      "Joseph Merlitti Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13787658/stay-gone-black-spirit-clown-seconds-of-silence-joseph-merlitti-band",
+    "date": "2023-12-16T19:30:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

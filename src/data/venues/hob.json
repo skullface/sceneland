@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Southall: World Tour"
-    ],
-    "link": "https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C",
-    "date": "2023-10-23T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Laufey: The Bewitched Tour"
     ],
     "link": "https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA",
@@ -125,6 +117,14 @@
     ],
     "link": "https://concerts.livenation.com/avery-anna-cleveland-ohio-11-17-2023/event/05005F2DBFEC3323",
     "date": "2023-11-17T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Gasolina Reggaeton Party"
+    ],
+    "link": "https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989",
+    "date": "2023-11-18T21:00:00",
     "venue": "House of Blues"
   },
   {
@@ -297,6 +297,14 @@
   },
   {
     "artist": [
+      "Silversun Pickups"
+    ],
+    "link": "https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC",
+    "date": "2024-03-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Beach Weather: Pineapple Sunrise The Tour"
     ],
     "link": "https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257",
@@ -309,6 +317,14 @@
     ],
     "link": "https://concerts.livenation.com/otoboke-beaver-cleveland-ohio-03-15-2024/event/05005F4BEA3D36FC",
     "date": "2024-03-15T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "BoyWithUke: Lucid Dreams Tour"
+    ],
+    "link": "https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7",
+    "date": "2024-04-26T19:00:00",
     "venue": "House of Blues"
   },
   {

@@ -105,7 +105,7 @@
   },
   {
     "artist": [
-      "Nimesh Patel: Fast and Loose Tour"
+      "Nimesh Patel"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour",
     "date": "2024-01-21",
@@ -113,10 +113,18 @@
   },
   {
     "artist": [
-      "Leanne Morgan: Just Getting Started"
+      "Leanne Morgan"
     ],
     "link": "https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started",
     "date": "2024-03-15",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Ronny Chieng"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/ronny-chieng",
+    "date": "2024-04-26",
     "venue": "Playhouse Square"
   },
   {

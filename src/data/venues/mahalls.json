@@ -169,19 +169,19 @@
   },
   {
     "artist": [
-      "Pronoun"
-    ],
-    "link": "https://link.dice.fm/z8596180c75d",
-    "date": "2023-11-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Chase Petra and Carpool Tunnel"
     ],
     "link": "https://link.dice.fm/m8113a5c6215",
     "date": "2023-11-14T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pronoun"
+    ],
+    "link": "https://link.dice.fm/z8596180c75d",
+    "date": "2023-11-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -201,11 +201,11 @@
   },
   {
     "artist": [
-      "Post Saga"
+      "Glare"
     ],
-    "link": "https://link.dice.fm/r10827f02b56",
+    "link": "https://link.dice.fm/P74e67b7b171",
     "date": "2023-11-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -217,11 +217,11 @@
   },
   {
     "artist": [
-      "Glare"
+      "Post Saga"
     ],
-    "link": "https://link.dice.fm/P74e67b7b171",
+    "link": "https://link.dice.fm/r10827f02b56",
     "date": "2023-11-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -369,6 +369,14 @@
   },
   {
     "artist": [
+      "Hammy New Year"
+    ],
+    "link": "https://link.dice.fm/mb77c28acbac",
+    "date": "2023-12-30T18:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Pinkertones "
     ],
     "link": "https://link.dice.fm/V59a7152297c",
@@ -389,6 +397,14 @@
     ],
     "link": "https://link.dice.fm/Se4ab3e1a738",
     "date": "2024-02-06T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Sam Barber - Till I Return Tour"
+    ],
+    "link": "https://link.dice.fm/W9976eec11ac",
+    "date": "2024-02-29T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

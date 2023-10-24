@@ -224,12 +224,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Class, Disintegration, Knowso, DJ Hausfrau'],
-    link: 'https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147',
-    date: '2023-10-23T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Dug, Actual Form, Brain Cave'],
     link: 'https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177',
     date: '2023-10-24T21:00:00',
@@ -337,12 +331,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/boy-jr-solon-tickets-716549588107',
     date: '2023-11-29T21:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['Only Treats'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1',
-    date: '2023-10-23',
-    venue: 'Rocket Mortgage FieldHouse',
   },
   {
     artist: ['P!NK: TRUSTFALL TOUR', 'w/ Grouplove & KidCutUp'],
@@ -525,16 +513,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Pronoun'],
-    link: 'https://link.dice.fm/z8596180c75d',
-    date: '2023-11-14T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Chase Petra and Carpool Tunnel'],
     link: 'https://link.dice.fm/m8113a5c6215',
     date: '2023-11-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Pronoun'],
+    link: 'https://link.dice.fm/z8596180c75d',
+    date: '2023-11-14T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Moon Walker'],
@@ -549,10 +537,10 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Post Saga'],
-    link: 'https://link.dice.fm/r10827f02b56',
+    artist: ['Glare'],
+    link: 'https://link.dice.fm/P74e67b7b171',
     date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Katatonia'],
@@ -561,10 +549,10 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Glare'],
-    link: 'https://link.dice.fm/P74e67b7b171',
+    artist: ['Post Saga'],
+    link: 'https://link.dice.fm/r10827f02b56',
     date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Scene Queen'],
@@ -675,6 +663,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Hammy New Year'],
+    link: 'https://link.dice.fm/mb77c28acbac',
+    date: '2023-12-30T18:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
     artist: ['The Pinkertones '],
     link: 'https://link.dice.fm/V59a7152297c',
     date: '2024-01-19T19:00:00-05:00',
@@ -690,6 +684,12 @@ export const allShows = [
     artist: ['Holding Absence'],
     link: 'https://link.dice.fm/Se4ab3e1a738',
     date: '2024-02-06T18:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Sam Barber - Till I Return Tour'],
+    link: 'https://link.dice.fm/W9976eec11ac',
+    date: '2024-02-29T18:30:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -795,15 +795,21 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Nimesh Patel: Fast and Loose Tour'],
+    artist: ['Nimesh Patel'],
     link: 'https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour',
     date: '2024-01-21',
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Leanne Morgan: Just Getting Started'],
+    artist: ['Leanne Morgan'],
     link: 'https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started',
     date: '2024-03-15',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ['Ronny Chieng'],
+    link: 'https://www.playhousesquare.org/events/detail/ronny-chieng',
+    date: '2024-04-26',
     venue: 'Playhouse Square',
   },
   {
@@ -930,6 +936,18 @@ export const allShows = [
     artist: ['Jeff Buckley Tribute'],
     link: 'https://www.ticketweb.com/event/jeff-buckley-tribute-musica-tickets/13665268?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-11-18T20:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['Wild Party with special guest Cousin Simple'],
+    link: 'https://www.ticketweb.com/event/wild-party-cousin-simple-musica-tickets/13775228?pl=celebrityetc&REFID=clientsitewpecheck',
+    date: '2024-02-09T21:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['MAOLI - Boots On The Ground Tour Plus Special Guest MISHKA'],
+    link: 'https://www.ticketweb.com/event/maoli-musica-tickets/13741908?pl=celebrityetc&REFID=clientsitewpecheck',
+    date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
   },
   {
@@ -1201,12 +1219,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['GILLA BAND', 'Bambara'],
-    link: 'https://grogshop.gs/event-details/13126195/gilla-band-bambara',
-    date: '2023-10-23T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Mudhoney', 'Hooveriii'],
     link: 'https://grogshop.gs/event-details/12974495/mudhoney',
     date: '2023-10-24T20:00:00',
@@ -1426,6 +1438,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Girl Cologne', 'COE', 'Riley Burke', 'RRRIOT!', 'Tall Grass'],
+    link: 'https://grogshop.gs/event-details/13785388/girl-cologne-coe-riley-burke-rrriot-tall-grass',
+    date: '2023-11-26T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13709178/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2023-11-27T20:00:00',
@@ -1576,12 +1594,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Southall: World Tour'],
-    link: 'https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C',
-    date: '2023-10-23T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Laufey: The Bewitched Tour'],
     link: 'https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA',
     date: '2023-10-24T19:00:00',
@@ -1669,6 +1681,12 @@ export const allShows = [
     artist: ['Avery Anna'],
     link: 'https://concerts.livenation.com/avery-anna-cleveland-ohio-11-17-2023/event/05005F2DBFEC3323',
     date: '2023-11-17T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Gasolina Reggaeton Party'],
+    link: 'https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989',
+    date: '2023-11-18T21:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1800,6 +1818,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Silversun Pickups'],
+    link: 'https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC',
+    date: '2024-03-02T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Beach Weather: Pineapple Sunrise The Tour'],
     link: 'https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257',
     date: '2024-03-09T18:30:00',
@@ -1809,6 +1833,12 @@ export const allShows = [
     artist: ['Otoboke Beaver'],
     link: 'https://concerts.livenation.com/otoboke-beaver-cleveland-ohio-03-15-2024/event/05005F4BEA3D36FC',
     date: '2024-03-15T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['BoyWithUke: Lucid Dreams Tour'],
+    link: 'https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7',
+    date: '2024-04-26T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1840,12 +1870,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Be Your Own Pet', 'A Giant Dog', 'Birthday Girl'],
-    link: 'https://www.beachlandballroom.com/e/13174908/be-your-own-pet-a-giant-dog',
-    date: '2023-10-23T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['The Arcadian Wild', 'My Biscuits (Jen Maurer + Leigh Ann Wise)'],
@@ -1964,16 +1988,16 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Chirp', 'Sqwerv', 'The Chewy Center'],
-    link: 'https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center',
-    date: '2023-11-02T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Walter Trout', 'Sam Hooper'],
     link: 'https://www.beachlandballroom.com/e/13392758/walter-trout-sam-hooper',
     date: '2023-11-02T19:30:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Chirp', 'Sqwerv', 'The Chewy Center'],
+    link: 'https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center',
+    date: '2023-11-02T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Shane Smith & The Saints', 'Angel White', 'Calder Allen'],
@@ -2029,8 +2053,11 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Wayne Baker Brooks'],
-    link: 'https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks',
+    artist: [
+      'Wayne Baker Brooks',
+      'Crazy Marvin & the Blues Express with special guest D.C. Carnes',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks-crazy-marvin-the-blues-express-with-special-guest-d-c-carnes',
     date: '2023-11-08T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2224,6 +2251,17 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13677948/beachland-holiday-flea',
     date: '2023-12-16T10:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: [
+      'Stay Gone',
+      'Black Spirit Clown',
+      'Seconds of Silence',
+      'Joseph Merlitti Band',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13787658/stay-gone-black-spirit-clown-seconds-of-silence-joseph-merlitti-band',
+    date: '2023-12-16T19:30:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Lung', 'Honeyland', 'The Brakes'],

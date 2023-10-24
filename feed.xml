@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Oct 2023 09:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 09:06:17 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Russell Dickerson, Restless Road at Agora]]></title>
@@ -266,13 +266,6 @@
             <pubDate>Fri, 10 May 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Class, Disintegration, Knowso, DJ Hausfrau at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Class, Disintegration, Knowso, DJ Hausfrau at Happy Dog on Monday, October 23, 2023, 09:00 PM: https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147]]></description>
-            <link>https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147</guid>
-            <pubDate>Mon, 23 Oct 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dug, Actual Form, Brain Cave at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Dug, Actual Form, Brain Cave at Happy Dog on Tuesday, October 24, 2023, 09:00 PM: https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177]]></description>
             <link>https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177</link>
@@ -390,13 +383,6 @@
             <link>https://www.eventbrite.com/e/boy-jr-solon-tickets-716549588107</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/boy-jr-solon-tickets-716549588107</guid>
             <pubDate>Wed, 29 Nov 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Only Treats at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Only Treats at Rocket Mortgage FieldHouse on Monday, October 23, 2023, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1</guid>
-            <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[P!NK: TRUSTFALL TOUR, w/ Grouplove & KidCutUp at Rocket Mortgage FieldHouse]]></title>
@@ -602,17 +588,17 @@
             <pubDate>Mon, 13 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pronoun at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Pronoun at Mahall’s Apartment on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/z8596180c75d]]></description>
-            <link>https://link.dice.fm/z8596180c75d</link>
-            <guid isPermaLink="true">https://link.dice.fm/z8596180c75d</guid>
-            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Chase Petra and Carpool Tunnel at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Chase Petra and Carpool Tunnel at Mahall’s on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/m8113a5c6215]]></description>
             <link>https://link.dice.fm/m8113a5c6215</link>
             <guid isPermaLink="true">https://link.dice.fm/m8113a5c6215</guid>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pronoun at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Pronoun at Mahall’s Apartment on Wednesday, November 15, 2023, 12:00 AM: https://link.dice.fm/z8596180c75d]]></description>
+            <link>https://link.dice.fm/z8596180c75d</link>
+            <guid isPermaLink="true">https://link.dice.fm/z8596180c75d</guid>
             <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -630,10 +616,10 @@
             <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post Saga at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Post Saga at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/r10827f02b56]]></description>
-            <link>https://link.dice.fm/r10827f02b56</link>
-            <guid isPermaLink="true">https://link.dice.fm/r10827f02b56</guid>
+            <title><![CDATA[Glare at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Glare at Mahall’s Apartment on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/P74e67b7b171]]></description>
+            <link>https://link.dice.fm/P74e67b7b171</link>
+            <guid isPermaLink="true">https://link.dice.fm/P74e67b7b171</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -644,10 +630,10 @@
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Glare at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Glare at Mahall’s Apartment on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/P74e67b7b171]]></description>
-            <link>https://link.dice.fm/P74e67b7b171</link>
-            <guid isPermaLink="true">https://link.dice.fm/P74e67b7b171</guid>
+            <title><![CDATA[Post Saga at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Post Saga at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/r10827f02b56]]></description>
+            <link>https://link.dice.fm/r10827f02b56</link>
+            <guid isPermaLink="true">https://link.dice.fm/r10827f02b56</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -777,6 +763,13 @@
             <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hammy New Year at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Hammy New Year at The Roxy at Mahall’s on Saturday, December 30, 2023, 11:00 PM: https://link.dice.fm/mb77c28acbac]]></description>
+            <link>https://link.dice.fm/mb77c28acbac</link>
+            <guid isPermaLink="true">https://link.dice.fm/mb77c28acbac</guid>
+            <pubDate>Sat, 30 Dec 2023 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Pinkertones  at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Pinkertones  at Mahall’s on Saturday, January 20, 2024, 12:00 AM: https://link.dice.fm/V59a7152297c]]></description>
             <link>https://link.dice.fm/V59a7152297c</link>
@@ -796,6 +789,13 @@
             <link>https://link.dice.fm/Se4ab3e1a738</link>
             <guid isPermaLink="true">https://link.dice.fm/Se4ab3e1a738</guid>
             <pubDate>Tue, 06 Feb 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sam Barber - Till I Return Tour at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Sam Barber - Till I Return Tour at Mahall’s on Thursday, February 29, 2024, 11:30 PM: https://link.dice.fm/W9976eec11ac]]></description>
+            <link>https://link.dice.fm/W9976eec11ac</link>
+            <guid isPermaLink="true">https://link.dice.fm/W9976eec11ac</guid>
+            <pubDate>Thu, 29 Feb 2024 23:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video Age at Mahall’s]]></title>
@@ -917,18 +917,25 @@
             <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nimesh Patel: Fast and Loose Tour at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Nimesh Patel: Fast and Loose Tour at Playhouse Square on Sunday, January 21, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour]]></description>
+            <title><![CDATA[Nimesh Patel at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Nimesh Patel at Playhouse Square on Sunday, January 21, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour]]></description>
             <link>https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</guid>
             <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Leanne Morgan: Just Getting Started at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Leanne Morgan: Just Getting Started at Playhouse Square on Friday, March 15, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started]]></description>
+            <title><![CDATA[Leanne Morgan at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Leanne Morgan at Playhouse Square on Friday, March 15, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started]]></description>
             <link>https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started</guid>
             <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ronny Chieng at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Ronny Chieng at Playhouse Square on Friday, April 26, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/ronny-chieng]]></description>
+            <link>https://www.playhousesquare.org/events/detail/ronny-chieng</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/ronny-chieng</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joanne Shaw Taylor at Playhouse Square]]></title>
@@ -1076,6 +1083,20 @@
             <link>https://www.ticketweb.com/event/jeff-buckley-tribute-musica-tickets/13665268?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/jeff-buckley-tribute-musica-tickets/13665268?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Sat, 18 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wild Party with special guest Cousin Simple at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to Wild Party with special guest Cousin Simple at Musica Akron on Friday, February 9, 2024, 09:00 PM: https://www.ticketweb.com/event/wild-party-cousin-simple-musica-tickets/13775228?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/wild-party-cousin-simple-musica-tickets/13775228?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/wild-party-cousin-simple-musica-tickets/13775228?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Fri, 09 Feb 2024 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MAOLI - Boots On The Ground Tour Plus Special Guest MISHKA at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to MAOLI - Boots On The Ground Tour Plus Special Guest MISHKA at Musica Akron on Saturday, March 23, 2024, 08:00 PM: https://www.ticketweb.com/event/maoli-musica-tickets/13741908?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/maoli-musica-tickets/13741908?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/maoli-musica-tickets/13741908?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cast Iron Comedy Showcase at Foundry]]></title>
@@ -1386,13 +1407,6 @@
             <pubDate>Fri, 22 Mar 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GILLA BAND, Bambara at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to GILLA BAND, Bambara at Grog Shop on Monday, October 23, 2023, 08:00 PM: https://grogshop.gs/event-details/13126195/gilla-band-bambara]]></description>
-            <link>https://grogshop.gs/event-details/13126195/gilla-band-bambara</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13126195/gilla-band-bambara</guid>
-            <pubDate>Mon, 23 Oct 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mudhoney, Hooveriii at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Mudhoney, Hooveriii at Grog Shop on Tuesday, October 24, 2023, 08:00 PM: https://grogshop.gs/event-details/12974495/mudhoney]]></description>
             <link>https://grogshop.gs/event-details/12974495/mudhoney</link>
@@ -1596,6 +1610,13 @@
             <pubDate>Sat, 25 Nov 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Girl Cologne, COE, Riley Burke, RRRIOT!, Tall Grass at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Girl Cologne, COE, Riley Burke, RRRIOT!, Tall Grass at Grog Shop on Sunday, November 26, 2023, 08:00 PM: https://grogshop.gs/event-details/13785388/girl-cologne-coe-riley-burke-rrriot-tall-grass]]></description>
+            <link>https://grogshop.gs/event-details/13785388/girl-cologne-coe-riley-burke-rrriot-tall-grass</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13785388/girl-cologne-coe-riley-burke-rrriot-tall-grass</guid>
+            <pubDate>Sun, 26 Nov 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, November 27, 2023, 08:00 PM: https://grogshop.gs/event-details/13709178/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
             <link>https://grogshop.gs/event-details/13709178/make-em-laugh-mondays-hosted-by-kevin-ford</link>
@@ -1750,13 +1771,6 @@
             <pubDate>Sun, 21 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Southall: World Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Southall: World Tour at House of Blues on Monday, October 23, 2023, 07:00 PM: https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C]]></description>
-            <link>https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/southall-world-tour-cleveland-ohio-10-23-2023/event/05005EDE7C9F176C</guid>
-            <pubDate>Mon, 23 Oct 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Laufey: The Bewitched Tour at House of Blues]]></title>
             <description><![CDATA[Get tickets to Laufey: The Bewitched Tour at House of Blues on Tuesday, October 24, 2023, 07:00 PM: https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA]]></description>
             <link>https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA</link>
@@ -1860,6 +1874,13 @@
             <link>https://concerts.livenation.com/avery-anna-cleveland-ohio-11-17-2023/event/05005F2DBFEC3323</link>
             <guid isPermaLink="true">https://concerts.livenation.com/avery-anna-cleveland-ohio-11-17-2023/event/05005F2DBFEC3323</guid>
             <pubDate>Fri, 17 Nov 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gasolina Reggaeton Party at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Gasolina Reggaeton Party at House of Blues on Saturday, November 18, 2023, 09:00 PM: https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989]]></description>
+            <link>https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989</guid>
+            <pubDate>Sat, 18 Nov 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ekoostik Hookah at House of Blues]]></title>
@@ -2009,6 +2030,13 @@
             <pubDate>Mon, 26 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Silversun Pickups at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Silversun Pickups at House of Blues on Saturday, March 2, 2024, 07:00 PM: https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC]]></description>
+            <link>https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC</guid>
+            <pubDate>Sat, 02 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Beach Weather: Pineapple Sunrise The Tour at House of Blues]]></title>
             <description><![CDATA[Get tickets to Beach Weather: Pineapple Sunrise The Tour at House of Blues on Saturday, March 9, 2024, 06:30 PM: https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257]]></description>
             <link>https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257</link>
@@ -2021,6 +2049,13 @@
             <link>https://concerts.livenation.com/otoboke-beaver-cleveland-ohio-03-15-2024/event/05005F4BEA3D36FC</link>
             <guid isPermaLink="true">https://concerts.livenation.com/otoboke-beaver-cleveland-ohio-03-15-2024/event/05005F4BEA3D36FC</guid>
             <pubDate>Fri, 15 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BoyWithUke: Lucid Dreams Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to BoyWithUke: Lucid Dreams Tour at House of Blues on Friday, April 26, 2024, 07:00 PM: https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7]]></description>
+            <link>https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7</guid>
+            <pubDate>Fri, 26 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drake White: The Bridge Tour at House of Blues]]></title>
@@ -2056,13 +2091,6 @@
             <link>https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</link>
             <guid isPermaLink="true">https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</guid>
             <pubDate>Wed, 26 Jun 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Be Your Own Pet, A Giant Dog, Birthday Girl at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Be Your Own Pet, A Giant Dog, Birthday Girl at Beachland Ballroom on Monday, October 23, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13174908/be-your-own-pet-a-giant-dog]]></description>
-            <link>https://www.beachlandballroom.com/e/13174908/be-your-own-pet-a-giant-dog</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13174908/be-your-own-pet-a-giant-dog</guid>
-            <pubDate>Mon, 23 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Arcadian Wild, My Biscuits (Jen Maurer + Leigh Ann Wise) at Beachland Tavern]]></title>
@@ -2163,18 +2191,18 @@
             <pubDate>Wed, 01 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Chirp, Sqwerv, The Chewy Center at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Chirp, Sqwerv, The Chewy Center at Beachland Tavern on Thursday, November 2, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center]]></description>
-            <link>https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center</guid>
-            <pubDate>Thu, 02 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Walter Trout, Sam Hooper at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Walter Trout, Sam Hooper at Beachland Ballroom on Thursday, November 2, 2023, 07:30 PM: https://www.beachlandballroom.com/e/13392758/walter-trout-sam-hooper]]></description>
             <link>https://www.beachlandballroom.com/e/13392758/walter-trout-sam-hooper</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13392758/walter-trout-sam-hooper</guid>
             <pubDate>Thu, 02 Nov 2023 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chirp, Sqwerv, The Chewy Center at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Chirp, Sqwerv, The Chewy Center at Beachland Tavern on Thursday, November 2, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center]]></description>
+            <link>https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13489938/chirp-sqwerv-the-chewy-center</guid>
+            <pubDate>Thu, 02 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shane Smith & The Saints, Angel White, Calder Allen at Beachland Ballroom]]></title>
@@ -2233,10 +2261,10 @@
             <pubDate>Wed, 08 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wayne Baker Brooks at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Wayne Baker Brooks at Beachland Tavern on Wednesday, November 8, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks]]></description>
-            <link>https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks</guid>
+            <title><![CDATA[Wayne Baker Brooks, Crazy Marvin & the Blues Express with special guest D.C. Carnes at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Wayne Baker Brooks, Crazy Marvin & the Blues Express with special guest D.C. Carnes at Beachland Tavern on Wednesday, November 8, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks-crazy-marvin-the-blues-express-with-special-guest-d-c-carnes]]></description>
+            <link>https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks-crazy-marvin-the-blues-express-with-special-guest-d-c-carnes</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks-crazy-marvin-the-blues-express-with-special-guest-d-c-carnes</guid>
             <pubDate>Wed, 08 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2448,6 +2476,13 @@
             <link>https://www.beachlandballroom.com/e/13677948/beachland-holiday-flea</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13677948/beachland-holiday-flea</guid>
             <pubDate>Sat, 16 Dec 2023 10:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stay Gone, Black Spirit Clown, Seconds of Silence, Joseph Merlitti Band at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Stay Gone, Black Spirit Clown, Seconds of Silence, Joseph Merlitti Band at Beachland Tavern on Saturday, December 16, 2023, 07:30 PM: https://www.beachlandballroom.com/e/13787658/stay-gone-black-spirit-clown-seconds-of-silence-joseph-merlitti-band]]></description>
+            <link>https://www.beachlandballroom.com/e/13787658/stay-gone-black-spirit-clown-seconds-of-silence-joseph-merlitti-band</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13787658/stay-gone-black-spirit-clown-seconds-of-silence-joseph-merlitti-band</guid>
+            <pubDate>Sat, 16 Dec 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lung, Honeyland, The Brakes at Beachland Tavern]]></title>

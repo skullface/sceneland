@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cast Iron Comedy Showcase"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
-    "date": "2023-10-24T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Across The White Water Tower, Dark Island, Midwinter"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/across-the-white-water-tower-dark-island-midwinter/",
@@ -157,6 +149,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/lower-13-imminent-sonic-destruction-terranoct-revolver-revolver/",
     "date": "2023-11-17T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Nocturnal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
+    "date": "2023-11-18T21:00:00",
     "venue": "Foundry"
   },
   {

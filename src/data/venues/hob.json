@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Laufey: The Bewitched Tour"
-    ],
-    "link": "https://concerts.livenation.com/laufey-the-bewitched-tour-cleveland-ohio-10-24-2023/event/05005EC8C58E4FEA",
-    "date": "2023-10-24T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "FRENSHIP w/ special guests"
     ],
     "link": "https://concerts.livenation.com/frenship-w-special-guests-cleveland-ohio-10-25-2023/event/05005ECFF97C6A82",
@@ -245,6 +237,14 @@
     ],
     "link": "https://concerts.livenation.com/g-love-special-sauce-30th-anniversary-cleveland-ohio-01-19-2024/event/05005F4DAE2C2266",
     "date": "2024-01-19T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "The Devil Wears Prada & Fit For A King: METALCORE DROPOUTS"
+    ],
+    "link": "https://concerts.livenation.com/the-devil-wears-prada-fit-for-cleveland-ohio-01-21-2024/event/05005F51E8633FDA",
+    "date": "2024-01-21T18:00:00",
     "venue": "House of Blues"
   },
   {

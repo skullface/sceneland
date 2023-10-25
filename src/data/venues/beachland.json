@@ -1,33 +1,6 @@
 [
   {
     "artist": [
-      "The Arcadian Wild",
-      "My Biscuits (Jen Maurer + Leigh Ann Wise)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13593758/the-arcadian-wild-my-biscuits-jen-maurer-leigh-ann-wise-",
-    "date": "2023-10-24T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Friends of Crooked River Groove Reunion + Concert",
-      "Shake Ground",
-      "Falling Stars",
-      "Dreadlock Dave's Automatonic Alien Entropy",
-      "The Jack Fords",
-      "Tracy Marie and Friends",
-      "Xela",
-      "Tommy Wiggins",
-      "Bill Lestock",
-      "Jackie Warren + Sammy Deleon",
-      "Rachel Brown & the Beatnik Playboys"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13731518/friends-of-crooked-river-groove-reunion-concert-shake-ground-falling-stars-dreadlock-dave-s-automatonic-alien-entropy-the-jack-fords-tracy-marie-and-friends-xela-tommy-wiggins-bill-lestock-jackie-warren-sammy-deleon-rachel-brown-the-beatnik-playboys",
-    "date": "2023-10-24T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Kings Kaleidoscope",
       "Mike Mains and the Branches"
     ],
@@ -265,9 +238,10 @@
   {
     "artist": [
       "Constant Smiles",
+      "Lunacy",
       "Orefice Roth"
     ],
-    "link": "https://www.beachlandballroom.com/e/13682998/constant-smiles-orefice-roth",
+    "link": "https://www.beachlandballroom.com/e/13682998/constant-smiles-lunacy-orefice-roth",
     "date": "2023-11-10T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -298,9 +272,10 @@
   },
   {
     "artist": [
-      "The Way Down Wanderers"
+      "The Way Down Wanderers",
+      "The Chatfield Boys"
     ],
-    "link": "https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers",
+    "link": "https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers-the-chatfield-boys",
     "date": "2023-11-14T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -550,6 +525,14 @@
     "link": "https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes",
     "date": "2023-12-21T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Into The Blue"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13792508/into-the-blue",
+    "date": "2023-12-22T21:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

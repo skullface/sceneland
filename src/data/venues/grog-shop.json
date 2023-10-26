@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
-    ],
-    "link": "https://grogshop.gs/event-details/13574018/midnight-rental-presents-secret-movie-night",
-    "date": "2023-10-25T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Cellar Dwellar",
       "The Little Ditties",
       "People In The Daytime",
@@ -182,6 +174,22 @@
     ],
     "link": "https://grogshop.gs/event-details/13709168/make-em-laugh-mondays-hosted-by-kevin-ford",
     "date": "2023-11-13T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Hot Goss: The Improvised Musical"
+    ],
+    "link": "https://grogshop.gs/event-details/13799628/hot-goss-the-improvised-musical",
+    "date": "2023-11-14T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Midnight Rental presents Secret Movie Night"
+    ],
+    "link": "https://grogshop.gs/event-details/13799568/midnight-rental-presents-secret-movie-night",
+    "date": "2023-11-15T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -394,6 +402,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13604468/cupcakke",
     "date": "2023-12-16T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Midnight Rental presents Secret Movie Night"
+    ],
+    "link": "https://grogshop.gs/event-details/13799598/midnight-rental-presents-secret-movie-night",
+    "date": "2023-12-20T20:00:00",
     "venue": "Grog Shop"
   },
   {

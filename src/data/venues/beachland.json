@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Kings Kaleidoscope",
-      "Mike Mains and the Branches"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13221478/kings-kaleidoscope-mike-mains-the-branches",
-    "date": "2023-10-25T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Grateful Dub",
-      "Benny & Zach Coleman (of The Quasi Kings)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13410198/grateful-dub-benny-zach-coleman-of-the-quasi-kings-",
-    "date": "2023-10-25T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The Main Squeeze",
       "Saxsquatch"
     ],
@@ -219,9 +201,10 @@
   {
     "artist": [
       "Wayne Baker Brooks",
-      "Crazy Marvin & the Blues Express with special guest D.C. Carnes"
+      "Crazy Marvin & the Blues Express with special guest D.C. Carnes",
+      "DJ Pete London"
     ],
-    "link": "https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks-crazy-marvin-the-blues-express-with-special-guest-d-c-carnes",
+    "link": "https://www.beachlandballroom.com/e/13636018/wayne-baker-brooks-crazy-marvin-the-blues-express-with-special-guest-d-c-carnes-dj-pete-london",
     "date": "2023-11-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -404,9 +387,10 @@
   {
     "artist": [
       "Televisionaires",
+      "The VUMMS",
       "The Fox Sisters"
     ],
-    "link": "https://www.beachlandballroom.com/e/13644868/televisionaires-the-fox-sisters",
+    "link": "https://www.beachlandballroom.com/e/13644868/televisionaires-the-vumms-the-fox-sisters",
     "date": "2023-12-02T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -508,11 +492,11 @@
   {
     "artist": [
       "Stay Gone",
-      "Black Spirit Clown",
+      "Black Spirit Crown",
       "Seconds of Silence",
       "Joseph Merlitti Band"
     ],
-    "link": "https://www.beachlandballroom.com/e/13787658/stay-gone-black-spirit-clown-seconds-of-silence-joseph-merlitti-band",
+    "link": "https://www.beachlandballroom.com/e/13787658/stay-gone-black-spirit-crown-seconds-of-silence-joseph-merlitti-band",
     "date": "2023-12-16T19:30:00",
     "venue": "Beachland Tavern"
   },

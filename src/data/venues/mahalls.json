@@ -97,19 +97,19 @@
   },
   {
     "artist": [
-      "Walter Etc."
-    ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Into It. Over It."
     ],
     "link": "https://link.dice.fm/Ka4c8810172d",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Walter Etc."
+    ],
+    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -185,19 +185,19 @@
   },
   {
     "artist": [
-      "Glare"
-    ],
-    "link": "https://link.dice.fm/P74e67b7b171",
-    "date": "2023-11-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Post Saga"
     ],
     "link": "https://link.dice.fm/r10827f02b56",
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Glare"
+    ],
+    "link": "https://link.dice.fm/P74e67b7b171",
+    "date": "2023-11-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -381,6 +381,14 @@
     ],
     "link": "https://link.dice.fm/M31d005f3d08",
     "date": "2024-03-14T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Unprocessed"
+    ],
+    "link": "https://link.dice.fm/W36e2339d3e7",
+    "date": "2024-04-05T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

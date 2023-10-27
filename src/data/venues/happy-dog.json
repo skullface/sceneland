@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Emily Robb, Material, Swisher, Anteater"
-    ],
-    "link": "https://www.eventbrite.com/e/emily-robb-material-swisher-anteater-tickets-734941960187",
-    "date": "2023-10-26T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Machine Go Boom, Honolulu High, Perfect Pals"
     ],
     "link": "https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947",
@@ -90,6 +82,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787",
     "date": "2023-11-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Simple Routes EP release w/ Ray Flanagan, Michelle Gaw"
+    ],
+    "link": "https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037",
+    "date": "2023-11-16T21:00:00",
     "venue": "Happy Dog"
   }
 ]

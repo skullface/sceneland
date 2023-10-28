@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Big Bubble Rave: 18+ Only'],
-    link: 'https://concerts.livenation.com/big-bubble-rave-18-only-cleveland-ohio-10-27-2023/event/05005ECCA12B224B',
-    date: '2023-10-27T21:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Hunter Hayes: The Red Sky Tour Continued'],
     link: 'https://concerts.livenation.com/hunter-hayes-the-red-sky-tour-cleveland-ohio-11-02-2023/event/05005F25DCE72B24',
     date: '2023-11-02T19:00:00',
@@ -314,6 +308,15 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
+    artist: [
+      '15th Annual Cleveland Bridal Show',
+      'Presented By TL Worldwide Transportation',
+    ],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302',
+    date: '2024-03-02',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
     artist: ['Johnny Dynamite, Boy Future Guitars'],
     link: 'https://www.ticketweb.com/event/johnny-dynamite-boy-future-guitars-musica-tickets/13636368?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-11-01T20:00:00',
@@ -572,12 +575,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['A Pop Punk Halloween ft TRUSS', 'This Summer', 'Grant'],
-    link: 'https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss',
-    date: '2023-10-27T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Sub:Merged and Vibe & Direct Present: Vibe In Horror: Duality Edition',
       'Vampa',
@@ -757,9 +754,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Foulmouth Presents : Blackout Wednesday', 'Foulmouth'],
-    link: 'https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday',
-    date: '2023-11-22T18:30:00',
+    artist: [
+      'Foulmouth Presents: Blackout Wednesday "Supper Show"',
+      'Foulmouth',
+    ],
+    link: 'https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday-supper-show-',
+    date: '2023-11-22T18:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['M.O.O.K.Y', 'Bad4u and False Teeth', 'BAD4U', 'False Teeth'],
+    link: 'https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-bad4u-and-false-teeth',
+    date: '2023-11-22T20:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -833,6 +839,12 @@ export const allShows = [
     artist: ['Nolan Taylor', 'Logan Halstead', 'The Morning Bird'],
     link: 'https://grogshop.gs/event-details/13516538/nolan-taylor',
     date: '2023-12-02T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Immolation, Castrator, Atomic Witch'],
+    link: 'https://grogshop.gs/event-details/13792448/immolation-castrator-atomic-witch',
+    date: '2023-12-03T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -980,18 +992,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13745648/mike-w-special-guests',
     date: '2024-04-21T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'Midnight',
-      'Black Death',
-      'Assault',
-      'Nunslaughter',
-      'Destructor',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13338738/midnight-black-death-assault-nunslaughter-destructor',
-    date: '2023-10-27T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: [
@@ -1263,8 +1263,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Heartless Bastards'],
-    link: 'https://www.beachlandballroom.com/e/13608708/heartless-bastards',
+    artist: ['Heartless Bastards', 'Angela Perley'],
+    link: 'https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley',
     date: '2023-12-08T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1447,12 +1447,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Spooky Jukey: Halloween Emo Night'],
-    link: 'https://link.dice.fm/C350a313ae5a',
-    date: '2023-10-27T21:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Dear Hunter: Migrant 10th Anniversary Tour'],
     link: 'https://link.dice.fm/U5a25190bc4d',
     date: '2023-10-28T18:30:00-04:00',
@@ -1519,16 +1513,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Into It. Over It.'],
-    link: 'https://link.dice.fm/Ka4c8810172d',
-    date: '2023-11-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Walter Etc.'],
     link: 'https://link.dice.fm/ja5bf7c187cf',
     date: '2023-11-08T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Into It. Over It.'],
+    link: 'https://link.dice.fm/Ka4c8810172d',
+    date: '2023-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Smut and High.'],
@@ -1585,16 +1579,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Post Saga'],
-    link: 'https://link.dice.fm/r10827f02b56',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Glare'],
     link: 'https://link.dice.fm/P74e67b7b171',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Post Saga'],
+    link: 'https://link.dice.fm/r10827f02b56',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Scene Queen'],
@@ -1757,12 +1751,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['TRAP KARAOKE: CLEVELAND'],
-    link: 'https://www.agoracleveland.com/events/detail/494709',
-    date: '2023-10-27T20:00:00',
-    venue: 'Agora',
   },
   {
     artist: [
@@ -2005,12 +1993,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Lonewolf, TBA, Deadscar, xEighty-Sixedx'],
-    link: 'https://www.foundryconcertclub.com/tm-event/lonewolf-tba-deadscar-xeighty-sixedx/',
-    date: '2023-10-27T18:30:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Drawn and Quartered, Fulci, Molder'],
@@ -2275,12 +2257,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Machine Go Boom, Honolulu High, Perfect Pals'],
-    link: 'https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947',
-    date: '2023-10-27T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['The Cowboys, The Gerds, The Wastemen'],
     link: 'https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497',
     date: '2023-10-28T21:00:00',
@@ -2308,6 +2284,12 @@ export const allShows = [
     artist: ['Pons, People in the Daytime, Hiram-Maxim, Bigg Egg'],
     link: 'https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377',
     date: '2023-11-02T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Live Hip-Hop Showcase in the Underdog!'],
+    link: 'https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-747493070897',
+    date: '2023-11-03T18:30:00',
     venue: 'Happy Dog',
   },
   {

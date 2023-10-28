@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "Midnight",
-      "Black Death",
-      "Assault",
-      "Nunslaughter",
-      "Destructor"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13338738/midnight-black-death-assault-nunslaughter-destructor",
-    "date": "2023-10-27T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "WCSB's Halloween Ball",
       "This Moment In Black History",
       "Rozwell Kid",
@@ -405,9 +393,10 @@
   },
   {
     "artist": [
-      "Heartless Bastards"
+      "Heartless Bastards",
+      "Angela Perley"
     ],
-    "link": "https://www.beachlandballroom.com/e/13608708/heartless-bastards",
+    "link": "https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley",
     "date": "2023-12-08T20:00:00",
     "venue": "Beachland Ballroom"
   },

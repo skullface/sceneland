@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Oct 2023 09:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 09:06:13 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Big Bubble Rave: 18+ Only at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Big Bubble Rave: 18+ Only at House of Blues on Friday, October 27, 2023, 09:00 PM: https://concerts.livenation.com/big-bubble-rave-18-only-cleveland-ohio-10-27-2023/event/05005ECCA12B224B]]></description>
-            <link>https://concerts.livenation.com/big-bubble-rave-18-only-cleveland-ohio-10-27-2023/event/05005ECCA12B224B</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/big-bubble-rave-18-only-cleveland-ohio-10-27-2023/event/05005ECCA12B224B</guid>
-            <pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Hunter Hayes: The Red Sky Tour Continued at House of Blues]]></title>
             <description><![CDATA[Get tickets to Hunter Hayes: The Red Sky Tour Continued at House of Blues on Thursday, November 2, 2023, 07:00 PM: https://concerts.livenation.com/hunter-hayes-the-red-sky-tour-cleveland-ohio-11-02-2023/event/05005F25DCE72B24]]></description>
@@ -364,6 +357,13 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[15th Annual Cleveland Bridal Show, Presented By TL Worldwide Transportation at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to 15th Annual Cleveland Bridal Show, Presented By TL Worldwide Transportation at Rocket Mortgage FieldHouse on Saturday, March 2, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302</guid>
+            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Johnny Dynamite, Boy Future Guitars at Musica Akron]]></title>
             <description><![CDATA[Get tickets to Johnny Dynamite, Boy Future Guitars at Musica Akron on Wednesday, November 1, 2023, 08:00 PM: https://www.ticketweb.com/event/johnny-dynamite-boy-future-guitars-musica-tickets/13636368?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
             <link>https://www.ticketweb.com/event/johnny-dynamite-boy-future-guitars-musica-tickets/13636368?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
@@ -665,13 +665,6 @@
             <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Pop Punk Halloween ft TRUSS, This Summer, Grant at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to A Pop Punk Halloween ft TRUSS, This Summer, Grant at Grog Shop on Friday, October 27, 2023, 08:00 PM: https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss]]></description>
-            <link>https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13563788/a-pop-punk-halloween-ft-truss</guid>
-            <pubDate>Fri, 27 Oct 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sub:Merged and Vibe & Direct Present: Vibe In Horror: Duality Edition, Vampa, Chalk Dinosaur, Vibe & Direct, Hayden George, Jondoetho1 b2b Wolftown, Land of Panda, Toro, Lilly Chan, Phyzque, Smash at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Sub:Merged and Vibe & Direct Present: Vibe In Horror: Duality Edition, Vampa, Chalk Dinosaur, Vibe & Direct, Hayden George, Jondoetho1 b2b Wolftown, Land of Panda, Toro, Lilly Chan, Phyzque, Smash at Grog Shop on Saturday, October 28, 2023, 08:30 PM: https://grogshop.gs/event-details/13556888/sub-merged-and-vibe-direct-present-vibe-in-horror-duality-edition]]></description>
             <link>https://grogshop.gs/event-details/13556888/sub-merged-and-vibe-direct-present-vibe-in-horror-duality-edition</link>
@@ -840,11 +833,18 @@
             <pubDate>Tue, 21 Nov 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Foulmouth Presents : Blackout Wednesday, Foulmouth at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Foulmouth Presents : Blackout Wednesday, Foulmouth at Grog Shop on Wednesday, November 22, 2023, 06:30 PM: https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday]]></description>
-            <link>https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday</guid>
-            <pubDate>Wed, 22 Nov 2023 18:30:00 GMT</pubDate>
+            <title><![CDATA[Foulmouth Presents: Blackout Wednesday "Supper Show", Foulmouth at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Foulmouth Presents: Blackout Wednesday "Supper Show", Foulmouth at Grog Shop on Wednesday, November 22, 2023, 06:00 PM: https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday-supper-show-]]></description>
+            <link>https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday-supper-show-</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday-supper-show-</guid>
+            <pubDate>Wed, 22 Nov 2023 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[M.O.O.K.Y, Bad4u and False Teeth, BAD4U, False Teeth at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to M.O.O.K.Y, Bad4u and False Teeth, BAD4U, False Teeth at Grog Shop on Wednesday, November 22, 2023, 08:30 PM: https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-bad4u-and-false-teeth]]></description>
+            <link>https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-bad4u-and-false-teeth</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-bad4u-and-false-teeth</guid>
+            <pubDate>Wed, 22 Nov 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pass Me The Mic: Thanksgiving Open Jam and Mic Nite Hosted by Mikey Silas at Grog Shop]]></title>
@@ -922,6 +922,13 @@
             <link>https://grogshop.gs/event-details/13516538/nolan-taylor</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13516538/nolan-taylor</guid>
             <pubDate>Sat, 02 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Immolation, Castrator, Atomic Witch at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Immolation, Castrator, Atomic Witch at Grog Shop on Sunday, December 3, 2023, 08:00 PM: https://grogshop.gs/event-details/13792448/immolation-castrator-atomic-witch]]></description>
+            <link>https://grogshop.gs/event-details/13792448/immolation-castrator-atomic-witch</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13792448/immolation-castrator-atomic-witch</guid>
+            <pubDate>Sun, 03 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teenage Halloween, Grievance Club, Biitchseat at Grog Shop]]></title>
@@ -1062,13 +1069,6 @@
             <link>https://grogshop.gs/event-details/13745648/mike-w-special-guests</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13745648/mike-w-special-guests</guid>
             <pubDate>Sun, 21 Apr 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight, Black Death, Assault, Nunslaughter, Destructor at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Midnight, Black Death, Assault, Nunslaughter, Destructor at Beachland Ballroom on Friday, October 27, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13338738/midnight-black-death-assault-nunslaughter-destructor]]></description>
-            <link>https://www.beachlandballroom.com/e/13338738/midnight-black-death-assault-nunslaughter-destructor</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13338738/midnight-black-death-assault-nunslaughter-destructor</guid>
-            <pubDate>Fri, 27 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WCSB's Halloween Ball, This Moment In Black History, Rozwell Kid, Whiffler, Red Rose Panic, Telecult Powers, Charming Disaster, Stop The Presses, Bleeder at Beachland Ballroom]]></title>
@@ -1358,10 +1358,10 @@
             <pubDate>Thu, 07 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heartless Bastards at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Heartless Bastards at Beachland Ballroom on Friday, December 8, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13608708/heartless-bastards]]></description>
-            <link>https://www.beachlandballroom.com/e/13608708/heartless-bastards</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13608708/heartless-bastards</guid>
+            <title><![CDATA[Heartless Bastards, Angela Perley at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Heartless Bastards, Angela Perley at Beachland Ballroom on Friday, December 8, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley]]></description>
+            <link>https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley</guid>
             <pubDate>Fri, 08 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1554,13 +1554,6 @@
             <pubDate>Sun, 05 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spooky Jukey: Halloween Emo Night at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Spooky Jukey: Halloween Emo Night at Mahall’s on Saturday, October 28, 2023, 01:00 AM: https://link.dice.fm/C350a313ae5a]]></description>
-            <link>https://link.dice.fm/C350a313ae5a</link>
-            <guid isPermaLink="true">https://link.dice.fm/C350a313ae5a</guid>
-            <pubDate>Sat, 28 Oct 2023 01:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Dear Hunter: Migrant 10th Anniversary Tour at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Dear Hunter: Migrant 10th Anniversary Tour at Mahall’s on Saturday, October 28, 2023, 10:30 PM: https://link.dice.fm/U5a25190bc4d]]></description>
             <link>https://link.dice.fm/U5a25190bc4d</link>
@@ -1638,17 +1631,17 @@
             <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Into It. Over It. at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Into It. Over It. at Mahall’s on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/Ka4c8810172d]]></description>
-            <link>https://link.dice.fm/Ka4c8810172d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ka4c8810172d</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Walter Etc. at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Walter Etc. at Mahall’s Apartment on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/ja5bf7c187cf]]></description>
             <link>https://link.dice.fm/ja5bf7c187cf</link>
             <guid isPermaLink="true">https://link.dice.fm/ja5bf7c187cf</guid>
+            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Into It. Over It. at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Into It. Over It. at Mahall’s on Thursday, November 9, 2023, 12:00 AM: https://link.dice.fm/Ka4c8810172d]]></description>
+            <link>https://link.dice.fm/Ka4c8810172d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ka4c8810172d</guid>
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1715,17 +1708,17 @@
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post Saga at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Post Saga at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/r10827f02b56]]></description>
-            <link>https://link.dice.fm/r10827f02b56</link>
-            <guid isPermaLink="true">https://link.dice.fm/r10827f02b56</guid>
-            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Glare at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Glare at Mahall’s Apartment on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/P74e67b7b171]]></description>
             <link>https://link.dice.fm/P74e67b7b171</link>
             <guid isPermaLink="true">https://link.dice.fm/P74e67b7b171</guid>
+            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post Saga at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Post Saga at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/r10827f02b56]]></description>
+            <link>https://link.dice.fm/r10827f02b56</link>
+            <guid isPermaLink="true">https://link.dice.fm/r10827f02b56</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1916,13 +1909,6 @@
             <link>https://link.dice.fm/ndd45cda1606</link>
             <guid isPermaLink="true">https://link.dice.fm/ndd45cda1606</guid>
             <pubDate>Thu, 16 May 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRAP KARAOKE: CLEVELAND at Agora]]></title>
-            <description><![CDATA[Get tickets to TRAP KARAOKE: CLEVELAND at Agora on Friday, October 27, 2023, 08:00 PM: https://www.agoracleveland.com/events/detail/494709]]></description>
-            <link>https://www.agoracleveland.com/events/detail/494709</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/494709</guid>
-            <pubDate>Fri, 27 Oct 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mushroomhead, Hellzapoppin, Kurt Deimer, Fleischkrieg, Bittersweet Revenge, Twysted Asylum at Agora]]></title>
@@ -2203,13 +2189,6 @@
             <link>https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</link>
             <guid isPermaLink="true">https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</guid>
             <pubDate>Wed, 26 Jun 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lonewolf, TBA, Deadscar, xEighty-Sixedx at Foundry]]></title>
-            <description><![CDATA[Get tickets to Lonewolf, TBA, Deadscar, xEighty-Sixedx at Foundry on Friday, October 27, 2023, 06:30 PM: https://www.foundryconcertclub.com/tm-event/lonewolf-tba-deadscar-xeighty-sixedx/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/lonewolf-tba-deadscar-xeighty-sixedx/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/lonewolf-tba-deadscar-xeighty-sixedx/</guid>
-            <pubDate>Fri, 27 Oct 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Drawn and Quartered, Fulci, Molder at Foundry]]></title>
@@ -2513,13 +2492,6 @@
             <pubDate>Fri, 22 Mar 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Machine Go Boom, Honolulu High, Perfect Pals at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Machine Go Boom, Honolulu High, Perfect Pals at Happy Dog on Friday, October 27, 2023, 09:00 PM: https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947]]></description>
-            <link>https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947</guid>
-            <pubDate>Fri, 27 Oct 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Cowboys, The Gerds, The Wastemen at Happy Dog]]></title>
             <description><![CDATA[Get tickets to The Cowboys, The Gerds, The Wastemen at Happy Dog on Saturday, October 28, 2023, 09:00 PM: https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497]]></description>
             <link>https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497</link>
@@ -2553,6 +2525,13 @@
             <link>https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377</guid>
             <pubDate>Thu, 02 Nov 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live Hip-Hop Showcase in the Underdog! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Live Hip-Hop Showcase in the Underdog! at Happy Dog on Friday, November 3, 2023, 06:30 PM: https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-747493070897]]></description>
+            <link>https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-747493070897</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-747493070897</guid>
+            <pubDate>Fri, 03 Nov 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Loveseat, The Missed, Hyper Viper, Lowspot at Happy Dog]]></title>

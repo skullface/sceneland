@@ -365,12 +365,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Joe Gatto'],
-    link: 'https://www.playhousesquare.org/events/detail/joe-gatto',
-    date: '2023-10-28',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Pete Correale'],
     link: 'https://www.playhousesquare.org/events/detail/pete-correale-2',
     date: '2023-11-11',
@@ -533,18 +527,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['TRASHOWEEN'],
-    link: 'https://www.eventbrite.com/e/trashoween-tickets-708203795617',
-    date: '2023-10-28T18:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['DRAWN AND QUARTERED + FULCI'],
-    link: 'https://www.eventbrite.com/e/drawn-and-quartered-fulci-tickets-709459340987',
-    date: '2023-10-28T19:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: ['MAKEWAR'],
     link: 'https://www.eventbrite.com/e/makewar-tickets-706112981937',
     date: '2023-11-02T19:00:00',
@@ -573,24 +555,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/regurgitation-tickets-716501734977',
     date: '2024-01-27T20:00:00',
     venue: 'No Class',
-  },
-  {
-    artist: [
-      'Sub:Merged and Vibe & Direct Present: Vibe In Horror: Duality Edition',
-      'Vampa',
-      'Chalk Dinosaur',
-      'Vibe & Direct',
-      'Hayden George',
-      'Jondoetho1 b2b Wolftown',
-      'Land of Panda',
-      'Toro',
-      'Lilly Chan',
-      'Phyzque',
-      'Smash',
-    ],
-    link: 'https://grogshop.gs/event-details/13556888/sub-merged-and-vibe-direct-present-vibe-in-horror-duality-edition',
-    date: '2023-10-28T20:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Wish Queen "Saturnalia" Album Release', 'Radderall', 'tessas'],
@@ -992,22 +956,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13745648/mike-w-special-guests',
     date: '2024-04-21T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      "WCSB's Halloween Ball",
-      'This Moment In Black History',
-      'Rozwell Kid',
-      'Whiffler',
-      'Red Rose Panic',
-      'Telecult Powers',
-      'Charming Disaster',
-      'Stop The Presses',
-      'Bleeder',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13679028/wcsb-s-halloween-ball-this-moment-in-black-history-rozwell-kid-whiffler-red-rose-panic-telecult-powers-charming-disaster-stop-the-presses-bleeder',
-    date: '2023-10-28T18:30:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Dale Hollow', 'Easton Union'],
@@ -1447,18 +1395,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['The Dear Hunter: Migrant 10th Anniversary Tour'],
-    link: 'https://link.dice.fm/U5a25190bc4d',
-    date: '2023-10-28T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Taylorween: an all Taylor Swift halloween party'],
-    link: 'https://link.dice.fm/I13e0ec569c5',
-    date: '2023-10-28T20:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['BL\u00dc EYES'],
     link: 'https://link.dice.fm/Z38d23091375',
     date: '2023-10-29T19:00:00-04:00',
@@ -1549,16 +1485,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Pronoun'],
-    link: 'https://link.dice.fm/z8596180c75d',
-    date: '2023-11-14T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Chase Petra and Carpool Tunnel'],
     link: 'https://link.dice.fm/m8113a5c6215',
     date: '2023-11-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Pronoun'],
+    link: 'https://link.dice.fm/z8596180c75d',
+    date: '2023-11-14T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Moon Walker'],
@@ -1573,8 +1509,8 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Katatonia'],
-    link: 'https://link.dice.fm/pbda085c7995',
+    artist: ['Post Saga'],
+    link: 'https://link.dice.fm/r10827f02b56',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -1585,8 +1521,8 @@ export const allShows = [
     venue: 'Mahall\u2019s Apartment',
   },
   {
-    artist: ['Post Saga'],
-    link: 'https://link.dice.fm/r10827f02b56',
+    artist: ['Katatonia'],
+    link: 'https://link.dice.fm/pbda085c7995',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -1627,6 +1563,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['1989: an all Taylor Swift dance party'],
+    link: 'https://link.dice.fm/L904ac7f6aec',
+    date: '2023-11-25T20:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Action/Adventure and Cliffdiver'],
     link: 'https://link.dice.fm/d5b8b652cdd6',
     date: '2023-11-26T19:00:00-05:00',
@@ -1648,6 +1590,12 @@ export const allShows = [
     artist: ['Drayton Farley'],
     link: 'https://link.dice.fm/v94d14fa1810',
     date: '2023-12-01T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Bouncy: a K-pop themed dance party'],
+    link: 'https://link.dice.fm/W19359887ab3',
+    date: '2023-12-02T20:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -1751,14 +1699,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: [
-      'Mushroomhead, Hellzapoppin, Kurt Deimer, Fleischkrieg, Bittersweet Revenge, Twysted Asylum',
-    ],
-    link: 'https://www.agoracleveland.com/events/detail/481912',
-    date: '2023-10-28T18:00:00',
-    venue: 'Agora',
   },
   {
     artist: ['Mark Normand'],
@@ -1995,12 +1935,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Drawn and Quartered, Fulci, Molder'],
-    link: 'https://www.foundryconcertclub.com/tm-event/drawn-and-quartered-fulci-molder/',
-    date: '2023-10-28T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['RUMMAGE SALE'],
     link: 'https://www.foundryconcertclub.com/tm-event/rummage-sale/',
     date: '2023-10-29T14:00:00',
@@ -2143,12 +2077,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['NWA Presents:  Samhain'],
-    link: 'https://www.ticketmaster.com/nwa-presents-samhain-cleveland-ohio-10-28-2023/event/05005F27A60F22F4',
-    date: '2023-10-28T19:00:00',
-    venue: 'Masonic Temple',
-  },
-  {
     artist: ['My Life with the Thrill Kill Kult'],
     link: 'https://www.ticketmaster.com/my-life-with-the-thrill-kill-cleveland-ohio-11-02-2023/event/05005E66A08D1245',
     date: '2023-11-02T19:30:00',
@@ -2257,12 +2185,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['The Cowboys, The Gerds, The Wastemen'],
-    link: 'https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497',
-    date: '2023-10-28T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Monday Night Trivia: Halloween Edition!'],
     link: 'https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997',
     date: '2023-10-30T20:00:00',
@@ -2325,6 +2247,12 @@ export const allShows = [
     artist: ['Simple Routes EP release w/ Ray Flanagan, Michelle Gaw'],
     link: 'https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037',
     date: '2023-11-16T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu'],
+    link: 'https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387',
+    date: '2023-11-17T21:00:00',
     venue: 'Happy Dog',
   },
 ]

@@ -557,12 +557,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Wish Queen "Saturnalia" Album Release', 'Radderall', 'tessas'],
-    link: 'https://grogshop.gs/event-details/13630848/wish-queen-saturnalia-album-release',
-    date: '2023-10-29T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Skinny Lister', 'PET NEEDS', 'Bandaid Brigade'],
     link: 'https://grogshop.gs/event-details/13288578/skinny-lister',
     date: '2023-10-30T20:00:00',
@@ -602,10 +596,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: [
-      'Party for the Peace Park : A Fundraiser for Coventry Peace Park',
-      'Grandview',
-    ],
+    artist: ['Party for the Peace Park : A Fundraiser for Coventry Peace Park'],
     link: 'https://grogshop.gs/event-details/13631648/party-for-the-peace-park-a-fundraiser-for-coventry-peace-park',
     date: '2023-11-05T16:30:00',
     venue: 'Grog Shop',
@@ -724,12 +715,6 @@ export const allShows = [
     ],
     link: 'https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday-supper-show-',
     date: '2023-11-22T18:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['M.O.O.K.Y', 'Bad4u and False Teeth', 'BAD4U', 'False Teeth'],
-    link: 'https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-bad4u-and-false-teeth',
-    date: '2023-11-22T20:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -956,12 +941,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13745648/mike-w-special-guests',
     date: '2024-04-21T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Dale Hollow', 'Easton Union'],
-    link: 'https://www.beachlandballroom.com/e/13489988/dale-hollow-easton-union',
-    date: '2023-10-29T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['BrewDog Beachland Halloween BINGO', 'DJ Advance'],
@@ -1393,12 +1372,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13457108/ty-segall',
     date: '2024-05-05T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['BL\u00dc EYES'],
-    link: 'https://link.dice.fm/Z38d23091375',
-    date: '2023-10-29T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Addison Grace'],
@@ -1933,18 +1906,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['RUMMAGE SALE'],
-    link: 'https://www.foundryconcertclub.com/tm-event/rummage-sale/',
-    date: '2023-10-29T14:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['PEABODY\u2019S DAY: 10TH ANNIVERSARTY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/peabodys-day-10th-anniversarty/',
-    date: '2023-10-29T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['HALLOWEEN DANCE PARTY'],

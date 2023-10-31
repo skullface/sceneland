@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "BrewDog Beachland Halloween BINGO",
-      "DJ Advance"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13625788/brewdog-beachland-halloween-bingo-dj-advance",
-    "date": "2023-10-30T19:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Songstress Jo",
       "Girl Cologne",
       "Blaire Blades and The Backstabbers"
@@ -462,6 +453,14 @@
     "link": "https://www.beachlandballroom.com/e/13792508/into-the-blue",
     "date": "2023-12-22T21:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "The Day Nites"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13814258/the-day-nites",
+    "date": "2023-12-29T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

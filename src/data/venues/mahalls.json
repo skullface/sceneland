@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Addison Grace"
-    ],
-    "link": "https://link.dice.fm/te8545465b8f",
-    "date": "2023-10-30T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Mahall's Halloween party: Gala or Graveyard?"
     ],
     "link": "https://link.dice.fm/K3c5000ea7a6",
@@ -65,19 +57,19 @@
   },
   {
     "artist": [
-      "Walter Etc."
-    ],
-    "link": "https://link.dice.fm/ja5bf7c187cf",
-    "date": "2023-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Into It. Over It."
     ],
     "link": "https://link.dice.fm/Ka4c8810172d",
     "date": "2023-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Walter Etc."
+    ],
+    "link": "https://link.dice.fm/ja5bf7c187cf",
+    "date": "2023-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -113,19 +105,19 @@
   },
   {
     "artist": [
-      "Chase Petra and Carpool Tunnel"
-    ],
-    "link": "https://link.dice.fm/m8113a5c6215",
-    "date": "2023-11-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pronoun"
     ],
     "link": "https://link.dice.fm/z8596180c75d",
     "date": "2023-11-14T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Chase Petra and Carpool Tunnel"
+    ],
+    "link": "https://link.dice.fm/m8113a5c6215",
+    "date": "2023-11-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

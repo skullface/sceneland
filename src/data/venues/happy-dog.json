@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Monday Night Trivia: Halloween Edition!"
-    ],
-    "link": "https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997",
-    "date": "2023-10-30T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Your Abduction: A Halloween Dance Party"
     ],
     "link": "https://www.eventbrite.com/e/your-abduction-a-halloween-dance-party-tickets-735795563337",
@@ -90,6 +82,14 @@
     ],
     "link": "https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387",
     "date": "2023-11-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest"
+    ],
+    "link": "https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847",
+    "date": "2023-11-18T20:30:00",
     "venue": "Happy Dog"
   }
 ]

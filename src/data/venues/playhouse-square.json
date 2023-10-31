@@ -81,6 +81,14 @@
   },
   {
     "artist": [
+      "John Crist"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/john-crist-1",
+    "date": "2024-02-18",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Leanne Morgan"
     ],
     "link": "https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started",
@@ -89,10 +97,26 @@
   },
   {
     "artist": [
+      "Anthony Jeselnik"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/anthony-jeselnik",
+    "date": "2024-03-16",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Ronny Chieng"
     ],
     "link": "https://www.playhousesquare.org/events/detail/ronny-chieng",
     "date": "2024-04-26",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Marc Maron"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/marc-maron-1",
+    "date": "2024-05-10",
     "venue": "Playhouse Square"
   },
   {

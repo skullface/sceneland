@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Skinny Lister",
-      "PET NEEDS",
-      "Bandaid Brigade"
-    ],
-    "link": "https://grogshop.gs/event-details/13288578/skinny-lister",
-    "date": "2023-10-30T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Nick Shoulders and The Okay Crawdad: \u201cAll Bad Tour\u201d",
       "Maddy Kirgo"
     ],
@@ -120,6 +110,16 @@
   },
   {
     "artist": [
+      "Lovestruck",
+      "Minutes of Mourning",
+      "The Midwest Letdown"
+    ],
+    "link": "https://grogshop.gs/event-details/13814678/lovestruck-minutes-of-mourning-the-midwest-letdown",
+    "date": "2023-11-12T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Make Em Laugh Mondays Hosted By Kevin Ford"
     ],
     "link": "https://grogshop.gs/event-details/13709168/make-em-laugh-mondays-hosted-by-kevin-ford",
@@ -209,6 +209,17 @@
     ],
     "link": "https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday-supper-show-",
     "date": "2023-11-22T18:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "M.O.O.K.Y",
+      "Vince Nerone",
+      "Yacobucci",
+      "DRIXY"
+    ],
+    "link": "https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-vince-nerone-yacobucci-drixy",
+    "date": "2023-11-22T20:30:00",
     "venue": "Grog Shop"
   },
   {

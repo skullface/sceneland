@@ -14,7 +14,7 @@ all_shows_list = []
 for show in shows:
   all_shows_data = {} 
   artist = show.find('h3', class_='css-1ptng6s')
-  link = show.find('a', class_='css-1yxfa6u')
+  link = show.find('a', class_='css-1q2nroc')
   date = show.find('time')
   all_shows_data['artist'] = [artist.text.strip().replace(' - ', ': ')]
   all_shows_data['link'] = link.get('href')

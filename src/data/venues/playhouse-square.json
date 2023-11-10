@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "Chelsea Handler: Little Big Bitch"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/chelsea-handler-little-big-bitch",
-    "date": "2023-10-20",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Jim Breuer: Survival With Laughter Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/jim-breuer-survival-with-laughter-tour",
-    "date": "2023-10-25",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Nurse Blake: Shock Advised Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/nurse-blake-shock-advised-tour",
-    "date": "2023-10-25",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Sam Morril: The Class Act Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/sam-morril-the-class-act-tour",
-    "date": "2023-10-26",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Joe Gatto"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/joe-gatto",
-    "date": "2023-10-28",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Pete Correale"
     ],
     "link": "https://www.playhousesquare.org/events/detail/pete-correale-2",
@@ -65,7 +25,7 @@
   },
   {
     "artist": [
-      "Nate Bargatze: The Be Funny Tour!"
+      "Nate Bargatze"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nate-bargatze-the-be-funny-tour",
     "date": "2023-11-17",
@@ -81,7 +41,7 @@
   },
   {
     "artist": [
-      "Hasan Minhaj: Off With His Head"
+      "Hasan Minhaj"
     ],
     "link": "https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head",
     "date": "2023-12-02",
@@ -89,7 +49,7 @@
   },
   {
     "artist": [
-      "Todd Barry: Half Joking Tour"
+      "Todd Barry"
     ],
     "link": "https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour",
     "date": "2023-12-02",
@@ -105,7 +65,23 @@
   },
   {
     "artist": [
-      "Nimesh Patel: Fast and Loose Tour"
+      "Flanagan's Wake"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-2",
+    "date": "2024-01-05",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "The Killer B's"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-killer-bs",
+    "date": "2024-01-13",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Nimesh Patel"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour",
     "date": "2024-01-21",
@@ -113,7 +89,15 @@
   },
   {
     "artist": [
-      "Leanne Morgan: Just Getting Started"
+      "John Crist"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/john-crist-1",
+    "date": "2024-02-18",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Leanne Morgan"
     ],
     "link": "https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started",
     "date": "2024-03-15",
@@ -121,26 +105,34 @@
   },
   {
     "artist": [
-      "Spider-Man: Into The Spider-Verse Live in Concert"
+      "Anthony Jeselnik"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/spider-man-into-the-spider-verse-live-in-concert",
-    "date": "2023-10-21",
+    "link": "https://www.playhousesquare.org/events/detail/anthony-jeselnik",
+    "date": "2024-03-16",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Dirty Dancing in Concert"
+      "Modi"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/dirty-dancing-in-concert",
-    "date": "2023-10-22",
+    "link": "https://www.playhousesquare.org/events/detail/modi-know-your-audience-tour",
+    "date": "2024-03-27",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Pod Save America"
+      "Ronny Chieng"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/pod-save-america",
-    "date": "2023-10-29",
+    "link": "https://www.playhousesquare.org/events/detail/ronny-chieng",
+    "date": "2024-04-26",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Marc Maron"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/marc-maron-1",
+    "date": "2024-05-10",
     "venue": "Playhouse Square"
   },
   {
@@ -153,7 +145,7 @@
   },
   {
     "artist": [
-      "GEDDY LEE - MY EFFIN' LIFE In Conversation"
+      "GEDDY LEE"
     ],
     "link": "https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation",
     "date": "2023-11-19",
@@ -193,6 +185,14 @@
   },
   {
     "artist": [
+      "Raymond Arroyo"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/raymond-arroyo-christmas-merry-and-bright",
+    "date": "2023-12-15",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "The Legendary Soul Jam"
     ],
     "link": "https://www.playhousesquare.org/events/detail/the-legendary-soul-jam",
@@ -221,6 +221,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/the-price-is-right-live-3",
     "date": "2024-03-01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "The Blues is Alright Tour"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-blues-is-alright-tour",
+    "date": "2024-03-22",
     "venue": "Playhouse Square"
   },
   {

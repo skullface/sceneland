@@ -1,98 +1,87 @@
 [
   {
     "artist": [
-      "Choke, Narc, Body Farm, Pillars"
+      "Tall Grass Record Release w/ Total Downer, Funeral Proposals"
     ],
-    "link": "https://www.eventbrite.com/e/choke-narc-body-farm-pillars-tickets-706931098947",
-    "date": "2023-10-17T21:00:00",
+    "link": "https://www.eventbrite.com/e/tall-grass-record-release-w-total-downer-funeral-proposals-tickets-749603242477",
+    "date": "2023-11-10T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Jagaloons, Oongow!!!, Riptide Suicide"
+    ],
+    "link": "https://www.eventbrite.com/e/the-jagaloons-oongow-riptide-suicide-tickets-749604656707",
+    "date": "2023-11-11T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg"
+    ],
+    "link": "https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787",
+    "date": "2023-11-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-749602239477",
+    "date": "2023-11-13T20:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
       "Classical Revolution Cleveland"
     ],
-    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-734935310297",
-    "date": "2023-10-18T20:00:00",
+    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-752909471497",
+    "date": "2023-11-15T20:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Blood Chill, Mr. Princess, Bloodhounds"
+      "Simple Routes EP release w/ Ray Flanagan, Michelle Gaw"
     ],
-    "link": "https://www.eventbrite.com/e/blood-chill-mr-princess-bloodhounds-tickets-718865454927",
-    "date": "2023-10-19T21:00:00",
+    "link": "https://www.eventbrite.com/e/simple-routes-ep-release-w-ray-flanagan-michelle-gaw-tickets-719554887037",
+    "date": "2023-11-16T21:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "DJ Kishka Happy Hour!"
+      "Tiny Wars, Kat Steih & The Ferals, Xanny Stars, King Buu"
     ],
-    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-718868253297",
-    "date": "2023-10-20T18:00:00",
+    "link": "https://www.eventbrite.com/e/tiny-wars-kat-steih-the-ferals-xanny-stars-king-buu-tickets-719556341387",
+    "date": "2023-11-17T21:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Oktoberfest w/ the Anthony Culkar Band!"
+      "Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest"
     ],
-    "link": "https://www.eventbrite.com/e/oktoberfest-w-the-anthony-culkar-band-tickets-718868654497",
-    "date": "2023-10-20T21:00:00",
+    "link": "https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847",
+    "date": "2023-11-18T20:30:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Duck Butter, Factual Brains, Lowspot"
+      "Jon Spencer, Simon and the Apparatus"
     ],
-    "link": "https://www.eventbrite.com/e/duck-butter-factual-brains-lowspot-tickets-706934228307",
-    "date": "2023-10-22T21:00:00",
+    "link": "https://www.eventbrite.com/e/jon-spencer-simon-and-the-apparatus-tickets-715748231227",
+    "date": "2023-11-25T21:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Class, Disintegration, Knowso, DJ Hausfrau"
+      "Boy Jr., Solon, October Beach Club"
     ],
-    "link": "https://www.eventbrite.com/e/class-disintegration-knowso-dj-hausfrau-tickets-718879236147",
-    "date": "2023-10-23T21:00:00",
+    "link": "https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107",
+    "date": "2023-11-29T21:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Dug, Actual Form, Brain Cave"
+      "Omni"
     ],
-    "link": "https://www.eventbrite.com/e/dug-actual-form-brain-cave-tickets-734930255177",
-    "date": "2023-10-24T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Emily Robb, Material, Swisher, Anteater"
-    ],
-    "link": "https://www.eventbrite.com/e/emily-robb-material-swisher-anteater-tickets-734941960187",
-    "date": "2023-10-26T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Machine Go Boom, Honolulu High, Perfect Pals"
-    ],
-    "link": "https://www.eventbrite.com/e/machine-go-boom-honolulu-high-perfect-pals-tickets-718892876947",
-    "date": "2023-10-27T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "The Cowboys, The Gerds, The Wastemen"
-    ],
-    "link": "https://www.eventbrite.com/e/the-cowboys-the-gerds-the-wastemen-tickets-723137422497",
-    "date": "2023-10-28T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Monday Night Trivia: Halloween Edition!"
-    ],
-    "link": "https://www.eventbrite.com/e/monday-night-trivia-halloween-edition-tickets-719547183997",
-    "date": "2023-10-30T20:00:00",
+    "link": "https://www.eventbrite.com/e/omni-tickets-753608933607",
+    "date": "2024-03-08T21:00:00",
     "venue": "Happy Dog"
   }
 ]

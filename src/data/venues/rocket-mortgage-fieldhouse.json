@@ -1,40 +1,6 @@
 [
   {
     "artist": [
-      "Eagles: The Long Goodbye",
-      "Steve Miller Band"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/eagles231017",
-    "date": "2023-10-17",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
-      "KISS: End of the Road Tour"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/kiss-231022",
-    "date": "2023-10-22",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
-      "Only Treats"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/only-treats-1",
-    "date": "2023-10-23",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
-      "P!NK: TRUSTFALL TOUR",
-      "w/ Grouplove & KidCutUp"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/pnk-trustfall-tour-231108",
-    "date": "2023-11-08",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
       "Depeche Mode: The Memento Mori Tour",
       "DIIV"
     ],
@@ -70,6 +36,14 @@
   },
   {
     "artist": [
+      "24th Greater Cleveland Sports Awards"
+    ],
+    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards",
+    "date": "2024-01-23",
+    "venue": "Rocket Mortgage FieldHouse"
+  },
+  {
+    "artist": [
       "Playboi Carti: Antagonist Tour",
       "with Homixide Gang, Ken Carson and Destroy Lonely"
     ],
@@ -91,6 +65,15 @@
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921",
     "date": "2024-02-29",
+    "venue": "Rocket Mortgage FieldHouse"
+  },
+  {
+    "artist": [
+      "15th Annual Cleveland Bridal Show",
+      "Presented By TL Worldwide Transportation"
+    ],
+    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302",
+    "date": "2024-03-02",
     "venue": "Rocket Mortgage FieldHouse"
   }
 ]

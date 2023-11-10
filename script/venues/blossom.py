@@ -15,7 +15,7 @@ all_shows_list = []
 for show in shows:
   all_shows_data = {} 
   artist = show.find('h3', class_='css-1ptng6s')
-  link = show.find('a', class_='css-1yxfa6u')
+  link = show.find('a', class_='css-1q2nroc')
   date = show.find('time')
   if artist.text.strip() == '2024 Season Tickets':
     ...

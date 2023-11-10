@@ -1,88 +1,6 @@
 [
   {
     "artist": [
-      "Nick Shoulders and The Okay Crawdad: \u201cAll Bad Tour\u201d",
-      "Maddy Kirgo"
-    ],
-    "link": "https://grogshop.gs/event-details/13442118/nick-shoulders-and-the-okay-crawdad-all-bad-tour-",
-    "date": "2023-10-31T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "CSU School of Music presents : The Pop Rock Show"
-    ],
-    "link": "https://grogshop.gs/event-details/13722668/csu-school-of-music-presents-the-pop-rock-show",
-    "date": "2023-11-01T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Telekinetic Yeti",
-      "JD Pinkus",
-      "Slow Wake"
-    ],
-    "link": "https://grogshop.gs/event-details/13704658/telekinetic-yeti-jd-pinkus-slow-wake",
-    "date": "2023-11-02T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: Fetish Ball",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13249318/glamgore-fetish-ball",
-    "date": "2023-11-03T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Airiel, Tallies, Niights, Bleeder"
-    ],
-    "link": "https://grogshop.gs/event-details/13527238/airiel-tallies-niights-bleeder",
-    "date": "2023-11-04T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Party for the Peace Park : A Fundraiser for Coventry Peace Park"
-    ],
-    "link": "https://grogshop.gs/event-details/13631648/party-for-the-peace-park-a-fundraiser-for-coventry-peace-park",
-    "date": "2023-11-05T16:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Skyzoo",
-      "United Grind",
-      "Renegade Metri",
-      "Mighty Misc"
-    ],
-    "link": "https://grogshop.gs/event-details/13713908/skyzoo-w-united-grind",
-    "date": "2023-11-05T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Goatwhore",
-      "Withered",
-      "Spiter",
-      "Axioma"
-    ],
-    "link": "https://grogshop.gs/event-details/13598718/goatwhore-withered-spiter-axioma",
-    "date": "2023-11-08T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Splash Tour: I am DJ Squirt"
-    ],
-    "link": "https://grogshop.gs/event-details/13679818/splash-tour-i-am-dj-squirt",
-    "date": "2023-11-09T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Beauty School Dropout",
       "Not A Toy",
       "Ava Maybee"
@@ -96,25 +14,17 @@
       "Lucero and Jason Boland & The Stragglers"
     ],
     "link": "https://grogshop.gs/event-details/13500788/lucero-and-jason-boland-the-stragglers",
+    "sold_out": true,
     "date": "2023-11-11T20:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "GZA and Fishbone: Truth and Swords Tour",
-      "Beau Young Prince"
-    ],
-    "link": "https://grogshop.gs/event-details/13474718/gza-and-fishbone-truth-and-swords-tour",
-    "date": "2023-11-12T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Lovestruck",
       "Minutes of Mourning",
-      "The Midwest Letdown"
+      "The Midwest Letdown",
+      "Lovers in Reverse"
     ],
-    "link": "https://grogshop.gs/event-details/13814678/lovestruck-minutes-of-mourning-the-midwest-letdown",
+    "link": "https://grogshop.gs/event-details/13814678/minutes-of-mourning-the-midwest-letdown-lovers-in-reverse",
     "date": "2023-11-12T19:30:00",
     "venue": "Grog Shop"
   },
@@ -237,7 +147,7 @@
       "NO/MAS"
     ],
     "link": "https://grogshop.gs/event-details/13470718/brujeria-esto-es-tour-2023",
-    "date": "2023-11-24T18:30:00",
+    "date": "2023-11-24T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -367,6 +277,16 @@
   },
   {
     "artist": [
+      "Lea Marra & The River Boys \"Folky Christmas\"",
+      "Blue Hour",
+      "Austin Hamilton"
+    ],
+    "link": "https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour",
+    "date": "2023-12-10T18:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Local H",
       "Death Pose"
     ],
@@ -376,10 +296,23 @@
   },
   {
     "artist": [
-      "A Wilhelm Scream"
+      "A Wilhelm Scream",
+      "Lowspot",
+      "Low Morale"
     ],
     "link": "https://grogshop.gs/event-details/13709008/a-wilhelm-scream",
     "date": "2023-12-13T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sugardeer \"Good Names For Strays\" Album Release Show",
+      "Dead Links",
+      "Fruitfly",
+      "Joseph Maxwell"
+    ],
+    "link": "https://grogshop.gs/event-details/13840398/sugardeer-good-names-for-strays-album-release-show",
+    "date": "2023-12-14T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -390,6 +323,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
     "date": "2023-12-15T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain"
+    ],
+    "link": "https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain",
+    "date": "2023-12-16T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -424,6 +365,36 @@
   },
   {
     "artist": [
+      "Detention : Christmas Chaos Tour '23",
+      "Lilieae",
+      "Quick Mystery"
+    ],
+    "link": "https://grogshop.gs/event-details/13829358/detention-christmas-chaos-tour-23",
+    "date": "2023-12-21T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Axioma | Inoculation | Paradox Rift | Unvow",
+      "Inoculation",
+      "Paradox Rift",
+      "Unvow"
+    ],
+    "link": "https://grogshop.gs/event-details/13853858/axioma-inoculation-paradox-rift-unvow",
+    "date": "2023-12-22T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Dave Hill",
+      "Mike Polk"
+    ],
+    "link": "https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk",
+    "date": "2023-12-30T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Subliners",
       "Dairy Family",
       "Rrriot",
@@ -449,7 +420,7 @@
       "Lenora's Midnight Rental"
     ],
     "link": "https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics",
-    "date": "2024-01-18T20:00:00",
+    "date": "2024-01-21T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -489,10 +460,29 @@
   },
   {
     "artist": [
+      "The Ocean",
+      "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+      "Shy",
+      "Low"
+    ],
+    "link": "https://grogshop.gs/event-details/13806928/the-ocean",
+    "date": "2024-02-15T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "PORTUGAL. THE MAN"
     ],
     "link": "https://grogshop.gs/event-details/13766078/portugal-the-man",
     "date": "2024-02-17T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "BabyTron"
+    ],
+    "link": "https://grogshop.gs/event-details/13853798/babytron",
+    "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },
   {

@@ -1,63 +1,18 @@
 [
   {
     "artist": [
-      "Your Abduction: A Halloween Dance Party"
+      "Tall Grass Record Release w/ Total Downer, Funeral Proposals"
     ],
-    "link": "https://www.eventbrite.com/e/your-abduction-a-halloween-dance-party-tickets-735795563337",
-    "date": "2023-10-31T20:00:00",
+    "link": "https://www.eventbrite.com/e/tall-grass-record-release-w-total-downer-funeral-proposals-tickets-749603242477",
+    "date": "2023-11-10T21:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Happy Dog Takes on Everything"
+      "The Jagaloons, Oongow!!!, Riptide Suicide"
     ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-719548277267",
-    "date": "2023-11-01T19:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Pons, People in the Daytime, Hiram-Maxim, Bigg Egg"
-    ],
-    "link": "https://www.eventbrite.com/e/pons-people-in-the-daytime-hiram-maxim-bigg-egg-tickets-719548648377",
-    "date": "2023-11-02T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Live Hip-Hop Showcase in the Underdog!"
-    ],
-    "link": "https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-747493070897",
-    "date": "2023-11-03T18:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Loveseat, The Missed, Hyper Viper, Lowspot"
-    ],
-    "link": "https://www.eventbrite.com/e/loveseat-the-missed-hyper-viper-lowspot-tickets-719551928187",
-    "date": "2023-11-03T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Dead Selves, Wig Doubt, Runaway Brother"
-    ],
-    "link": "https://www.eventbrite.com/e/dead-selves-wig-doubt-runaway-brother-tickets-719552720557",
-    "date": "2023-11-04T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-719553502897",
-    "date": "2023-11-06T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "The Whiffs, The Vumms, DJ Jam Jam"
-    ],
-    "link": "https://www.eventbrite.com/e/the-whiffs-the-vumms-dj-jam-jam-tickets-741151051747",
-    "date": "2023-11-09T21:00:00",
+    "link": "https://www.eventbrite.com/e/the-jagaloons-oongow-riptide-suicide-tickets-749604656707",
+    "date": "2023-11-11T21:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -66,6 +21,19 @@
     ],
     "link": "https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787",
     "date": "2023-11-12T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-749602239477",
+    "date": "2023-11-13T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Classical Revolution Cleveland"
+    ],
+    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-752909471497",
+    "date": "2023-11-15T20:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -90,6 +58,30 @@
     ],
     "link": "https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847",
     "date": "2023-11-18T20:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Jon Spencer, Simon and the Apparatus"
+    ],
+    "link": "https://www.eventbrite.com/e/jon-spencer-simon-and-the-apparatus-tickets-715748231227",
+    "date": "2023-11-25T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Boy Jr., Solon, October Beach Club"
+    ],
+    "link": "https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107",
+    "date": "2023-11-29T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Omni"
+    ],
+    "link": "https://www.eventbrite.com/e/omni-tickets-753608933607",
+    "date": "2024-03-08T21:00:00",
     "venue": "Happy Dog"
   }
 ]

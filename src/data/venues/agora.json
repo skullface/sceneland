@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "Mark Normand"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/484281",
-    "date": "2023-11-03T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Grace Potter"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/498022",
-    "date": "2023-11-04T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Teddy Swims, Elley Duh\u00e9"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/488227",
-    "date": "2023-11-05T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Tech N9ne & Hollywood Undead, King Iso"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/493988",
-    "date": "2023-11-06T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "DragonForce, Amaranthe, NanowaR Of Steel, Edge Of Paradise"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/497352",
-    "date": "2023-11-08T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "UNDERTAKER"
     ],
     "link": "https://www.agoracleveland.com/events/detail/492176",
@@ -81,7 +41,7 @@
   },
   {
     "artist": [
-      "Shakey Graves, Rayland Baxter"
+      "Shakey Graves, Rayland Baxter, John Vincent III"
     ],
     "link": "https://www.agoracleveland.com/events/detail/491162",
     "date": "2023-11-16T19:00:00",
@@ -217,6 +177,14 @@
   },
   {
     "artist": [
+      "Kameron Marlowe"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/511283",
+    "date": "2024-02-09T18:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Neck Deep, DRAIN, Bearings, Higher Power"
     ],
     "link": "https://www.agoracleveland.com/events/detail/505282",
@@ -229,14 +197,6 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/508347",
     "date": "2024-02-17T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Darcy & Jer"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/489478",
-    "date": "2024-02-18T19:00:00",
     "venue": "Agora"
   },
   {
@@ -265,6 +225,14 @@
   },
   {
     "artist": [
+      "BabyTron"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/511545",
+    "date": "2024-03-06T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Alkaline Trio, Drug Church"
     ],
     "link": "https://www.agoracleveland.com/events/detail/508072",
@@ -277,6 +245,30 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/503995",
     "date": "2024-03-10T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Joe Pera"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/510001",
+    "date": "2024-03-24T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "JJ Grey & Mofro, w/ Judith Hill"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/511112",
+    "date": "2024-03-29T18:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Benjamin Tod & Lost Dog Street Band"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/511793",
+    "date": "2024-04-19T19:00:00",
     "venue": "Agora"
   },
   {

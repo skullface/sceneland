@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "My Life with the Thrill Kill Kult"
-    ],
-    "link": "https://www.ticketmaster.com/my-life-with-the-thrill-kill-cleveland-ohio-11-02-2023/event/05005E66A08D1245",
-    "date": "2023-11-02T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "SUSTO"
-    ],
-    "link": "https://www.ticketmaster.com/susto-cleveland-ohio-11-03-2023/event/05005EF99EB5345E",
-    "date": "2023-11-03T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Face 2 Face \u2013 A Tribute to Elton John & Billy Joel"
-    ],
-    "link": "https://www.ticketmaster.com/face-2-face-a-tribute-to-cleveland-ohio-11-03-2023/event/05005F320A0E46FB",
-    "date": "2023-11-03T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Corrupt UK"
-    ],
-    "link": "https://www.ticketmaster.com/corrupt-uk-cleveland-ohio-11-03-2023/event/05005F322B415443",
-    "date": "2023-11-03T21:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Mac Sabbath \u2013 More Than Meats The Eye"
-    ],
-    "link": "https://www.ticketmaster.com/mac-sabbath-more-than-meats-the-cleveland-ohio-11-05-2023/event/05005F0292AA22F7",
-    "date": "2023-11-05T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "The Erly"
     ],
     "link": "https://www.ticketmaster.com/the-erly-cleveland-ohio-11-10-2023/event/05005F3ACA91197D",
@@ -53,6 +13,14 @@
     ],
     "link": "https://www.ticketmaster.com/cherry-cleveland-ohio-11-11-2023/event/05005F4D9E9A1928",
     "date": "2023-11-11T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "OG Vern"
+    ],
+    "link": "https://www.ticketmaster.com/og-vern-cleveland-ohio-11-17-2023/event/05005F6244AF7905",
+    "date": "2023-11-17T20:00:00",
     "venue": "Masonic Temple"
   },
   {
@@ -89,9 +57,9 @@
   },
   {
     "artist": [
-      "Versa"
+      "Versa: Irreparable Damage Tour"
     ],
-    "link": "https://www.ticketmaster.com/versa-cleveland-ohio-12-01-2023/event/05005F59EC67459A",
+    "link": "https://www.ticketmaster.com/versa-irreparable-damage-tour-cleveland-ohio-12-01-2023/event/05005F59EC67459A",
     "date": "2023-12-01T20:00:00",
     "venue": "Masonic Temple"
   },
@@ -145,10 +113,42 @@
   },
   {
     "artist": [
+      "Jo Dee Messina \u2013 Heads Carolina, Tails California Tour"
+    ],
+    "link": "https://www.ticketmaster.com/jo-dee-messina-heads-carolina-tails-cleveland-ohio-02-16-2024/event/05005F63BBA85794",
+    "date": "2024-02-16T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "SABAI"
+    ],
+    "link": "https://www.ticketmaster.com/sabai-cleveland-ohio-02-29-2024/event/05005F669F411619",
+    "date": "2024-02-29T18:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "KAIVON \u2013 2024 Ultraviolet Album Tour"
+    ],
+    "link": "https://www.ticketmaster.com/kaivon-2024-ultraviolet-album-tour-cleveland-ohio-03-07-2024/event/05005F66A0991638",
+    "date": "2024-03-07T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "William Black"
     ],
     "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
     "date": "2024-03-22T19:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Blackberry Smoke: Be Right Here Tour"
+    ],
+    "link": "https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6",
+    "date": "2024-03-29T20:00:00",
     "venue": "Masonic Temple"
   }
 ]

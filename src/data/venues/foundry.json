@@ -1,78 +1,6 @@
 [
   {
     "artist": [
-      "HALLOWEEN DANCE PARTY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/halloween-dance-party/",
-    "date": "2023-10-31T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Ouija Macc, Darby O\u2019Trill, A-LOW Rx"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/ouija-macc-darby-otrill/",
-    "date": "2023-11-02T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "The Old Breed, The Brazen Rogues, Hams"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-old-breed-the-brazen-rogues/",
-    "date": "2023-11-03T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Vinyl Party"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/vinyl-party/",
-    "date": "2023-11-04T11:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "She 1 Him 2, Two Forks, Crune"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/she-1-him-2-two-forks-crune/",
-    "date": "2023-11-04T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Pain of Truth, Life\u2019s Question, Vomit Forth, Frenzy"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/pain-of-truth-lifes-question-vomit-forth-frenzy/",
-    "date": "2023-11-06T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "2 Shadows, Critic City, Thrapple"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/2-shadows/",
-    "date": "2023-11-07T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Luna Luna, Solon"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/luna-luna/",
-    "date": "2023-11-08T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Arch Echo, Stellar Circuits"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/arch-echo-stellar-circuits/",
-    "date": "2023-11-09T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Flagman, SUMPP, Melted Bodies, 10,000 Rambos"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/flagman-sumpp-melted-bodies/",
@@ -85,6 +13,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/mystery-skulls/",
     "date": "2023-11-11T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Cast Iron Comedy Showcase"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/",
+    "date": "2023-11-14T20:00:00",
     "venue": "Foundry"
   },
   {
@@ -145,6 +81,14 @@
   },
   {
     "artist": [
+      "Free Drew, Night At Delaney\u2019s, Fat Daddye"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/free-drew-night-at-delaneys-fat-daddye/",
+    "date": "2023-11-25T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Makeout, Lil Lotus, Saceb, Lemonbar, Skippy\u2019s On The Run"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/",
@@ -161,10 +105,58 @@
   },
   {
     "artist": [
+      "A Pop Up Before Christmas"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/a-pop-up-before-christmas/",
+    "date": "2023-12-04T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Boundaries, Foreign Hands, 6Deep, Walking Wounded"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/",
     "date": "2023-12-07T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Paradox Rift, Church & State, Punching Moses, Riparian, 10,000 Rambos"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/",
+    "date": "2023-12-08T19:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Hostile Omish, Violet Ray, The Heart Alarms, SDWB"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/hostile-omish-violet-ray-the-heart-alarms-sdwb/",
+    "date": "2023-12-22T19:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/",
+    "date": "2023-12-31T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "THE BUNNY THE BEAR, Dizasterpiece, Left Unsaid, Audience Of Rain, Seconds of Silence, Behead The Prophet"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-bunny-the-bear-dizasterpiece-left-unsaid-audience-of-rain-seconds-of-silence-behead-the-prophet/",
+    "date": "2024-01-19T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Emo Night Karaoke"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/",
+    "date": "2024-02-16T20:00:00",
     "venue": "Foundry"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Smut and High."
-    ],
-    "link": "https://link.dice.fm/ae9a2a525bd9",
-    "date": "2023-11-10T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "Gimme Gimme Disco"
-    ],
-    "link": "https://link.dice.fm/y3ef543a5dce",
-    "date": "2023-11-10T21:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Alexis Marrero"
     ],
     "link": "https://link.dice.fm/Te4b2e44a449",
@@ -33,19 +17,19 @@
   },
   {
     "artist": [
-      "Pronoun"
-    ],
-    "link": "https://link.dice.fm/z8596180c75d",
-    "date": "2023-11-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Chase Petra and Carpool Tunnel"
     ],
     "link": "https://link.dice.fm/m8113a5c6215",
     "date": "2023-11-14T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pronoun"
+    ],
+    "link": "https://link.dice.fm/z8596180c75d",
+    "date": "2023-11-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -65,19 +49,19 @@
   },
   {
     "artist": [
-      "Katatonia"
-    ],
-    "link": "https://link.dice.fm/pbda085c7995",
-    "date": "2023-11-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Glare"
     ],
     "link": "https://link.dice.fm/P74e67b7b171",
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Katatonia"
+    ],
+    "link": "https://link.dice.fm/pbda085c7995",
+    "date": "2023-11-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -333,6 +317,14 @@
     ],
     "link": "https://link.dice.fm/F86ac2d72f68",
     "date": "2024-03-10T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Kelsy Karter & The Heroines"
+    ],
+    "link": "https://link.dice.fm/v4ba2ce1014e",
+    "date": "2024-03-10T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

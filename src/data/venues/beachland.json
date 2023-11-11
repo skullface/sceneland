@@ -110,6 +110,14 @@
   },
   {
     "artist": [
+      "Neighborhood Night Vinyl Party"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13864778/neighborhood-night-vinyl-party",
+    "date": "2023-11-18T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "PISSE",
       "The Serfs"
     ],
@@ -159,11 +167,11 @@
   },
   {
     "artist": [
-      "King Buu",
       "Slag Genie",
-      "Magnavox's"
+      "Magnavox's",
+      "Flourish"
     ],
-    "link": "https://www.beachlandballroom.com/e/13735708/king-buu-slag-genie-magnavox-s",
+    "link": "https://www.beachlandballroom.com/e/13735708/slag-genie-magnavox-s-flourish",
     "date": "2023-11-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -425,17 +433,21 @@
   },
   {
     "artist": [
-      "Bumpin Uglies"
+      "Bumpin Uglies",
+      "Grilled Lincoln",
+      "Higher Education"
     ],
-    "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies",
+    "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies-grilled-lincoln-higher-education",
     "date": "2024-02-02T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
     "artist": [
-      "Bumpin Uglies"
+      "Bumpin Uglies",
+      "Toby",
+      "C-Level"
     ],
-    "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies",
+    "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies-toby-c-level",
     "date": "2024-02-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -454,6 +466,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane",
     "date": "2024-02-13T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Josh Meloy"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13857318/josh-meloy",
+    "date": "2024-02-17T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

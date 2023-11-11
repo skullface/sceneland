@@ -246,10 +246,10 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Depeche Mode: The Memento Mori Tour', 'DIIV'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/depeche-mode-231110',
-    date: '2023-11-10',
-    venue: 'Rocket Mortgage FieldHouse',
+    artist: ['"Batman" Live in Concert'],
+    link: 'https://www.playhousesquare.org/events/detail/batman-live-in-concert',
+    date: '2024-04-21',
+    venue: 'Playhouse Square',
   },
   {
     artist: ['WWE Monday Night Raw'],
@@ -307,12 +307,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302',
     date: '2024-03-02',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['UNDERTAKER'],
-    link: 'https://www.agoracleveland.com/events/detail/492176',
-    date: '2023-11-10T19:30:00',
-    venue: 'Agora',
   },
   {
     artist: ['Hot Mulligan, Heart Attack Man, Spanish Love Songs, Ben Quad'],
@@ -519,12 +513,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['The Erly'],
-    link: 'https://www.ticketmaster.com/the-erly-cleveland-ohio-11-10-2023/event/05005F3ACA91197D',
-    date: '2023-11-10T20:00:00',
-    venue: 'Masonic Temple',
-  },
-  {
     artist: ['Cherry'],
     link: 'https://www.ticketmaster.com/cherry-cleveland-ohio-11-11-2023/event/05005F4D9E9A1928',
     date: '2023-11-11T20:00:00',
@@ -655,12 +643,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/regurgitation-tickets-716501734977',
     date: '2024-01-27T20:00:00',
     venue: 'No Class',
-  },
-  {
-    artist: ['Zebra'],
-    link: 'https://concerts.livenation.com/zebra-cleveland-ohio-11-10-2023/event/05005EECB3F2419D',
-    date: '2023-11-10T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Dying Fetus: Make Them Beg For Death'],
@@ -917,12 +899,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Beauty School Dropout', 'Not A Toy', 'Ava Maybee'],
-    link: 'https://grogshop.gs/event-details/13522888/beauty-school-dropout',
-    date: '2023-11-10T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Lucero and Jason Boland & The Stragglers'],
     link: 'https://grogshop.gs/event-details/13500788/lucero-and-jason-boland-the-stragglers',
     sold_out: true,
@@ -991,6 +967,7 @@ export const allShows = [
   {
     artist: ['NONAME: Sundial Tour', 'STOUT'],
     link: 'https://grogshop.gs/event-details/13509568/noname-sundial-tour',
+    sold_out: true,
     date: '2023-11-19T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1098,6 +1075,12 @@ export const allShows = [
     artist: ['Immolation, Castrator, Atomic Witch'],
     link: 'https://grogshop.gs/event-details/13792448/immolation-castrator-atomic-witch',
     date: '2023-12-03T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Melladramatics', 'Fat Daddye', 'SHA KU SE', 'Prithee'],
+    link: 'https://grogshop.gs/event-details/13864798/melladramatics-fat-daddye-sha-ku-se-prithee',
+    date: '2023-12-05T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1320,12 +1303,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Tall Grass Record Release w/ Total Downer, Funeral Proposals'],
-    link: 'https://www.eventbrite.com/e/tall-grass-record-release-w-total-downer-funeral-proposals-tickets-749603242477',
-    date: '2023-11-10T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['The Jagaloons, Oongow!!!, Riptide Suicide'],
     link: 'https://www.eventbrite.com/e/the-jagaloons-oongow-riptide-suicide-tickets-749604656707',
     date: '2023-11-11T21:00:00',
@@ -1459,6 +1436,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Neighborhood Night Vinyl Party'],
+    link: 'https://www.beachlandballroom.com/e/13864778/neighborhood-night-vinyl-party',
+    date: '2023-11-18T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['PISSE', 'The Serfs'],
     link: 'https://www.beachlandballroom.com/e/13521728/pisse-the-serfs',
     date: '2023-11-18T20:30:00',
@@ -1489,8 +1472,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['King Buu', 'Slag Genie', "Magnavox's"],
-    link: 'https://www.beachlandballroom.com/e/13735708/king-buu-slag-genie-magnavox-s',
+    artist: ['Slag Genie', "Magnavox's", 'Flourish'],
+    link: 'https://www.beachlandballroom.com/e/13735708/slag-genie-magnavox-s-flourish',
     date: '2023-11-26T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1682,14 +1665,14 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Bumpin Uglies'],
-    link: 'https://www.beachlandballroom.com/e/13649028/bumpin-uglies',
+    artist: ['Bumpin Uglies', 'Grilled Lincoln', 'Higher Education'],
+    link: 'https://www.beachlandballroom.com/e/13649028/bumpin-uglies-grilled-lincoln-higher-education',
     date: '2024-02-02T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Bumpin Uglies'],
-    link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies',
+    artist: ['Bumpin Uglies', 'Toby', 'C-Level'],
+    link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies-toby-c-level',
     date: '2024-02-03T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1703,6 +1686,12 @@ export const allShows = [
     artist: ['Deap Vally', 'Sloppy Jane'],
     link: 'https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane',
     date: '2024-02-13T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Josh Meloy'],
+    link: 'https://www.beachlandballroom.com/e/13857318/josh-meloy',
+    date: '2024-02-17T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -1784,18 +1773,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Smut and High.'],
-    link: 'https://link.dice.fm/ae9a2a525bd9',
-    date: '2023-11-10T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
-    artist: ['Gimme Gimme Disco'],
-    link: 'https://link.dice.fm/y3ef543a5dce',
-    date: '2023-11-10T21:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Alexis Marrero'],
     link: 'https://link.dice.fm/Te4b2e44a449',
     date: '2023-11-12T18:00:00-05:00',
@@ -1808,16 +1785,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Pronoun'],
-    link: 'https://link.dice.fm/z8596180c75d',
-    date: '2023-11-14T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Chase Petra and Carpool Tunnel'],
     link: 'https://link.dice.fm/m8113a5c6215',
     date: '2023-11-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Pronoun'],
+    link: 'https://link.dice.fm/z8596180c75d',
+    date: '2023-11-14T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Moon Walker'],
@@ -1832,16 +1809,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Katatonia'],
-    link: 'https://link.dice.fm/pbda085c7995',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Glare'],
     link: 'https://link.dice.fm/P74e67b7b171',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Katatonia'],
+    link: 'https://link.dice.fm/pbda085c7995',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Post Saga'],
@@ -2036,6 +2013,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Kelsy Karter & The Heroines'],
+    link: 'https://link.dice.fm/v4ba2ce1014e',
+    date: '2024-03-10T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Video Age'],
     link: 'https://link.dice.fm/M31d005f3d08',
     date: '2024-03-14T19:00:00-04:00',
@@ -2112,12 +2095,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Flagman, SUMPP, Melted Bodies, 10,000 Rambos'],
-    link: 'https://www.foundryconcertclub.com/tm-event/flagman-sumpp-melted-bodies/',
-    date: '2023-11-10T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Mystery Skulls'],

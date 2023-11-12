@@ -54,18 +54,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Pete Correale'],
-    link: 'https://www.playhousesquare.org/events/detail/pete-correale-2',
-    date: '2023-11-11',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Festival of Laughs'],
-    link: 'https://www.playhousesquare.org/events/detail/festival-of-laughs-2',
-    date: '2023-11-11',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Misfit: A Gary Gulman Stand Up Comedy and Book Tour'],
     link: 'https://www.playhousesquare.org/events/detail/gary-gulman-misfit-book-tour',
     date: '2023-11-16',
@@ -309,12 +297,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Hot Mulligan, Heart Attack Man, Spanish Love Songs, Ben Quad'],
-    link: 'https://www.agoracleveland.com/events/detail/495803',
-    date: '2023-11-11T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Vir Das'],
     link: 'https://www.agoracleveland.com/events/detail/492353',
     date: '2023-11-12T18:00:00',
@@ -511,12 +493,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/507744',
     date: '2024-05-10T18:30:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Cherry'],
-    link: 'https://www.ticketmaster.com/cherry-cleveland-ohio-11-11-2023/event/05005F4D9E9A1928',
-    date: '2023-11-11T20:00:00',
-    venue: 'Masonic Temple',
   },
   {
     artist: ['OG Vern'],
@@ -897,13 +873,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
     date: '2024-08-27T18:30:00',
     venue: 'House of Blues',
-  },
-  {
-    artist: ['Lucero and Jason Boland & The Stragglers'],
-    link: 'https://grogshop.gs/event-details/13500788/lucero-and-jason-boland-the-stragglers',
-    sold_out: true,
-    date: '2023-11-11T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Minutes of Mourning', 'The Midwest Letdown', 'Lovers in Reverse'],
@@ -1303,12 +1272,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['The Jagaloons, Oongow!!!, Riptide Suicide'],
-    link: 'https://www.eventbrite.com/e/the-jagaloons-oongow-riptide-suicide-tickets-749604656707',
-    date: '2023-11-11T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg'],
     link: 'https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787',
     date: '2023-11-12T21:00:00',
@@ -1362,24 +1325,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/omni-tickets-753608933607',
     date: '2024-03-08T21:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['Trash TV', 'Biitchseat', 'Full 90', 'Barricade Baby'],
-    link: 'https://www.beachlandballroom.com/e/13834048/trash-tv-biitchseat-full-90-barricade-baby',
-    date: '2023-11-10T18:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Constant Smiles', 'Lunacy', 'Orefice Roth'],
-    link: 'https://www.beachlandballroom.com/e/13682998/constant-smiles-lunacy-orefice-roth',
-    date: '2023-11-10T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Beachland Lunch', '11am to 4pm'],
-    link: 'https://www.beachlandballroom.com/e/13834128/beachland-lunch-11am-to-4pm',
-    date: '2023-11-11T11:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Pre/Post Party with DJ YEE-HAW'],
@@ -2062,7 +2007,7 @@ export const allShows = [
   },
   {
     artist: ['Chloe Ament + Tedious & Brief'],
-    link: 'https://www.ticketweb.com/event/chloe-ament-tedious-brief-musica-tickets/13500048?pl=celebrityetc&REFID=clientsitewpecheck',
+    link: 'https://www.celebrityetc.com/event/13500048/chloe-ament-tedious-brief',
     date: '2023-11-11T20:00:00',
     venue: 'Musica Akron',
   },
@@ -2095,12 +2040,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Mystery Skulls'],
-    link: 'https://www.foundryconcertclub.com/tm-event/mystery-skulls/',
-    date: '2023-11-11T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Cast Iron Comedy Showcase'],

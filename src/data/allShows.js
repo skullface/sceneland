@@ -144,12 +144,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Joanne Shaw Taylor'],
-    link: 'https://www.playhousesquare.org/events/detail/joanne-shaw-taylor',
-    date: '2023-11-12',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['GEDDY LEE'],
     link: 'https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation',
     date: '2023-11-19',
@@ -295,12 +289,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302',
     date: '2024-03-02',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Vir Das'],
-    link: 'https://www.agoracleveland.com/events/detail/492353',
-    date: '2023-11-12T18:00:00',
-    venue: 'Agora',
   },
   {
     artist: ['Pete Davidson Live'],
@@ -875,12 +863,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Minutes of Mourning', 'The Midwest Letdown', 'Lovers in Reverse'],
-    link: 'https://grogshop.gs/event-details/13814678/minutes-of-mourning-the-midwest-letdown-lovers-in-reverse',
-    date: '2023-11-12T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13709168/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2023-11-13T20:00:00',
@@ -1270,12 +1252,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13745648/mike-w-special-guests',
     date: '2024-04-21T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['The Metric Ton, Touchdown Jesus, Chum Lord, Bigg Egg'],
-    link: 'https://www.eventbrite.com/e/the-metric-ton-touchdown-jesus-chum-lord-bigg-egg-tickets-719554134787',
-    date: '2023-11-12T21:00:00',
-    venue: 'Happy Dog',
   },
   {
     link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-749602239477',
@@ -1718,28 +1694,16 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Alexis Marrero'],
-    link: 'https://link.dice.fm/Te4b2e44a449',
-    date: '2023-11-12T18:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['The Hotelier + Foxing'],
-    link: 'https://link.dice.fm/h345331ac2a1',
-    date: '2023-11-12T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
+    artist: ['Pronoun'],
+    link: 'https://link.dice.fm/z8596180c75d',
+    date: '2023-11-14T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Chase Petra and Carpool Tunnel'],
     link: 'https://link.dice.fm/m8113a5c6215',
     date: '2023-11-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Pronoun'],
-    link: 'https://link.dice.fm/z8596180c75d',
-    date: '2023-11-14T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Moon Walker'],
@@ -1754,12 +1718,6 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Glare'],
-    link: 'https://link.dice.fm/P74e67b7b171',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Katatonia'],
     link: 'https://link.dice.fm/pbda085c7995',
     date: '2023-11-17T19:00:00-05:00',
@@ -1770,6 +1728,12 @@ export const allShows = [
     link: 'https://link.dice.fm/r10827f02b56',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Glare'],
+    link: 'https://link.dice.fm/P74e67b7b171',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Scene Queen'],
@@ -2004,12 +1968,6 @@ export const allShows = [
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Chloe Ament + Tedious & Brief'],
-    link: 'https://www.celebrityetc.com/event/13500048/chloe-ament-tedious-brief',
-    date: '2023-11-11T20:00:00',
-    venue: 'Musica Akron',
   },
   {
     artist: ['Jeff Buckley Tribute'],

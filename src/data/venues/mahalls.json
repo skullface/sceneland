@@ -1,19 +1,11 @@
 [
   {
     "artist": [
-      "Alexis Marrero"
+      "Pronoun"
     ],
-    "link": "https://link.dice.fm/Te4b2e44a449",
-    "date": "2023-11-12T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Hotelier + Foxing"
-    ],
-    "link": "https://link.dice.fm/h345331ac2a1",
-    "date": "2023-11-12T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    "link": "https://link.dice.fm/z8596180c75d",
+    "date": "2023-11-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -22,14 +14,6 @@
     "link": "https://link.dice.fm/m8113a5c6215",
     "date": "2023-11-14T19:00:00-05:00",
     "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Pronoun"
-    ],
-    "link": "https://link.dice.fm/z8596180c75d",
-    "date": "2023-11-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -49,14 +33,6 @@
   },
   {
     "artist": [
-      "Glare"
-    ],
-    "link": "https://link.dice.fm/P74e67b7b171",
-    "date": "2023-11-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Katatonia"
     ],
     "link": "https://link.dice.fm/pbda085c7995",
@@ -70,6 +46,14 @@
     "link": "https://link.dice.fm/r10827f02b56",
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Glare"
+    ],
+    "link": "https://link.dice.fm/P74e67b7b171",
+    "date": "2023-11-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [

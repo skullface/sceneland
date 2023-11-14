@@ -30,6 +30,12 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: ['Chicago And Earth, Wind & Fire: Heart & Soul Tour 2024'],
+    link: 'https://concerts.livenation.com/chicago-and-earth-wind-fire-heart-cuyahoga-falls-ohio-07-16-2024/event/05005F6715F764CE',
+    date: '2024-07-16T19:30:00',
+    venue: 'Blossom',
+  },
+  {
     artist: ['Alanis Morissette: The Triple Moon Tour'],
     link: 'https://concerts.livenation.com/alanis-morissette-the-triple-moon-tour-cuyahoga-falls-ohio-07-17-2024/event/05005F640FEC5BB3',
     date: '2024-07-17T19:00:00',
@@ -234,6 +240,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Sesame Street Live! Say Hello'],
+    link: 'https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello',
+    date: '2024-04-24',
+    venue: 'Playhouse Square',
+  },
+  {
     artist: ['WWE Monday Night Raw'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/wwe-monday-night-raw-231211',
     date: '2023-12-11',
@@ -276,6 +288,15 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
+    artist: [
+      'Drake with J. Cole',
+      'It\u2019s All A Blur Tour \u2013 Big As The What?',
+    ],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/drake-240224',
+    date: '2024-02-24',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
     artist: ['Aerosmith: PEACE OUT The Farewell Tour with The Black Crowes'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2024-02-29',
@@ -289,18 +310,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302',
     date: '2024-03-02',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Pete Davidson Live'],
-    link: 'https://www.agoracleveland.com/events/detail/500438',
-    date: '2023-11-13T17:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Pete Davidson Live'],
-    link: 'https://www.agoracleveland.com/events/detail/500766',
-    date: '2023-11-13T20:00:00',
-    venue: 'Agora',
   },
   {
     artist: ['Shakey Graves, Rayland Baxter, John Vincent III'],
@@ -459,6 +468,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Bianca Del Rio'],
+    link: 'https://www.agoracleveland.com/events/detail/512578',
+    date: '2024-03-22T19:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Joe Pera'],
     link: 'https://www.agoracleveland.com/events/detail/510001',
     date: '2024-03-24T18:00:00',
@@ -480,6 +495,12 @@ export const allShows = [
     artist: ['Our Last Night, Broadside, Normandie'],
     link: 'https://www.agoracleveland.com/events/detail/507744',
     date: '2024-05-10T18:30:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Kathy Griffin'],
+    link: 'https://www.agoracleveland.com/events/detail/512472',
+    date: '2024-05-11T19:00:00',
     venue: 'Agora',
   },
   {
@@ -583,12 +604,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6',
     date: '2024-03-29T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['FULL OF HELL'],
-    link: 'https://www.eventbrite.com/e/full-of-hell-tickets-654945308047',
-    date: '2023-11-13T19:00:00',
-    venue: 'No Class',
   },
   {
     artist: ['BODY VOID'],
@@ -815,6 +830,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['The Castellows: On Tour'],
+    link: 'https://concerts.livenation.com/the-castellows-on-tour-cleveland-ohio-03-15-2024/event/05005F67E3254ABD',
+    date: '2024-03-15T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Otoboke Beaver'],
     link: 'https://concerts.livenation.com/otoboke-beaver-cleveland-ohio-03-15-2024/event/05005F4BEA3D36FC',
     date: '2024-03-15T19:00:00',
@@ -861,12 +882,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
     date: '2024-08-27T18:30:00',
     venue: 'House of Blues',
-  },
-  {
-    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
-    link: 'https://grogshop.gs/event-details/13709168/make-em-laugh-mondays-hosted-by-kevin-ford',
-    date: '2023-11-13T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Hot Goss: The Improvised Musical'],
@@ -1254,9 +1269,13 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    link: 'https://www.eventbrite.com/e/monday-night-trivia-tickets-749602239477',
-    date: '2023-11-13T20:00:00',
-    venue: 'Happy Dog',
+    artist: [
+      'Royel Otis: PRATTS & PAIN: North America Tour 2024',
+      'Girl and Girl',
+    ],
+    link: 'https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024',
+    date: '2024-04-28T20:00:00',
+    venue: 'Grog Shop',
   },
   {
     artist: ['Classical Revolution Cleveland'],
@@ -1301,24 +1320,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/omni-tickets-753608933607',
     date: '2024-03-08T21:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['Pre/Post Party with DJ YEE-HAW'],
-    link: 'https://www.beachlandballroom.com/e/13834028/pre-post-party-with-dj-yee-haw',
-    date: '2023-11-12T18:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['S.G. Goodman', 'Why Bonnie'],
-    link: 'https://www.beachlandballroom.com/e/13270968/s-g-goodman-why-bonnie',
-    date: '2023-11-12T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['The Hotelier + Foxing'],
-    link: 'https://www.beachlandballroom.com/e/13338788/the-hotelier-foxing',
-    date: '2023-11-12T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['The Way Down Wanderers', 'The Chatfield Boys'],
@@ -1385,6 +1386,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13645718/rumpke-mountain-boys-dupree-s-dead-band-whiskey-drinks',
     date: '2023-11-24T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Beachland Lunch'],
+    link: 'https://www.beachlandballroom.com/e/13873058/beachland-lunch',
+    date: '2023-11-25T11:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Rumpke Mountain Boys', 'The Stolen Faces', 'Sugar Mules'],
@@ -1538,6 +1545,15 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: [
+      '"Ain\'t It Fun" Graphic Novel Book',
+      'Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly',
+    date: '2023-12-17T19:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Lung', 'Honeyland', 'The Brakes'],
     link: 'https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes',
     date: '2023-12-21T20:00:00',
@@ -1670,6 +1686,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['The Crane Wives'],
+    link: 'https://www.beachlandballroom.com/e/13744368/the-crane-wives',
+    date: '2024-04-03T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Steve Forbert'],
     link: 'https://www.beachlandballroom.com/e/13757928/steve-forbert',
     date: '2024-04-05T19:00:00',
@@ -1718,12 +1740,6 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Katatonia'],
-    link: 'https://link.dice.fm/pbda085c7995',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Post Saga'],
     link: 'https://link.dice.fm/r10827f02b56',
     date: '2023-11-17T19:00:00-05:00',
@@ -1734,6 +1750,12 @@ export const allShows = [
     link: 'https://link.dice.fm/P74e67b7b171',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Katatonia'],
+    link: 'https://link.dice.fm/pbda085c7995',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Scene Queen'],
@@ -1904,6 +1926,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['No Vacation'],
+    link: 'https://link.dice.fm/E104869cec1b',
+    date: '2024-02-14T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Indigo De Souza'],
     link: 'https://link.dice.fm/xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
@@ -1967,6 +1995,12 @@ export const allShows = [
     artist: ['Jeffrey Martin'],
     link: 'https://link.dice.fm/ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Los Campesinos!'],
+    link: 'https://link.dice.fm/f53f6c428bf6',
+    date: '2024-06-21T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {

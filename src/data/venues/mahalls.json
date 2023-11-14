@@ -33,14 +33,6 @@
   },
   {
     "artist": [
-      "Katatonia"
-    ],
-    "link": "https://link.dice.fm/pbda085c7995",
-    "date": "2023-11-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Post Saga"
     ],
     "link": "https://link.dice.fm/r10827f02b56",
@@ -54,6 +46,14 @@
     "link": "https://link.dice.fm/P74e67b7b171",
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Katatonia"
+    ],
+    "link": "https://link.dice.fm/pbda085c7995",
+    "date": "2023-11-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -281,6 +281,14 @@
   },
   {
     "artist": [
+      "No Vacation"
+    ],
+    "link": "https://link.dice.fm/E104869cec1b",
+    "date": "2024-02-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Indigo De Souza"
     ],
     "link": "https://link.dice.fm/xb050bcf0cd0",
@@ -365,6 +373,14 @@
     ],
     "link": "https://link.dice.fm/ndd45cda1606",
     "date": "2024-05-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Los Campesinos!"
+    ],
+    "link": "https://link.dice.fm/f53f6c428bf6",
+    "date": "2024-06-21T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   }
 ]

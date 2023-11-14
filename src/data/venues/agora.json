@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Pete Davidson Live"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/500438",
-    "date": "2023-11-13T17:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Pete Davidson Live"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/500766",
-    "date": "2023-11-13T20:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Shakey Graves, Rayland Baxter, John Vincent III"
     ],
     "link": "https://www.agoracleveland.com/events/detail/491162",
@@ -225,6 +209,14 @@
   },
   {
     "artist": [
+      "Bianca Del Rio"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/512578",
+    "date": "2024-03-22T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Joe Pera"
     ],
     "link": "https://www.agoracleveland.com/events/detail/510001",
@@ -253,6 +245,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/507744",
     "date": "2024-05-10T18:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Kathy Griffin"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/512472",
+    "date": "2024-05-11T19:00:00",
     "venue": "Agora"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13709168/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2023-11-13T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Hot Goss: The Improvised Musical"
     ],
     "link": "https://grogshop.gs/event-details/13799628/hot-goss-the-improvised-musical",
@@ -493,6 +485,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13745648/mike-w-special-guests",
     "date": "2024-04-21T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Royel Otis: PRATTS & PAIN: North America Tour 2024",
+      "Girl and Girl"
+    ],
+    "link": "https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024",
+    "date": "2024-04-28T20:00:00",
     "venue": "Grog Shop"
   }
 ]

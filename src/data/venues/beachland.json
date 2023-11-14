@@ -1,31 +1,6 @@
 [
   {
     "artist": [
-      "Pre/Post Party with DJ YEE-HAW"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13834028/pre-post-party-with-dj-yee-haw",
-    "date": "2023-11-12T18:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "S.G. Goodman",
-      "Why Bonnie"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13270968/s-g-goodman-why-bonnie",
-    "date": "2023-11-12T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "The Hotelier + Foxing"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13338788/the-hotelier-foxing",
-    "date": "2023-11-12T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "The Way Down Wanderers",
       "The Chatfield Boys"
     ],
@@ -124,6 +99,14 @@
     "link": "https://www.beachlandballroom.com/e/13645718/rumpke-mountain-boys-dupree-s-dead-band-whiskey-drinks",
     "date": "2023-11-24T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Lunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13873058/beachland-lunch",
+    "date": "2023-11-25T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -337,6 +320,15 @@
   },
   {
     "artist": [
+      "\"Ain't It Fun\" Graphic Novel Book",
+      "Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly",
+    "date": "2023-12-17T19:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Lung",
       "Honeyland",
       "The Brakes"
@@ -519,6 +511,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
     "date": "2024-03-19T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "The Crane Wives"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13744368/the-crane-wives",
+    "date": "2024-04-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

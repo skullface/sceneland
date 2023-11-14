@@ -238,5 +238,13 @@
     "link": "https://www.playhousesquare.org/events/detail/batman-live-in-concert",
     "date": "2024-04-21",
     "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Sesame Street Live! Say Hello"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello",
+    "date": "2024-04-24",
+    "venue": "Playhouse Square"
   }
 ]

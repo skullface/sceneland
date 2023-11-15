@@ -93,10 +93,9 @@
   {
     "artist": [
       "Rumpke Mountain Boys",
-      "Dupree's Dead Band",
       "Whiskey Drinks"
     ],
-    "link": "https://www.beachlandballroom.com/e/13645718/rumpke-mountain-boys-dupree-s-dead-band-whiskey-drinks",
+    "link": "https://www.beachlandballroom.com/e/13645718/rumpke-mountain-boys-whiskey-drinks",
     "date": "2023-11-24T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -140,9 +139,10 @@
   {
     "artist": [
       "Urban Heat",
-      "Rare DM"
+      "Rare DM",
+      "DJ Uvala"
     ],
-    "link": "https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm",
+    "link": "https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvala",
     "date": "2023-11-30T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -339,11 +339,30 @@
   },
   {
     "artist": [
+      "Radio Dummies",
+      "The Big Leagues",
+      "Diet Smiles"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13246603/radio-dummies-the-big-leagues-diet-smiles",
+    "date": "2023-12-22T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Into The Blue"
     ],
     "link": "https://www.beachlandballroom.com/e/13792508/into-the-blue",
     "date": "2023-12-22T21:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Austin Stambaugh's Electric Weepers",
+      "The Merry Go-Rounders"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders",
+    "date": "2023-12-28T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -490,9 +509,10 @@
   },
   {
     "artist": [
-      "Tophouse"
+      "Tophouse",
+      "Good Morning Bedlam"
     ],
-    "link": "https://www.beachlandballroom.com/e/13718918/tophouse",
+    "link": "https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam",
     "date": "2024-03-14T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -512,6 +532,22 @@
     "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
     "date": "2024-03-19T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Shovels & Rope"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13856508/shovels-rope",
+    "date": "2024-03-24T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Post Sex Nachos"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13708828/post-sex-nachos",
+    "date": "2024-03-26T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -551,6 +587,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13457108/ty-segall",
     "date": "2024-05-05T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Osees"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13787568/osees",
+    "date": "2024-10-20T20:30:00",
     "venue": "Beachland Ballroom"
   }
 ]

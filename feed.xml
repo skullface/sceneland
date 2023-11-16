@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Nov 2023 09:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 09:06:07 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Noah Kahan: We'll All Be Here Forever Tour at Blossom]]></title>
@@ -742,13 +742,6 @@
             <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Petey at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Petey at House of Blues on Wednesday, November 15, 2023, 07:00 PM: https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235]]></description>
-            <link>https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235</guid>
-            <pubDate>Wed, 15 Nov 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PlanBri Live at House of Blues]]></title>
             <description><![CDATA[Get tickets to PlanBri Live at House of Blues on Thursday, November 16, 2023, 06:30 PM: https://concerts.livenation.com/planbri-live-cleveland-ohio-11-16-2023/event/05005F18F19863AA]]></description>
             <link>https://concerts.livenation.com/planbri-live-cleveland-ohio-11-16-2023/event/05005F18F19863AA</link>
@@ -1064,13 +1057,6 @@
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, November 15, 2023, 08:00 PM: https://grogshop.gs/event-details/13799568/midnight-rental-presents-secret-movie-night]]></description>
-            <link>https://grogshop.gs/event-details/13799568/midnight-rental-presents-secret-movie-night</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13799568/midnight-rental-presents-secret-movie-night</guid>
-            <pubDate>Wed, 15 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Myth and Company Single Release "OCB", Myth and Company, Burning River, Robbie Allan & the Loveshack at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Myth and Company Single Release "OCB", Myth and Company, Burning River, Robbie Allan & the Loveshack at Grog Shop on Thursday, November 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13597838/myth-and-company-single-release-ocb-]]></description>
             <link>https://grogshop.gs/event-details/13597838/myth-and-company-single-release-ocb-</link>
@@ -1239,6 +1225,13 @@
             <pubDate>Sat, 09 Dec 2023 11:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Obnox: Record Release Show, Muamin Collective, This Moment In Black History, Malik X, MuAmin Collective at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Obnox: Record Release Show, Muamin Collective, This Moment In Black History, Malik X, MuAmin Collective at Grog Shop on Saturday, December 9, 2023, 08:30 PM: https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x]]></description>
+            <link>https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x</guid>
+            <pubDate>Sat, 09 Dec 2023 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lea Marra & The River Boys "Folky Christmas", Blue Hour, Austin Hamilton at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Lea Marra & The River Boys "Folky Christmas", Blue Hour, Austin Hamilton at Grog Shop on Sunday, December 10, 2023, 06:30 PM: https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour]]></description>
             <link>https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour</link>
@@ -1295,6 +1288,13 @@
             <pubDate>Sun, 17 Dec 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, December 18, 2023, 08:00 PM: https://grogshop.gs/event-details/13251973/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
+            <link>https://grogshop.gs/event-details/13251973/make-em-laugh-mondays-hosted-by-kevin-ford</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13251973/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
+            <pubDate>Mon, 18 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, December 20, 2023, 08:00 PM: https://grogshop.gs/event-details/13799598/midnight-rental-presents-secret-movie-night]]></description>
             <link>https://grogshop.gs/event-details/13799598/midnight-rental-presents-secret-movie-night</link>
@@ -1316,11 +1316,25 @@
             <pubDate>Fri, 22 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Modern Electric's Northcoast Christmas, Papi and the Smears, Dive Bombs at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Modern Electric's Northcoast Christmas, Papi and the Smears, Dive Bombs at Grog Shop on Saturday, December 23, 2023, 08:30 PM: https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas]]></description>
+            <link>https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas</guid>
+            <pubDate>Sat, 23 Dec 2023 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Christmas Comedy Show hosted by Spike Lou, Gene Miller, and Kee Silly at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Christmas Comedy Show hosted by Spike Lou, Gene Miller, and Kee Silly at Grog Shop on Sunday, December 24, 2023, 06:00 PM: https://grogshop.gs/event-details/13247703/christmas-comedy-show-hosted-by-spike-lou-gene-miller-and-kee-silly]]></description>
             <link>https://grogshop.gs/event-details/13247703/christmas-comedy-show-hosted-by-spike-lou-gene-miller-and-kee-silly</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13247703/christmas-comedy-show-hosted-by-spike-lou-gene-miller-and-kee-silly</guid>
             <pubDate>Sun, 24 Dec 2023 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman at Grog Shop on Friday, December 29, 2023, 08:30 PM: https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman]]></description>
+            <link>https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman</guid>
+            <pubDate>Fri, 29 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dave Hill, Mike Polk at Grog Shop]]></title>
@@ -1335,6 +1349,20 @@
             <link>https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision</guid>
             <pubDate>Wed, 03 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, January 10, 2024, 08:00 PM: https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night]]></description>
+            <link>https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night</guid>
+            <pubDate>Wed, 10 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, January 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
+            <link>https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
+            <pubDate>Mon, 15 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TORRES, Aisha Burns at Grog Shop]]></title>
@@ -1356,6 +1384,13 @@
             <link>https://grogshop.gs/event-details/13720188/wednesday</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13720188/wednesday</guid>
             <pubDate>Sun, 28 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, January 29, 2024, 08:00 PM: https://grogshop.gs/event-details/13251993/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
+            <link>https://grogshop.gs/event-details/13251993/make-em-laugh-mondays-hosted-by-kevin-ford</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13251993/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
+            <pubDate>Mon, 29 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Record Company: Roll With It Tour, Jesse Ahern at Grog Shop]]></title>
@@ -1415,10 +1450,10 @@
         </item>
         <item>
             <title><![CDATA[Mannequin Pussy, Soul Glo at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Mannequin Pussy, Soul Glo at Grog Shop on Friday, April 12, 2024, 08:00 PM: https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo]]></description>
+            <description><![CDATA[Get tickets to Mannequin Pussy, Soul Glo at Grog Shop on Friday, April 12, 2024, 08:30 PM: https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo]]></description>
             <link>https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo</guid>
-            <pubDate>Fri, 12 Apr 2024 20:00:00 GMT</pubDate>
+            <pubDate>Fri, 12 Apr 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MIKE , Special Guests at Grog Shop]]></title>
@@ -1433,13 +1468,6 @@
             <link>https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024</guid>
             <pubDate>Sun, 28 Apr 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Classical Revolution Cleveland at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Classical Revolution Cleveland at Happy Dog on Wednesday, November 15, 2023, 08:00 PM: https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-752909471497]]></description>
-            <link>https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-752909471497</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-752909471497</guid>
-            <pubDate>Wed, 15 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simple Routes EP release w/ Ray Flanagan, Michelle Gaw at Happy Dog]]></title>
@@ -1482,13 +1510,6 @@
             <link>https://www.eventbrite.com/e/omni-tickets-753608933607</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/omni-tickets-753608933607</guid>
             <pubDate>Fri, 08 Mar 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Way Down Wanderers, The Chatfield Boys at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Way Down Wanderers, The Chatfield Boys at Beachland Tavern on Tuesday, November 14, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers-the-chatfield-boys]]></description>
-            <link>https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers-the-chatfield-boys</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers-the-chatfield-boys</guid>
-            <pubDate>Tue, 14 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hembree, Detention, Black Island Condors at Beachland Tavern]]></title>
@@ -1806,10 +1827,10 @@
             <pubDate>Fri, 02 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bumpin Uglies, Toby, C-Level at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Bumpin Uglies, Toby, C-Level at Beachland Ballroom on Saturday, February 3, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13649068/bumpin-uglies-toby-c-level]]></description>
-            <link>https://www.beachlandballroom.com/e/13649068/bumpin-uglies-toby-c-level</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13649068/bumpin-uglies-toby-c-level</guid>
+            <title><![CDATA[Bumpin Uglies, TobyRaps, C-Level at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Bumpin Uglies, TobyRaps, C-Level at Beachland Ballroom on Saturday, February 3, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level]]></description>
+            <link>https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level</guid>
             <pubDate>Sat, 03 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1825,6 +1846,13 @@
             <link>https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane</guid>
             <pubDate>Tue, 13 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mia x Ally at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Mia x Ally at Beachland Ballroom on Wednesday, February 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13865838/mia-x-ally]]></description>
+            <link>https://www.beachlandballroom.com/e/13865838/mia-x-ally</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13865838/mia-x-ally</guid>
+            <pubDate>Wed, 14 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Josh Meloy at Beachland Ballroom]]></title>
@@ -1911,6 +1939,13 @@
             <pubDate>Tue, 26 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pacific Dub at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Pacific Dub at Beachland Tavern on Wednesday, March 27, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13247243/pacific-dub]]></description>
+            <link>https://www.beachlandballroom.com/e/13247243/pacific-dub</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13247243/pacific-dub</guid>
+            <pubDate>Wed, 27 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Crane Wives at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to The Crane Wives at Beachland Ballroom on Wednesday, April 3, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13744368/the-crane-wives]]></description>
             <link>https://www.beachlandballroom.com/e/13744368/the-crane-wives</link>
@@ -1953,18 +1988,18 @@
             <pubDate>Sun, 20 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moon Walker at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Moon Walker at Mahall’s on Thursday, November 16, 2023, 12:00 AM: https://link.dice.fm/od15100b5387]]></description>
-            <link>https://link.dice.fm/od15100b5387</link>
-            <guid isPermaLink="true">https://link.dice.fm/od15100b5387</guid>
-            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dizgo, Yam Yam, Jaluski  at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Dizgo, Yam Yam, Jaluski  at Mahall’s on Friday, November 17, 2023, 12:00 AM: https://link.dice.fm/Af1e609d01e2]]></description>
             <link>https://link.dice.fm/Af1e609d01e2</link>
             <guid isPermaLink="true">https://link.dice.fm/Af1e609d01e2</guid>
             <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post Saga at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Post Saga at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/r10827f02b56]]></description>
+            <link>https://link.dice.fm/r10827f02b56</link>
+            <guid isPermaLink="true">https://link.dice.fm/r10827f02b56</guid>
+            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glare at Mahall’s Apartment]]></title>
@@ -1978,13 +2013,6 @@
             <description><![CDATA[Get tickets to Katatonia at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/pbda085c7995]]></description>
             <link>https://link.dice.fm/pbda085c7995</link>
             <guid isPermaLink="true">https://link.dice.fm/pbda085c7995</guid>
-            <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Post Saga at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Post Saga at Mahall’s on Saturday, November 18, 2023, 12:00 AM: https://link.dice.fm/r10827f02b56]]></description>
-            <link>https://link.dice.fm/r10827f02b56</link>
-            <guid isPermaLink="true">https://link.dice.fm/r10827f02b56</guid>
             <pubDate>Sat, 18 Nov 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2324,20 +2352,6 @@
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cast Iron Comedy Showcase at Foundry]]></title>
-            <description><![CDATA[Get tickets to Cast Iron Comedy Showcase at Foundry on Tuesday, November 14, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/</guid>
-            <pubDate>Tue, 14 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Convalescence, Volcandra, Ignominius, The Behest Of Serpants, 72 Legions at Foundry]]></title>
-            <description><![CDATA[Get tickets to The Convalescence, Volcandra, Ignominius, The Behest Of Serpants, 72 Legions at Foundry on Wednesday, November 15, 2023, 07:15 PM: https://www.foundryconcertclub.com/tm-event/the-convalescence-volcandra-ignominius-the-behest-of-serpants-72-legions/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/the-convalescence-volcandra-ignominius-the-behest-of-serpants-72-legions/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-convalescence-volcandra-ignominius-the-behest-of-serpants-72-legions/</guid>
-            <pubDate>Wed, 15 Nov 2023 19:15:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[**SOLD OUT** WEDNESDAY 13, MURDERDOLLS, GEMINI SYNDROME, INFECTED RAIN at Foundry]]></title>
             <description><![CDATA[Get tickets to **SOLD OUT** WEDNESDAY 13, MURDERDOLLS, GEMINI SYNDROME, INFECTED RAIN at Foundry on Thursday, November 16, 2023, 07:30 PM: https://www.foundryconcertclub.com/tm-event/murderdolls-gemini-syndrome-infected-rain/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/murderdolls-gemini-syndrome-infected-rain/</link>
@@ -2420,6 +2434,20 @@
             <link>https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/</guid>
             <pubDate>Thu, 07 Dec 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paradox Rift, Church & State, Punching Moses, Riparian, 10,000 Rambos at Foundry]]></title>
+            <description><![CDATA[Get tickets to Paradox Rift, Church & State, Punching Moses, Riparian, 10,000 Rambos at Foundry on Friday, December 8, 2023, 07:30 PM: https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/</guid>
+            <pubDate>Fri, 08 Dec 2023 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brothers At Arms, Bittersweet Revenge, Counting Gravestones, Iron Bison at Foundry]]></title>
+            <description><![CDATA[Get tickets to Brothers At Arms, Bittersweet Revenge, Counting Gravestones, Iron Bison at Foundry on Saturday, December 9, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/</guid>
+            <pubDate>Sat, 09 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Anime / K-Pop Night at Foundry]]></title>

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Cast Iron Comedy Showcase"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/",
-    "date": "2023-11-14T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "The Convalescence, Volcandra, Ignominius, The Behest Of Serpants, 72 Legions"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-convalescence-volcandra-ignominius-the-behest-of-serpants-72-legions/",
-    "date": "2023-11-15T19:15:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "**SOLD OUT** WEDNESDAY 13, MURDERDOLLS, GEMINI SYNDROME, INFECTED RAIN"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/murderdolls-gemini-syndrome-infected-rain/",
@@ -109,6 +93,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/",
     "date": "2023-12-07T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Paradox Rift, Church & State, Punching Moses, Riparian, 10,000 Rambos"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/",
+    "date": "2023-12-08T19:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Brothers At Arms, Bittersweet Revenge, Counting Gravestones, Iron Bison"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/",
+    "date": "2023-12-09T20:00:00",
     "venue": "Foundry"
   },
   {

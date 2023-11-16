@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Way Down Wanderers",
-      "The Chatfield Boys"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers-the-chatfield-boys",
-    "date": "2023-11-14T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Hembree",
       "Detention",
       "Black Island Condors"
@@ -425,10 +416,10 @@
   {
     "artist": [
       "Bumpin Uglies",
-      "Toby",
+      "TobyRaps",
       "C-Level"
     ],
-    "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies-toby-c-level",
+    "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level",
     "date": "2024-02-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -447,6 +438,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane",
     "date": "2024-02-13T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Mia x Ally"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13865838/mia-x-ally",
+    "date": "2024-02-14T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -547,6 +546,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13708828/post-sex-nachos",
     "date": "2024-03-26T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Pacific Dub"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13247243/pacific-dub",
+    "date": "2024-03-27T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

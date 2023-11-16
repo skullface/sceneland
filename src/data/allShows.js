@@ -644,12 +644,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Petey'],
-    link: 'https://concerts.livenation.com/petey-cleveland-ohio-11-15-2023/event/05005EDD951D2235',
-    date: '2023-11-15T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['PlanBri Live'],
     link: 'https://concerts.livenation.com/planbri-live-cleveland-ohio-11-16-2023/event/05005F18F19863AA',
     date: '2023-11-16T18:30:00',
@@ -922,12 +916,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/event-details/13799568/midnight-rental-presents-secret-movie-night',
-    date: '2023-11-15T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Myth and Company Single Release "OCB"',
       'Myth and Company',
@@ -1106,6 +1094,18 @@ export const allShows = [
   },
   {
     artist: [
+      'Obnox: Record Release Show',
+      'Muamin Collective',
+      'This Moment In Black History',
+      'Malik X',
+      'MuAmin Collective',
+    ],
+    link: 'https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x',
+    date: '2023-12-09T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
       'Lea Marra & The River Boys "Folky Christmas"',
       'Blue Hour',
       'Austin Hamilton',
@@ -1176,6 +1176,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13251973/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2023-12-18T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Midnight Rental presents Secret Movie Night'],
     link: 'https://grogshop.gs/event-details/13799598/midnight-rental-presents-secret-movie-night',
     date: '2023-12-20T20:00:00',
@@ -1204,10 +1210,26 @@ export const allShows = [
   },
   {
     artist: [
+      "The Modern Electric's Northcoast Christmas",
+      'Papi and the Smears',
+      'Dive Bombs',
+    ],
+    link: 'https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas',
+    date: '2023-12-23T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
       'Christmas Comedy Show hosted by Spike Lou, Gene Miller, and Kee Silly',
     ],
     link: 'https://grogshop.gs/event-details/13247703/christmas-comedy-show-hosted-by-spike-lou-gene-miller-and-kee-silly',
     date: '2023-12-24T18:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman'],
+    link: 'https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman',
+    date: '2023-12-29T20:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -1229,6 +1251,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night',
+    date: '2024-01-10T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-01-15T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['TORRES', 'Aisha Burns'],
     link: 'https://grogshop.gs/event-details/13693768/torres',
     date: '2024-01-17T20:00:00',
@@ -1247,6 +1281,12 @@ export const allShows = [
     artist: ['Wednesday', 'Hotline TNT'],
     link: 'https://grogshop.gs/event-details/13720188/wednesday',
     date: '2024-01-28T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13251993/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-01-29T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1303,9 +1343,9 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Mannequin Pussy', 'Soul Glo'],
+    artist: ['Mannequin Pussy, Soul Glo'],
     link: 'https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo',
-    date: '2024-04-12T20:00:00',
+    date: '2024-04-12T20:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -1322,12 +1362,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024',
     date: '2024-04-28T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Classical Revolution Cleveland'],
-    link: 'https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-752909471497',
-    date: '2023-11-15T20:00:00',
-    venue: 'Happy Dog',
   },
   {
     artist: ['Simple Routes EP release w/ Ray Flanagan, Michelle Gaw'],
@@ -1366,12 +1400,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/omni-tickets-753608933607',
     date: '2024-03-08T21:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['The Way Down Wanderers', 'The Chatfield Boys'],
-    link: 'https://www.beachlandballroom.com/e/13702648/the-way-down-wanderers-the-chatfield-boys',
-    date: '2023-11-14T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Hembree', 'Detention', 'Black Island Condors'],
@@ -1666,8 +1694,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Bumpin Uglies', 'Toby', 'C-Level'],
-    link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies-toby-c-level',
+    artist: ['Bumpin Uglies', 'TobyRaps', 'C-Level'],
+    link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level',
     date: '2024-02-03T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1681,6 +1709,12 @@ export const allShows = [
     artist: ['Deap Vally', 'Sloppy Jane'],
     link: 'https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane',
     date: '2024-02-13T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Mia x Ally'],
+    link: 'https://www.beachlandballroom.com/e/13865838/mia-x-ally',
+    date: '2024-02-14T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -1756,6 +1790,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Pacific Dub'],
+    link: 'https://www.beachlandballroom.com/e/13247243/pacific-dub',
+    date: '2024-03-27T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['The Crane Wives'],
     link: 'https://www.beachlandballroom.com/e/13744368/the-crane-wives',
     date: '2024-04-03T20:00:00',
@@ -1792,32 +1832,27 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Moon Walker'],
-    link: 'https://link.dice.fm/od15100b5387',
-    date: '2023-11-15T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Dizgo, Yam Yam, Jaluski '],
     link: 'https://link.dice.fm/Af1e609d01e2',
     date: '2023-11-16T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Post Saga'],
+    link: 'https://link.dice.fm/r10827f02b56',
+    date: '2023-11-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Glare'],
     link: 'https://link.dice.fm/P74e67b7b171',
+    sold_out: true,
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Katatonia'],
     link: 'https://link.dice.fm/pbda085c7995',
-    date: '2023-11-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Post Saga'],
-    link: 'https://link.dice.fm/r10827f02b56',
     date: '2023-11-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -2110,20 +2145,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Cast Iron Comedy Showcase'],
-    link: 'https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/',
-    date: '2023-11-14T20:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: [
-      'The Convalescence, Volcandra, Ignominius, The Behest Of Serpants, 72 Legions',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/the-convalescence-volcandra-ignominius-the-behest-of-serpants-72-legions/',
-    date: '2023-11-15T19:15:00',
-    venue: 'Foundry',
-  },
-  {
     artist: [
       '**SOLD OUT** WEDNESDAY 13, MURDERDOLLS, GEMINI SYNDROME, INFECTED RAIN',
     ],
@@ -2197,6 +2218,22 @@ export const allShows = [
     artist: ['Boundaries, Foreign Hands, 6Deep, Walking Wounded'],
     link: 'https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/',
     date: '2023-12-07T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: [
+      'Paradox Rift, Church & State, Punching Moses, Riparian, 10,000 Rambos',
+    ],
+    link: 'https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/',
+    date: '2023-12-08T19:30:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: [
+      'Brothers At Arms, Bittersweet Revenge, Counting Gravestones, Iron Bison',
+    ],
+    link: 'https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/',
+    date: '2023-12-09T20:00:00',
     venue: 'Foundry',
   },
   {

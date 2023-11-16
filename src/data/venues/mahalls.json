@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Moon Walker"
-    ],
-    "link": "https://link.dice.fm/od15100b5387",
-    "date": "2023-11-15T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Dizgo, Yam Yam, Jaluski "
     ],
     "link": "https://link.dice.fm/Af1e609d01e2",
@@ -17,9 +9,18 @@
   },
   {
     "artist": [
+      "Post Saga"
+    ],
+    "link": "https://link.dice.fm/r10827f02b56",
+    "date": "2023-11-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Glare"
     ],
     "link": "https://link.dice.fm/P74e67b7b171",
+    "sold_out": true,
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "Mahall\u2019s Apartment"
   },
@@ -28,14 +29,6 @@
       "Katatonia"
     ],
     "link": "https://link.dice.fm/pbda085c7995",
-    "date": "2023-11-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Post Saga"
-    ],
-    "link": "https://link.dice.fm/r10827f02b56",
     "date": "2023-11-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Hembree",
-      "Detention",
-      "Black Island Condors"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13689038/hembree-detention-black-island-condors",
-    "date": "2023-11-15T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Youth Pallet",
       "Yawn Mower",
       "Charity Cunningham"
@@ -129,11 +119,19 @@
   },
   {
     "artist": [
+      "Thor Platter Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13255193/thor-platter-band",
+    "date": "2023-11-28T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Urban Heat",
       "Rare DM",
-      "DJ Uvala"
+      "DJ Uvula"
     ],
-    "link": "https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvala",
+    "link": "https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula",
     "date": "2023-11-30T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -141,9 +139,10 @@
     "artist": [
       "Blizzard Bash",
       "Marcus Smith",
-      "Mikey Silas & Friends"
+      "Mikey Silas & Friends",
+      "Guy Snowden and the Citizens"
     ],
-    "link": "https://www.beachlandballroom.com/e/13848168/blizzard-bash-marcus-smith-mikey-silas-friends",
+    "link": "https://www.beachlandballroom.com/e/13848168/blizzard-bash-marcus-smith-mikey-silas-friends-guy-snowden-and-the-citizens",
     "date": "2023-12-01T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -205,9 +204,10 @@
   },
   {
     "artist": [
-      "Robert Jon & The Wreck"
+      "Robert Jon & The Wreck",
+      "Bessemer Saints"
     ],
-    "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck",
+    "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck-bessemer-saints",
     "date": "2023-12-07T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -257,9 +257,10 @@
   },
   {
     "artist": [
-      "Wayne Graham"
+      "Wayne Graham",
+      "Easton Union"
     ],
-    "link": "https://www.beachlandballroom.com/e/13763558/wayne-graham",
+    "link": "https://www.beachlandballroom.com/e/13763558/wayne-graham-easton-union",
     "date": "2023-12-14T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -311,10 +312,10 @@
   },
   {
     "artist": [
-      "\"Ain't It Fun\" Graphic Novel Book",
+      "\"Ain't It Fun\" Graphic Novel Book Release",
       "Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly"
     ],
-    "link": "https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly",
+    "link": "https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly",
     "date": "2023-12-17T19:00:00",
     "venue": "Beachland Tavern"
   },
@@ -594,6 +595,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13457108/ty-segall",
     "date": "2024-05-05T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Psychedelic Porn Crumpets"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
+    "date": "2024-05-17T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

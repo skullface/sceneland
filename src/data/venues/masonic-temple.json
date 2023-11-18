@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "OG Vern"
-    ],
-    "link": "https://www.ticketmaster.com/og-vern-cleveland-ohio-11-17-2023/event/05005F6244AF7905",
-    "date": "2023-11-17T21:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Pop Evil Flesh & Bone Tour"
     ],
     "link": "https://www.ticketmaster.com/pop-evil-flesh-bone-tour-cleveland-ohio-11-18-2023/event/05005F1EE3C7456A",
@@ -77,6 +69,11 @@
     ],
     "link": "https://www.ticketmaster.com/american-girl-live-in-concert-cleveland-ohio-12-17-2023/event/05005F1EF0565339",
     "date": "2023-12-17T17:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "link": "https://www.ticketmaster.com/aiw-terror-at-the-temple-cleveland-ohio-12-29-2023/event/05005F7043F57375",
+    "date": "2023-12-29T19:30:00",
     "venue": "Masonic Temple"
   },
   {

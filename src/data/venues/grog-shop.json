@@ -1,20 +1,6 @@
 [
   {
     "artist": [
-      "Hardcore on the Eastside",
-      "One Life All-In",
-      "Sawchuck",
-      "Last Gasp",
-      "Thieves Stay Thieves",
-      "Soul Charge",
-      "Shmux"
-    ],
-    "link": "https://grogshop.gs/event-details/13723038/hardcore-on-the-eastside",
-    "date": "2023-11-17T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Skuff Micksun \"Wrapped Up In Wind Album Release\" ft Peachcurls and Radderall",
       "Peachcurls",
       "Radderall"
@@ -67,6 +53,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-vince-nerone-yacobucci-drixy",
     "date": "2023-11-22T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Shitshow Karaoke : Turkey Night",
+      "Shitshow Karaoke"
+    ],
+    "link": "https://grogshop.gs/event-details/13258083/shitshow-karaoke-turkey-night",
+    "date": "2023-11-22T23:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -321,6 +316,17 @@
     ],
     "link": "https://grogshop.gs/event-details/13251973/make-em-laugh-mondays-hosted-by-kevin-ford",
     "date": "2023-12-18T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Amphibians",
+      "The Little Ditties",
+      "Cherry Yachtsman",
+      "Nafan and the Mailmen"
+    ],
+    "link": "https://grogshop.gs/event-details/13258123/amphibians-the-little-ditties-cherry-yachtsman-nafan-and-the-mailmen",
+    "date": "2023-12-19T20:00:00",
     "venue": "Grog Shop"
   },
   {

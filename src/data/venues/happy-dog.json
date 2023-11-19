@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Panza Foundation Benefit w/ Brain Cave, Suitor, Uniity, Slug Fest"
-    ],
-    "link": "https://www.eventbrite.com/e/panza-foundation-benefit-w-brain-cave-suitor-uniity-slug-fest-tickets-737579067847",
-    "date": "2023-11-18T20:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Jon Spencer, Simon and the Apparatus"
     ],
     "link": "https://www.eventbrite.com/e/jon-spencer-simon-and-the-apparatus-tickets-715748231227",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107",
     "date": "2023-11-29T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Whatever, Strange Notes, Gerloscar Supreme Team DJs"
+    ],
+    "link": "https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307",
+    "date": "2023-12-30T21:00:00",
     "venue": "Happy Dog"
   },
   {

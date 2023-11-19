@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Lower 13, Imminent Sonic Destruction, Terranoct, Revolver Revolver"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/lower-13-imminent-sonic-destruction-terranoct-revolver-revolver/",
-    "date": "2023-11-17T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Nocturnal"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/",
     "date": "2023-12-09T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Anime / K-Pop Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night/",
+    "date": "2023-12-15T20:00:00",
     "venue": "Foundry"
   },
   {

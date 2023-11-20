@@ -4,22 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Nov 2023 09:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 09:06:03 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Nocturnal at Foundry]]></title>
-            <description><![CDATA[Get tickets to Nocturnal at Foundry on Saturday, November 18, 2023, 09:00 PM: https://www.foundryconcertclub.com/tm-event/nocturnal/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/nocturnal/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nocturnal/</guid>
-            <pubDate>Sat, 18 Nov 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Whitehall, Variety Pack, Night Elm at Foundry]]></title>
-            <description><![CDATA[Get tickets to Whitehall, Variety Pack, Night Elm at Foundry on Sunday, November 19, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/whitehall/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/whitehall/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/whitehall/</guid>
-            <pubDate>Sun, 19 Nov 2023 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Unwell, Census, Laid Low at Foundry]]></title>
             <description><![CDATA[Get tickets to Unwell, Census, Laid Low at Foundry on Tuesday, November 21, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/unwell/]]></description>
@@ -203,13 +189,6 @@
             <pubDate>Thu, 15 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jeff Buckley Tribute at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to Jeff Buckley Tribute at Musica Akron on Saturday, November 18, 2023, 08:00 PM: https://www.celebrityetc.com/event/13665268/jeff-buckley-tribute]]></description>
-            <link>https://www.celebrityetc.com/event/13665268/jeff-buckley-tribute</link>
-            <guid isPermaLink="true">https://www.celebrityetc.com/event/13665268/jeff-buckley-tribute</guid>
-            <pubDate>Sat, 18 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BIRTH-TAY BALL 👑🎂 at Musica Akron]]></title>
             <description><![CDATA[Get tickets to BIRTH-TAY BALL 👑🎂 at Musica Akron on Thursday, December 14, 2023, 09:00 PM: https://www.ticketweb.com/event/birth-tay-ball-musica-tickets/13845188?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
             <link>https://www.ticketweb.com/event/birth-tay-ball-musica-tickets/13845188?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
@@ -292,13 +271,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302</guid>
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NONAME: Sundial Tour, STOUT at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to NONAME: Sundial Tour, STOUT at Grog Shop on Sunday, November 19, 2023, 08:00 PM: https://grogshop.gs/event-details/13509568/noname-sundial-tour]]></description>
-            <link>https://grogshop.gs/event-details/13509568/noname-sundial-tour</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13509568/noname-sundial-tour</guid>
-            <pubDate>Sun, 19 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aaron Smith & RDAA, Billie Mitchell at Grog Shop]]></title>
@@ -791,13 +763,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GEDDY LEE at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to GEDDY LEE at Playhouse Square on Sunday, November 19, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation]]></description>
-            <link>https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation</guid>
-            <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Urban Vibe Presents R&B Groove Thang at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Urban Vibe Presents R&B Groove Thang at Playhouse Square on Friday, November 24, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang]]></description>
             <link>https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang</link>
@@ -901,13 +866,6 @@
             <link>https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello</guid>
             <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Rock Orchestra by Candlelight at Agora]]></title>
-            <description><![CDATA[Get tickets to The Rock Orchestra by Candlelight at Agora on Sunday, November 19, 2023, 07:00 PM: https://www.agoracleveland.com/events/detail/489063]]></description>
-            <link>https://www.agoracleveland.com/events/detail/489063</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/489063</guid>
-            <pubDate>Sun, 19 Nov 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baroness, Soul Glo, Spotlights, Cloud Rat at Agora]]></title>
@@ -1139,13 +1097,6 @@
             <link>https://www.eventbrite.com/e/regurgitation-tickets-716501734977</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/regurgitation-tickets-716501734977</guid>
             <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gasolina Reggaeton Party at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Gasolina Reggaeton Party at House of Blues on Saturday, November 18, 2023, 09:00 PM: https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989]]></description>
-            <link>https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989</guid>
-            <pubDate>Sat, 18 Nov 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ekoostik Hookah at House of Blues]]></title>
@@ -1568,13 +1519,6 @@
             <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This Wild Life at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to This Wild Life at Mahall’s on Sunday, November 19, 2023, 11:00 PM: https://link.dice.fm/O2a9bd4ccd33]]></description>
-            <link>https://link.dice.fm/O2a9bd4ccd33</link>
-            <guid isPermaLink="true">https://link.dice.fm/O2a9bd4ccd33</guid>
-            <pubDate>Sun, 19 Nov 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hot Mess: a night of party anthems at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Hot Mess: a night of party anthems at Mahall’s on Thursday, November 23, 2023, 01:00 AM: https://link.dice.fm/V4471c7a4bdf]]></description>
             <link>https://link.dice.fm/V4471c7a4bdf</link>
@@ -1853,20 +1797,6 @@
             <link>https://link.dice.fm/f53f6c428bf6</link>
             <guid isPermaLink="true">https://link.dice.fm/f53f6c428bf6</guid>
             <pubDate>Fri, 21 Jun 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neighborhood Night Vinyl Party at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Neighborhood Night Vinyl Party at Beachland Tavern on Saturday, November 18, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13864778/neighborhood-night-vinyl-party]]></description>
-            <link>https://www.beachlandballroom.com/e/13864778/neighborhood-night-vinyl-party</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13864778/neighborhood-night-vinyl-party</guid>
-            <pubDate>Sat, 18 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PISSE, The Serfs at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to PISSE, The Serfs at Beachland Tavern on Saturday, November 18, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13521728/pisse-the-serfs]]></description>
-            <link>https://www.beachlandballroom.com/e/13521728/pisse-the-serfs</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13521728/pisse-the-serfs</guid>
-            <pubDate>Sat, 18 Nov 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BoomBox, Tep No at Beachland Ballroom]]></title>

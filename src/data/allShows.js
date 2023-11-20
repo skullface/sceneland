@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['Nocturnal'],
-    link: 'https://www.foundryconcertclub.com/tm-event/nocturnal/',
-    date: '2023-11-18T21:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['Whitehall, Variety Pack, Night Elm'],
-    link: 'https://www.foundryconcertclub.com/tm-event/whitehall/',
-    date: '2023-11-19T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Unwell, Census, Laid Low'],
     link: 'https://www.foundryconcertclub.com/tm-event/unwell/',
     date: '2023-11-21T19:00:00',
@@ -178,12 +166,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Jeff Buckley Tribute'],
-    link: 'https://www.celebrityetc.com/event/13665268/jeff-buckley-tribute',
-    date: '2023-11-18T20:00:00',
-    venue: 'Musica Akron',
-  },
-  {
     artist: ['BIRTH-TAY BALL \ud83d\udc51\ud83c\udf82'],
     link: 'https://www.ticketweb.com/event/birth-tay-ball-musica-tickets/13845188?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2023-12-14T21:00:00',
@@ -263,13 +245,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302',
     date: '2024-03-02',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['NONAME: Sundial Tour', 'STOUT'],
-    link: 'https://grogshop.gs/event-details/13509568/noname-sundial-tour',
-    sold_out: true,
-    date: '2023-11-19T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Aaron Smith & RDAA, Billie Mitchell'],
@@ -777,12 +752,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['GEDDY LEE'],
-    link: 'https://www.playhousesquare.org/events/detail/geddy-lee-my-effin-life-in-conversation',
-    date: '2023-11-19',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Urban Vibe Presents R&B Groove Thang'],
     link: 'https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang',
     date: '2023-11-24',
@@ -871,12 +840,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello',
     date: '2024-04-24',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: ['The Rock Orchestra by Candlelight'],
-    link: 'https://www.agoracleveland.com/events/detail/489063',
-    date: '2023-11-19T19:00:00',
-    venue: 'Agora',
   },
   {
     artist: ['Baroness, Soul Glo, Spotlights, Cloud Rat'],
@@ -1075,12 +1038,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/regurgitation-tickets-716501734977',
     date: '2024-01-27T20:00:00',
     venue: 'No Class',
-  },
-  {
-    artist: ['Gasolina Reggaeton Party'],
-    link: 'https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-11-18-2023/event/05005F53A25B1989',
-    date: '2023-11-18T21:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Ekoostik Hookah'],
@@ -1450,12 +1407,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['This Wild Life'],
-    link: 'https://link.dice.fm/O2a9bd4ccd33',
-    date: '2023-11-19T18:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Hot Mess: a night of party anthems'],
     link: 'https://link.dice.fm/V4471c7a4bdf',
     date: '2023-11-22T20:00:00-05:00',
@@ -1694,18 +1645,6 @@ export const allShows = [
     link: 'https://link.dice.fm/f53f6c428bf6',
     date: '2024-06-21T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Neighborhood Night Vinyl Party'],
-    link: 'https://www.beachlandballroom.com/e/13864778/neighborhood-night-vinyl-party',
-    date: '2023-11-18T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['PISSE', 'The Serfs'],
-    link: 'https://www.beachlandballroom.com/e/13521728/pisse-the-serfs',
-    date: '2023-11-18T20:30:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['BoomBox', 'Tep No'],

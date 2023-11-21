@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Aaron Smith & RDAA, Billie Mitchell"
-    ],
-    "link": "https://grogshop.gs/event-details/13593748/aaron-smith-rdaa-billie-mitchell",
-    "date": "2023-11-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "ACO a tribute to Rob Williams"
     ],
     "link": "https://grogshop.gs/event-details/13622688/aco-a-tribute-to-rob-williams",
@@ -380,7 +372,7 @@
       "Mike Polk"
     ],
     "link": "https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk",
-    "date": "2023-12-30T20:30:00",
+    "date": "2023-12-30T19:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -470,6 +462,18 @@
     ],
     "link": "https://grogshop.gs/event-details/13748958/siena-liggins-the-floozy-tour",
     "date": "2024-02-09T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The 3rd Annual Vampires Ball with Vampires Everywhere",
+      "Ash Hollow",
+      "Nineteenth Paradise",
+      "For Absent Friends",
+      "Songstress Jo"
+    ],
+    "link": "https://grogshop.gs/event-details/13865168/the-3rd-annual-vampires-ball-with-vampires-everywhere",
+    "date": "2024-02-14T19:00:00",
     "venue": "Grog Shop"
   },
   {

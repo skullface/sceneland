@@ -1,10 +1,23 @@
 [
   {
     "artist": [
+      "Karaoke w/ Freya!"
+    ],
+    "link": "https://www.eventbrite.com/e/karaoke-w-freya-tickets-763610498557",
+    "date": "2023-11-22T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Jon Spencer, Simon and the Apparatus"
     ],
     "link": "https://www.eventbrite.com/e/jon-spencer-simon-and-the-apparatus-tickets-715748231227",
     "date": "2023-11-25T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-763613547677",
+    "date": "2023-11-27T20:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -17,18 +30,63 @@
   },
   {
     "artist": [
-      "Whatever, Strange Notes, Gerloscar Supreme Team DJs"
+      "Dave Swanson's Mystery Airship, Dave Rich & His Enablers"
     ],
-    "link": "https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307",
-    "date": "2023-12-30T21:00:00",
+    "link": "https://www.eventbrite.com/e/dave-swansons-mystery-airship-dave-rich-his-enablers-tickets-763616977937",
+    "date": "2023-12-01T21:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Omni"
+      "Ryan Davis & The Roadhouse Band, Napsack, Powers/Rolin Duo"
     ],
-    "link": "https://www.eventbrite.com/e/omni-tickets-753608933607",
-    "date": "2024-03-08T21:00:00",
+    "link": "https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657",
+    "date": "2023-12-02T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-tickets-763624410167",
+    "date": "2023-12-04T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Happy Dog Takes on Everything"
+    ],
+    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-763628953757",
+    "date": "2023-12-06T19:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tastefull, Colour Phase, Slag Genie, King Cat"
+    ],
+    "link": "https://www.eventbrite.com/e/tastefull-colour-phase-slag-genie-king-cat-tickets-763625473347",
+    "date": "2023-12-08T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Full 90: a Free Night of Irish Music!"
+    ],
+    "link": "https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367",
+    "date": "2023-12-12T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "DJ Kishka Happy Hour!"
+    ],
+    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637",
+    "date": "2023-12-15T18:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Classical Revolution Cleveland"
+    ],
+    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-763631260657",
+    "date": "2023-12-20T20:00:00",
     "venue": "Happy Dog"
   }
 ]

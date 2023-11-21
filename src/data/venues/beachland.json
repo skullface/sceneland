@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "BoomBox",
-      "Tep No"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13489368/boombox-tep-no",
-    "date": "2023-11-19T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Y.A.Y.A.",
       "Jung Speedboat",
       "Kwas-E",
@@ -101,6 +92,14 @@
     "link": "https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you",
     "date": "2023-12-01T20:30:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Lunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13261103/beachland-lunch",
+    "date": "2023-12-02T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -297,6 +296,15 @@
   },
   {
     "artist": [
+      "Jack & the Optimists",
+      "The VUMMS"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms",
+    "date": "2023-12-23T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Austin Stambaugh's Electric Weepers",
       "The Merry Go-Rounders"
     ],
@@ -399,6 +407,14 @@
   },
   {
     "artist": [
+      "That 1 Guy"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13255093/that-1-guy",
+    "date": "2024-02-17T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Josh Meloy"
     ],
     "link": "https://www.beachlandballroom.com/e/13857318/josh-meloy",
@@ -420,6 +436,17 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13654878/jill-andrews",
     "date": "2024-02-22T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "I Hate It Too",
+      "Tunnelvision",
+      "Night at Delaney's",
+      "October Beach Club"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13262123/i-hate-it-too-tunnelvision-night-at-delaney-s-october-beach-club",
+    "date": "2024-02-23T19:30:00",
     "venue": "Beachland Tavern"
   },
   {

@@ -1,63 +1,6 @@
 [
   {
     "artist": [
-      "Hot Mess: a night of party anthems"
-    ],
-    "link": "https://link.dice.fm/V4471c7a4bdf",
-    "date": "2023-11-22T20:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Citizen"
-    ],
-    "link": "https://link.dice.fm/G711b0995a1f",
-    "sold_out": true,
-    "date": "2023-11-24T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Whiffler album release show"
-    ],
-    "link": "https://link.dice.fm/Tf1236377d16",
-    "date": "2023-11-24T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Jukebox Breakdown aka Emo Night CLE"
-    ],
-    "link": "https://link.dice.fm/n08f961d80a7",
-    "date": "2023-11-24T22:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "To Books And Beyond "
-    ],
-    "link": "https://link.dice.fm/U28fdc89aac1",
-    "date": "2023-11-25T11:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "1989: an all Taylor Swift dance party"
-    ],
-    "link": "https://link.dice.fm/L904ac7f6aec",
-    "date": "2023-11-25T20:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Action/Adventure and Cliffdiver"
-    ],
-    "link": "https://link.dice.fm/d5b8b652cdd6",
-    "date": "2023-11-26T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Better Off"
     ],
     "link": "https://link.dice.fm/d03ed5769012",
@@ -250,6 +193,14 @@
   },
   {
     "artist": [
+      "Stolen Gin"
+    ],
+    "link": "https://link.dice.fm/V42b338eec76",
+    "date": "2024-03-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "Joywave"
     ],
     "link": "https://link.dice.fm/F86ac2d72f68",
@@ -270,6 +221,14 @@
     ],
     "link": "https://link.dice.fm/M31d005f3d08",
     "date": "2024-03-14T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Between You & Me"
+    ],
+    "link": "https://link.dice.fm/M7d744b3a77c",
+    "date": "2024-03-18T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -302,6 +261,22 @@
     ],
     "link": "https://link.dice.fm/md45554ce3c8",
     "date": "2024-04-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Real Estate - Infinite Jangle Tour"
+    ],
+    "link": "https://link.dice.fm/y97afef68914",
+    "date": "2024-04-12T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Soft Kill"
+    ],
+    "link": "https://link.dice.fm/Sf355e0c6290",
+    "date": "2024-04-24T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

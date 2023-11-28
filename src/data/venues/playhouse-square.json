@@ -41,6 +41,14 @@
   },
   {
     "artist": [
+      "Men Are From Mars Women Are From Venus Live!"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2",
+    "date": "2024-01-19",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Nimesh Patel"
     ],
     "link": "https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour",
@@ -97,22 +105,6 @@
   },
   {
     "artist": [
-      "Urban Vibe Presents R&B Groove Thang"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang",
-    "date": "2023-11-24",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Cleveland Pops Orchestra HOLIDAY CHEER"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/cleveland-pops-orchestra-holiday-cheer",
-    "date": "2023-11-26",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "WGAR Winter Wonder Jam Starring LEE BRICE"
     ],
     "link": "https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice",
@@ -161,10 +153,18 @@
   },
   {
     "artist": [
-      "The Price Is Right Live"
+      "Tamia & Joe"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/the-price-is-right-live-3",
-    "date": "2024-03-01",
+    "link": "https://www.playhousesquare.org/events/detail/tamia-joe",
+    "date": "2024-02-10",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Urban Vibe Presents R&B Groove Thang"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/urban-vibe-presents-rb-groove-thang",
+    "date": "2024-03-02",
     "venue": "Playhouse Square"
   },
   {

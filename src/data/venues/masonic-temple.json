@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Honor Fight Championship MMA Fights"
-    ],
-    "link": "https://www.ticketmaster.com/honor-fight-championship-mma-fights-cleveland-ohio-11-25-2023/event/05005F2FF24A623B",
-    "date": "2023-11-25T18:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Hellzapoppin Circus Sideshow"
-    ],
-    "link": "https://www.ticketmaster.com/hellzapoppin-circus-sideshow-cleveland-ohio-11-25-2023/event/05005F44E55A2E96",
-    "date": "2023-11-25T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Steel Panther \u2013 On The Prowl Winter Holidaze Tour"
     ],
     "link": "https://www.ticketmaster.com/steel-panther-on-the-prowl-winter-cleveland-ohio-12-01-2023/event/05005F2FFBFB677B",
@@ -114,6 +98,14 @@
     ],
     "link": "https://www.ticketmaster.com/kaivon-2024-ultraviolet-album-tour-cleveland-ohio-03-07-2024/event/05005F66A0991638",
     "date": "2024-03-07T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Blue October"
+    ],
+    "link": "https://www.ticketmaster.com/blue-october-cleveland-ohio-03-08-2024/event/05005F75F3714F54",
+    "date": "2024-03-08T20:00:00",
     "venue": "Masonic Temple"
   },
   {

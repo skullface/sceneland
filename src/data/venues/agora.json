@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Baroness, Soul Glo, Spotlights, Cloud Rat"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/490436",
-    "date": "2023-11-24T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "First Snow"
     ],
     "link": "https://www.agoracleveland.com/events/detail/500326",
@@ -137,6 +129,14 @@
   },
   {
     "artist": [
+      "October London, J. Brown, Shindellas"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/516819",
+    "date": "2024-02-24T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Jimbo's Drag Circus"
     ],
     "link": "https://www.agoracleveland.com/events/detail/495366",
@@ -165,6 +165,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/503995",
     "date": "2024-03-10T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "KMFDM, Cyanotic"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/516682",
+    "date": "2024-03-14T19:00:00",
     "venue": "Agora"
   },
   {
@@ -229,6 +237,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/512472",
     "date": "2024-05-11T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Blind Guardian, Night Demon"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/517799",
+    "date": "2024-05-16T19:00:00",
     "venue": "Agora"
   }
 ]

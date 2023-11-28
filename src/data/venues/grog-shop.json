@@ -1,104 +1,7 @@
 [
   {
     "artist": [
-      "ACO a tribute to Rob Williams"
-    ],
-    "link": "https://grogshop.gs/event-details/13622688/aco-a-tribute-to-rob-williams",
-    "date": "2023-11-21T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Foulmouth Presents: Blackout Wednesday \"Supper Show\"",
-      "Foulmouth"
-    ],
-    "link": "https://grogshop.gs/event-details/13803118/foulmouth-presents-blackout-wednesday-supper-show-",
-    "date": "2023-11-22T18:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "M.O.O.K.Y",
-      "Vince Nerone",
-      "Yacobucci",
-      "DRIXY"
-    ],
-    "link": "https://grogshop.gs/event-details/13778218/m-o-o-k-y-w-vince-nerone-yacobucci-drixy",
-    "date": "2023-11-22T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Shitshow Karaoke : Turkey Night",
-      "Shitshow Karaoke"
-    ],
-    "link": "https://grogshop.gs/event-details/13258083/shitshow-karaoke-turkey-night",
-    "date": "2023-11-22T23:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Pass Me The Mic: Thanksgiving Open Jam and Mic Nite Hosted by Mikey Silas"
-    ],
-    "link": "https://grogshop.gs/event-details/13803578/pass-me-the-mic-thanksgiving-open-jam-and-mic-nite-hosted-by-mikey-silas",
-    "date": "2023-11-23T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "BRUJERIA: Esto Es Tour 2023",
-      "Pi\u00f1ata Protest",
-      "NO/MAS"
-    ],
-    "link": "https://grogshop.gs/event-details/13470718/brujeria-esto-es-tour-2023",
-    "date": "2023-11-24T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Signals Midwest: 15 Year Anniversary",
-      "Sun Run",
-      "Joy Ceiling",
-      "Honeybee"
-    ],
-    "link": "https://grogshop.gs/event-details/13678838/signals-midwest-15-year-anniversary",
-    "date": "2023-11-25T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Jon Spencer",
-      "Simon & The Apparatus"
-    ],
-    "link": "https://grogshop.gs/event-details/13579978/jon-spencer",
-    "date": "2023-11-25T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Girl Cologne",
-      "COE",
-      "Riley Burke",
-      "RRRIOT!",
-      "Tall Grass"
-    ],
-    "link": "https://grogshop.gs/event-details/13785388/girl-cologne-coe-riley-burke-rrriot-tall-grass",
-    "date": "2023-11-26T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13709178/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2023-11-27T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Radio Dummies",
-      "Dishwasher Possum",
-      "Jet Star"
+      "Radio Dummies, Dishwasher Possum, Jet Star"
     ],
     "link": "https://grogshop.gs/event-details/13778058/radio-dummies-dishwasher-possum-jet-star",
     "date": "2023-11-28T20:00:00",
@@ -173,13 +76,10 @@
   },
   {
     "artist": [
-      "Total Downer",
-      "Wish Queen",
-      "Charity Cunningham",
-      "Anya Van Rose"
+      "Charity Cunningham, Wish Queen, Anya Van Rose, Total Downer"
     ],
-    "link": "https://grogshop.gs/event-details/13340128/total-downer-wish-queen-charity-cunningham-anya-van-rose",
-    "date": "2023-12-08T20:30:00",
+    "link": "https://grogshop.gs/event-details/13340128/charity-cunningham-wish-queen-anya-van-rose-total-downer",
+    "date": "2023-12-08T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -192,11 +92,7 @@
   },
   {
     "artist": [
-      "Obnox: Record Release Show",
-      "Muamin Collective",
-      "This Moment In Black History",
-      "Malik X",
-      "MuAmin Collective"
+      "Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X"
     ],
     "link": "https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x",
     "date": "2023-12-09T20:30:00",
@@ -204,11 +100,9 @@
   },
   {
     "artist": [
-      "Lea Marra & The River Boys \"Folky Christmas\"",
-      "Blue Hour",
-      "Austin Hamilton"
+      "Lea Marra & The River Boys \"Folky Christmas\" , Blue Hour and Austin Hamilton"
     ],
-    "link": "https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour",
+    "link": "https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour-and-austin-hamilton",
     "date": "2023-12-10T18:30:00",
     "venue": "Grog Shop"
   },
@@ -360,6 +254,14 @@
   },
   {
     "artist": [
+      "Slow Wake, Fuzzy Vandelay, Megaton Communion"
+    ],
+    "link": "https://grogshop.gs/event-details/13267713/slow-wake-fuzzy-vandelay-megaton-communion",
+    "date": "2023-12-27T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman"
     ],
     "link": "https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman",
@@ -369,10 +271,34 @@
   {
     "artist": [
       "Dave Hill",
-      "Mike Polk"
+      "Mike Polk",
+      "Bill Squire"
     ],
-    "link": "https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk",
+    "link": "https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire",
     "date": "2023-12-30T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Falling Stars",
+      "Ray Flanagan",
+      "Dave Rich & His Enablers"
+    ],
+    "link": "https://grogshop.gs/event-details/13279963/falling-stars-ray-flanagan-dave-rich-his-enablers",
+    "date": "2023-12-30T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "MAXOUT featuring Shuicide Holla hosted by Watts",
+      "Fore1gner",
+      "Big Biz Grizzz",
+      "O.N.S.",
+      "Britt Bandz",
+      "4FA4ENT"
+    ],
+    "link": "https://grogshop.gs/event-details/13276423/maxout-featuring-shuicide-holla-hosted-by-watts",
+    "date": "2023-12-31T19:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -393,6 +319,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night",
     "date": "2024-01-10T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Clutter, Narrow/Arro, Brood X"
+    ],
+    "link": "https://grogshop.gs/event-details/13267373/clutter-narrow-arrow-brood-x",
+    "date": "2024-01-11T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -419,6 +353,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics",
     "date": "2024-01-21T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Jack Lutz + Temple Brothers, Rooftops, Unseen Keys, Seconds Away"
+    ],
+    "link": "https://grogshop.gs/event-details/13266893/jack-lutz-temple-brothers-rooftops-unseen-keys-seconds-away",
+    "date": "2024-01-24T19:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -505,6 +447,14 @@
   },
   {
     "artist": [
+      "Wifisfuneral: BLACK HEART REVENGE 2 TOUR"
+    ],
+    "link": "https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour",
+    "date": "2024-03-08T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Horse Lords",
       "Ka Baird",
       "Powers/Rolin Duo"
@@ -541,7 +491,8 @@
   {
     "artist": [
       "Royel Otis: PRATTS & PAIN: North America Tour 2024",
-      "Girl and Girl"
+      "Girl and Girl",
+      "Louse"
     ],
     "link": "https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024",
     "date": "2024-04-28T20:00:00",

@@ -25,10 +25,26 @@
   },
   {
     "artist": [
+      "LAST GASP"
+    ],
+    "link": "https://www.eventbrite.com/e/last-gasp-tickets-760924695247",
+    "date": "2024-01-13T19:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "REGURGITATION"
     ],
     "link": "https://www.eventbrite.com/e/regurgitation-tickets-716501734977",
     "date": "2024-01-27T20:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ESCUELA GRIND"
+    ],
+    "link": "https://www.eventbrite.com/e/escuela-grind-tickets-763919623157",
+    "date": "2024-02-12T19:00:00",
     "venue": "No Class"
   }
 ]

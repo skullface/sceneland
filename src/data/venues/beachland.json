@@ -1,63 +1,6 @@
 [
   {
     "artist": [
-      "Y.A.Y.A.",
-      "Jung Speedboat",
-      "Kwas-E",
-      "DJ Sleazus Christ"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13758408/y-a-y-a-jung-speedboat-kwas-e-dj-sleazus-christ",
-    "date": "2023-11-22T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Rumpke Mountain Boys",
-      "Whiskey Drinks"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13645718/rumpke-mountain-boys-whiskey-drinks",
-    "date": "2023-11-24T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Beachland Lunch"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13873058/beachland-lunch",
-    "date": "2023-11-25T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Rumpke Mountain Boys",
-      "The Stolen Faces",
-      "Sugar Mules"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13645788/rumpke-mountain-boys-the-stolen-faces-sugar-mules",
-    "date": "2023-11-25T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Slag Genie",
-      "Magnavox's",
-      "Flourish"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13735708/slag-genie-magnavox-s-flourish",
-    "date": "2023-11-26T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "BrewDog Beachland BINGO",
-      "DJ Advance"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13626008/brewdog-beachland-bingo-dj-advance",
-    "date": "2023-11-27T19:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Thor Platter Band"
     ],
     "link": "https://www.beachlandballroom.com/e/13255193/thor-platter-band",
@@ -296,28 +239,107 @@
   },
   {
     "artist": [
-      "Jack & the Optimists",
-      "The VUMMS"
+      "Apostle Jones"
     ],
-    "link": "https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms",
+    "link": "https://www.beachlandballroom.com/e/13271973/apostle-jones-holiday-special-live-",
+    "date": "2023-12-23T19:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jack & the Optimists"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13262663/jack-the-optimists",
     "date": "2023-12-23T20:30:00",
     "venue": "Beachland Tavern"
   },
   {
     "artist": [
-      "Austin Stambaugh's Electric Weepers",
-      "The Merry Go-Rounders"
+      "Blue Lunch",
+      "Jerry Devivo (Mighty Blue Kings)",
+      "DJ Pete London"
     ],
-    "link": "https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders",
+    "link": "https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-dj-pete-london",
+    "date": "2023-12-25T19:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "PFUZZ",
+      "Tiffadelic",
+      "Nature Nvoke",
+      "Uniity"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13271353/pfuzz-tiffadelic-nature-nvoke-uniity",
+    "date": "2023-12-26T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Austin Stambaugh's Electric Weepers",
+      "The Merry Go-Rounders",
+      "Dylan Grove"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove",
     "date": "2023-12-28T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
     "artist": [
-      "The Day Nites"
+      "The Day Nites",
+      "DJ Mr. Fishtruck"
     ],
-    "link": "https://www.beachlandballroom.com/e/13814258/the-day-nites",
+    "link": "https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck",
     "date": "2023-12-29T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "The Baker's Basement",
+      "Guggy's Rock & Roll 101",
+      "Kiss Me Deadly",
+      "The 80's Ladies"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13270513/the-baker-s-basement-guggy-s-rock-roll-101-kiss-me-deadly-the-80-s-ladies",
+    "date": "2023-12-30T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "John Welton & The Awakening",
+      "Johnny Markowski (New Riders of the Purple Sage/Drums)"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-",
+    "date": "2023-12-31T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jaxsaun",
+      "Allthehipe",
+      "Will Cherry"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry",
+    "date": "2024-01-04T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Mark Gamjager & the Lustre Kings",
+      "The Whiskey Daredevils"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13279153/mark-gamjager-the-lustre-kings-the-whiskey-daredevils",
+    "date": "2024-01-05T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Wish Queen",
+      "UNBYUL",
+      "Charity Evonna"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13276263/wish-queen-unbyul-charity-evonna",
+    "date": "2024-01-06T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -326,6 +348,25 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13819888/the-fm-project-steely-dan-tribute-band-",
     "date": "2024-01-06T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Doug McKean & The Stuntmen",
+      "Dave Rich & his Enablers",
+      "Ray Flanagan"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13279423/doug-mckean-the-stuntmen-dave-rich-his-enablers-ray-flanagan",
+    "date": "2024-01-12T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Carlos Jones & The PLUS Band",
+      "Sh\u0101k\u0113 Ground"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13276203/carlos-jones-the-plus-band-sh-k-ground",
+    "date": "2024-01-13T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -350,6 +391,32 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead",
     "date": "2024-01-20T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Lowertown"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13262283/lowertown",
+    "date": "2024-01-21T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "The New Soft Shoe"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13270023/the-new-soft-shoe",
+    "date": "2024-01-24T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Cavale",
+      "JSSZCA",
+      "Tessas"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13279863/cavale-jsszca-tessas",
+    "date": "2024-01-25T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -484,6 +551,15 @@
   },
   {
     "artist": [
+      "Tanner Usrey",
+      "Kat Hasty"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Tophouse",
       "Good Morning Bedlam"
     ],
@@ -518,9 +594,10 @@
   },
   {
     "artist": [
-      "Post Sex Nachos"
+      "Post Sex Nachos",
+      "Similar Kind"
     ],
-    "link": "https://www.beachlandballroom.com/e/13708828/post-sex-nachos",
+    "link": "https://www.beachlandballroom.com/e/13708828/post-sex-nachos-similar-kind",
     "date": "2024-03-26T20:00:00",
     "venue": "Beachland Tavern"
   },

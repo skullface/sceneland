@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Ekoostik Hookah"
-    ],
-    "link": "https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-24-2023/event/05005E7ECC57495A",
-    "date": "2023-11-24T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Welshly Arms: Presented By The Summit FM"
-    ],
-    "link": "https://concerts.livenation.com/welshly-arms-presented-by-the-summit-cleveland-ohio-11-25-2023/event/05005F0BDBE69247",
-    "date": "2023-11-25T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "NEFFEX: Born A Rockstar: The World Tour 2023"
     ],
     "link": "https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1",
@@ -97,6 +81,14 @@
   },
   {
     "artist": [
+      "Myron Elkins"
+    ],
+    "link": "https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158",
+    "date": "2023-12-29T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "The Vindys"
     ],
     "link": "https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4",
@@ -125,6 +117,14 @@
     ],
     "link": "https://concerts.livenation.com/holiday-hangover-feat-old-skool-cleveland-ohio-01-06-2024/event/05005F540D126EB1",
     "date": "2024-01-06T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "The Fleetwood Mac Experience"
+    ],
+    "link": "https://concerts.livenation.com/the-fleetwood-mac-experience-cleveland-ohio-01-12-2024/event/05005F74DD782966",
+    "date": "2024-01-12T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -209,6 +209,14 @@
   },
   {
     "artist": [
+      "Saved By The 90's"
+    ],
+    "link": "https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-02-17-2024/event/05005F6EB0E520F8",
+    "date": "2024-02-17T20:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Cold War Kids: 20 Years Tour"
     ],
     "link": "https://concerts.livenation.com/cold-war-kids-20-years-tour-cleveland-ohio-02-26-2024/event/05005F26A8DE1B1C",
@@ -221,6 +229,14 @@
     ],
     "link": "https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC",
     "date": "2024-03-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Bryce Vine: The Saturday Night Tour"
+    ],
+    "link": "https://concerts.livenation.com/bryce-vine-the-saturday-night-tour-cleveland-ohio-03-06-2024/event/05005F7108AEB7DD",
+    "date": "2024-03-06T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -285,6 +301,14 @@
     ],
     "link": "https://concerts.livenation.com/a-flock-of-seagulls-cleveland-ohio-03-28-2024/event/05005F61AAF63BDF",
     "date": "2024-03-28T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Set It Off: The Deathless Tour"
+    ],
+    "link": "https://concerts.livenation.com/set-it-off-the-deathless-tour-cleveland-ohio-03-30-2024/event/05005F75A67815E6",
+    "date": "2024-03-30T17:30:00",
     "venue": "House of Blues"
   },
   {

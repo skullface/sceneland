@@ -59,24 +59,25 @@ for show in shows:
       month, day = '', date
   else:
     weekday, date, month, day, time = '', date_parts[0], '', '', ''
-        
-  current_date = datetime.now().date()
-  year = current_date.year
 
-  month_number = datetime.strptime(month, '%b').month
-
-  if month_number < current_date.month:
-    year = current_date.year + 1
-  else:
+  if date != '':
+    current_date = datetime.now().date()
     year = current_date.year
 
-  date_only = month + day + str(year)
-  final_date = datetime.strptime(date_only, '%b%d%Y')
-  final_time = datetime.strptime(time, '%I:%M %p').time()
-  all_shows_data['date'] = str(final_date).split(' ', 1)[0] + 'T' + str(final_time)
+    month_number = datetime.strptime(month, '%b').month
 
-  all_shows_data['venue'] = 'Happy Dog'
-  all_shows_list.append(all_shows_data)
+    if month_number < current_date.month:
+      year = current_date.year + 1
+    else:
+      year = current_date.year
+
+    date_only = month + day + str(year)
+    final_date = datetime.strptime(date_only, '%b%d%Y')
+    final_time = datetime.strptime(time, '%I:%M %p').time()
+    all_shows_data['date'] = str(final_date).split(' ', 1)[0] + 'T' + str(final_time)
+
+    all_shows_data['venue'] = 'Happy Dog'
+    all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 
 print(all_shows_json)

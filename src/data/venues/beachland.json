@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Thor Platter Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13255193/thor-platter-band",
-    "date": "2023-11-28T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Urban Heat",
       "Rare DM",
       "DJ Uvula"
@@ -257,9 +249,10 @@
     "artist": [
       "Blue Lunch",
       "Jerry Devivo (Mighty Blue Kings)",
+      "Tom Moore (Little Frank & the Premiers)",
       "DJ Pete London"
     ],
-    "link": "https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-dj-pete-london",
+    "link": "https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-tom-moore-little-frank-the-premiers-dj-pete-london",
     "date": "2023-12-25T19:30:00",
     "venue": "Beachland Tavern"
   },
@@ -387,6 +380,14 @@
   },
   {
     "artist": [
+      "School of Rock"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13285383/school-of-rock",
+    "date": "2024-01-20T11:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Bearly Dead: A Tribute To The Grateful Dead"
     ],
     "link": "https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead",
@@ -425,6 +426,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert",
     "date": "2024-01-27T15:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "School of Rock"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13285403/school-of-rock",
+    "date": "2024-01-28T11:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -560,6 +569,15 @@
   },
   {
     "artist": [
+      "Circles Around The Sun",
+      "Mikaela Davis"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis",
+    "date": "2024-03-13T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Tophouse",
       "Good Morning Bedlam"
     ],
@@ -578,10 +596,29 @@
   },
   {
     "artist": [
+      "Tow'rs"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13265473/tow-rs",
+    "date": "2024-03-19T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Mike Doughty and Ghost of Vroom"
     ],
     "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
     "date": "2024-03-19T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Owen River",
+      "Charity Cunningham",
+      "Vince Nerone",
+      "Jack Harris"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13283663/owen-river-charity-cunningham-vince-nerone-jack-harris",
+    "date": "2024-03-22T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

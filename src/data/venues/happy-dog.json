@@ -9,6 +9,14 @@
   },
   {
     "artist": [
+      "Live Hip-Hop Showcase in the Underdog!"
+    ],
+    "link": "https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267",
+    "date": "2023-12-01T18:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Dave Swanson's Mystery Airship, Dave Rich & His Enablers"
     ],
     "link": "https://www.eventbrite.com/e/dave-swansons-mystery-airship-dave-rich-his-enablers-tickets-763616977937",
@@ -21,6 +29,14 @@
     ],
     "link": "https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657",
     "date": "2023-12-02T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood"
+    ],
+    "link": "https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727",
+    "date": "2023-12-05T20:00:00",
     "venue": "Happy Dog"
   },
   {
@@ -41,42 +57,18 @@
   },
   {
     "artist": [
+      "Cardboard Caskets, Beach Stav, The Baker\u2019s Basement"
+    ],
+    "link": "https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667",
+    "date": "2023-12-09T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Full 90: a Free Night of Irish Music!"
     ],
     "link": "https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367",
     "date": "2023-12-12T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "DJ Kishka Happy Hour!"
-    ],
-    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637",
-    "date": "2023-12-15T18:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Classical Revolution Cleveland"
-    ],
-    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-763631260657",
-    "date": "2023-12-20T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Rat Motel, King Buu, As Well"
-    ],
-    "link": "https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707",
-    "date": "2023-12-22T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Herzog, Napsack, Cross Brothers"
-    ],
-    "link": "https://www.eventbrite.com/e/herzog-napsack-cross-brothers-tickets-764241726577",
-    "date": "2023-12-23T21:00:00",
     "venue": "Happy Dog"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Makeout, Lil Lotus, Saceb, Lemonbar, Skippy\u2019s On The Run"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/",
-    "date": "2023-11-28T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Priscilla, Kidd Wicked, Sammy T\u2019s Sideshow, Vultan"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/priscilla-kidd-wicked-sammy-ts-sideshow-vultan/",
@@ -97,10 +89,34 @@
   },
   {
     "artist": [
+      "MEATFEST"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/meatfest/",
+    "date": "2023-12-29T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Nocturnal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
+    "date": "2023-12-30T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/",
     "date": "2023-12-31T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Deadlands, Convictions"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/deadlands-convictions/",
+    "date": "2024-01-13T19:00:00",
     "venue": "Foundry"
   },
   {

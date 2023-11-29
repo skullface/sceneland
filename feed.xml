@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Nov 2023 09:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 17:10:53 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Makeout, Lil Lotus, Saceb, Lemonbar, Skippy’s On The Run at Foundry]]></title>
-            <description><![CDATA[Get tickets to Makeout, Lil Lotus, Saceb, Lemonbar, Skippy’s On The Run at Foundry on Tuesday, November 28, 2023, 06:30 PM: https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/makeout-lil-lotus-saceb-lemonbar-skippys-on-the-run/</guid>
-            <pubDate>Tue, 28 Nov 2023 18:30:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Priscilla, Kidd Wicked, Sammy T’s Sideshow, Vultan at Foundry]]></title>
             <description><![CDATA[Get tickets to Priscilla, Kidd Wicked, Sammy T’s Sideshow, Vultan at Foundry on Friday, December 1, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/priscilla-kidd-wicked-sammy-ts-sideshow-vultan/]]></description>
@@ -91,11 +84,32 @@
             <pubDate>Fri, 22 Dec 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MEATFEST at Foundry]]></title>
+            <description><![CDATA[Get tickets to MEATFEST at Foundry on Friday, December 29, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/meatfest/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/meatfest/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/meatfest/</guid>
+            <pubDate>Fri, 29 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nocturnal at Foundry]]></title>
+            <description><![CDATA[Get tickets to Nocturnal at Foundry on Saturday, December 30, 2023, 09:00 PM: https://www.foundryconcertclub.com/tm-event/nocturnal-2/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/nocturnal-2/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nocturnal-2/</guid>
+            <pubDate>Sat, 30 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends at Foundry]]></title>
             <description><![CDATA[Get tickets to Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends at Foundry on Sunday, December 31, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/</guid>
             <pubDate>Sun, 31 Dec 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadlands, Convictions at Foundry]]></title>
+            <description><![CDATA[Get tickets to Deadlands, Convictions at Foundry on Saturday, January 13, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/deadlands-convictions/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/deadlands-convictions/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/deadlands-convictions/</guid>
+            <pubDate>Sat, 13 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE BUNNY THE BEAR, Dizasterpiece, Left Unsaid, Audience Of Rain, Seconds of Silence, Behead The Prophet at Foundry]]></title>
@@ -294,13 +308,6 @@
             <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Radio Dummies, Dishwasher Possum, Jet Star at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Radio Dummies, Dishwasher Possum, Jet Star at Grog Shop on Tuesday, November 28, 2023, 08:00 PM: https://grogshop.gs/event-details/13778058/radio-dummies-dishwasher-possum-jet-star]]></description>
-            <link>https://grogshop.gs/event-details/13778058/radio-dummies-dishwasher-possum-jet-star</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13778058/radio-dummies-dishwasher-possum-jet-star</guid>
-            <pubDate>Tue, 28 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hooks for Feet, Night Medicine, Johnny Locomotive at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Hooks for Feet, Night Medicine, Johnny Locomotive at Grog Shop on Wednesday, November 29, 2023, 08:00 PM: https://grogshop.gs/event-details/13803308/hooks-for-feet-night-medicine-johnny-locomotive]]></description>
             <link>https://grogshop.gs/event-details/13803308/hooks-for-feet-night-medicine-johnny-locomotive</link>
@@ -406,17 +413,17 @@
             <pubDate>Fri, 15 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain at Grog Shop on Saturday, December 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain]]></description>
-            <link>https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain</guid>
-            <pubDate>Sat, 16 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CupcakKe at Grog Shop]]></title>
             <description><![CDATA[Get tickets to CupcakKe at Grog Shop on Saturday, December 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13604468/cupcakke]]></description>
             <link>https://grogshop.gs/event-details/13604468/cupcakke</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13604468/cupcakke</guid>
+            <pubDate>Sat, 16 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain at Grog Shop on Saturday, December 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain]]></description>
+            <link>https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain</guid>
             <pubDate>Sat, 16 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -467,13 +474,6 @@
             <link>https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas</guid>
             <pubDate>Sat, 23 Dec 2023 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christmas Comedy Show hosted by Spike Lou, Gene Miller, and Kee Silly at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Christmas Comedy Show hosted by Spike Lou, Gene Miller, and Kee Silly at Grog Shop on Sunday, December 24, 2023, 06:00 PM: https://grogshop.gs/event-details/13247703/christmas-comedy-show-hosted-by-spike-lou-gene-miller-and-kee-silly]]></description>
-            <link>https://grogshop.gs/event-details/13247703/christmas-comedy-show-hosted-by-spike-lou-gene-miller-and-kee-silly</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13247703/christmas-comedy-show-hosted-by-spike-lou-gene-miller-and-kee-silly</guid>
-            <pubDate>Sun, 24 Dec 2023 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christmas Night with Franc West & Friends, Franc West, Jabtune at Grog Shop]]></title>
@@ -553,6 +553,13 @@
             <pubDate>Wed, 17 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Faith & Whiskey at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Faith & Whiskey at Grog Shop on Friday, January 19, 2024, 08:00 PM: https://grogshop.gs/event-details/13284873/faith-whiskey]]></description>
+            <link>https://grogshop.gs/event-details/13284873/faith-whiskey</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13284873/faith-whiskey</guid>
+            <pubDate>Fri, 19 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Found Footage Festival Vol. 10: Popcorn Classics, Lenora's Midnight Rental at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Found Footage Festival Vol. 10: Popcorn Classics, Lenora's Midnight Rental at Grog Shop on Sunday, January 21, 2024, 08:00 PM: https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics]]></description>
             <link>https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics</link>
@@ -565,6 +572,13 @@
             <link>https://grogshop.gs/event-details/13266893/jack-lutz-temple-brothers-rooftops-unseen-keys-seconds-away</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13266893/jack-lutz-temple-brothers-rooftops-unseen-keys-seconds-away</guid>
             <pubDate>Wed, 24 Jan 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mac Saturn: Hard To Sell Tour at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Mac Saturn: Hard To Sell Tour at Grog Shop on Saturday, January 27, 2024, 07:30 PM: https://grogshop.gs/event-details/13867048/mac-saturn-hard-to-sell-tour]]></description>
+            <link>https://grogshop.gs/event-details/13867048/mac-saturn-hard-to-sell-tour</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13867048/mac-saturn-hard-to-sell-tour</guid>
+            <pubDate>Sat, 27 Jan 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wednesday, Hotline TNT at Grog Shop]]></title>
@@ -861,6 +875,13 @@
             <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mother's Day Celebration at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Mother's Day Celebration at Playhouse Square on Saturday, May 11, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/mothers-day-celebration]]></description>
+            <link>https://www.playhousesquare.org/events/detail/mothers-day-celebration</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/mothers-day-celebration</guid>
+            <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First Snow at Agora]]></title>
             <description><![CDATA[Get tickets to First Snow at Agora on Saturday, December 2, 2023, 06:30 PM: https://www.agoracleveland.com/events/detail/500326]]></description>
             <link>https://www.agoracleveland.com/events/detail/500326</link>
@@ -1078,13 +1099,6 @@
             <pubDate>Thu, 16 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BODY VOID at No Class]]></title>
-            <description><![CDATA[Get tickets to BODY VOID at No Class on Tuesday, November 28, 2023, 07:00 PM: https://www.eventbrite.com/e/body-void-tickets-719856910397]]></description>
-            <link>https://www.eventbrite.com/e/body-void-tickets-719856910397</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/body-void-tickets-719856910397</guid>
-            <pubDate>Tue, 28 Nov 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[JARHEAD FERTILIZER at No Class]]></title>
             <description><![CDATA[Get tickets to JARHEAD FERTILIZER at No Class on Tuesday, December 5, 2023, 07:00 PM: https://www.eventbrite.com/e/jarhead-fertilizer-tickets-727933798587]]></description>
             <link>https://www.eventbrite.com/e/jarhead-fertilizer-tickets-727933798587</link>
@@ -1118,13 +1132,6 @@
             <link>https://www.eventbrite.com/e/escuela-grind-tickets-763919623157</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/escuela-grind-tickets-763919623157</guid>
             <pubDate>Mon, 12 Feb 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues]]></title>
-            <description><![CDATA[Get tickets to NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues on Tuesday, November 28, 2023, 07:00 PM: https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1]]></description>
-            <link>https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-28-2023/event/05005EA8D67496B1</guid>
-            <pubDate>Tue, 28 Nov 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lukas Nelson + POTR at House of Blues]]></title>
@@ -1435,6 +1442,13 @@
             <pubDate>Wed, 29 Nov 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Live Hip-Hop Showcase in the Underdog! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Live Hip-Hop Showcase in the Underdog! at Happy Dog on Friday, December 1, 2023, 06:30 PM: https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267]]></description>
+            <link>https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267</guid>
+            <pubDate>Fri, 01 Dec 2023 18:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dave Swanson's Mystery Airship, Dave Rich & His Enablers at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Dave Swanson's Mystery Airship, Dave Rich & His Enablers at Happy Dog on Friday, December 1, 2023, 09:00 PM: https://www.eventbrite.com/e/dave-swansons-mystery-airship-dave-rich-his-enablers-tickets-763616977937]]></description>
             <link>https://www.eventbrite.com/e/dave-swansons-mystery-airship-dave-rich-his-enablers-tickets-763616977937</link>
@@ -1447,6 +1461,13 @@
             <link>https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657</guid>
             <pubDate>Sat, 02 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood at Happy Dog on Tuesday, December 5, 2023, 08:00 PM: https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727]]></description>
+            <link>https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727</guid>
+            <pubDate>Tue, 05 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Happy Dog Takes on Everything at Happy Dog]]></title>
@@ -1463,39 +1484,18 @@
             <pubDate>Fri, 08 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cardboard Caskets, Beach Stav, The Baker’s Basement at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Cardboard Caskets, Beach Stav, The Baker’s Basement at Happy Dog on Saturday, December 9, 2023, 09:00 PM: https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667]]></description>
+            <link>https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667</guid>
+            <pubDate>Sat, 09 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Full 90: a Free Night of Irish Music! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Full 90: a Free Night of Irish Music! at Happy Dog on Tuesday, December 12, 2023, 08:00 PM: https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367]]></description>
             <link>https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367</guid>
             <pubDate>Tue, 12 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DJ Kishka Happy Hour! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to DJ Kishka Happy Hour! at Happy Dog on Friday, December 15, 2023, 06:00 PM: https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637]]></description>
-            <link>https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637</guid>
-            <pubDate>Fri, 15 Dec 2023 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Classical Revolution Cleveland at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Classical Revolution Cleveland at Happy Dog on Wednesday, December 20, 2023, 08:00 PM: https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-763631260657]]></description>
-            <link>https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-763631260657</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-763631260657</guid>
-            <pubDate>Wed, 20 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rat Motel, King Buu, As Well at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Rat Motel, King Buu, As Well at Happy Dog on Friday, December 22, 2023, 09:00 PM: https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707]]></description>
-            <link>https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707</guid>
-            <pubDate>Fri, 22 Dec 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herzog, Napsack, Cross Brothers at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Herzog, Napsack, Cross Brothers at Happy Dog on Saturday, December 23, 2023, 09:00 PM: https://www.eventbrite.com/e/herzog-napsack-cross-brothers-tickets-764241726577]]></description>
-            <link>https://www.eventbrite.com/e/herzog-napsack-cross-brothers-tickets-764241726577</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/herzog-napsack-cross-brothers-tickets-764241726577</guid>
-            <pubDate>Sat, 23 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Steel Panther – On The Prowl Winter Holidaze Tour at Masonic Temple]]></title>
@@ -1589,6 +1589,20 @@
             <pubDate>Fri, 08 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[WQMX Presents: Terri Clark at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to WQMX Presents: Terri Clark at Masonic Temple on Thursday, March 14, 2024, 08:00 PM: https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F]]></description>
+            <link>https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F</guid>
+            <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Celtic Tenors – Celebrating 25 Years at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to The Celtic Tenors – Celebrating 25 Years at Masonic Temple on Tuesday, March 19, 2024, 08:00 PM: https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05005F7B8B9A10DB]]></description>
+            <link>https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05005F7B8B9A10DB</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05005F7B8B9A10DB</guid>
+            <pubDate>Tue, 19 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[William Black at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to William Black at Masonic Temple on Friday, March 22, 2024, 07:30 PM: https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D]]></description>
             <link>https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D</link>
@@ -1601,13 +1615,6 @@
             <link>https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</guid>
             <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Better Off at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Better Off at Mahall’s on Tuesday, November 28, 2023, 11:30 PM: https://link.dice.fm/d03ed5769012]]></description>
-            <link>https://link.dice.fm/d03ed5769012</link>
-            <guid isPermaLink="true">https://link.dice.fm/d03ed5769012</guid>
-            <pubDate>Tue, 28 Nov 2023 23:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oliver Hazard at Mahall’s]]></title>
@@ -1869,13 +1876,6 @@
             <pubDate>Fri, 21 Jun 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Thor Platter Band at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Thor Platter Band at Beachland Tavern on Tuesday, November 28, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13255193/thor-platter-band]]></description>
-            <link>https://www.beachlandballroom.com/e/13255193/thor-platter-band</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13255193/thor-platter-band</guid>
-            <pubDate>Tue, 28 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Urban Heat, Rare DM, DJ Uvula at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Urban Heat, Rare DM, DJ Uvula at Beachland Tavern on Thursday, November 30, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula]]></description>
             <link>https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula</link>
@@ -2058,10 +2058,10 @@
             <pubDate>Sat, 23 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blue Lunch, Jerry Devivo (Mighty Blue Kings), DJ Pete London at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Blue Lunch, Jerry Devivo (Mighty Blue Kings), DJ Pete London at Beachland Tavern on Monday, December 25, 2023, 07:30 PM: https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-dj-pete-london]]></description>
-            <link>https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-dj-pete-london</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-dj-pete-london</guid>
+            <title><![CDATA[Blue Lunch, Jerry Devivo (Mighty Blue Kings), Tom Moore (Little Frank & the Premiers), DJ Pete London at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Blue Lunch, Jerry Devivo (Mighty Blue Kings), Tom Moore (Little Frank & the Premiers), DJ Pete London at Beachland Tavern on Monday, December 25, 2023, 07:30 PM: https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-tom-moore-little-frank-the-premiers-dj-pete-london]]></description>
+            <link>https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-tom-moore-little-frank-the-premiers-dj-pete-london</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-tom-moore-little-frank-the-premiers-dj-pete-london</guid>
             <pubDate>Mon, 25 Dec 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2156,6 +2156,13 @@
             <pubDate>Fri, 19 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[School of Rock at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to School of Rock at Beachland Ballroom on Saturday, January 20, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13285383/school-of-rock]]></description>
+            <link>https://www.beachlandballroom.com/e/13285383/school-of-rock</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13285383/school-of-rock</guid>
+            <pubDate>Sat, 20 Jan 2024 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bearly Dead: A Tribute To The Grateful Dead at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Bearly Dead: A Tribute To The Grateful Dead at Beachland Tavern on Saturday, January 20, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead]]></description>
             <link>https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead</link>
@@ -2189,6 +2196,13 @@
             <link>https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert</guid>
             <pubDate>Sat, 27 Jan 2024 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[School of Rock at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to School of Rock at Beachland Ballroom on Sunday, January 28, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13285403/school-of-rock]]></description>
+            <link>https://www.beachlandballroom.com/e/13285403/school-of-rock</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13285403/school-of-rock</guid>
+            <pubDate>Sun, 28 Jan 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bumpin Uglies, Grilled Lincoln, Higher Education at Beachland Ballroom]]></title>
@@ -2296,6 +2310,13 @@
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Circles Around The Sun, Mikaela Davis at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Circles Around The Sun, Mikaela Davis at Beachland Ballroom on Wednesday, March 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis]]></description>
+            <link>https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis</guid>
+            <pubDate>Wed, 13 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tophouse, Good Morning Bedlam at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Tophouse, Good Morning Bedlam at Beachland Tavern on Thursday, March 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam]]></description>
             <link>https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam</link>
@@ -2310,11 +2331,25 @@
             <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tow'rs at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Tow'rs at Beachland Tavern on Tuesday, March 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13265473/tow-rs]]></description>
+            <link>https://www.beachlandballroom.com/e/13265473/tow-rs</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13265473/tow-rs</guid>
+            <pubDate>Tue, 19 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mike Doughty and Ghost of Vroom at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Mike Doughty and Ghost of Vroom at Beachland Ballroom on Tuesday, March 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom]]></description>
             <link>https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom</guid>
             <pubDate>Tue, 19 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Owen River, Charity Cunningham, Vince Nerone, Jack Harris at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Owen River, Charity Cunningham, Vince Nerone, Jack Harris at Beachland Ballroom on Friday, March 22, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13283663/owen-river-charity-cunningham-vince-nerone-jack-harris]]></description>
+            <link>https://www.beachlandballroom.com/e/13283663/owen-river-charity-cunningham-vince-nerone-jack-harris</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13283663/owen-river-charity-cunningham-vince-nerone-jack-harris</guid>
+            <pubDate>Fri, 22 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shovels & Rope at Beachland Ballroom]]></title>

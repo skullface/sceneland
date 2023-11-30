@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Boy Jr., Solon, October Beach Club"
-    ],
-    "link": "https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107",
-    "date": "2023-11-29T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Live Hip-Hop Showcase in the Underdog!"
     ],
     "link": "https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367",
     "date": "2023-12-12T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "DJ Kishka Happy Hour!"
+    ],
+    "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637",
+    "date": "2023-12-15T18:00:00",
     "venue": "Happy Dog"
   }
 ]

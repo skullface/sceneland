@@ -271,16 +271,13 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Avenged Sevenfold', 'Special Guests Poppy + Sullivan King'],
+    artist: [
+      'Avenged Sevenfold: Life Is But A Dream\u2026North American Tour',
+      'Special Guests Poppy + Sullivan King',
+    ],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309',
     date: '2024-03-09',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Hooks for Feet', 'Night Medicine', 'Johnny Locomotive'],
-    link: 'https://grogshop.gs/event-details/13803308/hooks-for-feet-night-medicine-johnny-locomotive',
-    date: '2023-11-29T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Noise Ctrl', 'This Summer', 'Dome Test', 'akafayaven'],
@@ -340,6 +337,17 @@ export const allShows = [
   },
   {
     artist: [
+      'Silent Disco: Ugly Sweater Edition',
+      'DJ White Rims',
+      'DJ Red-I',
+      'Mimi Dromette',
+    ],
+    link: 'https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition',
+    date: '2023-12-09T21:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
       'Lea Marra & The River Boys "Folky Christmas" , Blue Hour and Austin Hamilton',
     ],
     link: 'https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour-and-austin-hamilton',
@@ -380,9 +388,9 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['CupcakKe'],
-    link: 'https://grogshop.gs/event-details/13604468/cupcakke',
-    date: '2023-12-16T20:00:00',
+    artist: ['Jukebox Breakdown'],
+    link: 'https://grogshop.gs/event-details/13290493/jukebox-breakdown',
+    date: '2023-12-15T21:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -390,6 +398,12 @@ export const allShows = [
       'Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain',
     ],
     link: 'https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain',
+    date: '2023-12-16T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['CupcakKe'],
+    link: 'https://grogshop.gs/event-details/13604468/cupcakke',
     date: '2023-12-16T20:00:00',
     venue: 'Grog Shop',
   },
@@ -462,6 +476,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Princemas', 'JetSet2one6', 'Guilty Pleasures'],
+    link: 'https://grogshop.gs/event-details/13290523/princemas',
+    date: '2023-12-23T21:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: [
       'Christmas Night with Franc West & Friends',
       'Franc West',
@@ -484,7 +504,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Dave Hill', 'Mike Polk', 'Bill Squire'],
+    artist: ['Dave Hill , Mike Polk, Bill Squire'],
     link: 'https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire',
     date: '2023-12-30T19:30:00',
     venue: 'Grog Shop',
@@ -1063,12 +1083,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Lukas Nelson + POTR'],
-    link: 'https://concerts.livenation.com/lukas-nelson-potr-cleveland-ohio-11-29-2023/event/05005F2DA5E423CF',
-    date: '2023-11-29T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['NEFFEX: Born A Rockstar: The World Tour 2023'],
     link: 'https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8',
     date: '2023-11-30T19:00:00',
@@ -1086,12 +1100,6 @@ export const allShows = [
     artist: ['Andrew McMahon In The Wilderness: New Friends Tour 2023'],
     link: 'https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1',
     date: '2023-12-02T18:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Jazz Is Dead'],
-    link: 'https://concerts.livenation.com/jazz-is-dead-cleveland-ohio-12-03-2023/event/05005EE505D05AD2',
-    date: '2023-12-03T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1323,12 +1331,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Boy Jr., Solon, October Beach Club'],
-    link: 'https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107',
-    date: '2023-11-29T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Live Hip-Hop Showcase in the Underdog!'],
     link: 'https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267',
     date: '2023-12-01T18:30:00',
@@ -1376,6 +1378,12 @@ export const allShows = [
     artist: ['Full 90: a Free Night of Irish Music!'],
     link: 'https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367',
     date: '2023-12-12T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['DJ Kishka Happy Hour!'],
+    link: 'https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637',
+    date: '2023-12-15T18:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -1552,15 +1560,39 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['RRRIOT!'],
+    link: 'https://link.dice.fm/O99db059e27d',
+    date: '2023-12-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Cassoulet'],
     link: 'https://link.dice.fm/q116be672a8f',
     date: '2023-12-21T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['October Beach Club'],
+    link: 'https://link.dice.fm/R1f4deeaa38c',
+    date: '2023-12-22T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['EMO NIGHTmare before Christmas'],
     link: 'https://link.dice.fm/Sfefef90755a',
     date: '2023-12-23T21:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['People in the Daytime'],
+    link: 'https://link.dice.fm/I46f0a0cc25e',
+    date: '2023-12-27T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Free Drew'],
+    link: 'https://link.dice.fm/F01ab75fa0a4',
+    date: '2023-12-28T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2133,8 +2165,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Circles Around The Sun', 'Mikaela Davis'],
-    link: 'https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis',
+    artist: ['Circles Around The Sun', 'Mikaela Davis and Southern Star'],
+    link: 'https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis-and-southern-star',
     date: '2024-03-13T20:00:00',
     venue: 'Beachland Ballroom',
   },

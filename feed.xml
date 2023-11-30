@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Nov 2023 17:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 09:06:09 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Priscilla, Kidd Wicked, Sammy T’s Sideshow, Vultan at Foundry]]></title>
@@ -301,18 +301,11 @@
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Avenged Sevenfold, Special Guests Poppy + Sullivan King at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Avenged Sevenfold, Special Guests Poppy + Sullivan King at Rocket Mortgage FieldHouse on Saturday, March 9, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309]]></description>
+            <title><![CDATA[Avenged Sevenfold: Life Is But A Dream…North American Tour, Special Guests Poppy + Sullivan King at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Avenged Sevenfold: Life Is But A Dream…North American Tour, Special Guests Poppy + Sullivan King at Rocket Mortgage FieldHouse on Saturday, March 9, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309</guid>
             <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hooks for Feet, Night Medicine, Johnny Locomotive at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Hooks for Feet, Night Medicine, Johnny Locomotive at Grog Shop on Wednesday, November 29, 2023, 08:00 PM: https://grogshop.gs/event-details/13803308/hooks-for-feet-night-medicine-johnny-locomotive]]></description>
-            <link>https://grogshop.gs/event-details/13803308/hooks-for-feet-night-medicine-johnny-locomotive</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13803308/hooks-for-feet-night-medicine-johnny-locomotive</guid>
-            <pubDate>Wed, 29 Nov 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noise Ctrl, This Summer, Dome Test, akafayaven at Grog Shop]]></title>
@@ -378,6 +371,13 @@
             <pubDate>Sat, 09 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Silent Disco: Ugly Sweater Edition, DJ White Rims, DJ Red-I, Mimi Dromette at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Silent Disco: Ugly Sweater Edition, DJ White Rims, DJ Red-I, Mimi Dromette at Grog Shop on Saturday, December 9, 2023, 09:00 PM: https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition]]></description>
+            <link>https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition</guid>
+            <pubDate>Sat, 09 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lea Marra & The River Boys "Folky Christmas" , Blue Hour and Austin Hamilton at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Lea Marra & The River Boys "Folky Christmas" , Blue Hour and Austin Hamilton at Grog Shop on Sunday, December 10, 2023, 06:30 PM: https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour-and-austin-hamilton]]></description>
             <link>https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour-and-austin-hamilton</link>
@@ -413,17 +413,24 @@
             <pubDate>Fri, 15 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CupcakKe at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to CupcakKe at Grog Shop on Saturday, December 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13604468/cupcakke]]></description>
-            <link>https://grogshop.gs/event-details/13604468/cupcakke</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13604468/cupcakke</guid>
-            <pubDate>Sat, 16 Dec 2023 20:00:00 GMT</pubDate>
+            <title><![CDATA[Jukebox Breakdown at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Jukebox Breakdown at Grog Shop on Friday, December 15, 2023, 09:00 PM: https://grogshop.gs/event-details/13290493/jukebox-breakdown]]></description>
+            <link>https://grogshop.gs/event-details/13290493/jukebox-breakdown</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13290493/jukebox-breakdown</guid>
+            <pubDate>Fri, 15 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain at Grog Shop on Saturday, December 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain]]></description>
             <link>https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain</guid>
+            <pubDate>Sat, 16 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CupcakKe at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to CupcakKe at Grog Shop on Saturday, December 16, 2023, 08:00 PM: https://grogshop.gs/event-details/13604468/cupcakke]]></description>
+            <link>https://grogshop.gs/event-details/13604468/cupcakke</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13604468/cupcakke</guid>
             <pubDate>Sat, 16 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -476,6 +483,13 @@
             <pubDate>Sat, 23 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Princemas, JetSet2one6, Guilty Pleasures at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Princemas, JetSet2one6, Guilty Pleasures at Grog Shop on Saturday, December 23, 2023, 09:00 PM: https://grogshop.gs/event-details/13290523/princemas]]></description>
+            <link>https://grogshop.gs/event-details/13290523/princemas</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13290523/princemas</guid>
+            <pubDate>Sat, 23 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Christmas Night with Franc West & Friends, Franc West, Jabtune at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Christmas Night with Franc West & Friends, Franc West, Jabtune at Grog Shop on Monday, December 25, 2023, 08:30 PM: https://grogshop.gs/event-details/13853778/christmas-night-with-franc-west-friends]]></description>
             <link>https://grogshop.gs/event-details/13853778/christmas-night-with-franc-west-friends</link>
@@ -497,8 +511,8 @@
             <pubDate>Fri, 29 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dave Hill, Mike Polk, Bill Squire at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Dave Hill, Mike Polk, Bill Squire at Grog Shop on Saturday, December 30, 2023, 07:30 PM: https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire]]></description>
+            <title><![CDATA[Dave Hill , Mike Polk, Bill Squire at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Dave Hill , Mike Polk, Bill Squire at Grog Shop on Saturday, December 30, 2023, 07:30 PM: https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire]]></description>
             <link>https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire</guid>
             <pubDate>Sat, 30 Dec 2023 19:30:00 GMT</pubDate>
@@ -1134,13 +1148,6 @@
             <pubDate>Mon, 12 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lukas Nelson + POTR at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Lukas Nelson + POTR at House of Blues on Wednesday, November 29, 2023, 07:00 PM: https://concerts.livenation.com/lukas-nelson-potr-cleveland-ohio-11-29-2023/event/05005F2DA5E423CF]]></description>
-            <link>https://concerts.livenation.com/lukas-nelson-potr-cleveland-ohio-11-29-2023/event/05005F2DA5E423CF</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/lukas-nelson-potr-cleveland-ohio-11-29-2023/event/05005F2DA5E423CF</guid>
-            <pubDate>Wed, 29 Nov 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues]]></title>
             <description><![CDATA[Get tickets to NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues on Thursday, November 30, 2023, 07:00 PM: https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8]]></description>
             <link>https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8</link>
@@ -1160,13 +1167,6 @@
             <link>https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1</link>
             <guid isPermaLink="true">https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1</guid>
             <pubDate>Sat, 02 Dec 2023 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jazz Is Dead at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Jazz Is Dead at House of Blues on Sunday, December 3, 2023, 07:00 PM: https://concerts.livenation.com/jazz-is-dead-cleveland-ohio-12-03-2023/event/05005EE505D05AD2]]></description>
-            <link>https://concerts.livenation.com/jazz-is-dead-cleveland-ohio-12-03-2023/event/05005EE505D05AD2</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/jazz-is-dead-cleveland-ohio-12-03-2023/event/05005EE505D05AD2</guid>
-            <pubDate>Sun, 03 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dirty Honey: Can't Find The Brakes Tour at House of Blues]]></title>
@@ -1435,13 +1435,6 @@
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boy Jr., Solon, October Beach Club at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Boy Jr., Solon, October Beach Club at Happy Dog on Wednesday, November 29, 2023, 09:00 PM: https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107]]></description>
-            <link>https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/boy-jr-solon-october-beach-club-tickets-716549588107</guid>
-            <pubDate>Wed, 29 Nov 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live Hip-Hop Showcase in the Underdog! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Live Hip-Hop Showcase in the Underdog! at Happy Dog on Friday, December 1, 2023, 06:30 PM: https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267]]></description>
             <link>https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-768744424267</link>
@@ -1496,6 +1489,13 @@
             <link>https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/full-90-a-free-night-of-irish-music-tickets-763632835367</guid>
             <pubDate>Tue, 12 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DJ Kishka Happy Hour! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to DJ Kishka Happy Hour! at Happy Dog on Friday, December 15, 2023, 06:00 PM: https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637]]></description>
+            <link>https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637</guid>
+            <pubDate>Fri, 15 Dec 2023 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Steel Panther – On The Prowl Winter Holidaze Tour at Masonic Temple]]></title>
@@ -1694,6 +1694,13 @@
             <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[RRRIOT! at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to RRRIOT! at Mahall’s on Monday, December 18, 2023, 12:00 AM: https://link.dice.fm/O99db059e27d]]></description>
+            <link>https://link.dice.fm/O99db059e27d</link>
+            <guid isPermaLink="true">https://link.dice.fm/O99db059e27d</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cassoulet at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Cassoulet at Mahall’s on Friday, December 22, 2023, 12:00 AM: https://link.dice.fm/q116be672a8f]]></description>
             <link>https://link.dice.fm/q116be672a8f</link>
@@ -1701,11 +1708,32 @@
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[October Beach Club at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to October Beach Club at Mahall’s on Saturday, December 23, 2023, 12:00 AM: https://link.dice.fm/R1f4deeaa38c]]></description>
+            <link>https://link.dice.fm/R1f4deeaa38c</link>
+            <guid isPermaLink="true">https://link.dice.fm/R1f4deeaa38c</guid>
+            <pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[EMO NIGHTmare before Christmas at Mahall’s]]></title>
             <description><![CDATA[Get tickets to EMO NIGHTmare before Christmas at Mahall’s on Sunday, December 24, 2023, 02:00 AM: https://link.dice.fm/Sfefef90755a]]></description>
             <link>https://link.dice.fm/Sfefef90755a</link>
             <guid isPermaLink="true">https://link.dice.fm/Sfefef90755a</guid>
             <pubDate>Sun, 24 Dec 2023 02:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People in the Daytime at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to People in the Daytime at Mahall’s on Thursday, December 28, 2023, 12:00 AM: https://link.dice.fm/I46f0a0cc25e]]></description>
+            <link>https://link.dice.fm/I46f0a0cc25e</link>
+            <guid isPermaLink="true">https://link.dice.fm/I46f0a0cc25e</guid>
+            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free Drew at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Free Drew at Mahall’s on Friday, December 29, 2023, 12:00 AM: https://link.dice.fm/F01ab75fa0a4]]></description>
+            <link>https://link.dice.fm/F01ab75fa0a4</link>
+            <guid isPermaLink="true">https://link.dice.fm/F01ab75fa0a4</guid>
+            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hammy New Year at Mahall’s]]></title>
@@ -2310,10 +2338,10 @@
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Circles Around The Sun, Mikaela Davis at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Circles Around The Sun, Mikaela Davis at Beachland Ballroom on Wednesday, March 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis]]></description>
-            <link>https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis</guid>
+            <title><![CDATA[Circles Around The Sun, Mikaela Davis and Southern Star at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Circles Around The Sun, Mikaela Davis and Southern Star at Beachland Ballroom on Wednesday, March 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis-and-southern-star]]></description>
+            <link>https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis-and-southern-star</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis-and-southern-star</guid>
             <pubDate>Wed, 13 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>

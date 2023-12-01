@@ -6,7 +6,7 @@
       "DJ Uvula"
     ],
     "link": "https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula",
-    "date": "2023-11-30T20:30:00",
+    "date": "2024-11-30T20:30:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -25,6 +25,7 @@
       "Star Wars Burlesque: The Tease Be With You"
     ],
     "link": "https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you",
+    "sold_out": true,
     "date": "2023-12-01T20:30:00",
     "venue": "Beachland Ballroom"
   },
@@ -299,6 +300,19 @@
   },
   {
     "artist": [
+      "Packy Malley's Peace Corps Jamaica Benefit Concert",
+      "Ernie Krivda",
+      "Special Guest TBA!",
+      "Terry Lee Goffee",
+      "JR Blessington + Special Guest",
+      "Flex Crew"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-special-guest-tba-terry-lee-goffee-jr-blessington-special-guest-flex-crew",
+    "date": "2023-12-30T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "John Welton & The Awakening",
       "Johnny Markowski (New Riders of the Purple Sage/Drums)"
     ],
@@ -364,9 +378,10 @@
   },
   {
     "artist": [
-      "Alex Williams"
+      "Alex Williams",
+      "The Morning Bird"
     ],
-    "link": "https://www.beachlandballroom.com/e/13769688/alex-williams",
+    "link": "https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird",
     "date": "2024-01-13T20:00:00",
     "venue": "Beachland Tavern"
   },

@@ -90,7 +90,7 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Deadlands, Convictions'],
+    artist: ['Deadlands, Convictions, I Fight Fail'],
     link: 'https://www.foundryconcertclub.com/tm-event/deadlands-convictions/',
     date: '2024-01-13T19:00:00',
     venue: 'Foundry',
@@ -280,12 +280,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Noise Ctrl', 'This Summer', 'Dome Test', 'akafayaven'],
-    link: 'https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-dome-test-akafayaven',
-    date: '2023-11-30T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['GlamGore: Galactic Ghouls', 'Anhedonia Delight'],
     link: 'https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls',
     date: '2023-12-01T21:00:00',
@@ -316,8 +310,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Charity Cunningham, Wish Queen, Anya Van Rose, Total Downer'],
-    link: 'https://grogshop.gs/event-details/13340128/charity-cunningham-wish-queen-anya-van-rose-total-downer',
+    artist: ['Total Downer, Wish Queen, Anya Van Rose, Charity Cunningham'],
+    link: 'https://grogshop.gs/event-details/13340128/total-downer-wish-queen-anya-van-rose-charity-cunningham',
     date: '2023-12-08T20:00:00',
     venue: 'Grog Shop',
   },
@@ -777,12 +771,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['WGAR Winter Wonder Jam Starring LEE BRICE'],
-    link: 'https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice',
-    date: '2023-11-30',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ["Straight No Chaser - Sleighin' It Tour"],
     link: 'https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour',
     date: '2023-12-02',
@@ -1083,12 +1071,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['NEFFEX: Born A Rockstar: The World Tour 2023'],
-    link: 'https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8',
-    date: '2023-11-30T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: [
       'The Suicide Machines Celebrating 20 Years of A Match and Some Gasoline',
     ],
@@ -1226,6 +1208,12 @@ export const allShows = [
     artist: ["Saved By The 90's"],
     link: 'https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-02-17-2024/event/05005F6EB0E520F8',
     date: '2024-02-17T20:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Veeze: Navy Wavy Presents: The Ganger Tour: Phase 2'],
+    link: 'https://concerts.livenation.com/veeze-navy-wavy-presents-the-ganger-cleveland-ohio-02-23-2024/event/05005F7D8FA011D9',
+    date: '2024-02-23T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1494,12 +1482,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Oliver Hazard'],
-    link: 'https://link.dice.fm/Of0606359dfc',
-    date: '2023-11-30T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Drayton Farley'],
     link: 'https://link.dice.fm/v94d14fa1810',
     date: '2023-12-01T19:00:00-05:00',
@@ -1605,6 +1587,12 @@ export const allShows = [
     artist: ['DRIXY'],
     link: 'https://link.dice.fm/B5b5df216223',
     date: '2024-01-06T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Fidlar'],
+    link: 'https://link.dice.fm/Jb3586ff310d',
+    date: '2024-01-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -1742,7 +1730,7 @@ export const allShows = [
   {
     artist: ['Urban Heat', 'Rare DM', 'DJ Uvula'],
     link: 'https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula',
-    date: '2023-11-30T20:30:00',
+    date: '2024-11-30T20:30:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -1759,6 +1747,7 @@ export const allShows = [
   {
     artist: ['Star Wars Burlesque: The Tease Be With You'],
     link: 'https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you',
+    sold_out: true,
     date: '2023-12-01T20:30:00',
     venue: 'Beachland Ballroom',
   },
@@ -1968,6 +1957,19 @@ export const allShows = [
   },
   {
     artist: [
+      "Packy Malley's Peace Corps Jamaica Benefit Concert",
+      'Ernie Krivda',
+      'Special Guest TBA!',
+      'Terry Lee Goffee',
+      'JR Blessington + Special Guest',
+      'Flex Crew',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-special-guest-tba-terry-lee-goffee-jr-blessington-special-guest-flex-crew',
+    date: '2023-12-30T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: [
       'John Welton & The Awakening',
       'Johnny Markowski (New Riders of the Purple Sage/Drums)',
     ],
@@ -2016,8 +2018,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Alex Williams'],
-    link: 'https://www.beachlandballroom.com/e/13769688/alex-williams',
+    artist: ['Alex Williams', 'The Morning Bird'],
+    link: 'https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird',
     date: '2024-01-13T20:00:00',
     venue: 'Beachland Tavern',
   },

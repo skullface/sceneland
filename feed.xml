@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Nov 2023 09:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 09:06:05 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Priscilla, Kidd Wicked, Sammy T’s Sideshow, Vultan at Foundry]]></title>
@@ -105,8 +105,8 @@
             <pubDate>Sun, 31 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deadlands, Convictions at Foundry]]></title>
-            <description><![CDATA[Get tickets to Deadlands, Convictions at Foundry on Saturday, January 13, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/deadlands-convictions/]]></description>
+            <title><![CDATA[Deadlands, Convictions, I Fight Fail at Foundry]]></title>
+            <description><![CDATA[Get tickets to Deadlands, Convictions, I Fight Fail at Foundry on Saturday, January 13, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/deadlands-convictions/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/deadlands-convictions/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/deadlands-convictions/</guid>
             <pubDate>Sat, 13 Jan 2024 19:00:00 GMT</pubDate>
@@ -308,13 +308,6 @@
             <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Noise Ctrl, This Summer, Dome Test, akafayaven at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Noise Ctrl, This Summer, Dome Test, akafayaven at Grog Shop on Thursday, November 30, 2023, 08:00 PM: https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-dome-test-akafayaven]]></description>
-            <link>https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-dome-test-akafayaven</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13748668/noise-ctrl-w-this-summer-dome-test-akafayaven</guid>
-            <pubDate>Thu, 30 Nov 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GlamGore: Galactic Ghouls, Anhedonia Delight at Grog Shop]]></title>
             <description><![CDATA[Get tickets to GlamGore: Galactic Ghouls, Anhedonia Delight at Grog Shop on Friday, December 1, 2023, 09:00 PM: https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls]]></description>
             <link>https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls</link>
@@ -350,10 +343,10 @@
             <pubDate>Thu, 07 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Charity Cunningham, Wish Queen, Anya Van Rose, Total Downer at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Charity Cunningham, Wish Queen, Anya Van Rose, Total Downer at Grog Shop on Friday, December 8, 2023, 08:00 PM: https://grogshop.gs/event-details/13340128/charity-cunningham-wish-queen-anya-van-rose-total-downer]]></description>
-            <link>https://grogshop.gs/event-details/13340128/charity-cunningham-wish-queen-anya-van-rose-total-downer</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13340128/charity-cunningham-wish-queen-anya-van-rose-total-downer</guid>
+            <title><![CDATA[Total Downer, Wish Queen, Anya Van Rose, Charity Cunningham at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Total Downer, Wish Queen, Anya Van Rose, Charity Cunningham at Grog Shop on Friday, December 8, 2023, 08:00 PM: https://grogshop.gs/event-details/13340128/total-downer-wish-queen-anya-van-rose-charity-cunningham]]></description>
+            <link>https://grogshop.gs/event-details/13340128/total-downer-wish-queen-anya-van-rose-charity-cunningham</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13340128/total-downer-wish-queen-anya-van-rose-charity-cunningham</guid>
             <pubDate>Fri, 08 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -791,13 +784,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WGAR Winter Wonder Jam Starring LEE BRICE at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to WGAR Winter Wonder Jam Starring LEE BRICE at Playhouse Square on Thursday, November 30, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice]]></description>
-            <link>https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/wgar-winter-wonder-jam-starring-lee-brice</guid>
-            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Straight No Chaser - Sleighin' It Tour at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Straight No Chaser - Sleighin' It Tour at Playhouse Square on Saturday, December 2, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour]]></description>
             <link>https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour</link>
@@ -1148,13 +1134,6 @@
             <pubDate>Mon, 12 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues]]></title>
-            <description><![CDATA[Get tickets to NEFFEX: Born A Rockstar: The World Tour 2023 at House of Blues on Thursday, November 30, 2023, 07:00 PM: https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8]]></description>
-            <link>https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/neffex-born-a-rockstar-the-world-cleveland-ohio-11-30-2023/event/05005E75C67D3BE8</guid>
-            <pubDate>Thu, 30 Nov 2023 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Suicide Machines Celebrating 20 Years of A Match and Some Gasoline at House of Blues]]></title>
             <description><![CDATA[Get tickets to The Suicide Machines Celebrating 20 Years of A Match and Some Gasoline at House of Blues on Friday, December 1, 2023, 07:00 PM: https://concerts.livenation.com/the-suicide-machines-celebrating-20-years-cleveland-ohio-12-01-2023/event/05005EF1A45423B2]]></description>
             <link>https://concerts.livenation.com/the-suicide-machines-celebrating-20-years-cleveland-ohio-12-01-2023/event/05005EF1A45423B2</link>
@@ -1314,6 +1293,13 @@
             <link>https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-02-17-2024/event/05005F6EB0E520F8</link>
             <guid isPermaLink="true">https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-02-17-2024/event/05005F6EB0E520F8</guid>
             <pubDate>Sat, 17 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Veeze: Navy Wavy Presents: The Ganger Tour: Phase 2 at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Veeze: Navy Wavy Presents: The Ganger Tour: Phase 2 at House of Blues on Friday, February 23, 2024, 07:00 PM: https://concerts.livenation.com/veeze-navy-wavy-presents-the-ganger-cleveland-ohio-02-23-2024/event/05005F7D8FA011D9]]></description>
+            <link>https://concerts.livenation.com/veeze-navy-wavy-presents-the-ganger-cleveland-ohio-02-23-2024/event/05005F7D8FA011D9</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/veeze-navy-wavy-presents-the-ganger-cleveland-ohio-02-23-2024/event/05005F7D8FA011D9</guid>
+            <pubDate>Fri, 23 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cold War Kids: 20 Years Tour at House of Blues]]></title>
@@ -1617,13 +1603,6 @@
             <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oliver Hazard at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Oliver Hazard at Mahall’s on Friday, December 1, 2023, 12:00 AM: https://link.dice.fm/Of0606359dfc]]></description>
-            <link>https://link.dice.fm/Of0606359dfc</link>
-            <guid isPermaLink="true">https://link.dice.fm/Of0606359dfc</guid>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Drayton Farley at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Drayton Farley at Mahall’s on Saturday, December 2, 2023, 12:00 AM: https://link.dice.fm/v94d14fa1810]]></description>
             <link>https://link.dice.fm/v94d14fa1810</link>
@@ -1748,6 +1727,13 @@
             <link>https://link.dice.fm/B5b5df216223</link>
             <guid isPermaLink="true">https://link.dice.fm/B5b5df216223</guid>
             <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fidlar at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Fidlar at Mahall’s on Monday, January 15, 2024, 12:00 AM: https://link.dice.fm/Jb3586ff310d]]></description>
+            <link>https://link.dice.fm/Jb3586ff310d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Jb3586ff310d</guid>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pinkertones  at Mahall’s]]></title>
@@ -1905,10 +1891,10 @@
         </item>
         <item>
             <title><![CDATA[Urban Heat, Rare DM, DJ Uvula at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Urban Heat, Rare DM, DJ Uvula at Beachland Tavern on Thursday, November 30, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula]]></description>
+            <description><![CDATA[Get tickets to Urban Heat, Rare DM, DJ Uvula at Beachland Tavern on Saturday, November 30, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula]]></description>
             <link>https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula</guid>
-            <pubDate>Thu, 30 Nov 2023 20:30:00 GMT</pubDate>
+            <pubDate>Sat, 30 Nov 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blizzard Bash, Marcus Smith, Mikey Silas & Friends, Guy Snowden and the Citizens at Beachland Tavern]]></title>
@@ -2121,6 +2107,13 @@
             <pubDate>Sat, 30 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Packy Malley's Peace Corps Jamaica Benefit Concert, Ernie Krivda, Special Guest TBA!, Terry Lee Goffee, JR Blessington + Special Guest, Flex Crew at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Packy Malley's Peace Corps Jamaica Benefit Concert, Ernie Krivda, Special Guest TBA!, Terry Lee Goffee, JR Blessington + Special Guest, Flex Crew at Beachland Ballroom on Saturday, December 30, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-special-guest-tba-terry-lee-goffee-jr-blessington-special-guest-flex-crew]]></description>
+            <link>https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-special-guest-tba-terry-lee-goffee-jr-blessington-special-guest-flex-crew</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-special-guest-tba-terry-lee-goffee-jr-blessington-special-guest-flex-crew</guid>
+            <pubDate>Sat, 30 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[John Welton & The Awakening, Johnny Markowski (New Riders of the Purple Sage/Drums) at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to John Welton & The Awakening, Johnny Markowski (New Riders of the Purple Sage/Drums) at Beachland Ballroom on Sunday, December 31, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-]]></description>
             <link>https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-</link>
@@ -2170,10 +2163,10 @@
             <pubDate>Sat, 13 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alex Williams at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Alex Williams at Beachland Tavern on Saturday, January 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13769688/alex-williams]]></description>
-            <link>https://www.beachlandballroom.com/e/13769688/alex-williams</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13769688/alex-williams</guid>
+            <title><![CDATA[Alex Williams, The Morning Bird at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Alex Williams, The Morning Bird at Beachland Tavern on Saturday, January 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird]]></description>
+            <link>https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird</guid>
             <pubDate>Sat, 13 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>

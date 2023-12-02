@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Urban Heat",
-      "Rare DM",
-      "DJ Uvula"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13545988/urban-heat-rare-dm-dj-uvula",
-    "date": "2024-11-30T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Blizzard Bash",
       "Marcus Smith",
       "Mikey Silas & Friends",
@@ -123,9 +113,12 @@
       "Chamber",
       "Midwinter",
       "Tracheotomy",
-      "Left To Suffer"
+      "Left To Suffer",
+      "Dreamwalker",
+      "Fight From Within",
+      "6Deep"
     ],
-    "link": "https://www.beachlandballroom.com/e/13551688/cle-mosh-a-sense-of-purpose-mouthbreather-audience-of-rain-tallah-the-dead-don-t-sleep-chamber-midwinter-tracheotomy-left-to-suffer",
+    "link": "https://www.beachlandballroom.com/e/13551688/cle-mosh-a-sense-of-purpose-mouthbreather-audience-of-rain-tallah-the-dead-don-t-sleep-chamber-midwinter-tracheotomy-left-to-suffer-dreamwalker-fight-from-within-6deep",
     "date": "2023-12-09T16:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -332,10 +325,10 @@
   },
   {
     "artist": [
-      "Mark Gamjager & the Lustre Kings",
+      "Mark Gamsjager & the Lustre Kings",
       "The Whiskey Daredevils"
     ],
-    "link": "https://www.beachlandballroom.com/e/13279153/mark-gamjager-the-lustre-kings-the-whiskey-daredevils",
+    "link": "https://www.beachlandballroom.com/e/13279153/mark-gamsjager-the-lustre-kings-the-whiskey-daredevils",
     "date": "2024-01-05T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -383,6 +376,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird",
     "date": "2024-01-13T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Cory Grinder and the Playboy Scouts",
+      "Folkfaces"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces",
+    "date": "2024-01-14T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -627,12 +629,13 @@
   },
   {
     "artist": [
+      "A Cleveland Music Showcase",
       "Owen River",
       "Charity Cunningham",
       "Vince Nerone",
       "Jack Harris"
     ],
-    "link": "https://www.beachlandballroom.com/e/13283663/owen-river-charity-cunningham-vince-nerone-jack-harris",
+    "link": "https://www.beachlandballroom.com/e/13283663/a-cleveland-music-showcase-owen-river-charity-cunningham-vince-nerone-jack-harris",
     "date": "2024-03-22T20:00:00",
     "venue": "Beachland Ballroom"
   },

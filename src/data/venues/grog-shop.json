@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "GlamGore: Galactic Ghouls",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13249338/glamgore-galactic-ghouls",
-    "date": "2023-12-01T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Nolan Taylor",
       "Logan Halstead",
       "The Morning Bird"
@@ -138,17 +129,17 @@
   },
   {
     "artist": [
-      "Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain"
+      "CupcakKe"
     ],
-    "link": "https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain",
+    "link": "https://grogshop.gs/event-details/13604468/cupcakke",
     "date": "2023-12-16T20:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "CupcakKe"
+      "Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain"
     ],
-    "link": "https://grogshop.gs/event-details/13604468/cupcakke",
+    "link": "https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain",
     "date": "2023-12-16T20:00:00",
     "venue": "Grog Shop"
   },
@@ -321,6 +312,15 @@
   },
   {
     "artist": [
+      "GlamGore:",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/event-details/13297663/glamgore-",
+    "date": "2024-01-12T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Make Em Laugh Mondays Hosted By Kevin Ford"
     ],
     "link": "https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford",
@@ -363,7 +363,8 @@
   },
   {
     "artist": [
-      "Mac Saturn: Hard To Sell Tour"
+      "Mac Saturn: Hard To Sell Tour",
+      "The Thing With Feathers"
     ],
     "link": "https://grogshop.gs/event-details/13867048/mac-saturn-hard-to-sell-tour",
     "date": "2024-01-27T19:30:00",
@@ -384,6 +385,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13251993/make-em-laugh-mondays-hosted-by-kevin-ford",
     "date": "2024-01-29T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore:",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/event-details/13297703/glamgore-",
+    "date": "2024-02-02T21:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -445,6 +455,15 @@
   },
   {
     "artist": [
+      "GlamGore:",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/event-details/13297793/glamgore-",
+    "date": "2024-03-01T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "BabyTron"
     ],
     "link": "https://grogshop.gs/event-details/13853798/babytron",
@@ -480,6 +499,15 @@
   },
   {
     "artist": [
+      "GlamGore:",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/event-details/13297733/glamgore-",
+    "date": "2024-04-05T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Mannequin Pussy, Soul Glo"
     ],
     "link": "https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo",
@@ -502,6 +530,24 @@
     ],
     "link": "https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024",
     "date": "2024-04-28T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore:",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/event-details/13297763/glamgore-",
+    "date": "2024-05-03T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore:",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/event-details/13297803/glamgore-",
+    "date": "2024-06-07T21:00:00",
     "venue": "Grog Shop"
   }
 ]

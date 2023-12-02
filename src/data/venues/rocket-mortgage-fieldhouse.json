@@ -52,14 +52,6 @@
   },
   {
     "artist": [
-      "Aerosmith: PEACE OUT The Farewell Tour with The Black Crowes"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921",
-    "date": "2024-02-29",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
       "15th Annual Cleveland Bridal Show",
       "Presented By TL Worldwide Transportation"
     ],
@@ -74,6 +66,15 @@
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309",
     "date": "2024-03-09",
+    "venue": "Rocket Mortgage FieldHouse"
+  },
+  {
+    "artist": [
+      "Lauren Daigle",
+      "Ellie Holcomb"
+    ],
+    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/lauren-daigle-20240530",
+    "date": "2024-05-30",
     "venue": "Rocket Mortgage FieldHouse"
   }
 ]

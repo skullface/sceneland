@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['FIRST ANNUAL FOUNDRY CHRISTMAS PARTY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/first-annual-foundry-christmas-party/',
-    date: '2023-12-02T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Organ Grinders Ball 27 Auditions'],
     link: 'https://www.foundryconcertclub.com/tm-event/organ-grinders-ball-27-auditions/',
     date: '2023-12-03T17:00:00',
@@ -282,10 +276,10 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Nolan Taylor', 'Logan Halstead', 'The Morning Bird'],
-    link: 'https://grogshop.gs/event-details/13516538/nolan-taylor',
-    date: '2023-12-02T20:00:00',
-    venue: 'Grog Shop',
+    artist: ['AJR', 'The Maybe Man Tour'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627',
+    date: '2024-06-27',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
     artist: ['Immolation, Castrator, Atomic Witch'],
@@ -610,6 +604,7 @@ export const allShows = [
   {
     artist: ['The Record Company: Roll With It Tour', 'Jesse Ahern'],
     link: 'https://grogshop.gs/event-details/13723678/the-record-company-roll-with-it-tour',
+    sold_out: true,
     date: '2024-02-03T20:00:00',
     venue: 'Grog Shop',
   },
@@ -725,18 +720,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Hasan Minhaj'],
-    link: 'https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head',
-    date: '2023-12-02',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Todd Barry'],
-    link: 'https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour',
-    date: '2023-12-02',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['STEVE MARTIN & MARTIN SHORT'],
     link: 'https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today',
     date: '2023-12-03',
@@ -800,12 +783,6 @@ export const allShows = [
     artist: ['Marc Maron'],
     link: 'https://www.playhousesquare.org/events/detail/marc-maron-1',
     date: '2024-05-10',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ["Straight No Chaser - Sleighin' It Tour"],
-    link: 'https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour',
-    date: '2023-12-02',
     venue: 'Playhouse Square',
   },
   {
@@ -885,12 +862,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/mothers-day-celebration',
     date: '2024-05-11',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: ['First Snow'],
-    link: 'https://www.agoracleveland.com/events/detail/500326',
-    date: '2023-12-02T18:30:00',
-    venue: 'Agora',
   },
   {
     artist: ['LSDREAM, ZINGARA, Super Future'],
@@ -1107,12 +1078,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/escuela-grind-tickets-763919623157',
     date: '2024-02-12T19:00:00',
     venue: 'No Class',
-  },
-  {
-    artist: ['Andrew McMahon In The Wilderness: New Friends Tour 2023'],
-    link: 'https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1',
-    date: '2023-12-02T18:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ["Dirty Honey: Can't Find The Brakes Tour"],
@@ -1349,12 +1314,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Ryan Davis & The Roadhouse Band, Napsack, Powers/Rolin Duo'],
-    link: 'https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657',
-    date: '2023-12-02T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: [
       'CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood',
     ],
@@ -1407,10 +1366,10 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Heather Land Live!'],
-    link: 'https://www.ticketmaster.com/heather-land-live-cleveland-ohio-12-02-2023/event/05005F27B87A32AD',
-    date: '2023-12-02T20:00:00',
-    venue: 'Masonic Temple',
+    artist: ['Monday Night Trivia: Simpsons Edition!'],
+    link: 'https://www.eventbrite.com/e/monday-night-trivia-simpsons-edition-tickets-768761746077',
+    date: '2023-12-18T20:00:00',
+    venue: 'Happy Dog',
   },
   {
     artist: ['Liz Phair: Guyville Tour'],
@@ -1500,12 +1459,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6',
     date: '2024-03-29T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Bouncy: a K-pop themed dance party'],
-    link: 'https://link.dice.fm/W19359887ab3',
-    date: '2023-12-02T20:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Arbor / Left Out'],
@@ -1740,30 +1693,6 @@ export const allShows = [
     link: 'https://link.dice.fm/f53f6c428bf6',
     date: '2024-06-21T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: [
-      'Blizzard Bash',
-      'Marcus Smith',
-      'Mikey Silas & Friends',
-      'Guy Snowden and the Citizens',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13848168/blizzard-bash-marcus-smith-mikey-silas-friends-guy-snowden-and-the-citizens',
-    date: '2023-12-01T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Star Wars Burlesque: The Tease Be With You'],
-    link: 'https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you',
-    sold_out: true,
-    date: '2023-12-01T20:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Beachland Lunch'],
-    link: 'https://www.beachlandballroom.com/e/13261103/beachland-lunch',
-    date: '2023-12-02T11:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Start Making Sense', 'Drew & The Blue'],

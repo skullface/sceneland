@@ -1,34 +1,6 @@
 [
   {
     "artist": [
-      "Blizzard Bash",
-      "Marcus Smith",
-      "Mikey Silas & Friends",
-      "Guy Snowden and the Citizens"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13848168/blizzard-bash-marcus-smith-mikey-silas-friends-guy-snowden-and-the-citizens",
-    "date": "2023-12-01T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Star Wars Burlesque: The Tease Be With You"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you",
-    "sold_out": true,
-    "date": "2023-12-01T20:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Beachland Lunch"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13261103/beachland-lunch",
-    "date": "2023-12-02T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Start Making Sense",
       "Drew & The Blue"
     ],

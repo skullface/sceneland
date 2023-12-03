@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Ryan Davis & The Roadhouse Band, Napsack, Powers/Rolin Duo"
-    ],
-    "link": "https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657",
-    "date": "2023-12-02T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood"
     ],
     "link": "https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.eventbrite.com/e/pal-xmas-ep-release-w-brood-x-mezclado-tickets-770652942697",
     "date": "2023-12-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Monday Night Trivia: Simpsons Edition!"
+    ],
+    "link": "https://www.eventbrite.com/e/monday-night-trivia-simpsons-edition-tickets-768761746077",
+    "date": "2023-12-18T20:00:00",
     "venue": "Happy Dog"
   }
 ]

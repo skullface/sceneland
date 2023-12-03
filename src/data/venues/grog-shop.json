@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Nolan Taylor",
-      "Logan Halstead",
-      "The Morning Bird"
-    ],
-    "link": "https://grogshop.gs/event-details/13516538/nolan-taylor",
-    "date": "2023-12-02T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Immolation, Castrator, Atomic Witch"
     ],
     "link": "https://grogshop.gs/event-details/13792448/immolation-castrator-atomic-witch",
@@ -402,6 +392,7 @@
       "Jesse Ahern"
     ],
     "link": "https://grogshop.gs/event-details/13723678/the-record-company-roll-with-it-tour",
+    "sold_out": true,
     "date": "2024-02-03T20:00:00",
     "venue": "Grog Shop"
   },

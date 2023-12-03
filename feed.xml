@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Dec 2023 09:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 09:05:47 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[FIRST ANNUAL FOUNDRY CHRISTMAS PARTY at Foundry]]></title>
-            <description><![CDATA[Get tickets to FIRST ANNUAL FOUNDRY CHRISTMAS PARTY at Foundry on Saturday, December 2, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/first-annual-foundry-christmas-party/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/first-annual-foundry-christmas-party/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/first-annual-foundry-christmas-party/</guid>
-            <pubDate>Sat, 02 Dec 2023 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Organ Grinders Ball 27 Auditions at Foundry]]></title>
             <description><![CDATA[Get tickets to Organ Grinders Ball 27 Auditions at Foundry on Sunday, December 3, 2023, 05:00 PM: https://www.foundryconcertclub.com/tm-event/organ-grinders-ball-27-auditions/]]></description>
@@ -308,11 +301,11 @@
             <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nolan Taylor, Logan Halstead, The Morning Bird at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Nolan Taylor, Logan Halstead, The Morning Bird at Grog Shop on Saturday, December 2, 2023, 08:00 PM: https://grogshop.gs/event-details/13516538/nolan-taylor]]></description>
-            <link>https://grogshop.gs/event-details/13516538/nolan-taylor</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13516538/nolan-taylor</guid>
-            <pubDate>Sat, 02 Dec 2023 20:00:00 GMT</pubDate>
+            <title><![CDATA[AJR, The Maybe Man Tour at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to AJR, The Maybe Man Tour at Rocket Mortgage FieldHouse on Thursday, June 27, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627</guid>
+            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Immolation, Castrator, Atomic Witch at Grog Shop]]></title>
@@ -728,20 +721,6 @@
             <pubDate>Fri, 07 Jun 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hasan Minhaj at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Hasan Minhaj at Playhouse Square on Saturday, December 2, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head]]></description>
-            <link>https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/hasan-minhaj-off-with-his-head</guid>
-            <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Todd Barry at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Todd Barry at Playhouse Square on Saturday, December 2, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour]]></description>
-            <link>https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/todd-barry-half-joking-tour</guid>
-            <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[STEVE MARTIN & MARTIN SHORT at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to STEVE MARTIN & MARTIN SHORT at Playhouse Square on Sunday, December 3, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today]]></description>
             <link>https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today</link>
@@ -817,13 +796,6 @@
             <link>https://www.playhousesquare.org/events/detail/marc-maron-1</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/marc-maron-1</guid>
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Straight No Chaser - Sleighin' It Tour at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Straight No Chaser - Sleighin' It Tour at Playhouse Square on Saturday, December 2, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour]]></description>
-            <link>https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/straight-no-chaser-sleighin-it-tour</guid>
-            <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raymond Arroyo at Playhouse Square]]></title>
@@ -915,13 +887,6 @@
             <link>https://www.playhousesquare.org/events/detail/mothers-day-celebration</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/mothers-day-celebration</guid>
             <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Snow at Agora]]></title>
-            <description><![CDATA[Get tickets to First Snow at Agora on Saturday, December 2, 2023, 06:30 PM: https://www.agoracleveland.com/events/detail/500326]]></description>
-            <link>https://www.agoracleveland.com/events/detail/500326</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/500326</guid>
-            <pubDate>Sat, 02 Dec 2023 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LSDREAM, ZINGARA, Super Future at Agora]]></title>
@@ -1174,13 +1139,6 @@
             <link>https://www.eventbrite.com/e/escuela-grind-tickets-763919623157</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/escuela-grind-tickets-763919623157</guid>
             <pubDate>Mon, 12 Feb 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Andrew McMahon In The Wilderness: New Friends Tour 2023 at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Andrew McMahon In The Wilderness: New Friends Tour 2023 at House of Blues on Saturday, December 2, 2023, 06:00 PM: https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1]]></description>
-            <link>https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/andrew-mcmahon-in-the-wilderness-new-cleveland-ohio-12-02-2023/event/05005ECEE5AC72B1</guid>
-            <pubDate>Sat, 02 Dec 2023 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dirty Honey: Can't Find The Brakes Tour at House of Blues]]></title>
@@ -1456,13 +1414,6 @@
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ryan Davis & The Roadhouse Band, Napsack, Powers/Rolin Duo at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Ryan Davis & The Roadhouse Band, Napsack, Powers/Rolin Duo at Happy Dog on Saturday, December 2, 2023, 09:00 PM: https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657]]></description>
-            <link>https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/ryan-davis-the-roadhouse-band-napsack-powersrolin-duo-tickets-763621230657</guid>
-            <pubDate>Sat, 02 Dec 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood at Happy Dog]]></title>
             <description><![CDATA[Get tickets to CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood at Happy Dog on Tuesday, December 5, 2023, 08:00 PM: https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727]]></description>
             <link>https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727</link>
@@ -1519,11 +1470,11 @@
             <pubDate>Sun, 17 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heather Land Live! at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Heather Land Live! at Masonic Temple on Saturday, December 2, 2023, 08:00 PM: https://www.ticketmaster.com/heather-land-live-cleveland-ohio-12-02-2023/event/05005F27B87A32AD]]></description>
-            <link>https://www.ticketmaster.com/heather-land-live-cleveland-ohio-12-02-2023/event/05005F27B87A32AD</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/heather-land-live-cleveland-ohio-12-02-2023/event/05005F27B87A32AD</guid>
-            <pubDate>Sat, 02 Dec 2023 20:00:00 GMT</pubDate>
+            <title><![CDATA[Monday Night Trivia: Simpsons Edition! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Monday Night Trivia: Simpsons Edition! at Happy Dog on Monday, December 18, 2023, 08:00 PM: https://www.eventbrite.com/e/monday-night-trivia-simpsons-edition-tickets-768761746077]]></description>
+            <link>https://www.eventbrite.com/e/monday-night-trivia-simpsons-edition-tickets-768761746077</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/monday-night-trivia-simpsons-edition-tickets-768761746077</guid>
+            <pubDate>Mon, 18 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Liz Phair: Guyville Tour at Masonic Temple]]></title>
@@ -1622,13 +1573,6 @@
             <link>https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</guid>
             <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bouncy: a K-pop themed dance party at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Bouncy: a K-pop themed dance party at Mahall’s on Sunday, December 3, 2023, 01:00 AM: https://link.dice.fm/W19359887ab3]]></description>
-            <link>https://link.dice.fm/W19359887ab3</link>
-            <guid isPermaLink="true">https://link.dice.fm/W19359887ab3</guid>
-            <pubDate>Sun, 03 Dec 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arbor / Left Out at Mahall’s]]></title>
@@ -1902,27 +1846,6 @@
             <link>https://link.dice.fm/f53f6c428bf6</link>
             <guid isPermaLink="true">https://link.dice.fm/f53f6c428bf6</guid>
             <pubDate>Fri, 21 Jun 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blizzard Bash, Marcus Smith, Mikey Silas & Friends, Guy Snowden and the Citizens at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Blizzard Bash, Marcus Smith, Mikey Silas & Friends, Guy Snowden and the Citizens at Beachland Tavern on Friday, December 1, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13848168/blizzard-bash-marcus-smith-mikey-silas-friends-guy-snowden-and-the-citizens]]></description>
-            <link>https://www.beachlandballroom.com/e/13848168/blizzard-bash-marcus-smith-mikey-silas-friends-guy-snowden-and-the-citizens</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13848168/blizzard-bash-marcus-smith-mikey-silas-friends-guy-snowden-and-the-citizens</guid>
-            <pubDate>Fri, 01 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Star Wars Burlesque: The Tease Be With You at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Star Wars Burlesque: The Tease Be With You at Beachland Ballroom on Friday, December 1, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you]]></description>
-            <link>https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13529698/star-wars-burlesque-the-tease-be-with-you</guid>
-            <pubDate>Fri, 01 Dec 2023 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Lunch at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Lunch at Beachland Tavern on Saturday, December 2, 2023, 11:00 AM: https://www.beachlandballroom.com/e/13261103/beachland-lunch]]></description>
-            <link>https://www.beachlandballroom.com/e/13261103/beachland-lunch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13261103/beachland-lunch</guid>
-            <pubDate>Sat, 02 Dec 2023 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Start Making Sense, Drew & The Blue at Beachland Ballroom]]></title>

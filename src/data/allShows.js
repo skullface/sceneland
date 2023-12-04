@@ -70,14 +70,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: [
-      'Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/',
-    date: '2023-12-31T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Deadlands, Convictions, I Fight Fail'],
     link: 'https://www.foundryconcertclub.com/tm-event/deadlands-convictions/',
     date: '2024-01-13T19:00:00',
@@ -282,10 +274,10 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Immolation, Castrator, Atomic Witch'],
-    link: 'https://grogshop.gs/event-details/13792448/immolation-castrator-atomic-witch',
-    date: '2023-12-03T20:00:00',
-    venue: 'Grog Shop',
+    artist: ['Aerosmith: PEACE OUT The Farewell Tour with The Black Crowes'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
+    date: '2025-02-28',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
     artist: ['Melladramatics', 'Fat Daddye', 'SHA KU SE', 'Prithee'],
@@ -720,12 +712,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['STEVE MARTIN & MARTIN SHORT'],
-    link: 'https://www.playhousesquare.org/events/detail/steve-martin-martin-short-you-wont-believe-what-they-look-like-today',
-    date: '2023-12-03',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ["Flanagan's Wake"],
     link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
     date: '2024-01-05',
@@ -862,12 +848,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/mothers-day-celebration',
     date: '2024-05-11',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: ['LSDREAM, ZINGARA, Super Future'],
-    link: 'https://www.agoracleveland.com/events/detail/489352',
-    date: '2023-12-03T20:00:00',
-    venue: 'Agora',
   },
   {
     artist: ['Pigeons Playing Ping Pong, Broccoli Samurai'],
@@ -1372,6 +1352,12 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
+    artist: ['Classical Revolution Cleveland'],
+    link: 'https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-763631260657',
+    date: '2023-12-20T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
     artist: ['Liz Phair: Guyville Tour'],
     link: 'https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA',
     date: '2023-12-09T20:00:00',
@@ -1459,12 +1445,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6',
     date: '2024-03-29T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Arbor / Left Out'],
-    link: 'https://link.dice.fm/sbc1aa343f7c',
-    date: '2023-12-03T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Night Rider'],
@@ -1693,18 +1673,6 @@ export const allShows = [
     link: 'https://link.dice.fm/f53f6c428bf6',
     date: '2024-06-21T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Start Making Sense', 'Drew & The Blue'],
-    link: 'https://www.beachlandballroom.com/e/13527568/start-making-sense-drew-the-blue',
-    date: '2023-12-02T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Televisionaries', 'The VUMMS', 'The Fox Sisters'],
-    link: 'https://www.beachlandballroom.com/e/13644868/televisionaries-the-vumms-the-fox-sisters',
-    date: '2023-12-02T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Pokey LaFarge', 'Louisa Stancioff'],

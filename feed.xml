@@ -4,22 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Dec 2023 09:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 09:06:22 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Organ Grinders Ball 27 Auditions at Foundry]]></title>
-            <description><![CDATA[Get tickets to Organ Grinders Ball 27 Auditions at Foundry on Sunday, December 3, 2023, 05:00 PM: https://www.foundryconcertclub.com/tm-event/organ-grinders-ball-27-auditions/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/organ-grinders-ball-27-auditions/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/organ-grinders-ball-27-auditions/</guid>
-            <pubDate>Sun, 03 Dec 2023 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Pop Up Before Christmas at Foundry]]></title>
-            <description><![CDATA[Get tickets to A Pop Up Before Christmas at Foundry on Monday, December 4, 2023, 05:00 PM: https://www.foundryconcertclub.com/tm-event/a-pop-up-before-christmas/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/a-pop-up-before-christmas/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/a-pop-up-before-christmas/</guid>
-            <pubDate>Mon, 04 Dec 2023 17:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Boundaries, Foreign Hands, 6Deep, Walking Wounded at Foundry]]></title>
             <description><![CDATA[Get tickets to Boundaries, Foreign Hands, 6Deep, Walking Wounded at Foundry on Thursday, December 7, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/]]></description>
@@ -82,6 +68,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/nocturnal-2/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nocturnal-2/</guid>
             <pubDate>Sat, 30 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends at Foundry]]></title>
+            <description><![CDATA[Get tickets to Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends at Foundry on Sunday, December 31, 2023, 07:00 PM: https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/</guid>
+            <pubDate>Sun, 31 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deadlands, Convictions, I Fight Fail at Foundry]]></title>
@@ -154,6 +147,13 @@
             <pubDate>Fri, 14 Jun 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hank Williams Jr. at Blossom]]></title>
+            <description><![CDATA[Get tickets to Hank Williams Jr. at Blossom on Friday, June 21, 2024, 07:00 PM: https://concerts.livenation.com/hank-williams-jr-cuyahoga-falls-ohio-06-21-2024/event/05005F7CA31716BD]]></description>
+            <link>https://concerts.livenation.com/hank-williams-jr-cuyahoga-falls-ohio-06-21-2024/event/05005F7CA31716BD</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/hank-williams-jr-cuyahoga-falls-ohio-06-21-2024/event/05005F7CA31716BD</guid>
+            <pubDate>Fri, 21 Jun 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Niall Horan: "THE SHOW" LIVE ON TOUR 2024 at Blossom]]></title>
             <description><![CDATA[Get tickets to Niall Horan: "THE SHOW" LIVE ON TOUR 2024 at Blossom on Wednesday, June 26, 2024, 07:30 PM: https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F]]></description>
             <link>https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F</link>
@@ -173,6 +173,13 @@
             <link>https://concerts.livenation.com/alanis-morissette-the-triple-moon-tour-cuyahoga-falls-ohio-07-17-2024/event/05005F640FEC5BB3</link>
             <guid isPermaLink="true">https://concerts.livenation.com/alanis-morissette-the-triple-moon-tour-cuyahoga-falls-ohio-07-17-2024/event/05005F640FEC5BB3</guid>
             <pubDate>Wed, 17 Jul 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red Hot Chili Peppers: Unlimited Love Tour at Blossom]]></title>
+            <description><![CDATA[Get tickets to Red Hot Chili Peppers: Unlimited Love Tour at Blossom on Monday, July 22, 2024, 07:00 PM: https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F]]></description>
+            <link>https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F</guid>
+            <pubDate>Mon, 22 Jul 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SAMMY HAGAR The Best of All Worlds Tour with special guest Loverboy at Blossom]]></title>
@@ -201,13 +208,6 @@
             <link>https://concerts.livenation.com/hootie-the-blowfish-summer-camp-with-cuyahoga-falls-ohio-08-15-2024/event/05005F62BC634076</link>
             <guid isPermaLink="true">https://concerts.livenation.com/hootie-the-blowfish-summer-camp-with-cuyahoga-falls-ohio-08-15-2024/event/05005F62BC634076</guid>
             <pubDate>Thu, 15 Aug 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BIRTH-TAY BALL 👑🎂 at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to BIRTH-TAY BALL 👑🎂 at Musica Akron on Thursday, December 14, 2023, 09:00 PM: https://www.ticketweb.com/event/birth-tay-ball-musica-tickets/13845188?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
-            <link>https://www.ticketweb.com/event/birth-tay-ball-musica-tickets/13845188?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/birth-tay-ball-musica-tickets/13845188?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
-            <pubDate>Thu, 14 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wild Party, Cousin Simple at Musica Akron]]></title>
@@ -847,6 +847,13 @@
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Frankie Valli & The Four Seasons at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Frankie Valli & The Four Seasons at Playhouse Square on Thursday, April 18, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons]]></description>
+            <link>https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[RAIN: A Tribute to the Beatles at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to RAIN: A Tribute to the Beatles at Playhouse Square on Friday, April 19, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2]]></description>
             <link>https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2</link>
@@ -1246,11 +1253,25 @@
             <pubDate>Wed, 31 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[That Arena Rock Show at House of Blues]]></title>
+            <description><![CDATA[Get tickets to That Arena Rock Show at House of Blues on Friday, February 2, 2024, 07:00 PM: https://concerts.livenation.com/that-arena-rock-show-cleveland-ohio-02-02-2024/event/05005F75E4FF4C1A]]></description>
+            <link>https://concerts.livenation.com/that-arena-rock-show-cleveland-ohio-02-02-2024/event/05005F75E4FF4C1A</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/that-arena-rock-show-cleveland-ohio-02-02-2024/event/05005F75E4FF4C1A</guid>
+            <pubDate>Fri, 02 Feb 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[anees: Winter Camp Tour at House of Blues]]></title>
             <description><![CDATA[Get tickets to anees: Winter Camp Tour at House of Blues on Saturday, February 3, 2024, 07:00 PM: https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17]]></description>
             <link>https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17</link>
             <guid isPermaLink="true">https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17</guid>
             <pubDate>Sat, 03 Feb 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Never Ending Fall: The American Disco Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Never Ending Fall: The American Disco Tour at House of Blues on Thursday, February 8, 2024, 07:00 PM: https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2]]></description>
+            <link>https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2</guid>
+            <pubDate>Thu, 08 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Badfish: A Tribute To Sublime at House of Blues]]></title>
@@ -1286,6 +1307,13 @@
             <link>https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC</link>
             <guid isPermaLink="true">https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC</guid>
             <pubDate>Sat, 02 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DESTIN CONRAD: SUBMISSIVE TOUR at House of Blues]]></title>
+            <description><![CDATA[Get tickets to DESTIN CONRAD: SUBMISSIVE TOUR at House of Blues on Sunday, March 3, 2024, 07:00 PM: https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/05005F76B0502211]]></description>
+            <link>https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/05005F76B0502211</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/05005F76B0502211</guid>
+            <pubDate>Sun, 03 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bryce Vine: The Saturday Night Tour at House of Blues]]></title>
@@ -1386,6 +1414,13 @@
             <pubDate>Thu, 02 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Siwa Presents XOMG POP! LIVE at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Siwa Presents XOMG POP! LIVE at House of Blues on Wednesday, June 12, 2024, 05:30 PM: https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48]]></description>
+            <link>https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48</guid>
+            <pubDate>Wed, 12 Jun 2024 17:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Magic Men Australia at House of Blues]]></title>
             <description><![CDATA[Get tickets to Magic Men Australia at House of Blues on Tuesday, August 27, 2024, 06:30 PM: https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0]]></description>
             <link>https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0</link>
@@ -1463,6 +1498,13 @@
             <pubDate>Wed, 20 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rat Motel, King Buu, As Well at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Rat Motel, King Buu, As Well at Happy Dog on Friday, December 22, 2023, 09:00 PM: https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707]]></description>
+            <link>https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707</guid>
+            <pubDate>Fri, 22 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Liz Phair: Guyville Tour at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Liz Phair: Guyville Tour at Masonic Temple on Saturday, December 9, 2023, 08:00 PM: https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA]]></description>
             <link>https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA</link>
@@ -1533,11 +1575,25 @@
             <pubDate>Fri, 08 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Broken Hearts: Ultimate Tom Petty Tribute at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to The Broken Hearts: Ultimate Tom Petty Tribute at Masonic Temple on Saturday, March 9, 2024, 07:30 PM: https://www.ticketmaster.com/the-broken-hearts-ultimate-tom-petty-cleveland-ohio-03-09-2024/event/05005F83AC7E335E]]></description>
+            <link>https://www.ticketmaster.com/the-broken-hearts-ultimate-tom-petty-cleveland-ohio-03-09-2024/event/05005F83AC7E335E</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/the-broken-hearts-ultimate-tom-petty-cleveland-ohio-03-09-2024/event/05005F83AC7E335E</guid>
+            <pubDate>Sat, 09 Mar 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[WQMX Presents: Terri Clark at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to WQMX Presents: Terri Clark at Masonic Temple on Thursday, March 14, 2024, 08:00 PM: https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F]]></description>
             <link>https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F</guid>
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hairball at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Hairball at Masonic Temple on Saturday, March 16, 2024, 08:00 PM: https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189]]></description>
+            <link>https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189</guid>
+            <pubDate>Sat, 16 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Celtic Tenors – Celebrating 25 Years at Masonic Temple]]></title>
@@ -1559,6 +1615,20 @@
             <link>https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</guid>
             <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gimme Sugar & Mister Breeze at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Gimme Sugar & Mister Breeze at Masonic Temple on Saturday, April 13, 2024, 08:00 PM: https://www.ticketmaster.com/gimme-sugar-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546]]></description>
+            <link>https://www.ticketmaster.com/gimme-sugar-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/gimme-sugar-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546</guid>
+            <pubDate>Sat, 13 Apr 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NRBQ at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to NRBQ at Masonic Temple on Wednesday, April 24, 2024, 08:00 PM: https://www.ticketmaster.com/nrbq-cleveland-ohio-04-24-2024/event/05005F83FA63639A]]></description>
+            <link>https://www.ticketmaster.com/nrbq-cleveland-ohio-04-24-2024/event/05005F83FA63639A</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/nrbq-cleveland-ohio-04-24-2024/event/05005F83FA63639A</guid>
+            <pubDate>Wed, 24 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Night Rider at Mahall’s]]></title>
@@ -1666,6 +1736,13 @@
             <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Emo Nite ft Memory Lane at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Emo Nite ft Memory Lane at Mahall’s on Sunday, January 14, 2024, 01:00 AM: https://link.dice.fm/D715f79c3ab8]]></description>
+            <link>https://link.dice.fm/D715f79c3ab8</link>
+            <guid isPermaLink="true">https://link.dice.fm/D715f79c3ab8</guid>
+            <pubDate>Sun, 14 Jan 2024 01:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fidlar at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Fidlar at Mahall’s on Monday, January 15, 2024, 12:00 AM: https://link.dice.fm/Jb3586ff310d]]></description>
             <link>https://link.dice.fm/Jb3586ff310d</link>
@@ -1713,6 +1790,13 @@
             <link>https://link.dice.fm/xb050bcf0cd0</link>
             <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bit Brigade performs "Mega Man II" and "DuckTales" at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Bit Brigade performs "Mega Man II" and "DuckTales" at Mahall’s on Tuesday, February 27, 2024, 12:00 AM: https://link.dice.fm/b752f5071623]]></description>
+            <link>https://link.dice.fm/b752f5071623</link>
+            <guid isPermaLink="true">https://link.dice.fm/b752f5071623</guid>
+            <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blonde Redhead at Mahall’s]]></title>
@@ -1827,13 +1911,6 @@
             <pubDate>Fri, 21 Jun 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pokey LaFarge, Louisa Stancioff at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Pokey LaFarge, Louisa Stancioff at Beachland Ballroom on Sunday, December 3, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13263968/pokey-lafarge-louisa-stancioff]]></description>
-            <link>https://www.beachlandballroom.com/e/13263968/pokey-lafarge-louisa-stancioff</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13263968/pokey-lafarge-louisa-stancioff</guid>
-            <pubDate>Sun, 03 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CSU Pop Rock: The Final Exam, Music from Radiohead, Snarky Puppy, & other 90's alternative groups at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to CSU Pop Rock: The Final Exam, Music from Radiohead, Snarky Puppy, & other 90's alternative groups at Beachland Tavern on Monday, December 4, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13857578/csu-pop-rock-the-final-exam-music-from-radiohead-snarky-puppy-other-90-s-alternative-groups]]></description>
             <link>https://www.beachlandballroom.com/e/13857578/csu-pop-rock-the-final-exam-music-from-radiohead-snarky-puppy-other-90-s-alternative-groups</link>
@@ -1881,6 +1958,13 @@
             <link>https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis-me-you</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis-me-you</guid>
             <pubDate>Sun, 10 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Super Culture, Lauren Brabson at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Super Culture, Lauren Brabson at Beachland Tavern on Wednesday, December 13, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13302293/super-culture-lauren-brabson]]></description>
+            <link>https://www.beachlandballroom.com/e/13302293/super-culture-lauren-brabson</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13302293/super-culture-lauren-brabson</guid>
+            <pubDate>Wed, 13 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wayne Graham, Easton Union at Beachland Tavern]]></title>
@@ -1960,10 +2044,10 @@
             <pubDate>Sat, 23 Dec 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jack & the Optimists at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Jack & the Optimists at Beachland Tavern on Saturday, December 23, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13262663/jack-the-optimists]]></description>
-            <link>https://www.beachlandballroom.com/e/13262663/jack-the-optimists</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13262663/jack-the-optimists</guid>
+            <title><![CDATA[Jack & the Optimists, The VUMMS at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Jack & the Optimists, The VUMMS at Beachland Tavern on Saturday, December 23, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms]]></description>
+            <link>https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms</guid>
             <pubDate>Sat, 23 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2114,10 +2198,10 @@
             <pubDate>Thu, 25 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Soiree of the Stallions Charity Concert at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Soiree of the Stallions Charity Concert at Beachland Ballroom on Saturday, January 27, 2024, 03:00 PM: https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert]]></description>
-            <link>https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert</guid>
+            <title><![CDATA[Soiree of the Stallions Charity Concert, The Reign of Kindo, Chalk Dinosaur, Juniper, Apostle Jones, The Ice Cream Militia, Slag Genie, Abstract Sounds, Cellophane Jane at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Soiree of the Stallions Charity Concert, The Reign of Kindo, Chalk Dinosaur, Juniper, Apostle Jones, The Ice Cream Militia, Slag Genie, Abstract Sounds, Cellophane Jane at Beachland Ballroom on Saturday, January 27, 2024, 03:00 PM: https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane]]></description>
+            <link>https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane</guid>
             <pubDate>Sat, 27 Jan 2024 15:00:00 GMT</pubDate>
         </item>
         <item>

@@ -145,10 +145,26 @@
   },
   {
     "artist": [
+      "That Arena Rock Show"
+    ],
+    "link": "https://concerts.livenation.com/that-arena-rock-show-cleveland-ohio-02-02-2024/event/05005F75E4FF4C1A",
+    "date": "2024-02-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "anees: Winter Camp Tour"
     ],
     "link": "https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17",
     "date": "2024-02-03T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Never Ending Fall: The American Disco Tour"
+    ],
+    "link": "https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2",
+    "date": "2024-02-08T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -189,6 +205,14 @@
     ],
     "link": "https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC",
     "date": "2024-03-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "DESTIN CONRAD: SUBMISSIVE TOUR"
+    ],
+    "link": "https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/05005F76B0502211",
+    "date": "2024-03-03T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -301,6 +325,14 @@
     ],
     "link": "https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176",
     "date": "2024-05-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Siwa Presents XOMG POP! LIVE"
+    ],
+    "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
+    "date": "2024-06-12T17:30:00",
     "venue": "House of Blues"
   },
   {

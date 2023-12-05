@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['Organ Grinders Ball 27 Auditions'],
-    link: 'https://www.foundryconcertclub.com/tm-event/organ-grinders-ball-27-auditions/',
-    date: '2023-12-03T17:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['A Pop Up Before Christmas'],
-    link: 'https://www.foundryconcertclub.com/tm-event/a-pop-up-before-christmas/',
-    date: '2023-12-04T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Boundaries, Foreign Hands, 6Deep, Walking Wounded'],
     link: 'https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/',
     date: '2023-12-07T19:00:00',
@@ -67,6 +55,14 @@ export const allShows = [
     artist: ['Nocturnal'],
     link: 'https://www.foundryconcertclub.com/tm-event/nocturnal-2/',
     date: '2023-12-30T21:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: [
+      'Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends',
+    ],
+    link: 'https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/',
+    date: '2023-12-31T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -134,6 +130,12 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: ['Hank Williams Jr.'],
+    link: 'https://concerts.livenation.com/hank-williams-jr-cuyahoga-falls-ohio-06-21-2024/event/05005F7CA31716BD',
+    date: '2024-06-21T19:00:00',
+    venue: 'Blossom',
+  },
+  {
     artist: ['Niall Horan: "THE SHOW" LIVE ON TOUR 2024'],
     link: 'https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F',
     date: '2024-06-26T19:30:00',
@@ -149,6 +151,12 @@ export const allShows = [
     artist: ['Alanis Morissette: The Triple Moon Tour'],
     link: 'https://concerts.livenation.com/alanis-morissette-the-triple-moon-tour-cuyahoga-falls-ohio-07-17-2024/event/05005F640FEC5BB3',
     date: '2024-07-17T19:00:00',
+    venue: 'Blossom',
+  },
+  {
+    artist: ['Red Hot Chili Peppers: Unlimited Love Tour'],
+    link: 'https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F',
+    date: '2024-07-22T19:00:00',
     venue: 'Blossom',
   },
   {
@@ -176,12 +184,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/hootie-the-blowfish-summer-camp-with-cuyahoga-falls-ohio-08-15-2024/event/05005F62BC634076',
     date: '2024-08-15T19:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['BIRTH-TAY BALL \ud83d\udc51\ud83c\udf82'],
-    link: 'https://www.ticketweb.com/event/birth-tay-ball-musica-tickets/13845188?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2023-12-14T21:00:00',
-    venue: 'Musica Akron',
   },
   {
     artist: ['Wild Party, Cousin Simple'],
@@ -826,6 +828,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Frankie Valli & The Four Seasons'],
+    link: 'https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons',
+    date: '2024-04-18',
+    venue: 'Playhouse Square',
+  },
+  {
     artist: ['RAIN: A Tribute to the Beatles'],
     link: 'https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2',
     date: '2024-04-19',
@@ -1168,9 +1176,21 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['That Arena Rock Show'],
+    link: 'https://concerts.livenation.com/that-arena-rock-show-cleveland-ohio-02-02-2024/event/05005F75E4FF4C1A',
+    date: '2024-02-02T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['anees: Winter Camp Tour'],
     link: 'https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17',
     date: '2024-02-03T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Never Ending Fall: The American Disco Tour'],
+    link: 'https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2',
+    date: '2024-02-08T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1201,6 +1221,12 @@ export const allShows = [
     artist: ['Silversun Pickups'],
     link: 'https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC',
     date: '2024-03-02T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['DESTIN CONRAD: SUBMISSIVE TOUR'],
+    link: 'https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/05005F76B0502211',
+    date: '2024-03-03T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1288,6 +1314,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Siwa Presents XOMG POP! LIVE'],
+    link: 'https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48',
+    date: '2024-06-12T17:30:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Magic Men Australia'],
     link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
     date: '2024-08-27T18:30:00',
@@ -1358,6 +1390,12 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
+    artist: ['Rat Motel, King Buu, As Well'],
+    link: 'https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707',
+    date: '2023-12-22T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
     artist: ['Liz Phair: Guyville Tour'],
     link: 'https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA',
     date: '2023-12-09T20:00:00',
@@ -1423,9 +1461,21 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['The Broken Hearts: Ultimate Tom Petty Tribute'],
+    link: 'https://www.ticketmaster.com/the-broken-hearts-ultimate-tom-petty-cleveland-ohio-03-09-2024/event/05005F83AC7E335E',
+    date: '2024-03-09T19:30:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['WQMX Presents: Terri Clark'],
     link: 'https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F',
     date: '2024-03-14T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['Hairball'],
+    link: 'https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189',
+    date: '2024-03-16T20:00:00',
     venue: 'Masonic Temple',
   },
   {
@@ -1444,6 +1494,18 @@ export const allShows = [
     artist: ['Blackberry Smoke: Be Right Here Tour'],
     link: 'https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6',
     date: '2024-03-29T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['Gimme Sugar & Mister Breeze'],
+    link: 'https://www.ticketmaster.com/gimme-sugar-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546',
+    date: '2024-04-13T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['NRBQ'],
+    link: 'https://www.ticketmaster.com/nrbq-cleveland-ohio-04-24-2024/event/05005F83FA63639A',
+    date: '2024-04-24T20:00:00',
     venue: 'Masonic Temple',
   },
   {
@@ -1537,6 +1599,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Emo Nite ft Memory Lane'],
+    link: 'https://link.dice.fm/D715f79c3ab8',
+    date: '2024-01-13T20:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Fidlar'],
     link: 'https://link.dice.fm/Jb3586ff310d',
     date: '2024-01-14T19:00:00-05:00',
@@ -1576,6 +1644,12 @@ export const allShows = [
     artist: ['Indigo De Souza'],
     link: 'https://link.dice.fm/xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Bit Brigade performs "Mega Man II" and "DuckTales"'],
+    link: 'https://link.dice.fm/b752f5071623',
+    date: '2024-02-26T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -1675,12 +1749,6 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Pokey LaFarge', 'Louisa Stancioff'],
-    link: 'https://www.beachlandballroom.com/e/13263968/pokey-lafarge-louisa-stancioff',
-    date: '2023-12-03T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: [
       'CSU Pop Rock: The Final Exam',
       "Music from Radiohead, Snarky Puppy, & other 90's alternative groups",
@@ -1737,6 +1805,12 @@ export const allShows = [
     artist: ['Salami Rose Joe Louis', 'Me:You'],
     link: 'https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis-me-you',
     date: '2023-12-10T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Super Culture', 'Lauren Brabson'],
+    link: 'https://www.beachlandballroom.com/e/13302293/super-culture-lauren-brabson',
+    date: '2023-12-13T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -1814,8 +1888,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Jack & the Optimists'],
-    link: 'https://www.beachlandballroom.com/e/13262663/jack-the-optimists',
+    artist: ['Jack & the Optimists', 'The VUMMS'],
+    link: 'https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms',
     date: '2023-12-23T20:30:00',
     venue: 'Beachland Tavern',
   },
@@ -1974,8 +2048,18 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Soiree of the Stallions Charity Concert'],
-    link: 'https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert',
+    artist: [
+      'Soiree of the Stallions Charity Concert',
+      'The Reign of Kindo',
+      'Chalk Dinosaur',
+      'Juniper',
+      'Apostle Jones',
+      'The Ice Cream Militia',
+      'Slag Genie',
+      'Abstract Sounds',
+      'Cellophane Jane',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane',
     date: '2024-01-27T15:00:00',
     venue: 'Beachland Ballroom',
   },

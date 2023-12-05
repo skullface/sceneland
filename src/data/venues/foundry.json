@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Organ Grinders Ball 27 Auditions"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/organ-grinders-ball-27-auditions/",
-    "date": "2023-12-03T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "A Pop Up Before Christmas"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/a-pop-up-before-christmas/",
-    "date": "2023-12-04T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Boundaries, Foreign Hands, 6Deep, Walking Wounded"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/",
@@ -85,6 +69,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
     "date": "2023-12-30T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/",
+    "date": "2023-12-31T19:00:00",
     "venue": "Foundry"
   },
   {

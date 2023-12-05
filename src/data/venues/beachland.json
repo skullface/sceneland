@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Pokey LaFarge",
-      "Louisa Stancioff"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13263968/pokey-lafarge-louisa-stancioff",
-    "date": "2023-12-03T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "CSU Pop Rock: The Final Exam",
       "Music from Radiohead, Snarky Puppy, & other 90's alternative groups"
     ],
@@ -82,6 +73,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis-me-you",
     "date": "2023-12-10T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Super Culture",
+      "Lauren Brabson"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13302293/super-culture-lauren-brabson",
+    "date": "2023-12-13T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -186,9 +186,10 @@
   },
   {
     "artist": [
-      "Jack & the Optimists"
+      "Jack & the Optimists",
+      "The VUMMS"
     ],
-    "link": "https://www.beachlandballroom.com/e/13262663/jack-the-optimists",
+    "link": "https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms",
     "date": "2023-12-23T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -392,9 +393,17 @@
   },
   {
     "artist": [
-      "Soiree of the Stallions Charity Concert"
+      "Soiree of the Stallions Charity Concert",
+      "The Reign of Kindo",
+      "Chalk Dinosaur",
+      "Juniper",
+      "Apostle Jones",
+      "The Ice Cream Militia",
+      "Slag Genie",
+      "Abstract Sounds",
+      "Cellophane Jane"
     ],
-    "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert",
+    "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane",
     "date": "2024-01-27T15:00:00",
     "venue": "Beachland Ballroom"
   },

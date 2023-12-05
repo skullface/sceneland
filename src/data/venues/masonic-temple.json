@@ -86,10 +86,26 @@
   },
   {
     "artist": [
+      "The Broken Hearts: Ultimate Tom Petty Tribute"
+    ],
+    "link": "https://www.ticketmaster.com/the-broken-hearts-ultimate-tom-petty-cleveland-ohio-03-09-2024/event/05005F83AC7E335E",
+    "date": "2024-03-09T19:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "WQMX Presents: Terri Clark"
     ],
     "link": "https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F",
     "date": "2024-03-14T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Hairball"
+    ],
+    "link": "https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189",
+    "date": "2024-03-16T20:00:00",
     "venue": "Masonic Temple"
   },
   {
@@ -114,6 +130,22 @@
     ],
     "link": "https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6",
     "date": "2024-03-29T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Gimme Sugar & Mister Breeze"
+    ],
+    "link": "https://www.ticketmaster.com/gimme-sugar-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546",
+    "date": "2024-04-13T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "NRBQ"
+    ],
+    "link": "https://www.ticketmaster.com/nrbq-cleveland-ohio-04-24-2024/event/05005F83FA63639A",
+    "date": "2024-04-24T20:00:00",
     "venue": "Masonic Temple"
   }
 ]

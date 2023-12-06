@@ -33,10 +33,34 @@
   },
   {
     "artist": [
+      "The Electric Funeral"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-electric-funeral/",
+    "date": "2023-12-14T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Anime / K-Pop Night"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night/",
     "date": "2023-12-15T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "FIRST ANNUAL CHILI COOK-OFF"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/first-annual-chili-cook-off/",
+    "date": "2023-12-16T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Cast Iron Comedy Showcase"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
+    "date": "2023-12-19T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -117,6 +141,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/",
     "date": "2024-02-16T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "ov sulfur, Mental Cruelty, Ghost Bath, Extermination Dismemberment"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/",
+    "date": "2024-02-22T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Shayfer James"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/shayfer-james/",
+    "date": "2024-04-06T19:00:00",
     "venue": "Foundry"
   }
 ]

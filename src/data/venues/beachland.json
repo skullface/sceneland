@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "CSU Pop Rock: The Final Exam",
-      "Music from Radiohead, Snarky Puppy, & other 90's alternative groups"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13857578/csu-pop-rock-the-final-exam-music-from-radiohead-snarky-puppy-other-90-s-alternative-groups",
-    "date": "2023-12-04T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Angel Du$t",
       "Candy",
       "Dazy",
@@ -142,9 +133,10 @@
   {
     "artist": [
       "\"Ain't It Fun\" Graphic Novel Book Release",
-      "Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly"
+      "Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly",
+      "Additional special guests include Jim Ellis (Cleveland Magazine) & Harvey Huey (Tin Huey)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly",
+    "link": "https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cleveland-magazine-harvey-huey-tin-huey-",
     "date": "2023-12-17T19:00:00",
     "venue": "Beachland Tavern"
   },
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13271353/pfuzz-tiffadelic-nature-nvoke-uniity",
     "date": "2023-12-26T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Rockside"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13307653/rockside",
+    "date": "2023-12-27T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -393,6 +393,18 @@
   },
   {
     "artist": [
+      "Jinari Kemet",
+      "Zup",
+      "Malik X with Fox Ears",
+      "Madstar",
+      "Hosted by Toby Raps"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-malik-x-with-fox-ears-madstar-hosted-by-toby-raps",
+    "date": "2024-01-26T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Soiree of the Stallions Charity Concert",
       "The Reign of Kindo",
       "Chalk Dinosaur",
@@ -459,6 +471,14 @@
     "link": "https://www.beachlandballroom.com/e/13865838/mia-x-ally",
     "date": "2024-02-14T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Yuma Abe"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13267023/yuma-abe",
+    "date": "2024-02-15T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -575,6 +595,14 @@
   },
   {
     "artist": [
+      "The Dollyrots"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots",
+    "date": "2024-03-16T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Tow'rs"
     ],
     "link": "https://www.beachlandballroom.com/e/13265473/tow-rs",
@@ -628,6 +656,15 @@
   },
   {
     "artist": [
+      "Too Many Zooz",
+      "Michael Wilbur"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13864378/too-many-zooz-michael-wilbur",
+    "date": "2024-03-31T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "The Crane Wives"
     ],
     "link": "https://www.beachlandballroom.com/e/13744368/the-crane-wives",
@@ -640,6 +677,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13757928/steve-forbert",
     "date": "2024-04-05T19:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "The Thing"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13283793/the-thing",
+    "date": "2024-04-10T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

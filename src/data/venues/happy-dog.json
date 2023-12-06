@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CWRU Popular Music Ensemble Night: Freaking Out the Neighborhood"
-    ],
-    "link": "https://www.eventbrite.com/e/cwru-popular-music-ensemble-night-freaking-out-the-neighborhood-tickets-768750261727",
-    "date": "2023-12-05T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Happy Dog Takes on Everything"
     ],
     "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-763628953757",
@@ -85,6 +77,14 @@
     ],
     "link": "https://www.eventbrite.com/e/rat-motel-king-buu-as-well-tickets-764219369707",
     "date": "2023-12-22T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Herzog, Napsack, Cross Brothers"
+    ],
+    "link": "https://www.eventbrite.com/e/herzog-napsack-cross-brothers-tickets-764241726577",
+    "date": "2023-12-23T21:00:00",
     "venue": "Happy Dog"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Happy Dog Takes on Everything"
-    ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-763628953757",
-    "date": "2023-12-06T19:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Tastefull, Colour Phase, Slag Genie, King Cat"
     ],
     "link": "https://www.eventbrite.com/e/tastefull-colour-phase-slag-genie-king-cat-tickets-763625473347",
@@ -85,6 +77,14 @@
     ],
     "link": "https://www.eventbrite.com/e/herzog-napsack-cross-brothers-tickets-764241726577",
     "date": "2023-12-23T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Knowso Record Release w/ Louse, The Hell, Melonhead"
+    ],
+    "link": "https://www.eventbrite.com/e/knowso-record-release-w-louse-the-hell-melonhead-tickets-768762598627",
+    "date": "2023-12-29T21:00:00",
     "venue": "Happy Dog"
   }
 ]

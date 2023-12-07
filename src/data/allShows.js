@@ -694,6 +694,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'The Decibel Magazine Tour 2024',
+      'Hulder',
+      'Devil Master',
+      'Worm',
+      'Necrofier',
+    ],
+    link: 'https://grogshop.gs/event-details/13308213/the-decibel-magazine-tour-2024',
+    date: '2024-03-13T19:30:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Horse Lords', 'Ka Baird', 'Powers/Rolin Duo'],
     link: 'https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo',
     date: '2024-03-14T20:00:00',
@@ -1292,6 +1304,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['The Prodigals'],
+    link: 'https://concerts.livenation.com/the-prodigals-cleveland-ohio-03-08-2024/event/05005F81CE415584',
+    date: '2024-03-08T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Solid Pink Disco with DJ Trixie'],
     link: 'https://concerts.livenation.com/solid-pink-disco-with-dj-trixie-cleveland-ohio-03-08-2024/event/05005F6DB59D2446',
     date: '2024-03-08T20:00:00',
@@ -1352,12 +1370,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Israel & NewBreed x Friends'],
-    link: 'https://concerts.livenation.com/israel-newbreed-x-friends-cleveland-ohio-04-25-2024/event/05005F619DC43243',
-    date: '2024-04-25T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['BoyWithUke: Lucid Dreams Tour'],
     link: 'https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7',
     date: '2024-04-26T19:00:00',
@@ -1373,6 +1385,12 @@ export const allShows = [
     artist: ['Battle Beast Circus Of Doom Over North America'],
     link: 'https://concerts.livenation.com/battle-beast-circus-of-doom-over-cleveland-ohio-05-12-2024/event/05005F7239846A53',
     date: '2024-05-12T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Say Anything: Is A Real Boy 20th Anniversary Tour'],
+    link: 'https://concerts.livenation.com/say-anything-is-a-real-boy-cleveland-ohio-05-14-2024/event/05005F75BF37230B',
+    date: '2024-05-14T18:30:00',
     venue: 'House of Blues',
   },
   {
@@ -1398,12 +1416,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
     date: '2024-08-27T18:30:00',
     venue: 'House of Blues',
-  },
-  {
-    artist: ['Happy Dog Takes on Everything'],
-    link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-763628953757',
-    date: '2023-12-06T19:30:00',
-    venue: 'Happy Dog',
   },
   {
     artist: ['Tastefull, Colour Phase, Slag Genie, King Cat'],
@@ -1465,6 +1477,12 @@ export const allShows = [
     artist: ['Herzog, Napsack, Cross Brothers'],
     link: 'https://www.eventbrite.com/e/herzog-napsack-cross-brothers-tickets-764241726577',
     date: '2023-12-23T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Knowso Record Release w/ Louse, The Hell, Melonhead'],
+    link: 'https://www.eventbrite.com/e/knowso-record-release-w-louse-the-hell-melonhead-tickets-768762598627',
+    date: '2023-12-29T21:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -1731,14 +1749,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -1824,6 +1842,12 @@ export const allShows = [
     artist: ['Real Estate - Infinite Jangle Tour'],
     link: 'https://link.dice.fm/y97afef68914',
     date: '2024-04-12T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Sweet Pill'],
+    link: 'https://link.dice.fm/G6a619c4f520',
+    date: '2024-04-14T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -1951,9 +1975,9 @@ export const allShows = [
     artist: [
       '"Ain\'t It Fun" Graphic Novel Book Release',
       'Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly',
-      'Additional special guests include Jim Ellis (Cleveland Magazine) & Harvey Huey (Tin Huey)',
+      'Additional special guests include Jim Ellis (CLE Magazine) & Harvey Gold (Tin Huey)',
     ],
-    link: 'https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cleveland-magazine-harvey-huey-tin-huey-',
+    link: 'https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cle-magazine-harvey-gold-tin-huey-',
     date: '2023-12-17T19:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2085,6 +2109,19 @@ export const allShows = [
   },
   {
     artist: [
+      'Voices of the Land: Acoustic Showcase',
+      'Taylor Lamborn',
+      'Ester Fitz',
+      'Lauren Lanzaretta',
+      'Andi Chakraborty',
+      'Jordan Laird & Jordan Urban',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13312653/voices-of-the-land-acoustic-showcase-taylor-lamborn-ester-fitz-lauren-lanzaretta-andi-chakraborty-jordan-laird-jordan-urban',
+    date: '2024-01-11T19:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: [
       'Doug McKean & The Stuntmen',
       'Dave Rich & his Enablers',
       'Ray Flanagan',
@@ -2092,6 +2129,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13279423/doug-mckean-the-stuntmen-dave-rich-his-enablers-ray-flanagan',
     date: '2024-01-12T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Blue Lunch', 'special guest Tad Robinson', 'DJ Pete London'],
+    link: 'https://www.beachlandballroom.com/e/13311493/blue-lunch-special-guest-tad-robinson-dj-pete-london',
+    date: '2024-01-12T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Carlos Jones & The PLUS Band', 'Sh\u0101k\u0113 Ground'],

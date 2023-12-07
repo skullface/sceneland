@@ -225,6 +225,14 @@
   },
   {
     "artist": [
+      "The Prodigals"
+    ],
+    "link": "https://concerts.livenation.com/the-prodigals-cleveland-ohio-03-08-2024/event/05005F81CE415584",
+    "date": "2024-03-08T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Solid Pink Disco with DJ Trixie"
     ],
     "link": "https://concerts.livenation.com/solid-pink-disco-with-dj-trixie-cleveland-ohio-03-08-2024/event/05005F6DB59D2446",
@@ -305,14 +313,6 @@
   },
   {
     "artist": [
-      "Israel & NewBreed x Friends"
-    ],
-    "link": "https://concerts.livenation.com/israel-newbreed-x-friends-cleveland-ohio-04-25-2024/event/05005F619DC43243",
-    "date": "2024-04-25T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "BoyWithUke: Lucid Dreams Tour"
     ],
     "link": "https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7",
@@ -333,6 +333,14 @@
     ],
     "link": "https://concerts.livenation.com/battle-beast-circus-of-doom-over-cleveland-ohio-05-12-2024/event/05005F7239846A53",
     "date": "2024-05-12T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Say Anything: Is A Real Boy 20th Anniversary Tour"
+    ],
+    "link": "https://concerts.livenation.com/say-anything-is-a-real-boy-cleveland-ohio-05-14-2024/event/05005F75BF37230B",
+    "date": "2024-05-14T18:30:00",
     "venue": "House of Blues"
   },
   {

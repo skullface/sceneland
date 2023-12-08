@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Boundaries, Foreign Hands, 6Deep, Walking Wounded"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/boundaries-foreign-hands-6deep-walking-wounded/",
-    "date": "2023-12-07T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Paradox Rift, Church & State, Punching Moses, Riparian, 10,000 Rambos"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/",
@@ -129,6 +121,14 @@
   },
   {
     "artist": [
+      "Archers, Savage Hands, Nerv"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/",
+    "date": "2024-01-26T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "KINK! A Nightclub Event"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/",
@@ -157,6 +157,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/shayfer-james/",
     "date": "2024-04-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "The Ghost Club, Fuller"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/",
+    "date": "2024-04-07T19:00:00",
     "venue": "Foundry"
   }
 ]

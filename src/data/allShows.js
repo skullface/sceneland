@@ -1,22 +1,8 @@
 export const allShows = [
   {
-    artist: ['Total Downer, Wish Queen, Anya Van Rose, Charity Cunningham'],
-    link: 'https://grogshop.gs/event-details/13340128/total-downer-wish-queen-anya-van-rose-charity-cunningham',
-    date: '2023-12-08T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Jingle Bell Holiday Shop'],
     link: 'https://grogshop.gs/event-details/13794238/jingle-bell-holiday-shop',
     date: '2023-12-09T11:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X',
-    ],
-    link: 'https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x',
-    date: '2023-12-09T21:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -27,6 +13,14 @@ export const allShows = [
       'Mimi Dromette',
     ],
     link: 'https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition',
+    date: '2023-12-09T21:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      'Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X',
+    ],
+    link: 'https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x',
     date: '2023-12-09T21:00:00',
     venue: 'Grog Shop',
   },
@@ -84,16 +78,16 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['CupcakKe'],
-    link: 'https://grogshop.gs/event-details/13604468/cupcakke',
-    date: '2023-12-16T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain',
     ],
     link: 'https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain',
+    date: '2023-12-16T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['CupcakKe'],
+    link: 'https://grogshop.gs/event-details/13604468/cupcakke',
     date: '2023-12-16T20:00:00',
     venue: 'Grog Shop',
   },
@@ -315,7 +309,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Siena Liggins: The FLOOZY Tour', 'Daisha McBride'],
+    artist: ['Siena Liggins: The FLOOZY Tour', 'Daisha McBride', 'Namejai'],
     link: 'https://grogshop.gs/event-details/13748958/siena-liggins-the-floozy-tour',
     date: '2024-02-09T21:00:00',
     venue: 'Grog Shop',
@@ -444,18 +438,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Night Rider'],
-    link: 'https://link.dice.fm/H01453c09b7d?dice_id=1662870',
-    date: '2023-12-08T18:30:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Princess Chelsea'],
-    link: 'https://link.dice.fm/C12136fca41b?dice_id=1511312',
-    date: '2023-12-08T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Violent'],
     link: 'https://link.dice.fm/E761194502a0?dice_id=1624136',
     date: '2023-12-09T19:00:00-05:00',
@@ -540,6 +522,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ["Frank's 25th birthday w/ Radio Dummies"],
+    link: 'https://link.dice.fm/V601508e5f8e?dice_id=2001658',
+    date: '2024-01-07T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Emo Nite ft Memory Lane'],
     link: 'https://link.dice.fm/D715f79c3ab8?dice_id=1963387',
     date: '2024-01-13T20:00:00-05:00',
@@ -576,20 +564,26 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Mom Rock'],
+    link: 'https://link.dice.fm/fa0e3d125744?dice_id=2002216',
+    date: '2024-02-07T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['No Vacation'],
     link: 'https://link.dice.fm/E104869cec1b?dice_id=1835652',
     date: '2024-02-14T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -996,12 +990,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Robert Jon & The Wreck', 'Bessemer Saints'],
-    link: 'https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck-bessemer-saints',
-    date: '2023-12-07T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['Heartless Bastards', 'Angela Perley'],
     link: 'https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley',
     date: '2023-12-08T20:00:00',
@@ -1294,8 +1282,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Lowertown'],
-    link: 'https://www.beachlandballroom.com/e/13262283/lowertown',
+    artist: ['Lowertown', 'Unrecovery'],
+    link: 'https://www.beachlandballroom.com/e/13262283/lowertown-unrecovery',
     date: '2024-01-21T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1510,6 +1498,12 @@ export const allShows = [
     artist: ['Pacific Dub'],
     link: 'https://www.beachlandballroom.com/e/13247243/pacific-dub',
     date: '2024-03-27T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Grateful for Biggie'],
+    link: 'https://www.beachlandballroom.com/e/13318033/grateful-for-biggie',
+    date: '2024-03-30T20:30:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -1739,6 +1733,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Letterkenny Presents: A Night of Stand Up'],
+    link: 'https://www.agoracleveland.com/events/detail/520052',
+    date: '2024-02-27T19:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ["Jimbo's Drag Circus"],
     link: 'https://www.agoracleveland.com/events/detail/495366',
     date: '2024-03-02T19:00:00',
@@ -1947,14 +1947,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2025-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: [
-      'Paradox Rift, Church & State, Punching Moses, Riparian, 10,000 Rambos',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/paradox-rift-church-state-punching-moses-riparian-10000-rambos/',
-    date: '2023-12-08T19:30:00',
-    venue: 'Foundry',
   },
   {
     artist: [
@@ -2186,6 +2178,12 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['Sea of Treachery'],
+    link: 'https://www.ticketmaster.com/sea-of-treachery-cleveland-ohio-03-22-2024/event/05005F83FD6A6483',
+    date: '2024-03-22T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['Blackberry Smoke: Be Right Here Tour'],
     link: 'https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6',
     date: '2024-03-29T20:00:00',
@@ -2232,12 +2230,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Tastefull, Colour Phase, Slag Genie, King Cat'],
-    link: 'https://www.eventbrite.com/e/tastefull-colour-phase-slag-genie-king-cat-tickets-763625473347',
-    date: '2023-12-08T21:00:00',
-    venue: 'Happy Dog',
   },
   {
     artist: ['Cardboard Caskets, Beach Stav, The Baker\u2019s Basement'],
@@ -2299,6 +2291,12 @@ export const allShows = [
     artist: ['Knowso Record Release w/ Louse, The Hell, Melonhead'],
     link: 'https://www.eventbrite.com/e/knowso-record-release-w-louse-the-hell-melonhead-tickets-768762598627',
     date: '2023-12-29T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Whatever, Strange Notes, Gerloscar Supreme Team DJs'],
+    link: 'https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307',
+    date: '2023-12-30T21:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -2431,6 +2429,12 @@ export const allShows = [
     artist: ['RAIN: A Tribute to the Beatles'],
     link: 'https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2',
     date: '2024-04-19',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ['Sonic Symphony'],
+    link: 'https://www.playhousesquare.org/events/detail/sonic-symphony',
+    date: '2024-04-20',
     venue: 'Playhouse Square',
   },
   {

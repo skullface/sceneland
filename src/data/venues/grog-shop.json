@@ -1,26 +1,10 @@
 [
   {
     "artist": [
-      "Total Downer, Wish Queen, Anya Van Rose, Charity Cunningham"
-    ],
-    "link": "https://grogshop.gs/event-details/13340128/total-downer-wish-queen-anya-van-rose-charity-cunningham",
-    "date": "2023-12-08T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Jingle Bell Holiday Shop"
     ],
     "link": "https://grogshop.gs/event-details/13794238/jingle-bell-holiday-shop",
     "date": "2023-12-09T11:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X"
-    ],
-    "link": "https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x",
-    "date": "2023-12-09T21:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -31,6 +15,14 @@
       "Mimi Dromette"
     ],
     "link": "https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition",
+    "date": "2023-12-09T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X"
+    ],
+    "link": "https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x",
     "date": "2023-12-09T21:00:00",
     "venue": "Grog Shop"
   },
@@ -100,17 +92,17 @@
   },
   {
     "artist": [
-      "CupcakKe"
+      "Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain"
     ],
-    "link": "https://grogshop.gs/event-details/13604468/cupcakke",
+    "link": "https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain",
     "date": "2023-12-16T20:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain"
+      "CupcakKe"
     ],
-    "link": "https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain",
+    "link": "https://grogshop.gs/event-details/13604468/cupcakke",
     "date": "2023-12-16T20:00:00",
     "venue": "Grog Shop"
   },
@@ -380,7 +372,8 @@
   {
     "artist": [
       "Siena Liggins: The FLOOZY Tour",
-      "Daisha McBride"
+      "Daisha McBride",
+      "Namejai"
     ],
     "link": "https://grogshop.gs/event-details/13748958/siena-liggins-the-floozy-tour",
     "date": "2024-02-09T21:00:00",

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Robert Jon & The Wreck",
-      "Bessemer Saints"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13332598/robert-jon-the-wreck-bessemer-saints",
-    "date": "2023-12-07T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Heartless Bastards",
       "Angela Perley"
     ],
@@ -387,9 +378,10 @@
   },
   {
     "artist": [
-      "Lowertown"
+      "Lowertown",
+      "Unrecovery"
     ],
-    "link": "https://www.beachlandballroom.com/e/13262283/lowertown",
+    "link": "https://www.beachlandballroom.com/e/13262283/lowertown-unrecovery",
     "date": "2024-01-21T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -672,6 +664,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13247243/pacific-dub",
     "date": "2024-03-27T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Grateful for Biggie"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13318033/grateful-for-biggie",
+    "date": "2024-03-30T20:30:00",
     "venue": "Beachland Tavern"
   },
   {

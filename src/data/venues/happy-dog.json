@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Tastefull, Colour Phase, Slag Genie, King Cat"
-    ],
-    "link": "https://www.eventbrite.com/e/tastefull-colour-phase-slag-genie-king-cat-tickets-763625473347",
-    "date": "2023-12-08T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Cardboard Caskets, Beach Stav, The Baker\u2019s Basement"
     ],
     "link": "https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667",
@@ -85,6 +77,14 @@
     ],
     "link": "https://www.eventbrite.com/e/knowso-record-release-w-louse-the-hell-melonhead-tickets-768762598627",
     "date": "2023-12-29T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Whatever, Strange Notes, Gerloscar Supreme Team DJs"
+    ],
+    "link": "https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307",
+    "date": "2023-12-30T21:00:00",
     "venue": "Happy Dog"
   }
 ]

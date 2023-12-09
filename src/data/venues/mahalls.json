@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Night Rider"
-    ],
-    "link": "https://link.dice.fm/H01453c09b7d?dice_id=1662870",
-    "date": "2023-12-08T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Princess Chelsea"
-    ],
-    "link": "https://link.dice.fm/C12136fca41b?dice_id=1511312",
-    "date": "2023-12-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Violent"
     ],
     "link": "https://link.dice.fm/E761194502a0?dice_id=1624136",
@@ -129,6 +113,14 @@
   },
   {
     "artist": [
+      "Frank's 25th birthday w/ Radio Dummies"
+    ],
+    "link": "https://link.dice.fm/V601508e5f8e?dice_id=2001658",
+    "date": "2024-01-07T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Emo Nite ft Memory Lane"
     ],
     "link": "https://link.dice.fm/D715f79c3ab8?dice_id=1963387",
@@ -177,6 +169,14 @@
   },
   {
     "artist": [
+      "Mom Rock"
+    ],
+    "link": "https://link.dice.fm/fa0e3d125744?dice_id=2002216",
+    "date": "2024-02-07T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "No Vacation"
     ],
     "link": "https://link.dice.fm/E104869cec1b?dice_id=1835652",
@@ -185,17 +185,17 @@
   },
   {
     "artist": [
-      "Cole Chaney"
+      "Indigo De Souza"
     ],
-    "link": "https://link.dice.fm/Uce0994a921d?dice_id=1951044",
+    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=1768754",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Indigo De Souza"
+      "Cole Chaney"
     ],
-    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=1768754",
+    "link": "https://link.dice.fm/Uce0994a921d?dice_id=1951044",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },

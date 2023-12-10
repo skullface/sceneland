@@ -1,30 +1,5 @@
 export const allShows = [
   {
-    artist: ['Jingle Bell Holiday Shop'],
-    link: 'https://grogshop.gs/event-details/13794238/jingle-bell-holiday-shop',
-    date: '2023-12-09T11:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'Silent Disco: Ugly Sweater Edition',
-      'DJ White Rims',
-      'DJ Red-I',
-      'Mimi Dromette',
-    ],
-    link: 'https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition',
-    date: '2023-12-09T21:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X',
-    ],
-    link: 'https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x',
-    date: '2023-12-09T21:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Lea Marra & The River Boys "Folky Christmas" , Blue Hour and Austin Hamilton',
     ],
@@ -438,12 +413,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['The Violent'],
-    link: 'https://link.dice.fm/E761194502a0?dice_id=1624136',
-    date: '2023-12-09T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Oso Oso'],
     link: 'https://link.dice.fm/X3e730b069c8?dice_id=1463315',
     date: '2023-12-10T19:00:00-05:00',
@@ -576,14 +545,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -706,12 +675,6 @@ export const allShows = [
     link: 'https://link.dice.fm/f53f6c428bf6?dice_id=1803157',
     date: '2024-06-21T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ["Dirty Honey: Can't Find The Brakes Tour"],
-    link: 'https://concerts.livenation.com/dirty-honey-cant-find-the-brakes-cleveland-ohio-12-09-2023/event/05005F02BD4E662B',
-    date: '2023-12-09T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Worship Live'],
@@ -988,38 +951,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
     date: '2024-08-27T18:30:00',
     venue: 'House of Blues',
-  },
-  {
-    artist: ['Heartless Bastards', 'Angela Perley'],
-    link: 'https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley',
-    date: '2023-12-08T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Huntertones', 'The Labra Brothers'],
-    link: 'https://www.beachlandballroom.com/e/13683218/huntertones-the-labra-brothers',
-    date: '2023-12-08T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: [
-      'CLE MOSH',
-      'A Sense of Purpose',
-      'Mouthbreather',
-      'Audience of Rain',
-      'Tallah',
-      "The Dead Don't Sleep",
-      'Chamber',
-      'Midwinter',
-      'Tracheotomy',
-      'Left To Suffer',
-      'Dreamwalker',
-      'Fight From Within',
-      '6Deep',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13551688/cle-mosh-a-sense-of-purpose-mouthbreather-audience-of-rain-tallah-the-dead-don-t-sleep-chamber-midwinter-tracheotomy-left-to-suffer-dreamwalker-fight-from-within-6deep',
-    date: '2023-12-09T16:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Salami Rose Joe Louis', 'Me:You'],
@@ -1949,14 +1880,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: [
-      'Brothers At Arms, Bittersweet Revenge, Counting Gravestones, Iron Bison',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/',
-    date: '2023-12-09T20:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['CLOSED FOR A PRIVATE EVENT'],
     link: 'https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/',
     date: '2023-12-10T00:00:00',
@@ -2075,12 +1998,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Liz Phair: Guyville Tour'],
-    link: 'https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA',
-    date: '2023-12-09T20:00:00',
-    venue: 'Masonic Temple',
   },
   {
     artist: ['Z107.9 White Out 2023 featuring Sexyy Red'],
@@ -2232,12 +2149,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Cardboard Caskets, Beach Stav, The Baker\u2019s Basement'],
-    link: 'https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667',
-    date: '2023-12-09T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['DJ Kishka Happy Hour!'],
     link: 'https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637',
     date: '2023-12-15T18:00:00',
@@ -2297,6 +2208,12 @@ export const allShows = [
     artist: ['Whatever, Strange Notes, Gerloscar Supreme Team DJs'],
     link: 'https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307',
     date: '2023-12-30T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['LILIEAE, The Paper Earth, Buffalo Ryders'],
+    link: 'https://www.eventbrite.com/e/lilieae-the-paper-earth-buffalo-ryders-tickets-768764414057',
+    date: '2024-01-12T21:00:00',
     venue: 'Happy Dog',
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cardboard Caskets, Beach Stav, The Baker\u2019s Basement"
-    ],
-    "link": "https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667",
-    "date": "2023-12-09T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "DJ Kishka Happy Hour!"
     ],
     "link": "https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637",
@@ -85,6 +77,14 @@
     ],
     "link": "https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307",
     "date": "2023-12-30T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "LILIEAE, The Paper Earth, Buffalo Ryders"
+    ],
+    "link": "https://www.eventbrite.com/e/lilieae-the-paper-earth-buffalo-ryders-tickets-768764414057",
+    "date": "2024-01-12T21:00:00",
     "venue": "Happy Dog"
   }
 ]

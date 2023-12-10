@@ -4,29 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Dec 2023 09:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 09:05:51 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Jingle Bell Holiday Shop at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Jingle Bell Holiday Shop at Grog Shop on Saturday, December 9, 2023, 11:00 AM: https://grogshop.gs/event-details/13794238/jingle-bell-holiday-shop]]></description>
-            <link>https://grogshop.gs/event-details/13794238/jingle-bell-holiday-shop</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13794238/jingle-bell-holiday-shop</guid>
-            <pubDate>Sat, 09 Dec 2023 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Silent Disco: Ugly Sweater Edition, DJ White Rims, DJ Red-I, Mimi Dromette at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Silent Disco: Ugly Sweater Edition, DJ White Rims, DJ Red-I, Mimi Dromette at Grog Shop on Saturday, December 9, 2023, 09:00 PM: https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition]]></description>
-            <link>https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13290283/silent-disco-ugly-sweater-edition</guid>
-            <pubDate>Sat, 09 Dec 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Obnox: Record Release Show , Muamin Collective, This Moment In Black History, Malik X at Grog Shop on Saturday, December 9, 2023, 09:00 PM: https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x]]></description>
-            <link>https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13847418/obnox-record-release-show-w-muamin-collective-this-moment-in-black-history-malik-x</guid>
-            <pubDate>Sat, 09 Dec 2023 21:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Lea Marra & The River Boys "Folky Christmas" , Blue Hour and Austin Hamilton at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Lea Marra & The River Boys "Folky Christmas" , Blue Hour and Austin Hamilton at Grog Shop on Sunday, December 10, 2023, 06:30 PM: https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour-and-austin-hamilton]]></description>
@@ -413,13 +392,6 @@
             <pubDate>Fri, 07 Jun 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Violent at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Violent at Mahall’s on Sunday, December 10, 2023, 12:00 AM: https://link.dice.fm/E761194502a0?dice_id=1624136]]></description>
-            <link>https://link.dice.fm/E761194502a0?dice_id=1624136</link>
-            <guid isPermaLink="true">https://link.dice.fm/E761194502a0?dice_id=1624136</guid>
-            <pubDate>Sun, 10 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Oso Oso at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Oso Oso at Mahall’s on Monday, December 11, 2023, 12:00 AM: https://link.dice.fm/X3e730b069c8?dice_id=1463315]]></description>
             <link>https://link.dice.fm/X3e730b069c8?dice_id=1463315</link>
@@ -574,17 +546,17 @@
             <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=1768754]]></description>
-            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</link>
-            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</guid>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cole Chaney at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=1951044]]></description>
             <link>https://link.dice.fm/Uce0994a921d?dice_id=1951044</link>
             <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=1951044</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=1768754]]></description>
+            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</link>
+            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -726,13 +698,6 @@
             <link>https://link.dice.fm/f53f6c428bf6?dice_id=1803157</link>
             <guid isPermaLink="true">https://link.dice.fm/f53f6c428bf6?dice_id=1803157</guid>
             <pubDate>Fri, 21 Jun 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dirty Honey: Can't Find The Brakes Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Dirty Honey: Can't Find The Brakes Tour at House of Blues on Saturday, December 9, 2023, 07:00 PM: https://concerts.livenation.com/dirty-honey-cant-find-the-brakes-cleveland-ohio-12-09-2023/event/05005F02BD4E662B]]></description>
-            <link>https://concerts.livenation.com/dirty-honey-cant-find-the-brakes-cleveland-ohio-12-09-2023/event/05005F02BD4E662B</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/dirty-honey-cant-find-the-brakes-cleveland-ohio-12-09-2023/event/05005F02BD4E662B</guid>
-            <pubDate>Sat, 09 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Worship Live at House of Blues]]></title>
@@ -1055,27 +1020,6 @@
             <link>https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0</link>
             <guid isPermaLink="true">https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0</guid>
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heartless Bastards, Angela Perley at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Heartless Bastards, Angela Perley at Beachland Ballroom on Friday, December 8, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley]]></description>
-            <link>https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13608708/heartless-bastards-angela-perley</guid>
-            <pubDate>Fri, 08 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Huntertones, The Labra Brothers at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Huntertones, The Labra Brothers at Beachland Tavern on Friday, December 8, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13683218/huntertones-the-labra-brothers]]></description>
-            <link>https://www.beachlandballroom.com/e/13683218/huntertones-the-labra-brothers</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13683218/huntertones-the-labra-brothers</guid>
-            <pubDate>Fri, 08 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CLE MOSH, A Sense of Purpose, Mouthbreather, Audience of Rain, Tallah, The Dead Don't Sleep, Chamber, Midwinter, Tracheotomy, Left To Suffer, Dreamwalker, Fight From Within, 6Deep at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to CLE MOSH, A Sense of Purpose, Mouthbreather, Audience of Rain, Tallah, The Dead Don't Sleep, Chamber, Midwinter, Tracheotomy, Left To Suffer, Dreamwalker, Fight From Within, 6Deep at Beachland Ballroom on Saturday, December 9, 2023, 04:00 PM: https://www.beachlandballroom.com/e/13551688/cle-mosh-a-sense-of-purpose-mouthbreather-audience-of-rain-tallah-the-dead-don-t-sleep-chamber-midwinter-tracheotomy-left-to-suffer-dreamwalker-fight-from-within-6deep]]></description>
-            <link>https://www.beachlandballroom.com/e/13551688/cle-mosh-a-sense-of-purpose-mouthbreather-audience-of-rain-tallah-the-dead-don-t-sleep-chamber-midwinter-tracheotomy-left-to-suffer-dreamwalker-fight-from-within-6deep</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13551688/cle-mosh-a-sense-of-purpose-mouthbreather-audience-of-rain-tallah-the-dead-don-t-sleep-chamber-midwinter-tracheotomy-left-to-suffer-dreamwalker-fight-from-within-6deep</guid>
-            <pubDate>Sat, 09 Dec 2023 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salami Rose Joe Louis, Me:You at Beachland Tavern]]></title>
@@ -2058,13 +2002,6 @@
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brothers At Arms, Bittersweet Revenge, Counting Gravestones, Iron Bison at Foundry]]></title>
-            <description><![CDATA[Get tickets to Brothers At Arms, Bittersweet Revenge, Counting Gravestones, Iron Bison at Foundry on Saturday, December 9, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/brothers-at-arms-bittersweet-revenge-counting-gravestones-iron-bison/</guid>
-            <pubDate>Sat, 09 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[CLOSED FOR A PRIVATE EVENT at Foundry]]></title>
             <description><![CDATA[Get tickets to CLOSED FOR A PRIVATE EVENT at Foundry on Sunday, December 10, 2023, 12:00 AM: https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/</link>
@@ -2196,13 +2133,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</guid>
             <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liz Phair: Guyville Tour at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Liz Phair: Guyville Tour at Masonic Temple on Saturday, December 9, 2023, 08:00 PM: https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA]]></description>
-            <link>https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/liz-phair-guyville-tour-cleveland-ohio-12-09-2023/event/05005F0BC32A7CBA</guid>
-            <pubDate>Sat, 09 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Z107.9 White Out 2023 featuring Sexyy Red at Masonic Temple]]></title>
@@ -2373,13 +2303,6 @@
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cardboard Caskets, Beach Stav, The Baker’s Basement at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Cardboard Caskets, Beach Stav, The Baker’s Basement at Happy Dog on Saturday, December 9, 2023, 09:00 PM: https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667]]></description>
-            <link>https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/cardboard-caskets-beach-stav-the-bakers-basement-tickets-767893679667</guid>
-            <pubDate>Sat, 09 Dec 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DJ Kishka Happy Hour! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to DJ Kishka Happy Hour! at Happy Dog on Friday, December 15, 2023, 06:00 PM: https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637]]></description>
             <link>https://www.eventbrite.com/e/dj-kishka-happy-hour-tickets-763634931637</link>
@@ -2448,6 +2371,13 @@
             <link>https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/whatever-strange-notes-gerloscar-supreme-team-djs-tickets-761904646307</guid>
             <pubDate>Sat, 30 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LILIEAE, The Paper Earth, Buffalo Ryders at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to LILIEAE, The Paper Earth, Buffalo Ryders at Happy Dog on Friday, January 12, 2024, 09:00 PM: https://www.eventbrite.com/e/lilieae-the-paper-earth-buffalo-ryders-tickets-768764414057]]></description>
+            <link>https://www.eventbrite.com/e/lilieae-the-paper-earth-buffalo-ryders-tickets-768764414057</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/lilieae-the-paper-earth-buffalo-ryders-tickets-768764414057</guid>
+            <pubDate>Fri, 12 Jan 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>

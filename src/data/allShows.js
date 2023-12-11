@@ -1,13 +1,5 @@
 export const allShows = [
   {
-    artist: [
-      'Lea Marra & The River Boys "Folky Christmas" , Blue Hour and Austin Hamilton',
-    ],
-    link: 'https://grogshop.gs/event-details/13820878/lea-marra-the-river-boys-folky-christmas-w-blue-hour-and-austin-hamilton',
-    date: '2023-12-10T18:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13251973/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2023-12-11T20:00:00',
@@ -53,16 +45,16 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: [
-      'Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain',
-    ],
-    link: 'https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain',
+    artist: ['CupcakKe'],
+    link: 'https://grogshop.gs/event-details/13604468/cupcakke',
     date: '2023-12-16T20:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['CupcakKe'],
-    link: 'https://grogshop.gs/event-details/13604468/cupcakke',
+    artist: [
+      'Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain',
+    ],
+    link: 'https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain',
     date: '2023-12-16T20:00:00',
     venue: 'Grog Shop',
   },
@@ -413,12 +405,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Oso Oso'],
-    link: 'https://link.dice.fm/X3e730b069c8?dice_id=1463315',
-    date: '2023-12-10T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Kasador'],
     link: 'https://link.dice.fm/l19ef9ebd358?dice_id=1733214',
     date: '2023-12-12T19:00:00-05:00',
@@ -545,14 +531,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -1700,78 +1686,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Bianca Del Rio'],
-    link: 'https://www.agoracleveland.com/events/detail/512578',
-    date: '2024-03-22T19:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Kai Wachi Presents Morphosia Tour'],
-    link: 'https://www.agoracleveland.com/events/detail/519381',
-    date: '2024-03-23T20:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Joe Pera'],
-    link: 'https://www.agoracleveland.com/events/detail/510001',
-    date: '2024-03-24T18:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['JJ Grey & Mofro, w/ Judith Hill'],
-    link: 'https://www.agoracleveland.com/events/detail/511112',
-    date: '2024-03-29T18:30:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['William H. Macy'],
-    link: 'https://www.agoracleveland.com/events/detail/512174',
-    date: '2024-04-13T19:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Alvvays'],
-    link: 'https://www.agoracleveland.com/events/detail/519545',
-    date: '2024-04-18T19:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Benjamin Tod & Lost Dog Street Band'],
-    link: 'https://www.agoracleveland.com/events/detail/511793',
-    date: '2024-04-19T19:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Dusty Slay'],
-    link: 'https://www.agoracleveland.com/events/detail/512971',
-    date: '2024-04-20T18:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['An Evening with Alan Ruck'],
-    link: 'https://www.agoracleveland.com/events/detail/519196',
-    date: '2024-05-03T18:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Our Last Night, Broadside, Normandie'],
-    link: 'https://www.agoracleveland.com/events/detail/507744',
-    date: '2024-05-10T18:30:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Kathy Griffin'],
-    link: 'https://www.agoracleveland.com/events/detail/512472',
-    date: '2024-05-11T19:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Blind Guardian, Night Demon'],
-    link: 'https://www.agoracleveland.com/events/detail/517799',
-    date: '2024-05-16T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['TRASH Unreal presents: TRASHxMAS feat. Chayla Hope'],
     link: 'https://www.eventbrite.com/e/trash-unreal-presents-trashxmas-feat-chayla-hope-tickets-760918717367',
     date: '2023-12-23T18:00:00',
@@ -1878,12 +1792,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2025-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['CLOSED FOR A PRIVATE EVENT'],
-    link: 'https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/',
-    date: '2023-12-10T00:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['The Electric Funeral'],

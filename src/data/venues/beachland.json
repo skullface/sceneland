@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Salami Rose Joe Louis",
-      "Me:You"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13503858/salami-rose-joe-louis-me-you",
-    "date": "2023-12-10T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Super Culture",
       "Lauren Brabson"
     ],
@@ -142,10 +133,9 @@
     "artist": [
       "PFUZZ",
       "Tiffadelic",
-      "Nature Nvoke",
-      "Uniity"
+      "Nature Nvoke"
     ],
-    "link": "https://www.beachlandballroom.com/e/13271353/pfuzz-tiffadelic-nature-nvoke-uniity",
+    "link": "https://www.beachlandballroom.com/e/13271353/pfuzz-tiffadelic-nature-nvoke",
     "date": "2023-12-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -304,6 +294,16 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces",
     "date": "2024-01-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "DaLand Brass Band",
+      "Wave Magnetick & Rowanne Atallah",
+      "Factual Brains"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains",
+    "date": "2024-01-19T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -511,6 +511,7 @@
       "Maddie Zahm"
     ],
     "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm",
+    "sold_out": true,
     "date": "2024-03-02T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -538,6 +539,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty",
     "date": "2024-03-06T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Ally Venable"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13323923/ally-venable",
+    "date": "2024-03-10T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -671,6 +680,14 @@
   },
   {
     "artist": [
+      "A Thousand Horses"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13315403/a-thousand-horses",
+    "date": "2024-04-12T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Caroline Rose"
     ],
     "link": "https://www.beachlandballroom.com/e/13820778/caroline-rose",
@@ -691,6 +708,16 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13457108/ty-segall",
     "date": "2024-05-05T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "TWRP",
+      "nelward",
+      "Trey Magnifique"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13311603/twrp-nelward-trey-magnifique",
+    "date": "2024-05-08T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

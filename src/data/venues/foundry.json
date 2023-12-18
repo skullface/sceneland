@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "The Electric Funeral"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-electric-funeral/",
-    "date": "2023-12-14T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Anime / K-Pop Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night/",
-    "date": "2023-12-15T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "FIRST ANNUAL CHILI COOK-OFF"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/first-annual-chili-cook-off/",
-    "date": "2023-12-16T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Cast Iron Comedy Showcase"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
@@ -73,6 +49,22 @@
   },
   {
     "artist": [
+      "FREE BAR SHOW W/ WEDNESDAY DEMONSTRATION, WASTED SOCIETY, DANGER!, AND ARTIFICIAL SK8R"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show-w-wednesday-demonstration-wasted-society-danger-and-artificial-sk8r/",
+    "date": "2024-01-07T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday/",
+    "date": "2024-01-08T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Deadlands, Convictions, I Fight Fail"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/deadlands-convictions/",
@@ -97,6 +89,23 @@
   },
   {
     "artist": [
+      "King 810, Ignominius, The Behest Of Serpants"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/king-810-ignominius-the-behest-of-serpants/",
+    "date": "2024-01-21T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/",
+    "sold_out": true,
+    "date": "2024-01-22T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Nems x Mac Lethal"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/",
@@ -105,7 +114,7 @@
   },
   {
     "artist": [
-      "Archers, Savage Hands, Nerv"
+      "Archers, Savage Hands, Nerv, A Sense Of Purpose"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/",
     "date": "2024-01-26T18:00:00",
@@ -133,6 +142,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/",
     "date": "2024-02-22T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Mugshot, Kaonashi, Cell , Pain"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/",
+    "date": "2024-04-02T18:30:00",
     "venue": "Foundry"
   },
   {

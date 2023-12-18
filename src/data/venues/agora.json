@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "MeatEater Live"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/504166",
-    "date": "2023-12-13T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "CupcakKe"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/501510",
-    "date": "2023-12-16T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Bill Squire, Mary Santora"
     ],
     "link": "https://www.agoracleveland.com/events/detail/502755",
@@ -81,7 +65,7 @@
   },
   {
     "artist": [
-      "Portugal. The Man"
+      "Portugal. The Man, Snacktime"
     ],
     "link": "https://www.agoracleveland.com/events/detail/508347",
     "date": "2024-02-17T19:00:00",
@@ -161,6 +145,14 @@
   },
   {
     "artist": [
+      "KK\u2019s Priest, L.A. Guns, BURNING WITCHES"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/521713",
+    "date": "2024-03-20T18:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Bianca Del Rio"
     ],
     "link": "https://www.agoracleveland.com/events/detail/512578",
@@ -225,6 +217,14 @@
   },
   {
     "artist": [
+      "TommyInnit How To Be A Billionaire"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/520431",
+    "date": "2024-04-25T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "An Evening with Alan Ruck"
     ],
     "link": "https://www.agoracleveland.com/events/detail/519196",
@@ -253,6 +253,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/517799",
     "date": "2024-05-16T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/520827",
+    "date": "2024-07-28T18:30:00",
     "venue": "Agora"
   }
 ]

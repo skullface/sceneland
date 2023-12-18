@@ -1,70 +1,6 @@
 [
   {
     "artist": [
-      "Local H",
-      "Death Pose"
-    ],
-    "link": "https://grogshop.gs/event-details/13694378/local-h",
-    "date": "2023-12-12T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "A Wilhelm Scream",
-      "Lowspot",
-      "Low Morale"
-    ],
-    "link": "https://grogshop.gs/event-details/13709008/a-wilhelm-scream",
-    "date": "2023-12-13T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Sugardeer \"Good Names For Strays\" Album Release Show",
-      "Dead Links",
-      "Fruitfly",
-      "Joseph Maxwell"
-    ],
-    "link": "https://grogshop.gs/event-details/13840398/sugardeer-good-names-for-strays-album-release-show",
-    "date": "2023-12-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Flatliners Present The Holiday Melee",
-      "Pet Symmetry",
-      "Heart & Lung"
-    ],
-    "link": "https://grogshop.gs/event-details/13504508/the-flatliners-present-the-holiday-melee",
-    "date": "2023-12-15T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Jukebox Breakdown"
-    ],
-    "link": "https://grogshop.gs/event-details/13290493/jukebox-breakdown",
-    "date": "2023-12-15T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "CupcakKe"
-    ],
-    "link": "https://grogshop.gs/event-details/13604468/cupcakke",
-    "date": "2023-12-16T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Hello!3D , Sammy DeLeon and Jackie Warren Latin Jazz Sextet, DJ Neil Chastain"
-    ],
-    "link": "https://grogshop.gs/event-details/13849298/hello-3d-w-sammy-deleon-and-jackie-warren-latin-jazz-sextet-dj-neil-chastain",
-    "date": "2023-12-16T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "A Cleveland Story Ft. Zup and KXVIN TYLXR",
       "Kxvin Tylxr",
       "ZUP",
@@ -139,11 +75,11 @@
   },
   {
     "artist": [
-      "Christmas Night with Franc West & Friends",
+      "Christmas Night with Franc West & Jabtune",
       "Franc West",
       "Jabtune"
     ],
-    "link": "https://grogshop.gs/event-details/13853778/christmas-night-with-franc-west-friends",
+    "link": "https://grogshop.gs/event-details/13853778/christmas-night-with-franc-west-jabtune",
     "date": "2023-12-25T20:30:00",
     "venue": "Grog Shop"
   },
@@ -153,6 +89,16 @@
     ],
     "link": "https://grogshop.gs/event-details/13267713/slow-wake-fuzzy-vandelay-megaton-communion",
     "date": "2023-12-27T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Air Jack Coming Home Party",
+      "Illest villians",
+      "Ghutty Mac"
+    ],
+    "link": "https://grogshop.gs/event-details/13338913/air-jack-coming-home-party",
+    "date": "2023-12-28T20:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -208,6 +154,50 @@
   },
   {
     "artist": [
+      "FREE WEEKEND",
+      "Melted Strawberry",
+      "Blind Joel Wallace",
+      "Robbie Alan and The Loveshack",
+      "Robbie Allan & the Loveshack"
+    ],
+    "link": "https://grogshop.gs/event-details/13318273/free-weekend-w-melted-strawberry-blind-joel-wallace-robbie-alan-and-the-loveshack",
+    "date": "2024-01-04T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "FREE WEEKEND",
+      "Youth Pallet",
+      "Non Bruises",
+      "Clare Feorene"
+    ],
+    "link": "https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-non-bruises-clare-feorene",
+    "date": "2024-01-05T19:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "FREE WEEKEND",
+      "Pill\u200b\u00e4\u200brs",
+      "the 3rd PYRAMID band",
+      "Kill The Hippies",
+      "Skwerm",
+      "Pill\u00e4rs"
+    ],
+    "link": "https://grogshop.gs/event-details/13318343/free-weekend-w-pill-rs-the-3rd-pyramid-band-kill-the-hippies-skwerm",
+    "date": "2024-01-06T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "FREE WEEKEND , Madstarr, Ghutty Mac, Lil Jesse/ Retro Pharaoh, Astral House Fly"
+    ],
+    "link": "https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-astral-house-fly",
+    "date": "2024-01-07T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Midnight Rental presents Secret Movie Night"
     ],
     "link": "https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night",
@@ -233,6 +223,20 @@
   },
   {
     "artist": [
+      "The New Year Kick-Off 2024",
+      "Yin Yang",
+      "Social Reaction",
+      "The Crxssing",
+      "The Evan Furillo Project",
+      "Panamera",
+      "Hypoxia"
+    ],
+    "link": "https://grogshop.gs/event-details/13342673/the-new-year-kick-off-2024",
+    "date": "2024-01-13T17:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Andrew Lloyd Birthday Party/ Independent artist concert"
     ],
     "link": "https://grogshop.gs/event-details/13317843/andrew-lloyd-birthday-party-independent-artist-concert",
@@ -250,7 +254,8 @@
   {
     "artist": [
       "TORRES",
-      "Aisha Burns"
+      "Aisha Burns",
+      "Kid Tigrrr"
     ],
     "link": "https://grogshop.gs/event-details/13693768/torres",
     "date": "2024-01-17T20:00:00",
@@ -262,6 +267,16 @@
     ],
     "link": "https://grogshop.gs/event-details/13284873/faith-whiskey",
     "date": "2024-01-19T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Who Hit Me",
+      "Fawx/ TBA",
+      "Fawx"
+    ],
+    "link": "https://grogshop.gs/event-details/13339853/who-hit-me-fawx-tba",
+    "date": "2024-01-20T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -279,6 +294,25 @@
     ],
     "link": "https://grogshop.gs/event-details/13266893/jack-lutz-temple-brothers-rooftops-unseen-keys-seconds-away",
     "date": "2024-01-24T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Grandview & Hanging Johnny",
+      "Grandview",
+      "Hanging Johnny"
+    ],
+    "link": "https://grogshop.gs/event-details/13330923/grandview-hanging-johnny",
+    "date": "2024-01-25T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Mourning [A] BLKstar",
+      "Trash TV"
+    ],
+    "link": "https://grogshop.gs/event-details/13332033/mourning-a-blkstar",
+    "date": "2024-01-26T20:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -336,6 +370,14 @@
   },
   {
     "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford",
+    "date": "2024-02-05T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Siena Liggins: The FLOOZY Tour",
       "Daisha McBride",
       "Namejai"
@@ -369,7 +411,8 @@
   },
   {
     "artist": [
-      "PORTUGAL. THE MAN"
+      "PORTUGAL. THE MAN",
+      "SNACKTIME"
     ],
     "link": "https://grogshop.gs/event-details/13766078/portugal-the-man",
     "date": "2024-02-17T20:00:00",
@@ -377,10 +420,27 @@
   },
   {
     "artist": [
-      "J Robbins (band)"
+      "J Robbins (band)",
+      "SunBurnSun"
     ],
     "link": "https://grogshop.gs/event-details/13319083/j-robbins-band-",
     "date": "2024-02-17T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/event-details/13339053/make-em-laugh-mondays-hosted-by-kevin-ford",
+    "date": "2024-02-19T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Midnight Rental presents Secret Movie Night"
+    ],
+    "link": "https://grogshop.gs/event-details/13339753/midnight-rental-presents-secret-movie-night",
+    "date": "2024-02-21T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -478,6 +538,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13307933/nick-shoulders-and-the-okay-crawdad-all-bad-tour-",
     "date": "2024-04-23T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Meatbodies"
+    ],
+    "link": "https://grogshop.gs/event-details/13318953/meatbodies",
+    "date": "2024-04-24T20:00:00",
     "venue": "Grog Shop"
   },
   {

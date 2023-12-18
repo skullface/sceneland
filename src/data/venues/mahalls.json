@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Kasador"
-    ],
-    "link": "https://link.dice.fm/l19ef9ebd358?dice_id=1733214",
-    "date": "2023-12-12T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
-      "The Orphan The Poet"
-    ],
-    "link": "https://link.dice.fm/z6cc7e5031be?dice_id=1620863",
-    "date": "2023-12-15T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "bar italia"
-    ],
-    "link": "https://link.dice.fm/V5b92716e486?dice_id=1094730",
-    "date": "2023-12-16T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "RRRIOT!"
-    ],
-    "link": "https://link.dice.fm/O99db059e27d?dice_id=1952944",
-    "date": "2023-12-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Cassoulet"
     ],
     "link": "https://link.dice.fm/q116be672a8f?dice_id=1805702",
@@ -89,6 +57,22 @@
   },
   {
     "artist": [
+      "Mahall's New Years Eve: Dancing Through The Decades "
+    ],
+    "link": "https://link.dice.fm/G7024b52effc?dice_id=2017567",
+    "date": "2023-12-31T20:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "This Summer"
+    ],
+    "link": "https://link.dice.fm/Jb451092657e?dice_id=2032726",
+    "date": "2024-01-05T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "DRIXY"
     ],
     "link": "https://link.dice.fm/B5b5df216223?dice_id=1800976",
@@ -105,6 +89,14 @@
   },
   {
     "artist": [
+      "Arbi"
+    ],
+    "link": "https://link.dice.fm/if122f50c01c?dice_id=2032963",
+    "date": "2024-01-12T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Emo Nite ft Memory Lane"
     ],
     "link": "https://link.dice.fm/D715f79c3ab8?dice_id=1963387",
@@ -117,6 +109,14 @@
     ],
     "link": "https://link.dice.fm/Jb3586ff310d?dice_id=1946205",
     "date": "2024-01-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Cherry!"
+    ],
+    "link": "https://link.dice.fm/c14409bbe3bc?dice_id=2018112",
+    "date": "2024-01-18T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -185,6 +185,14 @@
   },
   {
     "artist": [
+      "Glixen"
+    ],
+    "link": "https://link.dice.fm/he2703560fe2?dice_id=2015859",
+    "date": "2024-02-24T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Bit Brigade performs \"Mega Man II\" and \"DuckTales\""
     ],
     "link": "https://link.dice.fm/b752f5071623?dice_id=1952705",
@@ -249,10 +257,26 @@
   },
   {
     "artist": [
+      "Arm's Length"
+    ],
+    "link": "https://link.dice.fm/D72fa33ab9ba?dice_id=1992376",
+    "date": "2024-03-17T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Between You & Me"
     ],
     "link": "https://link.dice.fm/M7d744b3a77c?dice_id=1897444",
     "date": "2024-03-18T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Arden Jones"
+    ],
+    "link": "https://link.dice.fm/U0c6e44bc3c4?dice_id=2018313",
+    "date": "2024-03-30T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -277,6 +301,14 @@
     ],
     "link": "https://link.dice.fm/W36e2339d3e7?dice_id=1761027",
     "date": "2024-04-05T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Hail The Sun and Intervals: Spring 2024"
+    ],
+    "link": "https://link.dice.fm/pa4707eaa4f3?dice_id=1992396",
+    "date": "2024-04-11T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -341,6 +373,14 @@
     ],
     "link": "https://link.dice.fm/f53f6c428bf6?dice_id=1803157",
     "date": "2024-06-21T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Wheatus"
+    ],
+    "link": "https://link.dice.fm/S826b6f9f8ca?dice_id=1992693",
+    "date": "2024-08-15T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   }
 ]

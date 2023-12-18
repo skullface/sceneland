@@ -1,62 +1,6 @@
 [
   {
     "artist": [
-      "Super Culture",
-      "Lauren Brabson"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13302293/super-culture-lauren-brabson",
-    "date": "2023-12-13T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Wayne Graham",
-      "Easton Union"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13763558/wayne-graham-easton-union",
-    "date": "2023-12-14T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Just Jerry Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13718608/just-jerry-band",
-    "date": "2023-12-15T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Beachland Holiday Flea"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13677948/beachland-holiday-flea",
-    "date": "2023-12-16T10:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Stay Gone",
-      "Seconds of Silence",
-      "Lights Out",
-      "Joseph Merlitti Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13787658/stay-gone-seconds-of-silence-lights-out-joseph-merlitti-band",
-    "date": "2023-12-16T19:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Super Rubix Butter",
-      "Rubix Groove",
-      "Camel Butter",
-      "Solternal"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13833668/super-rubix-butter-rubix-groove-camel-butter-solternal",
-    "date": "2023-12-16T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Navidad Flamenca"
     ],
     "link": "https://www.beachlandballroom.com/e/13823488/navidad-flamenca",
@@ -156,6 +100,14 @@
     "link": "https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove",
     "date": "2023-12-28T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Northeast Ohio Drum & Music Jam"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13330063/northeast-ohio-drum-music-jam",
+    "date": "2023-12-28T21:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -298,6 +250,15 @@
   },
   {
     "artist": [
+      "Spafford",
+      "Unc D"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13757338/spafford-unc-d",
+    "date": "2024-01-19T19:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "DaLand Brass Band",
       "Wave Magnetick & Rowanne Atallah",
       "Factual Brains"
@@ -305,14 +266,6 @@
     "link": "https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains",
     "date": "2024-01-19T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Spafford"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13757338/spafford",
-    "date": "2024-01-19T20:00:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -404,10 +357,10 @@
   {
     "artist": [
       "Bumpin Uglies",
-      "Grilled Lincoln",
+      "The Grilled Lincolns",
       "Higher Education"
     ],
-    "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies-grilled-lincoln-higher-education",
+    "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies-the-grilled-lincolns-higher-education",
     "date": "2024-02-02T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -517,9 +470,10 @@
   },
   {
     "artist": [
-      "Lilly Hiatt"
+      "Lilly Hiatt",
+      "Molly Martin"
     ],
-    "link": "https://www.beachlandballroom.com/e/13689198/lilly-hiatt",
+    "link": "https://www.beachlandballroom.com/e/13689198/lilly-hiatt-molly-martin",
     "date": "2024-03-03T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -570,9 +524,10 @@
   {
     "artist": [
       "Sleepytime Gorilla Museum",
+      "Lung",
       "Isolation Tank Ensemble"
     ],
-    "link": "https://www.beachlandballroom.com/e/13722208/sleepytime-gorilla-museum-isolation-tank-ensemble",
+    "link": "https://www.beachlandballroom.com/e/13722208/sleepytime-gorilla-museum-lung-isolation-tank-ensemble",
     "date": "2024-03-15T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -599,6 +554,14 @@
     "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
     "date": "2024-03-19T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Wayne Hancock"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13292473/wayne-hancock",
+    "date": "2024-03-20T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -656,10 +619,28 @@
   },
   {
     "artist": [
+      "Matt Andersen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13328773/matt-andersen",
+    "date": "2024-04-02T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "The Crane Wives"
     ],
     "link": "https://www.beachlandballroom.com/e/13744368/the-crane-wives",
+    "sold_out": true,
     "date": "2024-04-03T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Kitchen Dwellers",
+      "Cris Jacobs"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13311923/kitchen-dwellers-cris-jacobs",
+    "date": "2024-04-04T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -669,6 +650,14 @@
     "link": "https://www.beachlandballroom.com/e/13757928/steve-forbert",
     "date": "2024-04-05T19:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Nicotine Dolls"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13323663/nicotine-dolls",
+    "date": "2024-04-08T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -685,6 +674,14 @@
     "link": "https://www.beachlandballroom.com/e/13315403/a-thousand-horses",
     "date": "2024-04-12T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "In The Pines"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13334913/in-the-pines",
+    "date": "2024-04-12T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

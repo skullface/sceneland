@@ -34,7 +34,7 @@ for url_page in url_pages:
     
     sold_out = show.find("a", class_="tw_soldout")
     if sold_out:
-      all_shows_data['sold_out'] = true
+      all_shows_data['sold_out'] = True
 
     date = show.find("span", class_="tw-event-date").text.strip()
     time = show.find('span', class_='tw-event-time').text.strip()

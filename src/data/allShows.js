@@ -1,15 +1,5 @@
 export const allShows = [
   {
-    artist: [
-      '"Ain\'t It Fun" Graphic Novel Book Release',
-      'Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly',
-      'Additional special guests include Jim Ellis (CLE Magazine) & Harvey Gold (Tin Huey)',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cle-magazine-harvey-gold-tin-huey-',
-    date: '2023-12-17T19:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Lung', 'Honeyland', 'The Brakes'],
     link: 'https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes',
     date: '2023-12-21T20:00:00',
@@ -26,6 +16,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13792508/into-the-blue',
     date: '2023-12-22T21:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Beachland Lunch'],
+    link: 'https://www.beachlandballroom.com/e/13360973/beachland-lunch',
+    date: '2023-12-23T11:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Apostle Jones'],
@@ -82,6 +78,12 @@ export const allShows = [
     artist: ['The Day Nites', 'DJ Mr. Fishtruck'],
     link: 'https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck',
     date: '2023-12-29T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Beachland Lunch'],
+    link: 'https://www.beachlandballroom.com/e/13360983/beachland-lunch',
+    date: '2023-12-30T11:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -189,6 +191,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Quick Mystery', 'Rent For Cheryl', 'COE'],
+    link: 'https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe',
+    date: '2024-01-18T20:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Spafford', 'Unc D'],
     link: 'https://www.beachlandballroom.com/e/13757338/spafford-unc-d',
     date: '2024-01-19T19:30:00',
@@ -244,11 +252,11 @@ export const allShows = [
     artist: [
       'Jinari Kemet',
       'Zup',
+      'Marcus Smith',
       'Malik X with Fox Ears',
-      'Madstar',
       'Hosted by Toby Raps',
     ],
-    link: 'https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-malik-x-with-fox-ears-madstar-hosted-by-toby-raps',
+    link: 'https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-malik-x-with-fox-ears-hosted-by-toby-raps',
     date: '2024-01-26T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -401,8 +409,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['The Dollyrots'],
-    link: 'https://www.beachlandballroom.com/e/13874678/the-dollyrots',
+    artist: ['The Dollyrots', 'Detention'],
+    link: 'https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention',
     date: '2024-03-16T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1748,6 +1756,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'Brit FloydP\u00b7U\u00b7L\u00b7S\u00b7E - Celebrating the 30th Anniversary of The Division Bell',
+    ],
+    link: 'https://www.axs.com/events/521837/brit-floyd-tickets',
+    date: '2024-05-19T19:00:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
     artist: ['Jacob CollierDJESSE Vol. 4 North America Tour | , Emily King'],
     link: 'https://www.axs.com/events/472801/jacob-collier-tickets',
     date: '2024-06-12T18:00:00-04:00',
@@ -1910,12 +1926,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['William H. Macy'],
-    link: 'https://www.agoracleveland.com/events/detail/512174',
-    date: '2024-04-13T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Alvvays'],
     link: 'https://www.agoracleveland.com/events/detail/519545',
     date: '2024-04-18T19:00:00',
@@ -1975,9 +1985,9 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Styles P \u2013 Respect My Legacy Tour'],
-    link: 'https://www.ticketmaster.com/styles-p-respect-my-legacy-tour-cleveland-ohio-02-10-2024/event/05005F4D366D60EF',
-    date: '2024-02-10T21:00:00',
+    artist: ['Tallgrass'],
+    link: 'https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65',
+    date: '2024-02-02T20:00:00',
     venue: 'Masonic Temple',
   },
   {

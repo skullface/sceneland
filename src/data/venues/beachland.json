@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "\"Ain't It Fun\" Graphic Novel Book Release",
-      "Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly",
-      "Additional special guests include Jim Ellis (CLE Magazine) & Harvey Gold (Tin Huey)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cle-magazine-harvey-gold-tin-huey-",
-    "date": "2023-12-17T19:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Lung",
       "Honeyland",
       "The Brakes"
@@ -36,6 +26,14 @@
     "link": "https://www.beachlandballroom.com/e/13792508/into-the-blue",
     "date": "2023-12-22T21:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Lunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13360973/beachland-lunch",
+    "date": "2023-12-23T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -108,6 +106,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck",
     "date": "2023-12-29T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Beachland Lunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13360983/beachland-lunch",
+    "date": "2023-12-30T11:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -242,6 +248,16 @@
   },
   {
     "artist": [
+      "Quick Mystery",
+      "Rent For Cheryl",
+      "COE"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe",
+    "date": "2024-01-18T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Spafford",
       "Unc D"
     ],
@@ -314,11 +330,11 @@
     "artist": [
       "Jinari Kemet",
       "Zup",
+      "Marcus Smith",
       "Malik X with Fox Ears",
-      "Madstar",
       "Hosted by Toby Raps"
     ],
-    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-malik-x-with-fox-ears-madstar-hosted-by-toby-raps",
+    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-malik-x-with-fox-ears-hosted-by-toby-raps",
     "date": "2024-01-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -525,9 +541,10 @@
   },
   {
     "artist": [
-      "The Dollyrots"
+      "The Dollyrots",
+      "Detention"
     ],
-    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots",
+    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention",
     "date": "2024-03-16T20:00:00",
     "venue": "Beachland Tavern"
   },

@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 Dec 2023 09:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 09:05:46 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA["Ain't It Fun" Graphic Novel Book Release, Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly, Additional special guests include Jim Ellis (CLE Magazine) & Harvey Gold (Tin Huey) at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to "Ain't It Fun" Graphic Novel Book Release, Interviews with author & artist Aaron Lange along with his Stone Church Press co-publisher, Jake Kelly, Additional special guests include Jim Ellis (CLE Magazine) & Harvey Gold (Tin Huey) at Beachland Tavern on Sunday, December 17, 2023, 07:00 PM: https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cle-magazine-harvey-gold-tin-huey-]]></description>
-            <link>https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cle-magazine-harvey-gold-tin-huey-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13874588/-ain-t-it-fun-graphic-novel-book-release-interviews-with-author-artist-aaron-lange-along-with-his-stone-church-press-co-publisher-jake-kelly-additional-special-guests-include-jim-ellis-cle-magazine-harvey-gold-tin-huey-</guid>
-            <pubDate>Sun, 17 Dec 2023 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Lung, Honeyland, The Brakes at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Lung, Honeyland, The Brakes at Beachland Tavern on Thursday, December 21, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes]]></description>
@@ -33,6 +26,13 @@
             <link>https://www.beachlandballroom.com/e/13792508/into-the-blue</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13792508/into-the-blue</guid>
             <pubDate>Fri, 22 Dec 2023 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beachland Lunch at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Beachland Lunch at Beachland Tavern on Saturday, December 23, 2023, 11:00 AM: https://www.beachlandballroom.com/e/13360973/beachland-lunch]]></description>
+            <link>https://www.beachlandballroom.com/e/13360973/beachland-lunch</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13360973/beachland-lunch</guid>
+            <pubDate>Sat, 23 Dec 2023 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apostle Jones at Beachland Ballroom]]></title>
@@ -89,6 +89,13 @@
             <link>https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck</guid>
             <pubDate>Fri, 29 Dec 2023 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beachland Lunch at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Beachland Lunch at Beachland Tavern on Saturday, December 30, 2023, 11:00 AM: https://www.beachlandballroom.com/e/13360983/beachland-lunch]]></description>
+            <link>https://www.beachlandballroom.com/e/13360983/beachland-lunch</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13360983/beachland-lunch</guid>
+            <pubDate>Sat, 30 Dec 2023 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Baker's Basement, Guggy's Rock & Roll 101, Kiss Me Deadly, The 80's Ladies at Beachland Tavern]]></title>
@@ -182,6 +189,13 @@
             <pubDate>Sun, 14 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Quick Mystery, Rent For Cheryl, COE at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Quick Mystery, Rent For Cheryl, COE at Beachland Tavern on Thursday, January 18, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe]]></description>
+            <link>https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe</guid>
+            <pubDate>Thu, 18 Jan 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Spafford, Unc D at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Spafford, Unc D at Beachland Ballroom on Friday, January 19, 2024, 07:30 PM: https://www.beachlandballroom.com/e/13757338/spafford-unc-d]]></description>
             <link>https://www.beachlandballroom.com/e/13757338/spafford-unc-d</link>
@@ -238,10 +252,10 @@
             <pubDate>Thu, 25 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jinari Kemet, Zup, Malik X with Fox Ears, Madstar, Hosted by Toby Raps at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Jinari Kemet, Zup, Malik X with Fox Ears, Madstar, Hosted by Toby Raps at Beachland Tavern on Friday, January 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-malik-x-with-fox-ears-madstar-hosted-by-toby-raps]]></description>
-            <link>https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-malik-x-with-fox-ears-madstar-hosted-by-toby-raps</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-malik-x-with-fox-ears-madstar-hosted-by-toby-raps</guid>
+            <title><![CDATA[Jinari Kemet, Zup, Marcus Smith, Malik X with Fox Ears, Hosted by Toby Raps at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Jinari Kemet, Zup, Marcus Smith, Malik X with Fox Ears, Hosted by Toby Raps at Beachland Tavern on Friday, January 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-malik-x-with-fox-ears-hosted-by-toby-raps]]></description>
+            <link>https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-malik-x-with-fox-ears-hosted-by-toby-raps</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-malik-x-with-fox-ears-hosted-by-toby-raps</guid>
             <pubDate>Fri, 26 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -399,10 +413,10 @@
             <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Dollyrots at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Dollyrots at Beachland Tavern on Saturday, March 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13874678/the-dollyrots]]></description>
-            <link>https://www.beachlandballroom.com/e/13874678/the-dollyrots</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13874678/the-dollyrots</guid>
+            <title><![CDATA[The Dollyrots, Detention at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Dollyrots, Detention at Beachland Tavern on Saturday, March 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention]]></description>
+            <link>https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention</guid>
             <pubDate>Sat, 16 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1834,6 +1848,13 @@
             <pubDate>Fri, 07 Jun 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brit FloydP·U·L·S·E - Celebrating the 30th Anniversary of The Division Bell at Jacobs Pavilion at Nautica]]></title>
+            <description><![CDATA[Get tickets to Brit FloydP·U·L·S·E - Celebrating the 30th Anniversary of The Division Bell at Jacobs Pavilion at Nautica on Sunday, May 19, 2024, 11:00 PM: https://www.axs.com/events/521837/brit-floyd-tickets]]></description>
+            <link>https://www.axs.com/events/521837/brit-floyd-tickets</link>
+            <guid isPermaLink="true">https://www.axs.com/events/521837/brit-floyd-tickets</guid>
+            <pubDate>Sun, 19 May 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jacob CollierDJESSE Vol. 4 North America Tour | , Emily King at Jacobs Pavilion at Nautica]]></title>
             <description><![CDATA[Get tickets to Jacob CollierDJESSE Vol. 4 North America Tour | , Emily King at Jacobs Pavilion at Nautica on Wednesday, June 12, 2024, 10:00 PM: https://www.axs.com/events/472801/jacob-collier-tickets]]></description>
             <link>https://www.axs.com/events/472801/jacob-collier-tickets</link>
@@ -2023,13 +2044,6 @@
             <pubDate>Fri, 29 Mar 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[William H. Macy at Agora]]></title>
-            <description><![CDATA[Get tickets to William H. Macy at Agora on Saturday, April 13, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/512174]]></description>
-            <link>https://www.agoracleveland.com/events/detail/512174</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/512174</guid>
-            <pubDate>Sat, 13 Apr 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alvvays at Agora]]></title>
             <description><![CDATA[Get tickets to Alvvays at Agora on Thursday, April 18, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/519545]]></description>
             <link>https://www.agoracleveland.com/events/detail/519545</link>
@@ -2093,11 +2107,11 @@
             <pubDate>Sun, 28 Jul 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Styles P – Respect My Legacy Tour at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Styles P – Respect My Legacy Tour at Masonic Temple on Saturday, February 10, 2024, 09:00 PM: https://www.ticketmaster.com/styles-p-respect-my-legacy-tour-cleveland-ohio-02-10-2024/event/05005F4D366D60EF]]></description>
-            <link>https://www.ticketmaster.com/styles-p-respect-my-legacy-tour-cleveland-ohio-02-10-2024/event/05005F4D366D60EF</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/styles-p-respect-my-legacy-tour-cleveland-ohio-02-10-2024/event/05005F4D366D60EF</guid>
-            <pubDate>Sat, 10 Feb 2024 21:00:00 GMT</pubDate>
+            <title><![CDATA[Tallgrass at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Tallgrass at Masonic Temple on Friday, February 2, 2024, 08:00 PM: https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65]]></description>
+            <link>https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65</guid>
+            <pubDate>Fri, 02 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Dead South at Masonic Temple]]></title>

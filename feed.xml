@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Dec 2023 09:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 09:05:42 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lung, Honeyland, The Brakes at Beachland Tavern]]></title>
@@ -145,6 +145,13 @@
             <link>https://www.beachlandballroom.com/e/13819888/the-fm-project-steely-dan-tribute-band-</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13819888/the-fm-project-steely-dan-tribute-band-</guid>
             <pubDate>Sat, 06 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blues Jam: Hosted by King Pins at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Blues Jam: Hosted by King Pins at Beachland Tavern on Monday, January 8, 2024, 07:30 PM: https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins]]></description>
+            <link>https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins</guid>
+            <pubDate>Mon, 08 Jan 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Voices of the Land: Acoustic Showcase, Taylor Lamborn, Ester Fitz, Lauren Lanzaretta, Andi Chakraborty, Jordan Laird & Jordan Urban at Beachland Tavern]]></title>
@@ -357,6 +364,13 @@
             <pubDate>Tue, 27 Feb 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[King Buffalo at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to King Buffalo at Beachland Ballroom on Friday, March 1, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13338153/king-buffalo]]></description>
+            <link>https://www.beachlandballroom.com/e/13338153/king-buffalo</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13338153/king-buffalo</guid>
+            <pubDate>Fri, 01 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Maddie Zahm at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Maddie Zahm at Beachland Ballroom on Saturday, March 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13688828/maddie-zahm]]></description>
             <link>https://www.beachlandballroom.com/e/13688828/maddie-zahm</link>
@@ -383,6 +397,13 @@
             <link>https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty</guid>
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ekoostik Hookah at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Ekoostik Hookah at Beachland Ballroom on Friday, March 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13342463/ekoostik-hookah]]></description>
+            <link>https://www.beachlandballroom.com/e/13342463/ekoostik-hookah</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13342463/ekoostik-hookah</guid>
+            <pubDate>Fri, 08 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ally Venable at Beachland Ballroom]]></title>
@@ -445,6 +466,13 @@
             <description><![CDATA[Get tickets to A Cleveland Music Showcase, Owen River, Charity Cunningham, Vince Nerone, Jack Harris at Beachland Ballroom on Friday, March 22, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13283663/a-cleveland-music-showcase-owen-river-charity-cunningham-vince-nerone-jack-harris]]></description>
             <link>https://www.beachlandballroom.com/e/13283663/a-cleveland-music-showcase-owen-river-charity-cunningham-vince-nerone-jack-harris</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13283663/a-cleveland-music-showcase-owen-river-charity-cunningham-vince-nerone-jack-harris</guid>
+            <pubDate>Fri, 22 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joey Harkum at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Joey Harkum at Beachland Tavern on Friday, March 22, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13297843/joey-harkum]]></description>
+            <link>https://www.beachlandballroom.com/e/13297843/joey-harkum</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13297843/joey-harkum</guid>
             <pubDate>Fri, 22 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -532,10 +560,10 @@
             <pubDate>Fri, 12 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In The Pines at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to In The Pines at Beachland Tavern on Friday, April 12, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13334913/in-the-pines]]></description>
-            <link>https://www.beachlandballroom.com/e/13334913/in-the-pines</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13334913/in-the-pines</guid>
+            <title><![CDATA[In The Pines, Super Sport, Zack Keim, The VUMMS at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to In The Pines, Super Sport, Zack Keim, The VUMMS at Beachland Tavern on Friday, April 12, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13334913/in-the-pines-super-sport-zack-keim-the-vumms]]></description>
+            <link>https://www.beachlandballroom.com/e/13334913/in-the-pines-super-sport-zack-keim-the-vumms</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13334913/in-the-pines-super-sport-zack-keim-the-vumms</guid>
             <pubDate>Fri, 12 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -551,6 +579,13 @@
             <link>https://www.beachlandballroom.com/e/13409098/ruen-brothers</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13409098/ruen-brothers</guid>
             <pubDate>Wed, 17 Apr 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Delta Bombers, IV and the Strange Band at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Delta Bombers, IV and the Strange Band at Beachland Tavern on Wednesday, April 24, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13323853/the-delta-bombers-iv-and-the-strange-band]]></description>
+            <link>https://www.beachlandballroom.com/e/13323853/the-delta-bombers-iv-and-the-strange-band</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13323853/the-delta-bombers-iv-and-the-strange-band</guid>
+            <pubDate>Wed, 24 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ty Segall at Beachland Ballroom]]></title>
@@ -1204,6 +1239,13 @@
             <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fan Love Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Fan Love Tour at Playhouse Square on Sunday, March 24, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/fan-love-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/fan-love-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/fan-love-tour</guid>
+            <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Celtic Woman 20th Anniversary Tour at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Celtic Woman 20th Anniversary Tour at Playhouse Square on Thursday, March 28, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/celtic-woman-20th-anniversary-tour]]></description>
             <link>https://www.playhousesquare.org/events/detail/celtic-woman-20th-anniversary-tour</link>
@@ -1281,13 +1323,6 @@
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cast Iron Comedy Showcase at Foundry]]></title>
-            <description><![CDATA[Get tickets to Cast Iron Comedy Showcase at Foundry on Tuesday, December 19, 2023, 05:00 PM: https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/</guid>
-            <pubDate>Tue, 19 Dec 2023 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Creepmas – A Creepy Craft Show at Foundry]]></title>
             <description><![CDATA[Get tickets to Creepmas – A Creepy Craft Show at Foundry on Thursday, December 21, 2023, 05:00 PM: https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/</link>
@@ -1321,6 +1356,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/</guid>
             <pubDate>Sun, 31 Dec 2023 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Freedom in Chains, Skeptic Lens, Ash Hollow, Left Unsaid at Foundry]]></title>
+            <description><![CDATA[Get tickets to Freedom in Chains, Skeptic Lens, Ash Hollow, Left Unsaid at Foundry on Friday, January 5, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/freedom-in-chains-skeptic-lens-ash-hollow-left-unsaid/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/freedom-in-chains-skeptic-lens-ash-hollow-left-unsaid/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/freedom-in-chains-skeptic-lens-ash-hollow-left-unsaid/</guid>
+            <pubDate>Fri, 05 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FREE BAR SHOW W/ WEDNESDAY DEMONSTRATION, WASTED SOCIETY, DANGER!, AND ARTIFICIAL SK8R at Foundry]]></title>
@@ -1365,13 +1407,6 @@
             <pubDate>Sun, 21 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, January 22, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/</guid>
-            <pubDate>Mon, 22 Jan 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nems x Mac Lethal at Foundry]]></title>
             <description><![CDATA[Get tickets to Nems x Mac Lethal at Foundry on Tuesday, January 23, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/</link>
@@ -1384,6 +1419,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/</guid>
             <pubDate>Fri, 26 Jan 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
+            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, January 29, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/</guid>
+            <pubDate>Mon, 29 Jan 2024 17:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KINK! A Nightclub Event at Foundry]]></title>
@@ -1407,6 +1449,13 @@
             <pubDate>Thu, 22 Feb 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[KOYO, One Step Closer, Anxious, Stateside at Foundry]]></title>
+            <description><![CDATA[Get tickets to KOYO, One Step Closer, Anxious, Stateside at Foundry on Friday, March 15, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/koyo-one-step-closer-anxious-stateside/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/koyo-one-step-closer-anxious-stateside/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/koyo-one-step-closer-anxious-stateside/</guid>
+            <pubDate>Fri, 15 Mar 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mugshot, Kaonashi, Cell , Pain at Foundry]]></title>
             <description><![CDATA[Get tickets to Mugshot, Kaonashi, Cell , Pain at Foundry on Tuesday, April 2, 2024, 06:30 PM: https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/</link>
@@ -1426,13 +1475,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</guid>
             <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amphibians, The Little Ditties, Cherry Yachtsman, Nafan and the Mailmen at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Amphibians, The Little Ditties, Cherry Yachtsman, Nafan and the Mailmen at Grog Shop on Tuesday, December 19, 2023, 08:00 PM: https://grogshop.gs/event-details/13258123/amphibians-the-little-ditties-cherry-yachtsman-nafan-and-the-mailmen]]></description>
-            <link>https://grogshop.gs/event-details/13258123/amphibians-the-little-ditties-cherry-yachtsman-nafan-and-the-mailmen</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13258123/amphibians-the-little-ditties-cherry-yachtsman-nafan-and-the-mailmen</guid>
-            <pubDate>Tue, 19 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
@@ -2359,6 +2401,13 @@
             <pubDate>Thu, 01 Feb 2024 23:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gimme Gimme Disco at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Gimme Gimme Disco at Mahall’s on Saturday, February 3, 2024, 02:00 AM: https://link.dice.fm/n002e3eab957?dice_id=1984019]]></description>
+            <link>https://link.dice.fm/n002e3eab957?dice_id=1984019</link>
+            <guid isPermaLink="true">https://link.dice.fm/n002e3eab957?dice_id=1984019</guid>
+            <pubDate>Sat, 03 Feb 2024 02:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Willi Carlisle at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Willi Carlisle at Mahall’s on Monday, February 5, 2024, 12:00 AM: https://link.dice.fm/L3b58a7f3d7b?dice_id=1848270]]></description>
             <link>https://link.dice.fm/L3b58a7f3d7b?dice_id=1848270</link>
@@ -2387,17 +2436,17 @@
             <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=1768754]]></description>
-            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</link>
-            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</guid>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cole Chaney at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=1951044]]></description>
             <link>https://link.dice.fm/Uce0994a921d?dice_id=1951044</link>
             <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=1951044</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=1768754]]></description>
+            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</link>
+            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>

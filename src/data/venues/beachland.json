@@ -188,6 +188,14 @@
   },
   {
     "artist": [
+      "Blues Jam: Hosted by King Pins"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins",
+    "date": "2024-01-08T19:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Voices of the Land: Acoustic Showcase",
       "Taylor Lamborn",
       "Ester Fitz",
@@ -469,6 +477,14 @@
   },
   {
     "artist": [
+      "King Buffalo"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13338153/king-buffalo",
+    "date": "2024-03-01T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Maddie Zahm"
     ],
     "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm",
@@ -501,6 +517,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty",
     "date": "2024-03-06T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Ekoostik Hookah"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13342463/ekoostik-hookah",
+    "date": "2024-03-08T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -583,6 +607,14 @@
     "link": "https://www.beachlandballroom.com/e/13283663/a-cleveland-music-showcase-owen-river-charity-cunningham-vince-nerone-jack-harris",
     "date": "2024-03-22T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Joey Harkum"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13297843/joey-harkum",
+    "date": "2024-03-22T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -686,9 +718,12 @@
   },
   {
     "artist": [
-      "In The Pines"
+      "In The Pines",
+      "Super Sport",
+      "Zack Keim",
+      "The VUMMS"
     ],
-    "link": "https://www.beachlandballroom.com/e/13334913/in-the-pines",
+    "link": "https://www.beachlandballroom.com/e/13334913/in-the-pines-super-sport-zack-keim-the-vumms",
     "date": "2024-04-12T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -706,6 +741,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
     "date": "2024-04-17T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "The Delta Bombers",
+      "IV and the Strange Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13323853/the-delta-bombers-iv-and-the-strange-band",
+    "date": "2024-04-24T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

@@ -144,6 +144,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Blues Jam: Hosted by King Pins'],
+    link: 'https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins',
+    date: '2024-01-08T19:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: [
       'Voices of the Land: Acoustic Showcase',
       'Taylor Lamborn',
@@ -360,6 +366,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['King Buffalo'],
+    link: 'https://www.beachlandballroom.com/e/13338153/king-buffalo',
+    date: '2024-03-01T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Maddie Zahm'],
     link: 'https://www.beachlandballroom.com/e/13688828/maddie-zahm',
     sold_out: true,
@@ -382,6 +394,12 @@ export const allShows = [
     artist: ['Tanner Usrey', 'Kat Hasty'],
     link: 'https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty',
     date: '2024-03-06T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Ekoostik Hookah'],
+    link: 'https://www.beachlandballroom.com/e/13342463/ekoostik-hookah',
+    date: '2024-03-08T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -443,6 +461,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13283663/a-cleveland-music-showcase-owen-river-charity-cunningham-vince-nerone-jack-harris',
     date: '2024-03-22T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Joey Harkum'],
+    link: 'https://www.beachlandballroom.com/e/13297843/joey-harkum',
+    date: '2024-03-22T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Shovels & Rope'],
@@ -518,8 +542,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['In The Pines'],
-    link: 'https://www.beachlandballroom.com/e/13334913/in-the-pines',
+    artist: ['In The Pines', 'Super Sport', 'Zack Keim', 'The VUMMS'],
+    link: 'https://www.beachlandballroom.com/e/13334913/in-the-pines-super-sport-zack-keim-the-vumms',
     date: '2024-04-12T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -533,6 +557,12 @@ export const allShows = [
     artist: ['Ruen Brothers'],
     link: 'https://www.beachlandballroom.com/e/13409098/ruen-brothers',
     date: '2024-04-17T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['The Delta Bombers', 'IV and the Strange Band'],
+    link: 'https://www.beachlandballroom.com/e/13323853/the-delta-bombers-iv-and-the-strange-band',
+    date: '2024-04-24T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -1110,6 +1140,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Fan Love Tour'],
+    link: 'https://www.playhousesquare.org/events/detail/fan-love-tour',
+    date: '2024-03-24',
+    venue: 'Playhouse Square',
+  },
+  {
     artist: ['Celtic Woman 20th Anniversary Tour'],
     link: 'https://www.playhousesquare.org/events/detail/celtic-woman-20th-anniversary-tour',
     date: '2024-03-28',
@@ -1176,12 +1212,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Cast Iron Comedy Showcase'],
-    link: 'https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/',
-    date: '2023-12-19T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Creepmas \u2013 A Creepy Craft Show'],
     link: 'https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/',
     date: '2023-12-21T17:00:00',
@@ -1214,6 +1244,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Freedom in Chains, Skeptic Lens, Ash Hollow, Left Unsaid'],
+    link: 'https://www.foundryconcertclub.com/tm-event/freedom-in-chains-skeptic-lens-ash-hollow-left-unsaid/',
+    date: '2024-01-05T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: [
       'FREE BAR SHOW W/ WEDNESDAY DEMONSTRATION, WASTED SOCIETY, DANGER!, AND ARTIFICIAL SK8R',
     ],
@@ -1224,6 +1260,7 @@ export const allShows = [
   {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday/',
+    sold_out: true,
     date: '2024-01-08T17:00:00',
     venue: 'Foundry',
   },
@@ -1254,13 +1291,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/',
-    sold_out: true,
-    date: '2024-01-22T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Nems x Mac Lethal'],
     link: 'https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/',
     date: '2024-01-23T19:00:00',
@@ -1270,6 +1300,12 @@ export const allShows = [
     artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
     link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
     date: '2024-01-26T18:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/',
+    date: '2024-01-29T17:00:00',
     venue: 'Foundry',
   },
   {
@@ -1293,6 +1329,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['KOYO, One Step Closer, Anxious, Stateside'],
+    link: 'https://www.foundryconcertclub.com/tm-event/koyo-one-step-closer-anxious-stateside/',
+    date: '2024-03-15T18:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Mugshot, Kaonashi, Cell , Pain'],
     link: 'https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/',
     date: '2024-04-02T18:30:00',
@@ -1309,17 +1351,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      'Amphibians',
-      'The Little Ditties',
-      'Cherry Yachtsman',
-      'Nafan and the Mailmen',
-    ],
-    link: 'https://grogshop.gs/event-details/13258123/amphibians-the-little-ditties-cherry-yachtsman-nafan-and-the-mailmen',
-    date: '2023-12-19T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Midnight Rental presents Secret Movie Night'],
@@ -2201,6 +2232,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Gimme Gimme Disco'],
+    link: 'https://link.dice.fm/n002e3eab957?dice_id=1984019',
+    date: '2024-02-02T21:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Willi Carlisle'],
     link: 'https://link.dice.fm/L3b58a7f3d7b?dice_id=1848270',
     date: '2024-02-04T19:00:00-05:00',
@@ -2225,14 +2262,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },

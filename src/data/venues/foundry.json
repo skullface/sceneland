@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cast Iron Comedy Showcase"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
-    "date": "2023-12-19T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Creepmas \u2013 A Creepy Craft Show"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/",
@@ -49,6 +41,14 @@
   },
   {
     "artist": [
+      "Freedom in Chains, Skeptic Lens, Ash Hollow, Left Unsaid"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/freedom-in-chains-skeptic-lens-ash-hollow-left-unsaid/",
+    "date": "2024-01-05T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "FREE BAR SHOW W/ WEDNESDAY DEMONSTRATION, WASTED SOCIETY, DANGER!, AND ARTIFICIAL SK8R"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show-w-wednesday-demonstration-wasted-society-danger-and-artificial-sk8r/",
@@ -60,6 +60,7 @@
       "MOVIE NIGHT MONDAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday/",
+    "sold_out": true,
     "date": "2024-01-08T17:00:00",
     "venue": "Foundry"
   },
@@ -97,15 +98,6 @@
   },
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/",
-    "sold_out": true,
-    "date": "2024-01-22T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Nems x Mac Lethal"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/",
@@ -118,6 +110,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/",
     "date": "2024-01-26T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/",
+    "date": "2024-01-29T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -142,6 +142,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/",
     "date": "2024-02-22T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "KOYO, One Step Closer, Anxious, Stateside"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/koyo-one-step-closer-anxious-stateside/",
+    "date": "2024-03-15T18:00:00",
     "venue": "Foundry"
   },
   {

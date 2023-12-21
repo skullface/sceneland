@@ -485,6 +485,14 @@
   },
   {
     "artist": [
+      "The Alarm Clocks"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13368053/the-alarm-clocks",
+    "date": "2024-03-01T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Maddie Zahm"
     ],
     "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm",
@@ -737,6 +745,14 @@
   },
   {
     "artist": [
+      "Qwanqwa"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13324263/qwanqwa",
+    "date": "2024-04-16T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Ruen Brothers"
     ],
     "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
@@ -783,6 +799,7 @@
       "Osees"
     ],
     "link": "https://www.beachlandballroom.com/e/13787568/osees",
+    "sold_out": true,
     "date": "2024-10-20T20:30:00",
     "venue": "Beachland Ballroom"
   }

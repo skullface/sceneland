@@ -372,6 +372,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['The Alarm Clocks'],
+    link: 'https://www.beachlandballroom.com/e/13368053/the-alarm-clocks',
+    date: '2024-03-01T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Maddie Zahm'],
     link: 'https://www.beachlandballroom.com/e/13688828/maddie-zahm',
     sold_out: true,
@@ -554,6 +560,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Qwanqwa'],
+    link: 'https://www.beachlandballroom.com/e/13324263/qwanqwa',
+    date: '2024-04-16T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Ruen Brothers'],
     link: 'https://www.beachlandballroom.com/e/13409098/ruen-brothers',
     date: '2024-04-17T20:00:00',
@@ -586,6 +598,7 @@ export const allShows = [
   {
     artist: ['Osees'],
     link: 'https://www.beachlandballroom.com/e/13787568/osees',
+    sold_out: true,
     date: '2024-10-20T20:30:00',
     venue: 'Beachland Ballroom',
   },
@@ -1291,12 +1304,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Nems x Mac Lethal'],
-    link: 'https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/',
-    date: '2024-01-23T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
     link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
     date: '2024-01-26T18:00:00',
@@ -1351,12 +1358,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/event-details/13799598/midnight-rental-presents-secret-movie-night',
-    date: '2023-12-20T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1532,6 +1533,19 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'Saturday Night Main Event',
+      '10$tacks',
+      'CC Marley',
+      'Pvpichulo',
+      'Heiress Behavior',
+      'Charli Davidson',
+    ],
+    link: 'https://grogshop.gs/event-details/13368173/saturday-night-main-event',
+    date: '2024-01-13T22:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Andrew Lloyd Birthday Party/ Independent artist concert'],
     link: 'https://grogshop.gs/event-details/13317843/andrew-lloyd-birthday-party-independent-artist-concert',
     date: '2024-01-14T19:30:00',
@@ -1581,7 +1595,7 @@ export const allShows = [
   {
     artist: ['Grandview & Hanging Johnny', 'Grandview', 'Hanging Johnny'],
     link: 'https://grogshop.gs/event-details/13330923/grandview-hanging-johnny',
-    date: '2024-01-25T20:00:00',
+    date: '2024-01-25T19:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -2214,7 +2228,7 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cherry!'],
+    artist: ['MK Ultra'],
     link: 'https://link.dice.fm/c14409bbe3bc?dice_id=2018112',
     date: '2024-01-18T18:30:00-05:00',
     venue: 'Mahall\u2019s',

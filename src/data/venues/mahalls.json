@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cassoulet"
-    ],
-    "link": "https://link.dice.fm/q116be672a8f?dice_id=1805702",
-    "date": "2023-12-21T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "October Beach Club"
     ],
     "link": "https://link.dice.fm/R1f4deeaa38c?dice_id=1952997",
@@ -125,6 +117,14 @@
     ],
     "link": "https://link.dice.fm/V59a7152297c?dice_id=1739727",
     "date": "2024-01-19T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mean Girls dance night"
+    ],
+    "link": "https://link.dice.fm/r93c9dd299f6?dice_id=2071622",
+    "date": "2024-01-20T20:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

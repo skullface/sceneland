@@ -301,6 +301,22 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: [
+      'Shotgun Bowl 2',
+      'Olathia',
+      'Destructor',
+      'Wyld Timez',
+      'Punching Moses',
+      'Rip Ryde',
+      'Wrath Icon',
+      'Dysplacer',
+      'Idol Throne',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13367543/shotgun-bowl-2-olathia-destructor-wyld-timez-punching-moses-rip-ryde-wrath-icon-dysplacer-idol-throne',
+    date: '2024-02-04T14:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Keller Williams'],
     link: 'https://www.beachlandballroom.com/e/13468278/keller-williams',
     date: '2024-02-09T20:00:00',
@@ -841,6 +857,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Colors Presents: R&B Only (21 And Over)'],
+    link: 'https://concerts.livenation.com/colors-presents-rb-only-21-and-cleveland-ohio-01-26-2024/event/05005F94CCBB2EAC',
+    date: '2024-01-26T20:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Joseph'],
     link: 'https://concerts.livenation.com/joseph-cleveland-ohio-01-27-2024/event/05005F4427964F0D',
     date: '2024-01-27T19:00:00',
@@ -1304,6 +1326,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Nems x Mac Lethal'],
+    link: 'https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/',
+    date: '2024-01-23T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
     link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
     date: '2024-01-26T18:00:00',
@@ -1358,16 +1386,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      "Detention : Christmas Chaos Tour '23",
-      'Lilieae',
-      'Quick Mystery',
-    ],
-    link: 'https://grogshop.gs/event-details/13829358/detention-christmas-chaos-tour-23',
-    date: '2023-12-21T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -2144,12 +2162,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Cassoulet'],
-    link: 'https://link.dice.fm/q116be672a8f?dice_id=1805702',
-    date: '2023-12-21T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['October Beach Club'],
     link: 'https://link.dice.fm/R1f4deeaa38c?dice_id=1952997',
     date: '2023-12-22T19:00:00-05:00',
@@ -2237,6 +2249,12 @@ export const allShows = [
     artist: ['The Pinkertones '],
     link: 'https://link.dice.fm/V59a7152297c?dice_id=1739727',
     date: '2024-01-19T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Mean Girls dance night'],
+    link: 'https://link.dice.fm/r93c9dd299f6?dice_id=2071622',
+    date: '2024-01-20T20:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {

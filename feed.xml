@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Dec 2023 09:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 09:05:43 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Lung, Honeyland, The Brakes at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Lung, Honeyland, The Brakes at Beachland Tavern on Thursday, December 21, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes]]></description>
-            <link>https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes</guid>
-            <pubDate>Thu, 21 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Radio Dummies, The Big Leagues, Diet Smiles at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Radio Dummies, The Big Leagues, Diet Smiles at Beachland Tavern on Friday, December 22, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13246603/radio-dummies-the-big-leagues-diet-smiles]]></description>
@@ -1232,6 +1225,13 @@
             <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tri-C 47th Annual MLK Celebration at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Tri-C 47th Annual MLK Celebration at Playhouse Square on Sunday, January 14, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration]]></description>
+            <link>https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration</guid>
+            <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ms. Pat: Ya Girl Done Made It at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Ms. Pat: Ya Girl Done Made It at Playhouse Square on Friday, February 2, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it]]></description>
             <link>https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it</link>
@@ -1349,20 +1349,6 @@
             <link>https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Creepmas – A Creepy Craft Show at Foundry]]></title>
-            <description><![CDATA[Get tickets to Creepmas – A Creepy Craft Show at Foundry on Thursday, December 21, 2023, 05:00 PM: https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/</guid>
-            <pubDate>Thu, 21 Dec 2023 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hostile Omish, Violet Ray, The Heart Alarms, SDWB at Foundry]]></title>
-            <description><![CDATA[Get tickets to Hostile Omish, Violet Ray, The Heart Alarms, SDWB at Foundry on Friday, December 22, 2023, 07:30 PM: https://www.foundryconcertclub.com/tm-event/hostile-omish-violet-ray-the-heart-alarms-sdwb/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/hostile-omish-violet-ray-the-heart-alarms-sdwb/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/hostile-omish-violet-ray-the-heart-alarms-sdwb/</guid>
-            <pubDate>Fri, 22 Dec 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MEATFEST at Foundry]]></title>
@@ -1503,13 +1489,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</guid>
             <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Axioma | Inoculation | Paradox Rift | Unvow, Inoculation, Paradox Rift, Unvow at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Axioma | Inoculation | Paradox Rift | Unvow, Inoculation, Paradox Rift, Unvow at Grog Shop on Friday, December 22, 2023, 08:00 PM: https://grogshop.gs/event-details/13853858/axioma-inoculation-paradox-rift-unvow]]></description>
-            <link>https://grogshop.gs/event-details/13853858/axioma-inoculation-paradox-rift-unvow</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13853858/axioma-inoculation-paradox-rift-unvow</guid>
-            <pubDate>Fri, 22 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Modern Electric's Northcoast Christmas, Papi and the Smears, Dive Bombs at Grog Shop]]></title>
@@ -1657,6 +1636,13 @@
             <link>https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
             <pubDate>Mon, 15 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miguel Cafe, Glass Aeros, Domingo Kite at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Miguel Cafe, Glass Aeros, Domingo Kite at Grog Shop on Tuesday, January 16, 2024, 07:30 PM: https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite]]></description>
+            <link>https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite</guid>
+            <pubDate>Tue, 16 Jan 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TORRES, Aisha Burns, Kid Tigrrr at Grog Shop]]></title>
@@ -1944,13 +1930,6 @@
             <link>https://www.axs.com/events/510138/o-a-r-tickets</link>
             <guid isPermaLink="true">https://www.axs.com/events/510138/o-a-r-tickets</guid>
             <pubDate>Sun, 25 Aug 2024 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bill Squire, Mary Santora at Agora]]></title>
-            <description><![CDATA[Get tickets to Bill Squire, Mary Santora at Agora on Friday, December 22, 2023, 07:00 PM: https://www.agoracleveland.com/events/detail/502755]]></description>
-            <link>https://www.agoracleveland.com/events/detail/502755</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/502755</guid>
-            <pubDate>Fri, 22 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Story of the Year, We the Kings, Youth Fountain at Agora]]></title>
@@ -2303,13 +2282,6 @@
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[October Beach Club at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to October Beach Club at Mahall’s on Saturday, December 23, 2023, 12:00 AM: https://link.dice.fm/R1f4deeaa38c?dice_id=1952997]]></description>
-            <link>https://link.dice.fm/R1f4deeaa38c?dice_id=1952997</link>
-            <guid isPermaLink="true">https://link.dice.fm/R1f4deeaa38c?dice_id=1952997</guid>
-            <pubDate>Sat, 23 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[EMO NIGHTmare before Christmas at Mahall’s]]></title>
             <description><![CDATA[Get tickets to EMO NIGHTmare before Christmas at Mahall’s on Sunday, December 24, 2023, 02:00 AM: https://link.dice.fm/Sfefef90755a?dice_id=1901595]]></description>
             <link>https://link.dice.fm/Sfefef90755a?dice_id=1901595</link>
@@ -2413,6 +2385,13 @@
             <link>https://link.dice.fm/r93c9dd299f6?dice_id=2071622</link>
             <guid isPermaLink="true">https://link.dice.fm/r93c9dd299f6?dice_id=2071622</guid>
             <pubDate>Sun, 21 Jan 2024 01:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jukebox Breakdown aka Emo Night CLE at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Jukebox Breakdown aka Emo Night CLE at Mahall’s on Saturday, January 27, 2024, 02:00 AM: https://link.dice.fm/Ra2ba087161c?dice_id=2076977]]></description>
+            <link>https://link.dice.fm/Ra2ba087161c?dice_id=2076977</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ra2ba087161c?dice_id=2076977</guid>
+            <pubDate>Sat, 27 Jan 2024 02:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet Me @ The Altar: Say It To My Face Tour at Mahall’s]]></title>

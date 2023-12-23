@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Lung', 'Honeyland', 'The Brakes'],
-    link: 'https://www.beachlandballroom.com/e/13674048/lung-honeyland-the-brakes',
-    date: '2023-12-21T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Radio Dummies', 'The Big Leagues', 'Diet Smiles'],
     link: 'https://www.beachlandballroom.com/e/13246603/radio-dummies-the-big-leagues-diet-smiles',
     date: '2023-12-22T20:00:00',
@@ -1145,6 +1139,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Tri-C 47th Annual MLK Celebration'],
+    link: 'https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration',
+    date: '2024-01-14',
+    venue: 'Playhouse Square',
+  },
+  {
     artist: ['Ms. Pat: Ya Girl Done Made It'],
     link: 'https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it',
     date: '2024-02-02',
@@ -1245,18 +1245,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Creepmas \u2013 A Creepy Craft Show'],
-    link: 'https://www.foundryconcertclub.com/tm-event/creepmas-a-creepy-craft-show/',
-    date: '2023-12-21T17:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['Hostile Omish, Violet Ray, The Heart Alarms, SDWB'],
-    link: 'https://www.foundryconcertclub.com/tm-event/hostile-omish-violet-ray-the-heart-alarms-sdwb/',
-    date: '2023-12-22T19:30:00',
-    venue: 'Foundry',
   },
   {
     artist: ['MEATFEST'],
@@ -1386,17 +1374,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      'Axioma | Inoculation | Paradox Rift | Unvow',
-      'Inoculation',
-      'Paradox Rift',
-      'Unvow',
-    ],
-    link: 'https://grogshop.gs/event-details/13853858/axioma-inoculation-paradox-rift-unvow',
-    date: '2023-12-22T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1573,6 +1550,12 @@ export const allShows = [
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-01-15T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Miguel Cafe, Glass Aeros, Domingo Kite'],
+    link: 'https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite',
+    date: '2024-01-16T19:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -1849,12 +1832,6 @@ export const allShows = [
     link: 'https://www.axs.com/events/510138/o-a-r-tickets',
     date: '2024-08-25T18:00:00-04:00',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Bill Squire, Mary Santora'],
-    link: 'https://www.agoracleveland.com/events/detail/502755',
-    date: '2023-12-22T19:00:00',
-    venue: 'Agora',
   },
   {
     artist: ['Story of the Year, We the Kings, Youth Fountain'],
@@ -2162,12 +2139,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['October Beach Club'],
-    link: 'https://link.dice.fm/R1f4deeaa38c?dice_id=1952997',
-    date: '2023-12-22T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['EMO NIGHTmare before Christmas'],
     link: 'https://link.dice.fm/Sfefef90755a?dice_id=1901595',
     date: '2023-12-23T21:00:00-05:00',
@@ -2255,6 +2226,12 @@ export const allShows = [
     artist: ['Mean Girls dance night'],
     link: 'https://link.dice.fm/r93c9dd299f6?dice_id=2071622',
     date: '2024-01-20T20:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Jukebox Breakdown aka Emo Night CLE'],
+    link: 'https://link.dice.fm/Ra2ba087161c?dice_id=2076977',
+    date: '2024-01-26T21:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {

@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Axioma | Inoculation | Paradox Rift | Unvow",
-      "Inoculation",
-      "Paradox Rift",
-      "Unvow"
-    ],
-    "link": "https://grogshop.gs/event-details/13853858/axioma-inoculation-paradox-rift-unvow",
-    "date": "2023-12-22T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Modern Electric's Northcoast Christmas",
       "Papi and the Smears",
       "Dive Bombs"
@@ -219,6 +208,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford",
     "date": "2024-01-15T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Miguel Cafe, Glass Aeros, Domingo Kite"
+    ],
+    "link": "https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite",
+    "date": "2024-01-16T19:30:00",
     "venue": "Grog Shop"
   },
   {

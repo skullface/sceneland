@@ -1,23 +1,5 @@
 export const allShows = [
   {
-    artist: ['Radio Dummies', 'The Big Leagues', 'Diet Smiles'],
-    link: 'https://www.beachlandballroom.com/e/13246603/radio-dummies-the-big-leagues-diet-smiles',
-    date: '2023-12-22T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Into The Blue'],
-    link: 'https://www.beachlandballroom.com/e/13792508/into-the-blue',
-    date: '2023-12-22T21:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Beachland Lunch'],
-    link: 'https://www.beachlandballroom.com/e/13360973/beachland-lunch',
-    date: '2023-12-23T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Apostle Jones'],
     link: 'https://www.beachlandballroom.com/e/13271973/apostle-jones-holiday-special-live-',
     date: '2023-12-23T19:30:00',
@@ -773,12 +755,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['The Boys From the County Hell'],
-    link: 'https://concerts.livenation.com/the-boys-from-the-county-hell-cleveland-ohio-12-23-2023/event/05005F63DAF9643D',
-    date: '2023-12-23T18:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Myron Elkins'],
     link: 'https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158',
     date: '2023-12-29T19:00:00',
@@ -1326,12 +1302,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/',
-    date: '2024-01-29T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['KINK! A Nightclub Event'],
     link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
     date: '2024-02-10T21:00:00',
@@ -1374,22 +1344,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      "The Modern Electric's Northcoast Christmas",
-      'Papi and the Smears',
-      'Dive Bombs',
-    ],
-    link: 'https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas',
-    date: '2023-12-23T20:30:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Princemas', 'JetSet2one6', 'Guilty Pleasures'],
-    link: 'https://grogshop.gs/event-details/13290523/princemas',
-    date: '2023-12-23T21:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -2137,12 +2091,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['EMO NIGHTmare before Christmas'],
-    link: 'https://link.dice.fm/Sfefef90755a?dice_id=1901595',
-    date: '2023-12-23T21:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['People in the Daytime'],

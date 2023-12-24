@@ -4,29 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Dec 2023 09:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 09:06:13 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Radio Dummies, The Big Leagues, Diet Smiles at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Radio Dummies, The Big Leagues, Diet Smiles at Beachland Tavern on Friday, December 22, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13246603/radio-dummies-the-big-leagues-diet-smiles]]></description>
-            <link>https://www.beachlandballroom.com/e/13246603/radio-dummies-the-big-leagues-diet-smiles</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13246603/radio-dummies-the-big-leagues-diet-smiles</guid>
-            <pubDate>Fri, 22 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Into The Blue at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Into The Blue at Beachland Ballroom on Friday, December 22, 2023, 09:00 PM: https://www.beachlandballroom.com/e/13792508/into-the-blue]]></description>
-            <link>https://www.beachlandballroom.com/e/13792508/into-the-blue</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13792508/into-the-blue</guid>
-            <pubDate>Fri, 22 Dec 2023 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Lunch at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Lunch at Beachland Tavern on Saturday, December 23, 2023, 11:00 AM: https://www.beachlandballroom.com/e/13360973/beachland-lunch]]></description>
-            <link>https://www.beachlandballroom.com/e/13360973/beachland-lunch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13360973/beachland-lunch</guid>
-            <pubDate>Sat, 23 Dec 2023 11:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Apostle Jones at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Apostle Jones at Beachland Ballroom on Saturday, December 23, 2023, 07:30 PM: https://www.beachlandballroom.com/e/13271973/apostle-jones-holiday-special-live-]]></description>
@@ -798,13 +777,6 @@
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Boys From the County Hell at House of Blues]]></title>
-            <description><![CDATA[Get tickets to The Boys From the County Hell at House of Blues on Saturday, December 23, 2023, 06:00 PM: https://concerts.livenation.com/the-boys-from-the-county-hell-cleveland-ohio-12-23-2023/event/05005F63DAF9643D]]></description>
-            <link>https://concerts.livenation.com/the-boys-from-the-county-hell-cleveland-ohio-12-23-2023/event/05005F63DAF9643D</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/the-boys-from-the-county-hell-cleveland-ohio-12-23-2023/event/05005F63DAF9643D</guid>
-            <pubDate>Sat, 23 Dec 2023 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Myron Elkins at House of Blues]]></title>
             <description><![CDATA[Get tickets to Myron Elkins at House of Blues on Friday, December 29, 2023, 07:00 PM: https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158]]></description>
             <link>https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158</link>
@@ -1435,13 +1407,6 @@
             <pubDate>Fri, 26 Jan 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, January 29, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/</guid>
-            <pubDate>Mon, 29 Jan 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[KINK! A Nightclub Event at Foundry]]></title>
             <description><![CDATA[Get tickets to KINK! A Nightclub Event at Foundry on Saturday, February 10, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</link>
@@ -1489,20 +1454,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</guid>
             <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Modern Electric's Northcoast Christmas, Papi and the Smears, Dive Bombs at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Modern Electric's Northcoast Christmas, Papi and the Smears, Dive Bombs at Grog Shop on Saturday, December 23, 2023, 08:30 PM: https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas]]></description>
-            <link>https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13251103/the-modern-electric-s-northcoast-christmas</guid>
-            <pubDate>Sat, 23 Dec 2023 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Princemas, JetSet2one6, Guilty Pleasures at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Princemas, JetSet2one6, Guilty Pleasures at Grog Shop on Saturday, December 23, 2023, 09:00 PM: https://grogshop.gs/event-details/13290523/princemas]]></description>
-            <link>https://grogshop.gs/event-details/13290523/princemas</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13290523/princemas</guid>
-            <pubDate>Sat, 23 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christmas Night with Franc West & Jabtune, Franc West, Jabtune at Grog Shop]]></title>
@@ -2280,13 +2231,6 @@
             <link>https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</guid>
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EMO NIGHTmare before Christmas at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to EMO NIGHTmare before Christmas at Mahall’s on Sunday, December 24, 2023, 02:00 AM: https://link.dice.fm/Sfefef90755a?dice_id=1901595]]></description>
-            <link>https://link.dice.fm/Sfefef90755a?dice_id=1901595</link>
-            <guid isPermaLink="true">https://link.dice.fm/Sfefef90755a?dice_id=1901595</guid>
-            <pubDate>Sun, 24 Dec 2023 02:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[People in the Daytime at Mahall’s]]></title>

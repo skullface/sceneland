@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['Apostle Jones'],
-    link: 'https://www.beachlandballroom.com/e/13271973/apostle-jones-holiday-special-live-',
-    date: '2023-12-23T19:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Jack & the Optimists', 'The VUMMS'],
-    link: 'https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms',
-    date: '2023-12-23T20:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: [
       'Blue Lunch',
       'Jerry Devivo (Mighty Blue Kings)',
@@ -77,12 +65,12 @@ export const allShows = [
     artist: [
       "Packy Malley's Peace Corps Jamaica Benefit Concert",
       'Ernie Krivda',
-      'Special Guest TBA!',
+      'Apostle Jones',
       'Terry Lee Goffee',
       'JR Blessington + Special Guest',
       'Flex Crew',
     ],
-    link: 'https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-special-guest-tba-terry-lee-goffee-jr-blessington-special-guest-flex-crew',
+    link: 'https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-apostle-jones-terry-lee-goffee-jr-blessington-special-guest-flex-crew',
     date: '2023-12-30T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -231,14 +219,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: [
-      'Jinari Kemet',
-      'Zup',
-      'Marcus Smith',
-      'Malik X with Fox Ears',
-      'Hosted by Toby Raps',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-malik-x-with-fox-ears-hosted-by-toby-raps',
+    artist: ['Jinari Kemet', 'Zup', 'Marcus Smith', 'Hosted by Toby Raps'],
+    link: 'https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-hosted-by-toby-raps',
     date: '2024-01-26T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1270,6 +1252,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['JUGGALOHIO2 PRE-PARTY KICKOFF'],
+    link: 'https://www.foundryconcertclub.com/tm-event/juggalohio2-pre-party-kickoff/',
+    date: '2024-01-18T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: [
       'THE BUNNY THE BEAR, Dizasterpiece, Left Unsaid, Audience Of Rain, Seconds of Silence, Behead The Prophet',
     ],
@@ -1299,6 +1287,12 @@ export const allShows = [
     artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
     link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
     date: '2024-01-26T18:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/',
+    date: '2024-01-29T17:00:00',
     venue: 'Foundry',
   },
   {
@@ -2219,14 +2213,20 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
-    date: '2024-02-17T19:00:00-05:00',
+    artist: ['Chayla Hope\'s "Be Mine" Valentine\'s Soiree'],
+    link: 'https://link.dice.fm/X14cbea55219?dice_id=2001918',
+    date: '2024-02-16T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
     artist: ['Indigo De Souza'],
     link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
+    date: '2024-02-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },

@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Apostle Jones"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13271973/apostle-jones-holiday-special-live-",
-    "date": "2023-12-23T19:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Jack & the Optimists",
-      "The VUMMS"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13262663/jack-the-optimists-the-vumms",
-    "date": "2023-12-23T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Blue Lunch",
       "Jerry Devivo (Mighty Blue Kings)",
       "Tom Moore (Little Frank & the Premiers)",
@@ -95,12 +78,12 @@
     "artist": [
       "Packy Malley's Peace Corps Jamaica Benefit Concert",
       "Ernie Krivda",
-      "Special Guest TBA!",
+      "Apostle Jones",
       "Terry Lee Goffee",
       "JR Blessington + Special Guest",
       "Flex Crew"
     ],
-    "link": "https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-special-guest-tba-terry-lee-goffee-jr-blessington-special-guest-flex-crew",
+    "link": "https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-apostle-jones-terry-lee-goffee-jr-blessington-special-guest-flex-crew",
     "date": "2023-12-30T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -303,10 +286,9 @@
       "Jinari Kemet",
       "Zup",
       "Marcus Smith",
-      "Malik X with Fox Ears",
       "Hosted by Toby Raps"
     ],
-    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-malik-x-with-fox-ears-hosted-by-toby-raps",
+    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-hosted-by-toby-raps",
     "date": "2024-01-26T20:00:00",
     "venue": "Beachland Tavern"
   },

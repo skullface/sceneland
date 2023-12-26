@@ -1340,16 +1340,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: [
-      'Christmas Night with Franc West & Jabtune',
-      'Franc West',
-      'Jabtune',
-    ],
-    link: 'https://grogshop.gs/event-details/13853778/christmas-night-with-franc-west-jabtune',
-    date: '2023-12-25T20:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Slow Wake, Fuzzy Vandelay, Megaton Communion'],
     link: 'https://grogshop.gs/event-details/13267713/slow-wake-fuzzy-vandelay-megaton-communion',
     date: '2023-12-27T19:30:00',

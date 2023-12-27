@@ -1,16 +1,5 @@
 export const allShows = [
   {
-    artist: [
-      'Blue Lunch',
-      'Jerry Devivo (Mighty Blue Kings)',
-      'Tom Moore (Little Frank & the Premiers)',
-      'DJ Pete London',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13271113/blue-lunch-jerry-devivo-mighty-blue-kings-tom-moore-little-frank-the-premiers-dj-pete-london',
-    date: '2023-12-25T19:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['PFUZZ', 'Tiffadelic', 'Nature Nvoke'],
     link: 'https://www.beachlandballroom.com/e/13271353/pfuzz-tiffadelic-nature-nvoke',
     date: '2023-12-26T20:00:00',
@@ -673,7 +662,7 @@ export const allShows = [
   {
     artist: [
       'Legends of Basketball Showcase',
-      'Ohio U. vs. Davidson at 1:30pm; Akron vs. St. Bonaventure at 4pm; The Ohio State vs. West Virginia at 7pm',
+      '1:30PM: Ohio U. vs. Davidson | 4:00PM: Akron vs. St. Bonaventure | 7:00PM: The Ohio State vs. West Virginia',
     ],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/legendsofbball20231230',
     date: '2023-12-30',
@@ -1231,6 +1220,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['KNOTEK\u2019S BANGER BLENDER'],
+    link: 'https://www.foundryconcertclub.com/tm-event/knoteks-banger-blender/',
+    date: '2024-01-06T21:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: [
       'FREE BAR SHOW W/ WEDNESDAY DEMONSTRATION, WASTED SOCIETY, DANGER!, AND ARTIFICIAL SK8R',
     ],
@@ -1409,7 +1404,7 @@ export const allShows = [
   {
     artist: ['FREE WEEKEND', 'Youth Pallet', 'Non Bruises', 'Clare Feorene'],
     link: 'https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-non-bruises-clare-feorene',
-    date: '2024-01-05T19:00:00',
+    date: '2024-01-05T21:00:00',
     venue: 'Grog Shop',
   },
   {

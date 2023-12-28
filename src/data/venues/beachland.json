@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "PFUZZ",
-      "Tiffadelic",
-      "Nature Nvoke"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13271353/pfuzz-tiffadelic-nature-nvoke",
-    "date": "2023-12-26T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Rockside"
     ],
     "link": "https://www.beachlandballroom.com/e/13307653/rockside",
@@ -69,10 +59,12 @@
       "Ernie Krivda",
       "Apostle Jones",
       "Terry Lee Goffee",
-      "JR Blessington + Special Guest",
-      "Flex Crew"
+      "JR Blessington",
+      "Flex Crew",
+      "Sunshade",
+      "Mark Hunter (Ark Band)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-apostle-jones-terry-lee-goffee-jr-blessington-special-guest-flex-crew",
+    "link": "https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-apostle-jones-terry-lee-goffee-jr-blessington-flex-crew-sunshade-mark-hunter-ark-band-",
     "date": "2023-12-30T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -121,6 +113,16 @@
     "link": "https://www.beachlandballroom.com/e/13819888/the-fm-project-steely-dan-tribute-band-",
     "date": "2024-01-06T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Home & Garden",
+      "Duo Decibel System",
+      "Anita Keys & Friends"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13376323/home-garden-duo-decibel-system-anita-keys-friends",
+    "date": "2024-01-07T18:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -197,7 +199,7 @@
       "COE"
     ],
     "link": "https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe",
-    "date": "2024-01-18T20:30:00",
+    "date": "2024-01-18T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -343,6 +345,14 @@
   },
   {
     "artist": [
+      "The Kind Thieves"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13376353/the-kind-thieves",
+    "date": "2024-02-08T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Keller Williams"
     ],
     "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
@@ -373,6 +383,14 @@
     "link": "https://www.beachlandballroom.com/e/13267023/yuma-abe",
     "date": "2024-02-15T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Northeast Ohio Worker Center Fundraiser"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13376913/northeast-ohio-worker-center-fundraiser",
+    "date": "2024-02-16T19:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -420,9 +438,10 @@
   },
   {
     "artist": [
-      "Tyler Ramsey"
+      "Tyler Ramsey",
+      "Kramies"
     ],
-    "link": "https://www.beachlandballroom.com/e/13708728/tyler-ramsey",
+    "link": "https://www.beachlandballroom.com/e/13708728/tyler-ramsey-kramies",
     "date": "2024-02-27T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -436,9 +455,11 @@
   },
   {
     "artist": [
-      "The Alarm Clocks"
+      "The Alarm Clocks",
+      "Simon & the Apparatus",
+      "DJ Erin Ryan (WCSB's Bomb The Twist)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13368053/the-alarm-clocks",
+    "link": "https://www.beachlandballroom.com/e/13368053/the-alarm-clocks-simon-the-apparatus-dj-erin-ryan-wcsb-s-bomb-the-twist-",
     "date": "2024-03-01T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -549,9 +570,10 @@
   },
   {
     "artist": [
-      "Wayne Hancock"
+      "Wayne Hancock",
+      "Cory Grinder and the Playboy Scouts"
     ],
-    "link": "https://www.beachlandballroom.com/e/13292473/wayne-hancock",
+    "link": "https://www.beachlandballroom.com/e/13292473/wayne-hancock-cory-grinder-and-the-playboy-scouts",
     "date": "2024-03-20T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -743,6 +765,16 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
     "date": "2024-05-17T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "APOCALYPSE Records Festival",
+      "Kingxzell",
+      "Johnny and Swank"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13376333/apocalypse-records-festival-kingxzell-johnny-and-swank",
+    "date": "2024-07-12T19:00:00",
     "venue": "Beachland Ballroom"
   },
   {

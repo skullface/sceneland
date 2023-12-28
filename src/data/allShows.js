@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['PFUZZ', 'Tiffadelic', 'Nature Nvoke'],
-    link: 'https://www.beachlandballroom.com/e/13271353/pfuzz-tiffadelic-nature-nvoke',
-    date: '2023-12-26T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Rockside'],
     link: 'https://www.beachlandballroom.com/e/13307653/rockside',
     date: '2023-12-27T20:00:00',
@@ -56,10 +50,12 @@ export const allShows = [
       'Ernie Krivda',
       'Apostle Jones',
       'Terry Lee Goffee',
-      'JR Blessington + Special Guest',
+      'JR Blessington',
       'Flex Crew',
+      'Sunshade',
+      'Mark Hunter (Ark Band)',
     ],
-    link: 'https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-apostle-jones-terry-lee-goffee-jr-blessington-special-guest-flex-crew',
+    link: 'https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-apostle-jones-terry-lee-goffee-jr-blessington-flex-crew-sunshade-mark-hunter-ark-band-',
     date: '2023-12-30T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -95,6 +91,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13819888/the-fm-project-steely-dan-tribute-band-',
     date: '2024-01-06T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Home & Garden', 'Duo Decibel System', 'Anita Keys & Friends'],
+    link: 'https://www.beachlandballroom.com/e/13376323/home-garden-duo-decibel-system-anita-keys-friends',
+    date: '2024-01-07T18:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Blues Jam: Hosted by King Pins'],
@@ -152,7 +154,7 @@ export const allShows = [
   {
     artist: ['Quick Mystery', 'Rent For Cheryl', 'COE'],
     link: 'https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe',
-    date: '2024-01-18T20:30:00',
+    date: '2024-01-18T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -264,6 +266,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['The Kind Thieves'],
+    link: 'https://www.beachlandballroom.com/e/13376353/the-kind-thieves',
+    date: '2024-02-08T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Keller Williams'],
     link: 'https://www.beachlandballroom.com/e/13468278/keller-williams',
     date: '2024-02-09T20:00:00',
@@ -286,6 +294,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13267023/yuma-abe',
     date: '2024-02-15T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Northeast Ohio Worker Center Fundraiser'],
+    link: 'https://www.beachlandballroom.com/e/13376913/northeast-ohio-worker-center-fundraiser',
+    date: '2024-02-16T19:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['That 1 Guy'],
@@ -323,8 +337,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Tyler Ramsey'],
-    link: 'https://www.beachlandballroom.com/e/13708728/tyler-ramsey',
+    artist: ['Tyler Ramsey', 'Kramies'],
+    link: 'https://www.beachlandballroom.com/e/13708728/tyler-ramsey-kramies',
     date: '2024-02-27T20:30:00',
     venue: 'Beachland Tavern',
   },
@@ -335,8 +349,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['The Alarm Clocks'],
-    link: 'https://www.beachlandballroom.com/e/13368053/the-alarm-clocks',
+    artist: [
+      'The Alarm Clocks',
+      'Simon & the Apparatus',
+      "DJ Erin Ryan (WCSB's Bomb The Twist)",
+    ],
+    link: 'https://www.beachlandballroom.com/e/13368053/the-alarm-clocks-simon-the-apparatus-dj-erin-ryan-wcsb-s-bomb-the-twist-',
     date: '2024-03-01T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -414,8 +432,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Wayne Hancock'],
-    link: 'https://www.beachlandballroom.com/e/13292473/wayne-hancock',
+    artist: ['Wayne Hancock', 'Cory Grinder and the Playboy Scouts'],
+    link: 'https://www.beachlandballroom.com/e/13292473/wayne-hancock-cory-grinder-and-the-playboy-scouts',
     date: '2024-03-20T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -556,6 +574,12 @@ export const allShows = [
     artist: ['Psychedelic Porn Crumpets'],
     link: 'https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets',
     date: '2024-05-17T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['APOCALYPSE Records Festival', 'Kingxzell', 'Johnny and Swank'],
+    link: 'https://www.beachlandballroom.com/e/13376333/apocalypse-records-festival-kingxzell-johnny-and-swank',
+    date: '2024-07-12T19:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -1279,12 +1303,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
-    link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
-    date: '2024-01-26T18:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/',
     date: '2024-01-29T17:00:00',
@@ -1333,12 +1351,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Slow Wake, Fuzzy Vandelay, Megaton Communion'],
-    link: 'https://grogshop.gs/event-details/13267713/slow-wake-fuzzy-vandelay-megaton-communion',
-    date: '2023-12-27T19:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Air Jack Coming Home Party', 'Illest villians', 'Ghutty Mac'],
@@ -1422,7 +1434,15 @@ export const allShows = [
   },
   {
     artist: [
-      'FREE WEEKEND , Madstarr, Ghutty Mac, Lil Jesse/ Retro Pharaoh, Astral House Fly',
+      'FREE WEEKEND',
+      'Madstarr',
+      'Ghutty Mac',
+      'Lil Jesse/ Retro Pharaoh',
+      'Astral House Fly',
+      'unruly',
+      'MJ The Artist',
+      'Frank Hunter',
+      'Dj Scottradamus',
     ],
     link: 'https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-astral-house-fly',
     date: '2024-01-07T20:00:00',
@@ -1441,8 +1461,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['GlamGore:', 'Anhedonia Delight'],
-    link: 'https://grogshop.gs/event-details/13297663/glamgore-',
+    artist: ['GlamGore: Y2K Takeover', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13297663/glamgore-y2k-takeover',
     date: '2024-01-12T21:00:00',
     venue: 'Grog Shop',
   },
@@ -1504,8 +1524,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Who Hit Me', 'Fawx/ TBA', 'Fawx'],
-    link: 'https://grogshop.gs/event-details/13339853/who-hit-me-fawx-tba',
+    artist: ['Who Hit Me', 'Fawx/ Bleeder', 'Fawx', 'Bleeder'],
+    link: 'https://grogshop.gs/event-details/13339853/who-hit-me-fawx-bleeder',
     date: '2024-01-20T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1557,8 +1577,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['GlamGore:', 'Anhedonia Delight'],
-    link: 'https://grogshop.gs/event-details/13297703/glamgore-',
+    artist: ['GlamGore: Couples Counseling', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13297703/glamgore-couples-counseling',
     date: '2024-02-02T21:00:00',
     venue: 'Grog Shop',
   },
@@ -1635,8 +1655,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['GlamGore:', 'Anhedonia Delight'],
-    link: 'https://grogshop.gs/event-details/13297793/glamgore-',
+    artist: ['RUSTBELT RIPPERFEST II'],
+    link: 'https://grogshop.gs/event-details/13376533/rustbelt-ripperfest-ii',
+    date: '2024-02-24T17:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['GlamGore: Cartoon Network vs. Nickelodeon', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13297793/glamgore-cartoon-network-vs-nickelodeon',
     date: '2024-03-01T21:00:00',
     venue: 'Grog Shop',
   },
@@ -1677,8 +1703,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['GlamGore:', 'Anhedonia Delight'],
-    link: 'https://grogshop.gs/event-details/13297733/glamgore-',
+    artist: ['GlamGore: Creatures of the Deep', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13297733/glamgore-creatures-of-the-deep',
     date: '2024-04-05T21:00:00',
     venue: 'Grog Shop',
   },
@@ -1723,14 +1749,17 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['GlamGore:', 'Anhedonia Delight'],
-    link: 'https://grogshop.gs/event-details/13297763/glamgore-',
+    artist: ['GlamGore: Mommie Fearest', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13297763/glamgore-mommie-fearest',
     date: '2024-05-03T21:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['GlamGore:', 'Anhedonia Delight'],
-    link: 'https://grogshop.gs/event-details/13297803/glamgore-',
+    artist: [
+      'GlamGore: 6th Annual Pre-Pride on the East Side',
+      'Anhedonia Delight',
+    ],
+    link: 'https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side',
     date: '2024-06-07T21:00:00',
     venue: 'Grog Shop',
   },
@@ -2070,12 +2099,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['People in the Daytime'],
-    link: 'https://link.dice.fm/I46f0a0cc25e?dice_id=1953049',
-    date: '2023-12-27T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Free Drew'],

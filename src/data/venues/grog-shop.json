@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Slow Wake, Fuzzy Vandelay, Megaton Communion"
-    ],
-    "link": "https://grogshop.gs/event-details/13267713/slow-wake-fuzzy-vandelay-megaton-communion",
-    "date": "2023-12-27T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Air Jack Coming Home Party",
       "Illest villians",
       "Ghutty Mac"
@@ -106,7 +98,15 @@
   },
   {
     "artist": [
-      "FREE WEEKEND , Madstarr, Ghutty Mac, Lil Jesse/ Retro Pharaoh, Astral House Fly"
+      "FREE WEEKEND",
+      "Madstarr",
+      "Ghutty Mac",
+      "Lil Jesse/ Retro Pharaoh",
+      "Astral House Fly",
+      "unruly",
+      "MJ The Artist",
+      "Frank Hunter",
+      "Dj Scottradamus"
     ],
     "link": "https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-astral-house-fly",
     "date": "2024-01-07T20:00:00",
@@ -130,10 +130,10 @@
   },
   {
     "artist": [
-      "GlamGore:",
+      "GlamGore: Y2K Takeover",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/event-details/13297663/glamgore-",
+    "link": "https://grogshop.gs/event-details/13297663/glamgore-y2k-takeover",
     "date": "2024-01-12T21:00:00",
     "venue": "Grog Shop"
   },
@@ -209,10 +209,11 @@
   {
     "artist": [
       "Who Hit Me",
-      "Fawx/ TBA",
-      "Fawx"
+      "Fawx/ Bleeder",
+      "Fawx",
+      "Bleeder"
     ],
-    "link": "https://grogshop.gs/event-details/13339853/who-hit-me-fawx-tba",
+    "link": "https://grogshop.gs/event-details/13339853/who-hit-me-fawx-bleeder",
     "date": "2024-01-20T20:00:00",
     "venue": "Grog Shop"
   },
@@ -280,10 +281,10 @@
   },
   {
     "artist": [
-      "GlamGore:",
+      "GlamGore: Couples Counseling",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/event-details/13297703/glamgore-",
+    "link": "https://grogshop.gs/event-details/13297703/glamgore-couples-counseling",
     "date": "2024-02-02T21:00:00",
     "venue": "Grog Shop"
   },
@@ -382,10 +383,18 @@
   },
   {
     "artist": [
-      "GlamGore:",
+      "RUSTBELT RIPPERFEST II"
+    ],
+    "link": "https://grogshop.gs/event-details/13376533/rustbelt-ripperfest-ii",
+    "date": "2024-02-24T17:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: Cartoon Network vs. Nickelodeon",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/event-details/13297793/glamgore-",
+    "link": "https://grogshop.gs/event-details/13297793/glamgore-cartoon-network-vs-nickelodeon",
     "date": "2024-03-01T21:00:00",
     "venue": "Grog Shop"
   },
@@ -438,10 +447,10 @@
   },
   {
     "artist": [
-      "GlamGore:",
+      "GlamGore: Creatures of the Deep",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/event-details/13297733/glamgore-",
+    "link": "https://grogshop.gs/event-details/13297733/glamgore-creatures-of-the-deep",
     "date": "2024-04-05T21:00:00",
     "venue": "Grog Shop"
   },
@@ -497,19 +506,19 @@
   },
   {
     "artist": [
-      "GlamGore:",
+      "GlamGore: Mommie Fearest",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/event-details/13297763/glamgore-",
+    "link": "https://grogshop.gs/event-details/13297763/glamgore-mommie-fearest",
     "date": "2024-05-03T21:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "GlamGore:",
+      "GlamGore: 6th Annual Pre-Pride on the East Side",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/event-details/13297803/glamgore-",
+    "link": "https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side",
     "date": "2024-06-07T21:00:00",
     "venue": "Grog Shop"
   }

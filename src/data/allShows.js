@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Rockside'],
-    link: 'https://www.beachlandballroom.com/e/13307653/rockside',
-    date: '2023-12-27T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: [
       "Austin Stambaugh's Electric Weepers",
       'The Merry Go-Rounders',
@@ -28,8 +22,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Beachland Lunch'],
-    link: 'https://www.beachlandballroom.com/e/13360983/beachland-lunch',
+    artist: ['Saturday Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13360983/saturday-brunch',
     date: '2023-12-30T11:00:00',
     venue: 'Beachland Tavern',
   },
@@ -81,6 +75,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Saturday Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13379963/saturday-brunch',
+    date: '2024-01-06T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Wish Queen', 'UNBYUL', 'Charity Evonna'],
     link: 'https://www.beachlandballroom.com/e/13276263/wish-queen-unbyul-charity-evonna',
     date: '2024-01-06T20:00:00',
@@ -102,6 +102,12 @@ export const allShows = [
     artist: ['Blues Jam: Hosted by King Pins'],
     link: 'https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins',
     date: '2024-01-08T19:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Good Morning Valentine'],
+    link: 'https://www.beachlandballroom.com/e/13379923/good-morning-valentine',
+    date: '2024-01-09T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -266,8 +272,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['The Kind Thieves'],
-    link: 'https://www.beachlandballroom.com/e/13376353/the-kind-thieves',
+    artist: ['The Kind Thieves', 'The Rustbelt Ragtops'],
+    link: 'https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops',
     date: '2024-02-08T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -290,8 +296,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Yuma Abe'],
-    link: 'https://www.beachlandballroom.com/e/13267023/yuma-abe',
+    artist: ['Yuma Abe', 'Songs for an Unknown God'],
+    link: 'https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god',
     date: '2024-02-15T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -300,6 +306,16 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13376913/northeast-ohio-worker-center-fundraiser',
     date: '2024-02-16T19:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: [
+      'Orange Animal',
+      'Nicholas Johnson and the Same Old Strangers',
+      'Taylor Lamborn',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13379983/orange-animal-nicholas-johnson-and-the-same-old-strangers-taylor-lamborn',
+    date: '2024-02-16T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['That 1 Guy'],
@@ -678,12 +694,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['The Harlem Globetrotters', '2024 World Tour'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/harlemglobetrotters20231228',
-    date: '2023-12-28',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
     artist: [
       'Legends of Basketball Showcase',
       '1:30PM: Ohio U. vs. Davidson | 4:00PM: Akron vs. St. Bonaventure | 7:00PM: The Ohio State vs. West Virginia',
@@ -846,8 +856,14 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['anees: Winter Camp Tour \u0096 MOVED TO MUSIC HALL'],
+    link: 'https://concerts.livenation.com/anees-winter-camp-tour-moved-to-cleveland-ohio-02-03-2024/event/05005F34BECB2D17',
+    date: '2024-02-03T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['anees: Winter Camp Tour'],
-    link: 'https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17',
+    link: 'https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F9CC1202813',
     date: '2024-02-03T19:00:00',
     venue: 'House of Blues',
   },
@@ -1271,6 +1287,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Cast Iron Comedy Showcase'],
+    link: 'https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/',
+    date: '2024-01-16T20:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['JUGGALOHIO2 PRE-PARTY KICKOFF'],
     link: 'https://www.foundryconcertclub.com/tm-event/juggalohio2-pre-party-kickoff/',
     date: '2024-01-18T19:00:00',
@@ -1300,6 +1322,12 @@ export const allShows = [
     artist: ['Nems x Mac Lethal'],
     link: 'https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/',
     date: '2024-01-23T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
+    link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
+    date: '2024-01-26T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1351,12 +1379,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
     date: '2024-04-07T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Air Jack Coming Home Party', 'Illest villians', 'Ghutty Mac'],
-    link: 'https://grogshop.gs/event-details/13338913/air-jack-coming-home-party',
-    date: '2023-12-28T20:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman'],
@@ -1438,13 +1460,13 @@ export const allShows = [
       'Madstarr',
       'Ghutty Mac',
       'Lil Jesse/ Retro Pharaoh',
-      'Astral House Fly',
+      'Unruly',
       'unruly',
       'MJ The Artist',
       'Frank Hunter',
       'Dj Scottradamus',
     ],
-    link: 'https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-astral-house-fly',
+    link: 'https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-unruly',
     date: '2024-01-07T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2099,12 +2121,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Free Drew'],
-    link: 'https://link.dice.fm/F01ab75fa0a4?dice_id=1952876',
-    date: '2023-12-28T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Midnight Memories: a One Direction dance party '],

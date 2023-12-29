@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rockside"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13307653/rockside",
-    "date": "2023-12-27T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Austin Stambaugh's Electric Weepers",
       "The Merry Go-Rounders",
       "Dylan Grove"
@@ -36,9 +28,9 @@
   },
   {
     "artist": [
-      "Beachland Lunch"
+      "Saturday Brunch"
     ],
-    "link": "https://www.beachlandballroom.com/e/13360983/beachland-lunch",
+    "link": "https://www.beachlandballroom.com/e/13360983/saturday-brunch",
     "date": "2023-12-30T11:00:00",
     "venue": "Beachland Tavern"
   },
@@ -98,6 +90,14 @@
   },
   {
     "artist": [
+      "Saturday Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13379963/saturday-brunch",
+    "date": "2024-01-06T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Wish Queen",
       "UNBYUL",
       "Charity Evonna"
@@ -130,6 +130,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins",
     "date": "2024-01-08T19:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Good Morning Valentine"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13379923/good-morning-valentine",
+    "date": "2024-01-09T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -345,9 +353,10 @@
   },
   {
     "artist": [
-      "The Kind Thieves"
+      "The Kind Thieves",
+      "The Rustbelt Ragtops"
     ],
-    "link": "https://www.beachlandballroom.com/e/13376353/the-kind-thieves",
+    "link": "https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops",
     "date": "2024-02-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -378,9 +387,10 @@
   },
   {
     "artist": [
-      "Yuma Abe"
+      "Yuma Abe",
+      "Songs for an Unknown God"
     ],
-    "link": "https://www.beachlandballroom.com/e/13267023/yuma-abe",
+    "link": "https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god",
     "date": "2024-02-15T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -391,6 +401,16 @@
     "link": "https://www.beachlandballroom.com/e/13376913/northeast-ohio-worker-center-fundraiser",
     "date": "2024-02-16T19:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Orange Animal",
+      "Nicholas Johnson and the Same Old Strangers",
+      "Taylor Lamborn"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13379983/orange-animal-nicholas-johnson-and-the-same-old-strangers-taylor-lamborn",
+    "date": "2024-02-16T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

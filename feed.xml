@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Dec 2023 09:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 09:06:15 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Rockside at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Rockside at Beachland Tavern on Wednesday, December 27, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13307653/rockside]]></description>
-            <link>https://www.beachlandballroom.com/e/13307653/rockside</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13307653/rockside</guid>
-            <pubDate>Wed, 27 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Austin Stambaugh's Electric Weepers, The Merry Go-Rounders, Dylan Grove at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Austin Stambaugh's Electric Weepers, The Merry Go-Rounders, Dylan Grove at Beachland Tavern on Thursday, December 28, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove]]></description>
@@ -35,10 +28,10 @@
             <pubDate>Fri, 29 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beachland Lunch at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Lunch at Beachland Tavern on Saturday, December 30, 2023, 11:00 AM: https://www.beachlandballroom.com/e/13360983/beachland-lunch]]></description>
-            <link>https://www.beachlandballroom.com/e/13360983/beachland-lunch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13360983/beachland-lunch</guid>
+            <title><![CDATA[Saturday Brunch at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Saturday Brunch at Beachland Tavern on Saturday, December 30, 2023, 11:00 AM: https://www.beachlandballroom.com/e/13360983/saturday-brunch]]></description>
+            <link>https://www.beachlandballroom.com/e/13360983/saturday-brunch</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13360983/saturday-brunch</guid>
             <pubDate>Sat, 30 Dec 2023 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -77,6 +70,13 @@
             <pubDate>Fri, 05 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Saturday Brunch at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Saturday Brunch at Beachland Tavern on Saturday, January 6, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13379963/saturday-brunch]]></description>
+            <link>https://www.beachlandballroom.com/e/13379963/saturday-brunch</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13379963/saturday-brunch</guid>
+            <pubDate>Sat, 06 Jan 2024 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wish Queen, UNBYUL, Charity Evonna at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Wish Queen, UNBYUL, Charity Evonna at Beachland Tavern on Saturday, January 6, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13276263/wish-queen-unbyul-charity-evonna]]></description>
             <link>https://www.beachlandballroom.com/e/13276263/wish-queen-unbyul-charity-evonna</link>
@@ -103,6 +103,13 @@
             <link>https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins</guid>
             <pubDate>Mon, 08 Jan 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Good Morning Valentine at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Good Morning Valentine at Beachland Tavern on Tuesday, January 9, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13379923/good-morning-valentine]]></description>
+            <link>https://www.beachlandballroom.com/e/13379923/good-morning-valentine</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13379923/good-morning-valentine</guid>
+            <pubDate>Tue, 09 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Voices of the Land: Acoustic Showcase, Taylor Lamborn, Ester Fitz, Lauren Lanzaretta, Andi Chakraborty, Jordan Laird & Jordan Urban at Beachland Tavern]]></title>
@@ -252,10 +259,10 @@
             <pubDate>Sun, 04 Feb 2024 14:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Kind Thieves at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Kind Thieves at Beachland Tavern on Thursday, February 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13376353/the-kind-thieves]]></description>
-            <link>https://www.beachlandballroom.com/e/13376353/the-kind-thieves</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13376353/the-kind-thieves</guid>
+            <title><![CDATA[The Kind Thieves, The Rustbelt Ragtops at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Kind Thieves, The Rustbelt Ragtops at Beachland Tavern on Thursday, February 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops]]></description>
+            <link>https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops</guid>
             <pubDate>Thu, 08 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -280,10 +287,10 @@
             <pubDate>Wed, 14 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yuma Abe at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Yuma Abe at Beachland Tavern on Thursday, February 15, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13267023/yuma-abe]]></description>
-            <link>https://www.beachlandballroom.com/e/13267023/yuma-abe</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13267023/yuma-abe</guid>
+            <title><![CDATA[Yuma Abe, Songs for an Unknown God at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Yuma Abe, Songs for an Unknown God at Beachland Tavern on Thursday, February 15, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god]]></description>
+            <link>https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god</guid>
             <pubDate>Thu, 15 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -292,6 +299,13 @@
             <link>https://www.beachlandballroom.com/e/13376913/northeast-ohio-worker-center-fundraiser</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13376913/northeast-ohio-worker-center-fundraiser</guid>
             <pubDate>Fri, 16 Feb 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Orange Animal, Nicholas Johnson and the Same Old Strangers, Taylor Lamborn at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Orange Animal, Nicholas Johnson and the Same Old Strangers, Taylor Lamborn at Beachland Tavern on Friday, February 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13379983/orange-animal-nicholas-johnson-and-the-same-old-strangers-taylor-lamborn]]></description>
+            <link>https://www.beachlandballroom.com/e/13379983/orange-animal-nicholas-johnson-and-the-same-old-strangers-taylor-lamborn</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13379983/orange-animal-nicholas-johnson-and-the-same-old-strangers-taylor-lamborn</guid>
+            <pubDate>Fri, 16 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[That 1 Guy at Beachland Tavern]]></title>
@@ -707,13 +721,6 @@
             <pubDate>Thu, 15 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Harlem Globetrotters, 2024 World Tour at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to The Harlem Globetrotters, 2024 World Tour at Rocket Mortgage FieldHouse on Thursday, December 28, 2023, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/harlemglobetrotters20231228]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/harlemglobetrotters20231228</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/harlemglobetrotters20231228</guid>
-            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Legends of Basketball Showcase, 1:30PM: Ohio U. vs. Davidson | 4:00PM: Akron vs. St. Bonaventure | 7:00PM: The Ohio State vs. West Virginia at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to Legends of Basketball Showcase, 1:30PM: Ohio U. vs. Davidson | 4:00PM: Akron vs. St. Bonaventure | 7:00PM: The Ohio State vs. West Virginia at Rocket Mortgage FieldHouse on Saturday, December 30, 2023, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/legendsofbball20231230]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/legendsofbball20231230</link>
@@ -889,10 +896,17 @@
             <pubDate>Fri, 02 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[anees: Winter Camp Tour  MOVED TO MUSIC HALL at House of Blues]]></title>
+            <description><![CDATA[Get tickets to anees: Winter Camp Tour  MOVED TO MUSIC HALL at House of Blues on Saturday, February 3, 2024, 07:00 PM: https://concerts.livenation.com/anees-winter-camp-tour-moved-to-cleveland-ohio-02-03-2024/event/05005F34BECB2D17]]></description>
+            <link>https://concerts.livenation.com/anees-winter-camp-tour-moved-to-cleveland-ohio-02-03-2024/event/05005F34BECB2D17</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/anees-winter-camp-tour-moved-to-cleveland-ohio-02-03-2024/event/05005F34BECB2D17</guid>
+            <pubDate>Sat, 03 Feb 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[anees: Winter Camp Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to anees: Winter Camp Tour at House of Blues on Saturday, February 3, 2024, 07:00 PM: https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17]]></description>
-            <link>https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F34BECB2D17</guid>
+            <description><![CDATA[Get tickets to anees: Winter Camp Tour at House of Blues on Saturday, February 3, 2024, 07:00 PM: https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F9CC1202813]]></description>
+            <link>https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F9CC1202813</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F9CC1202813</guid>
             <pubDate>Sat, 03 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1379,6 +1393,13 @@
             <pubDate>Sat, 13 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cast Iron Comedy Showcase at Foundry]]></title>
+            <description><![CDATA[Get tickets to Cast Iron Comedy Showcase at Foundry on Tuesday, January 16, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/</guid>
+            <pubDate>Tue, 16 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[JUGGALOHIO2 PRE-PARTY KICKOFF at Foundry]]></title>
             <description><![CDATA[Get tickets to JUGGALOHIO2 PRE-PARTY KICKOFF at Foundry on Thursday, January 18, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/juggalohio2-pre-party-kickoff/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/juggalohio2-pre-party-kickoff/</link>
@@ -1412,6 +1433,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/</guid>
             <pubDate>Tue, 23 Jan 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Archers, Savage Hands, Nerv, A Sense Of Purpose at Foundry]]></title>
+            <description><![CDATA[Get tickets to Archers, Savage Hands, Nerv, A Sense Of Purpose at Foundry on Friday, January 26, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/</guid>
+            <pubDate>Fri, 26 Jan 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
@@ -1470,13 +1498,6 @@
             <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Air Jack Coming Home Party, Illest villians, Ghutty Mac at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Air Jack Coming Home Party, Illest villians, Ghutty Mac at Grog Shop on Thursday, December 28, 2023, 08:30 PM: https://grogshop.gs/event-details/13338913/air-jack-coming-home-party]]></description>
-            <link>https://grogshop.gs/event-details/13338913/air-jack-coming-home-party</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13338913/air-jack-coming-home-party</guid>
-            <pubDate>Thu, 28 Dec 2023 20:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman at Grog Shop on Friday, December 29, 2023, 08:30 PM: https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman]]></description>
             <link>https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman</link>
@@ -1533,10 +1554,10 @@
             <pubDate>Sat, 06 Jan 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FREE WEEKEND, Madstarr, Ghutty Mac, Lil Jesse/ Retro Pharaoh, Astral House Fly, unruly, MJ The Artist, Frank Hunter, Dj Scottradamus at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to FREE WEEKEND, Madstarr, Ghutty Mac, Lil Jesse/ Retro Pharaoh, Astral House Fly, unruly, MJ The Artist, Frank Hunter, Dj Scottradamus at Grog Shop on Sunday, January 7, 2024, 08:00 PM: https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-astral-house-fly]]></description>
-            <link>https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-astral-house-fly</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-astral-house-fly</guid>
+            <title><![CDATA[FREE WEEKEND, Madstarr, Ghutty Mac, Lil Jesse/ Retro Pharaoh, Unruly, unruly, MJ The Artist, Frank Hunter, Dj Scottradamus at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to FREE WEEKEND, Madstarr, Ghutty Mac, Lil Jesse/ Retro Pharaoh, Unruly, unruly, MJ The Artist, Frank Hunter, Dj Scottradamus at Grog Shop on Sunday, January 7, 2024, 08:00 PM: https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-unruly]]></description>
+            <link>https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-unruly</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-unruly</guid>
             <pubDate>Sun, 07 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2238,13 +2259,6 @@
             <link>https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</guid>
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free Drew at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Free Drew at Mahall’s on Friday, December 29, 2023, 12:00 AM: https://link.dice.fm/F01ab75fa0a4?dice_id=1952876]]></description>
-            <link>https://link.dice.fm/F01ab75fa0a4?dice_id=1952876</link>
-            <guid isPermaLink="true">https://link.dice.fm/F01ab75fa0a4?dice_id=1952876</guid>
-            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Midnight Memories: a One Direction dance party  at Mahall’s]]></title>

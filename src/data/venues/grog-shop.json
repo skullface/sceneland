@@ -1,17 +1,10 @@
 [
   {
     "artist": [
-      "Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman"
-    ],
-    "link": "https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman",
-    "date": "2023-12-29T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Dave Hill , Mike Polk, Bill Squire"
     ],
     "link": "https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire",
+    "sold_out": true,
     "date": "2023-12-30T19:30:00",
     "venue": "Grog Shop"
   },
@@ -44,6 +37,7 @@
       "Dairy Family",
       "Rrriot",
       "Tunnelvision",
+      "RRRIOT!",
       "TunnelVision"
     ],
     "link": "https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision",
@@ -172,9 +166,12 @@
   },
   {
     "artist": [
-      "Miguel Cafe, Glass Aeros, Domingo Kite"
+      "Miguel Cafe",
+      "Glass Aeros",
+      "Domingo Kite",
+      "Wasted Society"
     ],
-    "link": "https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite",
+    "link": "https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite-wasted-society",
     "date": "2024-01-16T19:30:00",
     "venue": "Grog Shop"
   },

@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Austin Stambaugh's Electric Weepers",
-      "The Merry Go-Rounders",
-      "Dylan Grove"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove",
-    "date": "2023-12-28T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Northeast Ohio Drum & Music Jam"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13330063/northeast-ohio-drum-music-jam",
-    "date": "2023-12-28T21:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "The Day Nites",
       "DJ Mr. Fishtruck"
     ],
@@ -327,6 +309,15 @@
   },
   {
     "artist": [
+      "Post Party with",
+      "Joint Operation"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13383653/post-party-with-joint-operation",
+    "date": "2024-02-03T18:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Bumpin Uglies",
       "TobyRaps",
       "C-Level"
@@ -367,6 +358,14 @@
     "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
     "date": "2024-02-09T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Dupree's Dead Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band",
+    "date": "2024-02-10T20:30:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -789,11 +788,11 @@
   },
   {
     "artist": [
-      "APOCALYPSE Records Festival",
+      "APOCALYPS Records Festival",
       "Kingxzell",
       "Johnny and Swank"
     ],
-    "link": "https://www.beachlandballroom.com/e/13376333/apocalypse-records-festival-kingxzell-johnny-and-swank",
+    "link": "https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank",
     "date": "2024-07-12T19:00:00",
     "venue": "Beachland Ballroom"
   },

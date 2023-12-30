@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MEATFEST"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/meatfest/",
-    "date": "2023-12-29T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Nocturnal"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
@@ -182,6 +174,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/",
     "date": "2024-04-07T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "WEAPON OF CHOICE TOUR"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/",
+    "date": "2024-05-12T19:00:00",
     "venue": "Foundry"
   }
 ]

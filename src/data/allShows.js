@@ -1,21 +1,5 @@
 export const allShows = [
   {
-    artist: [
-      "Austin Stambaugh's Electric Weepers",
-      'The Merry Go-Rounders',
-      'Dylan Grove',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove',
-    date: '2023-12-28T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Northeast Ohio Drum & Music Jam'],
-    link: 'https://www.beachlandballroom.com/e/13330063/northeast-ohio-drum-music-jam',
-    date: '2023-12-28T21:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['The Day Nites', 'DJ Mr. Fishtruck'],
     link: 'https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck',
     date: '2023-12-29T20:00:00',
@@ -250,6 +234,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Post Party with', 'Joint Operation'],
+    link: 'https://www.beachlandballroom.com/e/13383653/post-party-with-joint-operation',
+    date: '2024-02-03T18:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Bumpin Uglies', 'TobyRaps', 'C-Level'],
     link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level',
     date: '2024-02-03T20:00:00',
@@ -282,6 +272,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13468278/keller-williams',
     date: '2024-02-09T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ["Dupree's Dead Band"],
+    link: 'https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band',
+    date: '2024-02-10T20:30:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Deap Vally', 'Sloppy Jane'],
@@ -593,8 +589,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['APOCALYPSE Records Festival', 'Kingxzell', 'Johnny and Swank'],
-    link: 'https://www.beachlandballroom.com/e/13376333/apocalypse-records-festival-kingxzell-johnny-and-swank',
+    artist: ['APOCALYPS Records Festival', 'Kingxzell', 'Johnny and Swank'],
+    link: 'https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank',
     date: '2024-07-12T19:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -758,12 +754,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2025-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Myron Elkins'],
-    link: 'https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158',
-    date: '2023-12-29T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['The Vindys'],
@@ -1234,12 +1224,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['MEATFEST'],
-    link: 'https://www.foundryconcertclub.com/tm-event/meatfest/',
-    date: '2023-12-29T20:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Nocturnal'],
     link: 'https://www.foundryconcertclub.com/tm-event/nocturnal-2/',
     date: '2023-12-30T21:00:00',
@@ -1381,14 +1365,15 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman'],
-    link: 'https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman',
-    date: '2023-12-29T20:30:00',
-    venue: 'Grog Shop',
+    artist: ['WEAPON OF CHOICE TOUR'],
+    link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
+    date: '2024-05-12T19:00:00',
+    venue: 'Foundry',
   },
   {
     artist: ['Dave Hill , Mike Polk, Bill Squire'],
     link: 'https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire',
+    sold_out: true,
     date: '2023-12-30T19:30:00',
     venue: 'Grog Shop',
   },
@@ -1417,6 +1402,7 @@ export const allShows = [
       'Dairy Family',
       'Rrriot',
       'Tunnelvision',
+      'RRRIOT!',
       'TunnelVision',
     ],
     link: 'https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision',
@@ -1528,8 +1514,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Miguel Cafe, Glass Aeros, Domingo Kite'],
-    link: 'https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite',
+    artist: ['Miguel Cafe', 'Glass Aeros', 'Domingo Kite', 'Wasted Society'],
+    link: 'https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite-wasted-society',
     date: '2024-01-16T19:30:00',
     venue: 'Grog Shop',
   },
@@ -1998,15 +1984,22 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['House of BurlesCLE 2.0'],
+    link: 'https://www.agoracleveland.com/events/detail/521430',
+    date: '2024-06-08T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['House Of BurlesCle 2.0'],
+    link: 'https://www.agoracleveland.com/events/detail/521669',
+    date: '2024-06-08T20:30:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool'],
     link: 'https://www.agoracleveland.com/events/detail/520827',
     date: '2024-07-28T18:30:00',
     venue: 'Agora',
-  },
-  {
-    link: 'https://www.ticketmaster.com/aiw-terror-at-the-temple-cleveland-ohio-12-29-2023/event/05005F7043F57375',
-    date: '2023-12-29T19:30:00',
-    venue: 'Masonic Temple',
   },
   {
     artist: ['Tallgrass'],
@@ -2121,12 +2114,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Midnight Memories: a One Direction dance party '],
-    link: 'https://link.dice.fm/Ef46c96e0c2a?dice_id=1985213',
-    date: '2023-12-29T20:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Hammy New Year'],

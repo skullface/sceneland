@@ -4,22 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Dec 2023 09:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 09:05:52 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Austin Stambaugh's Electric Weepers, The Merry Go-Rounders, Dylan Grove at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Austin Stambaugh's Electric Weepers, The Merry Go-Rounders, Dylan Grove at Beachland Tavern on Thursday, December 28, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove]]></description>
-            <link>https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13246423/austin-stambaugh-s-electric-weepers-the-merry-go-rounders-dylan-grove</guid>
-            <pubDate>Thu, 28 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northeast Ohio Drum & Music Jam at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Northeast Ohio Drum & Music Jam at Beachland Ballroom on Thursday, December 28, 2023, 09:00 PM: https://www.beachlandballroom.com/e/13330063/northeast-ohio-drum-music-jam]]></description>
-            <link>https://www.beachlandballroom.com/e/13330063/northeast-ohio-drum-music-jam</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13330063/northeast-ohio-drum-music-jam</guid>
-            <pubDate>Thu, 28 Dec 2023 21:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Day Nites, DJ Mr. Fishtruck at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to The Day Nites, DJ Mr. Fishtruck at Beachland Tavern on Friday, December 29, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck]]></description>
@@ -245,6 +231,13 @@
             <pubDate>Fri, 02 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Post Party with, Joint Operation at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Post Party with, Joint Operation at Beachland Tavern on Saturday, February 3, 2024, 06:00 PM: https://www.beachlandballroom.com/e/13383653/post-party-with-joint-operation]]></description>
+            <link>https://www.beachlandballroom.com/e/13383653/post-party-with-joint-operation</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13383653/post-party-with-joint-operation</guid>
+            <pubDate>Sat, 03 Feb 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bumpin Uglies, TobyRaps, C-Level at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Bumpin Uglies, TobyRaps, C-Level at Beachland Ballroom on Saturday, February 3, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level]]></description>
             <link>https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level</link>
@@ -271,6 +264,13 @@
             <link>https://www.beachlandballroom.com/e/13468278/keller-williams</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13468278/keller-williams</guid>
             <pubDate>Fri, 09 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dupree's Dead Band at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Dupree's Dead Band at Beachland Tavern on Saturday, February 10, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band]]></description>
+            <link>https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band</guid>
+            <pubDate>Sat, 10 Feb 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deap Vally, Sloppy Jane at Beachland Ballroom]]></title>
@@ -609,10 +609,10 @@
             <pubDate>Fri, 17 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[APOCALYPSE Records Festival, Kingxzell, Johnny and Swank at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to APOCALYPSE Records Festival, Kingxzell, Johnny and Swank at Beachland Ballroom on Friday, July 12, 2024, 07:00 PM: https://www.beachlandballroom.com/e/13376333/apocalypse-records-festival-kingxzell-johnny-and-swank]]></description>
-            <link>https://www.beachlandballroom.com/e/13376333/apocalypse-records-festival-kingxzell-johnny-and-swank</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13376333/apocalypse-records-festival-kingxzell-johnny-and-swank</guid>
+            <title><![CDATA[APOCALYPS Records Festival, Kingxzell, Johnny and Swank at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to APOCALYPS Records Festival, Kingxzell, Johnny and Swank at Beachland Ballroom on Friday, July 12, 2024, 07:00 PM: https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank]]></description>
+            <link>https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank</guid>
             <pubDate>Fri, 12 Jul 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -782,13 +782,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myron Elkins at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Myron Elkins at House of Blues on Friday, December 29, 2023, 07:00 PM: https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158]]></description>
-            <link>https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/myron-elkins-cleveland-ohio-12-29-2023/event/05005F75F9F45158</guid>
-            <pubDate>Fri, 29 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Vindys at House of Blues]]></title>
@@ -1337,13 +1330,6 @@
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MEATFEST at Foundry]]></title>
-            <description><![CDATA[Get tickets to MEATFEST at Foundry on Friday, December 29, 2023, 08:00 PM: https://www.foundryconcertclub.com/tm-event/meatfest/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/meatfest/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/meatfest/</guid>
-            <pubDate>Fri, 29 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nocturnal at Foundry]]></title>
             <description><![CDATA[Get tickets to Nocturnal at Foundry on Saturday, December 30, 2023, 09:00 PM: https://www.foundryconcertclub.com/tm-event/nocturnal-2/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/nocturnal-2/</link>
@@ -1498,11 +1484,11 @@
             <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Orefice Roth, Uno Lady, Perfect Pals, Jacob Boarman at Grog Shop on Friday, December 29, 2023, 08:30 PM: https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman]]></description>
-            <link>https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13828818/orefice-roth-uno-lady-perfect-pals-jacob-boarman</guid>
-            <pubDate>Fri, 29 Dec 2023 20:30:00 GMT</pubDate>
+            <title><![CDATA[WEAPON OF CHOICE TOUR at Foundry]]></title>
+            <description><![CDATA[Get tickets to WEAPON OF CHOICE TOUR at Foundry on Sunday, May 12, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</guid>
+            <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dave Hill , Mike Polk, Bill Squire at Grog Shop]]></title>
@@ -1526,8 +1512,8 @@
             <pubDate>Sun, 31 Dec 2023 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Subliners, Dairy Family, Rrriot, Tunnelvision, TunnelVision at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Subliners, Dairy Family, Rrriot, Tunnelvision, TunnelVision at Grog Shop on Wednesday, January 3, 2024, 08:00 PM: https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision]]></description>
+            <title><![CDATA[Subliners, Dairy Family, Rrriot, Tunnelvision, RRRIOT!, TunnelVision at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Subliners, Dairy Family, Rrriot, Tunnelvision, RRRIOT!, TunnelVision at Grog Shop on Wednesday, January 3, 2024, 08:00 PM: https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision]]></description>
             <link>https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision</guid>
             <pubDate>Wed, 03 Jan 2024 20:00:00 GMT</pubDate>
@@ -1610,10 +1596,10 @@
             <pubDate>Mon, 15 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Miguel Cafe, Glass Aeros, Domingo Kite at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Miguel Cafe, Glass Aeros, Domingo Kite at Grog Shop on Tuesday, January 16, 2024, 07:30 PM: https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite]]></description>
-            <link>https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite</guid>
+            <title><![CDATA[Miguel Cafe, Glass Aeros, Domingo Kite, Wasted Society at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Miguel Cafe, Glass Aeros, Domingo Kite, Wasted Society at Grog Shop on Tuesday, January 16, 2024, 07:30 PM: https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite-wasted-society]]></description>
+            <link>https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite-wasted-society</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite-wasted-society</guid>
             <pubDate>Tue, 16 Jan 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2121,6 +2107,20 @@
             <pubDate>Thu, 16 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[House of BurlesCLE 2.0 at Agora]]></title>
+            <description><![CDATA[Get tickets to House of BurlesCLE 2.0 at Agora on Saturday, June 8, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/521430]]></description>
+            <link>https://www.agoracleveland.com/events/detail/521430</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/521430</guid>
+            <pubDate>Sat, 08 Jun 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House Of BurlesCle 2.0 at Agora]]></title>
+            <description><![CDATA[Get tickets to House Of BurlesCle 2.0 at Agora on Saturday, June 8, 2024, 08:30 PM: https://www.agoracleveland.com/events/detail/521669]]></description>
+            <link>https://www.agoracleveland.com/events/detail/521669</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/521669</guid>
+            <pubDate>Sat, 08 Jun 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool at Agora]]></title>
             <description><![CDATA[Get tickets to Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool at Agora on Sunday, July 28, 2024, 06:30 PM: https://www.agoracleveland.com/events/detail/520827]]></description>
             <link>https://www.agoracleveland.com/events/detail/520827</link>
@@ -2259,13 +2259,6 @@
             <link>https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</guid>
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight Memories: a One Direction dance party  at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Midnight Memories: a One Direction dance party  at Mahall’s on Saturday, December 30, 2023, 01:00 AM: https://link.dice.fm/Ef46c96e0c2a?dice_id=1985213]]></description>
-            <link>https://link.dice.fm/Ef46c96e0c2a?dice_id=1985213</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ef46c96e0c2a?dice_id=1985213</guid>
-            <pubDate>Sat, 30 Dec 2023 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hammy New Year at Mahall’s]]></title>

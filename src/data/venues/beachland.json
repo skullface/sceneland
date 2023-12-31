@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "The Day Nites",
-      "DJ Mr. Fishtruck"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck",
-    "date": "2023-12-29T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Saturday Brunch"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13360983/saturday-brunch",
-    "date": "2023-12-30T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The Baker's Basement",
       "Guggy's Rock & Roll 101",
       "Kiss Me Deadly",
@@ -44,10 +27,9 @@
   },
   {
     "artist": [
-      "John Welton & The Awakening",
-      "Johnny Markowski (New Riders of the Purple Sage/Drums)"
+      "John Welton & The Awakening"
     ],
-    "link": "https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-",
+    "link": "https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening",
     "date": "2023-12-31T20:30:00",
     "venue": "Beachland Ballroom"
   },

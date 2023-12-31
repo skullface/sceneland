@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['The Day Nites', 'DJ Mr. Fishtruck'],
-    link: 'https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck',
-    date: '2023-12-29T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Saturday Brunch'],
-    link: 'https://www.beachlandballroom.com/e/13360983/saturday-brunch',
-    date: '2023-12-30T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: [
       "The Baker's Basement",
       "Guggy's Rock & Roll 101",
@@ -38,11 +26,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: [
-      'John Welton & The Awakening',
-      'Johnny Markowski (New Riders of the Purple Sage/Drums)',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-',
+    artist: ['John Welton & The Awakening'],
+    link: 'https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening',
     date: '2023-12-31T20:30:00',
     venue: 'Beachland Ballroom',
   },
@@ -690,15 +675,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: [
-      'Legends of Basketball Showcase',
-      '1:30PM: Ohio U. vs. Davidson | 4:00PM: Akron vs. St. Bonaventure | 7:00PM: The Ohio State vs. West Virginia',
-    ],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/legendsofbball20231230',
-    date: '2023-12-30',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
     artist: ['24th Greater Cleveland Sports Awards'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards',
     date: '2024-01-23',
@@ -754,12 +730,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2025-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['The Vindys'],
-    link: 'https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4',
-    date: '2023-12-30T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Zakk Sabbath'],
@@ -1104,12 +1074,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['The Legendary Soul Jam'],
-    link: 'https://www.playhousesquare.org/events/detail/the-legendary-soul-jam',
-    date: '2023-12-30',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Elvis Tribute Artist Spectacular'],
     link: 'https://www.playhousesquare.org/events/detail/elvis-tribute-artist-spectacular-2',
     date: '2024-01-07',
@@ -1222,12 +1186,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Nocturnal'],
-    link: 'https://www.foundryconcertclub.com/tm-event/nocturnal-2/',
-    date: '2023-12-30T21:00:00',
-    venue: 'Foundry',
   },
   {
     artist: [
@@ -1369,19 +1327,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Dave Hill , Mike Polk, Bill Squire'],
-    link: 'https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire',
-    sold_out: true,
-    date: '2023-12-30T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Falling Stars', 'Ray Flanagan', 'Dave Rich & His Enablers'],
-    link: 'https://grogshop.gs/event-details/13279963/falling-stars-ray-flanagan-dave-rich-his-enablers',
-    date: '2023-12-30T21:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -2116,12 +2061,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Hammy New Year'],
-    link: 'https://link.dice.fm/mb77c28acbac?dice_id=1750912',
-    date: '2023-12-30T18:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ["Mahall's New Years Eve: Dancing Through The Decades "],
     link: 'https://link.dice.fm/G7024b52effc?dice_id=2017567',
     date: '2023-12-31T20:00:00-05:00',
@@ -2230,14 +2169,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=1951044',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=1768754',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },

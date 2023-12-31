@@ -4,22 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 Dec 2023 09:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 09:05:52 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Day Nites, DJ Mr. Fishtruck at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Day Nites, DJ Mr. Fishtruck at Beachland Tavern on Friday, December 29, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck]]></description>
-            <link>https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13814258/the-day-nites-dj-mr-fishtruck</guid>
-            <pubDate>Fri, 29 Dec 2023 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Brunch at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Saturday Brunch at Beachland Tavern on Saturday, December 30, 2023, 11:00 AM: https://www.beachlandballroom.com/e/13360983/saturday-brunch]]></description>
-            <link>https://www.beachlandballroom.com/e/13360983/saturday-brunch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13360983/saturday-brunch</guid>
-            <pubDate>Sat, 30 Dec 2023 11:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Baker's Basement, Guggy's Rock & Roll 101, Kiss Me Deadly, The 80's Ladies at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to The Baker's Basement, Guggy's Rock & Roll 101, Kiss Me Deadly, The 80's Ladies at Beachland Tavern on Saturday, December 30, 2023, 08:00 PM: https://www.beachlandballroom.com/e/13270513/the-baker-s-basement-guggy-s-rock-roll-101-kiss-me-deadly-the-80-s-ladies]]></description>
@@ -35,10 +21,10 @@
             <pubDate>Sat, 30 Dec 2023 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[John Welton & The Awakening, Johnny Markowski (New Riders of the Purple Sage/Drums) at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to John Welton & The Awakening, Johnny Markowski (New Riders of the Purple Sage/Drums) at Beachland Ballroom on Sunday, December 31, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-]]></description>
-            <link>https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening-johnny-markowski-new-riders-of-the-purple-sage-drums-</guid>
+            <title><![CDATA[John Welton & The Awakening at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to John Welton & The Awakening at Beachland Ballroom on Sunday, December 31, 2023, 08:30 PM: https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening]]></description>
+            <link>https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening</guid>
             <pubDate>Sun, 31 Dec 2023 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -721,13 +707,6 @@
             <pubDate>Thu, 15 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Legends of Basketball Showcase, 1:30PM: Ohio U. vs. Davidson | 4:00PM: Akron vs. St. Bonaventure | 7:00PM: The Ohio State vs. West Virginia at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Legends of Basketball Showcase, 1:30PM: Ohio U. vs. Davidson | 4:00PM: Akron vs. St. Bonaventure | 7:00PM: The Ohio State vs. West Virginia at Rocket Mortgage FieldHouse on Saturday, December 30, 2023, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/legendsofbball20231230]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/legendsofbball20231230</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/legendsofbball20231230</guid>
-            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[24th Greater Cleveland Sports Awards at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to 24th Greater Cleveland Sports Awards at Rocket Mortgage FieldHouse on Tuesday, January 23, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards</link>
@@ -782,13 +761,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Vindys at House of Blues]]></title>
-            <description><![CDATA[Get tickets to The Vindys at House of Blues on Saturday, December 30, 2023, 07:00 PM: https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4]]></description>
-            <link>https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/the-vindys-cleveland-ohio-12-30-2023/event/05005F2CD1672ED4</guid>
-            <pubDate>Sat, 30 Dec 2023 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zakk Sabbath at House of Blues]]></title>
@@ -1190,13 +1162,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Legendary Soul Jam at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to The Legendary Soul Jam at Playhouse Square on Saturday, December 30, 2023, 12:00 AM: https://www.playhousesquare.org/events/detail/the-legendary-soul-jam]]></description>
-            <link>https://www.playhousesquare.org/events/detail/the-legendary-soul-jam</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/the-legendary-soul-jam</guid>
-            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Elvis Tribute Artist Spectacular at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Elvis Tribute Artist Spectacular at Playhouse Square on Sunday, January 7, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/elvis-tribute-artist-spectacular-2]]></description>
             <link>https://www.playhousesquare.org/events/detail/elvis-tribute-artist-spectacular-2</link>
@@ -1328,13 +1293,6 @@
             <link>https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nocturnal at Foundry]]></title>
-            <description><![CDATA[Get tickets to Nocturnal at Foundry on Saturday, December 30, 2023, 09:00 PM: https://www.foundryconcertclub.com/tm-event/nocturnal-2/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/nocturnal-2/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nocturnal-2/</guid>
-            <pubDate>Sat, 30 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends at Foundry]]></title>
@@ -1489,20 +1447,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</guid>
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dave Hill , Mike Polk, Bill Squire at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Dave Hill , Mike Polk, Bill Squire at Grog Shop on Saturday, December 30, 2023, 07:30 PM: https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire]]></description>
-            <link>https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13848528/dave-hill-w-mike-polk-bill-squire</guid>
-            <pubDate>Sat, 30 Dec 2023 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Falling Stars, Ray Flanagan, Dave Rich & His Enablers at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Falling Stars, Ray Flanagan, Dave Rich & His Enablers at Grog Shop on Saturday, December 30, 2023, 09:00 PM: https://grogshop.gs/event-details/13279963/falling-stars-ray-flanagan-dave-rich-his-enablers]]></description>
-            <link>https://grogshop.gs/event-details/13279963/falling-stars-ray-flanagan-dave-rich-his-enablers</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13279963/falling-stars-ray-flanagan-dave-rich-his-enablers</guid>
-            <pubDate>Sat, 30 Dec 2023 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MAXOUT featuring Shuicide Holla hosted by Watts, Fore1gner, Big Biz Grizzz, O.N.S., Britt Bandz, 4FA4ENT at Grog Shop]]></title>
@@ -2261,13 +2205,6 @@
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hammy New Year at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Hammy New Year at Mahall’s on Saturday, December 30, 2023, 11:00 PM: https://link.dice.fm/mb77c28acbac?dice_id=1750912]]></description>
-            <link>https://link.dice.fm/mb77c28acbac?dice_id=1750912</link>
-            <guid isPermaLink="true">https://link.dice.fm/mb77c28acbac?dice_id=1750912</guid>
-            <pubDate>Sat, 30 Dec 2023 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mahall's New Years Eve: Dancing Through The Decades  at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Mahall's New Years Eve: Dancing Through The Decades  at Mahall’s on Monday, January 1, 2024, 01:00 AM: https://link.dice.fm/G7024b52effc?dice_id=2017567]]></description>
             <link>https://link.dice.fm/G7024b52effc?dice_id=2017567</link>
@@ -2394,17 +2331,17 @@
             <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=1768754]]></description>
-            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</link>
-            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</guid>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cole Chaney at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=1951044]]></description>
             <link>https://link.dice.fm/Uce0994a921d?dice_id=1951044</link>
             <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=1951044</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=1768754]]></description>
+            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</link>
+            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>

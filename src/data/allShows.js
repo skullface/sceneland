@@ -1,34 +1,8 @@
 export const allShows = [
   {
-    artist: [
-      "The Baker's Basement",
-      "Guggy's Rock & Roll 101",
-      'Kiss Me Deadly',
-      "The 80's Ladies",
-    ],
-    link: 'https://www.beachlandballroom.com/e/13270513/the-baker-s-basement-guggy-s-rock-roll-101-kiss-me-deadly-the-80-s-ladies',
-    date: '2023-12-30T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: [
-      "Packy Malley's Peace Corps Jamaica Benefit Concert",
-      'Ernie Krivda',
-      'Apostle Jones',
-      'Terry Lee Goffee',
-      'JR Blessington',
-      'Flex Crew',
-      'Sunshade',
-      'Mark Hunter (Ark Band)',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13294383/packy-malley-s-peace-corps-jamaica-benefit-concert-ernie-krivda-apostle-jones-terry-lee-goffee-jr-blessington-flex-crew-sunshade-mark-hunter-ark-band-',
-    date: '2023-12-30T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['John Welton & The Awakening'],
     link: 'https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening',
-    date: '2023-12-31T20:30:00',
+    date: '2024-12-31T20:30:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -732,12 +706,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Zakk Sabbath'],
-    link: 'https://concerts.livenation.com/zakk-sabbath-cleveland-ohio-12-31-2023/event/05005F3EBED62503',
-    date: '2023-12-31T20:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Motion City Soundtrack: I Am The Movie 20th Anniversary Tour'],
     link: 'https://concerts.livenation.com/motion-city-soundtrack-i-am-the-cleveland-ohio-01-05-2024/event/05005F4F11D8532E',
     date: '2024-01-05T19:00:00',
@@ -1188,14 +1156,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: [
-      'Set To Stun, If Not For Me, Unhealthy While Unhinged, Liminal, For Absent Friends',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/set-to-stun-if-not-for-me-unhealthy-while-unhinged-liminal-for-absent-friends/',
-    date: '2023-12-31T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Freedom in Chains, Skeptic Lens, Ash Hollow, Left Unsaid'],
     link: 'https://www.foundryconcertclub.com/tm-event/freedom-in-chains-skeptic-lens-ash-hollow-left-unsaid/',
     date: '2024-01-05T19:00:00',
@@ -1273,12 +1233,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/',
-    date: '2024-01-29T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['KINK! A Nightclub Event'],
     link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
     date: '2024-02-10T21:00:00',
@@ -1330,19 +1284,6 @@ export const allShows = [
   },
   {
     artist: [
-      'MAXOUT featuring Shuicide Holla hosted by Watts',
-      'Fore1gner',
-      'Big Biz Grizzz',
-      'O.N.S.',
-      'Britt Bandz',
-      '4FA4ENT',
-    ],
-    link: 'https://grogshop.gs/event-details/13276423/maxout-featuring-shuicide-holla-hosted-by-watts',
-    date: '2023-12-31T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
       'Subliners',
       'Dairy Family',
       'Rrriot',
@@ -1351,7 +1292,7 @@ export const allShows = [
       'TunnelVision',
     ],
     link: 'https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision',
-    date: '2024-01-03T20:00:00',
+    date: '2024-01-03T19:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1520,6 +1461,7 @@ export const allShows = [
   {
     artist: ['Wednesday', 'Hotline TNT'],
     link: 'https://grogshop.gs/event-details/13720188/wednesday',
+    sold_out: true,
     date: '2024-01-28T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2059,12 +2001,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ["Mahall's New Years Eve: Dancing Through The Decades "],
-    link: 'https://link.dice.fm/G7024b52effc?dice_id=2017567',
-    date: '2023-12-31T20:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['This Summer'],

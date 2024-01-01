@@ -1,19 +1,6 @@
 [
   {
     "artist": [
-      "MAXOUT featuring Shuicide Holla hosted by Watts",
-      "Fore1gner",
-      "Big Biz Grizzz",
-      "O.N.S.",
-      "Britt Bandz",
-      "4FA4ENT"
-    ],
-    "link": "https://grogshop.gs/event-details/13276423/maxout-featuring-shuicide-holla-hosted-by-watts",
-    "date": "2023-12-31T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Subliners",
       "Dairy Family",
       "Rrriot",
@@ -22,7 +9,7 @@
       "TunnelVision"
     ],
     "link": "https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision",
-    "date": "2024-01-03T20:00:00",
+    "date": "2024-01-03T19:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -236,6 +223,7 @@
       "Hotline TNT"
     ],
     "link": "https://grogshop.gs/event-details/13720188/wednesday",
+    "sold_out": true,
     "date": "2024-01-28T20:00:00",
     "venue": "Grog Shop"
   },

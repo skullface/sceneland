@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jan 2024 09:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 09:06:00 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[John Welton & The Awakening at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to John Welton & The Awakening at Beachland Ballroom on Tuesday, December 31, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening]]></description>
-            <link>https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening</guid>
-            <pubDate>Tue, 31 Dec 2024 20:30:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Jaxsaun, Allthehipe, Will Cherry at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Jaxsaun, Allthehipe, Will Cherry at Beachland Tavern on Thursday, January 4, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry]]></description>
@@ -1428,11 +1421,11 @@
             <pubDate>Thu, 04 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FREE WEEKEND, Youth Pallet, Non Bruises, Clare Feorene at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to FREE WEEKEND, Youth Pallet, Non Bruises, Clare Feorene at Grog Shop on Friday, January 5, 2024, 09:00 PM: https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-non-bruises-clare-feorene]]></description>
-            <link>https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-non-bruises-clare-feorene</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-non-bruises-clare-feorene</guid>
-            <pubDate>Fri, 05 Jan 2024 21:00:00 GMT</pubDate>
+            <title><![CDATA[FREE WEEKEND, Youth Pallet, Clare Feorene, Non Bruises at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to FREE WEEKEND, Youth Pallet, Clare Feorene, Non Bruises at Grog Shop on Friday, January 5, 2024, 08:30 PM: https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises]]></description>
+            <link>https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises</guid>
+            <pubDate>Fri, 05 Jan 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FREE WEEKEND, Pill​ä​rs, the 3rd PYRAMID band, Kill The Hippies, Skwerm, Pillärs at Grog Shop]]></title>

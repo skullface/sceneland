@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['John Welton & The Awakening'],
-    link: 'https://www.beachlandballroom.com/e/13270593/john-welton-the-awakening',
-    date: '2024-12-31T20:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['Jaxsaun', 'Allthehipe', 'Will Cherry'],
     link: 'https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry',
     date: '2024-01-04T20:00:00',
@@ -1308,9 +1302,9 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['FREE WEEKEND', 'Youth Pallet', 'Non Bruises', 'Clare Feorene'],
-    link: 'https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-non-bruises-clare-feorene',
-    date: '2024-01-05T21:00:00',
+    artist: ['FREE WEEKEND', 'Youth Pallet', 'Clare Feorene', 'Non Bruises'],
+    link: 'https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises',
+    date: '2024-01-05T20:30:00',
     venue: 'Grog Shop',
   },
   {

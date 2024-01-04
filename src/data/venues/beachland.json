@@ -11,10 +11,9 @@
   },
   {
     "artist": [
-      "Mark Gamsjager & the Lustre Kings",
       "The Whiskey Daredevils"
     ],
-    "link": "https://www.beachlandballroom.com/e/13279153/mark-gamsjager-the-lustre-kings-the-whiskey-daredevils",
+    "link": "https://www.beachlandballroom.com/e/13279153/the-whiskey-daredevils",
     "date": "2024-01-05T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -64,9 +63,9 @@
   },
   {
     "artist": [
-      "Good Morning Valentine"
+      "Goodmorning Valentine"
     ],
-    "link": "https://www.beachlandballroom.com/e/13379923/good-morning-valentine",
+    "link": "https://www.beachlandballroom.com/e/13379923/goodmorning-valentine",
     "date": "2024-01-09T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -102,6 +101,14 @@
     "link": "https://www.beachlandballroom.com/e/13311493/blue-lunch-special-guest-tad-robinson-dj-pete-london",
     "date": "2024-01-12T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Saturday Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13387033/saturday-brunch",
+    "date": "2024-01-13T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -235,6 +242,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane",
     "date": "2024-01-27T15:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Private Event"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13387683/private-event",
+    "date": "2024-01-27T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -612,6 +627,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13328773/matt-andersen",
     "date": "2024-04-02T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "The Hi-Jivers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13388323/the-hi-jivers",
+    "date": "2024-04-03T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

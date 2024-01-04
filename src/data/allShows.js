@@ -6,8 +6,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Mark Gamsjager & the Lustre Kings', 'The Whiskey Daredevils'],
-    link: 'https://www.beachlandballroom.com/e/13279153/mark-gamsjager-the-lustre-kings-the-whiskey-daredevils',
+    artist: ['The Whiskey Daredevils'],
+    link: 'https://www.beachlandballroom.com/e/13279153/the-whiskey-daredevils',
     date: '2024-01-05T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -42,8 +42,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Good Morning Valentine'],
-    link: 'https://www.beachlandballroom.com/e/13379923/good-morning-valentine',
+    artist: ['Goodmorning Valentine'],
+    link: 'https://www.beachlandballroom.com/e/13379923/goodmorning-valentine',
     date: '2024-01-09T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -75,6 +75,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13311493/blue-lunch-special-guest-tad-robinson-dj-pete-london',
     date: '2024-01-12T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Saturday Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13387033/saturday-brunch',
+    date: '2024-01-13T11:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Carlos Jones & The PLUS Band', 'Sh\u0101k\u0113 Ground'],
@@ -172,6 +178,12 @@ export const allShows = [
     ],
     link: 'https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane',
     date: '2024-01-27T15:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Private Event'],
+    link: 'https://www.beachlandballroom.com/e/13387683/private-event',
+    date: '2024-01-27T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -454,6 +466,12 @@ export const allShows = [
     artist: ['Matt Andersen'],
     link: 'https://www.beachlandballroom.com/e/13328773/matt-andersen',
     date: '2024-04-02T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['The Hi-Jivers'],
+    link: 'https://www.beachlandballroom.com/e/13388323/the-hi-jivers',
+    date: '2024-04-03T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -1177,6 +1195,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Nocturnal'],
+    link: 'https://www.foundryconcertclub.com/tm-event/nocturnal/',
+    date: '2024-01-12T21:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Deadlands, Convictions, I Fight Fail'],
     link: 'https://www.foundryconcertclub.com/tm-event/deadlands-convictions/',
     date: '2024-01-13T19:00:00',
@@ -1227,9 +1251,33 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['HEAVY METAL CAGE MATCH'],
+    link: 'https://www.foundryconcertclub.com/tm-event/heavy-metal-cage-match/',
+    date: '2024-02-02T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/',
+    date: '2024-02-05T18:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Anime / K-Pop Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/',
+    date: '2024-02-09T21:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['KINK! A Nightclub Event'],
     link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
     date: '2024-02-10T21:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['BORED GAME NIGHT'],
+    link: 'https://www.foundryconcertclub.com/tm-event/bored-game-night/',
+    date: '2024-02-13T17:00:00',
     venue: 'Foundry',
   },
   {
@@ -1244,6 +1292,12 @@ export const allShows = [
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/',
     date: '2024-02-22T18:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Weeping Wound, Wiltwither, cohen_noise'],
+    link: 'https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/',
+    date: '2024-03-12T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1277,27 +1331,8 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: [
-      'Subliners',
-      'Dairy Family',
-      'Rrriot',
-      'Tunnelvision',
-      'RRRIOT!',
-      'TunnelVision',
-    ],
-    link: 'https://grogshop.gs/event-details/13774248/subliners-dairy-family-rrriot-tunnelvision',
-    date: '2024-01-03T19:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'FREE WEEKEND',
-      'Melted Strawberry',
-      'Blind Joel Wallace',
-      'Robbie Alan and The Loveshack',
-      'Robbie Allan & the Loveshack',
-    ],
-    link: 'https://grogshop.gs/event-details/13318273/free-weekend-w-melted-strawberry-blind-joel-wallace-robbie-alan-and-the-loveshack',
+    artist: ['FREE WEEKEND', 'Melted Strawberry', 'Unc D', 'Ziggy', 'Ziggy D'],
+    link: 'https://grogshop.gs/event-details/13318273/free-weekend-w-melted-strawberry-unc-d-ziggy',
     date: '2024-01-04T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1327,7 +1362,6 @@ export const allShows = [
       'Ghutty Mac',
       'Lil Jesse/ Retro Pharaoh',
       'Unruly',
-      'unruly',
       'MJ The Artist',
       'Frank Hunter',
       'Dj Scottradamus',
@@ -1526,8 +1560,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['J Robbins (band)', 'SunBurnSun'],
-    link: 'https://grogshop.gs/event-details/13319083/j-robbins-band-',
+    artist: [
+      'J. Robbins (band) with Whatever and SunBurnSun',
+      'Whatever',
+      'SunBurnSun',
+    ],
+    link: 'https://grogshop.gs/event-details/13319083/j-robbins-band-with-whatever-and-sunburnsun',
     date: '2024-02-17T20:30:00',
     venue: 'Grog Shop',
   },
@@ -1886,6 +1924,12 @@ export const allShows = [
     artist: ['Tallgrass'],
     link: 'https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65',
     date: '2024-02-02T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['Bittersweet Revenge'],
+    link: 'https://www.ticketmaster.com/bittersweet-revenge-cleveland-ohio-02-10-2024/event/05005F9F9E2C1B0C',
+    date: '2024-02-10T20:00:00',
     venue: 'Masonic Temple',
   },
   {

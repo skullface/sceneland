@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jan 2024 09:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 09:06:08 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jaxsaun, Allthehipe, Will Cherry at Beachland Tavern]]></title>
@@ -175,10 +175,24 @@
             <pubDate>Thu, 25 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Northeast Ohio Drum & Music Jam at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Northeast Ohio Drum & Music Jam at Beachland Ballroom on Thursday, January 25, 2024, 09:00 PM: https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam]]></description>
+            <link>https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam</guid>
+            <pubDate>Thu, 25 Jan 2024 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jinari Kemet, Zup, Marcus Smith, Hosted by Toby Raps at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Jinari Kemet, Zup, Marcus Smith, Hosted by Toby Raps at Beachland Tavern on Friday, January 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-hosted-by-toby-raps]]></description>
             <link>https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-hosted-by-toby-raps</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-hosted-by-toby-raps</guid>
+            <pubDate>Fri, 26 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Private Event at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Private Event at Beachland Ballroom on Friday, January 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13387683/private-event]]></description>
+            <link>https://www.beachlandballroom.com/e/13387683/private-event</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13387683/private-event</guid>
             <pubDate>Fri, 26 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -187,13 +201,6 @@
             <link>https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane</guid>
             <pubDate>Sat, 27 Jan 2024 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Private Event at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Private Event at Beachland Ballroom on Saturday, January 27, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13387683/private-event]]></description>
-            <link>https://www.beachlandballroom.com/e/13387683/private-event</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13387683/private-event</guid>
-            <pubDate>Sat, 27 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[School of Rock at Beachland Ballroom]]></title>
@@ -1470,13 +1477,6 @@
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FREE WEEKEND, Melted Strawberry, Unc D, Ziggy, Ziggy D at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to FREE WEEKEND, Melted Strawberry, Unc D, Ziggy, Ziggy D at Grog Shop on Thursday, January 4, 2024, 08:00 PM: https://grogshop.gs/event-details/13318273/free-weekend-w-melted-strawberry-unc-d-ziggy]]></description>
-            <link>https://grogshop.gs/event-details/13318273/free-weekend-w-melted-strawberry-unc-d-ziggy</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13318273/free-weekend-w-melted-strawberry-unc-d-ziggy</guid>
-            <pubDate>Thu, 04 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[FREE WEEKEND, Youth Pallet, Clare Feorene, Non Bruises at Grog Shop]]></title>
             <description><![CDATA[Get tickets to FREE WEEKEND, Youth Pallet, Clare Feorene, Non Bruises at Grog Shop on Friday, January 5, 2024, 08:30 PM: https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises]]></description>
             <link>https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises</link>
@@ -1624,6 +1624,13 @@
             <pubDate>Mon, 29 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Daze, The Brakes, Formerly Candice at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Daze, The Brakes, Formerly Candice at Grog Shop on Wednesday, January 31, 2024, 08:00 PM: https://grogshop.gs/event-details/13397253/the-daze-the-brakes-formerly-candice]]></description>
+            <link>https://grogshop.gs/event-details/13397253/the-daze-the-brakes-formerly-candice</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13397253/the-daze-the-brakes-formerly-candice</guid>
+            <pubDate>Wed, 31 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[GlamGore: Couples Counseling, Anhedonia Delight at Grog Shop]]></title>
             <description><![CDATA[Get tickets to GlamGore: Couples Counseling, Anhedonia Delight at Grog Shop on Friday, February 2, 2024, 09:00 PM: https://grogshop.gs/event-details/13297703/glamgore-couples-counseling]]></description>
             <link>https://grogshop.gs/event-details/13297703/glamgore-couples-counseling</link>
@@ -1673,6 +1680,13 @@
             <pubDate>Thu, 15 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Sonder Bombs, Teamonade at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Sonder Bombs, Teamonade at Grog Shop on Friday, February 16, 2024, 08:30 PM: https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade]]></description>
+            <link>https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade</guid>
+            <pubDate>Fri, 16 Feb 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[PORTUGAL. THE MAN, SNACKTIME at Grog Shop]]></title>
             <description><![CDATA[Get tickets to PORTUGAL. THE MAN, SNACKTIME at Grog Shop on Saturday, February 17, 2024, 08:00 PM: https://grogshop.gs/event-details/13766078/portugal-the-man]]></description>
             <link>https://grogshop.gs/event-details/13766078/portugal-the-man</link>
@@ -1680,8 +1694,8 @@
             <pubDate>Sat, 17 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[J. Robbins (band) with Whatever and SunBurnSun, Whatever, SunBurnSun at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to J. Robbins (band) with Whatever and SunBurnSun, Whatever, SunBurnSun at Grog Shop on Saturday, February 17, 2024, 08:30 PM: https://grogshop.gs/event-details/13319083/j-robbins-band-with-whatever-and-sunburnsun]]></description>
+            <title><![CDATA[J. Robbins (band) with Whatever... and SunBurnSun, Whatever, SunBurnSun at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to J. Robbins (band) with Whatever... and SunBurnSun, Whatever, SunBurnSun at Grog Shop on Saturday, February 17, 2024, 08:30 PM: https://grogshop.gs/event-details/13319083/j-robbins-band-with-whatever-and-sunburnsun]]></description>
             <link>https://grogshop.gs/event-details/13319083/j-robbins-band-with-whatever-and-sunburnsun</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13319083/j-robbins-band-with-whatever-and-sunburnsun</guid>
             <pubDate>Sat, 17 Feb 2024 20:30:00 GMT</pubDate>
@@ -1699,6 +1713,13 @@
             <link>https://grogshop.gs/event-details/13339753/midnight-rental-presents-secret-movie-night</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13339753/midnight-rental-presents-secret-movie-night</guid>
             <pubDate>Wed, 21 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Land of Panda's "Here For You" Single Release Party, FUBAR, C-Level at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Land of Panda's "Here For You" Single Release Party, FUBAR, C-Level at Grog Shop on Friday, February 23, 2024, 08:00 PM: https://grogshop.gs/event-details/13396663/land-of-panda-s-here-for-you-single-release-party]]></description>
+            <link>https://grogshop.gs/event-details/13396663/land-of-panda-s-here-for-you-single-release-party</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13396663/land-of-panda-s-here-for-you-single-release-party</guid>
+            <pubDate>Fri, 23 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RUSTBELT RIPPERFEST II at Grog Shop]]></title>
@@ -1720,6 +1741,13 @@
             <link>https://grogshop.gs/event-details/13853798/babytron</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13853798/babytron</guid>
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Dirty Pop Party with J-Line, Recess, Mitchel Madek, Cherry!, Miron Hala at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Dirty Pop Party with J-Line, Recess, Mitchel Madek, Cherry!, Miron Hala at Grog Shop on Thursday, March 7, 2024, 08:00 PM: https://grogshop.gs/event-details/13396483/the-dirty-pop-party-with-j-line-recess-mitchel-madek-cherry-miron-hala]]></description>
+            <link>https://grogshop.gs/event-details/13396483/the-dirty-pop-party-with-j-line-recess-mitchel-madek-cherry-miron-hala</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13396483/the-dirty-pop-party-with-j-line-recess-mitchel-madek-cherry-miron-hala</guid>
+            <pubDate>Thu, 07 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wifisfuneral: BLACK HEART REVENGE 2 TOUR at Grog Shop]]></title>
@@ -2220,310 +2248,317 @@
         </item>
         <item>
             <title><![CDATA[This Summer at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to This Summer at Mahall’s on Saturday, January 6, 2024, 12:00 AM: https://link.dice.fm/Jb451092657e?dice_id=2032726]]></description>
-            <link>https://link.dice.fm/Jb451092657e?dice_id=2032726</link>
-            <guid isPermaLink="true">https://link.dice.fm/Jb451092657e?dice_id=2032726</guid>
+            <description><![CDATA[Get tickets to This Summer at Mahall’s on Saturday, January 6, 2024, 12:00 AM: https://link.dice.fm/Jb451092657e?dice_id=Jb451092657e]]></description>
+            <link>https://link.dice.fm/Jb451092657e?dice_id=Jb451092657e</link>
+            <guid isPermaLink="true">https://link.dice.fm/Jb451092657e?dice_id=Jb451092657e</guid>
             <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DRIXY at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to DRIXY at Mahall’s on Sunday, January 7, 2024, 12:00 AM: https://link.dice.fm/B5b5df216223?dice_id=1800976]]></description>
-            <link>https://link.dice.fm/B5b5df216223?dice_id=1800976</link>
-            <guid isPermaLink="true">https://link.dice.fm/B5b5df216223?dice_id=1800976</guid>
+            <description><![CDATA[Get tickets to DRIXY at Mahall’s on Sunday, January 7, 2024, 12:00 AM: https://link.dice.fm/B5b5df216223?dice_id=B5b5df216223]]></description>
+            <link>https://link.dice.fm/B5b5df216223?dice_id=B5b5df216223</link>
+            <guid isPermaLink="true">https://link.dice.fm/B5b5df216223?dice_id=B5b5df216223</guid>
             <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frank's 25th birthday w/ Radio Dummies at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Frank's 25th birthday w/ Radio Dummies at Mahall’s on Monday, January 8, 2024, 12:00 AM: https://link.dice.fm/V601508e5f8e?dice_id=2001658]]></description>
-            <link>https://link.dice.fm/V601508e5f8e?dice_id=2001658</link>
-            <guid isPermaLink="true">https://link.dice.fm/V601508e5f8e?dice_id=2001658</guid>
+            <description><![CDATA[Get tickets to Frank's 25th birthday w/ Radio Dummies at Mahall’s on Monday, January 8, 2024, 12:00 AM: https://link.dice.fm/V601508e5f8e?dice_id=V601508e5f8e]]></description>
+            <link>https://link.dice.fm/V601508e5f8e?dice_id=V601508e5f8e</link>
+            <guid isPermaLink="true">https://link.dice.fm/V601508e5f8e?dice_id=V601508e5f8e</guid>
             <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arbi at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Arbi at Mahall’s on Saturday, January 13, 2024, 12:00 AM: https://link.dice.fm/if122f50c01c?dice_id=2032963]]></description>
-            <link>https://link.dice.fm/if122f50c01c?dice_id=2032963</link>
-            <guid isPermaLink="true">https://link.dice.fm/if122f50c01c?dice_id=2032963</guid>
+            <description><![CDATA[Get tickets to Arbi at Mahall’s on Saturday, January 13, 2024, 12:00 AM: https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c]]></description>
+            <link>https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c</link>
+            <guid isPermaLink="true">https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c</guid>
             <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emo Nite ft Memory Lane at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emo Nite ft Memory Lane at Mahall’s on Sunday, January 14, 2024, 01:00 AM: https://link.dice.fm/D715f79c3ab8?dice_id=1963387]]></description>
-            <link>https://link.dice.fm/D715f79c3ab8?dice_id=1963387</link>
-            <guid isPermaLink="true">https://link.dice.fm/D715f79c3ab8?dice_id=1963387</guid>
+            <description><![CDATA[Get tickets to Emo Nite ft Memory Lane at Mahall’s on Sunday, January 14, 2024, 01:00 AM: https://link.dice.fm/D715f79c3ab8?dice_id=D715f79c3ab8]]></description>
+            <link>https://link.dice.fm/D715f79c3ab8?dice_id=D715f79c3ab8</link>
+            <guid isPermaLink="true">https://link.dice.fm/D715f79c3ab8?dice_id=D715f79c3ab8</guid>
             <pubDate>Sun, 14 Jan 2024 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fidlar at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Fidlar at Mahall’s on Monday, January 15, 2024, 12:00 AM: https://link.dice.fm/Jb3586ff310d?dice_id=1946205]]></description>
-            <link>https://link.dice.fm/Jb3586ff310d?dice_id=1946205</link>
-            <guid isPermaLink="true">https://link.dice.fm/Jb3586ff310d?dice_id=1946205</guid>
+            <description><![CDATA[Get tickets to Fidlar at Mahall’s on Monday, January 15, 2024, 12:00 AM: https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d]]></description>
+            <link>https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d</guid>
             <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MK Ultra at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to MK Ultra at Mahall’s on Thursday, January 18, 2024, 11:30 PM: https://link.dice.fm/c14409bbe3bc?dice_id=2018112]]></description>
-            <link>https://link.dice.fm/c14409bbe3bc?dice_id=2018112</link>
-            <guid isPermaLink="true">https://link.dice.fm/c14409bbe3bc?dice_id=2018112</guid>
+            <description><![CDATA[Get tickets to MK Ultra at Mahall’s on Thursday, January 18, 2024, 11:30 PM: https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc]]></description>
+            <link>https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc</link>
+            <guid isPermaLink="true">https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc</guid>
             <pubDate>Thu, 18 Jan 2024 23:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pinkertones  at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Pinkertones  at Mahall’s on Saturday, January 20, 2024, 12:00 AM: https://link.dice.fm/V59a7152297c?dice_id=1739727]]></description>
-            <link>https://link.dice.fm/V59a7152297c?dice_id=1739727</link>
-            <guid isPermaLink="true">https://link.dice.fm/V59a7152297c?dice_id=1739727</guid>
+            <description><![CDATA[Get tickets to The Pinkertones  at Mahall’s on Saturday, January 20, 2024, 12:00 AM: https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c]]></description>
+            <link>https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c</link>
+            <guid isPermaLink="true">https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c</guid>
             <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mean Girls dance night at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Mean Girls dance night at Mahall’s on Sunday, January 21, 2024, 01:00 AM: https://link.dice.fm/r93c9dd299f6?dice_id=2071622]]></description>
-            <link>https://link.dice.fm/r93c9dd299f6?dice_id=2071622</link>
-            <guid isPermaLink="true">https://link.dice.fm/r93c9dd299f6?dice_id=2071622</guid>
+            <description><![CDATA[Get tickets to Mean Girls dance night at Mahall’s on Sunday, January 21, 2024, 01:00 AM: https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6]]></description>
+            <link>https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6</link>
+            <guid isPermaLink="true">https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6</guid>
             <pubDate>Sun, 21 Jan 2024 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jukebox Breakdown aka Emo Night CLE at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Jukebox Breakdown aka Emo Night CLE at Mahall’s on Saturday, January 27, 2024, 02:00 AM: https://link.dice.fm/Ra2ba087161c?dice_id=2076977]]></description>
-            <link>https://link.dice.fm/Ra2ba087161c?dice_id=2076977</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ra2ba087161c?dice_id=2076977</guid>
+            <description><![CDATA[Get tickets to Jukebox Breakdown aka Emo Night CLE at Mahall’s on Saturday, January 27, 2024, 02:00 AM: https://link.dice.fm/Ra2ba087161c?dice_id=Ra2ba087161c]]></description>
+            <link>https://link.dice.fm/Ra2ba087161c?dice_id=Ra2ba087161c</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ra2ba087161c?dice_id=Ra2ba087161c</guid>
             <pubDate>Sat, 27 Jan 2024 02:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bizarre Dance Triangle: DM vs. NIN at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Bizarre Dance Triangle: DM vs. NIN at Mahall’s on Sunday, January 28, 2024, 02:00 AM: https://link.dice.fm/jf3511d79c4e?dice_id=jf3511d79c4e]]></description>
+            <link>https://link.dice.fm/jf3511d79c4e?dice_id=jf3511d79c4e</link>
+            <guid isPermaLink="true">https://link.dice.fm/jf3511d79c4e?dice_id=jf3511d79c4e</guid>
+            <pubDate>Sun, 28 Jan 2024 02:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meet Me @ The Altar: Say It To My Face Tour at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Meet Me @ The Altar: Say It To My Face Tour at Mahall’s on Thursday, February 1, 2024, 11:30 PM: https://link.dice.fm/a52d96a03436?dice_id=1635753]]></description>
-            <link>https://link.dice.fm/a52d96a03436?dice_id=1635753</link>
-            <guid isPermaLink="true">https://link.dice.fm/a52d96a03436?dice_id=1635753</guid>
+            <description><![CDATA[Get tickets to Meet Me @ The Altar: Say It To My Face Tour at Mahall’s on Thursday, February 1, 2024, 11:30 PM: https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436]]></description>
+            <link>https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436</link>
+            <guid isPermaLink="true">https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436</guid>
             <pubDate>Thu, 01 Feb 2024 23:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gimme Gimme Disco at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Gimme Gimme Disco at Mahall’s on Saturday, February 3, 2024, 02:00 AM: https://link.dice.fm/n002e3eab957?dice_id=1984019]]></description>
-            <link>https://link.dice.fm/n002e3eab957?dice_id=1984019</link>
-            <guid isPermaLink="true">https://link.dice.fm/n002e3eab957?dice_id=1984019</guid>
+            <description><![CDATA[Get tickets to Gimme Gimme Disco at Mahall’s on Saturday, February 3, 2024, 02:00 AM: https://link.dice.fm/n002e3eab957?dice_id=n002e3eab957]]></description>
+            <link>https://link.dice.fm/n002e3eab957?dice_id=n002e3eab957</link>
+            <guid isPermaLink="true">https://link.dice.fm/n002e3eab957?dice_id=n002e3eab957</guid>
             <pubDate>Sat, 03 Feb 2024 02:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Willi Carlisle at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Willi Carlisle at Mahall’s on Monday, February 5, 2024, 12:00 AM: https://link.dice.fm/L3b58a7f3d7b?dice_id=1848270]]></description>
-            <link>https://link.dice.fm/L3b58a7f3d7b?dice_id=1848270</link>
-            <guid isPermaLink="true">https://link.dice.fm/L3b58a7f3d7b?dice_id=1848270</guid>
+            <description><![CDATA[Get tickets to Willi Carlisle at Mahall’s on Monday, February 5, 2024, 12:00 AM: https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b]]></description>
+            <link>https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b</link>
+            <guid isPermaLink="true">https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b</guid>
             <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holding Absence at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Holding Absence at Mahall’s on Tuesday, February 6, 2024, 11:00 PM: https://link.dice.fm/Se4ab3e1a738?dice_id=1636289]]></description>
-            <link>https://link.dice.fm/Se4ab3e1a738?dice_id=1636289</link>
-            <guid isPermaLink="true">https://link.dice.fm/Se4ab3e1a738?dice_id=1636289</guid>
+            <description><![CDATA[Get tickets to Holding Absence at Mahall’s on Tuesday, February 6, 2024, 11:00 PM: https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738]]></description>
+            <link>https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738</link>
+            <guid isPermaLink="true">https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738</guid>
             <pubDate>Tue, 06 Feb 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mom Rock at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Mom Rock at Mahall’s on Thursday, February 8, 2024, 12:00 AM: https://link.dice.fm/fa0e3d125744?dice_id=2002216]]></description>
-            <link>https://link.dice.fm/fa0e3d125744?dice_id=2002216</link>
-            <guid isPermaLink="true">https://link.dice.fm/fa0e3d125744?dice_id=2002216</guid>
+            <description><![CDATA[Get tickets to Mom Rock at Mahall’s on Thursday, February 8, 2024, 12:00 AM: https://link.dice.fm/fa0e3d125744?dice_id=fa0e3d125744]]></description>
+            <link>https://link.dice.fm/fa0e3d125744?dice_id=fa0e3d125744</link>
+            <guid isPermaLink="true">https://link.dice.fm/fa0e3d125744?dice_id=fa0e3d125744</guid>
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No Vacation at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to No Vacation at Mahall’s on Thursday, February 15, 2024, 12:00 AM: https://link.dice.fm/E104869cec1b?dice_id=1835652]]></description>
-            <link>https://link.dice.fm/E104869cec1b?dice_id=1835652</link>
-            <guid isPermaLink="true">https://link.dice.fm/E104869cec1b?dice_id=1835652</guid>
+            <description><![CDATA[Get tickets to No Vacation at Mahall’s on Thursday, February 15, 2024, 12:00 AM: https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b]]></description>
+            <link>https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b</link>
+            <guid isPermaLink="true">https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b</guid>
             <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chayla Hope's "Be Mine" Valentine's Soiree at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Chayla Hope's "Be Mine" Valentine's Soiree at Mahall’s on Saturday, February 17, 2024, 12:00 AM: https://link.dice.fm/X14cbea55219?dice_id=2001918]]></description>
-            <link>https://link.dice.fm/X14cbea55219?dice_id=2001918</link>
-            <guid isPermaLink="true">https://link.dice.fm/X14cbea55219?dice_id=2001918</guid>
+            <description><![CDATA[Get tickets to Chayla Hope's "Be Mine" Valentine's Soiree at Mahall’s on Saturday, February 17, 2024, 12:00 AM: https://link.dice.fm/X14cbea55219?dice_id=X14cbea55219]]></description>
+            <link>https://link.dice.fm/X14cbea55219?dice_id=X14cbea55219</link>
+            <guid isPermaLink="true">https://link.dice.fm/X14cbea55219?dice_id=X14cbea55219</guid>
             <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cole Chaney at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=1951044]]></description>
-            <link>https://link.dice.fm/Uce0994a921d?dice_id=1951044</link>
-            <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=1951044</guid>
+            <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d]]></description>
+            <link>https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=1768754]]></description>
-            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</link>
-            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=1768754</guid>
+            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0]]></description>
+            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</link>
+            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glixen at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Glixen at Mahall’s on Sunday, February 25, 2024, 12:00 AM: https://link.dice.fm/he2703560fe2?dice_id=2015859]]></description>
-            <link>https://link.dice.fm/he2703560fe2?dice_id=2015859</link>
-            <guid isPermaLink="true">https://link.dice.fm/he2703560fe2?dice_id=2015859</guid>
+            <description><![CDATA[Get tickets to Glixen at Mahall’s on Sunday, February 25, 2024, 12:00 AM: https://link.dice.fm/he2703560fe2?dice_id=he2703560fe2]]></description>
+            <link>https://link.dice.fm/he2703560fe2?dice_id=he2703560fe2</link>
+            <guid isPermaLink="true">https://link.dice.fm/he2703560fe2?dice_id=he2703560fe2</guid>
             <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bit Brigade performs "Mega Man II" and "DuckTales" at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Bit Brigade performs "Mega Man II" and "DuckTales" at Mahall’s on Tuesday, February 27, 2024, 12:00 AM: https://link.dice.fm/b752f5071623?dice_id=1952705]]></description>
-            <link>https://link.dice.fm/b752f5071623?dice_id=1952705</link>
-            <guid isPermaLink="true">https://link.dice.fm/b752f5071623?dice_id=1952705</guid>
+            <description><![CDATA[Get tickets to Bit Brigade performs "Mega Man II" and "DuckTales" at Mahall’s on Tuesday, February 27, 2024, 12:00 AM: https://link.dice.fm/b752f5071623?dice_id=b752f5071623]]></description>
+            <link>https://link.dice.fm/b752f5071623?dice_id=b752f5071623</link>
+            <guid isPermaLink="true">https://link.dice.fm/b752f5071623?dice_id=b752f5071623</guid>
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blonde Redhead at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Blonde Redhead at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/Ac1176c6f9cc?dice_id=1824278]]></description>
-            <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=1824278</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=1824278</guid>
+            <description><![CDATA[Get tickets to Blonde Redhead at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc]]></description>
+            <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</guid>
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hockey Dad at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Hockey Dad at Mahall’s on Thursday, March 7, 2024, 12:00 AM: https://link.dice.fm/B3959620ec40?dice_id=1791846]]></description>
-            <link>https://link.dice.fm/B3959620ec40?dice_id=1791846</link>
-            <guid isPermaLink="true">https://link.dice.fm/B3959620ec40?dice_id=1791846</guid>
+            <description><![CDATA[Get tickets to Hockey Dad at Mahall’s on Thursday, March 7, 2024, 12:00 AM: https://link.dice.fm/B3959620ec40?dice_id=B3959620ec40]]></description>
+            <link>https://link.dice.fm/B3959620ec40?dice_id=B3959620ec40</link>
+            <guid isPermaLink="true">https://link.dice.fm/B3959620ec40?dice_id=B3959620ec40</guid>
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stolen Gin at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Stolen Gin at Mahall’s Apartment on Saturday, March 9, 2024, 12:00 AM: https://link.dice.fm/V42b338eec76?dice_id=1822733]]></description>
-            <link>https://link.dice.fm/V42b338eec76?dice_id=1822733</link>
-            <guid isPermaLink="true">https://link.dice.fm/V42b338eec76?dice_id=1822733</guid>
+            <description><![CDATA[Get tickets to Stolen Gin at Mahall’s Apartment on Saturday, March 9, 2024, 12:00 AM: https://link.dice.fm/V42b338eec76?dice_id=V42b338eec76]]></description>
+            <link>https://link.dice.fm/V42b338eec76?dice_id=V42b338eec76</link>
+            <guid isPermaLink="true">https://link.dice.fm/V42b338eec76?dice_id=V42b338eec76</guid>
             <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joywave at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Joywave at Mahall’s on Sunday, March 10, 2024, 10:30 PM: https://link.dice.fm/F86ac2d72f68?dice_id=1786298]]></description>
-            <link>https://link.dice.fm/F86ac2d72f68?dice_id=1786298</link>
-            <guid isPermaLink="true">https://link.dice.fm/F86ac2d72f68?dice_id=1786298</guid>
+            <description><![CDATA[Get tickets to Joywave at Mahall’s on Sunday, March 10, 2024, 10:30 PM: https://link.dice.fm/F86ac2d72f68?dice_id=F86ac2d72f68]]></description>
+            <link>https://link.dice.fm/F86ac2d72f68?dice_id=F86ac2d72f68</link>
+            <guid isPermaLink="true">https://link.dice.fm/F86ac2d72f68?dice_id=F86ac2d72f68</guid>
             <pubDate>Sun, 10 Mar 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kelsy Karter & The Heroines at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Kelsy Karter & The Heroines at Mahall’s on Sunday, March 10, 2024, 11:00 PM: https://link.dice.fm/v4ba2ce1014e?dice_id=1765817]]></description>
-            <link>https://link.dice.fm/v4ba2ce1014e?dice_id=1765817</link>
-            <guid isPermaLink="true">https://link.dice.fm/v4ba2ce1014e?dice_id=1765817</guid>
+            <description><![CDATA[Get tickets to Kelsy Karter & The Heroines at Mahall’s on Sunday, March 10, 2024, 11:00 PM: https://link.dice.fm/v4ba2ce1014e?dice_id=v4ba2ce1014e]]></description>
+            <link>https://link.dice.fm/v4ba2ce1014e?dice_id=v4ba2ce1014e</link>
+            <guid isPermaLink="true">https://link.dice.fm/v4ba2ce1014e?dice_id=v4ba2ce1014e</guid>
             <pubDate>Sun, 10 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Video Age at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Video Age at Mahall’s on Thursday, March 14, 2024, 11:00 PM: https://link.dice.fm/M31d005f3d08?dice_id=1729005]]></description>
-            <link>https://link.dice.fm/M31d005f3d08?dice_id=1729005</link>
-            <guid isPermaLink="true">https://link.dice.fm/M31d005f3d08?dice_id=1729005</guid>
+            <description><![CDATA[Get tickets to Video Age at Mahall’s on Thursday, March 14, 2024, 11:00 PM: https://link.dice.fm/M31d005f3d08?dice_id=M31d005f3d08]]></description>
+            <link>https://link.dice.fm/M31d005f3d08?dice_id=M31d005f3d08</link>
+            <guid isPermaLink="true">https://link.dice.fm/M31d005f3d08?dice_id=M31d005f3d08</guid>
             <pubDate>Thu, 14 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Noahfinnce at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Noahfinnce at Mahall’s on Friday, March 15, 2024, 10:00 PM: https://link.dice.fm/qcbc74c94666?dice_id=1894575]]></description>
-            <link>https://link.dice.fm/qcbc74c94666?dice_id=1894575</link>
-            <guid isPermaLink="true">https://link.dice.fm/qcbc74c94666?dice_id=1894575</guid>
+            <description><![CDATA[Get tickets to Noahfinnce at Mahall’s on Friday, March 15, 2024, 10:00 PM: https://link.dice.fm/qcbc74c94666?dice_id=qcbc74c94666]]></description>
+            <link>https://link.dice.fm/qcbc74c94666?dice_id=qcbc74c94666</link>
+            <guid isPermaLink="true">https://link.dice.fm/qcbc74c94666?dice_id=qcbc74c94666</guid>
             <pubDate>Fri, 15 Mar 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arm's Length at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Arm's Length at Mahall’s on Sunday, March 17, 2024, 10:30 PM: https://link.dice.fm/D72fa33ab9ba?dice_id=1992376]]></description>
-            <link>https://link.dice.fm/D72fa33ab9ba?dice_id=1992376</link>
-            <guid isPermaLink="true">https://link.dice.fm/D72fa33ab9ba?dice_id=1992376</guid>
+            <description><![CDATA[Get tickets to Arm's Length at Mahall’s on Sunday, March 17, 2024, 10:30 PM: https://link.dice.fm/D72fa33ab9ba?dice_id=D72fa33ab9ba]]></description>
+            <link>https://link.dice.fm/D72fa33ab9ba?dice_id=D72fa33ab9ba</link>
+            <guid isPermaLink="true">https://link.dice.fm/D72fa33ab9ba?dice_id=D72fa33ab9ba</guid>
             <pubDate>Sun, 17 Mar 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Between You & Me at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Between You & Me at Mahall’s on Monday, March 18, 2024, 10:00 PM: https://link.dice.fm/M7d744b3a77c?dice_id=1897444]]></description>
-            <link>https://link.dice.fm/M7d744b3a77c?dice_id=1897444</link>
-            <guid isPermaLink="true">https://link.dice.fm/M7d744b3a77c?dice_id=1897444</guid>
+            <description><![CDATA[Get tickets to Between You & Me at Mahall’s on Monday, March 18, 2024, 10:00 PM: https://link.dice.fm/M7d744b3a77c?dice_id=M7d744b3a77c]]></description>
+            <link>https://link.dice.fm/M7d744b3a77c?dice_id=M7d744b3a77c</link>
+            <guid isPermaLink="true">https://link.dice.fm/M7d744b3a77c?dice_id=M7d744b3a77c</guid>
             <pubDate>Mon, 18 Mar 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arden Jones at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Arden Jones at Mahall’s on Saturday, March 30, 2024, 11:00 PM: https://link.dice.fm/U0c6e44bc3c4?dice_id=2018313]]></description>
-            <link>https://link.dice.fm/U0c6e44bc3c4?dice_id=2018313</link>
-            <guid isPermaLink="true">https://link.dice.fm/U0c6e44bc3c4?dice_id=2018313</guid>
+            <description><![CDATA[Get tickets to Arden Jones at Mahall’s on Saturday, March 30, 2024, 11:00 PM: https://link.dice.fm/U0c6e44bc3c4?dice_id=U0c6e44bc3c4]]></description>
+            <link>https://link.dice.fm/U0c6e44bc3c4?dice_id=U0c6e44bc3c4</link>
+            <guid isPermaLink="true">https://link.dice.fm/U0c6e44bc3c4?dice_id=U0c6e44bc3c4</guid>
             <pubDate>Sat, 30 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Glass Beach at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Glass Beach at Mahall’s on Tuesday, April 2, 2024, 10:00 PM: https://link.dice.fm/b13b1b1a9ca3?dice_id=1796868]]></description>
-            <link>https://link.dice.fm/b13b1b1a9ca3?dice_id=1796868</link>
-            <guid isPermaLink="true">https://link.dice.fm/b13b1b1a9ca3?dice_id=1796868</guid>
+            <description><![CDATA[Get tickets to Glass Beach at Mahall’s on Tuesday, April 2, 2024, 10:00 PM: https://link.dice.fm/b13b1b1a9ca3?dice_id=b13b1b1a9ca3]]></description>
+            <link>https://link.dice.fm/b13b1b1a9ca3?dice_id=b13b1b1a9ca3</link>
+            <guid isPermaLink="true">https://link.dice.fm/b13b1b1a9ca3?dice_id=b13b1b1a9ca3</guid>
             <pubDate>Tue, 02 Apr 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jeff Rosenstock at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Jeff Rosenstock at Mahall’s on Thursday, April 4, 2024, 11:00 PM: https://link.dice.fm/Yfe527ea4de7?dice_id=1814766]]></description>
-            <link>https://link.dice.fm/Yfe527ea4de7?dice_id=1814766</link>
-            <guid isPermaLink="true">https://link.dice.fm/Yfe527ea4de7?dice_id=1814766</guid>
+            <description><![CDATA[Get tickets to Jeff Rosenstock at Mahall’s on Thursday, April 4, 2024, 11:00 PM: https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7]]></description>
+            <link>https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7</link>
+            <guid isPermaLink="true">https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7</guid>
             <pubDate>Thu, 04 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unprocessed at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Unprocessed at Mahall’s on Friday, April 5, 2024, 11:00 PM: https://link.dice.fm/W36e2339d3e7?dice_id=1761027]]></description>
-            <link>https://link.dice.fm/W36e2339d3e7?dice_id=1761027</link>
-            <guid isPermaLink="true">https://link.dice.fm/W36e2339d3e7?dice_id=1761027</guid>
+            <description><![CDATA[Get tickets to Unprocessed at Mahall’s on Friday, April 5, 2024, 11:00 PM: https://link.dice.fm/W36e2339d3e7?dice_id=W36e2339d3e7]]></description>
+            <link>https://link.dice.fm/W36e2339d3e7?dice_id=W36e2339d3e7</link>
+            <guid isPermaLink="true">https://link.dice.fm/W36e2339d3e7?dice_id=W36e2339d3e7</guid>
             <pubDate>Fri, 05 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hail The Sun and Intervals: Spring 2024 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Hail The Sun and Intervals: Spring 2024 at Mahall’s on Thursday, April 11, 2024, 10:30 PM: https://link.dice.fm/pa4707eaa4f3?dice_id=1992396]]></description>
-            <link>https://link.dice.fm/pa4707eaa4f3?dice_id=1992396</link>
-            <guid isPermaLink="true">https://link.dice.fm/pa4707eaa4f3?dice_id=1992396</guid>
+            <description><![CDATA[Get tickets to Hail The Sun and Intervals: Spring 2024 at Mahall’s on Thursday, April 11, 2024, 10:30 PM: https://link.dice.fm/pa4707eaa4f3?dice_id=pa4707eaa4f3]]></description>
+            <link>https://link.dice.fm/pa4707eaa4f3?dice_id=pa4707eaa4f3</link>
+            <guid isPermaLink="true">https://link.dice.fm/pa4707eaa4f3?dice_id=pa4707eaa4f3</guid>
             <pubDate>Thu, 11 Apr 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Big Something: Headspace Tour at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Big Something: Headspace Tour at Mahall’s on Thursday, April 11, 2024, 11:00 PM: https://link.dice.fm/md45554ce3c8?dice_id=1539094]]></description>
-            <link>https://link.dice.fm/md45554ce3c8?dice_id=1539094</link>
-            <guid isPermaLink="true">https://link.dice.fm/md45554ce3c8?dice_id=1539094</guid>
+            <description><![CDATA[Get tickets to Big Something: Headspace Tour at Mahall’s on Thursday, April 11, 2024, 11:00 PM: https://link.dice.fm/md45554ce3c8?dice_id=md45554ce3c8]]></description>
+            <link>https://link.dice.fm/md45554ce3c8?dice_id=md45554ce3c8</link>
+            <guid isPermaLink="true">https://link.dice.fm/md45554ce3c8?dice_id=md45554ce3c8</guid>
             <pubDate>Thu, 11 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Real Estate - Infinite Jangle Tour at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Real Estate - Infinite Jangle Tour at Mahall’s on Friday, April 12, 2024, 11:00 PM: https://link.dice.fm/y97afef68914?dice_id=1854148]]></description>
-            <link>https://link.dice.fm/y97afef68914?dice_id=1854148</link>
-            <guid isPermaLink="true">https://link.dice.fm/y97afef68914?dice_id=1854148</guid>
+            <description><![CDATA[Get tickets to Real Estate - Infinite Jangle Tour at Mahall’s on Friday, April 12, 2024, 11:00 PM: https://link.dice.fm/y97afef68914?dice_id=y97afef68914]]></description>
+            <link>https://link.dice.fm/y97afef68914?dice_id=y97afef68914</link>
+            <guid isPermaLink="true">https://link.dice.fm/y97afef68914?dice_id=y97afef68914</guid>
             <pubDate>Fri, 12 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sweet Pill at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Sweet Pill at Mahall’s on Sunday, April 14, 2024, 11:00 PM: https://link.dice.fm/G6a619c4f520?dice_id=1976956]]></description>
-            <link>https://link.dice.fm/G6a619c4f520?dice_id=1976956</link>
-            <guid isPermaLink="true">https://link.dice.fm/G6a619c4f520?dice_id=1976956</guid>
+            <description><![CDATA[Get tickets to Sweet Pill at Mahall’s on Sunday, April 14, 2024, 11:00 PM: https://link.dice.fm/G6a619c4f520?dice_id=G6a619c4f520]]></description>
+            <link>https://link.dice.fm/G6a619c4f520?dice_id=G6a619c4f520</link>
+            <guid isPermaLink="true">https://link.dice.fm/G6a619c4f520?dice_id=G6a619c4f520</guid>
             <pubDate>Sun, 14 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soft Kill at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Soft Kill at Mahall’s on Wednesday, April 24, 2024, 10:00 PM: https://link.dice.fm/Sf355e0c6290?dice_id=1894963]]></description>
-            <link>https://link.dice.fm/Sf355e0c6290?dice_id=1894963</link>
-            <guid isPermaLink="true">https://link.dice.fm/Sf355e0c6290?dice_id=1894963</guid>
+            <description><![CDATA[Get tickets to Soft Kill at Mahall’s on Wednesday, April 24, 2024, 10:00 PM: https://link.dice.fm/Sf355e0c6290?dice_id=Sf355e0c6290]]></description>
+            <link>https://link.dice.fm/Sf355e0c6290?dice_id=Sf355e0c6290</link>
+            <guid isPermaLink="true">https://link.dice.fm/Sf355e0c6290?dice_id=Sf355e0c6290</guid>
             <pubDate>Wed, 24 Apr 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cheekface at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Cheekface at Mahall’s on Saturday, May 4, 2024, 11:00 PM: https://link.dice.fm/u7e36691bdb6?dice_id=1894860]]></description>
-            <link>https://link.dice.fm/u7e36691bdb6?dice_id=1894860</link>
-            <guid isPermaLink="true">https://link.dice.fm/u7e36691bdb6?dice_id=1894860</guid>
+            <description><![CDATA[Get tickets to Cheekface at Mahall’s on Saturday, May 4, 2024, 11:00 PM: https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6]]></description>
+            <link>https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6</link>
+            <guid isPermaLink="true">https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6</guid>
             <pubDate>Sat, 04 May 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soen at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Soen at Mahall’s on Wednesday, May 8, 2024, 10:30 PM: https://link.dice.fm/Tda2fa30b6c3?dice_id=1472623]]></description>
-            <link>https://link.dice.fm/Tda2fa30b6c3?dice_id=1472623</link>
-            <guid isPermaLink="true">https://link.dice.fm/Tda2fa30b6c3?dice_id=1472623</guid>
+            <description><![CDATA[Get tickets to Soen at Mahall’s on Wednesday, May 8, 2024, 10:30 PM: https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3]]></description>
+            <link>https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3</link>
+            <guid isPermaLink="true">https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3</guid>
             <pubDate>Wed, 08 May 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jeffrey Martin at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Jeffrey Martin at Mahall’s on Thursday, May 16, 2024, 11:00 PM: https://link.dice.fm/ndd45cda1606?dice_id=1430696]]></description>
-            <link>https://link.dice.fm/ndd45cda1606?dice_id=1430696</link>
-            <guid isPermaLink="true">https://link.dice.fm/ndd45cda1606?dice_id=1430696</guid>
+            <description><![CDATA[Get tickets to Jeffrey Martin at Mahall’s on Thursday, May 16, 2024, 11:00 PM: https://link.dice.fm/ndd45cda1606?dice_id=ndd45cda1606]]></description>
+            <link>https://link.dice.fm/ndd45cda1606?dice_id=ndd45cda1606</link>
+            <guid isPermaLink="true">https://link.dice.fm/ndd45cda1606?dice_id=ndd45cda1606</guid>
             <pubDate>Thu, 16 May 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Los Campesinos! at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Los Campesinos! at Mahall’s on Friday, June 21, 2024, 11:00 PM: https://link.dice.fm/f53f6c428bf6?dice_id=1803157]]></description>
-            <link>https://link.dice.fm/f53f6c428bf6?dice_id=1803157</link>
-            <guid isPermaLink="true">https://link.dice.fm/f53f6c428bf6?dice_id=1803157</guid>
+            <description><![CDATA[Get tickets to Los Campesinos! at Mahall’s on Friday, June 21, 2024, 11:00 PM: https://link.dice.fm/f53f6c428bf6?dice_id=f53f6c428bf6]]></description>
+            <link>https://link.dice.fm/f53f6c428bf6?dice_id=f53f6c428bf6</link>
+            <guid isPermaLink="true">https://link.dice.fm/f53f6c428bf6?dice_id=f53f6c428bf6</guid>
             <pubDate>Fri, 21 Jun 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wheatus at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Wheatus at Mahall’s on Thursday, August 15, 2024, 11:00 PM: https://link.dice.fm/S826b6f9f8ca?dice_id=1992693]]></description>
-            <link>https://link.dice.fm/S826b6f9f8ca?dice_id=1992693</link>
-            <guid isPermaLink="true">https://link.dice.fm/S826b6f9f8ca?dice_id=1992693</guid>
+            <description><![CDATA[Get tickets to Wheatus at Mahall’s on Thursday, August 15, 2024, 11:00 PM: https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca]]></description>
+            <link>https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca</link>
+            <guid isPermaLink="true">https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca</guid>
             <pubDate>Thu, 15 Aug 2024 23:00:00 GMT</pubDate>
         </item>
     </channel>

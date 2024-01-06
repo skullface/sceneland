@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Jaxsaun",
-      "Allthehipe",
-      "Will Cherry"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry",
-    "date": "2024-01-04T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The Whiskey Daredevils"
     ],
     "link": "https://www.beachlandballroom.com/e/13279153/the-whiskey-daredevils",
@@ -267,6 +257,14 @@
     "link": "https://www.beachlandballroom.com/e/13285403/school-of-rock",
     "date": "2024-01-28T11:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Eddie 9V"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13399913/eddie-9v",
+    "date": "2024-01-30T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -673,6 +671,17 @@
   },
   {
     "artist": [
+      "Adam Paddock",
+      "The Meatball Mob",
+      "Flavor Wave",
+      "Emma Bieniewicz"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13342933/adam-paddock-the-meatball-mob-flavor-wave-emma-bieniewicz",
+    "date": "2024-04-06T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Nicotine Dolls"
     ],
     "link": "https://www.beachlandballroom.com/e/13323663/nicotine-dolls",
@@ -721,6 +730,15 @@
     "link": "https://www.beachlandballroom.com/e/13324263/qwanqwa",
     "date": "2024-04-16T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Steve'n'Seagulls",
+      "Dig Deep"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13391573/steve-n-seagulls-dig-deep",
+    "date": "2024-04-16T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Jaxsaun', 'Allthehipe', 'Will Cherry'],
-    link: 'https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry',
-    date: '2024-01-04T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['The Whiskey Daredevils'],
     link: 'https://www.beachlandballroom.com/e/13279153/the-whiskey-daredevils',
     date: '2024-01-05T20:00:00',
@@ -197,6 +191,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13285403/school-of-rock',
     date: '2024-01-28T11:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Eddie 9V'],
+    link: 'https://www.beachlandballroom.com/e/13399913/eddie-9v',
+    date: '2024-01-30T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Bumpin Uglies', 'The Grilled Lincolns', 'Higher Education'],
@@ -500,6 +500,17 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: [
+      'Adam Paddock',
+      'The Meatball Mob',
+      'Flavor Wave',
+      'Emma Bieniewicz',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13342933/adam-paddock-the-meatball-mob-flavor-wave-emma-bieniewicz',
+    date: '2024-04-06T20:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Nicotine Dolls'],
     link: 'https://www.beachlandballroom.com/e/13323663/nicotine-dolls',
     date: '2024-04-08T20:00:00',
@@ -534,6 +545,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13324263/qwanqwa',
     date: '2024-04-16T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ["Steve'n'Seagulls", 'Dig Deep'],
+    link: 'https://www.beachlandballroom.com/e/13391573/steve-n-seagulls-dig-deep',
+    date: '2024-04-16T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Ruen Brothers'],
@@ -722,12 +739,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2025-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Motion City Soundtrack: I Am The Movie 20th Anniversary Tour'],
-    link: 'https://concerts.livenation.com/motion-city-soundtrack-i-am-the-cleveland-ohio-01-05-2024/event/05005F4F11D8532E',
-    date: '2024-01-05T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Holiday Hangover feat. Old Skool'],
@@ -1337,12 +1348,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['FREE WEEKEND', 'Youth Pallet', 'Clare Feorene', 'Non Bruises'],
-    link: 'https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises',
-    date: '2024-01-05T20:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'FREE WEEKEND',
       'Pill\u200b\u00e4\u200brs',
@@ -1416,8 +1421,11 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Andrew Lloyd Birthday Party/ Independent artist concert'],
-    link: 'https://grogshop.gs/event-details/13317843/andrew-lloyd-birthday-party-independent-artist-concert',
+    artist: [
+      'Winter Fest "Official Birthday Celebration for Andrew "Big Bric" LLoyd',
+      'Andrew Lloyd',
+    ],
+    link: 'https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd',
     date: '2024-01-14T19:30:00',
     venue: 'Grog Shop',
   },
@@ -1528,6 +1536,16 @@ export const allShows = [
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-02-05T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      "'Buffalo comes to Cleveland' ft. Johnny Hart and the Mess",
+      'Sam Brenner',
+      'AJ & The Woods',
+    ],
+    link: 'https://grogshop.gs/event-details/13400213/-buffalo-comes-to-cleveland-ft-johnny-hart-and-the-mess-sam-brenner-aj-the-woods',
+    date: '2024-02-08T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2028,6 +2046,12 @@ export const allShows = [
   },
   {
     artist: ['The Celtic Tenors \u2013 Celebrating 25 Years'],
+    link: 'https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05006025D4A241AD',
+    date: '2024-03-19T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['The Celtic Tenors \u2013 Celebrating 25 Years'],
     link: 'https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05005F7B8B9A10DB',
     date: '2024-03-19T20:00:00',
     venue: 'Masonic Temple',
@@ -2073,12 +2097,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['This Summer'],
-    link: 'https://link.dice.fm/Jb451092657e?dice_id=Jb451092657e',
-    date: '2024-01-05T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['DRIXY'],

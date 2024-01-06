@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jan 2024 09:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 09:05:35 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Jaxsaun, Allthehipe, Will Cherry at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Jaxsaun, Allthehipe, Will Cherry at Beachland Tavern on Thursday, January 4, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry]]></description>
-            <link>https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13262713/jaxsaun-allthehipe-will-cherry</guid>
-            <pubDate>Thu, 04 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Whiskey Daredevils at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to The Whiskey Daredevils at Beachland Tavern on Friday, January 5, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13279153/the-whiskey-daredevils]]></description>
@@ -208,6 +201,13 @@
             <link>https://www.beachlandballroom.com/e/13285403/school-of-rock</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13285403/school-of-rock</guid>
             <pubDate>Sun, 28 Jan 2024 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eddie 9V at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Eddie 9V at Beachland Tavern on Tuesday, January 30, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13399913/eddie-9v]]></description>
+            <link>https://www.beachlandballroom.com/e/13399913/eddie-9v</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13399913/eddie-9v</guid>
+            <pubDate>Tue, 30 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bumpin Uglies, The Grilled Lincolns, Higher Education at Beachland Ballroom]]></title>
@@ -525,6 +525,13 @@
             <pubDate>Fri, 05 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Adam Paddock, The Meatball Mob, Flavor Wave, Emma Bieniewicz at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Adam Paddock, The Meatball Mob, Flavor Wave, Emma Bieniewicz at Beachland Tavern on Saturday, April 6, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13342933/adam-paddock-the-meatball-mob-flavor-wave-emma-bieniewicz]]></description>
+            <link>https://www.beachlandballroom.com/e/13342933/adam-paddock-the-meatball-mob-flavor-wave-emma-bieniewicz</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13342933/adam-paddock-the-meatball-mob-flavor-wave-emma-bieniewicz</guid>
+            <pubDate>Sat, 06 Apr 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nicotine Dolls at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Nicotine Dolls at Beachland Ballroom on Monday, April 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13323663/nicotine-dolls]]></description>
             <link>https://www.beachlandballroom.com/e/13323663/nicotine-dolls</link>
@@ -564,6 +571,13 @@
             <description><![CDATA[Get tickets to Qwanqwa at Beachland Tavern on Tuesday, April 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13324263/qwanqwa]]></description>
             <link>https://www.beachlandballroom.com/e/13324263/qwanqwa</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13324263/qwanqwa</guid>
+            <pubDate>Tue, 16 Apr 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steve'n'Seagulls, Dig Deep at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Steve'n'Seagulls, Dig Deep at Beachland Ballroom on Tuesday, April 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13391573/steve-n-seagulls-dig-deep]]></description>
+            <link>https://www.beachlandballroom.com/e/13391573/steve-n-seagulls-dig-deep</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13391573/steve-n-seagulls-dig-deep</guid>
             <pubDate>Tue, 16 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -768,13 +782,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motion City Soundtrack: I Am The Movie 20th Anniversary Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Motion City Soundtrack: I Am The Movie 20th Anniversary Tour at House of Blues on Friday, January 5, 2024, 07:00 PM: https://concerts.livenation.com/motion-city-soundtrack-i-am-the-cleveland-ohio-01-05-2024/event/05005F4F11D8532E]]></description>
-            <link>https://concerts.livenation.com/motion-city-soundtrack-i-am-the-cleveland-ohio-01-05-2024/event/05005F4F11D8532E</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/motion-city-soundtrack-i-am-the-cleveland-ohio-01-05-2024/event/05005F4F11D8532E</guid>
-            <pubDate>Fri, 05 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Holiday Hangover feat. Old Skool at House of Blues]]></title>
@@ -1477,13 +1484,6 @@
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FREE WEEKEND, Youth Pallet, Clare Feorene, Non Bruises at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to FREE WEEKEND, Youth Pallet, Clare Feorene, Non Bruises at Grog Shop on Friday, January 5, 2024, 08:30 PM: https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises]]></description>
-            <link>https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13323993/free-weekend-w-youth-pallet-clare-feorene-non-bruises</guid>
-            <pubDate>Fri, 05 Jan 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[FREE WEEKEND, Pill​ä​rs, the 3rd PYRAMID band, Kill The Hippies, Skwerm, Pillärs at Grog Shop]]></title>
             <description><![CDATA[Get tickets to FREE WEEKEND, Pill​ä​rs, the 3rd PYRAMID band, Kill The Hippies, Skwerm, Pillärs at Grog Shop on Saturday, January 6, 2024, 09:00 PM: https://grogshop.gs/event-details/13318343/free-weekend-w-pill-rs-the-3rd-pyramid-band-kill-the-hippies-skwerm]]></description>
             <link>https://grogshop.gs/event-details/13318343/free-weekend-w-pill-rs-the-3rd-pyramid-band-kill-the-hippies-skwerm</link>
@@ -1533,10 +1533,10 @@
             <pubDate>Sat, 13 Jan 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andrew Lloyd Birthday Party/ Independent artist concert at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Andrew Lloyd Birthday Party/ Independent artist concert at Grog Shop on Sunday, January 14, 2024, 07:30 PM: https://grogshop.gs/event-details/13317843/andrew-lloyd-birthday-party-independent-artist-concert]]></description>
-            <link>https://grogshop.gs/event-details/13317843/andrew-lloyd-birthday-party-independent-artist-concert</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13317843/andrew-lloyd-birthday-party-independent-artist-concert</guid>
+            <title><![CDATA[Winter Fest "Official Birthday Celebration for Andrew "Big Bric" LLoyd, Andrew Lloyd at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Winter Fest "Official Birthday Celebration for Andrew "Big Bric" LLoyd, Andrew Lloyd at Grog Shop on Sunday, January 14, 2024, 07:30 PM: https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd]]></description>
+            <link>https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd</guid>
             <pubDate>Sun, 14 Jan 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1657,6 +1657,13 @@
             <link>https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
             <pubDate>Mon, 05 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Buffalo comes to Cleveland' ft. Johnny Hart and the Mess, Sam Brenner, AJ & The Woods at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to 'Buffalo comes to Cleveland' ft. Johnny Hart and the Mess, Sam Brenner, AJ & The Woods at Grog Shop on Thursday, February 8, 2024, 08:00 PM: https://grogshop.gs/event-details/13400213/-buffalo-comes-to-cleveland-ft-johnny-hart-and-the-mess-sam-brenner-aj-the-woods]]></description>
+            <link>https://grogshop.gs/event-details/13400213/-buffalo-comes-to-cleveland-ft-johnny-hart-and-the-mess-sam-brenner-aj-the-woods</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13400213/-buffalo-comes-to-cleveland-ft-johnny-hart-and-the-mess-sam-brenner-aj-the-woods</guid>
+            <pubDate>Thu, 08 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Siena Liggins: The FLOOZY Tour, Daisha McBride, Namejai at Grog Shop]]></title>
@@ -2192,6 +2199,13 @@
         </item>
         <item>
             <title><![CDATA[The Celtic Tenors – Celebrating 25 Years at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to The Celtic Tenors – Celebrating 25 Years at Masonic Temple on Tuesday, March 19, 2024, 08:00 PM: https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05006025D4A241AD]]></description>
+            <link>https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05006025D4A241AD</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05006025D4A241AD</guid>
+            <pubDate>Tue, 19 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Celtic Tenors – Celebrating 25 Years at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to The Celtic Tenors – Celebrating 25 Years at Masonic Temple on Tuesday, March 19, 2024, 08:00 PM: https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05005F7B8B9A10DB]]></description>
             <link>https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05005F7B8B9A10DB</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05005F7B8B9A10DB</guid>
@@ -2245,13 +2259,6 @@
             <link>https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</guid>
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Summer at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to This Summer at Mahall’s on Saturday, January 6, 2024, 12:00 AM: https://link.dice.fm/Jb451092657e?dice_id=Jb451092657e]]></description>
-            <link>https://link.dice.fm/Jb451092657e?dice_id=Jb451092657e</link>
-            <guid isPermaLink="true">https://link.dice.fm/Jb451092657e?dice_id=Jb451092657e</guid>
-            <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DRIXY at Mahall’s]]></title>

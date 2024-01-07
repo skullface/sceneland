@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['The Whiskey Daredevils'],
-    link: 'https://www.beachlandballroom.com/e/13279153/the-whiskey-daredevils',
-    date: '2024-01-05T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Saturday Brunch'],
-    link: 'https://www.beachlandballroom.com/e/13379963/saturday-brunch',
-    date: '2024-01-06T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Wish Queen', 'UNBYUL', 'Charity Evonna'],
     link: 'https://www.beachlandballroom.com/e/13276263/wish-queen-unbyul-charity-evonna',
     date: '2024-01-06T20:00:00',
@@ -741,12 +729,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Holiday Hangover feat. Old Skool'],
-    link: 'https://concerts.livenation.com/holiday-hangover-feat-old-skool-cleveland-ohio-01-06-2024/event/05005F540D126EB1',
-    date: '2024-01-06T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['The Fleetwood Mac Experience'],
     link: 'https://concerts.livenation.com/the-fleetwood-mac-experience-cleveland-ohio-01-12-2024/event/05005F74DD782966',
     date: '2024-01-12T19:00:00',
@@ -1185,18 +1167,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Freedom in Chains, Skeptic Lens, Ash Hollow, Left Unsaid'],
-    link: 'https://www.foundryconcertclub.com/tm-event/freedom-in-chains-skeptic-lens-ash-hollow-left-unsaid/',
-    date: '2024-01-05T19:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['KNOTEK\u2019S BANGER BLENDER'],
-    link: 'https://www.foundryconcertclub.com/tm-event/knoteks-banger-blender/',
-    date: '2024-01-06T21:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: [
       'FREE BAR SHOW W/ WEDNESDAY DEMONSTRATION, WASTED SOCIETY, DANGER!, AND ARTIFICIAL SK8R',
     ],
@@ -1346,19 +1316,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      'FREE WEEKEND',
-      'Pill\u200b\u00e4\u200brs',
-      'the 3rd PYRAMID band',
-      'Kill The Hippies',
-      'Skwerm',
-      'Pill\u00e4rs',
-    ],
-    link: 'https://grogshop.gs/event-details/13318343/free-weekend-w-pill-rs-the-3rd-pyramid-band-kill-the-hippies-skwerm',
-    date: '2024-01-06T21:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1775,12 +1732,6 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ['Story of the Year, We the Kings, Youth Fountain'],
-    link: 'https://www.agoracleveland.com/events/detail/498046',
-    date: '2024-01-06T18:30:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Ventana, Psyclon Nine, Psychostick, Crossbreed'],
     link: 'https://www.agoracleveland.com/events/detail/509821',
     date: '2024-01-13T18:30:00',
@@ -2099,12 +2050,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['DRIXY'],
-    link: 'https://link.dice.fm/B5b5df216223?dice_id=B5b5df216223',
-    date: '2024-01-06T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ["Frank's 25th birthday w/ Radio Dummies"],
     link: 'https://link.dice.fm/V601508e5f8e?dice_id=V601508e5f8e',
     date: '2024-01-07T19:00:00-05:00',
@@ -2201,14 +2146,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },

@@ -1,23 +1,5 @@
 export const allShows = [
   {
-    artist: ['Wish Queen', 'UNBYUL', 'Charity Evonna'],
-    link: 'https://www.beachlandballroom.com/e/13276263/wish-queen-unbyul-charity-evonna',
-    date: '2024-01-06T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['The FM Project (Steely Dan Tribute Band)'],
-    link: 'https://www.beachlandballroom.com/e/13819888/the-fm-project-steely-dan-tribute-band-',
-    date: '2024-01-06T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Home & Garden', 'Duo Decibel System', 'Anita Keys & Friends'],
-    link: 'https://www.beachlandballroom.com/e/13376323/home-garden-duo-decibel-system-anita-keys-friends',
-    date: '2024-01-07T18:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Blues Jam: Hosted by King Pins'],
     link: 'https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins',
     date: '2024-01-08T19:30:00',
@@ -1053,12 +1035,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Elvis Tribute Artist Spectacular'],
-    link: 'https://www.playhousesquare.org/events/detail/elvis-tribute-artist-spectacular-2',
-    date: '2024-01-07',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Tri-C 47th Annual MLK Celebration'],
     link: 'https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration',
     date: '2024-01-14',
@@ -1165,14 +1141,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: [
-      'FREE BAR SHOW W/ WEDNESDAY DEMONSTRATION, WASTED SOCIETY, DANGER!, AND ARTIFICIAL SK8R',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/free-bar-show-w-wednesday-demonstration-wasted-society-danger-and-artificial-sk8r/',
-    date: '2024-01-07T18:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['MOVIE NIGHT MONDAY'],
@@ -1316,21 +1284,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      'FREE WEEKEND',
-      'Madstarr',
-      'Ghutty Mac',
-      'Lil Jesse/ Retro Pharaoh',
-      'Unruly',
-      'MJ The Artist',
-      'Frank Hunter',
-      'Dj Scottradamus',
-    ],
-    link: 'https://grogshop.gs/event-details/13318373/free-weekend-w-madstarr-ghutty-mac-lil-jesse-retro-pharaoh-unruly',
-    date: '2024-01-07T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Midnight Rental presents Secret Movie Night'],
@@ -2050,12 +2003,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ["Frank's 25th birthday w/ Radio Dummies"],
-    link: 'https://link.dice.fm/V601508e5f8e?dice_id=V601508e5f8e',
-    date: '2024-01-07T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Arbi'],
     link: 'https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c',
     date: '2024-01-12T19:00:00-05:00',
@@ -2146,14 +2093,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },

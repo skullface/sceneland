@@ -20,6 +20,14 @@ for url_page in url_pages:
     excluded_keywords = ['Musical', 'Christmas']
     return any(keyword in text for keyword in excluded_keywords)
 
+  def get_month_number(month_str):
+    if len(month_str) == 3:
+      return datetime.strptime(month_str, '%b').month
+    elif len(month_str) == 4:
+      return datetime.strptime(month_str, '%B').month
+    else:
+      raise ValueError(f"Invalid month format: {month_str}")
+
   for show in shows:
     all_shows_data = {}
 
@@ -36,7 +44,7 @@ for url_page in url_pages:
       day = datetime.strptime(day, '%d').day
       
       month = show.find('span', class_='m-date__month').text.strip()
-      month_number = datetime.strptime(month, '%b').month
+      month_number = get_month_number(month)
       
       year = show.find('span', class_='m-date__year')
       year = year.text.strip().replace(', ', '')

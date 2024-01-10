@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Blues Jam: Hosted by King Pins"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13365323/blues-jam-hosted-by-king-pins",
-    "date": "2024-01-08T19:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Goodmorning Valentine"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13379923/goodmorning-valentine",
-    "date": "2024-01-09T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Voices of the Land: Acoustic Showcase",
       "Taylor Lamborn",
       "Ester Fitz",
@@ -122,6 +106,14 @@
   },
   {
     "artist": [
+      "Saturday Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13409893/saturday-brunch",
+    "date": "2024-01-20T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Revival ABB"
     ],
     "link": "https://www.beachlandballroom.com/e/13315493/revival-abb",
@@ -176,9 +168,10 @@
       "Jinari Kemet",
       "Zup",
       "Marcus Smith",
+      "akaFayaven",
       "Hosted by Toby Raps"
     ],
-    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-hosted-by-toby-raps",
+    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-akafayaven-hosted-by-toby-raps",
     "date": "2024-01-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -216,14 +209,6 @@
   },
   {
     "artist": [
-      "Eddie 9V"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13399913/eddie-9v",
-    "date": "2024-01-30T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Bumpin Uglies",
       "The Grilled Lincolns",
       "Higher Education"
@@ -234,10 +219,10 @@
   },
   {
     "artist": [
-      "Post Party with",
+      "Post Party",
       "Joint Operation"
     ],
-    "link": "https://www.beachlandballroom.com/e/13383653/post-party-with-joint-operation",
+    "link": "https://www.beachlandballroom.com/e/13383653/post-party-joint-operation",
     "date": "2024-02-03T18:00:00",
     "venue": "Beachland Tavern"
   },
@@ -294,6 +279,14 @@
   },
   {
     "artist": [
+      "13th Annual Sweetheart Showcase: Strip-o-rama"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13410123/13th-annual-sweetheart-showcase-strip-o-rama",
+    "date": "2024-02-10T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Deap Vally",
       "Sloppy Jane"
     ],
@@ -312,9 +305,10 @@
   {
     "artist": [
       "Yuma Abe",
-      "Songs for an Unknown God"
+      "Songs for an Unknown God",
+      "DJ Teddy Eisenberg"
     ],
-    "link": "https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god",
+    "link": "https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god-dj-teddy-eisenberg",
     "date": "2024-02-15T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -382,6 +376,14 @@
   },
   {
     "artist": [
+      "Ike Reilly"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13388693/ike-reilly",
+    "date": "2024-02-24T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Tyler Ramsey",
       "Kramies"
     ],
@@ -409,9 +411,10 @@
   },
   {
     "artist": [
-      "Maddie Zahm"
+      "Maddie Zahm",
+      "Leeana Firestone"
     ],
-    "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm",
+    "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm-leeana-firestone",
     "sold_out": true,
     "date": "2024-03-02T20:00:00",
     "venue": "Beachland Ballroom"
@@ -706,12 +709,28 @@
   },
   {
     "artist": [
+      "BODEGA"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13399993/bodega",
+    "date": "2024-04-22T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "The Delta Bombers",
       "IV and the Strange Band"
     ],
     "link": "https://www.beachlandballroom.com/e/13323853/the-delta-bombers-iv-and-the-strange-band",
     "date": "2024-04-24T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Danielle Nicole"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13400123/danielle-nicole",
+    "date": "2024-04-25T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -738,6 +757,14 @@
     "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
     "date": "2024-05-17T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Kevin Gordon Trio"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio",
+    "date": "2024-06-22T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

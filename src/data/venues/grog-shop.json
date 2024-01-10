@@ -138,7 +138,8 @@
   {
     "artist": [
       "Mourning [A] BLKstar",
-      "Trash TV"
+      "Trash TV",
+      "Namejai"
     ],
     "link": "https://grogshop.gs/event-details/13332033/mourning-a-blkstar",
     "date": "2024-01-26T20:30:00",
@@ -198,14 +199,6 @@
     "link": "https://grogshop.gs/event-details/13723678/the-record-company-roll-with-it-tour",
     "sold_out": true,
     "date": "2024-02-03T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "PEEZY: The GHETTO Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13626948/peezy-the-ghetto-tour",
-    "date": "2024-02-04T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -332,6 +325,17 @@
   },
   {
     "artist": [
+      "The Groovy Roots",
+      "Big Blitz",
+      "Unc D"
+    ],
+    "link": "https://grogshop.gs/event-details/13417243/the-groovy-roots-big-blitz-unc-d",
+    "sold_out": true,
+    "date": "2024-03-02T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "BabyTron"
     ],
     "link": "https://grogshop.gs/event-details/13853798/babytron",
@@ -356,6 +360,16 @@
     ],
     "link": "https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour",
     "date": "2024-03-08T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Tossers",
+      "Brazen Rogues",
+      "Forlorn United"
+    ],
+    "link": "https://grogshop.gs/event-details/13400093/the-tossers",
+    "date": "2024-03-09T20:30:00",
     "venue": "Grog Shop"
   },
   {

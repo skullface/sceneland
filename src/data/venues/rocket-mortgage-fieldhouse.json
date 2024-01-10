@@ -9,15 +9,6 @@
   },
   {
     "artist": [
-      "Playboi Carti: Antagonist Tour",
-      "with Homixide Gang, Ken Carson and Destroy Lonely"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/playboi-carti-231015",
-    "date": "2024-02-04",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
       "Madonna: The Celebration Tour"
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/madonna-the-celebration-tour-240208",
@@ -62,10 +53,19 @@
   },
   {
     "artist": [
+      "Playboi Carti: Antagonist Tour",
+      "with Homixide Gang, Ken Carson and Destroy Lonely"
+    ],
+    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/playboi-carti-231015",
+    "date": "2026-02-04",
+    "venue": "Rocket Mortgage FieldHouse"
+  },
+  {
+    "artist": [
       "Aerosmith: PEACE OUT The Farewell Tour with The Black Crowes"
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921",
-    "date": "2025-02-28",
+    "date": "2026-02-28",
     "venue": "Rocket Mortgage FieldHouse"
   }
 ]

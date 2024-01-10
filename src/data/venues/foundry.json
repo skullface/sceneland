@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday/",
-    "sold_out": true,
-    "date": "2024-01-08T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Nocturnal"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
@@ -18,10 +9,19 @@
   },
   {
     "artist": [
-      "Deadlands, Convictions, I Fight Fail"
+      "Deadlands, Convictions, I Fight Fail, Velo City"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/deadlands-convictions/",
     "date": "2024-01-13T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/",
+    "sold_out": true,
+    "date": "2024-01-15T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -150,6 +150,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/koyo-one-step-closer-anxious-stateside/",
     "date": "2024-03-15T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/",
+    "date": "2024-03-18T17:00:00",
     "venue": "Foundry"
   },
   {

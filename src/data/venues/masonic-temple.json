@@ -97,18 +97,18 @@
   },
   {
     "artist": [
-      "The Static Wake"
+      "Hairball"
     ],
-    "link": "https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57",
-    "date": "2024-03-16T19:30:00",
+    "link": "https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189",
+    "date": "2024-03-16T19:00:00",
     "venue": "Masonic Temple"
   },
   {
     "artist": [
-      "Hairball"
+      "The Static Wake"
     ],
-    "link": "https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189",
-    "date": "2024-03-16T20:00:00",
+    "link": "https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57",
+    "date": "2024-03-16T19:30:00",
     "venue": "Masonic Temple"
   },
   {
@@ -137,10 +137,26 @@
   },
   {
     "artist": [
+      "Darkest Hour"
+    ],
+    "link": "https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643",
+    "date": "2024-03-28T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Blackberry Smoke: Be Right Here Tour"
     ],
     "link": "https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6",
     "date": "2024-03-29T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Galactic Empire"
+    ],
+    "link": "https://www.ticketmaster.com/galactic-empire-cleveland-ohio-04-04-2024/event/050060251B0F6056",
+    "date": "2024-04-04T19:00:00",
     "venue": "Masonic Temple"
   },
   {

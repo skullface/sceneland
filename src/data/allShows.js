@@ -343,6 +343,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Bobby Rush'],
+    link: 'https://www.beachlandballroom.com/e/13420333/bobby-rush',
+    date: '2024-03-07T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Ekoostik Hookah'],
     link: 'https://www.beachlandballroom.com/e/13342463/ekoostik-hookah',
     date: '2024-03-08T20:00:00',
@@ -1250,12 +1256,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/',
-    date: '2024-02-05T18:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Anime / K-Pop Night'],
     link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/',
     date: '2024-02-09T21:00:00',
@@ -1265,6 +1265,12 @@ export const allShows = [
     artist: ['KINK! A Nightclub Event'],
     link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
     date: '2024-02-10T21:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/',
+    date: '2024-02-12T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1301,8 +1307,8 @@ export const allShows = [
   },
   {
     artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/',
-    date: '2024-03-18T17:00:00',
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/',
+    date: '2024-03-25T17:00:00',
     venue: 'Foundry',
   },
   {
@@ -1328,12 +1334,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night',
-    date: '2024-01-10T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Clutter, Narrow/Arro, Brood X'],
@@ -2000,15 +2000,15 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['The Static Wake'],
-    link: 'https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57',
-    date: '2024-03-16T19:30:00',
+    artist: ['Hairball'],
+    link: 'https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189',
+    date: '2024-03-16T19:00:00',
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Hairball'],
-    link: 'https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189',
-    date: '2024-03-16T20:00:00',
+    artist: ['The Static Wake'],
+    link: 'https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57',
+    date: '2024-03-16T19:30:00',
     venue: 'Masonic Temple',
   },
   {
@@ -2030,9 +2030,21 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['Darkest Hour'],
+    link: 'https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643',
+    date: '2024-03-28T19:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['Blackberry Smoke: Be Right Here Tour'],
     link: 'https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6',
     date: '2024-03-29T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['Galactic Empire'],
+    link: 'https://www.ticketmaster.com/galactic-empire-cleveland-ohio-04-04-2024/event/050060251B0F6056',
+    date: '2024-04-04T19:00:00',
     venue: 'Masonic Temple',
   },
   {
@@ -2286,6 +2298,12 @@ export const allShows = [
     artist: ['Willis'],
     link: 'https://link.dice.fm/he9e8532141e?dice_id=he9e8532141e',
     date: '2024-04-06T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Small Crush'],
+    link: 'https://link.dice.fm/tab4785d95c8?dice_id=tab4785d95c8',
+    date: '2024-04-07T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {

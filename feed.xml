@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Jan 2024 16:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 09:06:08 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Voices of the Land: Acoustic Showcase, Taylor Lamborn, Ester Fitz, Lauren Lanzaretta, Andi Chakraborty, Jordan Laird & Jordan Urban at Beachland Tavern]]></title>
@@ -341,6 +341,13 @@
             <link>https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty</guid>
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Rush at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Bobby Rush at Beachland Ballroom on Thursday, March 7, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13420333/bobby-rush]]></description>
+            <link>https://www.beachlandballroom.com/e/13420333/bobby-rush</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13420333/bobby-rush</guid>
+            <pubDate>Thu, 07 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ekoostik Hookah at Beachland Ballroom]]></title>
@@ -1365,13 +1372,6 @@
             <pubDate>Fri, 02 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, February 5, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/</guid>
-            <pubDate>Mon, 05 Feb 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Anime / K-Pop Night at Foundry]]></title>
             <description><![CDATA[Get tickets to Anime / K-Pop Night at Foundry on Friday, February 9, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/</link>
@@ -1384,6 +1384,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</guid>
             <pubDate>Sat, 10 Feb 2024 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
+            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, February 12, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/</guid>
+            <pubDate>Mon, 12 Feb 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BORED GAME NIGHT at Foundry]]></title>
@@ -1422,10 +1429,10 @@
         </item>
         <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, March 18, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/</guid>
-            <pubDate>Mon, 18 Mar 2024 17:00:00 GMT</pubDate>
+            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, March 25, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/</guid>
+            <pubDate>Mon, 25 Mar 2024 17:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mugshot, Kaonashi, Cell , Pain at Foundry]]></title>
@@ -1454,13 +1461,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</guid>
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, January 10, 2024, 08:00 PM: https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night]]></description>
-            <link>https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13251963/midnight-rental-presents-secret-movie-night</guid>
-            <pubDate>Wed, 10 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Clutter, Narrow/Arro, Brood X at Grog Shop]]></title>
@@ -2156,18 +2156,18 @@
             <pubDate>Fri, 15 Mar 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Hairball at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Hairball at Masonic Temple on Saturday, March 16, 2024, 07:00 PM: https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189]]></description>
+            <link>https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189</guid>
+            <pubDate>Sat, 16 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Static Wake at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to The Static Wake at Masonic Temple on Saturday, March 16, 2024, 07:30 PM: https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57]]></description>
             <link>https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57</guid>
             <pubDate>Sat, 16 Mar 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hairball at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Hairball at Masonic Temple on Saturday, March 16, 2024, 08:00 PM: https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189]]></description>
-            <link>https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189</guid>
-            <pubDate>Sat, 16 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Celtic Tenors – Celebrating 25 Years at Masonic Temple]]></title>
@@ -2191,11 +2191,25 @@
             <pubDate>Fri, 22 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Darkest Hour at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Darkest Hour at Masonic Temple on Thursday, March 28, 2024, 07:00 PM: https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643]]></description>
+            <link>https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643</guid>
+            <pubDate>Thu, 28 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Blackberry Smoke: Be Right Here Tour at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Blackberry Smoke: Be Right Here Tour at Masonic Temple on Friday, March 29, 2024, 08:00 PM: https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6]]></description>
             <link>https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</guid>
             <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Galactic Empire at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Galactic Empire at Masonic Temple on Thursday, April 4, 2024, 07:00 PM: https://www.ticketmaster.com/galactic-empire-cleveland-ohio-04-04-2024/event/050060251B0F6056]]></description>
+            <link>https://www.ticketmaster.com/galactic-empire-cleveland-ohio-04-04-2024/event/050060251B0F6056</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/galactic-empire-cleveland-ohio-04-04-2024/event/050060251B0F6056</guid>
+            <pubDate>Thu, 04 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gimme Sugar & Mister Breeze at Masonic Temple]]></title>
@@ -2490,6 +2504,13 @@
             <link>https://link.dice.fm/he9e8532141e?dice_id=he9e8532141e</link>
             <guid isPermaLink="true">https://link.dice.fm/he9e8532141e?dice_id=he9e8532141e</guid>
             <pubDate>Sat, 06 Apr 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Small Crush at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Small Crush at Mahall’s on Sunday, April 7, 2024, 11:00 PM: https://link.dice.fm/tab4785d95c8?dice_id=tab4785d95c8]]></description>
+            <link>https://link.dice.fm/tab4785d95c8?dice_id=tab4785d95c8</link>
+            <guid isPermaLink="true">https://link.dice.fm/tab4785d95c8?dice_id=tab4785d95c8</guid>
+            <pubDate>Sun, 07 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hail The Sun and Intervals: Spring 2024 at Mahall’s]]></title>

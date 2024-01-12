@@ -163,6 +163,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Sam Hooper Group'],
+    link: 'https://www.beachlandballroom.com/e/13424803/sam-hooper-group',
+    date: '2024-01-31T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Bumpin Uglies', 'The Grilled Lincolns', 'Higher Education'],
     link: 'https://www.beachlandballroom.com/e/13649028/bumpin-uglies-the-grilled-lincolns-higher-education',
     date: '2024-02-02T20:00:00',
@@ -541,6 +547,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Night Club', 'JPEG'],
+    link: 'https://www.beachlandballroom.com/e/13421723/night-club-jpeg',
+    date: '2024-04-19T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['BODEGA'],
     link: 'https://www.beachlandballroom.com/e/13399993/bodega',
     date: '2024-04-22T20:00:00',
@@ -644,7 +656,7 @@ export const allShows = [
       'Third Eye Blind with Special Guest Yellowcard: Summer Gods Tour 2024',
     ],
     link: 'https://concerts.livenation.com/third-eye-blind-with-special-guest-cuyahoga-falls-ohio-07-05-2024/event/05005F8F13CF6CD6',
-    date: '2024-07-05T19:00:00',
+    date: '2024-07-05T18:30:00',
     venue: 'Blossom',
   },
   {
@@ -944,6 +956,12 @@ export const allShows = [
     artist: ['Set It Off: The Deathless Tour'],
     link: 'https://concerts.livenation.com/set-it-off-the-deathless-tour-cleveland-ohio-03-30-2024/event/05005F75A67815E6',
     date: '2024-03-30T17:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['VNV Nation'],
+    link: 'https://concerts.livenation.com/vnv-nation-cleveland-ohio-04-12-2024/event/0500602AD94536C9',
+    date: '2024-04-12T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1336,12 +1354,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Clutter, Narrow/Arro, Brood X'],
-    link: 'https://grogshop.gs/event-details/13267373/clutter-narrow-arrow-brood-x',
-    date: '2024-01-11T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['GlamGore: Y2K Takeover', 'Anhedonia Delight'],
     link: 'https://grogshop.gs/event-details/13297663/glamgore-y2k-takeover',
     date: '2024-01-12T21:00:00',
@@ -1504,6 +1516,17 @@ export const allShows = [
   },
   {
     artist: [
+      'Harriet The Spy',
+      'This Moment In Black History',
+      'Napsack',
+      'Gerloscar Supreme Team DJs',
+    ],
+    link: 'https://grogshop.gs/event-details/13417413/harriet-the-spy-this-moment-in-black-history-napsack-gerloscar-supreme-team-djs',
+    date: '2024-02-10T21:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
       'The 3rd Annual Vampires Ball with Vampires Everywhere',
       'Ash Hollow',
       'Nineteenth Paradise',
@@ -1584,7 +1607,6 @@ export const allShows = [
   {
     artist: ['The Groovy Roots', 'Big Blitz', 'Unc D'],
     link: 'https://grogshop.gs/event-details/13417243/the-groovy-roots-big-blitz-unc-d',
-    sold_out: true,
     date: '2024-03-02T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1596,13 +1618,16 @@ export const allShows = [
   },
   {
     artist: [
-      'The Dirty Pop Party with J-Line',
-      'Recess',
-      'Mitchel Madek',
-      'Cherry!',
+      'The Dirty Pop Party with Cherry!',
+      'J-Line',
       'Miron Hala',
+      'Walk On Mars',
+      'Mitchel Madak',
+      'j-Line',
+      'Cherry!',
+      'Mitchel Madek',
     ],
-    link: 'https://grogshop.gs/event-details/13396483/the-dirty-pop-party-with-j-line-recess-mitchel-madek-cherry-miron-hala',
+    link: 'https://grogshop.gs/event-details/13396483/the-dirty-pop-party-with-cherry-j-line-miron-hala-walk-on-mars-mitchel-madak',
     date: '2024-03-07T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1640,6 +1665,12 @@ export const allShows = [
     artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
     link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
     date: '2024-03-15T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ["'68", 'The Callous Daoboys', 'The Homeless Gospel Choir'],
+    link: 'https://grogshop.gs/event-details/13401623/-68',
+    date: '2024-03-29T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1814,7 +1845,7 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Alkaline Trio, Drug Church'],
+    artist: ['Alkaline Trio, Drug Church, Worriers'],
     link: 'https://www.agoracleveland.com/events/detail/508072',
     date: '2024-03-08T19:00:00',
     venue: 'Agora',
@@ -2262,6 +2293,12 @@ export const allShows = [
     artist: ['Between You & Me'],
     link: 'https://link.dice.fm/M7d744b3a77c?dice_id=M7d744b3a77c',
     date: '2024-03-18T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Native Sun + Thus Love'],
+    link: 'https://link.dice.fm/faca05f0763a?dice_id=faca05f0763a',
+    date: '2024-03-20T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {

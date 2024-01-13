@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jan 2024 09:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 09:05:39 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Voices of the Land: Acoustic Showcase, Taylor Lamborn, Ester Fitz, Lauren Lanzaretta, Andi Chakraborty, Jordan Laird & Jordan Urban at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Voices of the Land: Acoustic Showcase, Taylor Lamborn, Ester Fitz, Lauren Lanzaretta, Andi Chakraborty, Jordan Laird & Jordan Urban at Beachland Tavern on Thursday, January 11, 2024, 07:00 PM: https://www.beachlandballroom.com/e/13312653/voices-of-the-land-acoustic-showcase-taylor-lamborn-ester-fitz-lauren-lanzaretta-andi-chakraborty-jordan-laird-jordan-urban]]></description>
-            <link>https://www.beachlandballroom.com/e/13312653/voices-of-the-land-acoustic-showcase-taylor-lamborn-ester-fitz-lauren-lanzaretta-andi-chakraborty-jordan-laird-jordan-urban</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13312653/voices-of-the-land-acoustic-showcase-taylor-lamborn-ester-fitz-lauren-lanzaretta-andi-chakraborty-jordan-laird-jordan-urban</guid>
-            <pubDate>Thu, 11 Jan 2024 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Doug McKean & The Stuntmen, Dave Rich & his Enablers, Ray Flanagan at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Doug McKean & The Stuntmen, Dave Rich & his Enablers, Ray Flanagan at Beachland Tavern on Friday, January 12, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13279423/doug-mckean-the-stuntmen-dave-rich-his-enablers-ray-flanagan]]></description>
@@ -308,6 +301,13 @@
             <pubDate>Tue, 27 Feb 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rockside at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Rockside at Beachland Tavern on Wednesday, February 28, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13429873/rockside]]></description>
+            <link>https://www.beachlandballroom.com/e/13429873/rockside</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13429873/rockside</guid>
+            <pubDate>Wed, 28 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[King Buffalo at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to King Buffalo at Beachland Ballroom on Friday, March 1, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13338153/king-buffalo]]></description>
             <link>https://www.beachlandballroom.com/e/13338153/king-buffalo</link>
@@ -539,10 +539,10 @@
             <pubDate>Fri, 12 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Caroline Rose at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Caroline Rose at Beachland Ballroom on Sunday, April 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13820778/caroline-rose]]></description>
-            <link>https://www.beachlandballroom.com/e/13820778/caroline-rose</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13820778/caroline-rose</guid>
+            <title><![CDATA[Caroline Rose, La Force at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Caroline Rose, La Force at Beachland Ballroom on Sunday, April 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force]]></description>
+            <link>https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force</guid>
             <pubDate>Sun, 14 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -796,13 +796,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fleetwood Mac Experience at House of Blues]]></title>
-            <description><![CDATA[Get tickets to The Fleetwood Mac Experience at House of Blues on Friday, January 12, 2024, 07:00 PM: https://concerts.livenation.com/the-fleetwood-mac-experience-cleveland-ohio-01-12-2024/event/05005F74DD782966]]></description>
-            <link>https://concerts.livenation.com/the-fleetwood-mac-experience-cleveland-ohio-01-12-2024/event/05005F74DD782966</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/the-fleetwood-mac-experience-cleveland-ohio-01-12-2024/event/05005F74DD782966</guid>
-            <pubDate>Fri, 12 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Four Horsemen at House of Blues]]></title>
@@ -1099,18 +1092,18 @@
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Flanagan's Wake at Playhouse Square on Friday, January 5, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/flanagans-wake-2]]></description>
-            <link>https://www.playhousesquare.org/events/detail/flanagans-wake-2</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-2</guid>
-            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Killer B's at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to The Killer B's at Playhouse Square on Saturday, January 13, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/the-killer-bs]]></description>
             <link>https://www.playhousesquare.org/events/detail/the-killer-bs</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/the-killer-bs</guid>
             <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Flanagan's Wake at Playhouse Square on Friday, January 5, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/flanagans-wake-2]]></description>
+            <link>https://www.playhousesquare.org/events/detail/flanagans-wake-2</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-2</guid>
+            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Men Are From Mars Women Are From Venus Live! at Playhouse Square]]></title>
@@ -1316,13 +1309,6 @@
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nocturnal at Foundry]]></title>
-            <description><![CDATA[Get tickets to Nocturnal at Foundry on Friday, January 12, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/nocturnal/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/nocturnal/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nocturnal/</guid>
-            <pubDate>Fri, 12 Jan 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Deadlands, Convictions, I Fight Fail, Velo City at Foundry]]></title>
             <description><![CDATA[Get tickets to Deadlands, Convictions, I Fight Fail, Velo City at Foundry on Saturday, January 13, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/deadlands-convictions/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/deadlands-convictions/</link>
@@ -1482,13 +1468,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</guid>
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GlamGore: Y2K Takeover, Anhedonia Delight at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to GlamGore: Y2K Takeover, Anhedonia Delight at Grog Shop on Friday, January 12, 2024, 09:00 PM: https://grogshop.gs/event-details/13297663/glamgore-y2k-takeover]]></description>
-            <link>https://grogshop.gs/event-details/13297663/glamgore-y2k-takeover</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13297663/glamgore-y2k-takeover</guid>
-            <pubDate>Fri, 12 Jan 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The New Year Kick-Off 2024, Yin Yang, Social Reaction, The Crxssing, The Evan Furillo Project, Panamera, Hypoxia at Grog Shop]]></title>
@@ -1659,10 +1638,10 @@
             <pubDate>Thu, 15 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Sonder Bombs, Teamonade at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Sonder Bombs, Teamonade at Grog Shop on Friday, February 16, 2024, 08:30 PM: https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade]]></description>
-            <link>https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade</guid>
+            <title><![CDATA[The Sonder Bombs, Teamonade, Biitchseat at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Sonder Bombs, Teamonade, Biitchseat at Grog Shop on Friday, February 16, 2024, 08:30 PM: https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade-biitchseat]]></description>
+            <link>https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade-biitchseat</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade-biitchseat</guid>
             <pubDate>Fri, 16 Feb 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1839,6 +1818,13 @@
             <link>https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side</guid>
             <pubDate>Fri, 07 Jun 2024 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris YoungYOUNG LOVE & SATURDAY NIGHTS TOUR | With Bryan Martin at Jacobs Pavilion at Nautica]]></title>
+            <description><![CDATA[Get tickets to Chris YoungYOUNG LOVE & SATURDAY NIGHTS TOUR | With Bryan Martin at Jacobs Pavilion at Nautica on Friday, May 10, 2024, 10:30 PM: https://www.axs.com/events/524789/chris-young-tickets]]></description>
+            <link>https://www.axs.com/events/524789/chris-young-tickets</link>
+            <guid isPermaLink="true">https://www.axs.com/events/524789/chris-young-tickets</guid>
+            <pubDate>Fri, 10 May 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brit FloydP·U·L·S·E - Celebrating the 30th Anniversary of The Division Bell at Jacobs Pavilion at Nautica]]></title>
@@ -2261,6 +2247,13 @@
             <pubDate>Wed, 24 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Enterprise Earth at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Enterprise Earth at Masonic Temple on Saturday, April 27, 2024, 07:00 PM: https://www.ticketmaster.com/enterprise-earth-cleveland-ohio-04-27-2024/event/0500602A03F6497C]]></description>
+            <link>https://www.ticketmaster.com/enterprise-earth-cleveland-ohio-04-27-2024/event/0500602A03F6497C</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/enterprise-earth-cleveland-ohio-04-27-2024/event/0500602A03F6497C</guid>
+            <pubDate>Sat, 27 Apr 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Ultimate Doors – A Tribute to the Doors at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to The Ultimate Doors – A Tribute to the Doors at Masonic Temple on Saturday, April 27, 2024, 08:00 PM: https://www.ticketmaster.com/the-ultimate-doors-a-tribute-to-cleveland-ohio-04-27-2024/event/05005F92111447BB]]></description>
             <link>https://www.ticketmaster.com/the-ultimate-doors-a-tribute-to-cleveland-ohio-04-27-2024/event/05005F92111447BB</link>
@@ -2280,13 +2273,6 @@
             <link>https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</guid>
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arbi at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Arbi at Mahall’s on Saturday, January 13, 2024, 12:00 AM: https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c]]></description>
-            <link>https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c</link>
-            <guid isPermaLink="true">https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c</guid>
-            <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Emo Nite ft Memory Lane at Mahall’s]]></title>
@@ -2401,17 +2387,17 @@
             <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0]]></description>
-            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</link>
-            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</guid>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cole Chaney at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d]]></description>
             <link>https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</link>
             <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0]]></description>
+            <link>https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</link>
+            <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2434,6 +2420,13 @@
             <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</link>
             <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</guid>
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Formerly Candice at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Formerly Candice at Mahall’s on Sunday, March 3, 2024, 12:00 AM: https://link.dice.fm/Gcafdf0f70fc?dice_id=Gcafdf0f70fc]]></description>
+            <link>https://link.dice.fm/Gcafdf0f70fc?dice_id=Gcafdf0f70fc</link>
+            <guid isPermaLink="true">https://link.dice.fm/Gcafdf0f70fc?dice_id=Gcafdf0f70fc</guid>
+            <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hockey Dad at Mahall’s]]></title>

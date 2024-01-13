@@ -1,19 +1,6 @@
 [
   {
     "artist": [
-      "Voices of the Land: Acoustic Showcase",
-      "Taylor Lamborn",
-      "Ester Fitz",
-      "Lauren Lanzaretta",
-      "Andi Chakraborty",
-      "Jordan Laird & Jordan Urban"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13312653/voices-of-the-land-acoustic-showcase-taylor-lamborn-ester-fitz-lauren-lanzaretta-andi-chakraborty-jordan-laird-jordan-urban",
-    "date": "2024-01-11T19:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Doug McKean & The Stuntmen",
       "Dave Rich & his Enablers",
       "Ray Flanagan"
@@ -401,6 +388,14 @@
   },
   {
     "artist": [
+      "Rockside"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13429873/rockside",
+    "date": "2024-02-28T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "King Buffalo"
     ],
     "link": "https://www.beachlandballroom.com/e/13338153/king-buffalo",
@@ -692,9 +687,10 @@
   },
   {
     "artist": [
-      "Caroline Rose"
+      "Caroline Rose",
+      "La Force"
     ],
-    "link": "https://www.beachlandballroom.com/e/13820778/caroline-rose",
+    "link": "https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force",
     "date": "2024-04-14T20:00:00",
     "venue": "Beachland Ballroom"
   },

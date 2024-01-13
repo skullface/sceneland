@@ -1,19 +1,6 @@
 export const allShows = [
   {
     artist: [
-      'Voices of the Land: Acoustic Showcase',
-      'Taylor Lamborn',
-      'Ester Fitz',
-      'Lauren Lanzaretta',
-      'Andi Chakraborty',
-      'Jordan Laird & Jordan Urban',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13312653/voices-of-the-land-acoustic-showcase-taylor-lamborn-ester-fitz-lauren-lanzaretta-andi-chakraborty-jordan-laird-jordan-urban',
-    date: '2024-01-11T19:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: [
       'Doug McKean & The Stuntmen',
       'Dave Rich & his Enablers',
       'Ray Flanagan',
@@ -308,6 +295,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Rockside'],
+    link: 'https://www.beachlandballroom.com/e/13429873/rockside',
+    date: '2024-02-28T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['King Buffalo'],
     link: 'https://www.beachlandballroom.com/e/13338153/king-buffalo',
     date: '2024-03-01T20:00:00',
@@ -523,8 +516,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Caroline Rose'],
-    link: 'https://www.beachlandballroom.com/e/13820778/caroline-rose',
+    artist: ['Caroline Rose', 'La Force'],
+    link: 'https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force',
     date: '2024-04-14T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -759,12 +752,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2026-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['The Fleetwood Mac Experience'],
-    link: 'https://concerts.livenation.com/the-fleetwood-mac-experience-cleveland-ohio-01-12-2024/event/05005F74DD782966',
-    date: '2024-01-12T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['The Four Horsemen'],
@@ -1019,15 +1006,15 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ["Flanagan's Wake"],
-    link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
-    date: '2024-01-05',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ["The Killer B's"],
     link: 'https://www.playhousesquare.org/events/detail/the-killer-bs',
     date: '2024-01-13',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ["Flanagan's Wake"],
+    link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
+    date: '2024-01-05',
     venue: 'Playhouse Square',
   },
   {
@@ -1205,12 +1192,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Nocturnal'],
-    link: 'https://www.foundryconcertclub.com/tm-event/nocturnal/',
-    date: '2024-01-12T21:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Deadlands, Convictions, I Fight Fail, Velo City'],
     link: 'https://www.foundryconcertclub.com/tm-event/deadlands-convictions/',
     date: '2024-01-13T19:00:00',
@@ -1352,12 +1333,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['GlamGore: Y2K Takeover', 'Anhedonia Delight'],
-    link: 'https://grogshop.gs/event-details/13297663/glamgore-y2k-takeover',
-    date: '2024-01-12T21:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1549,8 +1524,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['The Sonder Bombs', 'Teamonade'],
-    link: 'https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade',
+    artist: ['The Sonder Bombs', 'Teamonade', 'Biitchseat'],
+    link: 'https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade-biitchseat',
     date: '2024-02-16T20:30:00',
     venue: 'Grog Shop',
   },
@@ -1733,6 +1708,14 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side',
     date: '2024-06-07T21:00:00',
     venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      'Chris YoungYOUNG LOVE & SATURDAY NIGHTS TOUR | With Bryan Martin',
+    ],
+    link: 'https://www.axs.com/events/524789/chris-young-tickets',
+    date: '2024-05-10T18:30:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
     artist: [
@@ -2097,6 +2080,12 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['Enterprise Earth'],
+    link: 'https://www.ticketmaster.com/enterprise-earth-cleveland-ohio-04-27-2024/event/0500602A03F6497C',
+    date: '2024-04-27T19:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['The Ultimate Doors \u2013 A Tribute to the Doors'],
     link: 'https://www.ticketmaster.com/the-ultimate-doors-a-tribute-to-cleveland-ohio-04-27-2024/event/05005F92111447BB',
     date: '2024-04-27T20:00:00',
@@ -2113,12 +2102,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Arbi'],
-    link: 'https://link.dice.fm/if122f50c01c?dice_id=if122f50c01c',
-    date: '2024-01-12T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Emo Nite ft Memory Lane'],
@@ -2218,14 +2201,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -2245,6 +2228,12 @@ export const allShows = [
     artist: ['Blonde Redhead'],
     link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
     date: '2024-03-01T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Formerly Candice'],
+    link: 'https://link.dice.fm/Gcafdf0f70fc?dice_id=Gcafdf0f70fc',
+    date: '2024-03-02T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {

@@ -4,29 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jan 2024 09:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 09:05:46 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Doug McKean & The Stuntmen, Dave Rich & his Enablers, Ray Flanagan at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Doug McKean & The Stuntmen, Dave Rich & his Enablers, Ray Flanagan at Beachland Tavern on Friday, January 12, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13279423/doug-mckean-the-stuntmen-dave-rich-his-enablers-ray-flanagan]]></description>
-            <link>https://www.beachlandballroom.com/e/13279423/doug-mckean-the-stuntmen-dave-rich-his-enablers-ray-flanagan</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13279423/doug-mckean-the-stuntmen-dave-rich-his-enablers-ray-flanagan</guid>
-            <pubDate>Fri, 12 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blue Lunch, special guest Tad Robinson, DJ Pete London at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Blue Lunch, special guest Tad Robinson, DJ Pete London at Beachland Ballroom on Friday, January 12, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13311493/blue-lunch-special-guest-tad-robinson-dj-pete-london]]></description>
-            <link>https://www.beachlandballroom.com/e/13311493/blue-lunch-special-guest-tad-robinson-dj-pete-london</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13311493/blue-lunch-special-guest-tad-robinson-dj-pete-london</guid>
-            <pubDate>Fri, 12 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Brunch at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Saturday Brunch at Beachland Tavern on Saturday, January 13, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13387033/saturday-brunch]]></description>
-            <link>https://www.beachlandballroom.com/e/13387033/saturday-brunch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13387033/saturday-brunch</guid>
-            <pubDate>Sat, 13 Jan 2024 11:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Carlos Jones & The PLUS Band, Shākē Ground at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Carlos Jones & The PLUS Band, Shākē Ground at Beachland Ballroom on Saturday, January 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13276203/carlos-jones-the-plus-band-sh-k-ground]]></description>
@@ -742,6 +721,13 @@
             <pubDate>Thu, 15 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Disney On Ice, Magic in the Stars at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Disney On Ice, Magic in the Stars at Rocket Mortgage FieldHouse on Sunday, January 14, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024</guid>
+            <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[24th Greater Cleveland Sports Awards at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to 24th Greater Cleveland Sports Awards at Rocket Mortgage FieldHouse on Tuesday, January 23, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards</link>
@@ -796,13 +782,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Four Horsemen at House of Blues]]></title>
-            <description><![CDATA[Get tickets to The Four Horsemen at House of Blues on Saturday, January 13, 2024, 07:00 PM: https://concerts.livenation.com/the-four-horsemen-cleveland-ohio-01-13-2024/event/05005F61C9854C56]]></description>
-            <link>https://concerts.livenation.com/the-four-horsemen-cleveland-ohio-01-13-2024/event/05005F61C9854C56</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/the-four-horsemen-cleveland-ohio-01-13-2024/event/05005F61C9854C56</guid>
-            <pubDate>Sat, 13 Jan 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[G. Love & Special Sauce 30th Anniversary Tour WSG Jakobs Castle at House of Blues]]></title>
@@ -1092,11 +1071,11 @@
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Killer B's at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to The Killer B's at Playhouse Square on Saturday, January 13, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/the-killer-bs]]></description>
-            <link>https://www.playhousesquare.org/events/detail/the-killer-bs</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/the-killer-bs</guid>
-            <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[Men Are From Mars Women Are From Venus Live! at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Men Are From Mars Women Are From Venus Live! at Playhouse Square on Friday, January 19, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2]]></description>
+            <link>https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2</guid>
+            <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
@@ -1104,13 +1083,6 @@
             <link>https://www.playhousesquare.org/events/detail/flanagans-wake-2</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-2</guid>
             <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Men Are From Mars Women Are From Venus Live! at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Men Are From Mars Women Are From Venus Live! at Playhouse Square on Friday, January 19, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2]]></description>
-            <link>https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2</guid>
-            <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nimesh Patel at Playhouse Square]]></title>
@@ -1379,13 +1351,6 @@
             <pubDate>Fri, 02 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anime / K-Pop Night at Foundry]]></title>
-            <description><![CDATA[Get tickets to Anime / K-Pop Night at Foundry on Friday, February 9, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/</guid>
-            <pubDate>Fri, 09 Feb 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[KINK! A Nightclub Event at Foundry]]></title>
             <description><![CDATA[Get tickets to KINK! A Nightclub Event at Foundry on Saturday, February 10, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</link>
@@ -1435,13 +1400,6 @@
             <pubDate>Fri, 15 Mar 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, March 25, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/</guid>
-            <pubDate>Mon, 25 Mar 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mugshot, Kaonashi, Cell , Pain at Foundry]]></title>
             <description><![CDATA[Get tickets to Mugshot, Kaonashi, Cell , Pain at Foundry on Tuesday, April 2, 2024, 06:30 PM: https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/</link>
@@ -1468,20 +1426,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</guid>
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Year Kick-Off 2024, Yin Yang, Social Reaction, The Crxssing, The Evan Furillo Project, Panamera, Hypoxia at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The New Year Kick-Off 2024, Yin Yang, Social Reaction, The Crxssing, The Evan Furillo Project, Panamera, Hypoxia at Grog Shop on Saturday, January 13, 2024, 05:00 PM: https://grogshop.gs/event-details/13342673/the-new-year-kick-off-2024]]></description>
-            <link>https://grogshop.gs/event-details/13342673/the-new-year-kick-off-2024</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13342673/the-new-year-kick-off-2024</guid>
-            <pubDate>Sat, 13 Jan 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Night Main Event, 10$tacks, CC Marley, Pvpichulo, Heiress Behavior, Charli Davidson at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Saturday Night Main Event, 10$tacks, CC Marley, Pvpichulo, Heiress Behavior, Charli Davidson at Grog Shop on Saturday, January 13, 2024, 10:00 PM: https://grogshop.gs/event-details/13368173/saturday-night-main-event]]></description>
-            <link>https://grogshop.gs/event-details/13368173/saturday-night-main-event</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13368173/saturday-night-main-event</guid>
-            <pubDate>Sat, 13 Jan 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Winter Fest "Official Birthday Celebration for Andrew "Big Bric" LLoyd, Andrew Lloyd at Grog Shop]]></title>
@@ -1862,13 +1806,6 @@
             <pubDate>Sun, 25 Aug 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ventana, Psyclon Nine, Psychostick, Crossbreed at Agora]]></title>
-            <description><![CDATA[Get tickets to Ventana, Psyclon Nine, Psychostick, Crossbreed at Agora on Saturday, January 13, 2024, 06:30 PM: https://www.agoracleveland.com/events/detail/509821]]></description>
-            <link>https://www.agoracleveland.com/events/detail/509821</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/509821</guid>
-            <pubDate>Sat, 13 Jan 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[G Jones, IMANU, KOAN Sound, Sayer at Agora]]></title>
             <description><![CDATA[Get tickets to G Jones, IMANU, KOAN Sound, Sayer at Agora on Friday, January 19, 2024, 08:00 PM: https://www.agoracleveland.com/events/detail/494799]]></description>
             <link>https://www.agoracleveland.com/events/detail/494799</link>
@@ -2114,6 +2051,13 @@
             <pubDate>Fri, 16 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jack Lutz at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Jack Lutz at Masonic Temple on Saturday, February 17, 2024, 08:00 PM: https://www.ticketmaster.com/jack-lutz-cleveland-ohio-02-17-2024/event/05006026B3D72ED9]]></description>
+            <link>https://www.ticketmaster.com/jack-lutz-cleveland-ohio-02-17-2024/event/05006026B3D72ED9</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/jack-lutz-cleveland-ohio-02-17-2024/event/05006026B3D72ED9</guid>
+            <pubDate>Sat, 17 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[SABAI at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to SABAI at Masonic Temple on Thursday, February 29, 2024, 06:00 PM: https://www.ticketmaster.com/sabai-cleveland-ohio-02-29-2024/event/05005F669F411619]]></description>
             <link>https://www.ticketmaster.com/sabai-cleveland-ohio-02-29-2024/event/05005F669F411619</link>
@@ -2273,13 +2217,6 @@
             <link>https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280</guid>
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emo Nite ft Memory Lane at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emo Nite ft Memory Lane at Mahall’s on Sunday, January 14, 2024, 01:00 AM: https://link.dice.fm/D715f79c3ab8?dice_id=D715f79c3ab8]]></description>
-            <link>https://link.dice.fm/D715f79c3ab8?dice_id=D715f79c3ab8</link>
-            <guid isPermaLink="true">https://link.dice.fm/D715f79c3ab8?dice_id=D715f79c3ab8</guid>
-            <pubDate>Sun, 14 Jan 2024 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fidlar at Mahall’s]]></title>

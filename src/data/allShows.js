@@ -1,27 +1,5 @@
 export const allShows = [
   {
-    artist: [
-      'Doug McKean & The Stuntmen',
-      'Dave Rich & his Enablers',
-      'Ray Flanagan',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13279423/doug-mckean-the-stuntmen-dave-rich-his-enablers-ray-flanagan',
-    date: '2024-01-12T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Blue Lunch', 'special guest Tad Robinson', 'DJ Pete London'],
-    link: 'https://www.beachlandballroom.com/e/13311493/blue-lunch-special-guest-tad-robinson-dj-pete-london',
-    date: '2024-01-12T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Saturday Brunch'],
-    link: 'https://www.beachlandballroom.com/e/13387033/saturday-brunch',
-    date: '2024-01-13T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Carlos Jones & The PLUS Band', 'Sh\u0101k\u0113 Ground'],
     link: 'https://www.beachlandballroom.com/e/13276203/carlos-jones-the-plus-band-sh-k-ground',
     date: '2024-01-13T20:00:00',
@@ -697,6 +675,12 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: ['Disney On Ice', 'Magic in the Stars'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024',
+    date: '2024-01-14',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
     artist: ['24th Greater Cleveland Sports Awards'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards',
     date: '2024-01-23',
@@ -752,12 +736,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2026-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['The Four Horsemen'],
-    link: 'https://concerts.livenation.com/the-four-horsemen-cleveland-ohio-01-13-2024/event/05005F61C9854C56',
-    date: '2024-01-13T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['G. Love & Special Sauce 30th Anniversary Tour WSG Jakobs Castle'],
@@ -1006,21 +984,15 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ["The Killer B's"],
-    link: 'https://www.playhousesquare.org/events/detail/the-killer-bs',
-    date: '2024-01-13',
+    artist: ['Men Are From Mars Women Are From Venus Live!'],
+    link: 'https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2',
+    date: '2024-01-19',
     venue: 'Playhouse Square',
   },
   {
     artist: ["Flanagan's Wake"],
     link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
     date: '2024-01-05',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Men Are From Mars Women Are From Venus Live!'],
-    link: 'https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2',
-    date: '2024-01-19',
     venue: 'Playhouse Square',
   },
   {
@@ -1255,12 +1227,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Anime / K-Pop Night'],
-    link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/',
-    date: '2024-02-09T21:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['KINK! A Nightclub Event'],
     link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
     date: '2024-02-10T21:00:00',
@@ -1305,12 +1271,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/',
-    date: '2024-03-25T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Mugshot, Kaonashi, Cell , Pain'],
     link: 'https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/',
     date: '2024-04-02T18:30:00',
@@ -1333,33 +1293,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      'The New Year Kick-Off 2024',
-      'Yin Yang',
-      'Social Reaction',
-      'The Crxssing',
-      'The Evan Furillo Project',
-      'Panamera',
-      'Hypoxia',
-    ],
-    link: 'https://grogshop.gs/event-details/13342673/the-new-year-kick-off-2024',
-    date: '2024-01-13T17:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'Saturday Night Main Event',
-      '10$tacks',
-      'CC Marley',
-      'Pvpichulo',
-      'Heiress Behavior',
-      'Charli Davidson',
-    ],
-    link: 'https://grogshop.gs/event-details/13368173/saturday-night-main-event',
-    date: '2024-01-13T22:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1750,12 +1683,6 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ['Ventana, Psyclon Nine, Psychostick, Crossbreed'],
-    link: 'https://www.agoracleveland.com/events/detail/509821',
-    date: '2024-01-13T18:30:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['G Jones, IMANU, KOAN Sound, Sayer'],
     link: 'https://www.agoracleveland.com/events/detail/494799',
     date: '2024-01-19T20:00:00',
@@ -1966,6 +1893,12 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['Jack Lutz'],
+    link: 'https://www.ticketmaster.com/jack-lutz-cleveland-ohio-02-17-2024/event/05006026B3D72ED9',
+    date: '2024-02-17T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['SABAI'],
     link: 'https://www.ticketmaster.com/sabai-cleveland-ohio-02-29-2024/event/05005F669F411619',
     date: '2024-02-29T18:00:00',
@@ -2102,12 +2035,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
     date: '2024-05-14T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Emo Nite ft Memory Lane'],
-    link: 'https://link.dice.fm/D715f79c3ab8?dice_id=D715f79c3ab8',
-    date: '2024-01-13T20:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Fidlar'],

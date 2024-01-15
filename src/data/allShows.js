@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['Carlos Jones & The PLUS Band', 'Sh\u0101k\u0113 Ground'],
-    link: 'https://www.beachlandballroom.com/e/13276203/carlos-jones-the-plus-band-sh-k-ground',
-    date: '2024-01-13T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Alex Williams', 'The Morning Bird'],
-    link: 'https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird',
-    date: '2024-01-13T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Cory Grinder and the Playboy Scouts', 'Folkfaces'],
     link: 'https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces',
     date: '2024-01-14T20:00:00',
@@ -675,12 +663,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Disney On Ice', 'Magic in the Stars'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024',
-    date: '2024-01-14',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
     artist: ['24th Greater Cleveland Sports Awards'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards',
     date: '2024-01-23',
@@ -1050,12 +1032,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Tri-C 47th Annual MLK Celebration'],
-    link: 'https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration',
-    date: '2024-01-14',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Ms. Pat: Ya Girl Done Made It'],
     link: 'https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it',
     date: '2024-02-02',
@@ -1164,12 +1140,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Deadlands, Convictions, I Fight Fail, Velo City'],
-    link: 'https://www.foundryconcertclub.com/tm-event/deadlands-convictions/',
-    date: '2024-01-13T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/',
     sold_out: true,
@@ -1224,6 +1194,12 @@ export const allShows = [
     artist: ['HEAVY METAL CAGE MATCH'],
     link: 'https://www.foundryconcertclub.com/tm-event/heavy-metal-cage-match/',
     date: '2024-02-02T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Anime / K-Pop Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/',
+    date: '2024-02-09T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -1293,15 +1269,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      'Winter Fest "Official Birthday Celebration for Andrew "Big Bric" LLoyd',
-      'Andrew Lloyd',
-    ],
-    link: 'https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd',
-    date: '2024-01-14T19:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
@@ -2037,13 +2004,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Fidlar'],
-    link: 'https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d',
-    sold_out: true,
-    date: '2024-01-14T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['MK Ultra'],
     link: 'https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc',
     date: '2024-01-18T18:30:00-05:00',
@@ -2052,7 +2012,7 @@ export const allShows = [
   {
     artist: ['The Pinkertones '],
     link: 'https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c',
-    date: '2024-01-19T19:00:00-05:00',
+    date: '2024-01-19T20:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2128,14 +2088,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Deadlands, Convictions, I Fight Fail, Velo City"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/deadlands-convictions/",
-    "date": "2024-01-13T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "MOVIE NIGHT MONDAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/",
@@ -78,6 +70,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/heavy-metal-cage-match/",
     "date": "2024-02-02T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Anime / K-Pop Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/",
+    "date": "2024-02-09T21:00:00",
     "venue": "Foundry"
   },
   {

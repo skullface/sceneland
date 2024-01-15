@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Fidlar"
-    ],
-    "link": "https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d",
-    "sold_out": true,
-    "date": "2024-01-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "MK Ultra"
     ],
     "link": "https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc",
@@ -21,7 +12,7 @@
       "The Pinkertones "
     ],
     "link": "https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c",
-    "date": "2024-01-19T19:00:00-05:00",
+    "date": "2024-01-19T20:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -122,17 +113,17 @@
   },
   {
     "artist": [
-      "Cole Chaney"
+      "Indigo De Souza"
     ],
-    "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
+    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Indigo De Souza"
+      "Cole Chaney"
     ],
-    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
+    "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },

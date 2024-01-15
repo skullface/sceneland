@@ -4,22 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jan 2024 09:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 09:06:12 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Carlos Jones & The PLUS Band, Shākē Ground at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Carlos Jones & The PLUS Band, Shākē Ground at Beachland Ballroom on Saturday, January 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13276203/carlos-jones-the-plus-band-sh-k-ground]]></description>
-            <link>https://www.beachlandballroom.com/e/13276203/carlos-jones-the-plus-band-sh-k-ground</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13276203/carlos-jones-the-plus-band-sh-k-ground</guid>
-            <pubDate>Sat, 13 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alex Williams, The Morning Bird at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Alex Williams, The Morning Bird at Beachland Tavern on Saturday, January 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird]]></description>
-            <link>https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13769688/alex-williams-the-morning-bird</guid>
-            <pubDate>Sat, 13 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cory Grinder and the Playboy Scouts, Folkfaces at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Cory Grinder and the Playboy Scouts, Folkfaces at Beachland Tavern on Sunday, January 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces]]></description>
@@ -721,13 +707,6 @@
             <pubDate>Thu, 15 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Disney On Ice, Magic in the Stars at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Disney On Ice, Magic in the Stars at Rocket Mortgage FieldHouse on Sunday, January 14, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/disneyonice2024</guid>
-            <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[24th Greater Cleveland Sports Awards at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to 24th Greater Cleveland Sports Awards at Rocket Mortgage FieldHouse on Tuesday, January 23, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards</link>
@@ -1148,13 +1127,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tri-C 47th Annual MLK Celebration at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Tri-C 47th Annual MLK Celebration at Playhouse Square on Sunday, January 14, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration]]></description>
-            <link>https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/tri-c-47th-annual-mlk-celebration</guid>
-            <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ms. Pat: Ya Girl Done Made It at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Ms. Pat: Ya Girl Done Made It at Playhouse Square on Friday, February 2, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it]]></description>
             <link>https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it</link>
@@ -1281,13 +1253,6 @@
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deadlands, Convictions, I Fight Fail, Velo City at Foundry]]></title>
-            <description><![CDATA[Get tickets to Deadlands, Convictions, I Fight Fail, Velo City at Foundry on Saturday, January 13, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/deadlands-convictions/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/deadlands-convictions/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/deadlands-convictions/</guid>
-            <pubDate>Sat, 13 Jan 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
             <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, January 15, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/</link>
@@ -1349,6 +1314,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/heavy-metal-cage-match/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/heavy-metal-cage-match/</guid>
             <pubDate>Fri, 02 Feb 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anime / K-Pop Night at Foundry]]></title>
+            <description><![CDATA[Get tickets to Anime / K-Pop Night at Foundry on Friday, February 9, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/</guid>
+            <pubDate>Fri, 09 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[KINK! A Nightclub Event at Foundry]]></title>
@@ -1426,13 +1398,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</guid>
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winter Fest "Official Birthday Celebration for Andrew "Big Bric" LLoyd, Andrew Lloyd at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Winter Fest "Official Birthday Celebration for Andrew "Big Bric" LLoyd, Andrew Lloyd at Grog Shop on Sunday, January 14, 2024, 07:30 PM: https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd]]></description>
-            <link>https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13317843/winter-fest-official-birthday-celebration-for-andrew-big-bric-lloyd</guid>
-            <pubDate>Sun, 14 Jan 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
@@ -2219,13 +2184,6 @@
             <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fidlar at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Fidlar at Mahall’s on Monday, January 15, 2024, 12:00 AM: https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d]]></description>
-            <link>https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Jb3586ff310d?dice_id=Jb3586ff310d</guid>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MK Ultra at Mahall’s]]></title>
             <description><![CDATA[Get tickets to MK Ultra at Mahall’s on Thursday, January 18, 2024, 11:30 PM: https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc]]></description>
             <link>https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc</link>
@@ -2234,10 +2192,10 @@
         </item>
         <item>
             <title><![CDATA[The Pinkertones  at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Pinkertones  at Mahall’s on Saturday, January 20, 2024, 12:00 AM: https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c]]></description>
+            <description><![CDATA[Get tickets to The Pinkertones  at Mahall’s on Saturday, January 20, 2024, 01:00 AM: https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c]]></description>
             <link>https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c</link>
             <guid isPermaLink="true">https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c</guid>
-            <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 20 Jan 2024 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mean Girls dance night at Mahall’s]]></title>
@@ -2324,17 +2282,17 @@
             <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cole Chaney at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d]]></description>
-            <link>https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</guid>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Indigo De Souza at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Indigo De Souza at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0]]></description>
             <link>https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</link>
             <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cole Chaney at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d]]></description>
+            <link>https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>

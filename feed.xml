@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jan 2024 09:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 09:05:55 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cory Grinder and the Playboy Scouts, Folkfaces at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Cory Grinder and the Playboy Scouts, Folkfaces at Beachland Tavern on Sunday, January 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces]]></description>
-            <link>https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces</guid>
-            <pubDate>Sun, 14 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Quick Mystery, Rent For Cheryl, COE at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Quick Mystery, Rent For Cheryl, COE at Beachland Tavern on Thursday, January 18, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe]]></description>
@@ -33,13 +26,6 @@
             <link>https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains</guid>
             <pubDate>Fri, 19 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School of Rock at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to School of Rock at Beachland Ballroom on Saturday, January 20, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13285383/school-of-rock]]></description>
-            <link>https://www.beachlandballroom.com/e/13285383/school-of-rock</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13285383/school-of-rock</guid>
-            <pubDate>Sat, 20 Jan 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Saturday Brunch at Beachland Tavern]]></title>
@@ -124,6 +110,13 @@
             <link>https://www.beachlandballroom.com/e/13424803/sam-hooper-group</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13424803/sam-hooper-group</guid>
             <pubDate>Wed, 31 Jan 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Gamsjager & the Lustre Kings at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Mark Gamsjager & the Lustre Kings at Beachland Tavern on Thursday, February 1, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings]]></description>
+            <link>https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings</guid>
+            <pubDate>Thu, 01 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bumpin Uglies, The Grilled Lincolns, Higher Education at Beachland Ballroom]]></title>
@@ -273,10 +266,10 @@
             <pubDate>Wed, 28 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[King Buffalo at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to King Buffalo at Beachland Ballroom on Friday, March 1, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13338153/king-buffalo]]></description>
-            <link>https://www.beachlandballroom.com/e/13338153/king-buffalo</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13338153/king-buffalo</guid>
+            <title><![CDATA[King Buffalo, If These Trees Could Talk at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to King Buffalo, If These Trees Could Talk at Beachland Ballroom on Friday, March 1, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13338153/king-buffalo-if-these-trees-could-talk]]></description>
+            <link>https://www.beachlandballroom.com/e/13338153/king-buffalo-if-these-trees-could-talk</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13338153/king-buffalo-if-these-trees-could-talk</guid>
             <pubDate>Fri, 01 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -467,6 +460,13 @@
             <link>https://www.beachlandballroom.com/e/13757928/steve-forbert</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13757928/steve-forbert</guid>
             <pubDate>Fri, 05 Apr 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coastal Club, Jordan Dean, Liam Brock at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Coastal Club, Jordan Dean, Liam Brock at Beachland Ballroom on Friday, April 5, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13435213/coastal-club-jordan-dean-liam-brock]]></description>
+            <link>https://www.beachlandballroom.com/e/13435213/coastal-club-jordan-dean-liam-brock</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13435213/coastal-club-jordan-dean-liam-brock</guid>
+            <pubDate>Fri, 05 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Adam Paddock, The Meatball Mob, Flavor Wave, Emma Bieniewicz at Beachland Tavern]]></title>
@@ -1323,13 +1323,6 @@
             <pubDate>Fri, 09 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KINK! A Nightclub Event at Foundry]]></title>
-            <description><![CDATA[Get tickets to KINK! A Nightclub Event at Foundry on Saturday, February 10, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</guid>
-            <pubDate>Sat, 10 Feb 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
             <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, February 12, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/</link>
@@ -1372,6 +1365,13 @@
             <pubDate>Fri, 15 Mar 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reticulatus, Unvow, The Final Seconds of Suffering, Rustfed at Foundry]]></title>
+            <description><![CDATA[Get tickets to Reticulatus, Unvow, The Final Seconds of Suffering, Rustfed at Foundry on Friday, March 29, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/</guid>
+            <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mugshot, Kaonashi, Cell , Pain at Foundry]]></title>
             <description><![CDATA[Get tickets to Mugshot, Kaonashi, Cell , Pain at Foundry on Tuesday, April 2, 2024, 06:30 PM: https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/</link>
@@ -1398,13 +1398,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/</guid>
             <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, January 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
-            <link>https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
-            <pubDate>Mon, 15 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Miguel Cafe, Glass Aeros, Domingo Kite, Wasted Society at Grog Shop]]></title>

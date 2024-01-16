@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Cory Grinder and the Playboy Scouts', 'Folkfaces'],
-    link: 'https://www.beachlandballroom.com/e/13296723/cory-grinder-and-the-playboy-scouts-folkfaces',
-    date: '2024-01-14T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Quick Mystery', 'Rent For Cheryl', 'COE'],
     link: 'https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe',
     date: '2024-01-18T20:00:00',
@@ -26,12 +20,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains',
     date: '2024-01-19T20:00:00',
     venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['School of Rock'],
-    link: 'https://www.beachlandballroom.com/e/13285383/school-of-rock',
-    date: '2024-01-20T11:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Saturday Brunch'],
@@ -119,6 +107,12 @@ export const allShows = [
     artist: ['Sam Hooper Group'],
     link: 'https://www.beachlandballroom.com/e/13424803/sam-hooper-group',
     date: '2024-01-31T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Mark Gamsjager & the Lustre Kings'],
+    link: 'https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings',
+    date: '2024-02-01T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -267,8 +261,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['King Buffalo'],
-    link: 'https://www.beachlandballroom.com/e/13338153/king-buffalo',
+    artist: ['King Buffalo', 'If These Trees Could Talk'],
+    link: 'https://www.beachlandballroom.com/e/13338153/king-buffalo-if-these-trees-could-talk',
     date: '2024-03-01T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -445,6 +439,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13757928/steve-forbert',
     date: '2024-04-05T19:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Coastal Club', 'Jordan Dean', 'Liam Brock'],
+    link: 'https://www.beachlandballroom.com/e/13435213/coastal-club-jordan-dean-liam-brock',
+    date: '2024-04-05T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: [
@@ -1203,12 +1203,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['KINK! A Nightclub Event'],
-    link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
-    date: '2024-02-10T21:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/',
     date: '2024-02-12T18:00:00',
@@ -1247,6 +1241,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Reticulatus, Unvow, The Final Seconds of Suffering, Rustfed'],
+    link: 'https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/',
+    date: '2024-03-29T20:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Mugshot, Kaonashi, Cell , Pain'],
     link: 'https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/',
     date: '2024-04-02T18:30:00',
@@ -1269,12 +1269,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
-    link: 'https://grogshop.gs/event-details/13251983/make-em-laugh-mondays-hosted-by-kevin-ford',
-    date: '2024-01-15T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Miguel Cafe', 'Glass Aeros', 'Domingo Kite', 'Wasted Society'],

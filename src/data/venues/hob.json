@@ -201,6 +201,14 @@
   },
   {
     "artist": [
+      "Kim Dracula"
+    ],
+    "link": "https://concerts.livenation.com/kim-dracula-cleveland-ohio-03-12-2024/event/05006029B1A51F4B",
+    "date": "2024-03-12T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "The Castellows: On Tour"
     ],
     "link": "https://concerts.livenation.com/the-castellows-on-tour-cleveland-ohio-03-15-2024/event/05005F67E3254ABD",
@@ -257,6 +265,22 @@
   },
   {
     "artist": [
+      "Owl City"
+    ],
+    "link": "https://concerts.livenation.com/owl-city-cleveland-ohio-04-14-2024/event/05006029964C111A",
+    "date": "2024-04-14T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Arizona Zervas"
+    ],
+    "link": "https://concerts.livenation.com/arizona-zervas-cleveland-ohio-04-14-2024/event/05006022D4953403",
+    "date": "2024-04-14T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Queensryche"
     ],
     "link": "https://concerts.livenation.com/queensryche-cleveland-ohio-04-17-2024/event/05005F4409AB3E3A",
@@ -297,6 +321,14 @@
   },
   {
     "artist": [
+      "Kamelot: Awaken The World Tour 2024"
+    ],
+    "link": "https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A",
+    "date": "2024-05-18T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Siwa Presents XOMG POP! LIVE"
     ],
     "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
@@ -317,6 +349,14 @@
     ],
     "link": "https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C",
     "date": "2024-06-18T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "POP 2000 Tour"
+    ],
+    "link": "https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49",
+    "date": "2024-07-14T16:00:00",
     "venue": "House of Blues"
   },
   {

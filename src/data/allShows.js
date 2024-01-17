@@ -104,6 +104,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Saturday Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13438183/saturday-brunch',
+    date: '2024-01-28T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Sam Hooper Group'],
     link: 'https://www.beachlandballroom.com/e/13424803/sam-hooper-group',
     date: '2024-01-31T20:00:00',
@@ -482,6 +488,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Grateful Dub', 'Roots of Creation'],
+    link: 'https://www.beachlandballroom.com/e/13425173/grateful-dub-roots-of-creation',
+    date: '2024-04-13T20:30:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Caroline Rose', 'La Force'],
     link: 'https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force',
     date: '2024-04-14T20:00:00',
@@ -524,15 +536,39 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['The Mary Wallopers'],
+    link: 'https://www.beachlandballroom.com/e/13425063/the-mary-wallopers',
+    date: '2024-04-24T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Jesse Daniel', 'Alex Williams'],
+    link: 'https://www.beachlandballroom.com/e/13438933/jesse-daniel-alex-williams',
+    date: '2024-04-24T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Danielle Nicole'],
     link: 'https://www.beachlandballroom.com/e/13400123/danielle-nicole',
     date: '2024-04-25T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Allah-Las'],
+    link: 'https://www.beachlandballroom.com/e/13400073/allah-las',
+    date: '2024-04-26T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Ty Segall'],
     link: 'https://www.beachlandballroom.com/e/13457108/ty-segall',
     date: '2024-05-05T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Varietopia with Paul F. Tompkins'],
+    link: 'https://www.beachlandballroom.com/e/13434413/varietopia-with-paul-f-tompkins',
+    date: '2024-05-06T19:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -560,8 +596,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Osees'],
-    link: 'https://www.beachlandballroom.com/e/13787568/osees',
+    artist: ['Osees', 'Iguana Death Cult'],
+    link: 'https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult',
     sold_out: true,
     date: '2024-10-20T20:30:00',
     venue: 'Beachland Ballroom',
@@ -663,6 +699,12 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: ['Sum 41: Tour of the Setting Sum'],
+    link: 'https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22',
+    date: '2024-09-15T19:00:00',
+    venue: 'Blossom',
+  },
+  {
     artist: ['24th Greater Cleveland Sports Awards'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards',
     date: '2024-01-23',
@@ -696,6 +738,12 @@ export const allShows = [
     artist: ['Lauren Daigle', 'Ellie Holcomb'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/lauren-daigle-20240530',
     date: '2024-05-30',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
+    artist: ['Janet Jackson: Together Again', 'with Nelly'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/janet-jackson-240625',
+    date: '2024-06-25',
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
@@ -870,6 +918,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Kim Dracula'],
+    link: 'https://concerts.livenation.com/kim-dracula-cleveland-ohio-03-12-2024/event/05006029B1A51F4B',
+    date: '2024-03-12T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['The Castellows: On Tour'],
     link: 'https://concerts.livenation.com/the-castellows-on-tour-cleveland-ohio-03-15-2024/event/05005F67E3254ABD',
     date: '2024-03-15T18:30:00',
@@ -912,6 +966,18 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Owl City'],
+    link: 'https://concerts.livenation.com/owl-city-cleveland-ohio-04-14-2024/event/05006029964C111A',
+    date: '2024-04-14T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Arizona Zervas'],
+    link: 'https://concerts.livenation.com/arizona-zervas-cleveland-ohio-04-14-2024/event/05006022D4953403',
+    date: '2024-04-14T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Queensryche'],
     link: 'https://concerts.livenation.com/queensryche-cleveland-ohio-04-17-2024/event/05005F4409AB3E3A',
     date: '2024-04-17T19:00:00',
@@ -942,6 +1008,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Kamelot: Awaken The World Tour 2024'],
+    link: 'https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A',
+    date: '2024-05-18T18:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Siwa Presents XOMG POP! LIVE'],
     link: 'https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48',
     date: '2024-06-12T17:30:00',
@@ -957,6 +1029,12 @@ export const allShows = [
     artist: ['Taking Back Sunday'],
     link: 'https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C',
     date: '2024-06-18T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['POP 2000 Tour'],
+    link: 'https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49',
+    date: '2024-07-14T16:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1116,12 +1194,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Wild Party, Cousin Simple'],
-    link: 'https://www.ticketweb.com/event/wild-party-cousin-simple-musica-tickets/13775228?pl=celebrityetc&REFID=clientsitewpecheck',
-    date: '2024-02-09T21:00:00',
-    venue: 'Musica Akron',
-  },
-  {
     artist: ["An Evening with Dixon's Violin"],
     link: 'https://www.ticketweb.com/event/an-evening-with-dixons-violin-musica-tickets/13323233?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-01T19:30:00',
@@ -1138,19 +1210,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/',
-    sold_out: true,
-    date: '2024-01-15T17:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['Cast Iron Comedy Showcase'],
-    link: 'https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase-2/',
-    date: '2024-01-16T20:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['JUGGALOHIO2 PRE-PARTY KICKOFF'],
@@ -1179,6 +1238,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/',
+    date: '2024-01-22T17:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Nems x Mac Lethal'],
     link: 'https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/',
     date: '2024-01-23T19:00:00',
@@ -1203,9 +1268,9 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/',
-    date: '2024-02-12T18:00:00',
+    artist: ['KINK! A Nightclub Event'],
+    link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
+    date: '2024-02-10T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -1221,11 +1286,23 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/',
+    date: '2024-02-19T18:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: [
       'ov sulfur, Mental Cruelty, Ghost Bath, Extermination Dismemberment',
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/',
     date: '2024-02-22T18:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['The Electric Funeral'],
+    link: 'https://www.foundryconcertclub.com/tm-event/the-electric-funeral/',
+    date: '2024-02-29T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1241,7 +1318,15 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Reticulatus, Unvow, The Final Seconds of Suffering, Rustfed'],
+    artist: ['Lutharo, Olathia, After The Apocalypse'],
+    link: 'https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/',
+    date: '2024-03-16T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: [
+      'Reticulatus, Unvow, Kingz & Thievez, The Final Seconds of Suffering, Rustfed',
+    ],
     link: 'https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/',
     date: '2024-03-29T20:00:00',
     venue: 'Foundry',
@@ -1269,12 +1354,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/',
     date: '2024-05-12T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Miguel Cafe', 'Glass Aeros', 'Domingo Kite', 'Wasted Society'],
-    link: 'https://grogshop.gs/event-details/13365813/miguel-cafe-glass-aeros-domingo-kite-wasted-society',
-    date: '2024-01-16T19:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['TORRES', 'Aisha Burns', 'Kid Tigrrr'],
@@ -1349,6 +1428,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'Guy Snowden & the Citizens, Millions of Mighty Horses, Hiram-Maxim, Lemon Swans',
+    ],
+    link: 'https://grogshop.gs/event-details/13439313/guy-snowden-the-citizens-millions-of-mighty-horses-hiram-maxim-lemon-swans',
+    date: '2024-02-01T19:30:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['GlamGore: Couples Counseling', 'Anhedonia Delight'],
     link: 'https://grogshop.gs/event-details/13297703/glamgore-couples-counseling',
     date: '2024-02-02T21:00:00',
@@ -1365,6 +1452,12 @@ export const allShows = [
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-02-05T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Another Dead Rockstar, Altered Generation, Craig Martini'],
+    link: 'https://grogshop.gs/event-details/13435973/another-dead-rockstar-altered-generation-craig-martini',
+    date: '2024-02-07T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1561,6 +1654,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Scott H. Biram', 'Adrian and Meredith'],
+    link: 'https://grogshop.gs/event-details/13429733/scott-h-biram',
+    date: '2024-04-18T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['MIKE , Special Guests'],
     link: 'https://grogshop.gs/event-details/13745648/mike-w-special-guests',
     date: '2024-04-21T20:00:00',
@@ -1602,46 +1701,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side',
     date: '2024-06-07T21:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'Chris YoungYOUNG LOVE & SATURDAY NIGHTS TOUR | With Bryan Martin',
-    ],
-    link: 'https://www.axs.com/events/524789/chris-young-tickets',
-    date: '2024-05-10T18:30:00-04:00',
-    venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: [
-      'Brit FloydP\u00b7U\u00b7L\u00b7S\u00b7E - Celebrating the 30th Anniversary of The Division Bell',
-    ],
-    link: 'https://www.axs.com/events/521837/brit-floyd-tickets',
-    date: '2024-05-19T19:00:00-04:00',
-    venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Jacob CollierDJESSE Vol. 4 North America Tour | , Emily King'],
-    link: 'https://www.axs.com/events/472801/jacob-collier-tickets',
-    date: '2024-06-12T18:00:00-04:00',
-    venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Brothers OsborneMight As Well Be Us Tour | , Stephen Wilson Jr.'],
-    link: 'https://www.axs.com/events/516497/brothers-osborne-tickets',
-    date: '2024-06-29T19:00:00-04:00',
-    venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['King Gizzard & the Lizard Wizard, Geese'],
-    link: 'https://www.axs.com/events/509500/king-gizzard-the-lizard-wizard-tickets',
-    date: '2024-08-24T18:00:00-04:00',
-    venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['O.A.R. with special guest Fitz and The TantrumsSummer Tour 24'],
-    link: 'https://www.axs.com/events/510138/o-a-r-tickets',
-    date: '2024-08-25T18:00:00-04:00',
-    venue: 'Jacobs Pavilion at Nautica',
   },
   {
     artist: ['G Jones, IMANU, KOAN Sound, Sayer'],
@@ -2094,6 +2153,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Jukebox Breakdown aka Emo Night CLE 9th birthday!'],
+    link: 'https://link.dice.fm/Ye0f3a4cf4be?dice_id=Ye0f3a4cf4be',
+    date: '2024-02-23T21:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Glixen'],
     link: 'https://link.dice.fm/he2703560fe2?dice_id=he2703560fe2',
     date: '2024-02-24T19:00:00-05:00',
@@ -2241,6 +2306,12 @@ export const allShows = [
     artist: ['Soft Kill'],
     link: 'https://link.dice.fm/Sf355e0c6290?dice_id=Sf355e0c6290',
     date: '2024-04-24T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Slothrust'],
+    link: 'https://link.dice.fm/ncd76fd2aa2d?dice_id=ncd76fd2aa2d',
+    date: '2024-04-26T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {

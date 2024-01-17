@@ -133,6 +133,14 @@
   },
   {
     "artist": [
+      "Saturday Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13438183/saturday-brunch",
+    "date": "2024-01-28T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Sam Hooper Group"
     ],
     "link": "https://www.beachlandballroom.com/e/13424803/sam-hooper-group",
@@ -643,6 +651,15 @@
   },
   {
     "artist": [
+      "Grateful Dub",
+      "Roots of Creation"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13425173/grateful-dub-roots-of-creation",
+    "date": "2024-04-13T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Caroline Rose",
       "La Force"
     ],
@@ -703,6 +720,23 @@
   },
   {
     "artist": [
+      "The Mary Wallopers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13425063/the-mary-wallopers",
+    "date": "2024-04-24T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jesse Daniel",
+      "Alex Williams"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13438933/jesse-daniel-alex-williams",
+    "date": "2024-04-24T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Danielle Nicole"
     ],
     "link": "https://www.beachlandballroom.com/e/13400123/danielle-nicole",
@@ -711,10 +745,26 @@
   },
   {
     "artist": [
+      "Allah-Las"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13400073/allah-las",
+    "date": "2024-04-26T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Ty Segall"
     ],
     "link": "https://www.beachlandballroom.com/e/13457108/ty-segall",
     "date": "2024-05-05T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Varietopia with Paul F. Tompkins"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13434413/varietopia-with-paul-f-tompkins",
+    "date": "2024-05-06T19:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -755,9 +805,10 @@
   },
   {
     "artist": [
-      "Osees"
+      "Osees",
+      "Iguana Death Cult"
     ],
-    "link": "https://www.beachlandballroom.com/e/13787568/osees",
+    "link": "https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult",
     "sold_out": true,
     "date": "2024-10-20T20:30:00",
     "venue": "Beachland Ballroom"

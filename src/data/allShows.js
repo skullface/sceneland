@@ -232,8 +232,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Jill Andrews'],
-    link: 'https://www.beachlandballroom.com/e/13654878/jill-andrews',
+    artist: ['Jill Andrews', 'Kid Tigrrr'],
+    link: 'https://www.beachlandballroom.com/e/13654878/jill-andrews-kid-tigrrr',
     date: '2024-02-22T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -428,8 +428,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['The Crane Wives'],
-    link: 'https://www.beachlandballroom.com/e/13744368/the-crane-wives',
+    artist: ['The Crane Wives', 'Rachel Bobbitt'],
+    link: 'https://www.beachlandballroom.com/e/13744368/the-crane-wives-rachel-bobbitt',
     sold_out: true,
     date: '2024-04-03T20:00:00',
     venue: 'Beachland Ballroom',
@@ -474,6 +474,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13283793/the-thing',
     date: '2024-04-10T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['The Motet'],
+    link: 'https://www.beachlandballroom.com/e/13434893/the-motet',
+    date: '2024-04-10T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['A Thousand Horses'],
@@ -524,6 +530,18 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Lotus'],
+    link: 'https://www.beachlandballroom.com/e/13423923/lotus',
+    date: '2024-04-20T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Lotus'],
+    link: 'https://www.beachlandballroom.com/e/13423943/lotus',
+    date: '2024-04-21T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['BODEGA'],
     link: 'https://www.beachlandballroom.com/e/13399993/bodega',
     date: '2024-04-22T20:00:00',
@@ -558,6 +576,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13400073/allah-las',
     date: '2024-04-26T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Midnight North', 'Fireside Collective'],
+    link: 'https://www.beachlandballroom.com/e/13361123/midnight-north-fireside-collective',
+    date: '2024-04-28T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Ty Segall'],
@@ -936,6 +960,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Gasolina: Reggaeton Party'],
+    link: 'https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-03-22-2024/event/0500602BA8642073',
+    date: '2024-03-22T21:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Little Stranger'],
     link: 'https://concerts.livenation.com/little-stranger-cleveland-ohio-03-23-2024/event/05005F6C05B92AAE',
     date: '2024-03-23T19:00:00',
@@ -1194,6 +1224,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Wild Party, Cousin Simple'],
+    link: 'https://www.ticketweb.com/event/wild-party-cousin-simple-musica-tickets/13775228?pl=celebrityetc&REFID=clientsitewpecheck',
+    date: '2024-02-09T21:00:00',
+    venue: 'Musica Akron',
+  },
+  {
     artist: ["An Evening with Dixon's Violin"],
     link: 'https://www.ticketweb.com/event/an-evening-with-dixons-violin-musica-tickets/13323233?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-01T19:30:00',
@@ -1274,12 +1310,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['BORED GAME NIGHT'],
-    link: 'https://www.foundryconcertclub.com/tm-event/bored-game-night/',
-    date: '2024-02-13T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Emo Night Karaoke'],
     link: 'https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/',
     date: '2024-02-16T20:00:00',
@@ -1356,10 +1386,10 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['TORRES', 'Aisha Burns', 'Kid Tigrrr'],
-    link: 'https://grogshop.gs/event-details/13693768/torres',
-    date: '2024-01-17T20:00:00',
-    venue: 'Grog Shop',
+    artist: ['It Dies Today, Last Gasp'],
+    link: 'https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/',
+    date: '2024-05-20T19:30:00',
+    venue: 'Foundry',
   },
   {
     artist: ['Faith & Whiskey'],
@@ -1405,7 +1435,7 @@ export const allShows = [
   {
     artist: ['Mac Saturn: Hard To Sell Tour', 'The Thing With Feathers'],
     link: 'https://grogshop.gs/event-details/13867048/mac-saturn-hard-to-sell-tour',
-    date: '2024-01-27T19:30:00',
+    date: '2024-01-27T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1446,6 +1476,18 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13723678/the-record-company-roll-with-it-tour',
     sold_out: true,
     date: '2024-02-03T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      'Team Awesome',
+      'Rellick',
+      'Frida and The Mann',
+      'Yo Pastel',
+      'Frida And The Mann',
+    ],
+    link: 'https://grogshop.gs/event-details/13442743/team-awesome-rellick-frida-and-the-mann-yo-pastel',
+    date: '2024-02-04T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1636,6 +1678,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Kate Clover'],
+    link: 'https://grogshop.gs/event-details/13435643/kate-clover',
+    date: '2024-04-03T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['GlamGore: Creatures of the Deep', 'Anhedonia Delight'],
     link: 'https://grogshop.gs/event-details/13297733/glamgore-creatures-of-the-deep',
     date: '2024-04-05T21:00:00',
@@ -1695,12 +1743,62 @@ export const allShows = [
   },
   {
     artist: [
+      'Laura Jane Grace with Worriers and Sam Russo',
+      'Worries',
+      'Sam Russo',
+    ],
+    link: 'https://grogshop.gs/event-details/13429923/laura-jane-grace-with-worriers-and-sam-russo',
+    date: '2024-05-25T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
       'GlamGore: 6th Annual Pre-Pride on the East Side',
       'Anhedonia Delight',
     ],
     link: 'https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side',
     date: '2024-06-07T21:00:00',
     venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      'Chris YoungYOUNG LOVE & SATURDAY NIGHTS TOUR | With Bryan Martin',
+    ],
+    link: 'https://www.axs.com/events/524789/chris-young-tickets',
+    date: '2024-05-10T18:30:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: [
+      'Brit FloydP\u00b7U\u00b7L\u00b7S\u00b7E - Celebrating the 30th Anniversary of The Division Bell',
+    ],
+    link: 'https://www.axs.com/events/521837/brit-floyd-tickets',
+    date: '2024-05-19T19:00:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: ['Jacob CollierDJESSE Vol. 4 North America Tour | , Emily King'],
+    link: 'https://www.axs.com/events/472801/jacob-collier-tickets',
+    date: '2024-06-12T18:00:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: ['Brothers OsborneMight As Well Be Us Tour | , Stephen Wilson Jr.'],
+    link: 'https://www.axs.com/events/516497/brothers-osborne-tickets',
+    date: '2024-06-29T19:00:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: ['King Gizzard & the Lizard Wizard, Geese'],
+    link: 'https://www.axs.com/events/509500/king-gizzard-the-lizard-wizard-tickets',
+    date: '2024-08-24T18:00:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: ['O.A.R. with special guest Fitz and The TantrumsSummer Tour 24'],
+    link: 'https://www.axs.com/events/510138/o-a-r-tickets',
+    date: '2024-08-25T18:00:00-04:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
     artist: ['G Jones, IMANU, KOAN Sound, Sayer'],
@@ -2099,6 +2197,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Love Club: an all out 2010\u2019s night'],
+    link: 'https://link.dice.fm/kdabf5e9c03d?dice_id=kdabf5e9c03d',
+    date: '2024-02-03T20:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Willi Carlisle'],
     link: 'https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b',
     date: '2024-02-04T19:00:00-05:00',
@@ -2141,14 +2245,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -2204,6 +2308,18 @@ export const allShows = [
     artist: ['Kelsy Karter & The Heroines'],
     link: 'https://link.dice.fm/v4ba2ce1014e?dice_id=v4ba2ce1014e',
     date: '2024-03-10T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Turnover'],
+    link: 'https://link.dice.fm/Xdadde097266?dice_id=Xdadde097266',
+    date: '2024-03-12T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Turnover'],
+    link: 'https://link.dice.fm/e6f69731cc2e?dice_id=e6f69731cc2e',
+    date: '2024-03-12T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2311,6 +2427,7 @@ export const allShows = [
   {
     artist: ['Slothrust'],
     link: 'https://link.dice.fm/ncd76fd2aa2d?dice_id=ncd76fd2aa2d',
+    sold_out: true,
     date: '2024-04-26T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },

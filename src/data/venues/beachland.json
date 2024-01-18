@@ -305,9 +305,10 @@
   },
   {
     "artist": [
-      "Jill Andrews"
+      "Jill Andrews",
+      "Kid Tigrrr"
     ],
-    "link": "https://www.beachlandballroom.com/e/13654878/jill-andrews",
+    "link": "https://www.beachlandballroom.com/e/13654878/jill-andrews-kid-tigrrr",
     "date": "2024-02-22T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -569,9 +570,10 @@
   },
   {
     "artist": [
-      "The Crane Wives"
+      "The Crane Wives",
+      "Rachel Bobbitt"
     ],
-    "link": "https://www.beachlandballroom.com/e/13744368/the-crane-wives",
+    "link": "https://www.beachlandballroom.com/e/13744368/the-crane-wives-rachel-bobbitt",
     "sold_out": true,
     "date": "2024-04-03T20:00:00",
     "venue": "Beachland Ballroom"
@@ -629,6 +631,14 @@
     "link": "https://www.beachlandballroom.com/e/13283793/the-thing",
     "date": "2024-04-10T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "The Motet"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13434893/the-motet",
+    "date": "2024-04-10T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -703,6 +713,22 @@
   },
   {
     "artist": [
+      "Lotus"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13423923/lotus",
+    "date": "2024-04-20T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Lotus"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13423943/lotus",
+    "date": "2024-04-21T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "BODEGA"
     ],
     "link": "https://www.beachlandballroom.com/e/13399993/bodega",
@@ -750,6 +776,15 @@
     "link": "https://www.beachlandballroom.com/e/13400073/allah-las",
     "date": "2024-04-26T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Midnight North",
+      "Fireside Collective"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13361123/midnight-north-fireside-collective",
+    "date": "2024-04-28T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

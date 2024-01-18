@@ -57,6 +57,14 @@
   },
   {
     "artist": [
+      "Love Club: an all out 2010\u2019s night"
+    ],
+    "link": "https://link.dice.fm/kdabf5e9c03d?dice_id=kdabf5e9c03d",
+    "date": "2024-02-03T20:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Willi Carlisle"
     ],
     "link": "https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b",
@@ -113,17 +121,17 @@
   },
   {
     "artist": [
-      "Indigo De Souza"
+      "Cole Chaney"
     ],
-    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
+    "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Cole Chaney"
+      "Indigo De Souza"
     ],
-    "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
+    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
@@ -197,6 +205,22 @@
     ],
     "link": "https://link.dice.fm/v4ba2ce1014e?dice_id=v4ba2ce1014e",
     "date": "2024-03-10T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Turnover"
+    ],
+    "link": "https://link.dice.fm/Xdadde097266?dice_id=Xdadde097266",
+    "date": "2024-03-12T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Turnover"
+    ],
+    "link": "https://link.dice.fm/e6f69731cc2e?dice_id=e6f69731cc2e",
+    "date": "2024-03-12T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -340,6 +364,7 @@
       "Slothrust"
     ],
     "link": "https://link.dice.fm/ncd76fd2aa2d?dice_id=ncd76fd2aa2d",
+    "sold_out": true,
     "date": "2024-04-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },

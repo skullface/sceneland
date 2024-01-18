@@ -81,14 +81,6 @@
   },
   {
     "artist": [
-      "BORED GAME NIGHT"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night/",
-    "date": "2024-02-13T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Emo Night Karaoke"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/",
@@ -181,6 +173,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/",
     "date": "2024-05-12T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "It Dies Today, Last Gasp"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/",
+    "date": "2024-05-20T19:30:00",
     "venue": "Foundry"
   }
 ]

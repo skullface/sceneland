@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JUGGALOHIO2 PRE-PARTY KICKOFF"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/juggalohio2-pre-party-kickoff/",
-    "date": "2024-01-18T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "THE BUNNY THE BEAR, Dizasterpiece, Left Unsaid, Audience Of Rain, Seconds of Silence, Behead The Prophet"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-bunny-the-bear-dizasterpiece-left-unsaid-audience-of-rain-seconds-of-silence-behead-the-prophet/",
@@ -81,10 +73,26 @@
   },
   {
     "artist": [
+      "BORED GAME NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night/",
+    "date": "2024-02-13T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Emo Night Karaoke"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/",
     "date": "2024-02-16T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "TRE FEST"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/tre-fest/",
+    "date": "2024-02-17T17:30:00",
     "venue": "Foundry"
   },
   {

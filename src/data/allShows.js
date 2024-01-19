@@ -117,7 +117,7 @@ export const allShows = [
   },
   {
     artist: ['Mark Gamsjager & the Lustre Kings'],
-    link: 'https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings',
+    link: 'https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings-dj-mittenclips',
     date: '2024-02-01T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -380,8 +380,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Joey Harkum'],
-    link: 'https://www.beachlandballroom.com/e/13297843/joey-harkum',
+    artist: ['Joey Harkum', 'personsplacesthings'],
+    link: 'https://www.beachlandballroom.com/e/13297843/joey-harkum-personsplacesthings',
     date: '2024-03-22T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -401,6 +401,12 @@ export const allShows = [
     artist: ['Pacific Dub'],
     link: 'https://www.beachlandballroom.com/e/13247243/pacific-dub',
     date: '2024-03-27T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Andrea Von Kampen'],
+    link: 'https://www.beachlandballroom.com/e/13435253/andrea-von-kampen',
+    date: '2024-03-29T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -600,6 +606,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13311603/twrp-nelward-trey-magnifique',
     date: '2024-05-08T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Illiterate Light', 'Spirit Of The Bear'],
+    link: 'https://www.beachlandballroom.com/e/13420503/illiterate-light-spirit-of-the-bear',
+    date: '2024-05-09T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Psychedelic Porn Crumpets'],
@@ -1248,10 +1260,10 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['JUGGALOHIO2 PRE-PARTY KICKOFF'],
-    link: 'https://www.foundryconcertclub.com/tm-event/juggalohio2-pre-party-kickoff/',
-    date: '2024-01-18T19:00:00',
-    venue: 'Foundry',
+    artist: ['Free Throw, Charmer & Carpool'],
+    link: 'https://www.ticketweb.com/event/free-throw-charmer-carpool-musica-tickets/13444053?pl=celebrityetc&REFID=clientsitewpecheck',
+    date: '2024-04-07T19:30:00',
+    venue: 'Musica Akron',
   },
   {
     artist: [
@@ -1310,9 +1322,21 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['BORED GAME NIGHT'],
+    link: 'https://www.foundryconcertclub.com/tm-event/bored-game-night/',
+    date: '2024-02-13T17:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Emo Night Karaoke'],
     link: 'https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/',
     date: '2024-02-16T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['TRE FEST'],
+    link: 'https://www.foundryconcertclub.com/tm-event/tre-fest/',
+    date: '2024-02-17T17:30:00',
     venue: 'Foundry',
   },
   {
@@ -1553,8 +1577,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['The Sonder Bombs', 'Teamonade', 'Biitchseat'],
-    link: 'https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade-biitchseat',
+    artist: ['The Sonder Bombs', 'Teamonade', 'Biitchseat', 'Kimmy Kat'],
+    link: 'https://grogshop.gs/event-details/13396493/the-sonder-bombs-teamonade-biitchseat-kimmy-kat',
     date: '2024-02-16T20:30:00',
     venue: 'Grog Shop',
   },
@@ -1672,6 +1696,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Koffin Kats', 'The Queers', 'Lords Of The Highway'],
+    link: 'https://grogshop.gs/event-details/13397033/koffin-kats-the-queers-lords-of-the-highway',
+    date: '2024-03-27T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ["'68", 'The Callous Daoboys', 'The Homeless Gospel Choir'],
     link: 'https://grogshop.gs/event-details/13401623/-68',
     date: '2024-03-29T20:00:00',
@@ -1708,8 +1738,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['MIKE , Special Guests'],
-    link: 'https://grogshop.gs/event-details/13745648/mike-w-special-guests',
+    artist: ['MIKE', '454', 'Niontay', 'El Cousteau'],
+    link: 'https://grogshop.gs/event-details/13745648/mike-w-454-niontay-el-cousteau',
     date: '2024-04-21T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1969,6 +1999,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Mr. Big'],
+    link: 'https://www.agoracleveland.com/events/detail/526774',
+    date: '2024-05-24T19:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['House of BurlesCLE 2.0'],
     link: 'https://www.agoracleveland.com/events/detail/521430',
     date: '2024-06-08T18:00:00',
@@ -2155,12 +2191,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['MK Ultra'],
-    link: 'https://link.dice.fm/c14409bbe3bc?dice_id=c14409bbe3bc',
-    date: '2024-01-18T18:30:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Pinkertones '],
     link: 'https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c',
     date: '2024-01-19T20:00:00-05:00',
@@ -2245,14 +2275,14 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -2416,6 +2446,12 @@ export const allShows = [
     artist: ['Sweet Pill'],
     link: 'https://link.dice.fm/G6a619c4f520?dice_id=G6a619c4f520',
     date: '2024-04-14T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['JOHN R. MILLER & THE DESLONDES'],
+    link: 'https://link.dice.fm/Xcf1fc2e03de?dice_id=Xcf1fc2e03de',
+    date: '2024-04-21T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {

@@ -151,7 +151,7 @@
     "artist": [
       "Mark Gamsjager & the Lustre Kings"
     ],
-    "link": "https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings",
+    "link": "https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings-dj-mittenclips",
     "date": "2024-02-01T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -504,9 +504,10 @@
   },
   {
     "artist": [
-      "Joey Harkum"
+      "Joey Harkum",
+      "personsplacesthings"
     ],
-    "link": "https://www.beachlandballroom.com/e/13297843/joey-harkum",
+    "link": "https://www.beachlandballroom.com/e/13297843/joey-harkum-personsplacesthings",
     "date": "2024-03-22T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -533,6 +534,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13247243/pacific-dub",
     "date": "2024-03-27T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Andrea Von Kampen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13435253/andrea-von-kampen",
+    "date": "2024-03-29T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -811,6 +820,15 @@
     "link": "https://www.beachlandballroom.com/e/13311603/twrp-nelward-trey-magnifique",
     "date": "2024-05-08T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Illiterate Light",
+      "Spirit Of The Bear"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13420503/illiterate-light-spirit-of-the-bear",
+    "date": "2024-05-09T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

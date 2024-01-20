@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Pinkertones "
-    ],
-    "link": "https://link.dice.fm/V59a7152297c?dice_id=V59a7152297c",
-    "date": "2024-01-19T20:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Mean Girls dance night"
     ],
     "link": "https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6",
@@ -145,6 +137,14 @@
   },
   {
     "artist": [
+      "Bizarre Dance Triangle: Bowie vs. Prince"
+    ],
+    "link": "https://link.dice.fm/Y91d13edcd85?dice_id=Y91d13edcd85",
+    "date": "2024-02-24T22:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Bit Brigade performs \"Mega Man II\" and \"DuckTales\""
     ],
     "link": "https://link.dice.fm/b752f5071623?dice_id=b752f5071623",
@@ -181,7 +181,7 @@
     ],
     "link": "https://link.dice.fm/V42b338eec76?dice_id=V42b338eec76",
     "date": "2024-03-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s Apartment"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -209,10 +209,10 @@
   },
   {
     "artist": [
-      "Turnover"
+      "Anthony Green"
     ],
-    "link": "https://link.dice.fm/e6f69731cc2e?dice_id=e6f69731cc2e",
-    "date": "2024-03-12T19:00:00-04:00",
+    "link": "https://link.dice.fm/vada9f958f96?dice_id=vada9f958f96",
+    "date": "2024-03-13T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -364,7 +364,6 @@
       "Slothrust"
     ],
     "link": "https://link.dice.fm/ncd76fd2aa2d?dice_id=ncd76fd2aa2d",
-    "sold_out": true,
     "date": "2024-04-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -382,6 +381,14 @@
     ],
     "link": "https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3",
     "date": "2024-05-08T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Young Rising Sons"
+    ],
+    "link": "https://link.dice.fm/Sac774794fa1?dice_id=Sac774794fa1",
+    "date": "2024-05-11T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Quick Mystery",
-      "Rent For Cheryl",
-      "COE"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13342863/quick-mystery-rent-for-cheryl-coe",
-    "date": "2024-01-18T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Spafford",
       "Unc D"
     ],
@@ -133,9 +123,9 @@
   },
   {
     "artist": [
-      "Saturday Brunch"
+      "Beachland Brunch"
     ],
-    "link": "https://www.beachlandballroom.com/e/13438183/saturday-brunch",
+    "link": "https://www.beachlandballroom.com/e/13438183/beachland-brunch",
     "date": "2024-01-28T11:00:00",
     "venue": "Beachland Tavern"
   },
@@ -149,7 +139,8 @@
   },
   {
     "artist": [
-      "Mark Gamsjager & the Lustre Kings"
+      "Mark Gamsjager & the Lustre Kings",
+      "DJ Mittenclips"
     ],
     "link": "https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings-dj-mittenclips",
     "date": "2024-02-01T20:00:00",
@@ -763,15 +754,6 @@
   },
   {
     "artist": [
-      "Jesse Daniel",
-      "Alex Williams"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13438933/jesse-daniel-alex-williams",
-    "date": "2024-04-24T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Danielle Nicole"
     ],
     "link": "https://www.beachlandballroom.com/e/13400123/danielle-nicole",
@@ -797,9 +779,10 @@
   },
   {
     "artist": [
-      "Ty Segall"
+      "Ty Segall",
+      "Sharpie Smile"
     ],
-    "link": "https://www.beachlandballroom.com/e/13457108/ty-segall",
+    "link": "https://www.beachlandballroom.com/e/13457108/ty-segall-sharpie-smile",
     "date": "2024-05-05T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -837,6 +820,15 @@
     "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
     "date": "2024-05-17T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jesse Daniel",
+      "Alex Williams"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13438933/jesse-daniel-alex-williams",
+    "date": "2024-05-24T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

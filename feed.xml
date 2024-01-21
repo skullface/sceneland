@@ -4,29 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jan 2024 09:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 09:05:52 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Spafford, Unc D at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Spafford, Unc D at Beachland Ballroom on Friday, January 19, 2024, 07:30 PM: https://www.beachlandballroom.com/e/13757338/spafford-unc-d]]></description>
-            <link>https://www.beachlandballroom.com/e/13757338/spafford-unc-d</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13757338/spafford-unc-d</guid>
-            <pubDate>Fri, 19 Jan 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DaLand Brass Band, Wave Magnetick & Rowanne Atallah, Factual Brains at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to DaLand Brass Band, Wave Magnetick & Rowanne Atallah, Factual Brains at Beachland Tavern on Friday, January 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains]]></description>
-            <link>https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains</guid>
-            <pubDate>Fri, 19 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saturday Brunch at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Saturday Brunch at Beachland Tavern on Saturday, January 20, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13409893/saturday-brunch]]></description>
-            <link>https://www.beachlandballroom.com/e/13409893/saturday-brunch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13409893/saturday-brunch</guid>
-            <pubDate>Sat, 20 Jan 2024 11:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Revival ABB at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Revival ABB at Beachland Ballroom on Saturday, January 20, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13315493/revival-abb]]></description>
@@ -868,13 +847,6 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ten: A Tribute To Pearl Jam at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Ten: A Tribute To Pearl Jam at House of Blues on Saturday, January 20, 2024, 07:00 PM: https://concerts.livenation.com/ten-a-tribute-to-pearl-jam-cleveland-ohio-01-20-2024/event/05005F54D64349E2]]></description>
-            <link>https://concerts.livenation.com/ten-a-tribute-to-pearl-jam-cleveland-ohio-01-20-2024/event/05005F54D64349E2</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/ten-a-tribute-to-pearl-jam-cleveland-ohio-01-20-2024/event/05005F54D64349E2</guid>
-            <pubDate>Sat, 20 Jan 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Devil Wears Prada & Fit For A King: METALCORE DROPOUTS at House of Blues]]></title>
             <description><![CDATA[Get tickets to The Devil Wears Prada & Fit For A King: METALCORE DROPOUTS at House of Blues on Sunday, January 21, 2024, 06:00 PM: https://concerts.livenation.com/the-devil-wears-prada-fit-for-cleveland-ohio-01-21-2024/event/05005F51E8633FDA]]></description>
             <link>https://concerts.livenation.com/the-devil-wears-prada-fit-for-cleveland-ohio-01-21-2024/event/05005F51E8633FDA</link>
@@ -1190,11 +1162,11 @@
             <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Men Are From Mars Women Are From Venus Live! at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Men Are From Mars Women Are From Venus Live! at Playhouse Square on Friday, January 19, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2]]></description>
-            <link>https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2</guid>
-            <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[Nimesh Patel at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Nimesh Patel at Playhouse Square on Sunday, January 21, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</guid>
+            <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
@@ -1202,13 +1174,6 @@
             <link>https://www.playhousesquare.org/events/detail/flanagans-wake-2</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-2</guid>
             <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nimesh Patel at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Nimesh Patel at Playhouse Square on Sunday, January 21, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour]]></description>
-            <link>https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour</guid>
-            <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[John Crist at Playhouse Square]]></title>
@@ -1470,13 +1435,6 @@
             <pubDate>Fri, 16 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TRE FEST at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRE FEST at Foundry on Saturday, February 17, 2024, 05:30 PM: https://www.foundryconcertclub.com/tm-event/tre-fest/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/tre-fest/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/tre-fest/</guid>
-            <pubDate>Sat, 17 Feb 2024 17:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
             <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, February 19, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/</link>
@@ -1559,13 +1517,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/</guid>
             <pubDate>Mon, 20 May 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who Hit Me, Fawx/ Bleeder, Fawx, Bleeder at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Who Hit Me, Fawx/ Bleeder, Fawx, Bleeder at Grog Shop on Saturday, January 20, 2024, 08:00 PM: https://grogshop.gs/event-details/13339853/who-hit-me-fawx-bleeder]]></description>
-            <link>https://grogshop.gs/event-details/13339853/who-hit-me-fawx-bleeder</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13339853/who-hit-me-fawx-bleeder</guid>
-            <pubDate>Sat, 20 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Found Footage Festival Vol. 10: Popcorn Classics, Lenora's Midnight Rental at Grog Shop]]></title>
@@ -2364,13 +2315,6 @@
             <link>https://www.ticketmaster.com/the-alarm-live-today-love-tomorrow-cleveland-ohio-05-15-2024/event/0500603004A24A65</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/the-alarm-live-today-love-tomorrow-cleveland-ohio-05-15-2024/event/0500603004A24A65</guid>
             <pubDate>Wed, 15 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mean Girls dance night at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Mean Girls dance night at Mahall’s on Sunday, January 21, 2024, 01:00 AM: https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6]]></description>
-            <link>https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6</link>
-            <guid isPermaLink="true">https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6</guid>
-            <pubDate>Sun, 21 Jan 2024 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jukebox Breakdown aka Emo Night CLE at Mahall’s]]></title>

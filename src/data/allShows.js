@@ -1,27 +1,5 @@
 export const allShows = [
   {
-    artist: ['Spafford', 'Unc D'],
-    link: 'https://www.beachlandballroom.com/e/13757338/spafford-unc-d',
-    date: '2024-01-19T19:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: [
-      'DaLand Brass Band',
-      'Wave Magnetick & Rowanne Atallah',
-      'Factual Brains',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13324473/daland-brass-band-wave-magnetick-rowanne-atallah-factual-brains',
-    date: '2024-01-19T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Saturday Brunch'],
-    link: 'https://www.beachlandballroom.com/e/13409893/saturday-brunch',
-    date: '2024-01-20T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Revival ABB'],
     link: 'https://www.beachlandballroom.com/e/13315493/revival-abb',
     date: '2024-01-20T20:00:00',
@@ -810,12 +788,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Ten: A Tribute To Pearl Jam'],
-    link: 'https://concerts.livenation.com/ten-a-tribute-to-pearl-jam-cleveland-ohio-01-20-2024/event/05005F54D64349E2',
-    date: '2024-01-20T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['The Devil Wears Prada & Fit For A King: METALCORE DROPOUTS'],
     link: 'https://concerts.livenation.com/the-devil-wears-prada-fit-for-cleveland-ohio-01-21-2024/event/05005F51E8633FDA',
     date: '2024-01-21T18:00:00',
@@ -1086,21 +1058,15 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Men Are From Mars Women Are From Venus Live!'],
-    link: 'https://www.playhousesquare.org/events/detail/men-are-from-mars-women-are-from-venus-live-2',
-    date: '2024-01-19',
+    artist: ['Nimesh Patel'],
+    link: 'https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour',
+    date: '2024-01-21',
     venue: 'Playhouse Square',
   },
   {
     artist: ["Flanagan's Wake"],
     link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
     date: '2024-01-05',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Nimesh Patel'],
-    link: 'https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour',
-    date: '2024-01-21',
     venue: 'Playhouse Square',
   },
   {
@@ -1326,12 +1292,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['TRE FEST'],
-    link: 'https://www.foundryconcertclub.com/tm-event/tre-fest/',
-    date: '2024-02-17T17:30:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/',
     date: '2024-02-19T18:00:00',
@@ -1406,12 +1366,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/',
     date: '2024-05-20T19:30:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Who Hit Me', 'Fawx/ Bleeder', 'Fawx', 'Bleeder'],
-    link: 'https://grogshop.gs/event-details/13339853/who-hit-me-fawx-bleeder',
-    date: '2024-01-20T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1719,6 +1673,7 @@ export const allShows = [
   {
     artist: ['Mannequin Pussy, Soul Glo'],
     link: 'https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo',
+    sold_out: true,
     date: '2024-04-12T20:30:00',
     venue: 'Grog Shop',
   },
@@ -2179,12 +2134,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/the-alarm-live-today-love-tomorrow-cleveland-ohio-05-15-2024/event/0500603004A24A65',
     date: '2024-05-15T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Mean Girls dance night'],
-    link: 'https://link.dice.fm/r93c9dd299f6?dice_id=r93c9dd299f6',
-    date: '2024-01-20T20:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Jukebox Breakdown aka Emo Night CLE'],

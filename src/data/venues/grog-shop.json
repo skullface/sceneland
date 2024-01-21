@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Who Hit Me",
-      "Fawx/ Bleeder",
-      "Fawx",
-      "Bleeder"
-    ],
-    "link": "https://grogshop.gs/event-details/13339853/who-hit-me-fawx-bleeder",
-    "date": "2024-01-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Found Footage Festival Vol. 10: Popcorn Classics",
       "Lenora's Midnight Rental"
     ],
@@ -399,6 +388,7 @@
       "Mannequin Pussy, Soul Glo"
     ],
     "link": "https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo",
+    "sold_out": true,
     "date": "2024-04-12T20:30:00",
     "venue": "Grog Shop"
   },

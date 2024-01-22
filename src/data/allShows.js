@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['Revival ABB'],
-    link: 'https://www.beachlandballroom.com/e/13315493/revival-abb',
-    date: '2024-01-20T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Bearly Dead: A Tribute To The Grateful Dead'],
-    link: 'https://www.beachlandballroom.com/e/13556588/bearly-dead-a-tribute-to-the-grateful-dead',
-    date: '2024-01-20T20:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Lowertown', 'Unrecovery'],
     link: 'https://www.beachlandballroom.com/e/13262283/lowertown-unrecovery',
     date: '2024-01-21T20:00:00',
@@ -788,12 +776,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['The Devil Wears Prada & Fit For A King: METALCORE DROPOUTS'],
-    link: 'https://concerts.livenation.com/the-devil-wears-prada-fit-for-cleveland-ohio-01-21-2024/event/05005F51E8633FDA',
-    date: '2024-01-21T18:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Big Head Todd & the Monsters'],
     link: 'https://concerts.livenation.com/big-head-todd-the-monsters-cleveland-ohio-01-23-2024/event/05005F3B06A74B56',
     date: '2024-01-23T18:30:00',
@@ -1058,12 +1040,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Nimesh Patel'],
-    link: 'https://www.playhousesquare.org/events/detail/nimesh-patel-fast-and-loose-tour',
-    date: '2024-01-21',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ["Flanagan's Wake"],
     link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
     date: '2024-01-05',
@@ -1232,12 +1208,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['THE "FIGHT AS ONE" TOUR'],
-    link: 'https://www.foundryconcertclub.com/tm-event/the-fight-as-one-tour/',
-    date: '2024-01-20T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['King 810, Ignominius, The Behest Of Serpants'],
     link: 'https://www.foundryconcertclub.com/tm-event/king-810-ignominius-the-behest-of-serpants/',
     date: '2024-01-21T19:00:00',
@@ -1292,9 +1262,9 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/',
-    date: '2024-02-19T18:00:00',
+    artist: ['TRE FEST'],
+    link: 'https://www.foundryconcertclub.com/tm-event/tre-fest/',
+    date: '2024-02-17T17:30:00',
     venue: 'Foundry',
   },
   {
@@ -1303,6 +1273,12 @@ export const allShows = [
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/',
     date: '2024-02-22T18:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/',
+    date: '2024-02-26T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1366,15 +1342,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/',
     date: '2024-05-20T19:30:00',
     venue: 'Foundry',
-  },
-  {
-    artist: [
-      'Found Footage Festival Vol. 10: Popcorn Classics',
-      "Lenora's Midnight Rental",
-    ],
-    link: 'https://grogshop.gs/event-details/13748748/found-footage-festival-vol-10-popcorn-classics',
-    date: '2024-01-21T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1541,6 +1508,12 @@ export const allShows = [
     ],
     link: 'https://grogshop.gs/event-details/13319083/j-robbins-band-with-whatever-and-sunburnsun',
     date: '2024-02-17T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Centerless', 'funeral commercial', 'Fuzzy Vandelay'],
+    link: 'https://grogshop.gs/event-details/13454203/centerless-funeral-commercial-fuzzy-vandelay',
+    date: '2024-02-18T20:00:00',
     venue: 'Grog Shop',
   },
   {

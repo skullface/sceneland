@@ -136,6 +136,11 @@
     "venue": "Masonic Temple"
   },
   {
+    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
+    "date": "2024-03-22T19:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
     "artist": [
       "Sea of Treachery"
     ],
@@ -229,6 +234,30 @@
     ],
     "link": "https://www.ticketmaster.com/the-alarm-live-today-love-tomorrow-cleveland-ohio-05-15-2024/event/0500603004A24A65",
     "date": "2024-05-15T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Josh Turner"
+    ],
+    "link": "https://www.ticketmaster.com/josh-turner-cleveland-ohio-06-07-2024/event/05006026B15E2CEE",
+    "date": "2024-06-07T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Young Dubliners"
+    ],
+    "link": "https://www.ticketmaster.com/young-dubliners-cleveland-ohio-06-22-2024/event/05006028A9E01969",
+    "date": "2024-06-22T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Henry Cho \u2013 From Here To There Tour 2024"
+    ],
+    "link": "https://www.ticketmaster.com/henry-cho-from-here-to-there-cleveland-ohio-07-27-2024/event/05006026BE69371F",
+    "date": "2024-07-27T20:30:00",
     "venue": "Masonic Temple"
   }
 ]

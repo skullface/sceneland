@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Lowertown",
-      "Unrecovery"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13262283/lowertown-unrecovery",
-    "date": "2024-01-21T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The New Soft Shoe"
     ],
     "link": "https://www.beachlandballroom.com/e/13270023/the-new-soft-shoe",
@@ -112,6 +103,14 @@
     "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies-the-grilled-lincolns-higher-education",
     "date": "2024-02-02T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13456463/beachland-brunch",
+    "date": "2024-02-03T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -370,9 +369,10 @@
   },
   {
     "artist": [
-      "Ally Venable"
+      "Ally Venable",
+      "The Brakes"
     ],
-    "link": "https://www.beachlandballroom.com/e/13323923/ally-venable",
+    "link": "https://www.beachlandballroom.com/e/13323923/ally-venable-the-brakes",
     "date": "2024-03-10T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -572,6 +572,15 @@
     "link": "https://www.beachlandballroom.com/e/13342933/adam-paddock-the-meatball-mob-flavor-wave-emma-bieniewicz",
     "date": "2024-04-06T20:30:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Woods",
+      "Avey Tare"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13451573/woods-avey-tare",
+    "date": "2024-04-07T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

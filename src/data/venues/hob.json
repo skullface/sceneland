@@ -281,10 +281,26 @@
   },
   {
     "artist": [
+      "Atmosphere: Tour De Friends Part Deux"
+    ],
+    "link": "https://concerts.livenation.com/atmosphere-tour-de-friends-part-deux-cleveland-ohio-04-28-2024/event/0500602C797B0F20",
+    "date": "2024-04-28T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Drake White: The Bridge Tour"
     ],
     "link": "https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176",
     "date": "2024-05-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Thievery Corporation"
+    ],
+    "link": "https://concerts.livenation.com/thievery-corporation-cleveland-ohio-05-08-2024/event/05006028A7471822",
+    "date": "2024-05-08T19:00:00",
     "venue": "House of Blues"
   },
   {

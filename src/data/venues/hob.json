@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Big Head Todd & the Monsters"
-    ],
-    "link": "https://concerts.livenation.com/big-head-todd-the-monsters-cleveland-ohio-01-23-2024/event/05005F3B06A74B56",
-    "date": "2024-01-23T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Lyn Lapid: to love in the 21st century tour: the epilogue tour"
     ],
     "link": "https://concerts.livenation.com/lyn-lapid-to-love-in-the-cleveland-ohio-01-26-2024/event/05005F692285640A",
@@ -365,6 +357,14 @@
     ],
     "link": "https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0",
     "date": "2024-08-27T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Lord of the Lost"
+    ],
+    "link": "https://concerts.livenation.com/lord-of-the-lost-cleveland-ohio-09-20-2024/event/05006033CC4F7495",
+    "date": "2024-09-20T19:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -272,6 +272,14 @@
   },
   {
     "artist": [
+      "Into The Blue"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13451153/into-the-blue",
+    "date": "2024-02-23T21:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Ike Reilly"
     ],
     "link": "https://www.beachlandballroom.com/e/13388693/ike-reilly",
@@ -415,9 +423,10 @@
   },
   {
     "artist": [
-      "Tow'rs"
+      "Tow'rs",
+      "A Boy and His Kite"
     ],
-    "link": "https://www.beachlandballroom.com/e/13265473/tow-rs",
+    "link": "https://www.beachlandballroom.com/e/13265473/tow-rs-a-boy-and-his-kite",
     "date": "2024-03-19T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -475,6 +484,16 @@
     "link": "https://www.beachlandballroom.com/e/13708828/post-sex-nachos-similar-kind",
     "date": "2024-03-26T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Austin \"Walkin\" Cane",
+      "Colin Dussault",
+      "Hosted by DC Carnes and the DC3"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13460663/austin-walkin-cane-colin-dussault-hosted-by-dc-carnes-and-the-dc3",
+    "date": "2024-03-27T19:30:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -670,6 +689,14 @@
   },
   {
     "artist": [
+      "Rich Aucoin"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13441843/rich-aucoin",
+    "date": "2024-04-18T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Night Club",
       "JPEG"
     ],
@@ -812,6 +839,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank",
     "date": "2024-07-12T19:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "David Cross Lark's Tongue Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13447953/david-cross-lark-s-tongue-band",
+    "date": "2024-10-11T19:30:00",
     "venue": "Beachland Ballroom"
   },
   {

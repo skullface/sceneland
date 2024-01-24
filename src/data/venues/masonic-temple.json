@@ -128,15 +128,15 @@
     "venue": "Masonic Temple"
   },
   {
-    "artist": [
-      "William Black"
-    ],
-    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
+    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
     "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   },
   {
-    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
+    "artist": [
+      "William Black"
+    ],
+    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
     "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   },
@@ -174,10 +174,34 @@
   },
   {
     "artist": [
+      "Joey Aich"
+    ],
+    "link": "https://www.ticketmaster.com/joey-aich-cleveland-ohio-04-05-2024/event/0500603540AE6A94",
+    "date": "2024-04-05T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Gimme Sugar & Mister Breeze"
     ],
     "link": "https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546",
     "date": "2024-04-13T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "EMO ORCHESTRA featuring ESCAPE THE FATE"
+    ],
+    "link": "https://www.ticketmaster.com/emo-orchestra-featuring-escape-the-fate-cleveland-ohio-04-19-2024/event/050060333A828853",
+    "date": "2024-04-19T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed"
+    ],
+    "link": "https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5",
+    "date": "2024-04-19T20:00:00",
     "venue": "Masonic Temple"
   },
   {

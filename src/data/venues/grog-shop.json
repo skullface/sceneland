@@ -42,7 +42,6 @@
       "Hotline TNT"
     ],
     "link": "https://grogshop.gs/event-details/13720188/wednesday",
-    "sold_out": true,
     "date": "2024-01-28T20:00:00",
     "venue": "Grog Shop"
   },
@@ -417,6 +416,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13429733/scott-h-biram",
     "date": "2024-04-18T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Mickey Darling"
+    ],
+    "link": "https://grogshop.gs/event-details/13451703/mickey-darling",
+    "date": "2024-04-20T20:30:00",
     "venue": "Grog Shop"
   },
   {

@@ -209,6 +209,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Into The Blue'],
+    link: 'https://www.beachlandballroom.com/e/13451153/into-the-blue',
+    date: '2024-02-23T21:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Ike Reilly'],
     link: 'https://www.beachlandballroom.com/e/13388693/ike-reilly',
     date: '2024-02-24T20:00:00',
@@ -310,8 +316,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ["Tow'rs"],
-    link: 'https://www.beachlandballroom.com/e/13265473/tow-rs',
+    artist: ["Tow'rs", 'A Boy and His Kite'],
+    link: 'https://www.beachlandballroom.com/e/13265473/tow-rs-a-boy-and-his-kite',
     date: '2024-03-19T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -356,6 +362,16 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13708828/post-sex-nachos-similar-kind',
     date: '2024-03-26T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: [
+      'Austin "Walkin" Cane',
+      'Colin Dussault',
+      'Hosted by DC Carnes and the DC3',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13460663/austin-walkin-cane-colin-dussault-hosted-by-dc-carnes-and-the-dc3',
+    date: '2024-03-27T19:30:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Pacific Dub'],
@@ -496,6 +512,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Rich Aucoin'],
+    link: 'https://www.beachlandballroom.com/e/13441843/rich-aucoin',
+    date: '2024-04-18T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Night Club', 'JPEG'],
     link: 'https://www.beachlandballroom.com/e/13421723/night-club-jpeg',
     date: '2024-04-19T20:00:00',
@@ -595,6 +617,12 @@ export const allShows = [
     artist: ['APOCALYPS Records Festival', 'Kingxzell', 'Johnny and Swank'],
     link: 'https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank',
     date: '2024-07-12T19:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ["David Cross Lark's Tongue Band"],
+    link: 'https://www.beachlandballroom.com/e/13447953/david-cross-lark-s-tongue-band',
+    date: '2024-10-11T19:30:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -725,12 +753,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['24th Greater Cleveland Sports Awards'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/24th-greater-cleveland-sports-awards',
-    date: '2024-01-23',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
     artist: ['Madonna: The Celebration Tour'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/madonna-the-celebration-tour-240208',
     date: '2024-02-08',
@@ -786,12 +808,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2026-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Big Head Todd & the Monsters'],
-    link: 'https://concerts.livenation.com/big-head-todd-the-monsters-cleveland-ohio-01-23-2024/event/05005F3B06A74B56',
-    date: '2024-01-23T18:30:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Lyn Lapid: to love in the 21st century tour: the epilogue tour'],
@@ -1064,6 +1080,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Lord of the Lost'],
+    link: 'https://concerts.livenation.com/lord-of-the-lost-cleveland-ohio-09-20-2024/event/05006033CC4F7495',
+    date: '2024-09-20T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ["Flanagan's Wake"],
     link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
     date: '2024-01-05',
@@ -1232,15 +1254,9 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Nems x Mac Lethal'],
-    link: 'https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/',
-    date: '2024-01-23T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
     link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
-    date: '2024-01-26T18:00:00',
+    date: '2024-01-26T18:30:00',
     venue: 'Foundry',
   },
   {
@@ -1294,12 +1310,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/',
-    date: '2024-02-19T18:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Cast Iron Comedy Showcase'],
     link: 'https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/',
     date: '2024-02-20T20:00:00',
@@ -1319,6 +1329,12 @@ export const allShows = [
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/',
     date: '2024-02-24T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/',
+    date: '2024-02-26T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1412,7 +1428,6 @@ export const allShows = [
   {
     artist: ['Wednesday', 'Hotline TNT'],
     link: 'https://grogshop.gs/event-details/13720188/wednesday',
-    sold_out: true,
     date: '2024-01-28T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1709,6 +1724,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Mickey Darling'],
+    link: 'https://grogshop.gs/event-details/13451703/mickey-darling',
+    date: '2024-04-20T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: [
       'MIKE "Somebody Fine Me Trouble" Tour',
       '454',
@@ -1975,6 +1996,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Chappell Roan'],
+    link: 'https://www.agoracleveland.com/events/detail/526058',
+    date: '2024-05-28T19:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['House of BurlesCLE 2.0'],
     link: 'https://www.agoracleveland.com/events/detail/521430',
     date: '2024-06-08T18:00:00',
@@ -2089,13 +2116,13 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['William Black'],
-    link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
+    link: 'https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
   },
   {
-    link: 'https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1',
+    artist: ['William Black'],
+    link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
   },
@@ -2124,9 +2151,27 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['Joey Aich'],
+    link: 'https://www.ticketmaster.com/joey-aich-cleveland-ohio-04-05-2024/event/0500603540AE6A94',
+    date: '2024-04-05T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['Gimme Sugar & Mister Breeze'],
     link: 'https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546',
     date: '2024-04-13T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['EMO ORCHESTRA featuring ESCAPE THE FATE'],
+    link: 'https://www.ticketmaster.com/emo-orchestra-featuring-escape-the-fate-cleveland-ohio-04-19-2024/event/050060333A828853',
+    date: '2024-04-19T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed'],
+    link: 'https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5',
+    date: '2024-04-19T20:00:00',
     venue: 'Masonic Temple',
   },
   {
@@ -2380,6 +2425,12 @@ export const allShows = [
     link: 'https://link.dice.fm/Q5a5918ecf59?dice_id=Q5a5918ecf59',
     date: '2024-03-27T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Magazine Beach'],
+    link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Arden Jones'],

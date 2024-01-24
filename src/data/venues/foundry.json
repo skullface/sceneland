@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "Nems x Mac Lethal"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/nems-x-mac-lethal/",
-    "date": "2024-01-23T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Archers, Savage Hands, Nerv, A Sense Of Purpose"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/",
-    "date": "2024-01-26T18:00:00",
+    "date": "2024-01-26T18:30:00",
     "venue": "Foundry"
   },
   {
@@ -81,14 +73,6 @@
   },
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/",
-    "date": "2024-02-19T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Cast Iron Comedy Showcase"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
@@ -109,6 +93,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/",
     "date": "2024-02-24T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/",
+    "date": "2024-02-26T18:00:00",
     "venue": "Foundry"
   },
   {

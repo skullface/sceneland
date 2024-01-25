@@ -225,6 +225,14 @@
   },
   {
     "artist": [
+      "The Taylor Party: The TS Dance Party: 21 & Over Only"
+    ],
+    "link": "https://concerts.livenation.com/the-taylor-party-the-ts-dance-cleveland-ohio-03-29-2024/event/05006032D50A430F",
+    "date": "2024-03-29T20:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Set It Off: The Deathless Tour"
     ],
     "link": "https://concerts.livenation.com/set-it-off-the-deathless-tour-cleveland-ohio-03-30-2024/event/05005F75A67815E6",
@@ -281,6 +289,14 @@
   },
   {
     "artist": [
+      "The Struts The Pretty Vicious Tour 2024 With Special Guest L\u00f8 Spirit"
+    ],
+    "link": "https://concerts.livenation.com/the-struts-the-pretty-vicious-tour-cleveland-ohio-04-30-2024/event/0500602D07044CB3",
+    "date": "2024-04-30T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Drake White: The Bridge Tour"
     ],
     "link": "https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176",
@@ -321,6 +337,14 @@
   },
   {
     "artist": [
+      "X Ambassadors: TOWNIE: NORTH AMERICAN TOUR"
+    ],
+    "link": "https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9",
+    "date": "2024-05-26T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Siwa Presents XOMG POP! LIVE"
     ],
     "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
@@ -357,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0",
     "date": "2024-08-27T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Lord of the Lost"
-    ],
-    "link": "https://concerts.livenation.com/lord-of-the-lost-cleveland-ohio-09-20-2024/event/05006033CC4F7495",
-    "date": "2024-09-20T19:00:00",
     "venue": "House of Blues"
   }
 ]

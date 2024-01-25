@@ -21,11 +21,11 @@ export const allShows = [
     artist: [
       'Jinari Kemet',
       'Zup',
-      'Marcus Smith',
       'akaFayaven',
+      'Marcus Smith',
       'Hosted by Toby Raps',
     ],
-    link: 'https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-akafayaven-hosted-by-toby-raps',
+    link: 'https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-akafayaven-marcus-smith-hosted-by-toby-raps',
     date: '2024-01-26T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -73,6 +73,12 @@ export const allShows = [
     artist: ['Mark Gamsjager & the Lustre Kings', 'DJ Mittenclips'],
     link: 'https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings-dj-mittenclips',
     date: '2024-02-01T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Post Party', 'Minka'],
+    link: 'https://www.beachlandballroom.com/e/13464543/post-party-minka',
+    date: '2024-02-02T18:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -221,6 +227,24 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Hedwig and the Angry Inch Screening'],
+    link: 'https://www.beachlandballroom.com/e/13464453/hedwig-and-the-angry-inch-screening',
+    date: '2024-02-25T19:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: [
+      'S.Y.S. (Save YourSelf)',
+      'Chimi',
+      'Medlee',
+      'Sadhu',
+      'A.M. The Queen',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13464883/s-y-s-save-yourself-chimi-medlee-sadhu-a-m-the-queen',
+    date: '2024-02-25T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Tyler Ramsey', 'Kramies'],
     link: 'https://www.beachlandballroom.com/e/13708728/tyler-ramsey-kramies',
     date: '2024-02-27T20:30:00',
@@ -278,6 +302,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13420333/bobby-rush',
     date: '2024-03-07T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Laveda'],
+    link: 'https://www.beachlandballroom.com/e/13457343/laveda',
+    date: '2024-03-07T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Ekoostik Hookah'],
@@ -374,8 +404,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Pacific Dub'],
-    link: 'https://www.beachlandballroom.com/e/13247243/pacific-dub',
+    artist: ['Pacific Dub', 'Lake Irie'],
+    link: 'https://www.beachlandballroom.com/e/13247243/pacific-dub-lake-irie',
     date: '2024-03-27T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -572,6 +602,18 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Vision Video', 'Then Comes Silence'],
+    link: 'https://www.beachlandballroom.com/e/13451533/vision-video-then-comes-silence',
+    date: '2024-04-30T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['The Arcadian Wild'],
+    link: 'https://www.beachlandballroom.com/e/13442823/the-arcadian-wild',
+    date: '2024-05-01T19:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Ty Segall', 'Sharpie Smile'],
     link: 'https://www.beachlandballroom.com/e/13457108/ty-segall-sharpie-smile',
     date: '2024-05-05T20:00:00',
@@ -668,6 +710,12 @@ export const allShows = [
     artist: ['Hank Williams Jr.'],
     link: 'https://concerts.livenation.com/hank-williams-jr-cuyahoga-falls-ohio-06-21-2024/event/05005F7CA31716BD',
     date: '2024-06-21T19:00:00',
+    venue: 'Blossom',
+  },
+  {
+    artist: ['Dave Matthews Band'],
+    link: 'https://concerts.livenation.com/dave-matthews-band-cuyahoga-falls-ohio-06-25-2024/event/05005F85C5625046',
+    date: '2024-06-25T19:00:00',
     venue: 'Blossom',
   },
   {
@@ -978,6 +1026,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['The Taylor Party: The TS Dance Party: 21 & Over Only'],
+    link: 'https://concerts.livenation.com/the-taylor-party-the-ts-dance-cleveland-ohio-03-29-2024/event/05006032D50A430F',
+    date: '2024-03-29T20:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Set It Off: The Deathless Tour'],
     link: 'https://concerts.livenation.com/set-it-off-the-deathless-tour-cleveland-ohio-03-30-2024/event/05005F75A67815E6',
     date: '2024-03-30T17:30:00',
@@ -1020,6 +1074,14 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: [
+      'The Struts The Pretty Vicious Tour 2024 With Special Guest L\u00f8 Spirit',
+    ],
+    link: 'https://concerts.livenation.com/the-struts-the-pretty-vicious-tour-cleveland-ohio-04-30-2024/event/0500602D07044CB3',
+    date: '2024-04-30T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Drake White: The Bridge Tour'],
     link: 'https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176',
     date: '2024-05-02T19:00:00',
@@ -1050,6 +1112,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['X Ambassadors: TOWNIE: NORTH AMERICAN TOUR'],
+    link: 'https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9',
+    date: '2024-05-26T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Siwa Presents XOMG POP! LIVE'],
     link: 'https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48',
     date: '2024-06-12T17:30:00',
@@ -1077,12 +1145,6 @@ export const allShows = [
     artist: ['Magic Men Australia'],
     link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
     date: '2024-08-27T18:30:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Lord of the Lost'],
-    link: 'https://concerts.livenation.com/lord-of-the-lost-cleveland-ohio-09-20-2024/event/05006033CC4F7495',
-    date: '2024-09-20T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1400,14 +1462,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: [
-      'Jack Lutz + Temple Brothers, Rooftops, Unseen Keys, Seconds Away',
-    ],
-    link: 'https://grogshop.gs/event-details/13266893/jack-lutz-temple-brothers-rooftops-unseen-keys-seconds-away',
-    date: '2024-01-24T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Grandview & Hanging Johnny', 'Grandview', 'Hanging Johnny'],
     link: 'https://grogshop.gs/event-details/13330923/grandview-hanging-johnny',
     date: '2024-01-25T19:30:00',
@@ -1428,6 +1482,7 @@ export const allShows = [
   {
     artist: ['Wednesday', 'Hotline TNT'],
     link: 'https://grogshop.gs/event-details/13720188/wednesday',
+    sold_out: true,
     date: '2024-01-28T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1618,6 +1673,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['"Back To 2005" Movie Premiere'],
+    link: 'https://grogshop.gs/event-details/13465833/-back-to-2005-movie-premiere',
+    date: '2024-03-03T18:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['"Back To 2005" Movie Premiere (Second Showing)'],
+    link: 'https://grogshop.gs/event-details/13465863/-back-to-2005-movie-premiere-second-showing-',
+    date: '2024-03-03T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['BabyTron'],
     link: 'https://grogshop.gs/event-details/13853798/babytron',
     date: '2024-03-06T20:00:00',
@@ -1693,8 +1760,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Kate Clover'],
-    link: 'https://grogshop.gs/event-details/13435643/kate-clover',
+    artist: ['Kate Clover', 'Autopolitan'],
+    link: 'https://grogshop.gs/event-details/13435643/kate-clover-autopolitan',
     date: '2024-04-03T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1747,8 +1814,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Meatbodies'],
-    link: 'https://grogshop.gs/event-details/13318953/meatbodies',
+    artist: ['Meatbodies', 'Population II', 'Brood X'],
+    link: 'https://grogshop.gs/event-details/13318953/meatbodies-population-ii-brood-x',
     date: '2024-04-24T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2529,7 +2596,7 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Jeffrey Martin'],
+    artist: ['Jeffrey Martin with special guest Dean Johnson'],
     link: 'https://link.dice.fm/ndd45cda1606?dice_id=ndd45cda1606',
     date: '2024-05-16T19:00:00-04:00',
     venue: 'Mahall\u2019s',

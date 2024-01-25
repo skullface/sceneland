@@ -29,11 +29,11 @@
     "artist": [
       "Jinari Kemet",
       "Zup",
-      "Marcus Smith",
       "akaFayaven",
+      "Marcus Smith",
       "Hosted by Toby Raps"
     ],
-    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-marcus-smith-akafayaven-hosted-by-toby-raps",
+    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-akafayaven-marcus-smith-hosted-by-toby-raps",
     "date": "2024-01-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -92,6 +92,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings-dj-mittenclips",
     "date": "2024-02-01T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Post Party",
+      "Minka"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13464543/post-party-minka",
+    "date": "2024-02-02T18:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -288,6 +297,26 @@
   },
   {
     "artist": [
+      "Hedwig and the Angry Inch Screening"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13464453/hedwig-and-the-angry-inch-screening",
+    "date": "2024-02-25T19:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "S.Y.S. (Save YourSelf)",
+      "Chimi",
+      "Medlee",
+      "Sadhu",
+      "A.M. The Queen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13464883/s-y-s-save-yourself-chimi-medlee-sadhu-a-m-the-queen",
+    "date": "2024-02-25T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Tyler Ramsey",
       "Kramies"
     ],
@@ -366,6 +395,14 @@
     "link": "https://www.beachlandballroom.com/e/13420333/bobby-rush",
     "date": "2024-03-07T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Laveda"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13457343/laveda",
+    "date": "2024-03-07T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -497,9 +534,10 @@
   },
   {
     "artist": [
-      "Pacific Dub"
+      "Pacific Dub",
+      "Lake Irie"
     ],
-    "link": "https://www.beachlandballroom.com/e/13247243/pacific-dub",
+    "link": "https://www.beachlandballroom.com/e/13247243/pacific-dub-lake-irie",
     "date": "2024-03-27T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -768,6 +806,23 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13361123/midnight-north-fireside-collective",
     "date": "2024-04-28T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Vision Video",
+      "Then Comes Silence"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13451533/vision-video-then-comes-silence",
+    "date": "2024-04-30T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "The Arcadian Wild"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13442823/the-arcadian-wild",
+    "date": "2024-05-01T19:30:00",
     "venue": "Beachland Tavern"
   },
   {

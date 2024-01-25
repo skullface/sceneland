@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jack Lutz + Temple Brothers, Rooftops, Unseen Keys, Seconds Away"
-    ],
-    "link": "https://grogshop.gs/event-details/13266893/jack-lutz-temple-brothers-rooftops-unseen-keys-seconds-away",
-    "date": "2024-01-24T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Grandview & Hanging Johnny",
       "Grandview",
       "Hanging Johnny"
@@ -42,6 +34,7 @@
       "Hotline TNT"
     ],
     "link": "https://grogshop.gs/event-details/13720188/wednesday",
+    "sold_out": true,
     "date": "2024-01-28T20:00:00",
     "venue": "Grog Shop"
   },
@@ -276,6 +269,22 @@
   },
   {
     "artist": [
+      "\"Back To 2005\" Movie Premiere"
+    ],
+    "link": "https://grogshop.gs/event-details/13465833/-back-to-2005-movie-premiere",
+    "date": "2024-03-03T18:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "\"Back To 2005\" Movie Premiere (Second Showing)"
+    ],
+    "link": "https://grogshop.gs/event-details/13465863/-back-to-2005-movie-premiere-second-showing-",
+    "date": "2024-03-03T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "BabyTron"
     ],
     "link": "https://grogshop.gs/event-details/13853798/babytron",
@@ -377,9 +386,10 @@
   },
   {
     "artist": [
-      "Kate Clover"
+      "Kate Clover",
+      "Autopolitan"
     ],
-    "link": "https://grogshop.gs/event-details/13435643/kate-clover",
+    "link": "https://grogshop.gs/event-details/13435643/kate-clover-autopolitan",
     "date": "2024-04-03T20:00:00",
     "venue": "Grog Shop"
   },
@@ -447,9 +457,11 @@
   },
   {
     "artist": [
-      "Meatbodies"
+      "Meatbodies",
+      "Population II",
+      "Brood X"
     ],
-    "link": "https://grogshop.gs/event-details/13318953/meatbodies",
+    "link": "https://grogshop.gs/event-details/13318953/meatbodies-population-ii-brood-x",
     "date": "2024-04-24T20:00:00",
     "venue": "Grog Shop"
   },

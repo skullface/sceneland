@@ -97,6 +97,14 @@
   },
   {
     "artist": [
+      "Sorelle"
+    ],
+    "link": "https://concerts.livenation.com/sorelle-cleveland-ohio-02-24-2024/event/050060373EE171FF",
+    "date": "2024-02-24T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Trippin Billies"
     ],
     "link": "https://concerts.livenation.com/trippin-billies-cleveland-ohio-02-24-2024/event/05005F86B35840A5",
@@ -221,6 +229,14 @@
     ],
     "link": "https://concerts.livenation.com/a-flock-of-seagulls-cleveland-ohio-03-28-2024/event/05005F61AAF63BDF",
     "date": "2024-03-28T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Sleepy Hallow: Boy Meets World Tour"
+    ],
+    "link": "https://concerts.livenation.com/sleepy-hallow-boy-meets-world-tour-cleveland-ohio-03-28-2024/event/05006038A94D4B2A",
+    "date": "2024-03-28T19:30:00",
     "venue": "House of Blues"
   },
   {
@@ -365,22 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C",
     "date": "2024-06-18T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "POP 2000 Tour"
-    ],
-    "link": "https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49",
-    "date": "2024-07-14T16:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Magic Men Australia"
-    ],
-    "link": "https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0",
-    "date": "2024-08-27T18:30:00",
     "venue": "House of Blues"
   }
 ]

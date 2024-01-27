@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Cavale",
-      "JSSZCA",
-      "Tessas"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13279863/cavale-jsszca-tessas",
-    "date": "2024-01-25T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Northeast Ohio Drum & Music Jam"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam",
-    "date": "2024-01-25T21:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Jinari Kemet",
       "Zup",
       "akaFayaven",
@@ -129,6 +111,7 @@
       "C-Level"
     ],
     "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level",
+    "sold_out": true,
     "date": "2024-02-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -155,6 +138,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops",
     "date": "2024-02-08T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Pre/Post Party with goor\u00fc"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-",
+    "date": "2024-02-09T18:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -429,7 +420,7 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam",
     "date": "2024-03-14T20:00:00",
-    "venue": "Beachland Tavern"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -499,6 +490,14 @@
   },
   {
     "artist": [
+      "This Is Just A Tribute: Rize of the Fenix"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix",
+    "date": "2024-03-23T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Shovels & Rope"
     ],
     "link": "https://www.beachlandballroom.com/e/13856508/shovels-rope",
@@ -560,9 +559,10 @@
   },
   {
     "artist": [
-      "Matt Andersen"
+      "Matt Andersen",
+      "Old Man Luedecke"
     ],
-    "link": "https://www.beachlandballroom.com/e/13328773/matt-andersen",
+    "link": "https://www.beachlandballroom.com/e/13328773/matt-andersen-old-man-luedecke",
     "date": "2024-04-02T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -832,6 +832,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13434413/varietopia-with-paul-f-tompkins",
     "date": "2024-05-06T19:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Varietopia with Paul F. Tompkins"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13471863/varietopia-with-paul-f-tompkins",
+    "date": "2024-05-06T22:00:00",
     "venue": "Beachland Ballroom"
   },
   {

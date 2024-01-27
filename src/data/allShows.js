@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Flatland Cavalry'],
-    link: 'https://www.agoracleveland.com/events/detail/509624',
-    date: '2024-01-26T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Get The Led Out'],
     link: 'https://www.agoracleveland.com/events/detail/507064',
     date: '2024-02-01T19:00:00',
@@ -114,7 +108,7 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Benjamin Tod & Lost Dog Street Band'],
+    artist: ['Benjamin Tod & Lost Dog Street Band, Resonant Rogues'],
     link: 'https://www.agoracleveland.com/events/detail/511793',
     date: '2024-04-19T19:00:00',
     venue: 'Agora',
@@ -322,18 +316,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/loud-and-proud-starring-nina-west',
     date: '2024-06-01',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Lyn Lapid: to love in the 21st century tour: the epilogue tour'],
-    link: 'https://concerts.livenation.com/lyn-lapid-to-love-in-the-cleveland-ohio-01-26-2024/event/05005F692285640A',
-    date: '2024-01-26T18:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Colors Presents: R&B Only (21 And Over)'],
-    link: 'https://concerts.livenation.com/colors-presents-rb-only-21-and-cleveland-ohio-01-26-2024/event/05005F94CCBB2EAC',
-    date: '2024-01-26T20:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Joseph'],
@@ -611,6 +593,18 @@ export const allShows = [
     artist: ['Taking Back Sunday'],
     link: 'https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C',
     date: '2024-06-18T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['POP 2000 Tour'],
+    link: 'https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49',
+    date: '2024-07-14T16:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Magic Men Australia'],
+    link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
+    date: '2024-08-27T18:30:00',
     venue: 'House of Blues',
   },
   {
@@ -899,12 +893,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Jukebox Breakdown aka Emo Night CLE'],
-    link: 'https://link.dice.fm/Ra2ba087161c?dice_id=Ra2ba087161c',
-    date: '2024-01-26T21:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Bizarre Dance Triangle: DM vs. NIN'],
     link: 'https://link.dice.fm/jf3511d79c4e?dice_id=jf3511d79c4e',
     date: '2024-01-27T21:00:00-05:00',
@@ -913,7 +901,7 @@ export const allShows = [
   {
     artist: ['Meet Me @ The Altar: Say It To My Face Tour'],
     link: 'https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436',
-    date: '2024-02-01T18:30:00-05:00',
+    date: '2024-02-01T18:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -1091,6 +1079,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['The Little Ditties'],
+    link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Magazine Beach'],
     link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
     date: '2024-03-28T19:00:00-04:00',
@@ -1221,12 +1215,6 @@ export const allShows = [
     link: 'https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca',
     date: '2024-08-15T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Mourning [A] BLKstar', 'Trash TV', 'Namejai'],
-    link: 'https://grogshop.gs/event-details/13332033/mourning-a-blkstar',
-    date: '2024-01-26T20:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Mac Saturn: Hard To Sell Tour', 'The Thing With Feathers'],
@@ -1440,14 +1428,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['BabyTron'],
-    link: 'https://grogshop.gs/event-details/13853798/babytron',
+    artist: ['Left Lane Cruiser', 'Adam Faucett', 'The Dollyhoppers'],
+    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-the-dollyhoppers',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Left Lane Cruiser', 'Adam Faucett', 'The Dollyhoppers'],
-    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-the-dollyhoppers',
+    artist: ['BabyTron'],
+    link: 'https://grogshop.gs/event-details/13853798/babytron',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1619,18 +1607,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Cavale', 'JSSZCA', 'Tessas'],
-    link: 'https://www.beachlandballroom.com/e/13279863/cavale-jsszca-tessas',
-    date: '2024-01-25T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Northeast Ohio Drum & Music Jam'],
-    link: 'https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam',
-    date: '2024-01-25T21:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: [
       'Jinari Kemet',
       'Zup',
@@ -1715,6 +1691,7 @@ export const allShows = [
   {
     artist: ['Bumpin Uglies', 'TobyRaps', 'C-Level'],
     link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level',
+    sold_out: true,
     date: '2024-02-03T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1738,6 +1715,12 @@ export const allShows = [
     artist: ['The Kind Thieves', 'The Rustbelt Ragtops'],
     link: 'https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops',
     date: '2024-02-08T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Pre/Post Party with goor\u00fc'],
+    link: 'https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-',
+    date: '2024-02-09T18:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -1944,7 +1927,7 @@ export const allShows = [
     artist: ['Tophouse', 'Good Morning Bedlam'],
     link: 'https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam',
     date: '2024-03-14T20:00:00',
-    venue: 'Beachland Tavern',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Sleepytime Gorilla Museum', 'Lung', 'Isolation Tank Ensemble'],
@@ -1995,6 +1978,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['This Is Just A Tribute: Rize of the Fenix'],
+    link: 'https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix',
+    date: '2024-03-23T20:30:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Shovels & Rope'],
     link: 'https://www.beachlandballroom.com/e/13856508/shovels-rope',
     date: '2024-03-24T20:00:00',
@@ -2041,8 +2030,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Matt Andersen'],
-    link: 'https://www.beachlandballroom.com/e/13328773/matt-andersen',
+    artist: ['Matt Andersen', 'Old Man Luedecke'],
+    link: 'https://www.beachlandballroom.com/e/13328773/matt-andersen-old-man-luedecke',
     date: '2024-04-02T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2239,6 +2228,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Varietopia with Paul F. Tompkins'],
+    link: 'https://www.beachlandballroom.com/e/13471863/varietopia-with-paul-f-tompkins',
+    date: '2024-05-06T22:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['TWRP', 'nelward', 'Trey Magnifique'],
     link: 'https://www.beachlandballroom.com/e/13311603/twrp-nelward-trey-magnifique',
     date: '2024-05-08T20:00:00',
@@ -2286,12 +2281,6 @@ export const allShows = [
     sold_out: true,
     date: '2024-10-20T20:30:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Archers, Savage Hands, Nerv, A Sense Of Purpose'],
-    link: 'https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/',
-    date: '2024-01-26T18:30:00',
-    venue: 'Foundry',
   },
   {
     artist: ['MOVIE NIGHT MONDAY'],
@@ -2378,6 +2367,18 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['RAMEN POP-UP'],
+    link: 'https://www.foundryconcertclub.com/tm-event/ramen-pop-up/',
+    date: '2024-03-03T17:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Alyxx, Ghostatic, Ash Hollow, Nineteenth Paradise, High Early'],
+    link: 'https://www.foundryconcertclub.com/tm-event/alyxx-ghostatic-ash-hollow-nineteenth-paradise-high-early/',
+    date: '2024-03-08T18:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Weeping Wound, Wiltwither, cohen_noise'],
     link: 'https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/',
     date: '2024-03-12T19:00:00',
@@ -2393,6 +2394,12 @@ export const allShows = [
     artist: ['Lutharo, Olathia, After The Apocalypse'],
     link: 'https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/',
     date: '2024-03-16T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['OHIO UNDERGROUND'],
+    link: 'https://www.foundryconcertclub.com/tm-event/ohio-underground/',
+    date: '2024-03-23T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -2473,6 +2480,12 @@ export const allShows = [
     artist: ['AJR', 'The Maybe Man Tour'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627',
     date: '2024-06-27',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
+    artist: ['Justin Timberlake', 'The Forget Tomorrow World Tour'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707',
+    date: '2024-07-07',
     venue: 'Rocket Mortgage FieldHouse',
   },
   {

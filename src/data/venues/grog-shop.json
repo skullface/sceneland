@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Mourning [A] BLKstar",
-      "Trash TV",
-      "Namejai"
-    ],
-    "link": "https://grogshop.gs/event-details/13332033/mourning-a-blkstar",
-    "date": "2024-01-26T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Mac Saturn: Hard To Sell Tour",
       "The Thing With Feathers"
     ],
@@ -275,19 +265,19 @@
   },
   {
     "artist": [
-      "BabyTron"
-    ],
-    "link": "https://grogshop.gs/event-details/13853798/babytron",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Left Lane Cruiser",
       "Adam Faucett",
       "The Dollyhoppers"
     ],
     "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-the-dollyhoppers",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "BabyTron"
+    ],
+    "link": "https://grogshop.gs/event-details/13853798/babytron",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },

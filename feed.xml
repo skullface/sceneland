@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jan 2024 09:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 09:05:36 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Flatland Cavalry at Agora]]></title>
-            <description><![CDATA[Get tickets to Flatland Cavalry at Agora on Friday, January 26, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/509624]]></description>
-            <link>https://www.agoracleveland.com/events/detail/509624</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/509624</guid>
-            <pubDate>Fri, 26 Jan 2024 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Get The Led Out at Agora]]></title>
             <description><![CDATA[Get tickets to Get The Led Out at Agora on Thursday, February 1, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/507064]]></description>
@@ -140,8 +133,8 @@
             <pubDate>Thu, 18 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Benjamin Tod & Lost Dog Street Band at Agora]]></title>
-            <description><![CDATA[Get tickets to Benjamin Tod & Lost Dog Street Band at Agora on Friday, April 19, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/511793]]></description>
+            <title><![CDATA[Benjamin Tod & Lost Dog Street Band, Resonant Rogues at Agora]]></title>
+            <description><![CDATA[Get tickets to Benjamin Tod & Lost Dog Street Band, Resonant Rogues at Agora on Friday, April 19, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/511793]]></description>
             <link>https://www.agoracleveland.com/events/detail/511793</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/511793</guid>
             <pubDate>Fri, 19 Apr 2024 19:00:00 GMT</pubDate>
@@ -383,20 +376,6 @@
             <link>https://www.playhousesquare.org/events/detail/loud-and-proud-starring-nina-west</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/loud-and-proud-starring-nina-west</guid>
             <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lyn Lapid: to love in the 21st century tour: the epilogue tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Lyn Lapid: to love in the 21st century tour: the epilogue tour at House of Blues on Friday, January 26, 2024, 06:00 PM: https://concerts.livenation.com/lyn-lapid-to-love-in-the-cleveland-ohio-01-26-2024/event/05005F692285640A]]></description>
-            <link>https://concerts.livenation.com/lyn-lapid-to-love-in-the-cleveland-ohio-01-26-2024/event/05005F692285640A</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/lyn-lapid-to-love-in-the-cleveland-ohio-01-26-2024/event/05005F692285640A</guid>
-            <pubDate>Fri, 26 Jan 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colors Presents: R&B Only (21 And Over) at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Colors Presents: R&B Only (21 And Over) at House of Blues on Friday, January 26, 2024, 08:00 PM: https://concerts.livenation.com/colors-presents-rb-only-21-and-cleveland-ohio-01-26-2024/event/05005F94CCBB2EAC]]></description>
-            <link>https://concerts.livenation.com/colors-presents-rb-only-21-and-cleveland-ohio-01-26-2024/event/05005F94CCBB2EAC</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/colors-presents-rb-only-21-and-cleveland-ohio-01-26-2024/event/05005F94CCBB2EAC</guid>
-            <pubDate>Fri, 26 Jan 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joseph at House of Blues]]></title>
@@ -721,6 +700,20 @@
             <pubDate>Tue, 18 Jun 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[POP 2000 Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to POP 2000 Tour at House of Blues on Sunday, July 14, 2024, 04:00 PM: https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49]]></description>
+            <link>https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49</guid>
+            <pubDate>Sun, 14 Jul 2024 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magic Men Australia at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Magic Men Australia at House of Blues on Tuesday, August 27, 2024, 06:30 PM: https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0]]></description>
+            <link>https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0</guid>
+            <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tallgrass at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Tallgrass at Masonic Temple on Friday, February 2, 2024, 08:00 PM: https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65]]></description>
             <link>https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65</link>
@@ -1043,13 +1036,6 @@
             <pubDate>Sun, 07 Apr 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jukebox Breakdown aka Emo Night CLE at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Jukebox Breakdown aka Emo Night CLE at Mahall’s on Saturday, January 27, 2024, 02:00 AM: https://link.dice.fm/Ra2ba087161c?dice_id=Ra2ba087161c]]></description>
-            <link>https://link.dice.fm/Ra2ba087161c?dice_id=Ra2ba087161c</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ra2ba087161c?dice_id=Ra2ba087161c</guid>
-            <pubDate>Sat, 27 Jan 2024 02:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bizarre Dance Triangle: DM vs. NIN at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Bizarre Dance Triangle: DM vs. NIN at Mahall’s on Sunday, January 28, 2024, 02:00 AM: https://link.dice.fm/jf3511d79c4e?dice_id=jf3511d79c4e]]></description>
             <link>https://link.dice.fm/jf3511d79c4e?dice_id=jf3511d79c4e</link>
@@ -1058,10 +1044,10 @@
         </item>
         <item>
             <title><![CDATA[Meet Me @ The Altar: Say It To My Face Tour at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Meet Me @ The Altar: Say It To My Face Tour at Mahall’s on Thursday, February 1, 2024, 11:30 PM: https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436]]></description>
+            <description><![CDATA[Get tickets to Meet Me @ The Altar: Say It To My Face Tour at Mahall’s on Thursday, February 1, 2024, 11:00 PM: https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436]]></description>
             <link>https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436</link>
             <guid isPermaLink="true">https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436</guid>
-            <pubDate>Thu, 01 Feb 2024 23:30:00 GMT</pubDate>
+            <pubDate>Thu, 01 Feb 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gimme Gimme Disco at Mahall’s]]></title>
@@ -1267,6 +1253,13 @@
             <pubDate>Wed, 27 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Little Ditties at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to The Little Ditties at Mahall’s on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da]]></description>
+            <link>https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da</link>
+            <guid isPermaLink="true">https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da</guid>
+            <pubDate>Thu, 28 Mar 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Magazine Beach at Mahall’s Apartment]]></title>
             <description><![CDATA[Get tickets to Magazine Beach at Mahall’s Apartment on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4]]></description>
             <link>https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</link>
@@ -1419,13 +1412,6 @@
             <link>https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca</link>
             <guid isPermaLink="true">https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca</guid>
             <pubDate>Thu, 15 Aug 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourning [A] BLKstar, Trash TV, Namejai at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Mourning [A] BLKstar, Trash TV, Namejai at Grog Shop on Friday, January 26, 2024, 08:30 PM: https://grogshop.gs/event-details/13332033/mourning-a-blkstar]]></description>
-            <link>https://grogshop.gs/event-details/13332033/mourning-a-blkstar</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13332033/mourning-a-blkstar</guid>
-            <pubDate>Fri, 26 Jan 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mac Saturn: Hard To Sell Tour, The Thing With Feathers at Grog Shop]]></title>
@@ -1624,17 +1610,17 @@
             <pubDate>Sun, 03 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BabyTron at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to BabyTron at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13853798/babytron]]></description>
-            <link>https://grogshop.gs/event-details/13853798/babytron</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13853798/babytron</guid>
-            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Left Lane Cruiser, Adam Faucett, The Dollyhoppers at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Left Lane Cruiser, Adam Faucett, The Dollyhoppers at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-the-dollyhoppers]]></description>
             <link>https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-the-dollyhoppers</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-the-dollyhoppers</guid>
+            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BabyTron at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to BabyTron at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13853798/babytron]]></description>
+            <link>https://grogshop.gs/event-details/13853798/babytron</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13853798/babytron</guid>
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1792,20 +1778,6 @@
             <pubDate>Wed, 28 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cavale, JSSZCA, Tessas at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Cavale, JSSZCA, Tessas at Beachland Tavern on Thursday, January 25, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13279863/cavale-jsszca-tessas]]></description>
-            <link>https://www.beachlandballroom.com/e/13279863/cavale-jsszca-tessas</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13279863/cavale-jsszca-tessas</guid>
-            <pubDate>Thu, 25 Jan 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northeast Ohio Drum & Music Jam at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Northeast Ohio Drum & Music Jam at Beachland Ballroom on Thursday, January 25, 2024, 09:00 PM: https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam]]></description>
-            <link>https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13395713/northeast-ohio-drum-music-jam</guid>
-            <pubDate>Thu, 25 Jan 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Jinari Kemet, Zup, akaFayaven, Marcus Smith, Hosted by Toby Raps at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Jinari Kemet, Zup, akaFayaven, Marcus Smith, Hosted by Toby Raps at Beachland Tavern on Friday, January 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-akafayaven-marcus-smith-hosted-by-toby-raps]]></description>
             <link>https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-akafayaven-marcus-smith-hosted-by-toby-raps</link>
@@ -1902,6 +1874,13 @@
             <link>https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops</guid>
             <pubDate>Thu, 08 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pre/Post Party with goorü at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Pre/Post Party with goorü at Beachland Tavern on Friday, February 9, 2024, 06:00 PM: https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-]]></description>
+            <link>https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-</guid>
+            <pubDate>Fri, 09 Feb 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Keller Williams at Beachland Ballroom]]></title>
@@ -2114,8 +2093,8 @@
             <pubDate>Wed, 13 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tophouse, Good Morning Bedlam at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Tophouse, Good Morning Bedlam at Beachland Tavern on Thursday, March 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam]]></description>
+            <title><![CDATA[Tophouse, Good Morning Bedlam at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Tophouse, Good Morning Bedlam at Beachland Ballroom on Thursday, March 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam]]></description>
             <link>https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam</guid>
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
@@ -2170,6 +2149,13 @@
             <pubDate>Fri, 22 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[This Is Just A Tribute: Rize of the Fenix at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to This Is Just A Tribute: Rize of the Fenix at Beachland Ballroom on Saturday, March 23, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix]]></description>
+            <link>https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix</guid>
+            <pubDate>Sat, 23 Mar 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Shovels & Rope at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Shovels & Rope at Beachland Ballroom on Sunday, March 24, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13856508/shovels-rope]]></description>
             <link>https://www.beachlandballroom.com/e/13856508/shovels-rope</link>
@@ -2219,10 +2205,10 @@
             <pubDate>Sun, 31 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Matt Andersen at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Matt Andersen at Beachland Tavern on Tuesday, April 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13328773/matt-andersen]]></description>
-            <link>https://www.beachlandballroom.com/e/13328773/matt-andersen</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13328773/matt-andersen</guid>
+            <title><![CDATA[Matt Andersen, Old Man Luedecke at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Matt Andersen, Old Man Luedecke at Beachland Tavern on Tuesday, April 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13328773/matt-andersen-old-man-luedecke]]></description>
+            <link>https://www.beachlandballroom.com/e/13328773/matt-andersen-old-man-luedecke</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13328773/matt-andersen-old-man-luedecke</guid>
             <pubDate>Tue, 02 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2443,6 +2429,13 @@
             <pubDate>Mon, 06 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Varietopia with Paul F. Tompkins at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Varietopia with Paul F. Tompkins at Beachland Ballroom on Monday, May 6, 2024, 10:00 PM: https://www.beachlandballroom.com/e/13471863/varietopia-with-paul-f-tompkins]]></description>
+            <link>https://www.beachlandballroom.com/e/13471863/varietopia-with-paul-f-tompkins</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13471863/varietopia-with-paul-f-tompkins</guid>
+            <pubDate>Mon, 06 May 2024 22:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[TWRP, nelward, Trey Magnifique at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to TWRP, nelward, Trey Magnifique at Beachland Ballroom on Wednesday, May 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13311603/twrp-nelward-trey-magnifique]]></description>
             <link>https://www.beachlandballroom.com/e/13311603/twrp-nelward-trey-magnifique</link>
@@ -2497,13 +2490,6 @@
             <link>https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult</guid>
             <pubDate>Sun, 20 Oct 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Archers, Savage Hands, Nerv, A Sense Of Purpose at Foundry]]></title>
-            <description><![CDATA[Get tickets to Archers, Savage Hands, Nerv, A Sense Of Purpose at Foundry on Friday, January 26, 2024, 06:30 PM: https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/archers-savage-hands-nerv/</guid>
-            <pubDate>Fri, 26 Jan 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
@@ -2597,6 +2583,20 @@
             <pubDate>Thu, 29 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[RAMEN POP-UP at Foundry]]></title>
+            <description><![CDATA[Get tickets to RAMEN POP-UP at Foundry on Sunday, March 3, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/ramen-pop-up/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/ramen-pop-up/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/ramen-pop-up/</guid>
+            <pubDate>Sun, 03 Mar 2024 17:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alyxx, Ghostatic, Ash Hollow, Nineteenth Paradise, High Early at Foundry]]></title>
+            <description><![CDATA[Get tickets to Alyxx, Ghostatic, Ash Hollow, Nineteenth Paradise, High Early at Foundry on Friday, March 8, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/alyxx-ghostatic-ash-hollow-nineteenth-paradise-high-early/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/alyxx-ghostatic-ash-hollow-nineteenth-paradise-high-early/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/alyxx-ghostatic-ash-hollow-nineteenth-paradise-high-early/</guid>
+            <pubDate>Fri, 08 Mar 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Weeping Wound, Wiltwither, cohen_noise at Foundry]]></title>
             <description><![CDATA[Get tickets to Weeping Wound, Wiltwither, cohen_noise at Foundry on Tuesday, March 12, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/</link>
@@ -2616,6 +2616,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/</guid>
             <pubDate>Sat, 16 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OHIO UNDERGROUND at Foundry]]></title>
+            <description><![CDATA[Get tickets to OHIO UNDERGROUND at Foundry on Saturday, March 23, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/ohio-underground/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/ohio-underground/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/ohio-underground/</guid>
+            <pubDate>Sat, 23 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reticulatus, Unvow, Kingz & Thievez, The Final Seconds of Suffering, Rustfed at Foundry]]></title>
@@ -2700,6 +2707,13 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627</guid>
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Justin Timberlake, The Forget Tomorrow World Tour at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Justin Timberlake, The Forget Tomorrow World Tour at Rocket Mortgage FieldHouse on Sunday, July 7, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Playboi Carti: Antagonist Tour, with Homixide Gang, Ken Carson and Destroy Lonely at Rocket Mortgage FieldHouse]]></title>

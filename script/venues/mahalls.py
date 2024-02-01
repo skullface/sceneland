@@ -29,7 +29,7 @@ for show in data['sections'][0]['events']:
   all_shows_data['date'] = show['dates']['event_start_date']
   if show['venues'][0]['name'] == "Mahall's Apartment":
     all_shows_data['venue'] = 'Mahall’s Apartment'
-  elif show['venues'][0]['name'] == 'The Roxy':
+  elif show['venues'][0]['name'] == "The Roxy at Mahall's":
     all_shows_data['venue'] = 'The Roxy at Mahall’s'
   else:
       all_shows_data['venue'] = 'Mahall’s'

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bizarre Dance Triangle: DM vs. NIN"
-    ],
-    "link": "https://link.dice.fm/jf3511d79c4e?dice_id=jf3511d79c4e",
-    "date": "2024-01-27T21:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Meet Me @ The Altar: Say It To My Face Tour"
     ],
     "link": "https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436",
@@ -89,19 +81,19 @@
   },
   {
     "artist": [
-      "Indigo De Souza"
-    ],
-    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
-    "date": "2024-02-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Cole Chaney"
     ],
     "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Indigo De Souza"
+    ],
+    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
+    "date": "2024-02-17T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -141,6 +133,14 @@
     ],
     "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
     "date": "2024-03-01T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alexis Marrero"
+    ],
+    "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
+    "date": "2024-03-01T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -161,6 +161,14 @@
   },
   {
     "artist": [
+      "Sungaze"
+    ],
+    "link": "https://link.dice.fm/C3fe352e743c?dice_id=C3fe352e743c",
+    "date": "2024-03-07T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Stolen Gin"
     ],
     "link": "https://link.dice.fm/V42b338eec76?dice_id=V42b338eec76",
@@ -169,11 +177,19 @@
   },
   {
     "artist": [
+      "Bizarre Dance Triangle: Joy Division vs. New Order"
+    ],
+    "link": "https://link.dice.fm/qae8058b48ac?dice_id=qae8058b48ac",
+    "date": "2024-03-09T21:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Joywave"
     ],
     "link": "https://link.dice.fm/F86ac2d72f68?dice_id=F86ac2d72f68",
     "date": "2024-03-10T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -189,7 +205,7 @@
     ],
     "link": "https://link.dice.fm/Xdadde097266?dice_id=Xdadde097266",
     "date": "2024-03-12T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -213,6 +229,14 @@
     ],
     "link": "https://link.dice.fm/qcbc74c94666?dice_id=qcbc74c94666",
     "date": "2024-03-15T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Misery Business: an all Paramore emo night"
+    ],
+    "link": "https://link.dice.fm/s9afdbe2317e?dice_id=s9afdbe2317e",
+    "date": "2024-03-16T21:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -241,11 +265,27 @@
   },
   {
     "artist": [
+      "Queencard: a K-Pop themed dance party"
+    ],
+    "link": "https://link.dice.fm/W0794adbf556?dice_id=W0794adbf556",
+    "date": "2024-03-22T20:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Armed"
     ],
     "link": "https://link.dice.fm/Q5a5918ecf59?dice_id=Q5a5918ecf59",
     "date": "2024-03-27T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Magazine Beach"
+    ],
+    "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -257,11 +297,11 @@
   },
   {
     "artist": [
-      "Magazine Beach"
+      "Nadiem - Exception Tour "
     ],
-    "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
+    "link": "https://link.dice.fm/vfdf6fe1a123?dice_id=vfdf6fe1a123",
+    "date": "2024-03-29T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -281,11 +321,19 @@
   },
   {
     "artist": [
+      "Jack Lutz"
+    ],
+    "link": "https://link.dice.fm/m7fdd552624e?dice_id=m7fdd552624e",
+    "date": "2024-04-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Jeff Rosenstock"
     ],
     "link": "https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7",
     "date": "2024-04-04T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -317,7 +365,7 @@
     ],
     "link": "https://link.dice.fm/pa4707eaa4f3?dice_id=pa4707eaa4f3",
     "date": "2024-04-11T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -381,7 +429,7 @@
     ],
     "link": "https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3",
     "date": "2024-05-08T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -393,10 +441,34 @@
   },
   {
     "artist": [
+      "Joy Again"
+    ],
+    "link": "https://link.dice.fm/d6e7358aa698?dice_id=d6e7358aa698",
+    "date": "2024-05-15T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Jeffrey Martin with special guest Dean Johnson"
     ],
     "link": "https://link.dice.fm/ndd45cda1606?dice_id=ndd45cda1606",
     "date": "2024-05-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alpha Wolf: Half Living Things"
+    ],
+    "link": "https://link.dice.fm/w66b455313e8?dice_id=w66b455313e8",
+    "date": "2024-05-18T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Delta Sleep"
+    ],
+    "link": "https://link.dice.fm/Sb23d02d0836?dice_id=Sb23d02d0836",
+    "date": "2024-05-28T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -413,7 +485,7 @@
     ],
     "link": "https://link.dice.fm/f53f6c428bf6?dice_id=f53f6c428bf6",
     "date": "2024-06-21T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Joseph"
-    ],
-    "link": "https://concerts.livenation.com/joseph-cleveland-ohio-01-27-2024/event/05005F4427964F0D",
-    "date": "2024-01-27T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Umphrey's McGee"
-    ],
-    "link": "https://concerts.livenation.com/umphreys-mcgee-cleveland-ohio-01-31-2024/event/05005F43D00F1FCE",
-    "date": "2024-01-31T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "That Arena Rock Show"
     ],
     "link": "https://concerts.livenation.com/that-arena-rock-show-cleveland-ohio-02-02-2024/event/05005F75E4FF4C1A",
@@ -115,7 +99,15 @@
     "artist": [
       "DESTIN CONRAD: SUBMISSIVE TOUR"
     ],
-    "link": "https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/05005F76B0502211",
+    "link": "https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/0500603B32197EFD",
+    "date": "2024-03-03T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Destin Conrad: Submissive Tour: Moved To Cambridge Room"
+    ],
+    "link": "https://concerts.livenation.com/destin-conrad-submissive-tour-moved-to-cleveland-ohio-03-03-2024/event/05005F76B0502211",
     "date": "2024-03-03T19:00:00",
     "venue": "House of Blues"
   },
@@ -273,6 +265,14 @@
   },
   {
     "artist": [
+      "Fayrewether"
+    ],
+    "link": "https://concerts.livenation.com/fayrewether-cleveland-ohio-04-19-2024/event/05006037175A7468",
+    "date": "2024-04-19T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "BoyWithUke: Lucid Dreams Tour"
     ],
     "link": "https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7",
@@ -289,6 +289,14 @@
   },
   {
     "artist": [
+      "Jesse McCartney: All's Well Tour"
+    ],
+    "link": "https://concerts.livenation.com/jesse-mccartney-alls-well-tour-cleveland-ohio-04-29-2024/event/0500603686831FA2",
+    "date": "2024-04-29T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "The Struts The Pretty Vicious Tour 2024 With Special Guest L\u00f8 Spirit"
     ],
     "link": "https://concerts.livenation.com/the-struts-the-pretty-vicious-tour-cleveland-ohio-04-30-2024/event/0500602D07044CB3",
@@ -301,6 +309,14 @@
     ],
     "link": "https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176",
     "date": "2024-05-02T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Brent Cobb: Livin' The Dream Tour"
+    ],
+    "link": "https://concerts.livenation.com/brent-cobb-livin-the-dream-tour-cleveland-ohio-05-03-2024/event/05006037030A73F4",
+    "date": "2024-05-03T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -337,6 +353,14 @@
   },
   {
     "artist": [
+      "Kid Kapichi: North America 2024"
+    ],
+    "link": "https://concerts.livenation.com/kid-kapichi-north-america-2024-cleveland-ohio-05-18-2024/event/050060389EB046A1",
+    "date": "2024-05-18T19:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "X Ambassadors: TOWNIE: NORTH AMERICAN TOUR"
     ],
     "link": "https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9",
@@ -357,30 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53",
     "date": "2024-06-14T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Taking Back Sunday"
-    ],
-    "link": "https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C",
-    "date": "2024-06-18T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "POP 2000 Tour"
-    ],
-    "link": "https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49",
-    "date": "2024-07-14T16:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Magic Men Australia"
-    ],
-    "link": "https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0",
-    "date": "2024-08-27T18:30:00",
     "venue": "House of Blues"
   }
 ]

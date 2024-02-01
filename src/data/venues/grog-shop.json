@@ -1,43 +1,6 @@
 [
   {
     "artist": [
-      "Mac Saturn: Hard To Sell Tour",
-      "The Thing With Feathers"
-    ],
-    "link": "https://grogshop.gs/event-details/13867048/mac-saturn-hard-to-sell-tour",
-    "date": "2024-01-27T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Wednesday",
-      "Hotline TNT"
-    ],
-    "link": "https://grogshop.gs/event-details/13720188/wednesday",
-    "sold_out": true,
-    "date": "2024-01-28T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13251993/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-01-29T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Daze",
-      "The Brakes",
-      "Formerly Candice"
-    ],
-    "link": "https://grogshop.gs/event-details/13397253/the-daze-the-brakes-formerly-candice",
-    "date": "2024-01-31T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Guy Snowden & the Citizens, Millions of Mighty Horses, Hiram-Maxim, Lemon Swans"
     ],
     "link": "https://grogshop.gs/event-details/13439313/guy-snowden-the-citizens-millions-of-mighty-horses-hiram-maxim-lemon-swans",
@@ -230,6 +193,16 @@
   },
   {
     "artist": [
+      "Blues & Soul Slam",
+      "Mikey Silas and Friends",
+      "Apostle Jones"
+    ],
+    "link": "https://grogshop.gs/event-details/13473553/blues-soul-slam-w-mikey-silas-and-friends",
+    "date": "2024-02-29T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "GlamGore: Cartoon Network vs. Nickelodeon",
       "Anhedonia Delight"
     ],
@@ -267,9 +240,9 @@
     "artist": [
       "Left Lane Cruiser",
       "Adam Faucett",
-      "The Dollyhoppers"
+      "Nate Bergman"
     ],
-    "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-the-dollyhoppers",
+    "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },
@@ -393,6 +366,17 @@
   },
   {
     "artist": [
+      "Low Phase",
+      "The Vumms",
+      "Solon",
+      "Tall Grass"
+    ],
+    "link": "https://grogshop.gs/event-details/13464333/low-phase-the-vumms-solon-tall-grass",
+    "date": "2024-04-09T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Mannequin Pussy, Soul Glo"
     ],
     "link": "https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo",
@@ -403,9 +387,10 @@
   {
     "artist": [
       "Scott H. Biram",
-      "Adrian and Meredith"
+      "Adrian and Meredith",
+      "Ruby Rose Weston"
     ],
-    "link": "https://grogshop.gs/event-details/13429733/scott-h-biram",
+    "link": "https://grogshop.gs/event-details/13429733/scott-h-biram-adrian-and-meredith-ruby-rose-weston",
     "date": "2024-04-18T20:00:00",
     "venue": "Grog Shop"
   },

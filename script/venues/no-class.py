@@ -22,7 +22,6 @@ try:
 except NoSuchElementException:
   pass
 
-
 soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', {'data-testid': 'organizer-profile__future-events'})
 shows = calendar.find_all('div', class_='Container_root__16e3w')

@@ -4,7 +4,10 @@ from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup 
 import json
 import time
+from dateutil.parser import parse
 from datetime import datetime, timedelta
+from dateutil.relativedelta import relativedelta, MO, TU, WE, TH, FR, SA, SU
+import re
 
 url = 'https://www.eventbrite.com/o/the-happy-dog-20098107793'
 options = FirefoxOptions()
@@ -17,65 +20,87 @@ try:
   time.sleep(2)
   load_more_button.click()
   time.sleep(2)
+  load_more_button.click()
+  time.sleep(2)
 except NoSuchElementException:
   pass
 
 soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', {'data-testid': 'organizer-profile__future-events'})
-shows = calendar.find_all('article', class_='eds-event-card-content--grid')
+shows = calendar.find_all('div', class_='Container_root__16e3w')
 
 all_shows_list = []
+dupe_urls = set()
 
 for show in shows:
   all_shows_data = {} 
-  artist = show.find('div', class_='eds-is-hidden-accessible')
+  artist = show.find('h2', class_='Typography_root__4bejd')
   if artist.text.strip() != 'Monday Night Trivia!':
     all_shows_data['artist'] = [artist.text.strip().replace(' / ', ', ').replace(' - ', ': ')]
 
-    link = show.find('a', class_='eds-event-card-content__action-link')
+    link = show.find('a', class_='event-card-link')
     all_shows_data['link'] = link.get('href').split('?', 1)[0]
 
-    date = show.find('div', class_='eds-event-card-content__sub-title').text.strip()
+    if link in dupe_urls:
+      continue
+    dupe_urls.add(link)
 
-    def transform_date(input_date):
-      today = datetime.now()
-      tomorrow = today + timedelta(1)
-      input_date = input_date.replace(' at ', ', ')
-      input_date = input_date.replace('Today', today.strftime('%a, %b %d'))
-      input_date = input_date.replace('Tomorrow', tomorrow.strftime('%a, %b %d'))
-      return input_date
-
-    transformed_date = transform_date(date)
-    date_parts = transformed_date.split(', ', 2)
+    date = show.find('p', class_='Typography_body-md__4bejd').text.strip()
     
-    if len(date_parts) == 3:
-      weekday, date, time = date_parts
-      date_parts = date.split(' ', 1)
-      if len(date_parts) == 2:
-        month, day = date_parts
+    def parse_date(date_str):
+      today = datetime.now()
+
+      # Handle relative dates like "Today" and "Tomorrow"
+      if 'Today' in date_str:
+        date_str = date_str.replace('Today', today.strftime('%b %d'))
+      elif 'Tomorrow' in date_str:
+        tomorrow = today + timedelta(days=1)
+        date_str = date_str.replace('Tomorrow', tomorrow.strftime('%b %d'))
       else:
-        month, day = '', date
-    else:
-      weekday, date, month, day, time = '', date_parts[0], '', '', ''
+        # Handling weekdays using dateutil's relativedelta
+        weekdays = {
+          'Monday': MO,
+          'Tuesday': TU,
+          'Wednesday': WE,
+          'Thursday': TH,
+          'Friday': FR,
+          'Saturday': SA,
+          'Sunday': SU
+        }
+        for day, day_obj in weekdays.items():
+          if day in date_str:
+            next_day = today + relativedelta(weekday=day_obj(+1))
+            date_str = date_str.replace(day, next_day.strftime('%b %d'))
+            break
 
-    if date != '':
-      current_date = datetime.now().date()
-      year = current_date.year
-
-      month_number = datetime.strptime(month, '%b').month
-
-      if month_number < current_date.month:
-        year = current_date.year + 1
+      # Extracting the time component
+      time_str = re.search(r'(\d+:\d+\s*[APMapm]*)', date_str)
+      if time_str:
+        time_str = time_str.group()
       else:
-        year = current_date.year
+        # Default time if not found
+        time_str = '00:00 AM'
 
-      date_only = month + day + str(year)
-      final_date = datetime.strptime(date_only, '%b%d%Y')
-      final_time = datetime.strptime(time, '%I:%M %p').time()
-      all_shows_data['date'] = str(final_date).split(' ', 1)[0] + 'T' + str(final_time)
+      # Handling different date formats and combining date part and time part
+      if ',' in date_str:
+        # Format: "Tue, Mar 26 • 9:00 PM"
+        date_part = date_str.split('•')[0].strip()
+      else:
+        # Format: "Friday • 6:30 PM"
+        current_year = today.year
+        date_part = date_str.split('•')[0].strip() + f" {current_year}"
 
-      all_shows_data['venue'] = 'Happy Dog'
-      all_shows_list.append(all_shows_data)
+      combined_str = f"{date_part} {time_str}"
+      date_obj = parse(combined_str)
+
+      # Returning the formatted date
+      return date_obj.strftime('%Y-%m-%dT%H:%M:%S')
+
+    formatted_date = parse_date(date)
+    all_shows_data['date'] = formatted_date
+
+    all_shows_data['venue'] = 'Happy Dog'
+    all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 
 print(all_shows_json)

@@ -18,8 +18,6 @@ load_more_button.click()
 time.sleep(1)
 load_more_button.click()
 time.sleep(1)
-load_more_button.click()
-time.sleep(1)
 
 soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', class_='eventList__wrapper')

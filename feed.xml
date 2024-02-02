@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Feb 2024 17:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 09:07:43 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Meet Me @ The Altar: Say It To My Face Tour at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Meet Me @ The Altar: Say It To My Face Tour at Mahall’s on Thursday, February 1, 2024, 11:00 PM: https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436]]></description>
-            <link>https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436</link>
-            <guid isPermaLink="true">https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436</guid>
-            <pubDate>Thu, 01 Feb 2024 23:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gimme Gimme Disco at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Gimme Gimme Disco at Mahall’s on Saturday, February 3, 2024, 02:00 AM: https://link.dice.fm/n002e3eab957?dice_id=n002e3eab957]]></description>
@@ -119,17 +112,17 @@
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blonde Redhead at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Blonde Redhead at The Roxy at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc]]></description>
-            <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</guid>
-            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alexis Marrero at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Alexis Marrero at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7]]></description>
             <link>https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</link>
             <guid isPermaLink="true">https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</guid>
+            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blonde Redhead at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Blonde Redhead at The Roxy at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc]]></description>
+            <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</guid>
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -672,13 +665,6 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Get The Led Out at Agora]]></title>
-            <description><![CDATA[Get tickets to Get The Led Out at Agora on Thursday, February 1, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/507064]]></description>
-            <link>https://www.agoracleveland.com/events/detail/507064</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/507064</guid>
-            <pubDate>Thu, 01 Feb 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kameron Marlowe at Agora]]></title>
             <description><![CDATA[Get tickets to Kameron Marlowe at Agora on Friday, February 9, 2024, 06:30 PM: https://www.agoracleveland.com/events/detail/511283]]></description>
             <link>https://www.agoracleveland.com/events/detail/511283</link>
@@ -770,8 +756,8 @@
             <pubDate>Fri, 22 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kai Wachi Presents Morphosia Tour at Agora]]></title>
-            <description><![CDATA[Get tickets to Kai Wachi Presents Morphosia Tour at Agora on Saturday, March 23, 2024, 08:00 PM: https://www.agoracleveland.com/events/detail/519381]]></description>
+            <title><![CDATA[Kai Wachi Presents Morphosia Tour, Prosecute, Nimda at Agora]]></title>
+            <description><![CDATA[Get tickets to Kai Wachi Presents Morphosia Tour, Prosecute, Nimda at Agora on Saturday, March 23, 2024, 08:00 PM: https://www.agoracleveland.com/events/detail/519381]]></description>
             <link>https://www.agoracleveland.com/events/detail/519381</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/519381</guid>
             <pubDate>Sat, 23 Mar 2024 20:00:00 GMT</pubDate>
@@ -810,6 +796,83 @@
             <link>https://www.agoracleveland.com/events/detail/512971</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/512971</guid>
             <pubDate>Sat, 20 Apr 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TommyInnit How To Be A Billionaire at Agora]]></title>
+            <description><![CDATA[Get tickets to TommyInnit How To Be A Billionaire at Agora on Thursday, April 25, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/520431]]></description>
+            <link>https://www.agoracleveland.com/events/detail/520431</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/520431</guid>
+            <pubDate>Thu, 25 Apr 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Evening with Alan Ruck at Agora]]></title>
+            <description><![CDATA[Get tickets to An Evening with Alan Ruck at Agora on Friday, May 3, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/519196]]></description>
+            <link>https://www.agoracleveland.com/events/detail/519196</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/519196</guid>
+            <pubDate>Fri, 03 May 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Last Night, Broadside, Normandie at Agora]]></title>
+            <description><![CDATA[Get tickets to Our Last Night, Broadside, Normandie at Agora on Friday, May 10, 2024, 06:30 PM: https://www.agoracleveland.com/events/detail/507744]]></description>
+            <link>https://www.agoracleveland.com/events/detail/507744</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/507744</guid>
+            <pubDate>Fri, 10 May 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kathy Griffin at Agora]]></title>
+            <description><![CDATA[Get tickets to Kathy Griffin at Agora on Saturday, May 11, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/512472]]></description>
+            <link>https://www.agoracleveland.com/events/detail/512472</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/512472</guid>
+            <pubDate>Sat, 11 May 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blind Guardian, Night Demon at Agora]]></title>
+            <description><![CDATA[Get tickets to Blind Guardian, Night Demon at Agora on Thursday, May 16, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/517799]]></description>
+            <link>https://www.agoracleveland.com/events/detail/517799</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/517799</guid>
+            <pubDate>Thu, 16 May 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mr. Big, Shawn Perry at Agora]]></title>
+            <description><![CDATA[Get tickets to Mr. Big, Shawn Perry at Agora on Friday, May 24, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/526774]]></description>
+            <link>https://www.agoracleveland.com/events/detail/526774</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/526774</guid>
+            <pubDate>Fri, 24 May 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Knocked Loose, Loathe, Show Me The Body, SPEED at Agora]]></title>
+            <description><![CDATA[Get tickets to Knocked Loose, Loathe, Show Me The Body, SPEED at Agora on Saturday, May 25, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/528579]]></description>
+            <link>https://www.agoracleveland.com/events/detail/528579</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/528579</guid>
+            <pubDate>Sat, 25 May 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chappell Roan at Agora]]></title>
+            <description><![CDATA[Get tickets to Chappell Roan at Agora on Tuesday, May 28, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/526058]]></description>
+            <link>https://www.agoracleveland.com/events/detail/526058</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/526058</guid>
+            <pubDate>Tue, 28 May 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House of BurlesCLE 2.0 at Agora]]></title>
+            <description><![CDATA[Get tickets to House of BurlesCLE 2.0 at Agora on Saturday, June 8, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/521430]]></description>
+            <link>https://www.agoracleveland.com/events/detail/521430</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/521430</guid>
+            <pubDate>Sat, 08 Jun 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House Of BurlesCle 2.0 at Agora]]></title>
+            <description><![CDATA[Get tickets to House Of BurlesCle 2.0 at Agora on Saturday, June 8, 2024, 08:30 PM: https://www.agoracleveland.com/events/detail/521669]]></description>
+            <link>https://www.agoracleveland.com/events/detail/521669</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/521669</guid>
+            <pubDate>Sat, 08 Jun 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool at Agora]]></title>
+            <description><![CDATA[Get tickets to Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool at Agora on Sunday, July 28, 2024, 06:30 PM: https://www.agoracleveland.com/events/detail/520827]]></description>
+            <link>https://www.agoracleveland.com/events/detail/520827</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/520827</guid>
+            <pubDate>Sun, 28 Jul 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tallgrass at Masonic Temple]]></title>
@@ -966,6 +1029,13 @@
             <pubDate>Fri, 05 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BLANKE – EARTH TO THE STARS: EMERGENCE CLEVELAND at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to BLANKE – EARTH TO THE STARS: EMERGENCE CLEVELAND at Masonic Temple on Saturday, April 6, 2024, 08:00 PM: https://www.ticketmaster.com/blanke-earth-to-the-stars-emergence-cleveland-ohio-04-06-2024/event/0500603F278D6AFA]]></description>
+            <link>https://www.ticketmaster.com/blanke-earth-to-the-stars-emergence-cleveland-ohio-04-06-2024/event/0500603F278D6AFA</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/blanke-earth-to-the-stars-emergence-cleveland-ohio-04-06-2024/event/0500603F278D6AFA</guid>
+            <pubDate>Sat, 06 Apr 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gimme Sugar & Mister Breeze at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Gimme Sugar & Mister Breeze at Masonic Temple on Saturday, April 13, 2024, 08:00 PM: https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546]]></description>
             <link>https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546</link>
@@ -980,17 +1050,17 @@
             <pubDate>Thu, 18 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed at Masonic Temple on Friday, April 19, 2024, 08:00 PM: https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5]]></description>
-            <link>https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5</guid>
-            <pubDate>Fri, 19 Apr 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[EMO ORCHESTRA featuring ESCAPE THE FATE at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to EMO ORCHESTRA featuring ESCAPE THE FATE at Masonic Temple on Friday, April 19, 2024, 08:00 PM: https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853]]></description>
             <link>https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853</guid>
+            <pubDate>Fri, 19 Apr 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed at Masonic Temple on Friday, April 19, 2024, 08:00 PM: https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5]]></description>
+            <link>https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5</guid>
             <pubDate>Fri, 19 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1274,6 +1344,13 @@
             <pubDate>Sat, 30 Mar 2024 17:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beach Fossils with friends Nation of Language at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Beach Fossils with friends Nation of Language at House of Blues on Monday, April 1, 2024, 07:00 PM: https://concerts.livenation.com/beach-fossils-with-friends-nation-of-cleveland-ohio-04-01-2024/event/05006039BED34A4B]]></description>
+            <link>https://concerts.livenation.com/beach-fossils-with-friends-nation-of-cleveland-ohio-04-01-2024/event/05006039BED34A4B</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/beach-fossils-with-friends-nation-of-cleveland-ohio-04-01-2024/event/05006039BED34A4B</guid>
+            <pubDate>Mon, 01 Apr 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[VNV Nation at House of Blues]]></title>
             <description><![CDATA[Get tickets to VNV Nation at House of Blues on Friday, April 12, 2024, 07:00 PM: https://concerts.livenation.com/vnv-nation-cleveland-ohio-04-12-2024/event/0500602AD94536C9]]></description>
             <link>https://concerts.livenation.com/vnv-nation-cleveland-ohio-04-12-2024/event/0500602AD94536C9</link>
@@ -1398,13 +1475,6 @@
             <link>https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48</link>
             <guid isPermaLink="true">https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48</guid>
             <pubDate>Wed, 12 Jun 2024 17:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hot Water Music 30th Anniversary Tour feat. Quicksand at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Hot Water Music 30th Anniversary Tour feat. Quicksand at House of Blues on Friday, June 14, 2024, 07:00 PM: https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53]]></description>
-            <link>https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53</guid>
-            <pubDate>Fri, 14 Jun 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HEAVY METAL CAGE MATCH at Foundry]]></title>
@@ -1953,6 +2023,13 @@
             <pubDate>Sat, 03 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Apapo Afrotrio at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Apapo Afrotrio at Happy Dog on Tuesday, February 6, 2024, 08:00 PM: https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697]]></description>
+            <link>https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697</guid>
+            <pubDate>Tue, 06 Feb 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Happy Dog Takes on Everything at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Happy Dog Takes on Everything at Happy Dog on Wednesday, February 7, 2024, 07:30 PM: https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-805285850657]]></description>
             <link>https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-805285850657</link>
@@ -1993,13 +2070,6 @@
             <link>https://www.eventbrite.com/e/mudd-ten02-dive-bombs-tickets-817603543207</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/mudd-ten02-dive-bombs-tickets-817603543207</guid>
             <pubDate>Sat, 17 Feb 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guy Snowden & the Citizens, Millions of Mighty Horses, Hiram-Maxim, Lemon Swans at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Guy Snowden & the Citizens, Millions of Mighty Horses, Hiram-Maxim, Lemon Swans at Grog Shop on Thursday, February 1, 2024, 07:30 PM: https://grogshop.gs/event-details/13439313/guy-snowden-the-citizens-millions-of-mighty-horses-hiram-maxim-lemon-swans]]></description>
-            <link>https://grogshop.gs/event-details/13439313/guy-snowden-the-citizens-millions-of-mighty-horses-hiram-maxim-lemon-swans</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13439313/guy-snowden-the-citizens-millions-of-mighty-horses-hiram-maxim-lemon-swans</guid>
-            <pubDate>Thu, 01 Feb 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GlamGore: Couples Counseling, Anhedonia Delight at Grog Shop]]></title>
@@ -2191,18 +2261,18 @@
             <pubDate>Thu, 07 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wifisfuneral: BLACK HEART REVENGE 2 TOUR at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Wifisfuneral: BLACK HEART REVENGE 2 TOUR at Grog Shop on Friday, March 8, 2024, 08:30 PM: https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour]]></description>
-            <link>https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour</guid>
-            <pubDate>Fri, 08 Mar 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Tossers, Brazen Rogues, Forlorn United at Grog Shop]]></title>
             <description><![CDATA[Get tickets to The Tossers, Brazen Rogues, Forlorn United at Grog Shop on Saturday, March 9, 2024, 08:30 PM: https://grogshop.gs/event-details/13400093/the-tossers]]></description>
             <link>https://grogshop.gs/event-details/13400093/the-tossers</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13400093/the-tossers</guid>
             <pubDate>Sat, 09 Mar 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wifisfuneral: BLACK HEART REVENGE 2 TOUR, Kxvin Tylxr, Lil Jesse, Big Duka, 2042GO! x 4700 Bands at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Wifisfuneral: BLACK HEART REVENGE 2 TOUR, Kxvin Tylxr, Lil Jesse, Big Duka, 2042GO! x 4700 Bands at Grog Shop on Sunday, March 10, 2024, 08:30 PM: https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour]]></description>
+            <link>https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour</guid>
+            <pubDate>Sun, 10 Mar 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Decibel Magazine Tour 2024, Hulder, Devil Master, Worm, Necrofier at Grog Shop]]></title>

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Meet Me @ The Altar: Say It To My Face Tour"
-    ],
-    "link": "https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436",
-    "date": "2024-02-01T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Gimme Gimme Disco"
     ],
     "link": "https://link.dice.fm/n002e3eab957?dice_id=n002e3eab957",
@@ -129,19 +121,19 @@
   },
   {
     "artist": [
-      "Blonde Redhead"
-    ],
-    "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
-    "date": "2024-03-01T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Alexis Marrero"
     ],
     "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
     "date": "2024-03-01T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Blonde Redhead"
+    ],
+    "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
+    "date": "2024-03-01T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

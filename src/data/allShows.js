@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Meet Me @ The Altar: Say It To My Face Tour'],
-    link: 'https://link.dice.fm/a52d96a03436?dice_id=a52d96a03436',
-    date: '2024-02-01T18:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Gimme Gimme Disco'],
     link: 'https://link.dice.fm/n002e3eab957?dice_id=n002e3eab957',
     date: '2024-02-02T21:00:00-05:00',
@@ -96,16 +90,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Blonde Redhead'],
-    link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
-    date: '2024-03-01T19:00:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Alexis Marrero'],
     link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
     date: '2024-03-01T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Blonde Redhead'],
+    link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
+    date: '2024-03-01T19:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Formerly Candice'],
@@ -579,12 +573,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Get The Led Out'],
-    link: 'https://www.agoracleveland.com/events/detail/507064',
-    date: '2024-02-01T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Kameron Marlowe'],
     link: 'https://www.agoracleveland.com/events/detail/511283',
     date: '2024-02-09T18:30:00',
@@ -663,7 +651,7 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Kai Wachi Presents Morphosia Tour'],
+    artist: ['Kai Wachi Presents Morphosia Tour, Prosecute, Nimda'],
     link: 'https://www.agoracleveland.com/events/detail/519381',
     date: '2024-03-23T20:00:00',
     venue: 'Agora',
@@ -696,6 +684,72 @@ export const allShows = [
     artist: ['Dusty Slay'],
     link: 'https://www.agoracleveland.com/events/detail/512971',
     date: '2024-04-20T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['TommyInnit How To Be A Billionaire'],
+    link: 'https://www.agoracleveland.com/events/detail/520431',
+    date: '2024-04-25T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['An Evening with Alan Ruck'],
+    link: 'https://www.agoracleveland.com/events/detail/519196',
+    date: '2024-05-03T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Our Last Night, Broadside, Normandie'],
+    link: 'https://www.agoracleveland.com/events/detail/507744',
+    date: '2024-05-10T18:30:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Kathy Griffin'],
+    link: 'https://www.agoracleveland.com/events/detail/512472',
+    date: '2024-05-11T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Blind Guardian, Night Demon'],
+    link: 'https://www.agoracleveland.com/events/detail/517799',
+    date: '2024-05-16T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Mr. Big, Shawn Perry'],
+    link: 'https://www.agoracleveland.com/events/detail/526774',
+    date: '2024-05-24T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Knocked Loose, Loathe, Show Me The Body, SPEED'],
+    link: 'https://www.agoracleveland.com/events/detail/528579',
+    date: '2024-05-25T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Chappell Roan'],
+    link: 'https://www.agoracleveland.com/events/detail/526058',
+    date: '2024-05-28T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['House of BurlesCLE 2.0'],
+    link: 'https://www.agoracleveland.com/events/detail/521430',
+    date: '2024-06-08T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['House Of BurlesCle 2.0'],
+    link: 'https://www.agoracleveland.com/events/detail/521669',
+    date: '2024-06-08T20:30:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool'],
+    link: 'https://www.agoracleveland.com/events/detail/520827',
+    date: '2024-07-28T18:30:00',
     venue: 'Agora',
   },
   {
@@ -836,6 +890,12 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['BLANKE \u2013 EARTH TO THE STARS: EMERGENCE CLEVELAND'],
+    link: 'https://www.ticketmaster.com/blanke-earth-to-the-stars-emergence-cleveland-ohio-04-06-2024/event/0500603F278D6AFA',
+    date: '2024-04-06T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['Gimme Sugar & Mister Breeze'],
     link: 'https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546',
     date: '2024-04-13T20:00:00',
@@ -848,14 +908,14 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed'],
-    link: 'https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5',
+    artist: ['EMO ORCHESTRA featuring ESCAPE THE FATE'],
+    link: 'https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853',
     date: '2024-04-19T20:00:00',
     venue: 'Masonic Temple',
   },
   {
-    artist: ['EMO ORCHESTRA featuring ESCAPE THE FATE'],
-    link: 'https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853',
+    artist: ['TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed'],
+    link: 'https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5',
     date: '2024-04-19T20:00:00',
     venue: 'Masonic Temple',
   },
@@ -1100,6 +1160,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Beach Fossils with friends Nation of Language'],
+    link: 'https://concerts.livenation.com/beach-fossils-with-friends-nation-of-cleveland-ohio-04-01-2024/event/05006039BED34A4B',
+    date: '2024-04-01T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['VNV Nation'],
     link: 'https://concerts.livenation.com/vnv-nation-cleveland-ohio-04-12-2024/event/0500602AD94536C9',
     date: '2024-04-12T19:00:00',
@@ -1207,12 +1273,6 @@ export const allShows = [
     artist: ['Siwa Presents XOMG POP! LIVE'],
     link: 'https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48',
     date: '2024-06-12T17:30:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Hot Water Music 30th Anniversary Tour feat. Quicksand'],
-    link: 'https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53',
-    date: '2024-06-14T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1700,6 +1760,12 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
+    artist: ['Apapo Afrotrio'],
+    link: 'https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697',
+    date: '2024-02-06T20:00:00',
+    venue: 'Happy Dog',
+  },
+  {
     artist: ['Happy Dog Takes on Everything'],
     link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-805285850657',
     date: '2024-02-07T19:30:00',
@@ -1734,14 +1800,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/mudd-ten02-dive-bombs-tickets-817603543207',
     date: '2024-02-17T21:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: [
-      'Guy Snowden & the Citizens, Millions of Mighty Horses, Hiram-Maxim, Lemon Swans',
-    ],
-    link: 'https://grogshop.gs/event-details/13439313/guy-snowden-the-citizens-millions-of-mighty-horses-hiram-maxim-lemon-swans',
-    date: '2024-02-01T19:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['GlamGore: Couples Counseling', 'Anhedonia Delight'],
@@ -1955,15 +2013,21 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Wifisfuneral: BLACK HEART REVENGE 2 TOUR'],
-    link: 'https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour',
-    date: '2024-03-08T20:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['The Tossers', 'Brazen Rogues', 'Forlorn United'],
     link: 'https://grogshop.gs/event-details/13400093/the-tossers',
     date: '2024-03-09T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      'Wifisfuneral: BLACK HEART REVENGE 2 TOUR',
+      'Kxvin Tylxr',
+      'Lil Jesse',
+      'Big Duka',
+      '2042GO! x 4700 Bands',
+    ],
+    link: 'https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour',
+    date: '2024-03-10T20:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -2139,6 +2203,7 @@ export const allShows = [
   {
     artist: ['Bumpin Uglies', 'TobyRaps', 'C-Level'],
     link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level',
+    sold_out: true,
     date: '2024-02-03T20:00:00',
     venue: 'Beachland Ballroom',
   },

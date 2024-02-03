@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Mark Gamsjager & the Lustre Kings",
-      "DJ Mittenclips"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings-dj-mittenclips",
-    "date": "2024-02-01T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Pre/Post Party",
       "Minka"
     ],
@@ -24,6 +15,7 @@
       "Higher Education"
     ],
     "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies-the-grilled-lincolns-higher-education",
+    "sold_out": true,
     "date": "2024-02-02T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -331,9 +323,10 @@
   },
   {
     "artist": [
-      "Bobby Rush"
+      "Bobby Rush",
+      "Austin \"Walkin\" Cane"
     ],
-    "link": "https://www.beachlandballroom.com/e/13420333/bobby-rush",
+    "link": "https://www.beachlandballroom.com/e/13420333/bobby-rush-austin-walkin-cane",
     "date": "2024-03-07T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -749,9 +742,10 @@
   },
   {
     "artist": [
-      "BODEGA"
+      "BODEGA",
+      "Total Downer"
     ],
-    "link": "https://www.beachlandballroom.com/e/13399993/bodega",
+    "link": "https://www.beachlandballroom.com/e/13399993/bodega-total-downer",
     "date": "2024-04-22T20:00:00",
     "venue": "Beachland Tavern"
   },

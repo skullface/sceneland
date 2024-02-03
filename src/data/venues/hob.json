@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "That Arena Rock Show"
-    ],
-    "link": "https://concerts.livenation.com/that-arena-rock-show-cleveland-ohio-02-02-2024/event/05005F75E4FF4C1A",
-    "date": "2024-02-02T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "anees: Winter Camp Tour \u0096 MOVED TO MUSIC HALL"
     ],
     "link": "https://concerts.livenation.com/anees-winter-camp-tour-moved-to-cleveland-ohio-02-03-2024/event/05005F34BECB2D17",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
     "date": "2024-06-12T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Hot Water Music 30th Anniversary Tour feat. Quicksand"
+    ],
+    "link": "https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53",
+    "date": "2024-06-14T19:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -1,35 +1,6 @@
 [
   {
     "artist": [
-      "Pre/Post Party",
-      "Minka"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13464543/pre-post-party-minka",
-    "date": "2024-02-02T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Bumpin Uglies",
-      "The Grilled Lincolns",
-      "Higher Education"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies-the-grilled-lincolns-higher-education",
-    "sold_out": true,
-    "date": "2024-02-02T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Post Party",
-      "Joint Operation"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13383653/post-party-joint-operation",
-    "date": "2024-02-03T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Bumpin Uglies",
       "TobyRaps",
       "C-Level"

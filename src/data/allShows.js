@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Love Club: an all out 2010\u2019s night'],
-    link: 'https://link.dice.fm/kdabf5e9c03d?dice_id=kdabf5e9c03d',
-    date: '2024-02-03T20:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Willi Carlisle'],
     link: 'https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b',
     date: '2024-02-04T19:00:00-05:00',
@@ -48,16 +42,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
-    date: '2024-02-17T19:00:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Cole Chaney'],
     link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    date: '2024-02-17T19:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Jukebox Breakdown aka Emo Night CLE 9th birthday!'],
@@ -84,16 +78,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Blonde Redhead'],
-    link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
-    date: '2024-03-01T19:00:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Alexis Marrero'],
     link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
     date: '2024-03-01T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Blonde Redhead'],
+    link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
+    date: '2024-03-01T19:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Formerly Candice'],
@@ -198,16 +192,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Little Ditties'],
-    link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
-    date: '2024-03-28T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Magazine Beach'],
     link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
     date: '2024-03-28T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['The Little Ditties'],
+    link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Nadiem - Exception Tour '],
@@ -366,12 +360,6 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['TRASH UNREAL VI: LOVE IS TRASH II'],
-    link: 'https://www.eventbrite.com/e/trash-unreal-vi-love-is-trash-ii-tickets-794965321677',
-    date: '2024-02-03T18:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: ['200 STAB WOUNDS MUSIC VIDEO SHOOT, SHOW'],
     link: 'https://www.eventbrite.com/e/200-stab-wounds-music-video-shoot-show-tickets-808356023627',
     date: '2024-02-09T20:00:00',
@@ -477,6 +465,12 @@ export const allShows = [
     artist: ['Mike Mains & The Branches'],
     link: 'https://www.ticketweb.com/event/mike-mains-the-branches-musica-tickets/13660028?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-03-06T20:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['MAOLI - Boots On The Ground Tour Plus Special Guest MISHKA'],
+    link: 'https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck',
+    date: '2024-03-23T20:00:00',
     venue: 'Musica Akron',
   },
   {
@@ -980,18 +974,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['anees: Winter Camp Tour \u0096 MOVED TO MUSIC HALL'],
-    link: 'https://concerts.livenation.com/anees-winter-camp-tour-moved-to-cleveland-ohio-02-03-2024/event/05005F34BECB2D17',
-    date: '2024-02-03T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['anees: Winter Camp Tour'],
-    link: 'https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F9CC1202813',
-    date: '2024-02-03T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Never Ending Fall: The American Disco Tour'],
     link: 'https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2',
     date: '2024-02-08T19:00:00',
@@ -1270,6 +1252,18 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Taking Back Sunday'],
+    link: 'https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C',
+    date: '2024-06-18T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['POP 2000 Tour'],
+    link: 'https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49',
+    date: '2024-07-14T16:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/',
     date: '2024-02-05T18:00:00',
@@ -1348,6 +1342,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['The Electric Funeral'],
+    link: 'https://www.foundryconcertclub.com/tm-event/the-electric-funeral/',
+    date: '2024-02-29T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['RAMEN POP-UP'],
     link: 'https://www.foundryconcertclub.com/tm-event/ramen-pop-up/',
     date: '2024-03-03T17:00:00',
@@ -1357,6 +1357,12 @@ export const allShows = [
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-9/',
     date: '2024-03-04T17:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Of Virtue'],
+    link: 'https://www.foundryconcertclub.com/tm-event/of-virtue/',
+    date: '2024-03-05T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1407,12 +1413,6 @@ export const allShows = [
     artist: ['Shayfer James'],
     link: 'https://www.foundryconcertclub.com/tm-event/shayfer-james/',
     date: '2024-04-06T19:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['The Ghost Club, Fuller'],
-    link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
-    date: '2024-04-07T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1730,12 +1730,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['1402 (Tour return show), Model Living, Mud Whale'],
-    link: 'https://www.eventbrite.com/e/1402-tour-return-show-model-living-mud-whale-tickets-803524010947',
-    date: '2024-02-03T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Apapo Afrotrio'],
     link: 'https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697',
     date: '2024-02-06T20:00:00',
@@ -1784,11 +1778,10 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['The Record Company: Roll With It Tour', 'Jesse Ahern'],
-    link: 'https://grogshop.gs/event-details/13723678/the-record-company-roll-with-it-tour',
-    sold_out: true,
-    date: '2024-02-03T20:00:00',
-    venue: 'Grog Shop',
+    artist: ['Doug McKean & The Stuntmen, Joshua Jesty, Ruby Rose'],
+    link: 'https://www.eventbrite.com/e/doug-mckean-the-stuntmen-joshua-jesty-ruby-rose-tickets-817663512577',
+    date: '2024-02-23T21:00:00',
+    venue: 'Happy Dog',
   },
   {
     artist: [
@@ -2164,25 +2157,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn',
     date: '2024-08-28T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Pre/Post Party', 'Minka'],
-    link: 'https://www.beachlandballroom.com/e/13464543/pre-post-party-minka',
-    date: '2024-02-02T18:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Bumpin Uglies', 'The Grilled Lincolns', 'Higher Education'],
-    link: 'https://www.beachlandballroom.com/e/13649028/bumpin-uglies-the-grilled-lincolns-higher-education',
-    sold_out: true,
-    date: '2024-02-02T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Post Party', 'Joint Operation'],
-    link: 'https://www.beachlandballroom.com/e/13383653/post-party-joint-operation',
-    date: '2024-02-03T18:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Bumpin Uglies', 'TobyRaps', 'C-Level'],

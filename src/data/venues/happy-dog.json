@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "1402 (Tour return show), Model Living, Mud Whale"
-    ],
-    "link": "https://www.eventbrite.com/e/1402-tour-return-show-model-living-mud-whale-tickets-803524010947",
-    "date": "2024-02-03T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Apapo Afrotrio"
     ],
     "link": "https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847",
     "date": "2024-02-21T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Doug McKean & The Stuntmen, Joshua Jesty, Ruby Rose"
+    ],
+    "link": "https://www.eventbrite.com/e/doug-mckean-the-stuntmen-joshua-jesty-ruby-rose-tickets-817663512577",
+    "date": "2024-02-23T21:00:00",
     "venue": "Happy Dog"
   }
 ]

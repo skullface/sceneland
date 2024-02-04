@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "anees: Winter Camp Tour \u0096 MOVED TO MUSIC HALL"
-    ],
-    "link": "https://concerts.livenation.com/anees-winter-camp-tour-moved-to-cleveland-ohio-02-03-2024/event/05005F34BECB2D17",
-    "date": "2024-02-03T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "anees: Winter Camp Tour"
-    ],
-    "link": "https://concerts.livenation.com/anees-winter-camp-tour-cleveland-ohio-02-03-2024/event/05005F9CC1202813",
-    "date": "2024-02-03T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Never Ending Fall: The American Disco Tour"
     ],
     "link": "https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2",
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53",
     "date": "2024-06-14T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Taking Back Sunday"
+    ],
+    "link": "https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C",
+    "date": "2024-06-18T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "POP 2000 Tour"
+    ],
+    "link": "https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49",
+    "date": "2024-07-14T16:00:00",
     "venue": "House of Blues"
   }
 ]

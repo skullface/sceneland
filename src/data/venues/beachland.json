@@ -1,33 +1,6 @@
 [
   {
     "artist": [
-      "Bumpin Uglies",
-      "TobyRaps",
-      "C-Level"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level",
-    "sold_out": true,
-    "date": "2024-02-03T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Shotgun Bowl 2",
-      "Olathia",
-      "Destructor",
-      "Wyld Timez",
-      "Punching Moses",
-      "Rip Ryde",
-      "Wrath Icon",
-      "Dysplacer",
-      "Idol Throne"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13367543/shotgun-bowl-2-olathia-destructor-wyld-timez-punching-moses-rip-ryde-wrath-icon-dysplacer-idol-throne",
-    "date": "2024-02-04T14:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "The Kind Thieves",
       "The Rustbelt Ragtops"
     ],

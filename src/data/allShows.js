@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Willi Carlisle'],
-    link: 'https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b',
-    date: '2024-02-04T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Holding Absence'],
     link: 'https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738',
     date: '2024-02-06T18:00:00-05:00',
@@ -42,16 +36,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
-    date: '2024-02-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Indigo De Souza'],
     link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    date: '2024-02-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Jukebox Breakdown aka Emo Night CLE 9th birthday!'],
@@ -78,16 +72,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Alexis Marrero'],
-    link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
-    date: '2024-03-01T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Blonde Redhead'],
     link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
     date: '2024-03-01T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Alexis Marrero'],
+    link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
+    date: '2024-03-01T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Formerly Candice'],
@@ -192,16 +186,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Magazine Beach'],
-    link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
-    date: '2024-03-28T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['The Little Ditties'],
     link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
     date: '2024-03-28T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Magazine Beach'],
+    link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Nadiem - Exception Tour '],
@@ -1342,12 +1336,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['The Electric Funeral'],
-    link: 'https://www.foundryconcertclub.com/tm-event/the-electric-funeral/',
-    date: '2024-02-29T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['RAMEN POP-UP'],
     link: 'https://www.foundryconcertclub.com/tm-event/ramen-pop-up/',
     date: '2024-03-03T17:00:00',
@@ -1413,6 +1401,12 @@ export const allShows = [
     artist: ['Shayfer James'],
     link: 'https://www.foundryconcertclub.com/tm-event/shayfer-james/',
     date: '2024-04-06T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['The Ghost Club, Fuller'],
+    link: 'https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/',
+    date: '2024-04-07T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1784,18 +1778,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: [
-      'Team Awesome',
-      'Rellick',
-      'Frida and The Mann',
-      'Yo Pastel',
-      'Frida And The Mann',
-    ],
-    link: 'https://grogshop.gs/event-details/13442743/team-awesome-rellick-frida-and-the-mann-yo-pastel',
-    date: '2024-02-04T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-02-05T20:00:00',
@@ -1968,14 +1950,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Left Lane Cruiser', 'Adam Faucett', 'Nate Bergman'],
-    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman',
+    artist: ['BabyTron'],
+    link: 'https://grogshop.gs/event-details/13853798/babytron',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['BabyTron'],
-    link: 'https://grogshop.gs/event-details/13853798/babytron',
+    artist: ['Left Lane Cruiser', 'Adam Faucett', 'Nate Bergman'],
+    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2157,29 +2139,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn',
     date: '2024-08-28T20:00:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Bumpin Uglies', 'TobyRaps', 'C-Level'],
-    link: 'https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level',
-    sold_out: true,
-    date: '2024-02-03T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: [
-      'Shotgun Bowl 2',
-      'Olathia',
-      'Destructor',
-      'Wyld Timez',
-      'Punching Moses',
-      'Rip Ryde',
-      'Wrath Icon',
-      'Dysplacer',
-      'Idol Throne',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13367543/shotgun-bowl-2-olathia-destructor-wyld-timez-punching-moses-rip-ryde-wrath-icon-dysplacer-idol-throne',
-    date: '2024-02-04T14:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['The Kind Thieves', 'The Rustbelt Ragtops'],

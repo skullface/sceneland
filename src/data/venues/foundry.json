@@ -97,14 +97,6 @@
   },
   {
     "artist": [
-      "The Electric Funeral"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-electric-funeral/",
-    "date": "2024-02-29T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "RAMEN POP-UP"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ramen-pop-up/",
@@ -189,6 +181,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/shayfer-james/",
     "date": "2024-04-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "The Ghost Club, Fuller"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/",
+    "date": "2024-04-07T19:00:00",
     "venue": "Foundry"
   },
   {

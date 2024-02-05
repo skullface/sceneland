@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Feb 2024 09:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 09:05:51 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Willi Carlisle at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Willi Carlisle at Mahall’s on Monday, February 5, 2024, 12:00 AM: https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b]]></description>
-            <link>https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b</link>
-            <guid isPermaLink="true">https://link.dice.fm/L3b58a7f3d7b?dice_id=L3b58a7f3d7b</guid>
-            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Holding Absence at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Holding Absence at Mahall’s on Tuesday, February 6, 2024, 11:00 PM: https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738]]></description>
@@ -56,17 +49,17 @@
             <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cole Chaney at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d]]></description>
-            <link>https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</guid>
-            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Indigo De Souza at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Indigo De Souza at The Roxy at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0]]></description>
             <link>https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</link>
             <guid isPermaLink="true">https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cole Chaney at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Cole Chaney at Mahall’s on Sunday, February 18, 2024, 12:00 AM: https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d]]></description>
+            <link>https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -98,17 +91,17 @@
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alexis Marrero at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Alexis Marrero at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7]]></description>
-            <link>https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</link>
-            <guid isPermaLink="true">https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</guid>
-            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Blonde Redhead at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Blonde Redhead at The Roxy at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc]]></description>
             <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</link>
             <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</guid>
+            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexis Marrero at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Alexis Marrero at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7]]></description>
+            <link>https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</link>
+            <guid isPermaLink="true">https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</guid>
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -231,17 +224,17 @@
             <pubDate>Wed, 27 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magazine Beach at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Magazine Beach at Mahall’s Apartment on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4]]></description>
-            <link>https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</link>
-            <guid isPermaLink="true">https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</guid>
-            <pubDate>Thu, 28 Mar 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Little Ditties at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Little Ditties at Mahall’s on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da]]></description>
             <link>https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da</link>
             <guid isPermaLink="true">https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da</guid>
+            <pubDate>Thu, 28 Mar 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magazine Beach at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Magazine Beach at Mahall’s Apartment on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4]]></description>
+            <link>https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</link>
+            <guid isPermaLink="true">https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</guid>
             <pubDate>Thu, 28 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1547,13 +1540,6 @@
             <pubDate>Thu, 29 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Electric Funeral at Foundry]]></title>
-            <description><![CDATA[Get tickets to The Electric Funeral at Foundry on Thursday, February 29, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/the-electric-funeral/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/the-electric-funeral/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-electric-funeral/</guid>
-            <pubDate>Thu, 29 Feb 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[RAMEN POP-UP at Foundry]]></title>
             <description><![CDATA[Get tickets to RAMEN POP-UP at Foundry on Sunday, March 3, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/ramen-pop-up/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/ramen-pop-up/</link>
@@ -1629,6 +1615,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/shayfer-james/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/shayfer-james/</guid>
             <pubDate>Sat, 06 Apr 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ghost Club, Fuller at Foundry]]></title>
+            <description><![CDATA[Get tickets to The Ghost Club, Fuller at Foundry on Sunday, April 7, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/</guid>
+            <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gates of Sheol, Elijah, Counting Gravestones, Only The Lucky Ones Die at Foundry]]></title>
@@ -2051,13 +2044,6 @@
             <pubDate>Fri, 23 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Team Awesome, Rellick, Frida and The Mann, Yo Pastel, Frida And The Mann at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Team Awesome, Rellick, Frida and The Mann, Yo Pastel, Frida And The Mann at Grog Shop on Sunday, February 4, 2024, 08:00 PM: https://grogshop.gs/event-details/13442743/team-awesome-rellick-frida-and-the-mann-yo-pastel]]></description>
-            <link>https://grogshop.gs/event-details/13442743/team-awesome-rellick-frida-and-the-mann-yo-pastel</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13442743/team-awesome-rellick-frida-and-the-mann-yo-pastel</guid>
-            <pubDate>Sun, 04 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, February 5, 2024, 08:00 PM: https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
             <link>https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford</link>
@@ -2212,17 +2198,17 @@
             <pubDate>Sun, 03 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman]]></description>
-            <link>https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</guid>
-            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BabyTron at Grog Shop]]></title>
             <description><![CDATA[Get tickets to BabyTron at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13853798/babytron]]></description>
             <link>https://grogshop.gs/event-details/13853798/babytron</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13853798/babytron</guid>
+            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman]]></description>
+            <link>https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</guid>
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2385,20 +2371,6 @@
             <link>https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn</guid>
             <pubDate>Wed, 28 Aug 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bumpin Uglies, TobyRaps, C-Level at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Bumpin Uglies, TobyRaps, C-Level at Beachland Ballroom on Saturday, February 3, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level]]></description>
-            <link>https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level</guid>
-            <pubDate>Sat, 03 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shotgun Bowl 2, Olathia, Destructor, Wyld Timez, Punching Moses, Rip Ryde, Wrath Icon, Dysplacer, Idol Throne at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Shotgun Bowl 2, Olathia, Destructor, Wyld Timez, Punching Moses, Rip Ryde, Wrath Icon, Dysplacer, Idol Throne at Beachland Ballroom on Sunday, February 4, 2024, 02:00 PM: https://www.beachlandballroom.com/e/13367543/shotgun-bowl-2-olathia-destructor-wyld-timez-punching-moses-rip-ryde-wrath-icon-dysplacer-idol-throne]]></description>
-            <link>https://www.beachlandballroom.com/e/13367543/shotgun-bowl-2-olathia-destructor-wyld-timez-punching-moses-rip-ryde-wrath-icon-dysplacer-idol-throne</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13367543/shotgun-bowl-2-olathia-destructor-wyld-timez-punching-moses-rip-ryde-wrath-icon-dysplacer-idol-throne</guid>
-            <pubDate>Sun, 04 Feb 2024 14:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Kind Thieves, The Rustbelt Ragtops at Beachland Tavern]]></title>

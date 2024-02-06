@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-02-05T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Another Dead Rockstar, Altered Generation, Craig Martini"
     ],
     "link": "https://grogshop.gs/event-details/13435973/another-dead-rockstar-altered-generation-craig-martini",
@@ -212,19 +204,19 @@
   },
   {
     "artist": [
-      "BabyTron"
-    ],
-    "link": "https://grogshop.gs/event-details/13853798/babytron",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Left Lane Cruiser",
       "Adam Faucett",
       "Nate Bergman"
     ],
     "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "BabyTron"
+    ],
+    "link": "https://grogshop.gs/event-details/13853798/babytron",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },

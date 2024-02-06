@@ -4,6 +4,7 @@
       "Holding Absence"
     ],
     "link": "https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738",
+    "sold_out": true,
     "date": "2024-02-06T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
@@ -49,19 +50,19 @@
   },
   {
     "artist": [
-      "Indigo De Souza"
-    ],
-    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
-    "date": "2024-02-17T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Cole Chaney"
     ],
     "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Indigo De Souza"
+    ],
+    "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
+    "date": "2024-02-17T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -213,7 +214,7 @@
     ],
     "link": "https://link.dice.fm/D72fa33ab9ba?dice_id=D72fa33ab9ba",
     "date": "2024-03-17T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -249,19 +250,19 @@
   },
   {
     "artist": [
-      "The Little Ditties"
-    ],
-    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Magazine Beach"
     ],
     "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "The Little Ditties"
+    ],
+    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -385,6 +386,14 @@
   },
   {
     "artist": [
+      "Yotclub"
+    ],
+    "link": "https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0",
+    "date": "2024-05-03T19:30:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Cheekface"
     ],
     "link": "https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6",
@@ -397,6 +406,22 @@
     ],
     "link": "https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3",
     "date": "2024-05-08T18:30:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Chastity"
+    ],
+    "link": "https://link.dice.fm/Aea95a624cd0?dice_id=Aea95a624cd0",
+    "date": "2024-05-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Microwave"
+    ],
+    "link": "https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb",
+    "date": "2024-05-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {

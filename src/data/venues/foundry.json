@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/",
-    "date": "2024-02-05T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Baba\u2019s Kitchen w/ Chef Sierra \u2013 A Foundry Concert Club Food Pop Up"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/babas-kitchen-w-chef-sierra-a-foundry-concert-club-food-pop-up/",
@@ -29,6 +21,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/",
     "date": "2024-02-10T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/",
+    "date": "2024-02-12T18:00:00",
     "venue": "Foundry"
   },
   {

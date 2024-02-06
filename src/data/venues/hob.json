@@ -305,6 +305,14 @@
   },
   {
     "artist": [
+      "Stiff Little Fingers"
+    ],
+    "link": "https://concerts.livenation.com/stiff-little-fingers-cleveland-ohio-05-06-2024/event/0500603F122E6727",
+    "date": "2024-05-06T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Thievery Corporation"
     ],
     "link": "https://concerts.livenation.com/thievery-corporation-cleveland-ohio-05-08-2024/event/05006028A7471822",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C",
     "date": "2024-06-18T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "POP 2000 Tour"
-    ],
-    "link": "https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49",
-    "date": "2024-07-14T16:00:00",
     "venue": "House of Blues"
   }
 ]

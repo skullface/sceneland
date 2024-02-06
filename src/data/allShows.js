@@ -2,6 +2,7 @@ export const allShows = [
   {
     artist: ['Holding Absence'],
     link: 'https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738',
+    sold_out: true,
     date: '2024-02-06T18:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -36,16 +37,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Indigo De Souza'],
-    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
-    date: '2024-02-17T19:00:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Cole Chaney'],
     link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Indigo De Souza'],
+    link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
+    date: '2024-02-17T19:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Jukebox Breakdown aka Emo Night CLE 9th birthday!'],
@@ -159,7 +160,7 @@ export const allShows = [
     artist: ["Arm's Length"],
     link: 'https://link.dice.fm/D72fa33ab9ba?dice_id=D72fa33ab9ba',
     date: '2024-03-17T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Between You & Me'],
@@ -186,16 +187,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Little Ditties'],
-    link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
-    date: '2024-03-28T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Magazine Beach'],
     link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
     date: '2024-03-28T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['The Little Ditties'],
+    link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Nadiem - Exception Tour '],
@@ -288,6 +289,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Yotclub'],
+    link: 'https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0',
+    date: '2024-05-03T19:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Cheekface'],
     link: 'https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6',
     date: '2024-05-04T19:00:00-04:00',
@@ -297,6 +304,18 @@ export const allShows = [
     artist: ['Soen'],
     link: 'https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3',
     date: '2024-05-08T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Chastity'],
+    link: 'https://link.dice.fm/Aea95a624cd0?dice_id=Aea95a624cd0',
+    date: '2024-05-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Microwave'],
+    link: 'https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb',
+    date: '2024-05-10T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
@@ -678,6 +697,12 @@ export const allShows = [
     artist: ['Kathy Griffin'],
     link: 'https://www.agoracleveland.com/events/detail/512472',
     date: '2024-05-11T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Trey Anastasio and Classic TAB'],
+    link: 'https://www.agoracleveland.com/events/detail/530002',
+    date: '2024-05-15T18:30:00',
     venue: 'Agora',
   },
   {
@@ -1198,6 +1223,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Stiff Little Fingers'],
+    link: 'https://concerts.livenation.com/stiff-little-fingers-cleveland-ohio-05-06-2024/event/0500603F122E6727',
+    date: '2024-05-06T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Thievery Corporation'],
     link: 'https://concerts.livenation.com/thievery-corporation-cleveland-ohio-05-08-2024/event/05006028A7471822',
     date: '2024-05-08T19:00:00',
@@ -1252,18 +1283,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['POP 2000 Tour'],
-    link: 'https://concerts.livenation.com/pop-2000-tour-cleveland-ohio-07-14-2024/event/05006029CCBF2B49',
-    date: '2024-07-14T16:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-5/',
-    date: '2024-02-05T18:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: [
       'Baba\u2019s Kitchen w/ Chef Sierra \u2013 A Foundry Concert Club Food Pop Up',
     ],
@@ -1281,6 +1300,12 @@ export const allShows = [
     artist: ['KINK! A Nightclub Event'],
     link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
     date: '2024-02-10T21:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/',
+    date: '2024-02-12T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1493,6 +1518,12 @@ export const allShows = [
     artist: ['Marc Maron'],
     link: 'https://www.playhousesquare.org/events/detail/marc-maron-1',
     date: '2024-05-10',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ['Joshua Seth - Mentalist'],
+    link: 'https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2',
+    date: '2024-06-01',
     venue: 'Playhouse Square',
   },
   {
@@ -1778,10 +1809,12 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
-    link: 'https://grogshop.gs/event-details/13339043/make-em-laugh-mondays-hosted-by-kevin-ford',
-    date: '2024-02-05T20:00:00',
-    venue: 'Grog Shop',
+    artist: [
+      'Ripperfest: YDI, Primitive Impulse, Mower, Lady Parts, Leaking Head +',
+    ],
+    link: 'https://www.eventbrite.com/e/ripperfest-ydi-primitive-impulse-mower-lady-parts-leaking-head-tickets-770657004847',
+    date: '2024-02-25T17:00:00',
+    venue: 'Happy Dog',
   },
   {
     artist: ['Another Dead Rockstar, Altered Generation, Craig Martini'],
@@ -1950,14 +1983,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['BabyTron'],
-    link: 'https://grogshop.gs/event-details/13853798/babytron',
+    artist: ['Left Lane Cruiser', 'Adam Faucett', 'Nate Bergman'],
+    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Left Lane Cruiser', 'Adam Faucett', 'Nate Bergman'],
-    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman',
+    artist: ['BabyTron'],
+    link: 'https://grogshop.gs/event-details/13853798/babytron',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2223,6 +2256,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Beachland Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13498603/beachland-brunch',
+    date: '2024-02-18T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Stick Men', 'CuDa, Schief & CuDa'],
     link: 'https://www.beachlandballroom.com/e/13717748/stick-men-cuda-schief-cuda',
     date: '2024-02-21T20:00:00',
@@ -2359,6 +2398,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Whiskey Throttle'],
+    link: 'https://www.beachlandballroom.com/e/13498933/whiskey-throttle',
+    date: '2024-03-08T20:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Abstract Sounds', 'Thicarus'],
     link: 'https://www.beachlandballroom.com/e/13479003/abstract-sounds-thicarus',
     date: '2024-03-09T20:00:00',
@@ -2475,8 +2520,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Andrea Von Kampen'],
-    link: 'https://www.beachlandballroom.com/e/13435253/andrea-von-kampen',
+    artist: ['Andrea Von Kampen', 'American Darling'],
+    link: 'https://www.beachlandballroom.com/e/13435253/andrea-von-kampen-american-darling',
     date: '2024-03-29T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2613,8 +2658,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Ruen Brothers'],
-    link: 'https://www.beachlandballroom.com/e/13409098/ruen-brothers',
+    artist: ['Ruen Brothers', 'Poro'],
+    link: 'https://www.beachlandballroom.com/e/13409098/ruen-brothers-poro',
     date: '2024-04-17T20:00:00',
     venue: 'Beachland Tavern',
   },

@@ -113,6 +113,14 @@
   },
   {
     "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13498603/beachland-brunch",
+    "date": "2024-02-18T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Stick Men",
       "CuDa, Schief & CuDa"
     ],
@@ -293,6 +301,14 @@
   },
   {
     "artist": [
+      "Whiskey Throttle"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13498933/whiskey-throttle",
+    "date": "2024-03-08T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Abstract Sounds",
       "Thicarus"
     ],
@@ -449,9 +465,10 @@
   },
   {
     "artist": [
-      "Andrea Von Kampen"
+      "Andrea Von Kampen",
+      "American Darling"
     ],
-    "link": "https://www.beachlandballroom.com/e/13435253/andrea-von-kampen",
+    "link": "https://www.beachlandballroom.com/e/13435253/andrea-von-kampen-american-darling",
     "date": "2024-03-29T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -645,9 +662,10 @@
   },
   {
     "artist": [
-      "Ruen Brothers"
+      "Ruen Brothers",
+      "Poro"
     ],
-    "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
+    "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers-poro",
     "date": "2024-04-17T20:00:00",
     "venue": "Beachland Tavern"
   },

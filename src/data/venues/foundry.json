@@ -89,6 +89,14 @@
   },
   {
     "artist": [
+      "FREE BAR SHOW"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show/",
+    "date": "2024-02-25T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "The Electric Funeral"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-electric-funeral/",
@@ -145,10 +153,18 @@
   },
   {
     "artist": [
-      "Lutharo, Olathia, After The Apocalypse"
+      "Lutharo, Olathia, After The Apocalypse, Storms of Tomorrow"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/",
     "date": "2024-03-16T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Native Sons, Lilieae, Vernotica"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/native-sons-lilieae-vernotica/",
+    "date": "2024-03-21T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -173,6 +189,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/",
     "date": "2024-04-02T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Unhinged Easter"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/unhinged-easter/",
+    "date": "2024-04-05T19:00:00",
     "venue": "Foundry"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Apapo Afrotrio"
-    ],
-    "link": "https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697",
-    "date": "2024-02-06T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Happy Dog Takes on Everything"
     ],
     "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-805285850657",
@@ -37,6 +29,14 @@
     ],
     "link": "https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757",
     "date": "2024-02-14T20:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Comedy Night in the Underdog!"
+    ],
+    "link": "https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117",
+    "date": "2024-02-15T19:00:00",
     "venue": "Happy Dog"
   },
   {

@@ -65,6 +65,14 @@
   },
   {
     "artist": [
+      "Club 90s Presents Justin Bieber Night: 18+ Only: ID Required"
+    ],
+    "link": "https://concerts.livenation.com/club-90s-presents-justin-bieber-night-cleveland-ohio-03-01-2024/event/05006041CF1F55C6",
+    "date": "2024-03-01T20:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Silversun Pickups"
     ],
     "link": "https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53",
     "date": "2024-06-14T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Taking Back Sunday"
-    ],
-    "link": "https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C",
-    "date": "2024-06-18T19:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Holding Absence"
-    ],
-    "link": "https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738",
-    "sold_out": true,
-    "date": "2024-02-06T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Mom Rock"
     ],
     "link": "https://link.dice.fm/fa0e3d125744?dice_id=fa0e3d125744",
@@ -250,14 +241,6 @@
   },
   {
     "artist": [
-      "Magazine Beach"
-    ],
-    "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "The Little Ditties"
     ],
     "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
@@ -266,11 +249,27 @@
   },
   {
     "artist": [
+      "Magazine Beach"
+    ],
+    "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
       "Nadiem - Exception Tour "
     ],
     "link": "https://link.dice.fm/vfdf6fe1a123?dice_id=vfdf6fe1a123",
     "date": "2024-03-29T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Jukebox Breakdown aka Emo Night CLE"
+    ],
+    "link": "https://link.dice.fm/Aa600a389173?dice_id=Aa600a389173",
+    "date": "2024-03-29T21:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -386,7 +385,7 @@
   },
   {
     "artist": [
-      "Yotclub"
+      "Yot Club"
     ],
     "link": "https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0",
     "date": "2024-05-03T19:30:00-04:00",
@@ -398,6 +397,14 @@
     ],
     "link": "https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6",
     "date": "2024-05-04T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Dustin Kensrue"
+    ],
+    "link": "https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd",
+    "date": "2024-05-06T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -431,6 +438,14 @@
     "link": "https://link.dice.fm/Sac774794fa1?dice_id=Sac774794fa1",
     "date": "2024-05-11T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "HAWTHORNE HEIGHTS: BEHIND THE TEARS"
+    ],
+    "link": "https://link.dice.fm/N2e4da2fc079?dice_id=N2e4da2fc079",
+    "date": "2024-05-12T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -487,6 +502,14 @@
     "link": "https://link.dice.fm/If192ba6a9fc?dice_id=If192ba6a9fc",
     "date": "2024-07-23T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "And So I Watch You From Afar and Caspian"
+    ],
+    "link": "https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3",
+    "date": "2024-07-27T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

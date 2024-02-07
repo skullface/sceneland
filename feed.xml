@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Feb 2024 09:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 09:05:23 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Holding Absence at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Holding Absence at Mahall’s on Tuesday, February 6, 2024, 11:00 PM: https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738]]></description>
-            <link>https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738</link>
-            <guid isPermaLink="true">https://link.dice.fm/Se4ab3e1a738?dice_id=Se4ab3e1a738</guid>
-            <pubDate>Tue, 06 Feb 2024 23:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Mom Rock at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Mom Rock at Mahall’s on Thursday, February 8, 2024, 12:00 AM: https://link.dice.fm/fa0e3d125744?dice_id=fa0e3d125744]]></description>
@@ -224,17 +217,17 @@
             <pubDate>Wed, 27 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magazine Beach at Mahall’s Apartment]]></title>
-            <description><![CDATA[Get tickets to Magazine Beach at Mahall’s Apartment on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4]]></description>
-            <link>https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</link>
-            <guid isPermaLink="true">https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</guid>
-            <pubDate>Thu, 28 Mar 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Little Ditties at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Little Ditties at Mahall’s on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da]]></description>
             <link>https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da</link>
             <guid isPermaLink="true">https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da</guid>
+            <pubDate>Thu, 28 Mar 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magazine Beach at Mahall’s Apartment]]></title>
+            <description><![CDATA[Get tickets to Magazine Beach at Mahall’s Apartment on Thursday, March 28, 2024, 11:00 PM: https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4]]></description>
+            <link>https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</link>
+            <guid isPermaLink="true">https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4</guid>
             <pubDate>Thu, 28 Mar 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -243,6 +236,13 @@
             <link>https://link.dice.fm/vfdf6fe1a123?dice_id=vfdf6fe1a123</link>
             <guid isPermaLink="true">https://link.dice.fm/vfdf6fe1a123?dice_id=vfdf6fe1a123</guid>
             <pubDate>Fri, 29 Mar 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jukebox Breakdown aka Emo Night CLE at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Jukebox Breakdown aka Emo Night CLE at Mahall’s on Saturday, March 30, 2024, 01:00 AM: https://link.dice.fm/Aa600a389173?dice_id=Aa600a389173]]></description>
+            <link>https://link.dice.fm/Aa600a389173?dice_id=Aa600a389173</link>
+            <guid isPermaLink="true">https://link.dice.fm/Aa600a389173?dice_id=Aa600a389173</guid>
+            <pubDate>Sat, 30 Mar 2024 01:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Arden Jones at Mahall’s]]></title>
@@ -343,8 +343,8 @@
             <pubDate>Fri, 26 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yotclub at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Yotclub at Mahall’s on Friday, May 3, 2024, 11:30 PM: https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0]]></description>
+            <title><![CDATA[Yot Club at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Yot Club at Mahall’s on Friday, May 3, 2024, 11:30 PM: https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0]]></description>
             <link>https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0</link>
             <guid isPermaLink="true">https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0</guid>
             <pubDate>Fri, 03 May 2024 23:30:00 GMT</pubDate>
@@ -355,6 +355,13 @@
             <link>https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6</link>
             <guid isPermaLink="true">https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6</guid>
             <pubDate>Sat, 04 May 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dustin Kensrue at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Dustin Kensrue at Mahall’s on Monday, May 6, 2024, 10:30 PM: https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd]]></description>
+            <link>https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd</link>
+            <guid isPermaLink="true">https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd</guid>
+            <pubDate>Mon, 06 May 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Soen at The Roxy at Mahall’s]]></title>
@@ -383,6 +390,13 @@
             <link>https://link.dice.fm/Sac774794fa1?dice_id=Sac774794fa1</link>
             <guid isPermaLink="true">https://link.dice.fm/Sac774794fa1?dice_id=Sac774794fa1</guid>
             <pubDate>Sat, 11 May 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HAWTHORNE HEIGHTS: BEHIND THE TEARS at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to HAWTHORNE HEIGHTS: BEHIND THE TEARS at The Roxy at Mahall’s on Sunday, May 12, 2024, 11:00 PM: https://link.dice.fm/N2e4da2fc079?dice_id=N2e4da2fc079]]></description>
+            <link>https://link.dice.fm/N2e4da2fc079?dice_id=N2e4da2fc079</link>
+            <guid isPermaLink="true">https://link.dice.fm/N2e4da2fc079?dice_id=N2e4da2fc079</guid>
+            <pubDate>Sun, 12 May 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joy Again at Mahall’s]]></title>
@@ -432,6 +446,13 @@
             <link>https://link.dice.fm/If192ba6a9fc?dice_id=If192ba6a9fc</link>
             <guid isPermaLink="true">https://link.dice.fm/If192ba6a9fc?dice_id=If192ba6a9fc</guid>
             <pubDate>Tue, 23 Jul 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[And So I Watch You From Afar and Caspian at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to And So I Watch You From Afar and Caspian at The Roxy at Mahall’s on Saturday, July 27, 2024, 11:00 PM: https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3]]></description>
+            <link>https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3</link>
+            <guid isPermaLink="true">https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3</guid>
+            <pubDate>Sat, 27 Jul 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wheatus at Mahall’s]]></title>
@@ -504,11 +525,25 @@
             <pubDate>Wed, 12 Jun 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Goose at Jacobs Pavilion at Nautica]]></title>
+            <description><![CDATA[Get tickets to Goose at Jacobs Pavilion at Nautica on Sunday, June 16, 2024, 06:00 PM: /events/detail?event_id=529807]]></description>
+            <link>/events/detail?event_id=529807</link>
+            <guid isPermaLink="true">/events/detail?event_id=529807</guid>
+            <pubDate>Sun, 16 Jun 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brothers Osborne, Stephen Wilson Jr. at Jacobs Pavilion at Nautica]]></title>
             <description><![CDATA[Get tickets to Brothers Osborne, Stephen Wilson Jr. at Jacobs Pavilion at Nautica on Saturday, June 29, 2024, 07:00 PM: /events/detail?event_id=516497]]></description>
             <link>/events/detail?event_id=516497</link>
             <guid isPermaLink="true">/events/detail?event_id=516497</guid>
             <pubDate>Sat, 29 Jun 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lamb Of God & Mastodon, Kerry King; Unearth at Jacobs Pavilion at Nautica]]></title>
+            <description><![CDATA[Get tickets to Lamb Of God & Mastodon, Kerry King; Unearth at Jacobs Pavilion at Nautica on Friday, August 9, 2024, 05:00 PM: /events/detail?event_id=529663]]></description>
+            <link>/events/detail?event_id=529663</link>
+            <guid isPermaLink="true">/events/detail?event_id=529663</guid>
+            <pubDate>Fri, 09 Aug 2024 17:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bush, Jerry Cantrell and Candlebox at Jacobs Pavilion at Nautica]]></title>
@@ -635,6 +670,13 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707</guid>
             <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creed: Are You Ready? Tour, Special Guests 3 Doors Down & Mammoth WVH at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Creed: Are You Ready? Tour, Special Guests 3 Doors Down & Mammoth WVH at Rocket Mortgage FieldHouse on Friday, November 22, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122</guid>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Playboi Carti: Antagonist Tour, with Homixide Gang, Ken Carson and Destroy Lonely at Rocket Mortgage FieldHouse]]></title>
@@ -866,6 +908,13 @@
             <link>https://www.agoracleveland.com/events/detail/520827</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/520827</guid>
             <pubDate>Sun, 28 Jul 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[POWERWOLF, Unleash the Archers at Agora]]></title>
+            <description><![CDATA[Get tickets to POWERWOLF, Unleash the Archers at Agora on Wednesday, September 4, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/529652]]></description>
+            <link>https://www.agoracleveland.com/events/detail/529652</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/529652</guid>
+            <pubDate>Wed, 04 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bittersweet Revenge at Masonic Temple]]></title>
@@ -1204,6 +1253,13 @@
             <pubDate>Mon, 26 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Club 90s Presents Justin Bieber Night: 18+ Only: ID Required at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Club 90s Presents Justin Bieber Night: 18+ Only: ID Required at House of Blues on Friday, March 1, 2024, 08:30 PM: https://concerts.livenation.com/club-90s-presents-justin-bieber-night-cleveland-ohio-03-01-2024/event/05006041CF1F55C6]]></description>
+            <link>https://concerts.livenation.com/club-90s-presents-justin-bieber-night-cleveland-ohio-03-01-2024/event/05006041CF1F55C6</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/club-90s-presents-justin-bieber-night-cleveland-ohio-03-01-2024/event/05006041CF1F55C6</guid>
+            <pubDate>Fri, 01 Mar 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Silversun Pickups at House of Blues]]></title>
             <description><![CDATA[Get tickets to Silversun Pickups at House of Blues on Saturday, March 2, 2024, 07:00 PM: https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC]]></description>
             <link>https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC</link>
@@ -1477,13 +1533,6 @@
             <pubDate>Fri, 14 Jun 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Taking Back Sunday at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Taking Back Sunday at House of Blues on Tuesday, June 18, 2024, 07:00 PM: https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C]]></description>
-            <link>https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/taking-back-sunday-cleveland-ohio-06-18-2024/event/05005F78B7FB4A4C</guid>
-            <pubDate>Tue, 18 Jun 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Baba’s Kitchen w/ Chef Sierra – A Foundry Concert Club Food Pop Up at Foundry]]></title>
             <description><![CDATA[Get tickets to Baba’s Kitchen w/ Chef Sierra – A Foundry Concert Club Food Pop Up at Foundry on Thursday, February 8, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/babas-kitchen-w-chef-sierra-a-foundry-concert-club-food-pop-up/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/babas-kitchen-w-chef-sierra-a-foundry-concert-club-food-pop-up/</link>
@@ -1561,6 +1610,13 @@
             <pubDate>Sat, 24 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[FREE BAR SHOW at Foundry]]></title>
+            <description><![CDATA[Get tickets to FREE BAR SHOW at Foundry on Sunday, February 25, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/free-bar-show/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/free-bar-show/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/free-bar-show/</guid>
+            <pubDate>Sun, 25 Feb 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Electric Funeral at Foundry]]></title>
             <description><![CDATA[Get tickets to The Electric Funeral at Foundry on Thursday, February 29, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/the-electric-funeral/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/the-electric-funeral/</link>
@@ -1610,11 +1666,18 @@
             <pubDate>Fri, 15 Mar 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lutharo, Olathia, After The Apocalypse at Foundry]]></title>
-            <description><![CDATA[Get tickets to Lutharo, Olathia, After The Apocalypse at Foundry on Saturday, March 16, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/]]></description>
+            <title><![CDATA[Lutharo, Olathia, After The Apocalypse, Storms of Tomorrow at Foundry]]></title>
+            <description><![CDATA[Get tickets to Lutharo, Olathia, After The Apocalypse, Storms of Tomorrow at Foundry on Saturday, March 16, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/</guid>
             <pubDate>Sat, 16 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Native Sons, Lilieae, Vernotica at Foundry]]></title>
+            <description><![CDATA[Get tickets to Native Sons, Lilieae, Vernotica at Foundry on Thursday, March 21, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/native-sons-lilieae-vernotica/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/native-sons-lilieae-vernotica/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/native-sons-lilieae-vernotica/</guid>
+            <pubDate>Thu, 21 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[OHIO UNDERGROUND at Foundry]]></title>
@@ -1636,6 +1699,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/</guid>
             <pubDate>Tue, 02 Apr 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unhinged Easter at Foundry]]></title>
+            <description><![CDATA[Get tickets to Unhinged Easter at Foundry on Friday, April 5, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/unhinged-easter/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/unhinged-easter/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/unhinged-easter/</guid>
+            <pubDate>Fri, 05 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shayfer James at Foundry]]></title>
@@ -2016,13 +2086,6 @@
             <pubDate>Sun, 15 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Apapo Afrotrio at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Apapo Afrotrio at Happy Dog on Tuesday, February 6, 2024, 08:00 PM: https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697]]></description>
-            <link>https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/apapo-afrotrio-tickets-819314490697</guid>
-            <pubDate>Tue, 06 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Happy Dog Takes on Everything at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Happy Dog Takes on Everything at Happy Dog on Wednesday, February 7, 2024, 07:30 PM: https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-805285850657]]></description>
             <link>https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-805285850657</link>
@@ -2049,6 +2112,13 @@
             <link>https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757</guid>
             <pubDate>Wed, 14 Feb 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comedy Night in the Underdog! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Comedy Night in the Underdog! at Happy Dog on Thursday, February 15, 2024, 07:00 PM: https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117]]></description>
+            <link>https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117</guid>
+            <pubDate>Thu, 15 Feb 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Magnavox's, ORPHANS, Bleeder, Loose Vice at Happy Dog]]></title>
@@ -2233,17 +2303,17 @@
             <pubDate>Sun, 03 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman]]></description>
-            <link>https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</guid>
-            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BabyTron at Grog Shop]]></title>
             <description><![CDATA[Get tickets to BabyTron at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13853798/babytron]]></description>
             <link>https://grogshop.gs/event-details/13853798/babytron</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13853798/babytron</guid>
+            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Left Lane Cruiser, Adam Faucett, Nate Bergman at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman]]></description>
+            <link>https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman</guid>
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2268,6 +2338,13 @@
             <pubDate>Sun, 10 Mar 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, March 11, 2024, 08:00 PM: https://grogshop.gs/event-details/13504463/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
+            <link>https://grogshop.gs/event-details/13504463/make-em-laugh-mondays-hosted-by-kevin-ford</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13504463/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
+            <pubDate>Mon, 11 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Decibel Magazine Tour 2024, Hulder, Devil Master, Worm, Necrofier at Grog Shop]]></title>
             <description><![CDATA[Get tickets to The Decibel Magazine Tour 2024, Hulder, Devil Master, Worm, Necrofier at Grog Shop on Wednesday, March 13, 2024, 07:30 PM: https://grogshop.gs/event-details/13308213/the-decibel-magazine-tour-2024]]></description>
             <link>https://grogshop.gs/event-details/13308213/the-decibel-magazine-tour-2024</link>
@@ -2287,6 +2364,34 @@
             <link>https://grogshop.gs/event-details/13764018/otoboke-beaver</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13764018/otoboke-beaver</guid>
             <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13504543/swank-all-smiles]]></description>
+            <link>https://grogshop.gs/event-details/13504543/swank-all-smiles</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13504543/swank-all-smiles</guid>
+            <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mihali at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Mihali at Grog Shop on Saturday, March 16, 2024, 08:30 PM: https://grogshop.gs/event-details/13495513/mihali]]></description>
+            <link>https://grogshop.gs/event-details/13495513/mihali</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13495513/mihali</guid>
+            <pubDate>Sat, 16 Mar 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, March 20, 2024, 08:00 PM: https://grogshop.gs/event-details/13504233/midnight-rental-presents-secret-movie-night]]></description>
+            <link>https://grogshop.gs/event-details/13504233/midnight-rental-presents-secret-movie-night</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13504233/midnight-rental-presents-secret-movie-night</guid>
+            <pubDate>Wed, 20 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, March 25, 2024, 08:00 PM: https://grogshop.gs/event-details/13504483/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
+            <link>https://grogshop.gs/event-details/13504483/make-em-laugh-mondays-hosted-by-kevin-ford</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13504483/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
+            <pubDate>Mon, 25 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Koffin Kats, The Queers, Lords Of The Highway at Grog Shop]]></title>
@@ -2786,6 +2891,13 @@
             <pubDate>Sat, 30 Mar 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Noveau Decadence: A 20th Anniversary Burlesque Revue at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Noveau Decadence: A 20th Anniversary Burlesque Revue at Beachland Ballroom on Saturday, March 30, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13494833/noveau-decadence-a-20th-anniversary-burlesque-revue]]></description>
+            <link>https://www.beachlandballroom.com/e/13494833/noveau-decadence-a-20th-anniversary-burlesque-revue</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13494833/noveau-decadence-a-20th-anniversary-burlesque-revue</guid>
+            <pubDate>Sat, 30 Mar 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Too Many Zooz, Michael Wilbur at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Too Many Zooz, Michael Wilbur at Beachland Ballroom on Sunday, March 31, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13864378/too-many-zooz-michael-wilbur]]></description>
             <link>https://www.beachlandballroom.com/e/13864378/too-many-zooz-michael-wilbur</link>
@@ -3101,6 +3213,13 @@
             <pubDate>Fri, 24 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nektar at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Nektar at Beachland Ballroom on Sunday, June 9, 2024, 07:30 PM: https://www.beachlandballroom.com/e/13503813/nektar]]></description>
+            <link>https://www.beachlandballroom.com/e/13503813/nektar</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13503813/nektar</guid>
+            <pubDate>Sun, 09 Jun 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Kevin Gordon Trio at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Kevin Gordon Trio at Beachland Tavern on Saturday, June 22, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio]]></description>
             <link>https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio</link>
@@ -3113,6 +3232,13 @@
             <link>https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank</guid>
             <pubDate>Fri, 12 Jul 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 2024 US Air Guitar National Finals at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to The 2024 US Air Guitar National Finals at Beachland Ballroom on Saturday, July 20, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13499463/the-2024-us-air-guitar-national-finals]]></description>
+            <link>https://www.beachlandballroom.com/e/13499463/the-2024-us-air-guitar-national-finals</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13499463/the-2024-us-air-guitar-national-finals</guid>
+            <pubDate>Sat, 20 Jul 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[David Cross Lark's Tongue Band at Beachland Ballroom]]></title>

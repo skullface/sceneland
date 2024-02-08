@@ -225,6 +225,14 @@
   },
   {
     "artist": [
+      "We Three"
+    ],
+    "link": "https://concerts.livenation.com/we-three-cleveland-ohio-04-10-2024/event/05006041C7175303",
+    "date": "2024-04-10T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "VNV Nation"
     ],
     "link": "https://concerts.livenation.com/vnv-nation-cleveland-ohio-04-12-2024/event/0500602AD94536C9",
@@ -253,6 +261,14 @@
     ],
     "link": "https://concerts.livenation.com/queensryche-cleveland-ohio-04-17-2024/event/05005F4409AB3E3A",
     "date": "2024-04-17T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Thy Art Is Murder Godlike Tour 2024"
+    ],
+    "link": "https://concerts.livenation.com/thy-art-is-murder-godlike-tour-cleveland-ohio-04-18-2024/event/05006041B9104A83",
+    "date": "2024-04-18T18:00:00",
     "venue": "House of Blues"
   },
   {
@@ -365,22 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9",
     "date": "2024-05-26T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Siwa Presents XOMG POP! LIVE"
-    ],
-    "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
-    "date": "2024-06-12T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Hot Water Music 30th Anniversary Tour feat. Quicksand"
-    ],
-    "link": "https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53",
-    "date": "2024-06-14T19:00:00",
     "venue": "House of Blues"
   }
 ]

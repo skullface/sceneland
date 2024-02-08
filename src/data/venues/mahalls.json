@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mom Rock"
-    ],
-    "link": "https://link.dice.fm/fa0e3d125744?dice_id=fa0e3d125744",
-    "date": "2024-02-07T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Jukebox Breakdown is for Lovers"
     ],
     "link": "https://link.dice.fm/Q2d638ea7054?dice_id=Q2d638ea7054",
@@ -89,14 +81,6 @@
   },
   {
     "artist": [
-      "Blonde Redhead"
-    ],
-    "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
-    "date": "2024-03-01T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Alexis Marrero"
     ],
     "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
@@ -105,10 +89,26 @@
   },
   {
     "artist": [
+      "Blonde Redhead"
+    ],
+    "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
+    "date": "2024-03-01T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Formerly Candice"
     ],
     "link": "https://link.dice.fm/Gcafdf0f70fc?dice_id=Gcafdf0f70fc",
     "date": "2024-03-02T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Annadale"
+    ],
+    "link": "https://link.dice.fm/M8f638a496d7?dice_id=M8f638a496d7",
+    "date": "2024-03-03T17:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -361,6 +361,14 @@
   },
   {
     "artist": [
+      "VS Self"
+    ],
+    "link": "https://link.dice.fm/e110355c0f49?dice_id=e110355c0f49",
+    "date": "2024-04-18T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "JOHN R. MILLER & THE DESLONDES"
     ],
     "link": "https://link.dice.fm/Xcf1fc2e03de?dice_id=Xcf1fc2e03de",
@@ -404,6 +412,7 @@
       "Dustin Kensrue"
     ],
     "link": "https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd",
+    "sold_out": true,
     "date": "2024-05-06T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -461,6 +470,14 @@
     ],
     "link": "https://link.dice.fm/ndd45cda1606?dice_id=ndd45cda1606",
     "date": "2024-05-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Heavy Heavy"
+    ],
+    "link": "https://link.dice.fm/Bf8225397761?dice_id=Bf8225397761",
+    "date": "2024-05-17T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

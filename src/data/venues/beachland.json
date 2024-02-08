@@ -42,11 +42,20 @@
   },
   {
     "artist": [
-      "Beachland Brunch"
+      "Beachland Brunch",
+      "VInyl DJ Chris Abood"
     ],
-    "link": "https://www.beachlandballroom.com/e/13476553/beachland-brunch",
+    "link": "https://www.beachlandballroom.com/e/13476553/beachland-brunch-vinyl-dj-chris-abood",
     "date": "2024-02-11T11:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Memorial for Lachlan Dougan MacKinnon"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13507273/memorial-for-lachlan-dougan-mackinnon",
+    "date": "2024-02-11T15:30:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -158,9 +167,10 @@
   },
   {
     "artist": [
-      "Ike Reilly"
+      "Ike Reilly",
+      "Johnny Stanec"
     ],
-    "link": "https://www.beachlandballroom.com/e/13388693/ike-reilly",
+    "link": "https://www.beachlandballroom.com/e/13388693/ike-reilly-johnny-stanec",
     "date": "2024-02-24T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -482,9 +492,9 @@
   },
   {
     "artist": [
-      "Noveau Decadence: A 20th Anniversary Burlesque Revue"
+      "Nouveau Decadence: A 20th Anniversary Burlesque Revue"
     ],
-    "link": "https://www.beachlandballroom.com/e/13494833/noveau-decadence-a-20th-anniversary-burlesque-revue",
+    "link": "https://www.beachlandballroom.com/e/13494833/nouveau-decadence-a-20th-anniversary-burlesque-revue",
     "date": "2024-03-30T20:30:00",
     "venue": "Beachland Ballroom"
   },
@@ -644,6 +654,14 @@
   },
   {
     "artist": [
+      "The Local Honeys"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13498823/the-local-honeys",
+    "date": "2024-04-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Caroline Rose",
       "La Force"
     ],
@@ -653,9 +671,10 @@
   },
   {
     "artist": [
-      "Qwanqwa"
+      "Qwanqwa",
+      "Church of the Starry Wisdom"
     ],
-    "link": "https://www.beachlandballroom.com/e/13324263/qwanqwa",
+    "link": "https://www.beachlandballroom.com/e/13324263/qwanqwa-church-of-the-starry-wisdom",
     "date": "2024-04-16T20:00:00",
     "venue": "Beachland Tavern"
   },

@@ -145,16 +145,6 @@ export const allShows = [
   },
   {
     artist: [
-      "'Buffalo comes to Cleveland' ft. Johnny Hart and the Mess",
-      'Sam Brenner',
-      'AJ & The Woods',
-    ],
-    link: 'https://grogshop.gs/event-details/13400213/-buffalo-comes-to-cleveland-ft-johnny-hart-and-the-mess-sam-brenner-aj-the-woods',
-    date: '2024-02-08T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
       'Siena Liggins: The FLOOZY Tour',
       'Daisha McBride',
       'S.Y.S.',
@@ -240,6 +230,18 @@ export const allShows = [
   },
   {
     artist: [
+      "JV's Birthday with Heart & Lung",
+      'House of Wills',
+      'and The Heavy Forgiveness',
+      'The House of Wills',
+      'The Heavy Forgiveness',
+    ],
+    link: 'https://grogshop.gs/event-details/13510573/jv-s-birthday-with-heart-lung-house-of-wills-and-the-heavy-forgiveness',
+    date: '2024-02-22T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
       'Land of Panda\'s "Here For You" Single Release Party',
       'FUBAR',
       'C-Level',
@@ -310,8 +312,13 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Left Lane Cruiser', 'Adam Faucett', 'Nate Bergman'],
-    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman',
+    artist: [
+      'Left Lane Cruiser',
+      'Adam Faucett',
+      'Nate Bergman',
+      'The Morning Bird',
+    ],
+    link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman-the-morning-bird',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
@@ -333,6 +340,7 @@ export const allShows = [
   {
     artist: ['Songs and Stories with Lisa Loeb'],
     link: 'https://grogshop.gs/event-details/13495713/songs-and-stories-with-lisa-loeb',
+    sold_out: true,
     date: '2024-03-08T20:30:00',
     venue: 'Grog Shop',
   },
@@ -406,6 +414,27 @@ export const allShows = [
     artist: ['Midnight Rental presents Secret Movie Night'],
     link: 'https://grogshop.gs/event-details/13504233/midnight-rental-presents-secret-movie-night',
     date: '2024-03-20T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: [
+      'Taste My Movement',
+      'King syxx',
+      'Jay Cloud',
+      'Nell da Juggernaut',
+      'Juudae',
+      'Fascin8',
+      'P frm da tribe',
+      'illustrious',
+    ],
+    link: 'https://grogshop.gs/event-details/13511363/taste-my-movement',
+    date: '2024-03-21T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Trek Manifest And AYE-1 Band', 'Crib Collective', 'aka & co'],
+    link: 'https://grogshop.gs/event-details/13510713/trek-manifest-and-aye-1-band-crib-collective-aka-co',
+    date: '2024-03-23T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -561,16 +590,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Cole Chaney'],
-    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
-    date: '2024-02-17T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Indigo De Souza'],
     link: 'https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0',
     date: '2024-02-17T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Cole Chaney'],
+    link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
+    date: '2024-02-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Jukebox Breakdown aka Emo Night CLE 9th birthday!'],
@@ -597,16 +626,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Alexis Marrero'],
-    link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
-    date: '2024-03-01T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Blonde Redhead'],
     link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
     date: '2024-03-01T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Alexis Marrero'],
+    link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
+    date: '2024-03-01T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Formerly Candice'],
@@ -717,16 +746,22 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Little Ditties'],
-    link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
-    date: '2024-03-28T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Magazine Beach'],
     link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
     date: '2024-03-28T19:00:00-04:00',
     venue: 'Mahall\u2019s Apartment',
+  },
+  {
+    artist: ['Bilmuri'],
+    link: 'https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['The Little Ditties'],
+    link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Nadiem - Exception Tour '],
@@ -807,6 +842,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Dear Nora'],
+    link: 'https://link.dice.fm/C88c85ab80b3?dice_id=C88c85ab80b3',
+    date: '2024-04-16T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['VS Self'],
     link: 'https://link.dice.fm/e110355c0f49?dice_id=e110355c0f49',
     date: '2024-04-18T19:00:00-04:00',
@@ -845,7 +886,6 @@ export const allShows = [
   {
     artist: ['Dustin Kensrue'],
     link: 'https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd',
-    sold_out: true,
     date: '2024-05-06T18:30:00-04:00',
     venue: 'Mahall\u2019s',
   },
@@ -938,12 +978,6 @@ export const allShows = [
     link: 'https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca',
     date: '2024-08-15T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Never Ending Fall: The American Disco Tour'],
-    link: 'https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2',
-    date: '2024-02-08T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Badfish: A Tribute To Sublime'],
@@ -1227,6 +1261,12 @@ export const allShows = [
     artist: ['X Ambassadors: TOWNIE: NORTH AMERICAN TOUR'],
     link: 'https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9',
     date: '2024-05-26T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Siwa Presents XOMG POP! LIVE'],
+    link: 'https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48',
+    date: '2024-06-12T17:30:00',
     venue: 'House of Blues',
   },
   {
@@ -1642,6 +1682,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Dishwasher Possum', 'Seconds Away', 'Jack Lutz'],
+    link: 'https://www.beachlandballroom.com/e/13510273/dishwasher-possum-seconds-away-jack-lutz',
+    date: '2024-03-06T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Bobby Rush', 'Austin "Walkin" Cane'],
     link: 'https://www.beachlandballroom.com/e/13420333/bobby-rush-austin-walkin-cane',
     date: '2024-03-07T20:00:00',
@@ -1709,6 +1755,12 @@ export const allShows = [
     artist: ['The Dollyrots', 'Detention'],
     link: 'https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention',
     date: '2024-03-16T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Jake Xerxes Fussell'],
+    link: 'https://www.beachlandballroom.com/e/13510753/jake-xerxes-fussell',
+    date: '2024-03-18T20:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -2107,6 +2159,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Owen'],
+    link: 'https://www.beachlandballroom.com/e/13499163/owen',
+    date: '2024-08-22T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ["David Cross Lark's Tongue Band"],
     link: 'https://www.beachlandballroom.com/e/13447953/david-cross-lark-s-tongue-band',
     date: '2024-10-11T19:30:00',
@@ -2467,12 +2525,6 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ['Madonna: The Celebration Tour'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/madonna-the-celebration-tour-240208',
-    date: '2024-02-08',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
     artist: [
       '15th Annual Cleveland Bridal Show',
       'Presented By TL Worldwide Transportation',
@@ -2543,14 +2595,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2026-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: [
-      'Baba\u2019s Kitchen w/ Chef Sierra \u2013 A Foundry Concert Club Food Pop Up',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/babas-kitchen-w-chef-sierra-a-foundry-concert-club-food-pop-up/',
-    date: '2024-02-08T17:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Anime / K-Pop Night'],
@@ -2635,12 +2679,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-9/',
-    date: '2024-03-04T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Of Virtue'],
     link: 'https://www.foundryconcertclub.com/tm-event/of-virtue/',
     date: '2024-03-05T18:00:00',
@@ -2650,6 +2688,12 @@ export const allShows = [
     artist: ['Alyxx, Ghostatic, Ash Hollow, Nineteenth Paradise, High Early'],
     link: 'https://www.foundryconcertclub.com/tm-event/alyxx-ghostatic-ash-hollow-nineteenth-paradise-high-early/',
     date: '2024-03-08T18:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-10/',
+    date: '2024-03-11T17:00:00',
     venue: 'Foundry',
   },
   {

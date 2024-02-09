@@ -33,19 +33,19 @@
   },
   {
     "artist": [
-      "Cole Chaney"
-    ],
-    "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
-    "date": "2024-02-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Indigo De Souza"
     ],
     "link": "https://link.dice.fm/xb050bcf0cd0?dice_id=xb050bcf0cd0",
     "date": "2024-02-17T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Cole Chaney"
+    ],
+    "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
+    "date": "2024-02-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -81,19 +81,19 @@
   },
   {
     "artist": [
-      "Alexis Marrero"
-    ],
-    "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
-    "date": "2024-03-01T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Blonde Redhead"
     ],
     "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
     "date": "2024-03-01T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alexis Marrero"
+    ],
+    "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
+    "date": "2024-03-01T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -241,19 +241,27 @@
   },
   {
     "artist": [
-      "The Little Ditties"
-    ],
-    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Magazine Beach"
     ],
     "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "Mahall\u2019s Apartment"
+  },
+  {
+    "artist": [
+      "Bilmuri"
+    ],
+    "link": "https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Little Ditties"
+    ],
+    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -361,6 +369,14 @@
   },
   {
     "artist": [
+      "Dear Nora"
+    ],
+    "link": "https://link.dice.fm/C88c85ab80b3?dice_id=C88c85ab80b3",
+    "date": "2024-04-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "VS Self"
     ],
     "link": "https://link.dice.fm/e110355c0f49?dice_id=e110355c0f49",
@@ -412,7 +428,6 @@
       "Dustin Kensrue"
     ],
     "link": "https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd",
-    "sold_out": true,
     "date": "2024-05-06T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },

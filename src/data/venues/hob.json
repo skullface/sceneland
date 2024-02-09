@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Never Ending Fall: The American Disco Tour"
-    ],
-    "link": "https://concerts.livenation.com/never-ending-fall-the-american-disco-cleveland-ohio-02-08-2024/event/05005F7E155E72A2",
-    "date": "2024-02-08T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Badfish: A Tribute To Sublime"
     ],
     "link": "https://concerts.livenation.com/badfish-a-tribute-to-sublime-cleveland-ohio-02-09-2024/event/05005F2FCF5D4CF7",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9",
     "date": "2024-05-26T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Siwa Presents XOMG POP! LIVE"
+    ],
+    "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
+    "date": "2024-06-12T17:30:00",
     "venue": "House of Blues"
   }
 ]

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "'Buffalo comes to Cleveland' ft. Johnny Hart and the Mess",
-      "Sam Brenner",
-      "AJ & The Woods"
-    ],
-    "link": "https://grogshop.gs/event-details/13400213/-buffalo-comes-to-cleveland-ft-johnny-hart-and-the-mess-sam-brenner-aj-the-woods",
-    "date": "2024-02-08T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Siena Liggins: The FLOOZY Tour",
       "Daisha McBride",
       "S.Y.S.",
@@ -112,6 +102,18 @@
   },
   {
     "artist": [
+      "JV's Birthday with Heart & Lung",
+      "House of Wills",
+      "and The Heavy Forgiveness",
+      "The House of Wills",
+      "The Heavy Forgiveness"
+    ],
+    "link": "https://grogshop.gs/event-details/13510573/jv-s-birthday-with-heart-lung-house-of-wills-and-the-heavy-forgiveness",
+    "date": "2024-02-22T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Land of Panda's \"Here For You\" Single Release Party",
       "FUBAR",
       "C-Level"
@@ -206,9 +208,10 @@
     "artist": [
       "Left Lane Cruiser",
       "Adam Faucett",
-      "Nate Bergman"
+      "Nate Bergman",
+      "The Morning Bird"
     ],
-    "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman",
+    "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman-the-morning-bird",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },
@@ -232,6 +235,7 @@
       "Songs and Stories with Lisa Loeb"
     ],
     "link": "https://grogshop.gs/event-details/13495713/songs-and-stories-with-lisa-loeb",
+    "sold_out": true,
     "date": "2024-03-08T20:30:00",
     "venue": "Grog Shop"
   },
@@ -322,6 +326,31 @@
     ],
     "link": "https://grogshop.gs/event-details/13504233/midnight-rental-presents-secret-movie-night",
     "date": "2024-03-20T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Taste My Movement",
+      "King syxx",
+      "Jay Cloud",
+      "Nell da Juggernaut",
+      "Juudae",
+      "Fascin8",
+      "P frm da tribe",
+      "illustrious"
+    ],
+    "link": "https://grogshop.gs/event-details/13511363/taste-my-movement",
+    "date": "2024-03-21T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Trek Manifest And AYE-1 Band",
+      "Crib Collective",
+      "aka & co"
+    ],
+    "link": "https://grogshop.gs/event-details/13510713/trek-manifest-and-aye-1-band-crib-collective-aka-co",
+    "date": "2024-03-23T20:00:00",
     "venue": "Grog Shop"
   },
   {

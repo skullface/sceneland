@@ -285,6 +285,16 @@
   },
   {
     "artist": [
+      "Dishwasher Possum",
+      "Seconds Away",
+      "Jack Lutz"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13510273/dishwasher-possum-seconds-away-jack-lutz",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Bobby Rush",
       "Austin \"Walkin\" Cane"
     ],
@@ -380,6 +390,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention",
     "date": "2024-03-16T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Jake Xerxes Fussell"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13510753/jake-xerxes-fussell",
+    "date": "2024-03-18T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -936,6 +954,14 @@
     "link": "https://www.beachlandballroom.com/e/13499463/the-2024-us-air-guitar-national-finals",
     "date": "2024-07-20T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Owen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13499163/owen",
+    "date": "2024-08-22T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

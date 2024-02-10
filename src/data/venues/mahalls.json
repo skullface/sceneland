@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Jukebox Breakdown is for Lovers"
-    ],
-    "link": "https://link.dice.fm/Q2d638ea7054?dice_id=Q2d638ea7054",
-    "date": "2024-02-09T21:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Lover: an all Taylor Swift dance party"
-    ],
-    "link": "https://link.dice.fm/Scdaf515354f?dice_id=Scdaf515354f",
-    "date": "2024-02-10T20:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "No Vacation"
     ],
     "link": "https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b",
@@ -45,6 +29,14 @@
     ],
     "link": "https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d",
     "date": "2024-02-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Ov Sulfur and Mental Cruelty"
+    ],
+    "link": "https://link.dice.fm/Uda0bd604b9a?dice_id=Uda0bd604b9a",
+    "date": "2024-02-22T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -225,6 +217,14 @@
   },
   {
     "artist": [
+      "Tall Grass"
+    ],
+    "link": "https://link.dice.fm/B5066da4a941?dice_id=B5066da4a941",
+    "date": "2024-03-21T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Queencard: a K-Pop themed dance party"
     ],
     "link": "https://link.dice.fm/W0794adbf556?dice_id=W0794adbf556",
@@ -241,14 +241,6 @@
   },
   {
     "artist": [
-      "Magazine Beach"
-    ],
-    "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
-  },
-  {
-    "artist": [
       "Bilmuri"
     ],
     "link": "https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca",
@@ -262,6 +254,14 @@
     "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Magazine Beach"
+    ],
+    "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [
@@ -357,6 +357,14 @@
     ],
     "link": "https://link.dice.fm/y97afef68914?dice_id=y97afef68914",
     "date": "2024-04-12T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Your Neighbors"
+    ],
+    "link": "https://link.dice.fm/I183d41afb8f?dice_id=I183d41afb8f",
+    "date": "2024-04-13T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

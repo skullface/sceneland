@@ -145,17 +145,6 @@ export const allShows = [
   },
   {
     artist: [
-      'Siena Liggins: The FLOOZY Tour',
-      'Daisha McBride',
-      'S.Y.S.',
-      'Sierra Delaine',
-    ],
-    link: 'https://grogshop.gs/event-details/13748958/siena-liggins-the-floozy-tour',
-    date: '2024-02-09T21:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
       'Harriet The Spy',
       'This Moment In Black History',
       'Napsack',
@@ -566,18 +555,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Jukebox Breakdown is for Lovers'],
-    link: 'https://link.dice.fm/Q2d638ea7054?dice_id=Q2d638ea7054',
-    date: '2024-02-09T21:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Lover: an all Taylor Swift dance party'],
-    link: 'https://link.dice.fm/Scdaf515354f?dice_id=Scdaf515354f',
-    date: '2024-02-10T20:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['No Vacation'],
     link: 'https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b',
     date: '2024-02-14T19:00:00-05:00',
@@ -599,6 +576,12 @@ export const allShows = [
     artist: ['Cole Chaney'],
     link: 'https://link.dice.fm/Uce0994a921d?dice_id=Uce0994a921d',
     date: '2024-02-17T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Ov Sulfur and Mental Cruelty'],
+    link: 'https://link.dice.fm/Uda0bd604b9a?dice_id=Uda0bd604b9a',
+    date: '2024-02-22T18:30:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -734,6 +717,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Tall Grass'],
+    link: 'https://link.dice.fm/B5066da4a941?dice_id=B5066da4a941',
+    date: '2024-03-21T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Queencard: a K-Pop themed dance party'],
     link: 'https://link.dice.fm/W0794adbf556?dice_id=W0794adbf556',
     date: '2024-03-22T20:00:00-04:00',
@@ -746,12 +735,6 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Magazine Beach'],
-    link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
-    date: '2024-03-28T19:00:00-04:00',
-    venue: 'Mahall\u2019s Apartment',
-  },
-  {
     artist: ['Bilmuri'],
     link: 'https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca',
     date: '2024-03-28T19:00:00-04:00',
@@ -762,6 +745,12 @@ export const allShows = [
     link: 'https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da',
     date: '2024-03-28T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Magazine Beach'],
+    link: 'https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4',
+    date: '2024-03-28T19:00:00-04:00',
+    venue: 'Mahall\u2019s Apartment',
   },
   {
     artist: ['Nadiem - Exception Tour '],
@@ -833,6 +822,12 @@ export const allShows = [
     artist: ['Real Estate - Infinite Jangle Tour'],
     link: 'https://link.dice.fm/y97afef68914?dice_id=y97afef68914',
     date: '2024-04-12T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Your Neighbors'],
+    link: 'https://link.dice.fm/I183d41afb8f?dice_id=I183d41afb8f',
+    date: '2024-04-13T18:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -978,12 +973,6 @@ export const allShows = [
     link: 'https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca',
     date: '2024-08-15T19:00:00-04:00',
     venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Badfish: A Tribute To Sublime'],
-    link: 'https://concerts.livenation.com/badfish-a-tribute-to-sublime-cleveland-ohio-02-09-2024/event/05005F2FCF5D4CF7',
-    date: '2024-02-09T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ["The Mega 80's"],
@@ -1270,6 +1259,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Hot Water Music 30th Anniversary Tour feat. Quicksand'],
+    link: 'https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53',
+    date: '2024-06-14T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ["Noah Kahan: We'll All Be Here Forever Tour"],
     link: 'https://concerts.livenation.com/noah-kahan-well-all-be-here-cuyahoga-falls-ohio-05-28-2024/event/05005F33F78770D0',
     date: '2024-05-28T20:00:00',
@@ -1414,12 +1409,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Pretoria, Teamonade, The Stereotypes'],
-    link: 'https://www.eventbrite.com/e/pretoria-teamonade-the-stereotypes-tickets-802034455647',
-    date: '2024-02-09T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['The Boys from County Hell: Winter Warmup for St. Pat\u2019s!'],
     link: 'https://www.eventbrite.com/e/the-boys-from-county-hell-winter-warmup-for-st-pats-tickets-810660887537',
     date: '2024-02-10T20:00:00',
@@ -1470,10 +1459,10 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['The Kind Thieves', 'The Rustbelt Ragtops'],
-    link: 'https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops',
-    date: '2024-02-08T20:00:00',
-    venue: 'Beachland Tavern',
+    artist: ['DJ Kishka: One Month til Dyngus Party!'],
+    link: 'https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607',
+    date: '2024-03-01T18:00:00',
+    venue: 'Happy Dog',
   },
   {
     artist: ['Pre/Post Party with goor\u00fc'],
@@ -1924,8 +1913,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['The Thing'],
-    link: 'https://www.beachlandballroom.com/e/13283793/the-thing',
+    artist: ['The Thing', 'The Yellow Elevators'],
+    link: 'https://www.beachlandballroom.com/e/13283793/the-thing-the-yellow-elevators',
     date: '2024-04-10T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2423,12 +2412,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['200 STAB WOUNDS MUSIC VIDEO SHOOT, SHOW'],
-    link: 'https://www.eventbrite.com/e/200-stab-wounds-music-video-shoot-show-tickets-808356023627',
-    date: '2024-02-09T20:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: ['ESCUELA GRIND'],
     link: 'https://www.eventbrite.com/e/escuela-grind-tickets-763919623157',
     date: '2024-02-12T19:00:00',
@@ -2595,12 +2578,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2026-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Anime / K-Pop Night'],
-    link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/',
-    date: '2024-02-09T21:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['KINK! A Nightclub Event'],
@@ -2792,7 +2769,7 @@ export const allShows = [
   },
   {
     artist: ['Wild Party, Cousin Simple'],
-    link: 'https://www.ticketweb.com/event/wild-party-cousin-simple-musica-tickets/13775228?pl=celebrityetc&REFID=clientsitewpecheck',
+    link: 'https://www.celebrityetc.com/event/13775228/wild-party-w-cousin-simple',
     date: '2024-02-09T21:00:00',
     venue: 'Musica Akron',
   },
@@ -2819,12 +2796,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/free-throw-charmer-carpool-musica-tickets/13444053?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-04-07T19:30:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Kameron Marlowe'],
-    link: 'https://www.agoracleveland.com/events/detail/511283',
-    date: '2024-02-09T18:30:00',
-    venue: 'Agora',
   },
   {
     artist: ['Neck Deep, DRAIN, Bearings, Higher Power'],

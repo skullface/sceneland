@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Pretoria, Teamonade, The Stereotypes"
-    ],
-    "link": "https://www.eventbrite.com/e/pretoria-teamonade-the-stereotypes-tickets-802034455647",
-    "date": "2024-02-09T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "The Boys from County Hell: Winter Warmup for St. Pat\u2019s!"
     ],
     "link": "https://www.eventbrite.com/e/the-boys-from-county-hell-winter-warmup-for-st-pats-tickets-810660887537",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.eventbrite.com/e/ripperfest-ydi-primitive-impulse-mower-lady-parts-leaking-head-tickets-770657004847",
     "date": "2024-02-25T17:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "DJ Kishka: One Month til Dyngus Party!"
+    ],
+    "link": "https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607",
+    "date": "2024-03-01T18:00:00",
     "venue": "Happy Dog"
   }
 ]

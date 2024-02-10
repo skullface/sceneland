@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Kind Thieves",
-      "The Rustbelt Ragtops"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops",
-    "date": "2024-02-08T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Pre/Post Party with goor\u00fc"
     ],
     "link": "https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-",
@@ -618,9 +609,10 @@
   },
   {
     "artist": [
-      "The Thing"
+      "The Thing",
+      "The Yellow Elevators"
     ],
-    "link": "https://www.beachlandballroom.com/e/13283793/the-thing",
+    "link": "https://www.beachlandballroom.com/e/13283793/the-thing-the-yellow-elevators",
     "date": "2024-04-10T20:00:00",
     "venue": "Beachland Tavern"
   },

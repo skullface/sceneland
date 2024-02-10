@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Badfish: A Tribute To Sublime"
-    ],
-    "link": "https://concerts.livenation.com/badfish-a-tribute-to-sublime-cleveland-ohio-02-09-2024/event/05005F2FCF5D4CF7",
-    "date": "2024-02-09T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Mega 80's"
     ],
     "link": "https://concerts.livenation.com/the-mega-80s-cleveland-ohio-02-16-2024/event/05005F85B6474BCC",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
     "date": "2024-06-12T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Hot Water Music 30th Anniversary Tour feat. Quicksand"
+    ],
+    "link": "https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53",
+    "date": "2024-06-14T19:00:00",
     "venue": "House of Blues"
   }
 ]

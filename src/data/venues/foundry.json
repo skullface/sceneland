@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KINK! A Nightclub Event"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/",
-    "date": "2024-02-10T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "MOVIE NIGHT MONDAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/",
@@ -197,6 +189,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/",
     "date": "2024-04-07T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Scream At The Sky, The Mendenhall Experiment"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/scream-at-the-sky-the-mendenhall-experiment/",
+    "date": "2024-04-11T19:00:00",
     "venue": "Foundry"
   },
   {

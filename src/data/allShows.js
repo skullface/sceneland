@@ -1,14 +1,14 @@
 export const allShows = [
   {
-    artist: ["Flanagan's Wake"],
-    link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
-    date: '2024-01-05',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['John Crist'],
     link: 'https://www.playhousesquare.org/events/detail/john-crist-1',
     date: '2024-02-18',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ["Flanagan's Wake"],
+    link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-2',
+    date: '2024-01-05',
     venue: 'Playhouse Square',
   },
   {
@@ -57,12 +57,6 @@ export const allShows = [
     artist: ['Joshua Seth - Mentalist'],
     link: 'https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2',
     date: '2024-06-01',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Tamia & Joe'],
-    link: 'https://www.playhousesquare.org/events/detail/tamia-joe',
-    date: '2024-02-10',
     venue: 'Playhouse Square',
   },
   {
@@ -142,17 +136,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/boney-james-1',
     date: '2024-08-22',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: [
-      'Harriet The Spy',
-      'This Moment In Black History',
-      'Napsack',
-      'Gerloscar Supreme Team DJs',
-    ],
-    link: 'https://grogshop.gs/event-details/13417413/harriet-the-spy-this-moment-in-black-history-napsack-gerloscar-supreme-team-djs',
-    date: '2024-02-10T21:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1409,12 +1392,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['The Boys from County Hell: Winter Warmup for St. Pat\u2019s!'],
-    link: 'https://www.eventbrite.com/e/the-boys-from-county-hell-winter-warmup-for-st-pats-tickets-810660887537',
-    date: '2024-02-10T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Stupid Adventure Trivia presents: The Game of Love!'],
     link: 'https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757',
     date: '2024-02-14T20:30:00',
@@ -1465,16 +1442,10 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Pre/Post Party with goor\u00fc'],
-    link: 'https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-',
-    date: '2024-02-09T18:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Keller Williams'],
-    link: 'https://www.beachlandballroom.com/e/13468278/keller-williams',
-    date: '2024-02-09T20:00:00',
-    venue: 'Beachland Ballroom',
+    artist: ['Live Hip-Hop Showcase in the Underdog!'],
+    link: 'https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197',
+    date: '2024-03-01T18:30:00',
+    venue: 'Happy Dog',
   },
   {
     artist: ["Dupree's Dead Band"],
@@ -2167,12 +2138,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Bittersweet Revenge'],
-    link: 'https://www.ticketmaster.com/bittersweet-revenge-cleveland-ohio-02-10-2024/event/05005F9F9E2C1B0C',
-    date: '2024-02-10T20:00:00',
-    venue: 'Masonic Temple',
-  },
-  {
     artist: ['The Dead South'],
     link: 'https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F',
     date: '2024-02-12T19:30:00',
@@ -2257,13 +2222,13 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    link: 'https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1',
+    artist: ['William Black'],
+    link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
   },
   {
-    artist: ['William Black'],
-    link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
+    link: 'https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
   },
@@ -2358,14 +2323,14 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Uriah Heep & Saxon'],
-    link: 'https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0',
+    artist: ['Into the Blue (ELO Tribute)'],
+    link: 'https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3',
     date: '2024-05-11T20:00:00',
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Into the Blue (ELO Tribute)'],
-    link: 'https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3',
+    artist: ['Uriah Heep & Saxon'],
+    link: 'https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0',
     date: '2024-05-11T20:00:00',
     venue: 'Masonic Temple',
   },
@@ -2427,6 +2392,12 @@ export const allShows = [
     artist: ['N69 FEST'],
     link: 'https://www.eventbrite.com/e/n69-fest-tickets-788633583277',
     date: '2024-03-09T16:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['SPECTRAL VOICE'],
+    link: 'https://www.eventbrite.com/e/spectral-voice-tickets-832656547147',
+    date: '2024-05-15T19:00:00',
     venue: 'No Class',
   },
   {
@@ -2580,12 +2551,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['KINK! A Nightclub Event'],
-    link: 'https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/',
-    date: '2024-02-10T21:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/',
     date: '2024-02-12T18:00:00',
@@ -2736,6 +2701,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Scream At The Sky, The Mendenhall Experiment'],
+    link: 'https://www.foundryconcertclub.com/tm-event/scream-at-the-sky-the-mendenhall-experiment/',
+    date: '2024-04-11T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: [
       'Gates of Sheol, Elijah, Counting Gravestones, Only The Lucky Ones Die',
     ],
@@ -2766,12 +2737,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/plush-truss-dive-bombs-grant/',
     date: '2024-06-13T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Wild Party, Cousin Simple'],
-    link: 'https://www.celebrityetc.com/event/13775228/wild-party-w-cousin-simple',
-    date: '2024-02-09T21:00:00',
-    venue: 'Musica Akron',
   },
   {
     artist: ["An Evening with Dixon's Violin"],

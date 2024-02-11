@@ -4,21 +4,21 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Feb 2024 09:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 09:05:55 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Flanagan's Wake at Playhouse Square on Friday, January 5, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/flanagans-wake-2]]></description>
-            <link>https://www.playhousesquare.org/events/detail/flanagans-wake-2</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-2</guid>
-            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[John Crist at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to John Crist at Playhouse Square on Sunday, February 18, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/john-crist-1]]></description>
             <link>https://www.playhousesquare.org/events/detail/john-crist-1</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/john-crist-1</guid>
             <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Flanagan's Wake at Playhouse Square on Friday, January 5, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/flanagans-wake-2]]></description>
+            <link>https://www.playhousesquare.org/events/detail/flanagans-wake-2</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-2</guid>
+            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Leanne Morgan at Playhouse Square]]></title>
@@ -75,13 +75,6 @@
             <link>https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2</guid>
             <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tamia & Joe at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Tamia & Joe at Playhouse Square on Saturday, February 10, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/tamia-joe]]></description>
-            <link>https://www.playhousesquare.org/events/detail/tamia-joe</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/tamia-joe</guid>
-            <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Urban Vibe Presents R&B Groove Thang at Playhouse Square]]></title>
@@ -173,13 +166,6 @@
             <link>https://www.playhousesquare.org/events/detail/boney-james-1</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/boney-james-1</guid>
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harriet The Spy, This Moment In Black History, Napsack, Gerloscar Supreme Team DJs at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Harriet The Spy, This Moment In Black History, Napsack, Gerloscar Supreme Team DJs at Grog Shop on Saturday, February 10, 2024, 09:00 PM: https://grogshop.gs/event-details/13417413/harriet-the-spy-this-moment-in-black-history-napsack-gerloscar-supreme-team-djs]]></description>
-            <link>https://grogshop.gs/event-details/13417413/harriet-the-spy-this-moment-in-black-history-napsack-gerloscar-supreme-team-djs</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13417413/harriet-the-spy-this-moment-in-black-history-napsack-gerloscar-supreme-team-djs</guid>
-            <pubDate>Sat, 10 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 3rd Annual Vampires Ball with Vampires Everywhere, Ash Hollow, Nineteenth Paradise, For Absent Friends, Songstress Jo at Grog Shop]]></title>
@@ -1526,13 +1512,6 @@
             <pubDate>Sun, 15 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Boys from County Hell: Winter Warmup for St. Pat’s! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to The Boys from County Hell: Winter Warmup for St. Pat’s! at Happy Dog on Saturday, February 10, 2024, 08:00 PM: https://www.eventbrite.com/e/the-boys-from-county-hell-winter-warmup-for-st-pats-tickets-810660887537]]></description>
-            <link>https://www.eventbrite.com/e/the-boys-from-county-hell-winter-warmup-for-st-pats-tickets-810660887537</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/the-boys-from-county-hell-winter-warmup-for-st-pats-tickets-810660887537</guid>
-            <pubDate>Sat, 10 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stupid Adventure Trivia presents: The Game of Love! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Stupid Adventure Trivia presents: The Game of Love! at Happy Dog on Wednesday, February 14, 2024, 08:30 PM: https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757]]></description>
             <link>https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757</link>
@@ -1589,18 +1568,11 @@
             <pubDate>Fri, 01 Mar 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pre/Post Party with goorü at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Pre/Post Party with goorü at Beachland Tavern on Friday, February 9, 2024, 06:00 PM: https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-]]></description>
-            <link>https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-</guid>
-            <pubDate>Fri, 09 Feb 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keller Williams at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Keller Williams at Beachland Ballroom on Friday, February 9, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13468278/keller-williams]]></description>
-            <link>https://www.beachlandballroom.com/e/13468278/keller-williams</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13468278/keller-williams</guid>
-            <pubDate>Fri, 09 Feb 2024 20:00:00 GMT</pubDate>
+            <title><![CDATA[Live Hip-Hop Showcase in the Underdog! at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Live Hip-Hop Showcase in the Underdog! at Happy Dog on Friday, March 1, 2024, 06:30 PM: https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197]]></description>
+            <link>https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197</guid>
+            <pubDate>Fri, 01 Mar 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dupree's Dead Band at Beachland Tavern]]></title>
@@ -2359,13 +2331,6 @@
             <pubDate>Sun, 20 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bittersweet Revenge at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Bittersweet Revenge at Masonic Temple on Saturday, February 10, 2024, 08:00 PM: https://www.ticketmaster.com/bittersweet-revenge-cleveland-ohio-02-10-2024/event/05005F9F9E2C1B0C]]></description>
-            <link>https://www.ticketmaster.com/bittersweet-revenge-cleveland-ohio-02-10-2024/event/05005F9F9E2C1B0C</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/bittersweet-revenge-cleveland-ohio-02-10-2024/event/05005F9F9E2C1B0C</guid>
-            <pubDate>Sat, 10 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Dead South at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to The Dead South at Masonic Temple on Monday, February 12, 2024, 07:30 PM: https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F]]></description>
             <link>https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F</link>
@@ -2576,17 +2541,17 @@
             <pubDate>Sat, 27 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uriah Heep & Saxon at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Uriah Heep & Saxon at Masonic Temple on Saturday, May 11, 2024, 08:00 PM: https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0]]></description>
-            <link>https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</guid>
-            <pubDate>Sat, 11 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Into the Blue (ELO Tribute) at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Into the Blue (ELO Tribute) at Masonic Temple on Saturday, May 11, 2024, 08:00 PM: https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3]]></description>
             <link>https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3</guid>
+            <pubDate>Sat, 11 May 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uriah Heep & Saxon at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Uriah Heep & Saxon at Masonic Temple on Saturday, May 11, 2024, 08:00 PM: https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0]]></description>
+            <link>https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</guid>
             <pubDate>Sat, 11 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2658,6 +2623,13 @@
             <link>https://www.eventbrite.com/e/n69-fest-tickets-788633583277</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/n69-fest-tickets-788633583277</guid>
             <pubDate>Sat, 09 Mar 2024 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SPECTRAL VOICE at No Class]]></title>
+            <description><![CDATA[Get tickets to SPECTRAL VOICE at No Class on Wednesday, May 15, 2024, 07:00 PM: https://www.eventbrite.com/e/spectral-voice-tickets-832656547147]]></description>
+            <link>https://www.eventbrite.com/e/spectral-voice-tickets-832656547147</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/spectral-voice-tickets-832656547147</guid>
+            <pubDate>Wed, 15 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chris Young, Bryan Martin at Jacobs Pavilion at Nautica]]></title>
@@ -2819,13 +2791,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921</guid>
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KINK! A Nightclub Event at Foundry]]></title>
-            <description><![CDATA[Get tickets to KINK! A Nightclub Event at Foundry on Saturday, February 10, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/kink-a-nightclub-event/</guid>
-            <pubDate>Sat, 10 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
@@ -2996,6 +2961,13 @@
             <pubDate>Sun, 07 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scream At The Sky, The Mendenhall Experiment at Foundry]]></title>
+            <description><![CDATA[Get tickets to Scream At The Sky, The Mendenhall Experiment at Foundry on Thursday, April 11, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/scream-at-the-sky-the-mendenhall-experiment/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/scream-at-the-sky-the-mendenhall-experiment/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/scream-at-the-sky-the-mendenhall-experiment/</guid>
+            <pubDate>Thu, 11 Apr 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gates of Sheol, Elijah, Counting Gravestones, Only The Lucky Ones Die at Foundry]]></title>
             <description><![CDATA[Get tickets to Gates of Sheol, Elijah, Counting Gravestones, Only The Lucky Ones Die at Foundry on Saturday, April 13, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/gates-of-sheol-elijah-counting-gravestones-only-the-lucky-ones-die/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/gates-of-sheol-elijah-counting-gravestones-only-the-lucky-ones-die/</link>
@@ -3029,13 +3001,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/plush-truss-dive-bombs-grant/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/plush-truss-dive-bombs-grant/</guid>
             <pubDate>Thu, 13 Jun 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wild Party, Cousin Simple at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to Wild Party, Cousin Simple at Musica Akron on Friday, February 9, 2024, 09:00 PM: https://www.celebrityetc.com/event/13775228/wild-party-w-cousin-simple]]></description>
-            <link>https://www.celebrityetc.com/event/13775228/wild-party-w-cousin-simple</link>
-            <guid isPermaLink="true">https://www.celebrityetc.com/event/13775228/wild-party-w-cousin-simple</guid>
-            <pubDate>Fri, 09 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Evening with Dixon's Violin at Musica Akron]]></title>

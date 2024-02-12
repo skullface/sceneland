@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Feb 2024 09:05:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 09:05:51 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[John Crist at Playhouse Square]]></title>
@@ -1547,6 +1547,13 @@
             <pubDate>Wed, 21 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gamma Ray, Funeral Proposals, Henry Morris Band at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Gamma Ray, Funeral Proposals, Henry Morris Band at Happy Dog on Thursday, February 22, 2024, 09:00 PM: https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777]]></description>
+            <link>https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777</guid>
+            <pubDate>Thu, 22 Feb 2024 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Doug McKean & The Stuntmen, Joshua Jesty, Ruby Rose at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Doug McKean & The Stuntmen, Joshua Jesty, Ruby Rose at Happy Dog on Friday, February 23, 2024, 09:00 PM: https://www.eventbrite.com/e/doug-mckean-the-stuntmen-joshua-jesty-ruby-rose-tickets-817663512577]]></description>
             <link>https://www.eventbrite.com/e/doug-mckean-the-stuntmen-joshua-jesty-ruby-rose-tickets-817663512577</link>
@@ -1566,41 +1573,6 @@
             <link>https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607</guid>
             <pubDate>Fri, 01 Mar 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live Hip-Hop Showcase in the Underdog! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Live Hip-Hop Showcase in the Underdog! at Happy Dog on Friday, March 1, 2024, 06:30 PM: https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197]]></description>
-            <link>https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197</guid>
-            <pubDate>Fri, 01 Mar 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dupree's Dead Band at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Dupree's Dead Band at Beachland Tavern on Saturday, February 10, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band]]></description>
-            <link>https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band</guid>
-            <pubDate>Sat, 10 Feb 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13th Annual Sweetheart Showcase: Strip-o-rama at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to 13th Annual Sweetheart Showcase: Strip-o-rama at Beachland Ballroom on Saturday, February 10, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13410123/13th-annual-sweetheart-showcase-strip-o-rama]]></description>
-            <link>https://www.beachlandballroom.com/e/13410123/13th-annual-sweetheart-showcase-strip-o-rama</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13410123/13th-annual-sweetheart-showcase-strip-o-rama</guid>
-            <pubDate>Sat, 10 Feb 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Brunch, VInyl DJ Chris Abood at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, VInyl DJ Chris Abood at Beachland Tavern on Sunday, February 11, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13476553/beachland-brunch-vinyl-dj-chris-abood]]></description>
-            <link>https://www.beachlandballroom.com/e/13476553/beachland-brunch-vinyl-dj-chris-abood</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13476553/beachland-brunch-vinyl-dj-chris-abood</guid>
-            <pubDate>Sun, 11 Feb 2024 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Memorial for Lachlan Dougan MacKinnon at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Memorial for Lachlan Dougan MacKinnon at Beachland Ballroom on Sunday, February 11, 2024, 03:30 PM: https://www.beachlandballroom.com/e/13507273/memorial-for-lachlan-dougan-mackinnon]]></description>
-            <link>https://www.beachlandballroom.com/e/13507273/memorial-for-lachlan-dougan-mackinnon</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13507273/memorial-for-lachlan-dougan-mackinnon</guid>
-            <pubDate>Sun, 11 Feb 2024 15:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deap Vally, Sloppy Jane, Samantha Grace at Beachland Ballroom]]></title>
@@ -2630,97 +2602,6 @@
             <link>https://www.eventbrite.com/e/spectral-voice-tickets-832656547147</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/spectral-voice-tickets-832656547147</guid>
             <pubDate>Wed, 15 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chris Young, Bryan Martin at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Chris Young, Bryan Martin at Jacobs Pavilion at Nautica on Friday, May 10, 2024, 06:30 PM: /events/detail?event_id=524789]]></description>
-            <link>/events/detail?event_id=524789</link>
-            <guid isPermaLink="true">/events/detail?event_id=524789</guid>
-            <pubDate>Fri, 10 May 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brit Floyd at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Brit Floyd at Jacobs Pavilion at Nautica on Sunday, May 19, 2024, 07:00 PM: /events/detail?event_id=521837]]></description>
-            <link>/events/detail?event_id=521837</link>
-            <guid isPermaLink="true">/events/detail?event_id=521837</guid>
-            <pubDate>Sun, 19 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gary Clark Jr. at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Gary Clark Jr. at Jacobs Pavilion at Nautica on Friday, May 24, 2024, 07:00 PM: /events/detail?event_id=528423]]></description>
-            <link>/events/detail?event_id=528423</link>
-            <guid isPermaLink="true">/events/detail?event_id=528423</guid>
-            <pubDate>Fri, 24 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Khruangbin, John Carroll Kirby at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Khruangbin, John Carroll Kirby at Jacobs Pavilion at Nautica on Wednesday, May 29, 2024, 07:00 PM: /events/detail?event_id=528300]]></description>
-            <link>/events/detail?event_id=528300</link>
-            <guid isPermaLink="true">/events/detail?event_id=528300</guid>
-            <pubDate>Wed, 29 May 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jacob Collier, Emily King at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Jacob Collier, Emily King at Jacobs Pavilion at Nautica on Wednesday, June 12, 2024, 06:00 PM: /events/detail?event_id=472801]]></description>
-            <link>/events/detail?event_id=472801</link>
-            <guid isPermaLink="true">/events/detail?event_id=472801</guid>
-            <pubDate>Wed, 12 Jun 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goose at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Goose at Jacobs Pavilion at Nautica on Sunday, June 16, 2024, 06:00 PM: /events/detail?event_id=529807]]></description>
-            <link>/events/detail?event_id=529807</link>
-            <guid isPermaLink="true">/events/detail?event_id=529807</guid>
-            <pubDate>Sun, 16 Jun 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brothers Osborne, Stephen Wilson Jr. at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Brothers Osborne, Stephen Wilson Jr. at Jacobs Pavilion at Nautica on Saturday, June 29, 2024, 07:00 PM: /events/detail?event_id=516497]]></description>
-            <link>/events/detail?event_id=516497</link>
-            <guid isPermaLink="true">/events/detail?event_id=516497</guid>
-            <pubDate>Sat, 29 Jun 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lamb Of God & Mastodon, Kerry King; Unearth at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Lamb Of God & Mastodon, Kerry King; Unearth at Jacobs Pavilion at Nautica on Friday, August 9, 2024, 05:00 PM: /events/detail?event_id=529663]]></description>
-            <link>/events/detail?event_id=529663</link>
-            <guid isPermaLink="true">/events/detail?event_id=529663</guid>
-            <pubDate>Fri, 09 Aug 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bush, Jerry Cantrell and Candlebox at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Bush, Jerry Cantrell and Candlebox at Jacobs Pavilion at Nautica on Tuesday, August 13, 2024, 05:00 PM: /events/detail?event_id=526378]]></description>
-            <link>/events/detail?event_id=526378</link>
-            <guid isPermaLink="true">/events/detail?event_id=526378</guid>
-            <pubDate>Tue, 13 Aug 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Avett Brothers, Sammy Rae & The Friends at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to The Avett Brothers, Sammy Rae & The Friends at Jacobs Pavilion at Nautica on Friday, August 23, 2024, 06:30 PM: /events/detail?event_id=517863]]></description>
-            <link>/events/detail?event_id=517863</link>
-            <guid isPermaLink="true">/events/detail?event_id=517863</guid>
-            <pubDate>Fri, 23 Aug 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Gizzard & the Lizard Wizard, Geese at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to King Gizzard & the Lizard Wizard, Geese at Jacobs Pavilion at Nautica on Saturday, August 24, 2024, 06:00 PM: /events/detail?event_id=509500]]></description>
-            <link>/events/detail?event_id=509500</link>
-            <guid isPermaLink="true">/events/detail?event_id=509500</guid>
-            <pubDate>Sat, 24 Aug 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[O.A.R., Fitz and The Tantrums at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to O.A.R., Fitz and The Tantrums at Jacobs Pavilion at Nautica on Sunday, August 25, 2024, 06:00 PM: /events/detail?event_id=510138]]></description>
-            <link>/events/detail?event_id=510138</link>
-            <guid isPermaLink="true">/events/detail?event_id=510138</guid>
-            <pubDate>Sun, 25 Aug 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mitski, Lamp at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Mitski, Lamp at Jacobs Pavilion at Nautica on Tuesday, September 3, 2024, 06:30 PM: /events/detail?event_id=525985]]></description>
-            <link>/events/detail?event_id=525985</link>
-            <guid isPermaLink="true">/events/detail?event_id=525985</guid>
-            <pubDate>Tue, 03 Sep 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[15th Annual Cleveland Bridal Show, Presented By TL Worldwide Transportation at Rocket Mortgage FieldHouse]]></title>

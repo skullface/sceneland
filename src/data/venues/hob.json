@@ -329,6 +329,14 @@
   },
   {
     "artist": [
+      "Tep No: Bigger Than God Tour"
+    ],
+    "link": "https://concerts.livenation.com/tep-no-bigger-than-god-tour-cleveland-ohio-05-08-2024/event/05006048DC1B4C27",
+    "date": "2024-05-08T19:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Battle Beast Circus Of Doom Over North America"
     ],
     "link": "https://concerts.livenation.com/battle-beast-circus-of-doom-over-cleveland-ohio-05-12-2024/event/05005F7239846A53",
@@ -361,26 +369,18 @@
   },
   {
     "artist": [
-      "X Ambassadors: TOWNIE: NORTH AMERICAN TOUR"
+      "City and Colour: Spring 2024"
     ],
-    "link": "https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9",
-    "date": "2024-05-26T18:30:00",
+    "link": "https://concerts.livenation.com/city-and-colour-spring-2024-cleveland-ohio-05-19-2024/event/05006047981C1A80",
+    "date": "2024-05-19T19:00:00",
     "venue": "House of Blues"
   },
   {
     "artist": [
-      "Siwa Presents XOMG POP! LIVE"
+      "Bella Dose: L-Pop US Tour"
     ],
-    "link": "https://concerts.livenation.com/siwa-presents-xomg-pop-live-cleveland-ohio-06-12-2024/event/05005F76A6F01E48",
-    "date": "2024-06-12T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Hot Water Music 30th Anniversary Tour feat. Quicksand"
-    ],
-    "link": "https://concerts.livenation.com/hot-water-music-30th-anniversary-tour-cleveland-ohio-06-14-2024/event/05005F76C9E62B53",
-    "date": "2024-06-14T19:00:00",
+    "link": "https://concerts.livenation.com/bella-dose-lpop-us-tour-cleveland-ohio-05-23-2024/event/05006048FD065905",
+    "date": "2024-05-23T19:00:00",
     "venue": "House of Blues"
   }
 ]

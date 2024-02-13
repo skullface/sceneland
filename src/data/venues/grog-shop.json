@@ -171,15 +171,7 @@
       "\"Back To 2005\" Movie Premiere (Second Showing)"
     ],
     "link": "https://grogshop.gs/event-details/13465863/-back-to-2005-movie-premiere-second-showing-",
-    "date": "2024-03-03T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "BabyTron"
-    ],
-    "link": "https://grogshop.gs/event-details/13853798/babytron",
-    "date": "2024-03-06T20:00:00",
+    "date": "2024-03-03T20:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -190,6 +182,14 @@
       "The Morning Bird"
     ],
     "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-adam-faucett-nate-bergman-the-morning-bird",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "BabyTron"
+    ],
+    "link": "https://grogshop.gs/event-details/13853798/babytron",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },
@@ -484,11 +484,29 @@
   },
   {
     "artist": [
+      "Melt-Banana",
+      "The Flying Luttenbachers",
+      "BabyBaby_Explorers"
+    ],
+    "link": "https://grogshop.gs/event-details/13482083/melt-banana",
+    "date": "2024-06-02T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "GlamGore: 6th Annual Pre-Pride on the East Side",
       "Anhedonia Delight"
     ],
     "link": "https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side",
     "date": "2024-06-07T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Grog Shop Presents- Iron & Wine: Light Verse 2024"
+    ],
+    "link": "https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024",
+    "date": "2024-08-20T19:30:00",
     "venue": "Grog Shop"
   },
   {

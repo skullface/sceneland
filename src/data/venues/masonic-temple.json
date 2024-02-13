@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Dead South"
-    ],
-    "link": "https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F",
-    "date": "2024-02-12T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Jo Dee Messina \u2013 Heads Carolina, Tails California Tour"
     ],
     "link": "https://www.ticketmaster.com/jo-dee-messina-heads-carolina-tails-cleveland-ohio-02-16-2024/event/05005F63BBA85794",
@@ -112,15 +104,15 @@
     "venue": "Masonic Temple"
   },
   {
-    "artist": [
-      "William Black"
-    ],
-    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
+    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
     "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   },
   {
-    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
+    "artist": [
+      "William Black"
+    ],
+    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
     "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   },
@@ -198,17 +190,17 @@
   },
   {
     "artist": [
-      "TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed"
+      "EMO ORCHESTRA featuring ESCAPE THE FATE"
     ],
-    "link": "https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5",
+    "link": "https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853",
     "date": "2024-04-19T20:00:00",
     "venue": "Masonic Temple"
   },
   {
     "artist": [
-      "EMO ORCHESTRA featuring ESCAPE THE FATE"
+      "TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed"
     ],
-    "link": "https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853",
+    "link": "https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5",
     "date": "2024-04-19T20:00:00",
     "venue": "Masonic Temple"
   },
@@ -246,17 +238,17 @@
   },
   {
     "artist": [
-      "Into the Blue (ELO Tribute)"
+      "Uriah Heep & Saxon"
     ],
-    "link": "https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3",
+    "link": "https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0",
     "date": "2024-05-11T20:00:00",
     "venue": "Masonic Temple"
   },
   {
     "artist": [
-      "Uriah Heep & Saxon"
+      "Into the Blue (ELO Tribute)"
     ],
-    "link": "https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0",
+    "link": "https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3",
     "date": "2024-05-11T20:00:00",
     "venue": "Masonic Temple"
   },
@@ -314,6 +306,14 @@
     ],
     "link": "https://www.ticketmaster.com/henry-cho-from-here-to-there-cleveland-ohio-07-27-2024/event/05006026BE69371F",
     "date": "2024-07-27T20:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Couples Therapy"
+    ],
+    "link": "https://www.ticketmaster.com/couples-therapy-cleveland-ohio-10-19-2024/event/05006042A39E61EF",
+    "date": "2024-10-19T20:00:00",
     "venue": "Masonic Temple"
   }
 ]

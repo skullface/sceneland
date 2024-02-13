@@ -105,14 +105,6 @@
   },
   {
     "artist": [
-      "Fan Love Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/fan-love-tour",
-    "date": "2024-03-24",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Celtic Woman 20th Anniversary Tour"
     ],
     "link": "https://www.playhousesquare.org/events/detail/celtic-woman-20th-anniversary-tour",
@@ -157,6 +149,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello",
     "date": "2024-04-24",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "C.S. Lewis On Stage"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/cs-lewis-on-stage",
+    "date": "2024-05-11",
     "venue": "Playhouse Square"
   },
   {

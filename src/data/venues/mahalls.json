@@ -89,6 +89,14 @@
   },
   {
     "artist": [
+      "School of Rock headliners"
+    ],
+    "link": "https://link.dice.fm/Zc5de098a833?dice_id=Zc5de098a833",
+    "date": "2024-03-02T11:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Formerly Candice"
     ],
     "link": "https://link.dice.fm/Gcafdf0f70fc?dice_id=Gcafdf0f70fc",
@@ -233,6 +241,14 @@
   },
   {
     "artist": [
+      "Felicity"
+    ],
+    "link": "https://link.dice.fm/q41a7fc9d0a3?dice_id=q41a7fc9d0a3",
+    "date": "2024-03-24T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Armed"
     ],
     "link": "https://link.dice.fm/Q5a5918ecf59?dice_id=Q5a5918ecf59",
@@ -244,24 +260,17 @@
       "Bilmuri"
     ],
     "link": "https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca",
+    "sold_out": true,
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
-      "The Little Ditties"
+      "The Little Ditties / Magazine Beach"
     ],
     "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Magazine Beach"
-    ],
-    "link": "https://link.dice.fm/Bb2a9694a1e4?dice_id=Bb2a9694a1e4",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
   },
   {
     "artist": [

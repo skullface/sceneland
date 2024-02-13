@@ -1,6 +1,14 @@
 [
   {
     "artist": [
+      "2024 Premium Season Tickets"
+    ],
+    "link": "https://premium.livenation.com/venue/blossom-music-center",
+    "date": "2024-04-01T00:00:01",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
       "Noah Kahan: We'll All Be Here Forever Tour"
     ],
     "link": "https://concerts.livenation.com/noah-kahan-well-all-be-here-cuyahoga-falls-ohio-05-28-2024/event/05005F33F78770D0",
@@ -109,6 +117,14 @@
     ],
     "link": "https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F",
     "date": "2024-07-22T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Totally Tubular Festival"
+    ],
+    "link": "https://concerts.livenation.com/totally-tubular-festival-cuyahoga-falls-ohio-07-28-2024/event/05006047069B50E1",
+    "date": "2024-07-28T18:00:00",
     "venue": "Blossom"
   },
   {

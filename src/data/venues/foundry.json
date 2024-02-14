@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-6/",
-    "date": "2024-02-12T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "BORED GAME NIGHT"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night/",
-    "date": "2024-02-13T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Emo Night Karaoke"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/",
@@ -29,6 +13,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/tre-fest/",
     "date": "2024-02-17T17:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/",
+    "date": "2024-02-19T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -81,6 +73,22 @@
   },
   {
     "artist": [
+      "Amine vs. K-Pop Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/amine-vs-k-pop-night/",
+    "date": "2024-03-01T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "RHYTHM OASIS"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/rhythm-oasis/",
+    "date": "2024-03-02T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "RAMEN POP-UP"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ramen-pop-up/",
@@ -89,10 +97,18 @@
   },
   {
     "artist": [
-      "Of Virtue"
+      "Of Virtue, Titrate the Terror"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/of-virtue/",
     "date": "2024-03-05T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Alyxx, Ghostatic, Ash Hollow, Nineteenth Paradise, High Early"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/alyxx-ghostatic-ash-hollow-nineteenth-paradise-high-early/",
+    "date": "2024-03-08T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -113,18 +129,18 @@
   },
   {
     "artist": [
-      "KOYO, One Step Closer, Anxious, Stateside"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/koyo-one-step-closer-anxious-stateside/",
-    "date": "2024-03-15T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Lutharo, Olathia, After The Apocalypse, Storms of Tomorrow"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/",
     "date": "2024-03-16T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Death Lens, The Rosies, Honey Pocket"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/",
+    "date": "2024-03-20T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -161,6 +177,14 @@
   },
   {
     "artist": [
+      "The Obsessed, Howling Giant, Gozu"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-obsessed-howling-giant-gozu/",
+    "date": "2024-04-04T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Unhinged Easter"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/unhinged-easter/",
@@ -193,6 +217,14 @@
   },
   {
     "artist": [
+      "Dick Valentine"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/dick-valentine/",
+    "date": "2024-04-12T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Gates of Sheol, Elijah, Counting Gravestones, Only The Lucky Ones Die"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/gates-of-sheol-elijah-counting-gravestones-only-the-lucky-ones-die/",
@@ -221,6 +253,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/",
     "date": "2024-05-20T19:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Divide The Fall, Reign of Z"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/divide-the-fall-reign-of-z/",
+    "date": "2024-06-01T19:00:00",
     "venue": "Foundry"
   },
   {

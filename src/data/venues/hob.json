@@ -241,6 +241,14 @@
   },
   {
     "artist": [
+      "Me First and the Gimme Gimmes"
+    ],
+    "link": "https://concerts.livenation.com/me-first-and-the-gimme-gimmes-cleveland-ohio-04-16-2024/event/05006048D395491F",
+    "date": "2024-04-16T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Queensryche"
     ],
     "link": "https://concerts.livenation.com/queensryche-cleveland-ohio-04-17-2024/event/05005F4409AB3E3A",
@@ -297,6 +305,14 @@
   },
   {
     "artist": [
+      "BRELAND: Little More Countrier Tour"
+    ],
+    "link": "https://concerts.livenation.com/breland-little-more-countrier-tour-cleveland-ohio-05-01-2024/event/05006047D5193D45",
+    "date": "2024-05-01T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Drake White: The Bridge Tour"
     ],
     "link": "https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176",
@@ -337,6 +353,14 @@
   },
   {
     "artist": [
+      "Tenille Townes"
+    ],
+    "link": "https://concerts.livenation.com/tenille-townes-cleveland-ohio-05-10-2024/event/0500604231998D1F",
+    "date": "2024-05-10T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Battle Beast Circus Of Doom Over North America"
     ],
     "link": "https://concerts.livenation.com/battle-beast-circus-of-doom-over-cleveland-ohio-05-12-2024/event/05005F7239846A53",
@@ -357,30 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A",
     "date": "2024-05-18T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Kid Kapichi: North America 2024"
-    ],
-    "link": "https://concerts.livenation.com/kid-kapichi-north-america-2024-cleveland-ohio-05-18-2024/event/050060389EB046A1",
-    "date": "2024-05-18T19:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "City and Colour: Spring 2024"
-    ],
-    "link": "https://concerts.livenation.com/city-and-colour-spring-2024-cleveland-ohio-05-19-2024/event/05006047981C1A80",
-    "date": "2024-05-19T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Bella Dose: L-Pop US Tour"
-    ],
-    "link": "https://concerts.livenation.com/bella-dose-lpop-us-tour-cleveland-ohio-05-23-2024/event/05006048FD065905",
-    "date": "2024-05-23T19:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "No Vacation"
-    ],
-    "link": "https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b",
-    "date": "2024-02-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Chayla Hope's \"Be Mine\" Valentine's Soiree"
     ],
     "link": "https://link.dice.fm/X14cbea55219?dice_id=X14cbea55219",
@@ -73,19 +65,19 @@
   },
   {
     "artist": [
-      "Blonde Redhead"
-    ],
-    "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
-    "date": "2024-03-01T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Alexis Marrero"
     ],
     "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
     "date": "2024-03-01T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Blonde Redhead"
+    ],
+    "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
+    "date": "2024-03-01T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -306,6 +298,14 @@
   },
   {
     "artist": [
+      "Sitting On Stacy"
+    ],
+    "link": "https://link.dice.fm/p7e4eb4034a4?dice_id=p7e4eb4034a4",
+    "date": "2024-04-04T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Unprocessed"
     ],
     "link": "https://link.dice.fm/W36e2339d3e7?dice_id=W36e2339d3e7",
@@ -450,19 +450,19 @@
   },
   {
     "artist": [
-      "Boundaries"
-    ],
-    "link": "https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71",
-    "date": "2024-05-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Microwave"
     ],
     "link": "https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb",
     "date": "2024-05-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Boundaries"
+    ],
+    "link": "https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71",
+    "date": "2024-05-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

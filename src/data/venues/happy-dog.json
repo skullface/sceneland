@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Stupid Adventure Trivia presents: The Game of Love!"
-    ],
-    "link": "https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757",
-    "date": "2024-02-14T20:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Comedy Night in the Underdog!"
     ],
     "link": "https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197",
     "date": "2024-03-01T18:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Sensor Ghost, The Insect, Honolulu High"
+    ],
+    "link": "https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047",
+    "date": "2024-03-01T21:00:00",
     "venue": "Happy Dog"
   }
 ]

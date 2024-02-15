@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Deap Vally",
-      "Sloppy Jane",
-      "Samantha Grace"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane-samantha-grace",
-    "date": "2024-02-13T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Mia x Ally"
     ],
     "link": "https://www.beachlandballroom.com/e/13865838/mia-x-ally",
@@ -65,9 +55,10 @@
   },
   {
     "artist": [
-      "Beachland Brunch"
+      "Beachland Brunch",
+      "DJ Andy Hart spinning Soul 45s"
     ],
-    "link": "https://www.beachlandballroom.com/e/13498603/beachland-brunch",
+    "link": "https://www.beachlandballroom.com/e/13498603/beachland-brunch-dj-andy-hart-spinning-soul-45s",
     "date": "2024-02-18T11:00:00",
     "venue": "Beachland Tavern"
   },
@@ -308,10 +299,9 @@
   },
   {
     "artist": [
-      "Tophouse",
-      "Good Morning Bedlam"
+      "Tophouse"
     ],
-    "link": "https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam",
+    "link": "https://www.beachlandballroom.com/e/13718918/tophouse",
     "date": "2024-03-14T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -338,9 +328,10 @@
   {
     "artist": [
       "The Dollyrots",
+      "The Boreouts",
       "Detention"
     ],
-    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention",
+    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots-the-boreouts-detention",
     "date": "2024-03-16T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -406,6 +397,16 @@
     "link": "https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix",
     "date": "2024-03-23T20:30:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "CHERRY!",
+      "Electric Dream Machine",
+      "DRVYN"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13526713/cherry-electric-dream-machine-drvyn",
+    "date": "2024-03-23T20:30:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

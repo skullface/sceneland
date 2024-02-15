@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "The 3rd Annual Vampires Ball with Vampires Everywhere",
-      "Ash Hollow",
-      "Nineteenth Paradise",
-      "For Absent Friends",
-      "Songstress Jo"
-    ],
-    "link": "https://grogshop.gs/event-details/13865168/the-3rd-annual-vampires-ball-with-vampires-everywhere",
-    "date": "2024-02-14T19:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Ocean",
       "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
       "Shy",
@@ -176,20 +164,20 @@
   },
   {
     "artist": [
-      "BabyTron"
-    ],
-    "link": "https://grogshop.gs/event-details/13853798/babytron",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Left Lane Cruiser",
       "Nate Bergman",
       "Adam Faucett",
       "The Morning Bird"
     ],
     "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "BabyTron"
+    ],
+    "link": "https://grogshop.gs/event-details/13853798/babytron",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },
@@ -271,6 +259,15 @@
   },
   {
     "artist": [
+      "Otoboke Beaver",
+      "Drinking Boys and Girls Choir"
+    ],
+    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "SWANK. All Smiles",
       "Westside LO",
       "Big Bewm",
@@ -278,15 +275,6 @@
       "DJ Cooley High"
     ],
     "link": "https://grogshop.gs/event-details/13504543/swank-all-smiles",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Otoboke Beaver",
-      "Drinking Boys and Girls Choir"
-    ],
-    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
     "date": "2024-03-15T20:00:00",
     "venue": "Grog Shop"
   },
@@ -328,6 +316,17 @@
     ],
     "link": "https://grogshop.gs/event-details/13511363/taste-my-movement-r-the-czar-vs-malik-x",
     "date": "2024-03-21T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Slow Wake",
+      "Megaton Communion",
+      "Black Sasquatch",
+      "Dead East Garden"
+    ],
+    "link": "https://grogshop.gs/event-details/13527333/slow-wake-megaton-communion-black-sasquatch-dead-east-garden",
+    "date": "2024-03-22T20:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -512,6 +511,16 @@
   },
   {
     "artist": [
+      "Ghost-Note",
+      "The Labra Brothers",
+      "Apostle Jones"
+    ],
+    "link": "https://grogshop.gs/event-details/13507723/ghost-note-the-labra-brothers-apostle-jones",
+    "date": "2024-05-11T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Laura Jane Grace with Worriers and Sam Russo",
       "Worriers",
       "Sam Russo"
@@ -565,6 +574,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn",
     "date": "2024-08-28T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Yard Act"
+    ],
+    "link": "https://grogshop.gs/event-details/13487493/yard-act",
+    "date": "2024-10-05T20:30:00",
     "venue": "Grog Shop"
   }
 ]

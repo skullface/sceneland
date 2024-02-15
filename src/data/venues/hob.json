@@ -145,6 +145,14 @@
   },
   {
     "artist": [
+      "Bohemian Rhapsody: A Celebration of Queen"
+    ],
+    "link": "https://concerts.livenation.com/bohemian-rhapsody-a-celebration-of-queen-cleveland-ohio-03-16-2024/event/0500604CABD83B3E",
+    "date": "2024-03-16T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Gasolina: Reggaeton Party"
     ],
     "link": "https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-03-22-2024/event/0500602BA8642073",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/say-anything-is-a-real-boy-cleveland-ohio-05-14-2024/event/05005F75BF37230B",
     "date": "2024-05-14T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Kamelot: Awaken The World Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A",
-    "date": "2024-05-18T18:00:00",
     "venue": "House of Blues"
   }
 ]

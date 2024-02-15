@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Feb 2024 09:06:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 09:06:35 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No Vacation at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to No Vacation at Mahall’s on Thursday, February 15, 2024, 12:00 AM: https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b]]></description>
-            <link>https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b</link>
-            <guid isPermaLink="true">https://link.dice.fm/E104869cec1b?dice_id=E104869cec1b</guid>
-            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Chayla Hope's "Be Mine" Valentine's Soiree at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Chayla Hope's "Be Mine" Valentine's Soiree at Mahall’s on Saturday, February 17, 2024, 12:00 AM: https://link.dice.fm/X14cbea55219?dice_id=X14cbea55219]]></description>
@@ -70,17 +63,17 @@
             <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blonde Redhead at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Blonde Redhead at The Roxy at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc]]></description>
-            <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</link>
-            <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</guid>
-            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Alexis Marrero at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Alexis Marrero at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7]]></description>
             <link>https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</link>
             <guid isPermaLink="true">https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7</guid>
+            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blonde Redhead at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Blonde Redhead at The Roxy at Mahall’s on Saturday, March 2, 2024, 12:00 AM: https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc]]></description>
+            <link>https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</link>
+            <guid isPermaLink="true">https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc</guid>
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -273,6 +266,13 @@
             <pubDate>Thu, 04 Apr 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sitting On Stacy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Sitting On Stacy at Mahall’s on Thursday, April 4, 2024, 11:00 PM: https://link.dice.fm/p7e4eb4034a4?dice_id=p7e4eb4034a4]]></description>
+            <link>https://link.dice.fm/p7e4eb4034a4?dice_id=p7e4eb4034a4</link>
+            <guid isPermaLink="true">https://link.dice.fm/p7e4eb4034a4?dice_id=p7e4eb4034a4</guid>
+            <pubDate>Thu, 04 Apr 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Unprocessed at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Unprocessed at Mahall’s on Friday, April 5, 2024, 11:00 PM: https://link.dice.fm/W36e2339d3e7?dice_id=W36e2339d3e7]]></description>
             <link>https://link.dice.fm/W36e2339d3e7?dice_id=W36e2339d3e7</link>
@@ -399,17 +399,17 @@
             <pubDate>Thu, 09 May 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boundaries at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Boundaries at Mahall’s on Friday, May 10, 2024, 10:00 PM: https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71]]></description>
-            <link>https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71</link>
-            <guid isPermaLink="true">https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71</guid>
-            <pubDate>Fri, 10 May 2024 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Microwave at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Microwave at The Roxy at Mahall’s on Friday, May 10, 2024, 10:00 PM: https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb]]></description>
             <link>https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb</link>
             <guid isPermaLink="true">https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb</guid>
+            <pubDate>Fri, 10 May 2024 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boundaries at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Boundaries at Mahall’s on Friday, May 10, 2024, 10:00 PM: https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71]]></description>
+            <link>https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71</link>
+            <guid isPermaLink="true">https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71</guid>
             <pubDate>Fri, 10 May 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -518,13 +518,6 @@
             <pubDate>Wed, 15 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stupid Adventure Trivia presents: The Game of Love! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Stupid Adventure Trivia presents: The Game of Love! at Happy Dog on Wednesday, February 14, 2024, 08:30 PM: https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757]]></description>
-            <link>https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/stupid-adventure-trivia-presents-the-game-of-love-tickets-817621446757</guid>
-            <pubDate>Wed, 14 Feb 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Comedy Night in the Underdog! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Comedy Night in the Underdog! at Happy Dog on Thursday, February 15, 2024, 07:00 PM: https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117]]></description>
             <link>https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117</link>
@@ -586,6 +579,13 @@
             <link>https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197</guid>
             <pubDate>Fri, 01 Mar 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sensor Ghost, The Insect, Honolulu High at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Sensor Ghost, The Insect, Honolulu High at Happy Dog on Friday, March 1, 2024, 09:00 PM: https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047]]></description>
+            <link>https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047</guid>
+            <pubDate>Fri, 01 Mar 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chris Young, Bryan Martin at Jacobs Pavilion at Nautica]]></title>
@@ -1127,13 +1127,6 @@
             <pubDate>Sun, 15 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deap Vally, Sloppy Jane, Samantha Grace at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Deap Vally, Sloppy Jane, Samantha Grace at Beachland Ballroom on Tuesday, February 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane-samantha-grace]]></description>
-            <link>https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane-samantha-grace</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane-samantha-grace</guid>
-            <pubDate>Tue, 13 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mia x Ally at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Mia x Ally at Beachland Ballroom on Wednesday, February 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13865838/mia-x-ally]]></description>
             <link>https://www.beachlandballroom.com/e/13865838/mia-x-ally</link>
@@ -1176,10 +1169,10 @@
             <pubDate>Sat, 17 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beachland Brunch at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch at Beachland Tavern on Sunday, February 18, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13498603/beachland-brunch]]></description>
-            <link>https://www.beachlandballroom.com/e/13498603/beachland-brunch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13498603/beachland-brunch</guid>
+            <title><![CDATA[Beachland Brunch, DJ Andy Hart spinning Soul 45s at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Beachland Brunch, DJ Andy Hart spinning Soul 45s at Beachland Tavern on Sunday, February 18, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13498603/beachland-brunch-dj-andy-hart-spinning-soul-45s]]></description>
+            <link>https://www.beachlandballroom.com/e/13498603/beachland-brunch-dj-andy-hart-spinning-soul-45s</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13498603/beachland-brunch-dj-andy-hart-spinning-soul-45s</guid>
             <pubDate>Sun, 18 Feb 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1365,10 +1358,10 @@
             <pubDate>Wed, 13 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tophouse, Good Morning Bedlam at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Tophouse, Good Morning Bedlam at Beachland Ballroom on Thursday, March 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam]]></description>
-            <link>https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam</guid>
+            <title><![CDATA[Tophouse at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Tophouse at Beachland Ballroom on Thursday, March 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13718918/tophouse]]></description>
+            <link>https://www.beachlandballroom.com/e/13718918/tophouse</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13718918/tophouse</guid>
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1386,10 +1379,10 @@
             <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Dollyrots, Detention at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Dollyrots, Detention at Beachland Tavern on Saturday, March 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention]]></description>
-            <link>https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention</guid>
+            <title><![CDATA[The Dollyrots, The Boreouts, Detention at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Dollyrots, The Boreouts, Detention at Beachland Tavern on Saturday, March 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13874678/the-dollyrots-the-boreouts-detention]]></description>
+            <link>https://www.beachlandballroom.com/e/13874678/the-dollyrots-the-boreouts-detention</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13874678/the-dollyrots-the-boreouts-detention</guid>
             <pubDate>Sat, 16 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1439,6 +1432,13 @@
             <description><![CDATA[Get tickets to This Is Just A Tribute: Rize of the Fenix at Beachland Ballroom on Saturday, March 23, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix]]></description>
             <link>https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix</guid>
+            <pubDate>Sat, 23 Mar 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CHERRY!, Electric Dream Machine, DRVYN at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to CHERRY!, Electric Dream Machine, DRVYN at Beachland Tavern on Saturday, March 23, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13526713/cherry-electric-dream-machine-drvyn]]></description>
+            <link>https://www.beachlandballroom.com/e/13526713/cherry-electric-dream-machine-drvyn</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13526713/cherry-electric-dream-machine-drvyn</guid>
             <pubDate>Sat, 23 Mar 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1883,13 +1883,6 @@
             <pubDate>Sun, 20 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The 3rd Annual Vampires Ball with Vampires Everywhere, Ash Hollow, Nineteenth Paradise, For Absent Friends, Songstress Jo at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The 3rd Annual Vampires Ball with Vampires Everywhere, Ash Hollow, Nineteenth Paradise, For Absent Friends, Songstress Jo at Grog Shop on Wednesday, February 14, 2024, 07:00 PM: https://grogshop.gs/event-details/13865168/the-3rd-annual-vampires-ball-with-vampires-everywhere]]></description>
-            <link>https://grogshop.gs/event-details/13865168/the-3rd-annual-vampires-ball-with-vampires-everywhere</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13865168/the-3rd-annual-vampires-ball-with-vampires-everywhere</guid>
-            <pubDate>Wed, 14 Feb 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Ocean, The World Is A Beautiful Place & I Am No Longer Afraid To Die, Shy, Low at Grog Shop]]></title>
             <description><![CDATA[Get tickets to The Ocean, The World Is A Beautiful Place & I Am No Longer Afraid To Die, Shy, Low at Grog Shop on Thursday, February 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13806928/the-ocean]]></description>
             <link>https://grogshop.gs/event-details/13806928/the-ocean</link>
@@ -2009,17 +2002,17 @@
             <pubDate>Sun, 03 Mar 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BabyTron at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to BabyTron at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13853798/babytron]]></description>
-            <link>https://grogshop.gs/event-details/13853798/babytron</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13853798/babytron</guid>
-            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Left Lane Cruiser, Nate Bergman, Adam Faucett, The Morning Bird at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Left Lane Cruiser, Nate Bergman, Adam Faucett, The Morning Bird at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird]]></description>
             <link>https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird</guid>
+            <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BabyTron at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to BabyTron at Grog Shop on Wednesday, March 6, 2024, 08:00 PM: https://grogshop.gs/event-details/13853798/babytron]]></description>
+            <link>https://grogshop.gs/event-details/13853798/babytron</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13853798/babytron</guid>
             <pubDate>Wed, 06 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2072,17 +2065,17 @@
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13504543/swank-all-smiles]]></description>
-            <link>https://grogshop.gs/event-details/13504543/swank-all-smiles</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13504543/swank-all-smiles</guid>
-            <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13764018/otoboke-beaver]]></description>
             <link>https://grogshop.gs/event-details/13764018/otoboke-beaver</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13764018/otoboke-beaver</guid>
+            <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13504543/swank-all-smiles]]></description>
+            <link>https://grogshop.gs/event-details/13504543/swank-all-smiles</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13504543/swank-all-smiles</guid>
             <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2112,6 +2105,13 @@
             <link>https://grogshop.gs/event-details/13511363/taste-my-movement-r-the-czar-vs-malik-x</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13511363/taste-my-movement-r-the-czar-vs-malik-x</guid>
             <pubDate>Thu, 21 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slow Wake, Megaton Communion, Black Sasquatch, Dead East Garden at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Slow Wake, Megaton Communion, Black Sasquatch, Dead East Garden at Grog Shop on Friday, March 22, 2024, 08:30 PM: https://grogshop.gs/event-details/13527333/slow-wake-megaton-communion-black-sasquatch-dead-east-garden]]></description>
+            <link>https://grogshop.gs/event-details/13527333/slow-wake-megaton-communion-black-sasquatch-dead-east-garden</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13527333/slow-wake-megaton-communion-black-sasquatch-dead-east-garden</guid>
+            <pubDate>Fri, 22 Mar 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trek Manifest And AYE-1 Band, Crib Collective, aka & co at Grog Shop]]></title>
@@ -2247,6 +2247,13 @@
             <pubDate>Fri, 03 May 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ghost-Note, The Labra Brothers, Apostle Jones at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Ghost-Note, The Labra Brothers, Apostle Jones at Grog Shop on Saturday, May 11, 2024, 08:00 PM: https://grogshop.gs/event-details/13507723/ghost-note-the-labra-brothers-apostle-jones]]></description>
+            <link>https://grogshop.gs/event-details/13507723/ghost-note-the-labra-brothers-apostle-jones</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13507723/ghost-note-the-labra-brothers-apostle-jones</guid>
+            <pubDate>Sat, 11 May 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Laura Jane Grace with Worriers and Sam Russo, Worriers, Sam Russo at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Laura Jane Grace with Worriers and Sam Russo, Worriers, Sam Russo at Grog Shop on Saturday, May 25, 2024, 08:00 PM: https://grogshop.gs/event-details/13429923/laura-jane-grace-with-worriers-and-sam-russo]]></description>
             <link>https://grogshop.gs/event-details/13429923/laura-jane-grace-with-worriers-and-sam-russo</link>
@@ -2287,6 +2294,13 @@
             <link>https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn</guid>
             <pubDate>Wed, 28 Aug 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yard Act at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Yard Act at Grog Shop on Saturday, October 5, 2024, 08:30 PM: https://grogshop.gs/event-details/13487493/yard-act]]></description>
+            <link>https://grogshop.gs/event-details/13487493/yard-act</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13487493/yard-act</guid>
+            <pubDate>Sat, 05 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Evening with Dixon's Violin at Musica Akron]]></title>
@@ -2555,13 +2569,6 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Neck Deep, DRAIN, Bearings, Higher Power at Agora]]></title>
-            <description><![CDATA[Get tickets to Neck Deep, DRAIN, Bearings, Higher Power at Agora on Wednesday, February 14, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/505282]]></description>
-            <link>https://www.agoracleveland.com/events/detail/505282</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/505282</guid>
-            <pubDate>Wed, 14 Feb 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Portugal. The Man, Snacktime at Agora]]></title>
             <description><![CDATA[Get tickets to Portugal. The Man, Snacktime at Agora on Saturday, February 17, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/508347]]></description>
             <link>https://www.agoracleveland.com/events/detail/508347</link>
@@ -2660,8 +2667,8 @@
             <pubDate>Fri, 29 Mar 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alvvays at Agora]]></title>
-            <description><![CDATA[Get tickets to Alvvays at Agora on Thursday, April 18, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/519545]]></description>
+            <title><![CDATA[Alvvays, Spllit at Agora]]></title>
+            <description><![CDATA[Get tickets to Alvvays, Spllit at Agora on Thursday, April 18, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/519545]]></description>
             <link>https://www.agoracleveland.com/events/detail/519545</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/519545</guid>
             <pubDate>Thu, 18 Apr 2024 19:00:00 GMT</pubDate>
@@ -3143,6 +3150,13 @@
             <pubDate>Fri, 15 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bohemian Rhapsody: A Celebration of Queen at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Bohemian Rhapsody: A Celebration of Queen at House of Blues on Saturday, March 16, 2024, 06:00 PM: https://concerts.livenation.com/bohemian-rhapsody-a-celebration-of-queen-cleveland-ohio-03-16-2024/event/0500604CABD83B3E]]></description>
+            <link>https://concerts.livenation.com/bohemian-rhapsody-a-celebration-of-queen-cleveland-ohio-03-16-2024/event/0500604CABD83B3E</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/bohemian-rhapsody-a-celebration-of-queen-cleveland-ohio-03-16-2024/event/0500604CABD83B3E</guid>
+            <pubDate>Sat, 16 Mar 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gasolina: Reggaeton Party at House of Blues]]></title>
             <description><![CDATA[Get tickets to Gasolina: Reggaeton Party at House of Blues on Friday, March 22, 2024, 09:00 PM: https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-03-22-2024/event/0500602BA8642073]]></description>
             <link>https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-03-22-2024/event/0500602BA8642073</link>
@@ -3344,13 +3358,6 @@
             <link>https://concerts.livenation.com/say-anything-is-a-real-boy-cleveland-ohio-05-14-2024/event/05005F75BF37230B</link>
             <guid isPermaLink="true">https://concerts.livenation.com/say-anything-is-a-real-boy-cleveland-ohio-05-14-2024/event/05005F75BF37230B</guid>
             <pubDate>Tue, 14 May 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kamelot: Awaken The World Tour 2024 at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Kamelot: Awaken The World Tour 2024 at House of Blues on Saturday, May 18, 2024, 06:00 PM: https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A]]></description>
-            <link>https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A</guid>
-            <pubDate>Sat, 18 May 2024 18:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

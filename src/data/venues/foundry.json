@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Emo Night Karaoke"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/emo-night-karaoke/",
-    "date": "2024-02-16T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "TRE FEST"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/tre-fest/",
-    "date": "2024-02-17T17:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-7/",
-    "date": "2024-02-19T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Cast Iron Comedy Showcase"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
@@ -49,7 +25,7 @@
   },
   {
     "artist": [
-      "The Wise Man\u2019s Fear, Softspoken, Fear Culture, Adrift On River Styx"
+      "The Wise Man\u2019s Fear, Softspoken, MORNING IN MAY, Adrift On River Styx"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/",
     "date": "2024-02-24T19:00:00",
@@ -61,6 +37,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show/",
     "date": "2024-02-25T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/",
+    "date": "2024-02-26T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -113,14 +97,6 @@
   },
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-10/",
-    "date": "2024-03-11T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Weeping Wound, Wiltwither, cohen_noise, Narcissus"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/",
@@ -137,6 +113,14 @@
   },
   {
     "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/",
+    "date": "2024-03-18T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Death Lens, The Rosies, Honey Pocket"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/",
@@ -145,7 +129,7 @@
   },
   {
     "artist": [
-      "Native Sons, Lilieae, Vernotica"
+      "Native Sons, Lilieae, Vernotica, Billy Morris and the Sunset Strip"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/native-sons-lilieae-vernotica/",
     "date": "2024-03-21T19:00:00",

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Portugal. The Man, Snacktime"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/508347",
-    "date": "2024-02-17T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Static-X and Sevendust, Dope, Lines Of Loyalty"
     ],
     "link": "https://www.agoracleveland.com/events/detail/503221",
@@ -141,6 +133,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/520431",
     "date": "2024-04-25T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Portugal. The Man, Snacktime"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/508347",
+    "date": "2024-04-26T19:00:00",
     "venue": "Agora"
   },
   {

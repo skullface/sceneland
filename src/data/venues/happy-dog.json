@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Comedy Night in the Underdog!"
-    ],
-    "link": "https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117",
-    "date": "2024-02-15T19:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "The Magnavox's, ORPHANS, Bleeder, Loose Vice"
-    ],
-    "link": "https://www.eventbrite.com/e/the-magnavoxs-orphans-bleeder-loose-vice-tickets-817638377397",
-    "date": "2024-02-16T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "MUDD, Ten02, Dive Bombs"
-    ],
-    "link": "https://www.eventbrite.com/e/mudd-ten02-dive-bombs-tickets-817603543207",
-    "date": "2024-02-17T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Classical Revolution Cleveland"
     ],
     "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847",
@@ -77,6 +53,30 @@
     ],
     "link": "https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047",
     "date": "2024-03-01T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Lowspot single release w/ Ace of Wands, Fawx, Wig Doubt"
+    ],
+    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-wig-doubt-tickets-825979104737",
+    "date": "2024-03-02T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Happy Dog Takes on Everything"
+    ],
+    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927",
+    "date": "2024-03-06T19:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Omni, This Is Lorelei, Suitor"
+    ],
+    "link": "https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607",
+    "date": "2024-03-08T21:00:00",
     "venue": "Happy Dog"
   }
 ]

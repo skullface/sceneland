@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Mega 80's"
-    ],
-    "link": "https://concerts.livenation.com/the-mega-80s-cleveland-ohio-02-16-2024/event/05005F85B6474BCC",
-    "date": "2024-02-16T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Saved By The 90's"
-    ],
-    "link": "https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-02-17-2024/event/05005F6EB0E520F8",
-    "date": "2024-02-17T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Veeze: Navy Wavy Presents: The Ganger Tour: Phase 2"
     ],
     "link": "https://concerts.livenation.com/veeze-navy-wavy-presents-the-ganger-cleveland-ohio-02-23-2024/event/05005F7D8FA011D9",
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/say-anything-is-a-real-boy-cleveland-ohio-05-14-2024/event/05005F75BF37230B",
     "date": "2024-05-14T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Kamelot: Awaken The World Tour 2024"
+    ],
+    "link": "https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A",
+    "date": "2024-05-18T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Kid Kapichi: North America 2024"
+    ],
+    "link": "https://concerts.livenation.com/kid-kapichi-north-america-2024-cleveland-ohio-05-18-2024/event/050060389EB046A1",
+    "date": "2024-05-18T19:30:00",
     "venue": "House of Blues"
   }
 ]

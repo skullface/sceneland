@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "John Crist"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/john-crist-1",
-    "date": "2024-02-18",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Flanagan's Wake"
     ],
     "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-2",
@@ -65,14 +57,6 @@
   },
   {
     "artist": [
-      "Brett Goldstein"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/brett-goldstein",
-    "date": "2024-04-26",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Marc Maron"
     ],
     "link": "https://www.playhousesquare.org/events/detail/marc-maron-1",
@@ -85,6 +69,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2",
     "date": "2024-06-01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Brett Goldstein"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/brett-goldstein",
+    "date": "2024-08-24",
     "venue": "Playhouse Square"
   },
   {

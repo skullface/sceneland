@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Jo Dee Messina \u2013 Heads Carolina, Tails California Tour"
-    ],
-    "link": "https://www.ticketmaster.com/jo-dee-messina-heads-carolina-tails-cleveland-ohio-02-16-2024/event/05005F63BBA85794",
-    "date": "2024-02-16T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Jack Lutz"
-    ],
-    "link": "https://www.ticketmaster.com/jack-lutz-cleveland-ohio-02-17-2024/event/05006026B3D72ED9",
-    "date": "2024-02-17T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "SABAI"
     ],
     "link": "https://www.ticketmaster.com/sabai-cleveland-ohio-02-29-2024/event/05005F669F411619",
@@ -73,6 +57,14 @@
   },
   {
     "artist": [
+      "Shamrock Soiree"
+    ],
+    "link": "https://www.ticketmaster.com/shamrock-soiree-cleveland-ohio-03-15-2024/event/050060523EB88608",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Emo Nite \u2013 Cleveland, OH"
     ],
     "link": "https://www.ticketmaster.com/emo-nite-cleveland-oh-cleveland-ohio-03-15-2024/event/05006024D9E93A88",
@@ -104,15 +96,15 @@
     "venue": "Masonic Temple"
   },
   {
-    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
-    "date": "2024-03-22T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
     "artist": [
       "William Black"
     ],
     "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
+    "date": "2024-03-22T19:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
     "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   },
@@ -190,17 +182,17 @@
   },
   {
     "artist": [
-      "EMO ORCHESTRA featuring ESCAPE THE FATE"
+      "TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed"
     ],
-    "link": "https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853",
+    "link": "https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5",
     "date": "2024-04-19T20:00:00",
     "venue": "Masonic Temple"
   },
   {
     "artist": [
-      "TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed"
+      "EMO ORCHESTRA featuring ESCAPE THE FATE"
     ],
-    "link": "https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5",
+    "link": "https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853",
     "date": "2024-04-19T20:00:00",
     "venue": "Masonic Temple"
   },

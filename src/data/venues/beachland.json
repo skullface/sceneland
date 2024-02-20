@@ -1,69 +1,6 @@
 [
   {
     "artist": [
-      "Mia x Ally"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13865838/mia-x-ally",
-    "date": "2024-02-14T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Yuma Abe",
-      "Songs for an Unknown God",
-      "DJ Teddy Eisenberg"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13267023/yuma-abe-songs-for-an-unknown-god-dj-teddy-eisenberg",
-    "date": "2024-02-15T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Northeast Ohio Worker Center Fundraiser"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13376913/northeast-ohio-worker-center-fundraiser",
-    "date": "2024-02-16T19:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Orange Animal",
-      "Nicholas Johnson and the Same Old Strangers",
-      "Taylor Lamborn"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13379983/orange-animal-nicholas-johnson-and-the-same-old-strangers-taylor-lamborn",
-    "date": "2024-02-16T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "That 1 Guy"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13255093/that-1-guy",
-    "date": "2024-02-17T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Josh Meloy",
-      "Wyatt Baker"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13857318/josh-meloy-wyatt-baker",
-    "sold_out": true,
-    "date": "2024-02-17T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Beachland Brunch",
-      "DJ Andy Hart spinning Soul 45s"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13498603/beachland-brunch-dj-andy-hart-spinning-soul-45s",
-    "date": "2024-02-18T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Stick Men",
       "CuDa, Schief & CuDa"
     ],
@@ -110,9 +47,10 @@
   },
   {
     "artist": [
-      "Beachland Brunch"
+      "Beachland Brunch",
+      "DJ Ed Zeitz (WRUW's Chasing Infinity)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13518193/beachland-brunch",
+    "link": "https://www.beachlandballroom.com/e/13518193/beachland-brunch-dj-ed-zeitz-wruw-s-chasing-infinity-",
     "date": "2024-02-25T11:00:00",
     "venue": "Beachland Tavern"
   },
@@ -197,6 +135,15 @@
     "sold_out": true,
     "date": "2024-03-02T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Brunch",
+      "DJ Rachel Hunt (WRUW)"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13538493/beachland-brunch-dj-rachel-hunt-wruw-",
+    "date": "2024-03-03T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -337,6 +284,17 @@
   },
   {
     "artist": [
+      "LUV",
+      "FACE",
+      "Nxbdy",
+      "Y.A.Y.A."
+    ],
+    "link": "https://www.beachlandballroom.com/e/13534923/luv-face-nxbdy-y-a-y-a-",
+    "date": "2024-03-16T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Jake Xerxes Fussell"
     ],
     "link": "https://www.beachlandballroom.com/e/13510753/jake-xerxes-fussell",
@@ -410,9 +368,10 @@
   },
   {
     "artist": [
-      "Shovels & Rope"
+      "Shovels & Rope",
+      "Al Olender"
     ],
-    "link": "https://www.beachlandballroom.com/e/13856508/shovels-rope",
+    "link": "https://www.beachlandballroom.com/e/13856508/shovels-rope-al-olender",
     "date": "2024-03-24T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -427,11 +386,15 @@
   },
   {
     "artist": [
+      "Charles DC Carnes and the DC3",
       "Austin \"Walkin\" Cane",
       "Colin Dussault",
-      "Hosted by DC Carnes and the DC3"
+      "MC Bob Frank",
+      "Gene Schwartz",
+      "Benny Mostella Jr",
+      "Charlie Christopherson"
     ],
-    "link": "https://www.beachlandballroom.com/e/13460663/austin-walkin-cane-colin-dussault-hosted-by-dc-carnes-and-the-dc3",
+    "link": "https://www.beachlandballroom.com/e/13460663/charles-dc-carnes-and-the-dc3-austin-walkin-cane-colin-dussault-mc-bob-frank-gene-schwartz-benny-mostella-jr-charlie-christopherson",
     "date": "2024-03-27T19:30:00",
     "venue": "Beachland Ballroom"
   },
@@ -599,9 +562,10 @@
   },
   {
     "artist": [
-      "A Thousand Horses"
+      "A Thousand Horses",
+      "Reckless Highway"
     ],
-    "link": "https://www.beachlandballroom.com/e/13315403/a-thousand-horses",
+    "link": "https://www.beachlandballroom.com/e/13315403/a-thousand-horses-reckless-highway",
     "date": "2024-04-12T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -640,6 +604,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force",
     "date": "2024-04-14T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Earthless",
+      "Minami Deutsch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13519183/earthless-minami-deutsch",
+    "date": "2024-04-15T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -775,6 +748,14 @@
   },
   {
     "artist": [
+      "Rickshaw Billie's Burger Patrol"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13518803/rickshaw-billie-s-burger-patrol",
+    "date": "2024-04-30T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "The Arcadian Wild"
     ],
     "link": "https://www.beachlandballroom.com/e/13442823/the-arcadian-wild",
@@ -827,10 +808,9 @@
   },
   {
     "artist": [
-      "Illiterate Light",
-      "Spirit Of The Bear"
+      "Illiterate Light"
     ],
-    "link": "https://www.beachlandballroom.com/e/13420503/illiterate-light-spirit-of-the-bear",
+    "link": "https://www.beachlandballroom.com/e/13420503/illiterate-light",
     "date": "2024-05-09T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -900,6 +880,14 @@
     "link": "https://www.beachlandballroom.com/e/13510393/avi-kaplan",
     "date": "2024-06-12T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jason Ricci & The Bad Kind"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13538713/jason-ricci-the-bad-kind",
+    "date": "2024-06-15T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

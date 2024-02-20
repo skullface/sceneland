@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "RINGWORM"
-    ],
-    "link": "https://www.eventbrite.com/e/ringworm-tickets-812628552877",
-    "date": "2024-02-16T20:00:00",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "N69 FEST"
     ],
     "link": "https://www.eventbrite.com/e/n69-fest-tickets-788633583277",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.eventbrite.com/e/spectral-voice-tickets-832656547147",
     "date": "2024-05-15T19:00:00",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "INCANTATION"
+    ],
+    "link": "https://www.eventbrite.com/e/incantation-tickets-841778962537",
+    "date": "2024-05-19T17:00:00",
     "venue": "No Class"
   }
 ]

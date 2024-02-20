@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Flanagan's Wake"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-2",
-    "date": "2024-01-05",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "John Crist"
     ],
     "link": "https://www.playhousesquare.org/events/detail/john-crist-1",
     "date": "2024-02-18",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Flanagan's Wake"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-2",
+    "date": "2024-01-05",
     "venue": "Playhouse Square"
   },
   {
@@ -49,6 +49,14 @@
   },
   {
     "artist": [
+      "An Evening with Phil Rosenthal of \"Somebody Feed Phil\""
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/phil-rosenthal",
+    "date": "2024-04-25",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Ronny Chieng"
     ],
     "link": "https://www.playhousesquare.org/events/detail/ronny-chieng",
@@ -73,18 +81,10 @@
   },
   {
     "artist": [
-      "Ms. Pat: Ya Girl Done Made It"
+      "Joshua Seth - Mentalist"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/ms-pat-ya-girl-done-made-it",
-    "date": "2024-02-02",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Tamia & Joe"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/tamia-joe",
-    "date": "2024-02-10",
+    "link": "https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2",
+    "date": "2024-06-01",
     "venue": "Playhouse Square"
   },
   {
@@ -109,14 +109,6 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/black-violin-the-experience-tour",
     "date": "2024-03-23",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Fan Love Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/fan-love-tour",
-    "date": "2024-03-24",
     "venue": "Playhouse Square"
   },
   {
@@ -169,6 +161,14 @@
   },
   {
     "artist": [
+      "C.S. Lewis On Stage"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/cs-lewis-on-stage",
+    "date": "2024-05-11",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Mother's Day Celebration"
     ],
     "link": "https://www.playhousesquare.org/events/detail/mothers-day-celebration",
@@ -181,6 +181,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/loud-and-proud-starring-nina-west",
     "date": "2024-06-01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Boney James"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/boney-james-1",
+    "date": "2024-08-22",
     "venue": "Playhouse Square"
   }
 ]

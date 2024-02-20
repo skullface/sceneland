@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Tallgrass"
-    ],
-    "link": "https://www.ticketmaster.com/tallgrass-cleveland-ohio-02-02-2024/event/05005F8F0F186A65",
-    "date": "2024-02-02T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "Bittersweet Revenge"
-    ],
-    "link": "https://www.ticketmaster.com/bittersweet-revenge-cleveland-ohio-02-10-2024/event/05005F9F9E2C1B0C",
-    "date": "2024-02-10T20:00:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
-      "The Dead South"
-    ],
-    "link": "https://www.ticketmaster.com/the-dead-south-cleveland-ohio-02-12-2024/event/05005F3AD6E61D3F",
-    "date": "2024-02-12T19:30:00",
-    "venue": "Masonic Temple"
-  },
-  {
-    "artist": [
       "Jo Dee Messina \u2013 Heads Carolina, Tails California Tour"
     ],
     "link": "https://www.ticketmaster.com/jo-dee-messina-heads-carolina-tails-cleveland-ohio-02-16-2024/event/05005F63BBA85794",
@@ -150,6 +126,14 @@
   },
   {
     "artist": [
+      "Talib Kweli"
+    ],
+    "link": "https://www.ticketmaster.com/talib-kweli-cleveland-ohio-03-23-2024/event/0500604282A64CB1",
+    "date": "2024-03-23T21:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Darkest Hour"
     ],
     "link": "https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643",
@@ -182,6 +166,14 @@
   },
   {
     "artist": [
+      "BLANKE \u2013 EARTH TO THE STARS: EMERGENCE CLEVELAND"
+    ],
+    "link": "https://www.ticketmaster.com/blanke-earth-to-the-stars-emergence-cleveland-ohio-04-06-2024/event/0500603F278D6AFA",
+    "date": "2024-04-06T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Gimme Sugar & Mister Breeze"
     ],
     "link": "https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546",
@@ -190,9 +182,17 @@
   },
   {
     "artist": [
+      "Josey Scott\u2019s Saliva"
+    ],
+    "link": "https://www.ticketmaster.com/josey-scotts-saliva-cleveland-ohio-04-18-2024/event/0500603A092574D4",
+    "date": "2024-04-18T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "EMO ORCHESTRA featuring ESCAPE THE FATE"
     ],
-    "link": "https://www.ticketmaster.com/emo-orchestra-featuring-escape-the-fate-cleveland-ohio-04-19-2024/event/050060333A828853",
+    "link": "https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853",
     "date": "2024-04-19T20:00:00",
     "venue": "Masonic Temple"
   },
@@ -246,6 +246,14 @@
   },
   {
     "artist": [
+      "Into the Blue (ELO Tribute)"
+    ],
+    "link": "https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3",
+    "date": "2024-05-11T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Rodrigo y Gabriela"
     ],
     "link": "https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280",
@@ -258,6 +266,14 @@
     ],
     "link": "https://www.ticketmaster.com/the-alarm-live-today-love-tomorrow-cleveland-ohio-05-15-2024/event/0500603004A24A65",
     "date": "2024-05-15T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "The Pancakes & Booze Art Show"
+    ],
+    "link": "https://www.ticketmaster.com/the-pancakes-booze-art-show-cleveland-ohio-05-18-2024/event/0500604277C6126C",
+    "date": "2024-05-18T20:00:00",
     "venue": "Masonic Temple"
   },
   {
@@ -278,10 +294,26 @@
   },
   {
     "artist": [
+      "Lake Street Dive: Good Together Tour"
+    ],
+    "link": "https://www.ticketmaster.com/lake-street-dive-good-together-tour-cleveland-ohio-07-09-2024/event/0500603AFC5F6DDE",
+    "date": "2024-07-09T20:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Henry Cho \u2013 From Here To There Tour 2024"
     ],
     "link": "https://www.ticketmaster.com/henry-cho-from-here-to-there-cleveland-ohio-07-27-2024/event/05006026BE69371F",
     "date": "2024-07-27T20:30:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Couples Therapy"
+    ],
+    "link": "https://www.ticketmaster.com/couples-therapy-cleveland-ohio-10-19-2024/event/05006042A39E61EF",
+    "date": "2024-10-19T20:00:00",
     "venue": "Masonic Temple"
   }
 ]

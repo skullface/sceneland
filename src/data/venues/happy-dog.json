@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "artist": [
+      "Comedy Night in the Underdog!"
+    ],
+    "link": "https://www.eventbrite.com/e/comedy-night-in-the-underdog-tickets-825951482117",
+    "date": "2024-02-15T19:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Magnavox's, ORPHANS, Bleeder, Loose Vice"
+    ],
+    "link": "https://www.eventbrite.com/e/the-magnavoxs-orphans-bleeder-loose-vice-tickets-817638377397",
+    "date": "2024-02-16T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "MUDD, Ten02, Dive Bombs"
+    ],
+    "link": "https://www.eventbrite.com/e/mudd-ten02-dive-bombs-tickets-817603543207",
+    "date": "2024-02-17T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Classical Revolution Cleveland"
+    ],
+    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847",
+    "date": "2024-02-21T20:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Gamma Ray, Funeral Proposals, Henry Morris Band"
+    ],
+    "link": "https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777",
+    "date": "2024-02-22T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Doug McKean & The Stuntmen, Joshua Jesty, Ruby Rose"
+    ],
+    "link": "https://www.eventbrite.com/e/doug-mckean-the-stuntmen-joshua-jesty-ruby-rose-tickets-817663512577",
+    "date": "2024-02-23T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Ripperfest: YDI, Primitive Impulse, Mower, Lady Parts, Leaking Head +"
+    ],
+    "link": "https://www.eventbrite.com/e/ripperfest-ydi-primitive-impulse-mower-lady-parts-leaking-head-tickets-770657004847",
+    "date": "2024-02-25T17:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "DJ Kishka: One Month til Dyngus Party!"
+    ],
+    "link": "https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607",
+    "date": "2024-03-01T18:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Live Hip-Hop Showcase in the Underdog!"
+    ],
+    "link": "https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197",
+    "date": "2024-03-01T18:30:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Sensor Ghost, The Insect, Honolulu High"
+    ],
+    "link": "https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047",
+    "date": "2024-03-01T21:00:00",
+    "venue": "Happy Dog"
+  }
+]

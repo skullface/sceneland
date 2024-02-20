@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Get The Led Out"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/507064",
-    "date": "2024-02-01T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Kameron Marlowe"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/511283",
-    "date": "2024-02-09T18:30:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Neck Deep, DRAIN, Bearings, Higher Power"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/505282",
-    "date": "2024-02-14T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Portugal. The Man, Snacktime"
     ],
     "link": "https://www.agoracleveland.com/events/detail/508347",
@@ -113,7 +89,7 @@
   },
   {
     "artist": [
-      "Kai Wachi Presents Morphosia Tour"
+      "Kai Wachi Presents Morphosia Tour, Prosecute, Nimda"
     ],
     "link": "https://www.agoracleveland.com/events/detail/519381",
     "date": "2024-03-23T20:00:00",
@@ -137,7 +113,7 @@
   },
   {
     "artist": [
-      "Alvvays"
+      "Alvvays, Spllit"
     ],
     "link": "https://www.agoracleveland.com/events/detail/519545",
     "date": "2024-04-18T19:00:00",
@@ -193,6 +169,14 @@
   },
   {
     "artist": [
+      "Trey Anastasio and Classic TAB"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/530002",
+    "date": "2024-05-15T18:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Blind Guardian, Night Demon"
     ],
     "link": "https://www.agoracleveland.com/events/detail/517799",
@@ -201,10 +185,18 @@
   },
   {
     "artist": [
-      "Mr. Big"
+      "Mr. Big, Shawn Perry"
     ],
     "link": "https://www.agoracleveland.com/events/detail/526774",
     "date": "2024-05-24T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Knocked Loose, Loathe, Show Me The Body, SPEED"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/528579",
+    "date": "2024-05-25T18:00:00",
     "venue": "Agora"
   },
   {
@@ -237,6 +229,22 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/520827",
     "date": "2024-07-28T18:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Iron & Wine"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/529331",
+    "date": "2024-08-20T18:30:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "POWERWOLF, Unleash the Archers"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/529652",
+    "date": "2024-09-04T19:00:00",
     "venue": "Agora"
   }
 ]

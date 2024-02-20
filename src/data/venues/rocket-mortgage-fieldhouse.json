@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Madonna: The Celebration Tour"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/madonna-the-celebration-tour-240208",
-    "date": "2024-02-08",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
       "15th Annual Cleveland Bridal Show",
       "Presented By TL Worldwide Transportation"
     ],
@@ -23,6 +15,14 @@
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309",
     "date": "2024-03-09",
+    "venue": "Rocket Mortgage FieldHouse"
+  },
+  {
+    "artist": [
+      "2024 Mid-American Conference Block Party"
+    ],
+    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/2024-mac-block-party",
+    "date": "2024-03-15",
     "venue": "Rocket Mortgage FieldHouse"
   },
   {
@@ -45,8 +45,8 @@
   },
   {
     "artist": [
-      "AJR",
-      "The Maybe Man Tour"
+      "AJR: The Maybe Man Tour",
+      "Special Guests mxmtoon and Almost Monday"
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627",
     "date": "2024-06-27",
@@ -59,6 +59,15 @@
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707",
     "date": "2024-07-07",
+    "venue": "Rocket Mortgage FieldHouse"
+  },
+  {
+    "artist": [
+      "Creed: Are You Ready? Tour",
+      "Special Guests 3 Doors Down & Mammoth WVH"
+    ],
+    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122",
+    "date": "2024-11-22",
     "venue": "Rocket Mortgage FieldHouse"
   },
   {

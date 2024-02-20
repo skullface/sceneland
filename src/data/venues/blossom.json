@@ -1,6 +1,14 @@
 [
   {
     "artist": [
+      "2024 Premium Season Tickets"
+    ],
+    "link": "https://premium.livenation.com/venue/blossom-music-center",
+    "date": "2024-04-01T00:00:01",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
       "Noah Kahan: We'll All Be Here Forever Tour"
     ],
     "link": "https://concerts.livenation.com/noah-kahan-well-all-be-here-cuyahoga-falls-ohio-05-28-2024/event/05005F33F78770D0",
@@ -52,7 +60,7 @@
       "Dave Matthews Band"
     ],
     "link": "https://concerts.livenation.com/dave-matthews-band-cuyahoga-falls-ohio-06-25-2024/event/05005F85C5625046",
-    "date": "2024-06-25T19:00:00",
+    "date": "2024-06-25T19:30:00",
     "venue": "Blossom"
   },
   {
@@ -69,6 +77,22 @@
     ],
     "link": "https://concerts.livenation.com/third-eye-blind-with-special-guest-cuyahoga-falls-ohio-07-05-2024/event/05005F8F13CF6CD6",
     "date": "2024-07-05T18:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Luke Bryan: Mind of a Country Boy Tour 2024"
+    ],
+    "link": "https://concerts.livenation.com/luke-bryan-mind-of-a-country-cuyahoga-falls-ohio-07-12-2024/event/0500603E047E5BCD",
+    "date": "2024-07-12T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Train & REO Speedwagon: Summer Road Trip 2024"
+    ],
+    "link": "https://concerts.livenation.com/train-reo-speedwagon-summer-road-trip-cuyahoga-falls-ohio-07-15-2024/event/05006037009167A7",
+    "date": "2024-07-15T18:25:00",
     "venue": "Blossom"
   },
   {
@@ -93,6 +117,14 @@
     ],
     "link": "https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F",
     "date": "2024-07-22T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Totally Tubular Festival"
+    ],
+    "link": "https://concerts.livenation.com/totally-tubular-festival-cuyahoga-falls-ohio-07-28-2024/event/05006047069B50E1",
+    "date": "2024-07-28T18:00:00",
     "venue": "Blossom"
   },
   {
@@ -141,6 +173,14 @@
     ],
     "link": "https://concerts.livenation.com/the-doobie-brothers-2024-cuyahoga-falls-ohio-08-22-2024/event/0500602C8F011833",
     "date": "2024-08-22T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Rob Zombie and Alice Cooper: Freaks on Parade 2024 Tour"
+    ],
+    "link": "https://concerts.livenation.com/rob-zombie-and-alice-cooper-freaks-cuyahoga-falls-ohio-08-28-2024/event/0500602A348A58D5",
+    "date": "2024-08-28T18:00:00",
     "venue": "Blossom"
   },
   {

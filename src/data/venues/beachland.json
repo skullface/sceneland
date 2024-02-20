@@ -1,188 +1,6 @@
 [
   {
     "artist": [
-      "Jinari Kemet",
-      "Zup",
-      "akaFayaven",
-      "Marcus Smith",
-      "Hosted by Toby Raps"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13307723/jinari-kemet-zup-akafayaven-marcus-smith-hosted-by-toby-raps",
-    "date": "2024-01-26T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Private Event"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13387683/private-event",
-    "date": "2024-01-26T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Soiree of the Stallions Charity Concert",
-      "The Reign of Kindo",
-      "Chalk Dinosaur",
-      "Juniper",
-      "Apostle Jones",
-      "The Ice Cream Militia",
-      "Slag Genie",
-      "Abstract Sounds",
-      "Cellophane Jane"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13603518/soiree-of-the-stallions-charity-concert-the-reign-of-kindo-chalk-dinosaur-juniper-apostle-jones-the-ice-cream-militia-slag-genie-abstract-sounds-cellophane-jane",
-    "date": "2024-01-27T15:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "School of Rock"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13285403/school-of-rock",
-    "date": "2024-01-28T11:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Beachland Brunch"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13438183/beachland-brunch",
-    "date": "2024-01-28T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Sam Hooper Group"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13424803/sam-hooper-group",
-    "date": "2024-01-31T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Mark Gamsjager & the Lustre Kings",
-      "DJ Mittenclips"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13434823/mark-gamsjager-the-lustre-kings-dj-mittenclips",
-    "date": "2024-02-01T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Post Party",
-      "Minka"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13464543/post-party-minka",
-    "date": "2024-02-02T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Bumpin Uglies",
-      "The Grilled Lincolns",
-      "Higher Education"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13649028/bumpin-uglies-the-grilled-lincolns-higher-education",
-    "date": "2024-02-02T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Beachland Brunch"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13456463/beachland-brunch",
-    "date": "2024-02-03T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Post Party",
-      "Joint Operation"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13383653/post-party-joint-operation",
-    "date": "2024-02-03T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Bumpin Uglies",
-      "TobyRaps",
-      "C-Level"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13649068/bumpin-uglies-tobyraps-c-level",
-    "sold_out": true,
-    "date": "2024-02-03T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Shotgun Bowl 2",
-      "Olathia",
-      "Destructor",
-      "Wyld Timez",
-      "Punching Moses",
-      "Rip Ryde",
-      "Wrath Icon",
-      "Dysplacer",
-      "Idol Throne"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13367543/shotgun-bowl-2-olathia-destructor-wyld-timez-punching-moses-rip-ryde-wrath-icon-dysplacer-idol-throne",
-    "date": "2024-02-04T14:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "The Kind Thieves",
-      "The Rustbelt Ragtops"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13376353/the-kind-thieves-the-rustbelt-ragtops",
-    "date": "2024-02-08T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Pre/Post Party with goor\u00fc"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13473453/pre-post-party-with-goor-",
-    "date": "2024-02-09T18:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Keller Williams"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13468278/keller-williams",
-    "date": "2024-02-09T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Dupree's Dead Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13383043/dupree-s-dead-band",
-    "date": "2024-02-10T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "13th Annual Sweetheart Showcase: Strip-o-rama"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13410123/13th-annual-sweetheart-showcase-strip-o-rama",
-    "date": "2024-02-10T20:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Deap Vally",
-      "Sloppy Jane"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13644328/deap-vally-sloppy-jane",
-    "date": "2024-02-13T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Mia x Ally"
     ],
     "link": "https://www.beachlandballroom.com/e/13865838/mia-x-ally",
@@ -227,11 +45,22 @@
   },
   {
     "artist": [
-      "Josh Meloy"
+      "Josh Meloy",
+      "Wyatt Baker"
     ],
-    "link": "https://www.beachlandballroom.com/e/13857318/josh-meloy",
+    "link": "https://www.beachlandballroom.com/e/13857318/josh-meloy-wyatt-baker",
+    "sold_out": true,
     "date": "2024-02-17T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Brunch",
+      "DJ Andy Hart spinning Soul 45s"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13498603/beachland-brunch-dj-andy-hart-spinning-soul-45s",
+    "date": "2024-02-18T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -272,10 +101,19 @@
   },
   {
     "artist": [
-      "Ike Reilly"
+      "Ike Reilly",
+      "Johnny Stanec"
     ],
-    "link": "https://www.beachlandballroom.com/e/13388693/ike-reilly",
+    "link": "https://www.beachlandballroom.com/e/13388693/ike-reilly-johnny-stanec",
     "date": "2024-02-24T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13518193/beachland-brunch",
+    "date": "2024-02-25T11:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -317,6 +155,14 @@
   },
   {
     "artist": [
+      "15-60-75 (The Numbers Band)"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13485963/15-60-75-the-numbers-band-",
+    "date": "2024-02-29T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "King Buffalo",
       "If These Trees Could Talk"
     ],
@@ -332,6 +178,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13368053/the-alarm-clocks-simon-the-apparatus-dj-erin-ryan-wcsb-s-bomb-the-twist-",
     "date": "2024-03-01T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "DaLand Brass Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13486023/daland-brass-band",
+    "date": "2024-03-02T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -373,17 +227,30 @@
   },
   {
     "artist": [
-      "Bobby Rush"
+      "Dishwasher Possum",
+      "Seconds Away",
+      "Jack Lutz"
     ],
-    "link": "https://www.beachlandballroom.com/e/13420333/bobby-rush",
+    "link": "https://www.beachlandballroom.com/e/13510273/dishwasher-possum-seconds-away-jack-lutz",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Bobby Rush",
+      "Austin \"Walkin\" Cane",
+      "DJ Pete London"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13420333/bobby-rush-austin-walkin-cane-dj-pete-london",
     "date": "2024-03-07T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
     "artist": [
-      "Laveda"
+      "Laveda",
+      "Youth Pallet"
     ],
-    "link": "https://www.beachlandballroom.com/e/13457343/laveda",
+    "link": "https://www.beachlandballroom.com/e/13457343/laveda-youth-pallet",
     "date": "2024-03-07T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -394,6 +261,23 @@
     "link": "https://www.beachlandballroom.com/e/13342463/ekoostik-hookah",
     "date": "2024-03-08T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Whiskey Throttle"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13498933/whiskey-throttle",
+    "date": "2024-03-08T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Abstract Sounds",
+      "Thicarus"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13479003/abstract-sounds-thicarus",
+    "date": "2024-03-09T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -415,12 +299,21 @@
   },
   {
     "artist": [
-      "Tophouse",
-      "Good Morning Bedlam"
+      "Tophouse"
     ],
-    "link": "https://www.beachlandballroom.com/e/13718918/tophouse-good-morning-bedlam",
+    "link": "https://www.beachlandballroom.com/e/13718918/tophouse",
     "date": "2024-03-14T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Lea Marra & the River Boys",
+      "Chloe & the Steel Strings",
+      "Dave Ziggy"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13477643/lea-marra-the-river-boys-chloe-the-steel-strings-dave-ziggy",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -435,10 +328,19 @@
   {
     "artist": [
       "The Dollyrots",
+      "The Boreouts",
       "Detention"
     ],
-    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots-detention",
+    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots-the-boreouts-detention",
     "date": "2024-03-16T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Jake Xerxes Fussell"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13510753/jake-xerxes-fussell",
+    "date": "2024-03-18T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -498,6 +400,16 @@
   },
   {
     "artist": [
+      "CHERRY!",
+      "Electric Dream Machine",
+      "DRVYN"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13526713/cherry-electric-dream-machine-drvyn",
+    "date": "2024-03-23T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Shovels & Rope"
     ],
     "link": "https://www.beachlandballroom.com/e/13856508/shovels-rope",
@@ -534,9 +446,10 @@
   },
   {
     "artist": [
-      "Andrea Von Kampen"
+      "Andrea Von Kampen",
+      "American Darling"
     ],
-    "link": "https://www.beachlandballroom.com/e/13435253/andrea-von-kampen",
+    "link": "https://www.beachlandballroom.com/e/13435253/andrea-von-kampen-american-darling",
     "date": "2024-03-29T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -547,6 +460,14 @@
     "link": "https://www.beachlandballroom.com/e/13318033/grateful-for-biggie",
     "date": "2024-03-30T20:30:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Nouveau Decadence: A 20th Anniversary Burlesque Revue"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13494833/nouveau-decadence-a-20th-anniversary-burlesque-revue",
+    "date": "2024-03-30T20:30:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -613,6 +534,15 @@
   },
   {
     "artist": [
+      "Jackie Greene",
+      "Cousin Curtis"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13465233/jackie-greene-cousin-curtis",
+    "date": "2024-04-06T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Adam Paddock",
       "The Meatball Mob",
       "Flavor Wave",
@@ -633,26 +563,38 @@
   },
   {
     "artist": [
-      "Nicotine Dolls"
+      "Nicotine Dolls",
+      "Brooke Alexx"
     ],
-    "link": "https://www.beachlandballroom.com/e/13323663/nicotine-dolls",
+    "link": "https://www.beachlandballroom.com/e/13323663/nicotine-dolls-brooke-alexx",
     "date": "2024-04-08T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
     "artist": [
-      "The Thing"
+      "The Thing",
+      "The Yellow Elevators"
     ],
-    "link": "https://www.beachlandballroom.com/e/13283793/the-thing",
+    "link": "https://www.beachlandballroom.com/e/13283793/the-thing-the-yellow-elevators",
     "date": "2024-04-10T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
     "artist": [
-      "The Motet"
+      "The Motet",
+      "YAM YAM"
     ],
-    "link": "https://www.beachlandballroom.com/e/13434893/the-motet",
+    "link": "https://www.beachlandballroom.com/e/13434893/the-motet-yam-yam",
     "date": "2024-04-10T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "DC the Don",
+      "midwxst"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13485613/dc-the-don-midwxst",
+    "date": "2024-04-11T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -685,6 +627,14 @@
   },
   {
     "artist": [
+      "The Local Honeys"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13498823/the-local-honeys",
+    "date": "2024-04-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Caroline Rose",
       "La Force"
     ],
@@ -694,9 +644,10 @@
   },
   {
     "artist": [
-      "Qwanqwa"
+      "Qwanqwa",
+      "Church of the Starry Wisdom"
     ],
-    "link": "https://www.beachlandballroom.com/e/13324263/qwanqwa",
+    "link": "https://www.beachlandballroom.com/e/13324263/qwanqwa-church-of-the-starry-wisdom",
     "date": "2024-04-16T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -711,9 +662,10 @@
   },
   {
     "artist": [
-      "Ruen Brothers"
+      "Ruen Brothers",
+      "Poro"
     ],
-    "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers",
+    "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers-poro",
     "date": "2024-04-17T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -752,9 +704,10 @@
   },
   {
     "artist": [
-      "BODEGA"
+      "BODEGA",
+      "Total Downer"
     ],
-    "link": "https://www.beachlandballroom.com/e/13399993/bodega",
+    "link": "https://www.beachlandballroom.com/e/13399993/bodega-total-downer",
     "date": "2024-04-22T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -785,9 +738,20 @@
   },
   {
     "artist": [
-      "Allah-Las"
+      "Angela Perley",
+      "Handsome Jack"
     ],
-    "link": "https://www.beachlandballroom.com/e/13400073/allah-las",
+    "link": "https://www.beachlandballroom.com/e/13519323/angela-perley-handsome-jack",
+    "date": "2024-04-25T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Allah-Las",
+      "Maston",
+      "Reverberation Radio"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13400073/allah-las-maston-reverberation-radio",
     "date": "2024-04-26T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -819,6 +783,14 @@
   },
   {
     "artist": [
+      "The Garcia Project"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13477453/the-garcia-project",
+    "date": "2024-05-02T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Ty Segall",
       "Sharpie Smile"
     ],
@@ -831,6 +803,7 @@
       "Varietopia with Paul F. Tompkins"
     ],
     "link": "https://www.beachlandballroom.com/e/13434413/varietopia-with-paul-f-tompkins",
+    "sold_out": true,
     "date": "2024-05-06T19:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -863,10 +836,35 @@
   },
   {
     "artist": [
+      "Los Straitjackets",
+      "Televisionaries"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13471793/los-straitjackets-televisionaries",
+    "date": "2024-05-09T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Eggy"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13477173/eggy",
+    "date": "2024-05-10T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Psychedelic Porn Crumpets"
     ],
     "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
     "date": "2024-05-17T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Mark Lettieri Group"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13468543/mark-lettieri-group",
+    "date": "2024-05-19T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -877,6 +875,31 @@
     "link": "https://www.beachlandballroom.com/e/13438933/jesse-daniel-alex-williams",
     "date": "2024-05-24T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Ghalia Volt",
+      "Kristine Jackson"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson",
+    "date": "2024-05-24T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Nektar"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13503813/nektar",
+    "date": "2024-06-09T19:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Avi Kaplan"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13510393/avi-kaplan",
+    "date": "2024-06-12T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -895,6 +918,30 @@
     "link": "https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank",
     "date": "2024-07-12T19:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "The 2024 US Air Guitar National Finals"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13499463/the-2024-us-air-guitar-national-finals",
+    "date": "2024-07-20T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Big Sandy & His Fly-Rite Boys"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13511583/big-sandy-his-fly-rite-boys",
+    "date": "2024-07-20T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Owen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13499163/owen",
+    "date": "2024-08-22T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

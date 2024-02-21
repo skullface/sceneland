@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Feb 2024 09:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 16:02:15 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ov Sulfur and Mental Cruelty at Mahall’s]]></title>
@@ -525,10 +525,10 @@
             <pubDate>Wed, 21 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gamma Ray, Funeral Proposals, Henry Morris Band at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Gamma Ray, Funeral Proposals, Henry Morris Band at Happy Dog on Thursday, February 22, 2024, 09:00 PM: https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777]]></description>
-            <link>https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777</guid>
+            <title><![CDATA[Gamma Ray, Parfait Girls, Henry Morris Band at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Gamma Ray, Parfait Girls, Henry Morris Band at Happy Dog on Thursday, February 22, 2024, 09:00 PM: https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777]]></description>
+            <link>https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777</guid>
             <pubDate>Thu, 22 Feb 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
@@ -593,6 +593,13 @@
             <link>/events/detail?event_id=524789</link>
             <guid isPermaLink="true">/events/detail?event_id=524789</guid>
             <pubDate>Fri, 10 May 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Omarion at Jacobs Pavilion at Nautica]]></title>
+            <description><![CDATA[Get tickets to Omarion at Jacobs Pavilion at Nautica on Sunday, May 12, 2024, 06:00 PM: /events/detail?event_id=532826]]></description>
+            <link>/events/detail?event_id=532826</link>
+            <guid isPermaLink="true">/events/detail?event_id=532826</guid>
+            <pubDate>Sun, 12 May 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brit Floyd at Jacobs Pavilion at Nautica]]></title>
@@ -1232,10 +1239,10 @@
             <pubDate>Fri, 01 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DaLand Brass Band at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to DaLand Brass Band at Beachland Tavern on Saturday, March 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13486023/daland-brass-band]]></description>
-            <link>https://www.beachlandballroom.com/e/13486023/daland-brass-band</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13486023/daland-brass-band</guid>
+            <title><![CDATA[DaLand Brass Band, Super Culture, Community Shoe at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to DaLand Brass Band, Super Culture, Community Shoe at Beachland Tavern on Saturday, March 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13486023/daland-brass-band-super-culture-community-shoe]]></description>
+            <link>https://www.beachlandballroom.com/e/13486023/daland-brass-band-super-culture-community-shoe</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13486023/daland-brass-band-super-culture-community-shoe</guid>
             <pubDate>Sat, 02 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1785,6 +1792,13 @@
             <pubDate>Fri, 10 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Furious Bongos at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to The Furious Bongos at Beachland Ballroom on Tuesday, May 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13542103/the-furious-bongos]]></description>
+            <link>https://www.beachlandballroom.com/e/13542103/the-furious-bongos</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13542103/the-furious-bongos</guid>
+            <pubDate>Tue, 14 May 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Psychedelic Porn Crumpets at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Psychedelic Porn Crumpets at Beachland Ballroom on Friday, May 17, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets]]></description>
             <link>https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets</link>
@@ -1811,6 +1825,13 @@
             <link>https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson</guid>
             <pubDate>Fri, 24 May 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autumn! at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Autumn! at Beachland Ballroom on Saturday, June 1, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13542553/autumn-]]></description>
+            <link>https://www.beachlandballroom.com/e/13542553/autumn-</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13542553/autumn-</guid>
+            <pubDate>Sat, 01 Jun 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nektar at Beachland Ballroom]]></title>
@@ -2030,17 +2051,17 @@
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13504543/swank-all-smiles]]></description>
-            <link>https://grogshop.gs/event-details/13504543/swank-all-smiles</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13504543/swank-all-smiles</guid>
-            <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13764018/otoboke-beaver]]></description>
             <link>https://grogshop.gs/event-details/13764018/otoboke-beaver</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13764018/otoboke-beaver</guid>
+            <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13504543/swank-all-smiles]]></description>
+            <link>https://grogshop.gs/event-details/13504543/swank-all-smiles</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13504543/swank-all-smiles</guid>
             <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2098,6 +2119,13 @@
             <link>https://grogshop.gs/event-details/13397033/koffin-kats-the-queers-lords-of-the-highway</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13397033/koffin-kats-the-queers-lords-of-the-highway</guid>
             <pubDate>Wed, 27 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two Mile Moon, The Yikes, Harborer at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Two Mile Moon, The Yikes, Harborer at Grog Shop on Thursday, March 28, 2024, 08:00 PM: https://grogshop.gs/event-details/13542333/two-mile-moon-the-yikes-harborer]]></description>
+            <link>https://grogshop.gs/event-details/13542333/two-mile-moon-the-yikes-harborer</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13542333/two-mile-moon-the-yikes-harborer</guid>
+            <pubDate>Thu, 28 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['68, The Callous Daoboys, The Homeless Gospel Choir at Grog Shop]]></title>
@@ -2168,6 +2196,13 @@
             <link>https://grogshop.gs/event-details/13429733/scott-h-biram-adrian-and-meredith-ruby-rose-weston</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13429733/scott-h-biram-adrian-and-meredith-ruby-rose-weston</guid>
             <pubDate>Thu, 18 Apr 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carlos Jones (+), Shake Ground, Shake Ground Band at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Carlos Jones (+), Shake Ground, Shake Ground Band at Grog Shop on Friday, April 19, 2024, 09:00 PM: https://grogshop.gs/event-details/13542543/carlos-jones-w-shake-ground]]></description>
+            <link>https://grogshop.gs/event-details/13542543/carlos-jones-w-shake-ground</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13542543/carlos-jones-w-shake-ground</guid>
+            <pubDate>Fri, 19 Apr 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mickey Darling at Grog Shop]]></title>
@@ -2261,6 +2296,20 @@
             <pubDate>Fri, 07 Jun 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Horsegirl, Cindy at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Horsegirl, Cindy at Grog Shop on Sunday, June 16, 2024, 08:00 PM: https://grogshop.gs/event-details/13535403/horsegirl]]></description>
+            <link>https://grogshop.gs/event-details/13535403/horsegirl</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13535403/horsegirl</guid>
+            <pubDate>Sun, 16 Jun 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Melissa Ferrick at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Melissa Ferrick at Grog Shop on Wednesday, June 26, 2024, 08:00 PM: https://grogshop.gs/event-details/13542413/melissa-ferrick]]></description>
+            <link>https://grogshop.gs/event-details/13542413/melissa-ferrick</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13542413/melissa-ferrick</guid>
+            <pubDate>Wed, 26 Jun 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Grog Shop Presents- Iron & Wine: Light Verse 2024 at Grog Shop]]></title>
             <description><![CDATA[Get tickets to The Grog Shop Presents- Iron & Wine: Light Verse 2024 at Grog Shop on Tuesday, August 20, 2024, 07:30 PM: https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024]]></description>
             <link>https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024</link>
@@ -2308,6 +2357,13 @@
             <link>https://www.ticketweb.com/event/free-throw-charmer-carpool-musica-tickets/13444053?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/free-throw-charmer-carpool-musica-tickets/13444053?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Sun, 07 Apr 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pilfers at Musica Akron]]></title>
+            <description><![CDATA[Get tickets to Pilfers at Musica Akron on Thursday, May 9, 2024, 07:00 PM: https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <pubDate>Thu, 09 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
@@ -2646,6 +2702,13 @@
             <pubDate>Fri, 29 Mar 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Scarface at Agora]]></title>
+            <description><![CDATA[Get tickets to Scarface at Agora on Sunday, April 7, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/532627]]></description>
+            <link>https://www.agoracleveland.com/events/detail/532627</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/532627</guid>
+            <pubDate>Sun, 07 Apr 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alvvays, Spllit at Agora]]></title>
             <description><![CDATA[Get tickets to Alvvays, Spllit at Agora on Thursday, April 18, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/519545]]></description>
             <link>https://www.agoracleveland.com/events/detail/519545</link>
@@ -2772,13 +2835,6 @@
             <pubDate>Wed, 04 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cast Iron Comedy Showcase at Foundry]]></title>
-            <description><![CDATA[Get tickets to Cast Iron Comedy Showcase at Foundry on Tuesday, February 20, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/</guid>
-            <pubDate>Tue, 20 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ov sulfur, Mental Cruelty, Ghost Bath, Extermination Dismemberment at Foundry]]></title>
             <description><![CDATA[Get tickets to ov sulfur, Mental Cruelty, Ghost Bath, Extermination Dismemberment at Foundry on Thursday, February 22, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/</link>
@@ -2896,6 +2952,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/ohio-underground/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/ohio-underground/</guid>
             <pubDate>Sat, 23 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dizasterpiece at Foundry]]></title>
+            <description><![CDATA[Get tickets to Dizasterpiece at Foundry on Thursday, March 28, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/dizasterpiece/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/dizasterpiece/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/dizasterpiece/</guid>
+            <pubDate>Thu, 28 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reticulatus, Unvow, Kingz & Thievez, The Final Seconds of Suffering, Rustfed at Foundry]]></title>

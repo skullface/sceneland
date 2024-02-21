@@ -120,9 +120,11 @@
   },
   {
     "artist": [
-      "DaLand Brass Band"
+      "DaLand Brass Band",
+      "Super Culture",
+      "Community Shoe"
     ],
-    "link": "https://www.beachlandballroom.com/e/13486023/daland-brass-band",
+    "link": "https://www.beachlandballroom.com/e/13486023/daland-brass-band-super-culture-community-shoe",
     "date": "2024-03-02T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -833,6 +835,14 @@
   },
   {
     "artist": [
+      "The Furious Bongos"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13542103/the-furious-bongos",
+    "date": "2024-05-14T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Psychedelic Porn Crumpets"
     ],
     "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
@@ -863,6 +873,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson",
     "date": "2024-05-24T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Autumn!"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13542553/autumn-",
+    "date": "2024-06-01T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

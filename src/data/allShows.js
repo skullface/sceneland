@@ -445,8 +445,8 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Gamma Ray, Funeral Proposals, Henry Morris Band'],
-    link: 'https://www.eventbrite.com/e/gamma-ray-funeral-proposals-henry-morris-band-tickets-835288629777',
+    artist: ['Gamma Ray, Parfait Girls, Henry Morris Band'],
+    link: 'https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777',
     date: '2024-02-22T21:00:00',
     venue: 'Happy Dog',
   },
@@ -504,6 +504,12 @@ export const allShows = [
     artist: ['Chris Young, Bryan Martin'],
     link: '/events/detail?event_id=524789',
     date: '2024-05-10T18:30:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: ['Omarion'],
+    link: '/events/detail?event_id=532826',
+    date: '2024-05-12T18:00:00',
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
@@ -1079,8 +1085,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['DaLand Brass Band'],
-    link: 'https://www.beachlandballroom.com/e/13486023/daland-brass-band',
+    artist: ['DaLand Brass Band', 'Super Culture', 'Community Shoe'],
+    link: 'https://www.beachlandballroom.com/e/13486023/daland-brass-band-super-culture-community-shoe',
     date: '2024-03-02T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1579,6 +1585,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['The Furious Bongos'],
+    link: 'https://www.beachlandballroom.com/e/13542103/the-furious-bongos',
+    date: '2024-05-14T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Psychedelic Porn Crumpets'],
     link: 'https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets',
     date: '2024-05-17T20:00:00',
@@ -1600,6 +1612,12 @@ export const allShows = [
     artist: ['Ghalia Volt', 'Kristine Jackson'],
     link: 'https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson',
     date: '2024-05-24T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Autumn!'],
+    link: 'https://www.beachlandballroom.com/e/13542553/autumn-',
+    date: '2024-06-01T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -1834,6 +1852,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
+    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
+    date: '2024-03-15T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: [
       'SWANK. All Smiles',
       'Westside LO',
@@ -1842,12 +1866,6 @@ export const allShows = [
       'DJ Cooley High',
     ],
     link: 'https://grogshop.gs/event-details/13504543/swank-all-smiles',
-    date: '2024-03-15T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
-    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
     date: '2024-03-15T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1915,6 +1933,12 @@ export const allShows = [
     artist: ['Koffin Kats', 'The Queers', 'Lords Of The Highway'],
     link: 'https://grogshop.gs/event-details/13397033/koffin-kats-the-queers-lords-of-the-highway',
     date: '2024-03-27T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Two Mile Moon', 'The Yikes', 'Harborer'],
+    link: 'https://grogshop.gs/event-details/13542333/two-mile-moon-the-yikes-harborer',
+    date: '2024-03-28T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1986,6 +2010,12 @@ export const allShows = [
     artist: ['Scott H. Biram', 'Adrian and Meredith', 'Ruby Rose Weston'],
     link: 'https://grogshop.gs/event-details/13429733/scott-h-biram-adrian-and-meredith-ruby-rose-weston',
     date: '2024-04-18T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Carlos Jones (+)', 'Shake Ground', 'Shake Ground Band'],
+    link: 'https://grogshop.gs/event-details/13542543/carlos-jones-w-shake-ground',
+    date: '2024-04-19T21:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2097,6 +2127,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Horsegirl', 'Cindy'],
+    link: 'https://grogshop.gs/event-details/13535403/horsegirl',
+    date: '2024-06-16T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Melissa Ferrick'],
+    link: 'https://grogshop.gs/event-details/13542413/melissa-ferrick',
+    date: '2024-06-26T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['The Grog Shop Presents- Iron & Wine: Light Verse 2024'],
     link: 'https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024',
     date: '2024-08-20T19:30:00',
@@ -2136,6 +2178,12 @@ export const allShows = [
     artist: ['Free Throw, Charmer & Carpool'],
     link: 'https://www.ticketweb.com/event/free-throw-charmer-carpool-musica-tickets/13444053?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-04-07T19:30:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['Pilfers'],
+    link: 'https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&REFID=clientsitewpecheck',
+    date: '2024-05-09T19:00:00',
     venue: 'Musica Akron',
   },
   {
@@ -2442,6 +2490,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Scarface'],
+    link: 'https://www.agoracleveland.com/events/detail/532627',
+    date: '2024-04-07T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Alvvays, Spllit'],
     link: 'https://www.agoracleveland.com/events/detail/519545',
     date: '2024-04-18T19:00:00',
@@ -2550,12 +2604,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Cast Iron Comedy Showcase'],
-    link: 'https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/',
-    date: '2024-02-20T20:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: [
       'ov sulfur, Mental Cruelty, Ghost Bath, Extermination Dismemberment',
     ],
@@ -2661,6 +2709,12 @@ export const allShows = [
     artist: ['OHIO UNDERGROUND'],
     link: 'https://www.foundryconcertclub.com/tm-event/ohio-underground/',
     date: '2024-03-23T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Dizasterpiece'],
+    link: 'https://www.foundryconcertclub.com/tm-event/dizasterpiece/',
+    date: '2024-03-28T19:00:00',
     venue: 'Foundry',
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cast Iron Comedy Showcase"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/cast-iron-comedy-showcase/",
-    "date": "2024-02-20T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "ov sulfur, Mental Cruelty, Ghost Bath, Extermination Dismemberment"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ov-sulfur-mental-cruelty-ghost-bath-extermination-dismemberment/",
@@ -141,6 +133,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ohio-underground/",
     "date": "2024-03-23T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Dizasterpiece"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/dizasterpiece/",
+    "date": "2024-03-28T19:00:00",
     "venue": "Foundry"
   },
   {

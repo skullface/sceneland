@@ -14,18 +14,19 @@ browser.implicitly_wait(30)
 browser.get(url)
 try:
   # Click cookie reject button
+  time.sleep(5)
   cookie_button = browser.find_element('id', 'onetrust-reject-all-handler')
   cookie_button.click()
-  time.sleep(5)  # wait for the page to get rid of the banner
+  time.sleep(5) # wait for the page to get rid of the banner
   # First attempt to click the button
   load_more_button = browser.find_element('id', 'loadMoreEvents')
   load_more_button.click()
-  time.sleep(1)  # wait for the page to load more events
+  time.sleep(1) # wait for the page to load more events
   # Second attempt to click the button
   try:
     load_more_button = browser.find_element('id', 'loadMoreEvents')
     load_more_button.click()
-    time.sleep(1)  # wait for the page to load more events
+    time.sleep(1) # wait for the page to load more events
   except NoSuchElementException:
     # If the button is not found the second time, pass
     pass

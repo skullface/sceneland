@@ -439,12 +439,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Classical Revolution Cleveland'],
-    link: 'https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847',
-    date: '2024-02-21T20:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['Gamma Ray, Parfait Girls, Henry Morris Band'],
     link: 'https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777',
     date: '2024-02-22T21:00:00',
@@ -498,6 +492,12 @@ export const allShows = [
     artist: ['Omni, This Is Lorelei, Suitor'],
     link: 'https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607',
     date: '2024-03-08T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ['Bristoltooth, Total Downer, Crumbling Creatures'],
+    link: 'https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387',
+    date: '2024-03-09T21:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -657,13 +657,13 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['William Black'],
-    link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
+    link: 'https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
   },
   {
-    link: 'https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1',
+    artist: ['William Black'],
+    link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
     date: '2024-03-22T19:30:00',
     venue: 'Masonic Temple',
   },
@@ -683,6 +683,12 @@ export const allShows = [
     artist: ['Darkest Hour'],
     link: 'https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643',
     date: '2024-03-28T19:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['ARTIX! & HUKAE \u2013 BRAINSTORM TOUR'],
+    link: 'https://www.ticketmaster.com/artix-hukae-brainstorm-tour-cleveland-ohio-03-29-2024/event/05006054425F7D16',
+    date: '2024-03-29T20:00:00',
     venue: 'Masonic Temple',
   },
   {
@@ -758,14 +764,14 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Uriah Heep & Saxon'],
-    link: 'https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0',
+    artist: ['Into the Blue (ELO Tribute)'],
+    link: 'https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3',
     date: '2024-05-11T20:00:00',
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Into the Blue (ELO Tribute)'],
-    link: 'https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3',
+    artist: ['Uriah Heep & Saxon'],
+    link: 'https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0',
     date: '2024-05-11T20:00:00',
     venue: 'Masonic Temple',
   },
@@ -1339,8 +1345,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Steve Forbert'],
-    link: 'https://www.beachlandballroom.com/e/13757928/steve-forbert',
+    artist: ['Steve Forbert', 'Dave Rich'],
+    link: 'https://www.beachlandballroom.com/e/13757928/steve-forbert-dave-rich',
     date: '2024-04-05T19:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1452,8 +1458,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Rich Aucoin'],
-    link: 'https://www.beachlandballroom.com/e/13441843/rich-aucoin',
+    artist: ['Rich Aucoin', 'Marottes'],
+    link: 'https://www.beachlandballroom.com/e/13441843/rich-aucoin-marottes',
     date: '2024-04-18T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1585,6 +1591,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Satsang'],
+    link: 'https://www.beachlandballroom.com/e/13535363/satsang',
+    date: '2024-05-12T20:30:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['The Furious Bongos'],
     link: 'https://www.beachlandballroom.com/e/13542103/the-furious-bongos',
     date: '2024-05-14T20:00:00',
@@ -1595,6 +1607,18 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets',
     date: '2024-05-17T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Olde Wrestling'],
+    link: 'https://www.beachlandballroom.com/e/13548763/olde-wrestling',
+    date: '2024-05-18T19:30:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Surely Tempo', 'Tony Jupiter', 'Honey Pocket'],
+    link: 'https://www.beachlandballroom.com/e/13546273/surely-tempo-tony-jupiter-honey-pocket',
+    date: '2024-05-18T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Mark Lettieri Group'],
@@ -1680,12 +1704,6 @@ export const allShows = [
     sold_out: true,
     date: '2024-10-20T20:30:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/event-details/13339753/midnight-rental-presents-secret-movie-night',
-    date: '2024-02-21T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1852,12 +1870,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
-    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
-    date: '2024-03-15T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'SWANK. All Smiles',
       'Westside LO',
@@ -1866,6 +1878,12 @@ export const allShows = [
       'DJ Cooley High',
     ],
     link: 'https://grogshop.gs/event-details/13504543/swank-all-smiles',
+    date: '2024-03-15T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
+    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
     date: '2024-03-15T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2004,6 +2022,12 @@ export const allShows = [
     ],
     link: 'https://grogshop.gs/event-details/13504303/swami-the-bed-of-nails-simon-the-apparatus-leisure-beams',
     date: '2024-04-13T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Work Wife'],
+    link: 'https://grogshop.gs/event-details/13543723/work-wife',
+    date: '2024-04-17T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2182,7 +2206,7 @@ export const allShows = [
   },
   {
     artist: ['Pilfers'],
-    link: 'https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&REFID=clientsitewpecheck',
+    link: 'https://www.ticketweb.com/event/pilfers-musica-tickets/13546943?pl=celebrityetc&REFID=clientsitewpecheck',
     date: '2024-05-09T19:00:00',
     venue: 'Musica Akron',
   },
@@ -2520,12 +2544,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Portugal. The Man, Snacktime'],
-    link: 'https://www.agoracleveland.com/events/detail/508347',
-    date: '2024-04-26T19:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['An Evening with Alan Ruck'],
     link: 'https://www.agoracleveland.com/events/detail/519196',
     date: '2024-05-03T18:00:00',
@@ -2541,6 +2559,12 @@ export const allShows = [
     artist: ['Kathy Griffin'],
     link: 'https://www.agoracleveland.com/events/detail/512472',
     date: '2024-05-11T19:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Portugal. The Man, Snacktime'],
+    link: 'https://www.agoracleveland.com/events/detail/508347',
+    date: '2024-05-12T19:00:00',
     venue: 'Agora',
   },
   {

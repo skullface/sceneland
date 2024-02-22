@@ -145,14 +145,6 @@
   },
   {
     "artist": [
-      "Portugal. The Man, Snacktime"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/508347",
-    "date": "2024-04-26T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "An Evening with Alan Ruck"
     ],
     "link": "https://www.agoracleveland.com/events/detail/519196",
@@ -173,6 +165,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/512472",
     "date": "2024-05-11T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Portugal. The Man, Snacktime"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/508347",
+    "date": "2024-05-12T19:00:00",
     "venue": "Agora"
   },
   {

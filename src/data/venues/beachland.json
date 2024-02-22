@@ -481,9 +481,10 @@
   },
   {
     "artist": [
-      "Steve Forbert"
+      "Steve Forbert",
+      "Dave Rich"
     ],
-    "link": "https://www.beachlandballroom.com/e/13757928/steve-forbert",
+    "link": "https://www.beachlandballroom.com/e/13757928/steve-forbert-dave-rich",
     "date": "2024-04-05T19:00:00",
     "venue": "Beachland Tavern"
   },
@@ -646,9 +647,10 @@
   },
   {
     "artist": [
-      "Rich Aucoin"
+      "Rich Aucoin",
+      "Marottes"
     ],
-    "link": "https://www.beachlandballroom.com/e/13441843/rich-aucoin",
+    "link": "https://www.beachlandballroom.com/e/13441843/rich-aucoin-marottes",
     "date": "2024-04-18T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -835,6 +837,14 @@
   },
   {
     "artist": [
+      "Satsang"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13535363/satsang",
+    "date": "2024-05-12T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "The Furious Bongos"
     ],
     "link": "https://www.beachlandballroom.com/e/13542103/the-furious-bongos",
@@ -848,6 +858,24 @@
     "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
     "date": "2024-05-17T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Olde Wrestling"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13548763/olde-wrestling",
+    "date": "2024-05-18T19:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Surely Tempo",
+      "Tony Jupiter",
+      "Honey Pocket"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13546273/surely-tempo-tony-jupiter-honey-pocket",
+    "date": "2024-05-18T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

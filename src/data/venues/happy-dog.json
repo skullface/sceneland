@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Classical Revolution Cleveland"
-    ],
-    "link": "https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847",
-    "date": "2024-02-21T20:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Gamma Ray, Parfait Girls, Henry Morris Band"
     ],
     "link": "https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607",
     "date": "2024-03-08T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Bristoltooth, Total Downer, Crumbling Creatures"
+    ],
+    "link": "https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387",
+    "date": "2024-03-09T21:00:00",
     "venue": "Happy Dog"
   }
 ]

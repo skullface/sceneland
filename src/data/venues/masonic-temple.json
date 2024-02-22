@@ -96,15 +96,15 @@
     "venue": "Masonic Temple"
   },
   {
-    "artist": [
-      "William Black"
-    ],
-    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
+    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
     "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   },
   {
-    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
+    "artist": [
+      "William Black"
+    ],
+    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
     "date": "2024-03-22T19:30:00",
     "venue": "Masonic Temple"
   },
@@ -130,6 +130,14 @@
     ],
     "link": "https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643",
     "date": "2024-03-28T19:00:00",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "ARTIX! & HUKAE \u2013 BRAINSTORM TOUR"
+    ],
+    "link": "https://www.ticketmaster.com/artix-hukae-brainstorm-tour-cleveland-ohio-03-29-2024/event/05006054425F7D16",
+    "date": "2024-03-29T20:00:00",
     "venue": "Masonic Temple"
   },
   {
@@ -230,17 +238,17 @@
   },
   {
     "artist": [
-      "Uriah Heep & Saxon"
+      "Into the Blue (ELO Tribute)"
     ],
-    "link": "https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0",
+    "link": "https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3",
     "date": "2024-05-11T20:00:00",
     "venue": "Masonic Temple"
   },
   {
     "artist": [
-      "Into the Blue (ELO Tribute)"
+      "Uriah Heep & Saxon"
     ],
-    "link": "https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3",
+    "link": "https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0",
     "date": "2024-05-11T20:00:00",
     "venue": "Masonic Temple"
   },

@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Feb 2024 16:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 09:06:32 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ov Sulfur and Mental Cruelty at Mahall’s]]></title>
@@ -518,13 +518,6 @@
             <pubDate>Sun, 19 May 2024 17:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Classical Revolution Cleveland at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Classical Revolution Cleveland at Happy Dog on Wednesday, February 21, 2024, 08:00 PM: https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847]]></description>
-            <link>https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/classical-revolution-cleveland-tickets-808562380847</guid>
-            <pubDate>Wed, 21 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gamma Ray, Parfait Girls, Henry Morris Band at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Gamma Ray, Parfait Girls, Henry Morris Band at Happy Dog on Thursday, February 22, 2024, 09:00 PM: https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777]]></description>
             <link>https://www.eventbrite.com/e/gamma-ray-parfait-girls-henry-morris-band-tickets-835288629777</link>
@@ -586,6 +579,13 @@
             <link>https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607</guid>
             <pubDate>Fri, 08 Mar 2024 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristoltooth, Total Downer, Crumbling Creatures at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Bristoltooth, Total Downer, Crumbling Creatures at Happy Dog on Saturday, March 9, 2024, 09:00 PM: https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387]]></description>
+            <link>https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387</guid>
+            <pubDate>Sat, 09 Mar 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chris Young, Bryan Martin at Jacobs Pavilion at Nautica]]></title>
@@ -798,6 +798,13 @@
             <pubDate>Thu, 28 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ARTIX! & HUKAE – BRAINSTORM TOUR at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to ARTIX! & HUKAE – BRAINSTORM TOUR at Masonic Temple on Friday, March 29, 2024, 08:00 PM: https://www.ticketmaster.com/artix-hukae-brainstorm-tour-cleveland-ohio-03-29-2024/event/05006054425F7D16]]></description>
+            <link>https://www.ticketmaster.com/artix-hukae-brainstorm-tour-cleveland-ohio-03-29-2024/event/05006054425F7D16</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/artix-hukae-brainstorm-tour-cleveland-ohio-03-29-2024/event/05006054425F7D16</guid>
+            <pubDate>Fri, 29 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Blackberry Smoke: Be Right Here Tour at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Blackberry Smoke: Be Right Here Tour at Masonic Temple on Friday, March 29, 2024, 08:00 PM: https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6]]></description>
             <link>https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6</link>
@@ -882,17 +889,17 @@
             <pubDate>Sat, 27 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Uriah Heep & Saxon at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Uriah Heep & Saxon at Masonic Temple on Saturday, May 11, 2024, 08:00 PM: https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0]]></description>
-            <link>https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</link>
-            <guid isPermaLink="true">https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</guid>
-            <pubDate>Sat, 11 May 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Into the Blue (ELO Tribute) at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Into the Blue (ELO Tribute) at Masonic Temple on Saturday, May 11, 2024, 08:00 PM: https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3]]></description>
             <link>https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3</link>
             <guid isPermaLink="true">https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3</guid>
+            <pubDate>Sat, 11 May 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uriah Heep & Saxon at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Uriah Heep & Saxon at Masonic Temple on Saturday, May 11, 2024, 08:00 PM: https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0]]></description>
+            <link>https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</link>
+            <guid isPermaLink="true">https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0</guid>
             <pubDate>Sat, 11 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1512,10 +1519,10 @@
             <pubDate>Thu, 04 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Steve Forbert at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Steve Forbert at Beachland Tavern on Friday, April 5, 2024, 07:00 PM: https://www.beachlandballroom.com/e/13757928/steve-forbert]]></description>
-            <link>https://www.beachlandballroom.com/e/13757928/steve-forbert</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13757928/steve-forbert</guid>
+            <title><![CDATA[Steve Forbert, Dave Rich at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Steve Forbert, Dave Rich at Beachland Tavern on Friday, April 5, 2024, 07:00 PM: https://www.beachlandballroom.com/e/13757928/steve-forbert-dave-rich]]></description>
+            <link>https://www.beachlandballroom.com/e/13757928/steve-forbert-dave-rich</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13757928/steve-forbert-dave-rich</guid>
             <pubDate>Fri, 05 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1638,10 +1645,10 @@
             <pubDate>Wed, 17 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rich Aucoin at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Rich Aucoin at Beachland Tavern on Thursday, April 18, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13441843/rich-aucoin]]></description>
-            <link>https://www.beachlandballroom.com/e/13441843/rich-aucoin</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13441843/rich-aucoin</guid>
+            <title><![CDATA[Rich Aucoin, Marottes at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Rich Aucoin, Marottes at Beachland Tavern on Thursday, April 18, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13441843/rich-aucoin-marottes]]></description>
+            <link>https://www.beachlandballroom.com/e/13441843/rich-aucoin-marottes</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13441843/rich-aucoin-marottes</guid>
             <pubDate>Thu, 18 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1792,6 +1799,13 @@
             <pubDate>Fri, 10 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Satsang at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Satsang at Beachland Ballroom on Sunday, May 12, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13535363/satsang]]></description>
+            <link>https://www.beachlandballroom.com/e/13535363/satsang</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13535363/satsang</guid>
+            <pubDate>Sun, 12 May 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Furious Bongos at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to The Furious Bongos at Beachland Ballroom on Tuesday, May 14, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13542103/the-furious-bongos]]></description>
             <link>https://www.beachlandballroom.com/e/13542103/the-furious-bongos</link>
@@ -1804,6 +1818,20 @@
             <link>https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets</guid>
             <pubDate>Fri, 17 May 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olde Wrestling at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Olde Wrestling at Beachland Ballroom on Saturday, May 18, 2024, 07:30 PM: https://www.beachlandballroom.com/e/13548763/olde-wrestling]]></description>
+            <link>https://www.beachlandballroom.com/e/13548763/olde-wrestling</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13548763/olde-wrestling</guid>
+            <pubDate>Sat, 18 May 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surely Tempo, Tony Jupiter, Honey Pocket at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Surely Tempo, Tony Jupiter, Honey Pocket at Beachland Tavern on Saturday, May 18, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13546273/surely-tempo-tony-jupiter-honey-pocket]]></description>
+            <link>https://www.beachlandballroom.com/e/13546273/surely-tempo-tony-jupiter-honey-pocket</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13546273/surely-tempo-tony-jupiter-honey-pocket</guid>
+            <pubDate>Sat, 18 May 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mark Lettieri Group at Beachland Ballroom]]></title>
@@ -1902,13 +1930,6 @@
             <link>https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult</guid>
             <pubDate>Sun, 20 Oct 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, February 21, 2024, 08:00 PM: https://grogshop.gs/event-details/13339753/midnight-rental-presents-secret-movie-night]]></description>
-            <link>https://grogshop.gs/event-details/13339753/midnight-rental-presents-secret-movie-night</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13339753/midnight-rental-presents-secret-movie-night</guid>
-            <pubDate>Wed, 21 Feb 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JV's Birthday with Heart & Lung, House of Wills, and The Heavy Forgiveness, The House of Wills, The Heavy Forgiveness at Grog Shop]]></title>
@@ -2051,17 +2072,17 @@
             <pubDate>Thu, 14 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13764018/otoboke-beaver]]></description>
-            <link>https://grogshop.gs/event-details/13764018/otoboke-beaver</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13764018/otoboke-beaver</guid>
-            <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop]]></title>
             <description><![CDATA[Get tickets to SWANK. All Smiles, Westside LO, Big Bewm, Just-Johnny, DJ Cooley High at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13504543/swank-all-smiles]]></description>
             <link>https://grogshop.gs/event-details/13504543/swank-all-smiles</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13504543/swank-all-smiles</guid>
+            <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Otoboke Beaver, Drinking Boys and Girls Choir at Grog Shop on Friday, March 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13764018/otoboke-beaver]]></description>
+            <link>https://grogshop.gs/event-details/13764018/otoboke-beaver</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13764018/otoboke-beaver</guid>
             <pubDate>Fri, 15 Mar 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2189,6 +2210,13 @@
             <link>https://grogshop.gs/event-details/13504303/swami-the-bed-of-nails-simon-the-apparatus-leisure-beams</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13504303/swami-the-bed-of-nails-simon-the-apparatus-leisure-beams</guid>
             <pubDate>Sat, 13 Apr 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Work Wife at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Work Wife at Grog Shop on Wednesday, April 17, 2024, 08:00 PM: https://grogshop.gs/event-details/13543723/work-wife]]></description>
+            <link>https://grogshop.gs/event-details/13543723/work-wife</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13543723/work-wife</guid>
+            <pubDate>Wed, 17 Apr 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scott H. Biram, Adrian and Meredith, Ruby Rose Weston at Grog Shop]]></title>
@@ -2360,9 +2388,9 @@
         </item>
         <item>
             <title><![CDATA[Pilfers at Musica Akron]]></title>
-            <description><![CDATA[Get tickets to Pilfers at Musica Akron on Thursday, May 9, 2024, 07:00 PM: https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
-            <link>https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/pilfers-musica-tickets/13541333?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
+            <description><![CDATA[Get tickets to Pilfers at Musica Akron on Thursday, May 9, 2024, 07:00 PM: https://www.ticketweb.com/event/pilfers-musica-tickets/13546943?pl=celebrityetc&REFID=clientsitewpecheck]]></description>
+            <link>https://www.ticketweb.com/event/pilfers-musica-tickets/13546943?pl=celebrityetc&amp;REFID=clientsitewpecheck</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/pilfers-musica-tickets/13546943?pl=celebrityetc&amp;REFID=clientsitewpecheck</guid>
             <pubDate>Thu, 09 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2737,13 +2765,6 @@
             <pubDate>Thu, 25 Apr 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Portugal. The Man, Snacktime at Agora]]></title>
-            <description><![CDATA[Get tickets to Portugal. The Man, Snacktime at Agora on Friday, April 26, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/508347]]></description>
-            <link>https://www.agoracleveland.com/events/detail/508347</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/508347</guid>
-            <pubDate>Fri, 26 Apr 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[An Evening with Alan Ruck at Agora]]></title>
             <description><![CDATA[Get tickets to An Evening with Alan Ruck at Agora on Friday, May 3, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/519196]]></description>
             <link>https://www.agoracleveland.com/events/detail/519196</link>
@@ -2763,6 +2784,13 @@
             <link>https://www.agoracleveland.com/events/detail/512472</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/512472</guid>
             <pubDate>Sat, 11 May 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portugal. The Man, Snacktime at Agora]]></title>
+            <description><![CDATA[Get tickets to Portugal. The Man, Snacktime at Agora on Sunday, May 12, 2024, 07:00 PM: https://www.agoracleveland.com/events/detail/508347]]></description>
+            <link>https://www.agoracleveland.com/events/detail/508347</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/508347</guid>
+            <pubDate>Sun, 12 May 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trey Anastasio and Classic TAB at Agora]]></title>

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Stick Men",
-      "CuDa, Schief & CuDa"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13717748/stick-men-cuda-schief-cuda",
-    "date": "2024-02-21T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Jill Andrews",
       "Kid Tigrrr"
     ],
@@ -682,9 +673,10 @@
   {
     "artist": [
       "BODEGA",
-      "Total Downer"
+      "Total Downer",
+      "Big Bliss"
     ],
-    "link": "https://www.beachlandballroom.com/e/13399993/bodega-total-downer",
+    "link": "https://www.beachlandballroom.com/e/13399993/bodega-total-downer-big-bliss",
     "date": "2024-04-22T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -887,6 +879,15 @@
   },
   {
     "artist": [
+      "Boy Golden",
+      "Joshua Quimby"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13538813/boy-golden-joshua-quimby",
+    "date": "2024-05-22T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Jesse Daniel",
       "Alex Williams"
     ],
@@ -941,6 +942,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio",
     "date": "2024-06-22T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Hillbilly Casino",
+      "Sasquatch & The Sick-A-Billys"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13553243/hillbilly-casino-sasquatch-the-sick-a-billys",
+    "date": "2024-06-25T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

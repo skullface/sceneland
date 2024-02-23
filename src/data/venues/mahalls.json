@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Ov Sulfur and Mental Cruelty"
-    ],
-    "link": "https://link.dice.fm/Uda0bd604b9a?dice_id=Uda0bd604b9a",
-    "date": "2024-02-22T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Jukebox Breakdown aka Emo Night CLE 9th birthday!"
     ],
     "link": "https://link.dice.fm/Ye0f3a4cf4be?dice_id=Ye0f3a4cf4be",
@@ -225,10 +217,26 @@
   },
   {
     "artist": [
+      "Ducks Ltd"
+    ],
+    "link": "https://link.dice.fm/q654d1d89e8e?dice_id=q654d1d89e8e",
+    "date": "2024-03-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Armed"
     ],
     "link": "https://link.dice.fm/Q5a5918ecf59?dice_id=Q5a5918ecf59",
     "date": "2024-03-27T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Little Ditties / Magazine Beach"
+    ],
+    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
+    "date": "2024-03-28T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -239,14 +247,6 @@
     "sold_out": true,
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Little Ditties / Magazine Beach"
-    ],
-    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -290,19 +290,19 @@
   },
   {
     "artist": [
-      "Jeff Rosenstock"
-    ],
-    "link": "https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7",
-    "date": "2024-04-04T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Sitting On Stacy"
     ],
     "link": "https://link.dice.fm/p7e4eb4034a4?dice_id=p7e4eb4034a4",
     "date": "2024-04-04T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Jeff Rosenstock"
+    ],
+    "link": "https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7",
+    "date": "2024-04-04T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -406,6 +406,14 @@
     ],
     "link": "https://link.dice.fm/ncd76fd2aa2d?dice_id=ncd76fd2aa2d",
     "date": "2024-04-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rich Amiri"
+    ],
+    "link": "https://link.dice.fm/w1a38e5def0e?dice_id=w1a38e5def0e",
+    "date": "2024-04-28T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

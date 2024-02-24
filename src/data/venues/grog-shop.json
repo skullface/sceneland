@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Land of Panda's \"Here For You\" Single Release Party",
-      "FUBAR",
-      "C-Level"
-    ],
-    "link": "https://grogshop.gs/event-details/13396663/land-of-panda-s-here-for-you-single-release-party",
-    "date": "2024-02-23T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "RIPPER FLEA MARKET!"
     ],
     "link": "https://grogshop.gs/event-details/13542143/ripper-flea-market-",
@@ -93,20 +83,20 @@
   },
   {
     "artist": [
-      "BabyTron"
-    ],
-    "link": "https://grogshop.gs/event-details/13853798/babytron",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Left Lane Cruiser",
       "Nate Bergman",
       "Adam Faucett",
       "The Morning Bird"
     ],
     "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "BabyTron"
+    ],
+    "link": "https://grogshop.gs/event-details/13853798/babytron",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },
@@ -188,15 +178,6 @@
   },
   {
     "artist": [
-      "Otoboke Beaver",
-      "Drinking Boys and Girls Choir"
-    ],
-    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "SWANK. All Smiles",
       "Westside LO",
       "Big Bewm",
@@ -204,6 +185,15 @@
       "DJ Cooley High"
     ],
     "link": "https://grogshop.gs/event-details/13504543/swank-all-smiles",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Otoboke Beaver",
+      "Drinking Boys and Girls Choir"
+    ],
+    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
     "date": "2024-03-15T20:00:00",
     "venue": "Grog Shop"
   },
@@ -501,6 +491,16 @@
   },
   {
     "artist": [
+      "Cathedral Bells",
+      "Leaving Time",
+      "Rew"
+    ],
+    "link": "https://grogshop.gs/event-details/13548893/cathedral-bells-leaving-time-rew",
+    "date": "2024-05-14T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Laura Jane Grace with Worriers and Sam Russo",
       "Worriers",
       "Sam Russo"
@@ -554,6 +554,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13542413/melissa-ferrick",
     "date": "2024-06-26T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "mc chris",
+      "Crunk Witch"
+    ],
+    "link": "https://grogshop.gs/event-details/13542873/mc-chris-crunk-witch",
+    "date": "2024-07-09T20:00:00",
     "venue": "Grog Shop"
   },
   {

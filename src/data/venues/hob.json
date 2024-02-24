@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Veeze: Navy Wavy Presents: The Ganger Tour: Phase 2"
-    ],
-    "link": "https://concerts.livenation.com/veeze-navy-wavy-presents-the-ganger-cleveland-ohio-02-23-2024/event/05005F7D8FA011D9",
-    "date": "2024-02-23T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Sorelle"
     ],
     "link": "https://concerts.livenation.com/sorelle-cleveland-ohio-02-24-2024/event/050060373EE171FF",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/kid-kapichi-north-america-2024-cleveland-ohio-05-18-2024/event/050060389EB046A1",
     "date": "2024-05-18T19:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "City and Colour: Spring 2024"
+    ],
+    "link": "https://concerts.livenation.com/city-and-colour-spring-2024-cleveland-ohio-05-19-2024/event/05006047981C1A80",
+    "date": "2024-05-19T19:00:00",
     "venue": "House of Blues"
   }
 ]

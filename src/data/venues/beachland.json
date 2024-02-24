@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Jill Andrews",
-      "Kid Tigrrr"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13654878/jill-andrews-kid-tigrrr",
-    "date": "2024-02-22T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "I Hate It Too",
       "Tunnelvision",
       "Night at Delaney's",
@@ -472,6 +463,19 @@
   },
   {
     "artist": [
+      "Club Ultraviolet",
+      "Will Cherry",
+      "WESWILL",
+      "Trav Hen",
+      "Cassius G",
+      "DJ Navy Jade"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13558623/club-ultraviolet-will-cherry-weswill-trav-hen-cassius-g-dj-navy-jade",
+    "date": "2024-04-04T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Steve Forbert",
       "Dave Rich"
     ],
@@ -517,6 +521,16 @@
     "link": "https://www.beachlandballroom.com/e/13451573/woods-avey-tare",
     "date": "2024-04-07T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Songstress Jo & the Familiar",
+      "Alexis Marrero",
+      "Pink Maskerade"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13558733/songstress-jo-the-familiar-alexis-marrero-pink-maskerade",
+    "date": "2024-04-07T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -826,6 +840,32 @@
     "link": "https://www.beachlandballroom.com/e/13477173/eggy",
     "date": "2024-05-10T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "R.A.P. Ferreira",
+      "Cavalier"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13535183/r-a-p-ferreira-cavalier",
+    "date": "2024-05-10T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Our Day Will Come",
+      "Charity Cunningham",
+      "Girl Cologne",
+      "Jinni Fontana",
+      "Kristine Jackson",
+      "Lilieae",
+      "Moon Echo Garden",
+      "Queue Up with Alison Garrigan",
+      "The Sugar Babes",
+      "Vanity Crash"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13557103/our-day-will-come-charity-cunningham-girl-cologne-jinni-fontana-kristine-jackson-lilieae-moon-echo-garden-queue-up-with-alison-garrigan-the-sugar-babes-vanity-crash",
+    "date": "2024-05-11T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

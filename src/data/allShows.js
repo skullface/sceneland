@@ -1,26 +1,8 @@
 export const allShows = [
   {
-    artist: ['Glixen'],
-    link: 'https://link.dice.fm/he2703560fe2?dice_id=he2703560fe2',
-    date: '2024-02-24T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Bizarre Dance Triangle: Bowie vs. Prince'],
-    link: 'https://link.dice.fm/Y91d13edcd85?dice_id=Y91d13edcd85',
-    date: '2024-02-24T22:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Bit Brigade performs "Mega Man II" and "DuckTales"'],
     link: 'https://link.dice.fm/b752f5071623?dice_id=b752f5071623',
     date: '2024-02-26T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Alexis Marrero'],
-    link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
-    date: '2024-03-01T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -28,6 +10,12 @@ export const allShows = [
     link: 'https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc',
     date: '2024-03-01T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Alexis Marrero'],
+    link: 'https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7',
+    date: '2024-03-01T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['School of Rock headliners'],
@@ -445,98 +433,10 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['N69 FEST'],
-    link: 'https://www.eventbrite.com/e/n69-fest-tickets-788633583277',
-    date: '2024-03-09T16:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['JER x Zeta'],
-    link: 'https://www.eventbrite.com/e/jer-x-zeta-tickets-847091111317',
-    date: '2024-05-05T17:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['SPECTRAL VOICE'],
-    link: 'https://www.eventbrite.com/e/spectral-voice-tickets-832656547147',
-    date: '2024-05-15T19:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['INCANTATION'],
-    link: 'https://www.eventbrite.com/e/incantation-tickets-841778962537',
-    date: '2024-05-19T17:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['THE EXPLOITED'],
-    link: 'https://www.eventbrite.com/e/the-exploited-tickets-849136830117',
-    date: '2024-09-21T19:00:00',
-    venue: 'No Class',
-  },
-  {
     artist: [
-      'Ripperfest: YDI, Primitive Impulse, Mower, Lady Parts, Leaking Head +',
+      'Ripperfest: Mower, Primitive Impulse, Lady Parts, Leaking Head +',
     ],
-    link: 'https://www.eventbrite.com/e/ripperfest-ydi-primitive-impulse-mower-lady-parts-leaking-head-tickets-770657004847',
-    date: '2024-02-25T17:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['DJ Kishka: One Month til Dyngus Party!'],
-    link: 'https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607',
-    date: '2024-03-01T18:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Live Hip-Hop Showcase in the Underdog!'],
-    link: 'https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197',
-    date: '2024-03-01T18:30:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Sensor Ghost, The Insect, Honolulu High'],
-    link: 'https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047',
-    date: '2024-03-01T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Lowspot single release w/ Ace of Wands, Fawx, Wig Doubt'],
-    link: 'https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-wig-doubt-tickets-825979104737',
-    date: '2024-03-02T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Happy Dog Takes on Everything'],
-    link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927',
-    date: '2024-03-06T19:30:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Omni, This Is Lorelei, Suitor'],
-    link: 'https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607',
-    date: '2024-03-08T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ['Bristoltooth, Total Downer, Crumbling Creatures'],
-    link: 'https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387',
-    date: '2024-03-09T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: [
-      'Shadow Show, Marty Brass & The Lavender Jets, Perfect Pals, The Vumms',
-    ],
-    link: 'https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937',
-    date: '2024-03-10T21:00:00',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: [
-      'Ripperfest: YDI, Primitive Impulse, Mower, Lady Parts, Leaking Head +',
-    ],
-    link: 'https://www.eventbrite.com/e/ripperfest-ydi-primitive-impulse-mower-lady-parts-leaking-head-tickets-770657004847',
+    link: 'https://www.eventbrite.com/e/ripperfest-mower-primitive-impulse-lady-parts-leaking-head-tickets-770657004847',
     date: '2024-02-25T17:00:00',
     venue: 'Happy Dog',
   },
@@ -1092,23 +992,6 @@ export const allShows = [
     link: 'https://premium.livenation.com/venue/blossom-music-center',
     date: '2024-12-31T00:00:01',
     venue: 'Blossom',
-  },
-  {
-    artist: [
-      'I Hate It Too',
-      'Tunnelvision',
-      "Night at Delaney's",
-      'October Beach Club',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13262123/i-hate-it-too-tunnelvision-night-at-delaney-s-october-beach-club',
-    date: '2024-02-23T19:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Into The Blue'],
-    link: 'https://www.beachlandballroom.com/e/13451153/into-the-blue',
-    date: '2024-02-23T21:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Ike Reilly', 'Johnny Stanec'],
@@ -1848,18 +1731,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['RIPPER FLEA MARKET!'],
-    link: 'https://grogshop.gs/event-details/13542143/ripper-flea-market-',
-    date: '2024-02-24T12:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['RUSTBELT RIPPERFEST II'],
-    link: 'https://grogshop.gs/event-details/13376533/rustbelt-ripperfest-ii',
-    date: '2024-02-24T17:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Frozen Fest 2024',
       'Ocean Reign',
@@ -1990,6 +1861,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
+    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
+    date: '2024-03-15T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: [
       'SWANK. All Smiles',
       'Westside LO',
@@ -1998,12 +1875,6 @@ export const allShows = [
       'DJ Cooley High',
     ],
     link: 'https://grogshop.gs/event-details/13504543/swank-all-smiles',
-    date: '2024-03-15T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
-    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
     date: '2024-03-15T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2482,6 +2353,15 @@ export const allShows = [
   },
   {
     artist: [
+      'Drake with J. Cole',
+      'It\u2019s All A Blur Tour \u2013 Big As The What?',
+    ],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/drake-240224',
+    date: '2024-02-25',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
+    artist: [
       '15th Annual Cleveland Bridal Show',
       'Presented By TL Worldwide Transportation',
     ],
@@ -2566,12 +2446,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
     date: '2026-02-28',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['October London, J. Brown, Shindellas'],
-    link: 'https://www.agoracleveland.com/events/detail/516819',
-    date: '2024-02-24T19:00:00',
-    venue: 'Agora',
   },
   {
     artist: ["Jimbo's Drag Circus"],
@@ -2748,6 +2622,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Front 242, Nitzer Ebb, Kanga'],
+    link: 'https://www.agoracleveland.com/events/detail/533396',
+    date: '2024-09-08T19:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: [
       'The Wise Man\u2019s Fear, Softspoken, MORNING IN MAY, Adrift On River Styx',
     ],
@@ -2813,12 +2693,6 @@ export const allShows = [
     artist: ['Lutharo, Olathia, After The Apocalypse, Storms of Tomorrow'],
     link: 'https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/',
     date: '2024-03-16T19:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['Death Lens, The Rosies, Honey Pocket'],
-    link: 'https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/',
-    date: '2024-03-20T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -2936,16 +2810,10 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Sorelle'],
-    link: 'https://concerts.livenation.com/sorelle-cleveland-ohio-02-24-2024/event/050060373EE171FF',
-    date: '2024-02-24T18:30:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Trippin Billies'],
-    link: 'https://concerts.livenation.com/trippin-billies-cleveland-ohio-02-24-2024/event/05005F86B35840A5',
-    date: '2024-02-24T19:00:00',
-    venue: 'House of Blues',
+    artist: ['A Skylit Drive, Vrsty, Ovtlier'],
+    link: 'https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/',
+    date: '2024-08-20T19:00:00',
+    venue: 'Foundry',
   },
   {
     artist: ['Cold War Kids: 20 Years Tour'],
@@ -3223,6 +3091,18 @@ export const allShows = [
     artist: ['City and Colour: Spring 2024'],
     link: 'https://concerts.livenation.com/city-and-colour-spring-2024-cleveland-ohio-05-19-2024/event/05006047981C1A80',
     date: '2024-05-19T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Bella Dose: L-Pop US Tour'],
+    link: 'https://concerts.livenation.com/bella-dose-lpop-us-tour-cleveland-ohio-05-23-2024/event/05006048FD065905',
+    date: '2024-05-23T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['X Ambassadors: TOWNIE: NORTH AMERICAN TOUR'],
+    link: 'https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9',
+    date: '2024-05-26T18:30:00',
     venue: 'House of Blues',
   },
 ]

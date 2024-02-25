@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Sorelle"
-    ],
-    "link": "https://concerts.livenation.com/sorelle-cleveland-ohio-02-24-2024/event/050060373EE171FF",
-    "date": "2024-02-24T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Trippin Billies"
-    ],
-    "link": "https://concerts.livenation.com/trippin-billies-cleveland-ohio-02-24-2024/event/05005F86B35840A5",
-    "date": "2024-02-24T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Cold War Kids: 20 Years Tour"
     ],
     "link": "https://concerts.livenation.com/cold-war-kids-20-years-tour-cleveland-ohio-02-26-2024/event/05005F26A8DE1B1C",
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/city-and-colour-spring-2024-cleveland-ohio-05-19-2024/event/05006047981C1A80",
     "date": "2024-05-19T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Bella Dose: L-Pop US Tour"
+    ],
+    "link": "https://concerts.livenation.com/bella-dose-lpop-us-tour-cleveland-ohio-05-23-2024/event/05006048FD065905",
+    "date": "2024-05-23T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "X Ambassadors: TOWNIE: NORTH AMERICAN TOUR"
+    ],
+    "link": "https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9",
+    "date": "2024-05-26T18:30:00",
     "venue": "House of Blues"
   }
 ]

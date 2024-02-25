@@ -1,34 +1,10 @@
 [
   {
     "artist": [
-      "Glixen"
-    ],
-    "link": "https://link.dice.fm/he2703560fe2?dice_id=he2703560fe2",
-    "date": "2024-02-24T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Bizarre Dance Triangle: Bowie vs. Prince"
-    ],
-    "link": "https://link.dice.fm/Y91d13edcd85?dice_id=Y91d13edcd85",
-    "date": "2024-02-24T22:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Bit Brigade performs \"Mega Man II\" and \"DuckTales\""
     ],
     "link": "https://link.dice.fm/b752f5071623?dice_id=b752f5071623",
     "date": "2024-02-26T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Alexis Marrero"
-    ],
-    "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
-    "date": "2024-03-01T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -38,6 +14,14 @@
     "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
     "date": "2024-03-01T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alexis Marrero"
+    ],
+    "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
+    "date": "2024-03-01T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

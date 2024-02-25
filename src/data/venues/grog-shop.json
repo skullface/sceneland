@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "RIPPER FLEA MARKET!"
-    ],
-    "link": "https://grogshop.gs/event-details/13542143/ripper-flea-market-",
-    "date": "2024-02-24T12:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "RUSTBELT RIPPERFEST II"
-    ],
-    "link": "https://grogshop.gs/event-details/13376533/rustbelt-ripperfest-ii",
-    "date": "2024-02-24T17:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Frozen Fest 2024",
       "Ocean Reign",
       "HBSANLMM",
@@ -178,6 +162,15 @@
   },
   {
     "artist": [
+      "Otoboke Beaver",
+      "Drinking Boys and Girls Choir"
+    ],
+    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
+    "date": "2024-03-15T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "SWANK. All Smiles",
       "Westside LO",
       "Big Bewm",
@@ -185,15 +178,6 @@
       "DJ Cooley High"
     ],
     "link": "https://grogshop.gs/event-details/13504543/swank-all-smiles",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Otoboke Beaver",
-      "Drinking Boys and Girls Choir"
-    ],
-    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
     "date": "2024-03-15T20:00:00",
     "venue": "Grog Shop"
   },

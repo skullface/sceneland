@@ -89,14 +89,6 @@
   },
   {
     "artist": [
-      "Death Lens, The Rosies, Honey Pocket"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/",
-    "date": "2024-03-20T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Native Sons, Lilieae, Vernotica, Billy Morris and the Sunset Strip"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/native-sons-lilieae-vernotica/",
@@ -237,6 +229,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/plush-truss-dive-bombs-grant/",
     "date": "2024-06-13T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "A Skylit Drive, Vrsty, Ovtlier"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/",
+    "date": "2024-08-20T19:00:00",
     "venue": "Foundry"
   }
 ]

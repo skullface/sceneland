@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "October London, J. Brown, Shindellas"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/516819",
-    "date": "2024-02-24T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Jimbo's Drag Circus"
     ],
     "link": "https://www.agoracleveland.com/events/detail/495366",
@@ -237,6 +229,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/529652",
     "date": "2024-09-04T19:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Front 242, Nitzer Ebb, Kanga"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/533396",
+    "date": "2024-09-08T19:00:00",
     "venue": "Agora"
   }
 ]

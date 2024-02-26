@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Feb 2024 09:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 09:06:22 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bit Brigade performs "Mega Man II" and "DuckTales" at Mahall’s]]></title>
@@ -511,13 +511,6 @@
             <pubDate>Sat, 21 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ripperfest: Mower, Primitive Impulse, Lady Parts, Leaking Head + at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Ripperfest: Mower, Primitive Impulse, Lady Parts, Leaking Head + at Happy Dog on Sunday, February 25, 2024, 05:00 PM: https://www.eventbrite.com/e/ripperfest-mower-primitive-impulse-lady-parts-leaking-head-tickets-770657004847]]></description>
-            <link>https://www.eventbrite.com/e/ripperfest-mower-primitive-impulse-lady-parts-leaking-head-tickets-770657004847</link>
-            <guid isPermaLink="true">https://www.eventbrite.com/e/ripperfest-mower-primitive-impulse-lady-parts-leaking-head-tickets-770657004847</guid>
-            <pubDate>Sun, 25 Feb 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DJ Kishka: One Month til Dyngus Party! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to DJ Kishka: One Month til Dyngus Party! at Happy Dog on Friday, March 1, 2024, 06:00 PM: https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607]]></description>
             <link>https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607</link>
@@ -572,6 +565,13 @@
             <link>https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937</guid>
             <pubDate>Sun, 10 Mar 2024 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Condit, Songs from an Unknown God, The Magnavox's at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to John Condit, Songs from an Unknown God, The Magnavox's at Happy Dog on Tuesday, March 12, 2024, 09:00 PM: https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377]]></description>
+            <link>https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377</link>
+            <guid isPermaLink="true">https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377</guid>
+            <pubDate>Tue, 12 Mar 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chris Young, Bryan Martin at Jacobs Pavilion at Nautica]]></title>
@@ -1146,20 +1146,6 @@
             <link>https://premium.livenation.com/venue/blossom-music-center</link>
             <guid isPermaLink="true">https://premium.livenation.com/venue/blossom-music-center</guid>
             <pubDate>Tue, 31 Dec 2024 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ike Reilly, Johnny Stanec at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Ike Reilly, Johnny Stanec at Beachland Tavern on Saturday, February 24, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13388693/ike-reilly-johnny-stanec]]></description>
-            <link>https://www.beachlandballroom.com/e/13388693/ike-reilly-johnny-stanec</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13388693/ike-reilly-johnny-stanec</guid>
-            <pubDate>Sat, 24 Feb 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Brunch, DJ Ed Zeitz (WRUW's Chasing Infinity) at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, DJ Ed Zeitz (WRUW's Chasing Infinity) at Beachland Tavern on Sunday, February 25, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13518193/beachland-brunch-dj-ed-zeitz-wruw-s-chasing-infinity-]]></description>
-            <link>https://www.beachlandballroom.com/e/13518193/beachland-brunch-dj-ed-zeitz-wruw-s-chasing-infinity-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13518193/beachland-brunch-dj-ed-zeitz-wruw-s-chasing-infinity-</guid>
-            <pubDate>Sun, 25 Feb 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hedwig and the Angry Inch Screening at Beachland Ballroom]]></title>
@@ -1939,13 +1925,6 @@
             <pubDate>Sun, 20 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Frozen Fest 2024, Ocean Reign, HBSANLMM, Cult Kids, Eaten By Kittens, The Crxssing at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Frozen Fest 2024, Ocean Reign, HBSANLMM, Cult Kids, Eaten By Kittens, The Crxssing at Grog Shop on Sunday, February 25, 2024, 04:30 PM: https://grogshop.gs/event-details/13487163/frozen-fest-2024]]></description>
-            <link>https://grogshop.gs/event-details/13487163/frozen-fest-2024</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13487163/frozen-fest-2024</guid>
-            <pubDate>Sun, 25 Feb 2024 16:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Great Grog Bake Off at Grog Shop]]></title>
             <description><![CDATA[Get tickets to The Great Grog Bake Off at Grog Shop on Wednesday, February 28, 2024, 08:00 PM: https://grogshop.gs/event-details/13454243/the-great-grog-bake-off]]></description>
             <link>https://grogshop.gs/event-details/13454243/the-great-grog-bake-off</link>
@@ -2548,13 +2527,6 @@
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Drake with J. Cole, It’s All A Blur Tour – Big As The What? at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Drake with J. Cole, It’s All A Blur Tour – Big As The What? at Rocket Mortgage FieldHouse on Sunday, February 25, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/drake-240224]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/drake-240224</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/drake-240224</guid>
-            <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[15th Annual Cleveland Bridal Show, Presented By TL Worldwide Transportation at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to 15th Annual Cleveland Bridal Show, Presented By TL Worldwide Transportation at Rocket Mortgage FieldHouse on Saturday, March 2, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302</link>
@@ -2849,20 +2821,6 @@
             <pubDate>Sun, 08 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Wise Man’s Fear, Softspoken, MORNING IN MAY, Adrift On River Styx at Foundry]]></title>
-            <description><![CDATA[Get tickets to The Wise Man’s Fear, Softspoken, MORNING IN MAY, Adrift On River Styx at Foundry on Saturday, February 24, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/</guid>
-            <pubDate>Sat, 24 Feb 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FREE BAR SHOW at Foundry]]></title>
-            <description><![CDATA[Get tickets to FREE BAR SHOW at Foundry on Sunday, February 25, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/free-bar-show/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/free-bar-show/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/free-bar-show/</guid>
-            <pubDate>Sun, 25 Feb 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
             <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, February 26, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/</link>
@@ -2924,6 +2882,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/</guid>
             <pubDate>Sat, 16 Mar 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death Lens, The Rosies, Honey Pocket at Foundry]]></title>
+            <description><![CDATA[Get tickets to Death Lens, The Rosies, Honey Pocket at Foundry on Wednesday, March 20, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/</guid>
+            <pubDate>Wed, 20 Mar 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Native Sons, Lilieae, Vernotica, Billy Morris and the Sunset Strip at Foundry]]></title>

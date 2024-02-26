@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Wise Man\u2019s Fear, Softspoken, MORNING IN MAY, Adrift On River Styx"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/",
-    "date": "2024-02-24T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "FREE BAR SHOW"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show/",
-    "date": "2024-02-25T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "MOVIE NIGHT MONDAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/",
@@ -85,6 +69,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/",
     "date": "2024-03-16T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Death Lens, The Rosies, Honey Pocket"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/",
+    "date": "2024-03-20T19:00:00",
     "venue": "Foundry"
   },
   {

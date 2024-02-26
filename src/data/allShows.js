@@ -433,14 +433,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: [
-      'Ripperfest: Mower, Primitive Impulse, Lady Parts, Leaking Head +',
-    ],
-    link: 'https://www.eventbrite.com/e/ripperfest-mower-primitive-impulse-lady-parts-leaking-head-tickets-770657004847',
-    date: '2024-02-25T17:00:00',
-    venue: 'Happy Dog',
-  },
-  {
     artist: ['DJ Kishka: One Month til Dyngus Party!'],
     link: 'https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607',
     date: '2024-03-01T18:00:00',
@@ -488,6 +480,12 @@ export const allShows = [
     ],
     link: 'https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937',
     date: '2024-03-10T21:00:00',
+    venue: 'Happy Dog',
+  },
+  {
+    artist: ["John Condit, Songs from an Unknown God, The Magnavox's"],
+    link: 'https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377',
+    date: '2024-03-12T21:00:00',
     venue: 'Happy Dog',
   },
   {
@@ -992,18 +990,6 @@ export const allShows = [
     link: 'https://premium.livenation.com/venue/blossom-music-center',
     date: '2024-12-31T00:00:01',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Ike Reilly', 'Johnny Stanec'],
-    link: 'https://www.beachlandballroom.com/e/13388693/ike-reilly-johnny-stanec',
-    date: '2024-02-24T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Beachland Brunch', "DJ Ed Zeitz (WRUW's Chasing Infinity)"],
-    link: 'https://www.beachlandballroom.com/e/13518193/beachland-brunch-dj-ed-zeitz-wruw-s-chasing-infinity-',
-    date: '2024-02-25T11:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Hedwig and the Angry Inch Screening'],
@@ -1731,19 +1717,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: [
-      'Frozen Fest 2024',
-      'Ocean Reign',
-      'HBSANLMM',
-      'Cult Kids',
-      'Eaten By Kittens',
-      'The Crxssing',
-    ],
-    link: 'https://grogshop.gs/event-details/13487163/frozen-fest-2024',
-    date: '2024-02-25T16:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['The Great Grog Bake Off'],
     link: 'https://grogshop.gs/event-details/13454243/the-great-grog-bake-off',
     date: '2024-02-28T20:00:00',
@@ -2353,15 +2326,6 @@ export const allShows = [
   },
   {
     artist: [
-      'Drake with J. Cole',
-      'It\u2019s All A Blur Tour \u2013 Big As The What?',
-    ],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/drake-240224',
-    date: '2024-02-25',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: [
       '15th Annual Cleveland Bridal Show',
       'Presented By TL Worldwide Transportation',
     ],
@@ -2628,20 +2592,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: [
-      'The Wise Man\u2019s Fear, Softspoken, MORNING IN MAY, Adrift On River Styx',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/the-wise-mans-fear-softspoken-fear-culture-adrift-on-river-styx/',
-    date: '2024-02-24T19:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['FREE BAR SHOW'],
-    link: 'https://www.foundryconcertclub.com/tm-event/free-bar-show/',
-    date: '2024-02-25T18:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/',
     date: '2024-02-26T18:00:00',
@@ -2693,6 +2643,12 @@ export const allShows = [
     artist: ['Lutharo, Olathia, After The Apocalypse, Storms of Tomorrow'],
     link: 'https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/',
     date: '2024-03-16T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Death Lens, The Rosies, Honey Pocket'],
+    link: 'https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/',
+    date: '2024-03-20T19:00:00',
     venue: 'Foundry',
   },
   {

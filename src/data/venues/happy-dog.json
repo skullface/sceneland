@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Ripperfest: Mower, Primitive Impulse, Lady Parts, Leaking Head +"
-    ],
-    "link": "https://www.eventbrite.com/e/ripperfest-mower-primitive-impulse-lady-parts-leaking-head-tickets-770657004847",
-    "date": "2024-02-25T17:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "DJ Kishka: One Month til Dyngus Party!"
     ],
     "link": "https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937",
     "date": "2024-03-10T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "John Condit, Songs from an Unknown God, The Magnavox's"
+    ],
+    "link": "https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377",
+    "date": "2024-03-12T21:00:00",
     "venue": "Happy Dog"
   }
 ]

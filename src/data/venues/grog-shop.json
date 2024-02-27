@@ -54,20 +54,20 @@
   },
   {
     "artist": [
+      "BabyTron"
+    ],
+    "link": "https://grogshop.gs/event-details/13853798/babytron",
+    "date": "2024-03-06T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Left Lane Cruiser",
       "Nate Bergman",
       "Adam Faucett",
       "The Morning Bird"
     ],
     "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "BabyTron"
-    ],
-    "link": "https://grogshop.gs/event-details/13853798/babytron",
     "date": "2024-03-06T20:00:00",
     "venue": "Grog Shop"
   },
@@ -93,6 +93,16 @@
     "link": "https://grogshop.gs/event-details/13495713/songs-and-stories-with-lisa-loeb",
     "sold_out": true,
     "date": "2024-03-08T19:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "PLANET HER: INTL WMNS DAY: A CELEBRATION OF WOMEN",
+      "Medlee",
+      "Sierra Delaine"
+    ],
+    "link": "https://grogshop.gs/event-details/13566673/planet-her-intl-wmns-day-a-celebration-of-women",
+    "date": "2024-03-08T22:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -346,7 +356,8 @@
   },
   {
     "artist": [
-      "Work Wife"
+      "Work Wife",
+      "You're Among Friends"
     ],
     "link": "https://grogshop.gs/event-details/13543723/work-wife",
     "date": "2024-04-17T20:00:00",
@@ -529,11 +540,29 @@
   },
   {
     "artist": [
+      "The Spits",
+      "The Hell"
+    ],
+    "link": "https://grogshop.gs/event-details/13557123/the-spits",
+    "date": "2024-07-06T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "mc chris",
       "Crunk Witch"
     ],
     "link": "https://grogshop.gs/event-details/13542873/mc-chris-crunk-witch",
     "date": "2024-07-09T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "If These Trees Could Talk",
+      "Sleepmakeswaves"
+    ],
+    "link": "https://grogshop.gs/event-details/13553093/if-these-trees-could-talk-sleepmakeswaves",
+    "date": "2024-07-24T20:00:00",
     "venue": "Grog Shop"
   },
   {

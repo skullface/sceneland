@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "Hedwig and the Angry Inch Screening"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13464453/hedwig-and-the-angry-inch-screening",
-    "date": "2024-02-25T19:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "S.Y.S. (Save YourSelf)",
-      "Chimi",
-      "Medlee",
-      "Sadhu",
-      "A.M. The Queen"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13464883/s-y-s-save-yourself-chimi-medlee-sadhu-a-m-the-queen",
-    "date": "2024-02-25T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Tyler Ramsey",
       "Kramies"
     ],
@@ -50,6 +30,7 @@
       "If These Trees Could Talk"
     ],
     "link": "https://www.beachlandballroom.com/e/13338153/king-buffalo-if-these-trees-could-talk",
+    "sold_out": true,
     "date": "2024-03-01T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -175,6 +156,15 @@
   },
   {
     "artist": [
+      "Beachland Brunch",
+      "Hodgepodge Lodge"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13564983/beachland-brunch-hodgepodge-lodge",
+    "date": "2024-03-10T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Ally Venable",
       "The Brakes"
     ],
@@ -193,9 +183,10 @@
   },
   {
     "artist": [
-      "Tophouse"
+      "Tophouse",
+      "The Wildwoods"
     ],
-    "link": "https://www.beachlandballroom.com/e/13718918/tophouse",
+    "link": "https://www.beachlandballroom.com/e/13718918/tophouse-the-wildwoods",
     "date": "2024-03-14T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -562,6 +553,15 @@
   },
   {
     "artist": [
+      "Burning River",
+      "Loconti"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13566583/burning-river-loconti",
+    "date": "2024-04-13T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "The Local Honeys"
     ],
     "link": "https://www.beachlandballroom.com/e/13498823/the-local-honeys",
@@ -823,10 +823,10 @@
       "Lilieae",
       "Moon Echo Garden",
       "Queue Up with Alison Garrigan",
-      "The Sugar Babes",
+      "The Super Babes",
       "Vanity Crash"
     ],
-    "link": "https://www.beachlandballroom.com/e/13557103/our-day-will-come-charity-cunningham-girl-cologne-jinni-fontana-kristine-jackson-lilieae-moon-echo-garden-queue-up-with-alison-garrigan-the-sugar-babes-vanity-crash",
+    "link": "https://www.beachlandballroom.com/e/13557103/our-day-will-come-charity-cunningham-girl-cologne-jinni-fontana-kristine-jackson-lilieae-moon-echo-garden-queue-up-with-alison-garrigan-the-super-babes-vanity-crash",
     "date": "2024-05-11T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -906,6 +906,15 @@
     "link": "https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson",
     "date": "2024-05-24T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Emo Night Kent: Beachland Takeover",
+      "Special Guest Emo TikTok Star Cat Lynn aka @clawed_Beauty101"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13566523/emo-night-kent-beachland-takeover-special-guest-emo-tiktok-star-cat-lynn-aka-clawed_beauty101",
+    "date": "2024-05-31T21:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

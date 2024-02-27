@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bit Brigade performs \"Mega Man II\" and \"DuckTales\""
-    ],
-    "link": "https://link.dice.fm/b752f5071623?dice_id=b752f5071623",
-    "date": "2024-02-26T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Blonde Redhead"
     ],
     "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
@@ -209,20 +201,20 @@
   },
   {
     "artist": [
+      "The Little Ditties / Magazine Beach"
+    ],
+    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Bilmuri"
     ],
     "link": "https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca",
     "sold_out": true,
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Little Ditties / Magazine Beach"
-    ],
-    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -266,19 +258,19 @@
   },
   {
     "artist": [
-      "Jeff Rosenstock"
-    ],
-    "link": "https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7",
-    "date": "2024-04-04T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Sitting On Stacy"
     ],
     "link": "https://link.dice.fm/p7e4eb4034a4?dice_id=p7e4eb4034a4",
     "date": "2024-04-04T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Jeff Rosenstock"
+    ],
+    "link": "https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7",
+    "date": "2024-04-04T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -426,19 +418,19 @@
   },
   {
     "artist": [
-      "Boundaries"
-    ],
-    "link": "https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71",
-    "date": "2024-05-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Microwave"
     ],
     "link": "https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb",
     "date": "2024-05-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Boundaries"
+    ],
+    "link": "https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71",
+    "date": "2024-05-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

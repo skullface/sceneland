@@ -139,9 +139,10 @@
   },
   {
     "artist": [
-      "Whiskey Throttle"
+      "Whiskey Throttle",
+      "G.S. Harper"
     ],
-    "link": "https://www.beachlandballroom.com/e/13498933/whiskey-throttle",
+    "link": "https://www.beachlandballroom.com/e/13498933/whiskey-throttle-g-s-harper",
     "date": "2024-03-08T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -914,7 +915,7 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13566523/emo-night-kent-beachland-takeover-special-guest-emo-tiktok-star-cat-lynn-aka-clawed_beauty101",
     "date": "2024-05-31T21:00:00",
-    "venue": "Beachland Tavern"
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -950,6 +951,14 @@
   },
   {
     "artist": [
+      "JMSN"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13518523/jmsn",
+    "date": "2024-06-16T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Kevin Gordon Trio"
     ],
     "link": "https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio",
@@ -967,12 +976,29 @@
   },
   {
     "artist": [
+      "Banned From Utopia",
+      "Paul Green Rock Academy"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13552053/banned-from-utopia-paul-green-rock-academy",
+    "date": "2024-07-06T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "APOCALYPS Records Festival",
       "Kingxzell",
       "Johnny and Swank"
     ],
     "link": "https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank",
     "date": "2024-07-12T19:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Mates of State"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13546853/mates-of-state",
+    "date": "2024-07-14T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/",
-    "date": "2024-02-26T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "The Electric Funeral"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-electric-funeral/",
@@ -41,10 +33,18 @@
   },
   {
     "artist": [
-      "Of Virtue, Titrate the Terror"
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-9/",
+    "date": "2024-03-04T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Of Virtue, Titrate the Terror, Earth & Elsewhere"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/of-virtue/",
-    "date": "2024-03-05T18:00:00",
+    "date": "2024-03-05T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -57,10 +57,26 @@
   },
   {
     "artist": [
+      "NOCTURNAL VS. MOONLIGHT DANCE CLUB"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-vs-moonlight-dance-club/",
+    "date": "2024-03-09T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Weeping Wound, Wiltwither, cohen_noise, Narcissus"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/",
     "date": "2024-03-12T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "BORED GAME NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-2/",
+    "date": "2024-03-14T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -89,6 +105,22 @@
   },
   {
     "artist": [
+      "LUNAR UNDERGROUND AND LIGHTS AND SOUND MEDIA BOOKINGS PRESENTS VAMPIRES BALL"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/lunar-underground-and-lights-and-sound-media-bookings-presents-vampires-ball/",
+    "date": "2024-03-22T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "OHIO UNDERGROUND"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/ohio-underground/",
+    "date": "2024-03-23T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "MOVIE NIGHT MONDAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/",
@@ -109,6 +141,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/",
     "date": "2024-03-29T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Memory Lane"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/memory-lane/",
+    "date": "2024-03-30T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -197,6 +237,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/",
     "date": "2024-05-20T19:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Get The Shot, Life Cycles"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/get-the-shot-life-cycles/",
+    "date": "2024-05-23T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Green Jelly, Silverspork"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/green-jelly-silverspork/",
+    "date": "2024-05-25T19:00:00",
     "venue": "Foundry"
   },
   {

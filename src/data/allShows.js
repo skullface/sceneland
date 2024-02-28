@@ -283,6 +283,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Tom Sandoval & The Most Extras'],
+    link: 'https://link.dice.fm/Rda554e7f7ac?dice_id=Rda554e7f7ac',
+    date: '2024-05-01T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
     artist: ['Yot Club'],
     link: 'https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0',
     date: '2024-05-03T19:30:00-04:00',
@@ -313,16 +319,16 @@ export const allShows = [
     venue: 'Mahall\u2019s Apartment',
   },
   {
-    artist: ['Microwave'],
-    link: 'https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb',
-    date: '2024-05-10T18:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Boundaries'],
     link: 'https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71',
     date: '2024-05-10T18:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Microwave'],
+    link: 'https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb',
+    date: '2024-05-10T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Young Rising Sons'],
@@ -361,6 +367,12 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['Motherfolk'],
+    link: 'https://link.dice.fm/L956e8920e79?dice_id=L956e8920e79',
+    date: '2024-05-19T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Delta Sleep'],
     link: 'https://link.dice.fm/Sb23d02d0836?dice_id=Sb23d02d0836',
     date: '2024-05-28T19:00:00-04:00',
@@ -389,6 +401,12 @@ export const allShows = [
     link: 'https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3',
     date: '2024-07-27T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Katy Kirby'],
+    link: 'https://link.dice.fm/v5f12eef8cd4?dice_id=v5f12eef8cd4',
+    date: '2024-08-08T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Wheatus'],
@@ -546,6 +564,14 @@ export const allShows = [
     artist: ['Brothers Osborne, Stephen Wilson Jr.'],
     link: '/events/detail?event_id=516497',
     date: '2024-06-29T19:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: [
+      'Sad Summer Festival 2024, Mayday Parade, The Maine, The Wonder Years, We the Kings, Real Friends, Knuckle Puck, Daisy Grenade, Hot Milk',
+    ],
+    link: '/events/detail?event_id=533386',
+    date: '2024-07-29T13:00:00',
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
@@ -728,14 +754,14 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed'],
-    link: 'https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5',
+    artist: ['EMO ORCHESTRA featuring ESCAPE THE FATE'],
+    link: 'https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853',
     date: '2024-04-19T20:00:00',
     venue: 'Masonic Temple',
   },
   {
-    artist: ['EMO ORCHESTRA featuring ESCAPE THE FATE'],
-    link: 'https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853',
+    artist: ['TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed'],
+    link: 'https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5',
     date: '2024-04-19T20:00:00',
     venue: 'Masonic Temple',
   },
@@ -764,14 +790,14 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Into the Blue (ELO Tribute)'],
-    link: 'https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3',
+    artist: ['Uriah Heep & Saxon'],
+    link: 'https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0',
     date: '2024-05-11T20:00:00',
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Uriah Heep & Saxon'],
-    link: 'https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0',
+    artist: ['Into the Blue (ELO Tribute)'],
+    link: 'https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3',
     date: '2024-05-11T20:00:00',
     venue: 'Masonic Temple',
   },
@@ -806,6 +832,12 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['Eddie B \u2013 Teachers Only Comedy Tour 24\u2032'],
+    link: 'https://www.ticketmaster.com/eddie-b-teachers-only-comedy-tour-cleveland-ohio-06-22-2024/event/0500605AD9D34B9F',
+    date: '2024-06-22T20:00:00',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['Lake Street Dive: Good Together Tour'],
     link: 'https://www.ticketmaster.com/lake-street-dive-good-together-tour-cleveland-ohio-07-09-2024/event/0500603AFC5F6DDE',
     date: '2024-07-09T20:00:00',
@@ -827,6 +859,12 @@ export const allShows = [
     artist: ["Noah Kahan: We'll All Be Here Forever Tour"],
     link: 'https://concerts.livenation.com/noah-kahan-well-all-be-here-cuyahoga-falls-ohio-05-28-2024/event/05005F33F78770D0',
     date: '2024-05-28T20:00:00',
+    venue: 'Blossom',
+  },
+  {
+    artist: ['21 Savage: American Dream Tour'],
+    link: 'https://concerts.livenation.com/21-savage-american-dream-tour-cuyahoga-falls-ohio-05-29-2024/event/05006055E0CC5F09',
+    date: '2024-05-29T19:00:00',
     venue: 'Blossom',
   },
   {
@@ -994,6 +1032,14 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: [
+      'Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival',
+    ],
+    link: 'https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937',
+    date: '2024-09-12T17:30:00',
+    venue: 'Blossom',
+  },
+  {
     artist: ['Sum 41: Tour of the Setting Sum'],
     link: 'https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22',
     date: '2024-09-15T19:00:00',
@@ -1114,8 +1160,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Whiskey Throttle'],
-    link: 'https://www.beachlandballroom.com/e/13498933/whiskey-throttle',
+    artist: ['Whiskey Throttle', 'G.S. Harper'],
+    link: 'https://www.beachlandballroom.com/e/13498933/whiskey-throttle-g-s-harper',
     date: '2024-03-08T20:30:00',
     venue: 'Beachland Tavern',
   },
@@ -1671,7 +1717,7 @@ export const allShows = [
     ],
     link: 'https://www.beachlandballroom.com/e/13566523/emo-night-kent-beachland-takeover-special-guest-emo-tiktok-star-cat-lynn-aka-clawed_beauty101',
     date: '2024-05-31T21:00:00',
-    venue: 'Beachland Tavern',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Autumn!'],
@@ -1698,6 +1744,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['JMSN'],
+    link: 'https://www.beachlandballroom.com/e/13518523/jmsn',
+    date: '2024-06-16T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Kevin Gordon Trio'],
     link: 'https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio',
     date: '2024-06-22T20:00:00',
@@ -1710,9 +1762,21 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Banned From Utopia', 'Paul Green Rock Academy'],
+    link: 'https://www.beachlandballroom.com/e/13552053/banned-from-utopia-paul-green-rock-academy',
+    date: '2024-07-06T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['APOCALYPS Records Festival', 'Kingxzell', 'Johnny and Swank'],
     link: 'https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank',
     date: '2024-07-12T19:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Mates of State'],
+    link: 'https://www.beachlandballroom.com/e/13546853/mates-of-state',
+    date: '2024-07-14T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -1783,12 +1847,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['BabyTron'],
-    link: 'https://grogshop.gs/event-details/13853798/babytron',
-    date: '2024-03-06T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Left Lane Cruiser',
       'Nate Bergman',
@@ -1796,6 +1854,12 @@ export const allShows = [
       'The Morning Bird',
     ],
     link: 'https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird',
+    date: '2024-03-06T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['BabyTron'],
+    link: 'https://grogshop.gs/event-details/13853798/babytron',
     date: '2024-03-06T20:00:00',
     venue: 'Grog Shop',
   },
@@ -1824,6 +1888,7 @@ export const allShows = [
   {
     artist: [
       'PLANET HER: INTL WMNS DAY: A CELEBRATION OF WOMEN',
+      "D'Asia Simone",
       'Medlee',
       'Sierra Delaine',
     ],
@@ -1874,12 +1939,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
-    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
-    date: '2024-03-15T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'SWANK. All Smiles',
       'Westside LO',
@@ -1892,7 +1951,13 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Mihali'],
+    artist: ['Otoboke Beaver', 'Drinking Boys and Girls Choir'],
+    link: 'https://grogshop.gs/event-details/13764018/otoboke-beaver',
+    date: '2024-03-15T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Mihali', "The Cat's Meow"],
     link: 'https://grogshop.gs/event-details/13495513/mihali',
     date: '2024-03-16T20:30:00',
     venue: 'Grog Shop',
@@ -2000,13 +2065,13 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Low Phase', 'The Vumms', 'Solon', 'Tall Grass'],
-    link: 'https://grogshop.gs/event-details/13464333/low-phase-the-vumms-solon-tall-grass',
+    artist: ['Low Phase', 'The Vumms', 'Tall Grass', 'False Teeth'],
+    link: 'https://grogshop.gs/event-details/13464333/low-phase-the-vumms-tall-grass-false-teeth',
     date: '2024-04-09T20:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['BravoArtist Presents: Lakeview'],
+    artist: ['BravoArtist Presents: Lakeview', 'Sam Grow'],
     link: 'https://grogshop.gs/event-details/13519163/bravoartist-presents-lakeview',
     date: '2024-04-11T20:00:00',
     venue: 'Grog Shop',
@@ -2030,7 +2095,7 @@ export const allShows = [
   },
   {
     artist: ['Work Wife', "You're Among Friends"],
-    link: 'https://grogshop.gs/event-details/13543723/work-wife',
+    link: 'https://grogshop.gs/event-details/13543723/work-wife-you-re-among-friends',
     date: '2024-04-17T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2119,8 +2184,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Cathedral Bells', 'Leaving Time', 'Rew'],
-    link: 'https://grogshop.gs/event-details/13548893/cathedral-bells-leaving-time-rew',
+    artist: ['Cathedral Bells'],
+    link: 'https://grogshop.gs/event-details/13548893/cathedral-bells',
     date: '2024-05-14T20:00:00',
     venue: 'Grog Shop',
   },
@@ -2143,6 +2208,12 @@ export const allShows = [
     ],
     link: 'https://grogshop.gs/event-details/13519373/1349-spectral-wound-antichrist-siege-machine-spirit-possession',
     date: '2024-05-28T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['10 Years'],
+    link: 'https://grogshop.gs/event-details/13543893/10-years',
+    date: '2024-05-31T20:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -2650,12 +2721,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-8/',
-    date: '2024-02-26T18:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['The Electric Funeral'],
     link: 'https://www.foundryconcertclub.com/tm-event/the-electric-funeral/',
     date: '2024-02-29T19:00:00',
@@ -2680,9 +2745,15 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Of Virtue, Titrate the Terror'],
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-9/',
+    date: '2024-03-04T17:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Of Virtue, Titrate the Terror, Earth & Elsewhere'],
     link: 'https://www.foundryconcertclub.com/tm-event/of-virtue/',
-    date: '2024-03-05T18:00:00',
+    date: '2024-03-05T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -2692,9 +2763,21 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['NOCTURNAL VS. MOONLIGHT DANCE CLUB'],
+    link: 'https://www.foundryconcertclub.com/tm-event/nocturnal-vs-moonlight-dance-club/',
+    date: '2024-03-09T21:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Weeping Wound, Wiltwither, cohen_noise, Narcissus'],
     link: 'https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/',
     date: '2024-03-12T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['BORED GAME NIGHT'],
+    link: 'https://www.foundryconcertclub.com/tm-event/bored-game-night-2/',
+    date: '2024-03-14T17:00:00',
     venue: 'Foundry',
   },
   {
@@ -2718,6 +2801,20 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: [
+      'LUNAR UNDERGROUND AND LIGHTS AND SOUND MEDIA BOOKINGS PRESENTS VAMPIRES BALL',
+    ],
+    link: 'https://www.foundryconcertclub.com/tm-event/lunar-underground-and-lights-and-sound-media-bookings-presents-vampires-ball/',
+    date: '2024-03-22T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['OHIO UNDERGROUND'],
+    link: 'https://www.foundryconcertclub.com/tm-event/ohio-underground/',
+    date: '2024-03-23T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/',
     date: '2024-03-25T17:00:00',
@@ -2735,6 +2832,12 @@ export const allShows = [
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/',
     date: '2024-03-29T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Memory Lane'],
+    link: 'https://www.foundryconcertclub.com/tm-event/memory-lane/',
+    date: '2024-03-30T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -2803,6 +2906,18 @@ export const allShows = [
     artist: ['It Dies Today, Last Gasp'],
     link: 'https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/',
     date: '2024-05-20T19:30:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Get The Shot, Life Cycles'],
+    link: 'https://www.foundryconcertclub.com/tm-event/get-the-shot-life-cycles/',
+    date: '2024-05-23T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Green Jelly, Silverspork'],
+    link: 'https://www.foundryconcertclub.com/tm-event/green-jelly-silverspork/',
+    date: '2024-05-25T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -3102,15 +3217,15 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Bella Dose: L-Pop US Tour'],
-    link: 'https://concerts.livenation.com/bella-dose-lpop-us-tour-cleveland-ohio-05-23-2024/event/05006048FD065905',
-    date: '2024-05-23T19:00:00',
+    artist: ['From Ashes To New: The Blackout Tour Pt. 2'],
+    link: 'https://concerts.livenation.com/from-ashes-to-new-the-blackout-cleveland-ohio-05-20-2024/event/05006056BC0F4A97',
+    date: '2024-05-20T17:00:00',
     venue: 'House of Blues',
   },
   {
-    artist: ['X Ambassadors: TOWNIE: NORTH AMERICAN TOUR'],
-    link: 'https://concerts.livenation.com/x-ambassadors-townie-north-american-tour-cleveland-ohio-05-26-2024/event/05006031BC5A30E9',
-    date: '2024-05-26T18:30:00',
+    artist: ['Bella Dose: L-Pop US Tour'],
+    link: 'https://concerts.livenation.com/bella-dose-lpop-us-tour-cleveland-ohio-05-23-2024/event/05006048FD065905',
+    date: '2024-05-23T19:00:00',
     venue: 'House of Blues',
   },
 ]

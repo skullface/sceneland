@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Tyler Ramsey",
-      "Kramies"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13708728/tyler-ramsey-kramies",
-    "date": "2024-02-27T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Rockside"
     ],
     "link": "https://www.beachlandballroom.com/e/13429873/rockside",
@@ -268,6 +259,16 @@
   },
   {
     "artist": [
+      "Nathan-Paul Davis",
+      "Skuff Micksun",
+      "Blokhead Johnny"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13585393/nathan-paul-davis-skuff-micksun-blokhead-johnny",
+    "date": "2024-03-21T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "A Cleveland Music Showcase",
       "Owen River",
       "Charity Cunningham",
@@ -303,6 +304,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13526713/cherry-electric-dream-machine-drvyn",
     "date": "2024-03-23T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Pre/Post Party with The Whiskey Drinks"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13586203/pre-post-party-with-the-whiskey-drinks",
+    "date": "2024-03-24T18:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -345,6 +354,18 @@
     "link": "https://www.beachlandballroom.com/e/13247243/pacific-dub-lake-irie",
     "date": "2024-03-27T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Benefit for the Family of Lachlan MacKinnon",
+      "Mourning [A] BLKstar",
+      "Wrong Places",
+      "Whatever",
+      "Oongow"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13585003/benefit-for-the-family-of-lachlan-mackinnon-mourning-a-blkstar-wrong-places-whatever-oongow",
+    "date": "2024-03-28T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -782,9 +803,10 @@
   },
   {
     "artist": [
-      "Illiterate Light"
+      "Illiterate Light",
+      "Slag Genie"
     ],
-    "link": "https://www.beachlandballroom.com/e/13420503/illiterate-light",
+    "link": "https://www.beachlandballroom.com/e/13420503/illiterate-light-slag-genie",
     "date": "2024-05-09T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -927,9 +949,10 @@
   },
   {
     "artist": [
-      "Nektar"
+      "Nektar",
+      "Dave Swanson's Mystery Airship"
     ],
-    "link": "https://www.beachlandballroom.com/e/13503813/nektar",
+    "link": "https://www.beachlandballroom.com/e/13503813/nektar-dave-swanson-s-mystery-airship",
     "date": "2024-06-09T19:30:00",
     "venue": "Beachland Ballroom"
   },
@@ -959,6 +982,14 @@
   },
   {
     "artist": [
+      "Mdou Moctar"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13567153/mdou-moctar",
+    "date": "2024-06-20T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Kevin Gordon Trio"
     ],
     "link": "https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio",
@@ -973,6 +1004,14 @@
     "link": "https://www.beachlandballroom.com/e/13553243/hillbilly-casino-sasquatch-the-sick-a-billys",
     "date": "2024-06-25T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Messer Chups"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13539063/messer-chups",
+    "date": "2024-06-26T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -1024,6 +1063,15 @@
     "link": "https://www.beachlandballroom.com/e/13499163/owen",
     "date": "2024-08-22T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Homeshake",
+      "Freak Heat Waves"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13584743/homeshake-freak-heat-waves",
+    "date": "2024-10-01T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

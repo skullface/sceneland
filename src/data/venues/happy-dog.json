@@ -1,33 +1,9 @@
 [
   {
     "artist": [
-      "DJ Kishka: One Month til Dyngus Party!"
+      "Lowspot single release w/ Ace of Wands, Fawx, House of Wills"
     ],
-    "link": "https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607",
-    "date": "2024-03-01T18:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Live Hip-Hop Showcase in the Underdog!"
-    ],
-    "link": "https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197",
-    "date": "2024-03-01T18:30:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Sensor Ghost, The Insect, Honolulu High"
-    ],
-    "link": "https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047",
-    "date": "2024-03-01T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Lowspot single release w/ Ace of Wands, Fawx, Wig Doubt"
-    ],
-    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-wig-doubt-tickets-825979104737",
+    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737",
     "date": "2024-03-02T21:00:00",
     "venue": "Happy Dog"
   },
@@ -81,33 +57,25 @@
   },
   {
     "artist": [
-      "DJ Kishka: One Month til Dyngus Party!"
+      "Samuel SC, Wrong Places, Xeroform"
     ],
-    "link": "https://www.eventbrite.com/e/dj-kishka-one-month-til-dyngus-party-tickets-817669540607",
-    "date": "2024-03-01T18:00:00",
+    "link": "https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137",
+    "date": "2024-03-16T21:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Live Hip-Hop Showcase in the Underdog!"
+      "Full 90: a Free St. Patrick's Day of Irish Music!"
     ],
-    "link": "https://www.eventbrite.com/e/live-hip-hop-showcase-in-the-underdog-tickets-817666060197",
-    "date": "2024-03-01T18:30:00",
+    "link": "https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207",
+    "date": "2024-03-17T16:00:00",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Sensor Ghost, The Insect, Honolulu High"
+      "Lowspot single release w/ Ace of Wands, Fawx, House of Wills"
     ],
-    "link": "https://www.eventbrite.com/e/sensor-ghost-the-insect-honolulu-high-tickets-805286984047",
-    "date": "2024-03-01T21:00:00",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Lowspot single release w/ Ace of Wands, Fawx, Wig Doubt"
-    ],
-    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-wig-doubt-tickets-825979104737",
+    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737",
     "date": "2024-03-02T21:00:00",
     "venue": "Happy Dog"
   },
@@ -157,6 +125,22 @@
     ],
     "link": "https://www.eventbrite.com/e/wild-shape-kill-the-hippies-patchke-tickets-837970390997",
     "date": "2024-03-15T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Samuel SC, Wrong Places, Xeroform"
+    ],
+    "link": "https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137",
+    "date": "2024-03-16T21:00:00",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Full 90: a Free St. Patrick's Day of Irish Music!"
+    ],
+    "link": "https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207",
+    "date": "2024-03-17T16:00:00",
     "venue": "Happy Dog"
   }
 ]

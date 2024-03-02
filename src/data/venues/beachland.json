@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Rockside"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13429873/rockside",
-    "date": "2024-02-28T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "15-60-75 (The Numbers Band)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13485963/15-60-75-the-numbers-band-",
-    "date": "2024-02-29T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "King Buffalo",
       "If These Trees Could Talk"
     ],
@@ -225,9 +209,10 @@
   },
   {
     "artist": [
-      "Jake Xerxes Fussell"
+      "Jake Xerxes Fussell",
+      "Alex Dupree"
     ],
-    "link": "https://www.beachlandballroom.com/e/13510753/jake-xerxes-fussell",
+    "link": "https://www.beachlandballroom.com/e/13510753/jake-xerxes-fussell-alex-dupree",
     "date": "2024-03-18T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -259,11 +244,9 @@
   },
   {
     "artist": [
-      "Nathan-Paul Davis",
-      "Skuff Micksun",
-      "Blokhead Johnny"
+      "Nathan-Paul Davis featuring Skuff Micksun & Blokhead Johnny"
     ],
-    "link": "https://www.beachlandballroom.com/e/13585393/nathan-paul-davis-skuff-micksun-blokhead-johnny",
+    "link": "https://www.beachlandballroom.com/e/13585393/nathan-paul-davis-featuring-skuff-micksun-blokhead-johnny",
     "date": "2024-03-21T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -412,9 +395,10 @@
   },
   {
     "artist": [
-      "The Hi-Jivers"
+      "The Hi-Jivers",
+      "DJ Mr. Fishtruck"
     ],
-    "link": "https://www.beachlandballroom.com/e/13388323/the-hi-jivers",
+    "link": "https://www.beachlandballroom.com/e/13388323/the-hi-jivers-dj-mr-fishtruck",
     "date": "2024-04-03T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -767,6 +751,14 @@
   },
   {
     "artist": [
+      "Wallace Coleman Band"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13588713/wallace-coleman-band",
+    "date": "2024-05-02T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Ty Segall",
       "Sharpie Smile"
     ],
@@ -863,6 +855,14 @@
   },
   {
     "artist": [
+      "Chest Fever"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13585443/chest-fever",
+    "date": "2024-05-13T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "The Furious Bongos"
     ],
     "link": "https://www.beachlandballroom.com/e/13542103/the-furious-bongos",
@@ -928,6 +928,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson",
     "date": "2024-05-24T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Maggie Rose"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13570713/maggie-rose",
+    "date": "2024-05-30T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

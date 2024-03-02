@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Electric Funeral"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-electric-funeral/",
-    "date": "2024-02-29T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Amine vs. K-Pop Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/amine-vs-k-pop-night/",
-    "date": "2024-03-01T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "RHYTHM OASIS"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/rhythm-oasis/",
@@ -41,7 +25,7 @@
   },
   {
     "artist": [
-      "Of Virtue, Titrate the Terror, Earth & Elsewhere"
+      "POSTPONED"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/of-virtue/",
     "date": "2024-03-05T19:00:00",
@@ -193,6 +177,14 @@
   },
   {
     "artist": [
+      "If Not For Me, Dread Engine"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/if-not-for-me-dread-engine/",
+    "date": "2024-04-08T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Scream At The Sky, The Mendenhall Experiment"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/scream-at-the-sky-the-mendenhall-experiment/",
@@ -285,6 +277,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/",
     "date": "2024-08-20T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Polkadot Cadaver, Beneath the Hollow , Irewyrm"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/polkadot-cadaver/",
+    "date": "2024-08-31T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Polkadot Cadaver, Beneath the Hollow , After The Apocalypse"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/polkadot-cadaver-2/",
+    "date": "2024-09-01T19:00:00",
     "venue": "Foundry"
   }
 ]

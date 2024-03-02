@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Alexis Marrero"
-    ],
-    "link": "https://link.dice.fm/t70d19ed1eb7?dice_id=t70d19ed1eb7",
-    "date": "2024-03-01T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Blonde Redhead"
-    ],
-    "link": "https://link.dice.fm/Ac1176c6f9cc?dice_id=Ac1176c6f9cc",
-    "date": "2024-03-01T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "School of Rock headliners"
     ],
     "link": "https://link.dice.fm/Zc5de098a833?dice_id=Zc5de098a833",
@@ -201,20 +185,20 @@
   },
   {
     "artist": [
+      "The Little Ditties / Magazine Beach"
+    ],
+    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
+    "date": "2024-03-28T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Bilmuri"
     ],
     "link": "https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca",
     "sold_out": true,
     "date": "2024-03-28T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Little Ditties / Magazine Beach"
-    ],
-    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -346,6 +330,14 @@
   },
   {
     "artist": [
+      "Arlo McKinley"
+    ],
+    "link": "https://link.dice.fm/Oe408c6a625d?dice_id=Oe408c6a625d",
+    "date": "2024-04-19T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "JOHN R. MILLER & THE DESLONDES"
     ],
     "link": "https://link.dice.fm/Xcf1fc2e03de?dice_id=Xcf1fc2e03de",
@@ -434,19 +426,19 @@
   },
   {
     "artist": [
-      "Boundaries"
-    ],
-    "link": "https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71",
-    "date": "2024-05-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Microwave"
     ],
     "link": "https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb",
     "date": "2024-05-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Boundaries"
+    ],
+    "link": "https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71",
+    "date": "2024-05-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

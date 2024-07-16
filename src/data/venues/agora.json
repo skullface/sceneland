@@ -1,218 +1,34 @@
 [
   {
     "artist": [
-      "Jimbo's Drag Circus"
+      "Charley Crockett, Drayton Farley"
     ],
-    "link": "https://www.agoracleveland.com/events/detail/495366",
-    "date": "2024-03-02T19:00:00",
+    "link": "https://www.agoracleveland.com/events/detail/535238",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   },
   {
     "artist": [
-      "BabyTron"
+      "Let's Sing Taylor"
     ],
-    "link": "https://www.agoracleveland.com/events/detail/511545",
-    "date": "2024-03-06T19:00:00",
+    "link": "https://www.agoracleveland.com/events/detail/535863",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   },
   {
     "artist": [
-      "Alkaline Trio, Drug Church, Worriers"
+      "the Mountain Goats, Field Medic"
     ],
-    "link": "https://www.agoracleveland.com/events/detail/508072",
-    "date": "2024-03-08T19:00:00",
+    "link": "https://www.agoracleveland.com/events/detail/565416",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   },
   {
     "artist": [
-      "Scott Bradlee's  Postmodern Jukebox"
+      "The Band CAMINO, Knox"
     ],
-    "link": "https://www.agoracleveland.com/events/detail/503995",
-    "date": "2024-03-10T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "KMFDM, Cyanotic"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/516682",
-    "date": "2024-03-14T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "KK\u2019s Priest, L.A. Guns, BURNING WITCHES"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/521713",
-    "date": "2024-03-20T18:30:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Bianca Del Rio"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/512578",
-    "date": "2024-03-22T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Kai Wachi Presents Morphosia Tour, Prosecute, Nimda"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/519381",
-    "date": "2024-03-23T20:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Joe Pera"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/510001",
-    "date": "2024-03-24T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "JJ Grey & Mofro, w/ Judith Hill"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/511112",
-    "date": "2024-03-29T18:30:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Scarface"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/532627",
-    "date": "2024-04-07T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Baldassarre Rock Orchestra"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/534223",
-    "date": "2024-04-13T18:30:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Alvvays, Spllit"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/519545",
-    "date": "2024-04-18T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Benjamin Tod & Lost Dog Street Band, Resonant Rogues"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/511793",
-    "date": "2024-04-19T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Dusty Slay"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/512971",
-    "date": "2024-04-20T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "TommyInnit How To Be A Billionaire"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/520431",
-    "date": "2024-04-25T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "An Evening with Alan Ruck"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/519196",
-    "date": "2024-05-03T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Our Last Night, Broadside, Normandie"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/507744",
-    "date": "2024-05-10T18:30:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Kathy Griffin"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/512472",
-    "date": "2024-05-11T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Portugal. The Man, Snacktime"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/508347",
-    "date": "2024-05-12T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Trey Anastasio and Classic TAB"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/530002",
-    "date": "2024-05-15T18:30:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Blind Guardian, Night Demon"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/517799",
-    "date": "2024-05-16T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Mr. Big, Shawn Perry"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/526774",
-    "date": "2024-05-24T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Knocked Loose, Loathe, Show Me The Body, SPEED"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/528579",
-    "date": "2024-05-25T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Chappell Roan"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/526058",
-    "date": "2024-05-28T19:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "House of BurlesCLE 2.0"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/521430",
-    "date": "2024-06-08T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "House Of BurlesCle 2.0"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/521669",
-    "date": "2024-06-08T20:30:00",
+    "link": "https://www.agoracleveland.com/events/detail/565846",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   },
   {
@@ -220,15 +36,87 @@
       "Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool"
     ],
     "link": "https://www.agoracleveland.com/events/detail/520827",
-    "date": "2024-07-28T18:30:00",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   },
   {
     "artist": [
-      "Iron & Wine"
+      "Lucky Daye, Fana Hues"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/551687",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Comedy Bang! Bang!"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/541544",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Sami Zayn & Friends Do Cleveland"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/628485",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "UNDERTAKER"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/619247",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "$NOT, Fourfive, Baby Kia, Scarlet House, 0500GCSY"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/560534",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Ken Carson, 2hollis"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/544885",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Dweezil Zappa"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/535550",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Iron & Wine, Sunny War"
     ],
     "link": "https://www.agoracleveland.com/events/detail/529331",
-    "date": "2024-08-20T18:30:00",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "New Found Glory, Sincere Engineer"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/535127",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Glen Hansard, Trousdale"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/536634",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   },
   {
@@ -236,7 +124,15 @@
       "POWERWOLF, Unleash the Archers"
     ],
     "link": "https://www.agoracleveland.com/events/detail/529652",
-    "date": "2024-09-04T19:00:00",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Movements, Turnover, Queen of Jeans"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/575053",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   },
   {
@@ -244,7 +140,359 @@
       "Front 242, Nitzer Ebb, Kanga"
     ],
     "link": "https://www.agoracleveland.com/events/detail/533396",
-    "date": "2024-09-08T19:00:00",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Descendents & Circle Jerks, Surfbort"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/542673",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Trap Karaoke: Cleveland"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/579105",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Sierra Ferrell, Meredith Axelrod"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/544141",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Warning, Holy Wars"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/570352",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/560540",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The California Honeydrops"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/560004",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Nate Jackson"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/598164",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Nothing More, Set It Off, From Ashes to New, Post Profit"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/566471",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Beaches"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/550689",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "SOFI TUKKER"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/558994",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Testament & Kreator, Possessed"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/551671",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Hatebreed, Carcass, Harms Way, Crypta"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/536208",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Black Dahlia Murder & Dying Fetus, Spite, Angelmaker, Vomit Forth"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/604413",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Marianas Trench, Cassadee Pope, PIAO"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/576616",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Witch Perfect"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/581049",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jim Henson's Labyrinth: In Concert"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/596120",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Sepultura, Obituary, Agnostic Front, Claustrofobia"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/581148",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Dayseeker, Alpha Wolf, Catch Your Breath, Kingdom of Giants"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/575307",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Andrew Santino"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/605159",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "COIN, Aidan Bissett"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/590934",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Opeth, Tribulation"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/547237",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "DISPATCH, Lizzie No"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/534083",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Die Antwoord"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/604440",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Rise Against, Microwave, Spiritual Cramp"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/564788",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Lorna Shore, Whitechapel, Kublai Khan TX, Sanguisugabogg"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/562631",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "BEAT - Belew/Vai/Levin/Carey play 80s King Crimson"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/539117",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Mushroomhead, There Is No Us, Mind Incision, Bittersweet Revenge, Psycho Plantation"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/551126",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "KMFDM, Morlocks"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/598174",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "GWAR, Dark Funeral, Squid Pisser"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/596178",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Genesis Show"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/602775",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Craig Ferguson"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/579465",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Mitchell Tenpenny, Dylan Schneider"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/625961",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Urban Trivia Live"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/550272",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Wyatt Flores, Noeline Hofmann"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/626937",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "W.A.S.P., Death Angel, Unto Others"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/577559",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Underoath, Static Dress"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/542253",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Suki Waterhouse, Bully"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/560960",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Ghost Inside, Gideon, VOID OF VISION, OF VIRTUE"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/618882",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Baldassarre Rock Orchestra"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/534223",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Ali Siddiq"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/564740",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Nile & Six Feet Under, Psycroptic, Embryonic Autopsy"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/621460",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Travis"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/587232",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Dean Lewis"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/587201",
+    "date": "2024-08-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Ragheb Alama Live in Cleveland"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/536692",
+    "date": "2024-08-01T18:00:00",
     "venue": "Agora"
   }
 ]

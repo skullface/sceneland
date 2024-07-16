@@ -19,6 +19,8 @@ for show in shows:
   date = show.find('time')
   if artist.text.strip() == '2024 Season Tickets':
     ...
+  elif artist.text.strip() == '2024 Premium Season Tickets':
+    ...
   else:
     all_shows_data['artist'] = [artist.text.strip().replace(' - ', ': ')]
     all_shows_data['link'] = link.get('href')

@@ -1,4524 +1,3508 @@
 export const allShows = [
   {
-    "artist": [
-      "Gideon"
-    ],
-    "link": "https://www.ticketmaster.com/gideon-cleveland-ohio-03-02-2024/event/05005F6FBCB43449",
-    "date": "2024-03-02T18:30:00",
-    "venue": "Masonic Temple"
+    artist: ["Jimbo's Drag Circus"],
+    link: 'https://www.agoracleveland.com/events/detail/495366',
+    date: '2024-03-02T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "KAIVON \u2013 2024 Ultraviolet Album Tour"
-    ],
-    "link": "https://www.ticketmaster.com/kaivon-2024-ultraviolet-album-tour-cleveland-ohio-03-07-2024/event/05005F66A0991638",
-    "date": "2024-03-07T19:00:00",
-    "venue": "Masonic Temple"
+    artist: ['BabyTron'],
+    link: 'https://www.agoracleveland.com/events/detail/511545',
+    date: '2024-03-06T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Blue October"
-    ],
-    "link": "https://www.ticketmaster.com/blue-october-cleveland-ohio-03-08-2024/event/05005F75F3714F54",
-    "date": "2024-03-08T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Alkaline Trio, Drug Church, Worriers'],
+    link: 'https://www.agoracleveland.com/events/detail/508072',
+    date: '2024-03-08T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "The Broken Hearts: Ultimate Tom Petty Tribute"
-    ],
-    "link": "https://www.ticketmaster.com/the-broken-hearts-ultimate-tom-petty-cleveland-ohio-03-09-2024/event/05005F83AC7E335E",
-    "date": "2024-03-09T19:30:00",
-    "venue": "Masonic Temple"
+    artist: ["Scott Bradlee's  Postmodern Jukebox"],
+    link: 'https://www.agoracleveland.com/events/detail/503995',
+    date: '2024-03-10T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Eddie Griffin"
-    ],
-    "link": "https://www.ticketmaster.com/eddie-griffin-cleveland-ohio-03-09-2024/event/05005F82FEA7742A",
-    "date": "2024-03-09T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['KMFDM, Cyanotic'],
+    link: 'https://www.agoracleveland.com/events/detail/516682',
+    date: '2024-03-14T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "WQMX Presents: Terri Clark"
-    ],
-    "link": "https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F",
-    "date": "2024-03-14T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['KK\u2019s Priest, L.A. Guns, BURNING WITCHES'],
+    link: 'https://www.agoracleveland.com/events/detail/521713',
+    date: '2024-03-20T18:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Shamrock Soiree"
-    ],
-    "link": "https://www.ticketmaster.com/shamrock-soiree-cleveland-ohio-03-15-2024/event/050060523EB88608",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Bianca Del Rio'],
+    link: 'https://www.agoracleveland.com/events/detail/512578',
+    date: '2024-03-22T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Emo Nite \u2013 Cleveland, OH"
-    ],
-    "link": "https://www.ticketmaster.com/emo-nite-cleveland-oh-cleveland-ohio-03-15-2024/event/05006024D9E93A88",
-    "date": "2024-03-15T21:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Kai Wachi Presents Morphosia Tour, Prosecute, Nimda'],
+    link: 'https://www.agoracleveland.com/events/detail/519381',
+    date: '2024-03-23T20:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Hairball"
-    ],
-    "link": "https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189",
-    "date": "2024-03-16T19:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Joe Pera'],
+    link: 'https://www.agoracleveland.com/events/detail/510001',
+    date: '2024-03-24T18:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "The Static Wake"
-    ],
-    "link": "https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57",
-    "date": "2024-03-16T19:30:00",
-    "venue": "Masonic Temple"
+    artist: ['JJ Grey & Mofro, w/ Judith Hill'],
+    link: 'https://www.agoracleveland.com/events/detail/511112',
+    date: '2024-03-29T18:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "The Celtic Tenors \u2013 Celebrating 25 Years"
-    ],
-    "link": "https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05006025D4A241AD",
-    "date": "2024-03-19T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Scarface'],
+    link: 'https://www.agoracleveland.com/events/detail/532627',
+    date: '2024-04-07T18:00:00',
+    venue: 'Agora',
   },
   {
-    "link": "https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1",
-    "date": "2024-03-22T19:30:00",
-    "venue": "Masonic Temple"
+    artist: ['Baldassarre Rock Orchestra'],
+    link: 'https://www.agoracleveland.com/events/detail/534223',
+    date: '2024-04-13T18:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "William Black"
-    ],
-    "link": "https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D",
-    "date": "2024-03-22T19:30:00",
-    "venue": "Masonic Temple"
+    artist: ['Alvvays, Spllit'],
+    link: 'https://www.agoracleveland.com/events/detail/519545',
+    date: '2024-04-18T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Sea of Treachery"
-    ],
-    "link": "https://www.ticketmaster.com/sea-of-treachery-cleveland-ohio-03-22-2024/event/05005F83FD6A6483",
-    "date": "2024-03-22T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Benjamin Tod & Lost Dog Street Band, Resonant Rogues'],
+    link: 'https://www.agoracleveland.com/events/detail/511793',
+    date: '2024-04-19T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Talib Kweli"
-    ],
-    "link": "https://www.ticketmaster.com/talib-kweli-cleveland-ohio-03-23-2024/event/0500604282A64CB1",
-    "date": "2024-03-23T21:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Dusty Slay'],
+    link: 'https://www.agoracleveland.com/events/detail/512971',
+    date: '2024-04-20T18:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Darkest Hour"
-    ],
-    "link": "https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643",
-    "date": "2024-03-28T19:00:00",
-    "venue": "Masonic Temple"
+    artist: ['TommyInnit How To Be A Billionaire'],
+    link: 'https://www.agoracleveland.com/events/detail/520431',
+    date: '2024-04-25T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "ARTIX! & HUKAE \u2013 BRAINSTORM TOUR"
-    ],
-    "link": "https://www.ticketmaster.com/artix-hukae-brainstorm-tour-cleveland-ohio-03-29-2024/event/05006054425F7D16",
-    "date": "2024-03-29T19:00:00",
-    "venue": "Masonic Temple"
+    artist: ['An Evening with Alan Ruck'],
+    link: 'https://www.agoracleveland.com/events/detail/519196',
+    date: '2024-05-03T18:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Blackberry Smoke: Be Right Here Tour"
-    ],
-    "link": "https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6",
-    "date": "2024-03-29T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Our Last Night, Broadside, Normandie'],
+    link: 'https://www.agoracleveland.com/events/detail/507744',
+    date: '2024-05-10T18:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Galactic Empire"
-    ],
-    "link": "https://www.ticketmaster.com/galactic-empire-cleveland-ohio-04-04-2024/event/050060251B0F6056",
-    "date": "2024-04-04T19:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Kathy Griffin'],
+    link: 'https://www.agoracleveland.com/events/detail/512472',
+    date: '2024-05-11T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Joey Aich"
-    ],
-    "link": "https://www.ticketmaster.com/joey-aich-cleveland-ohio-04-05-2024/event/0500603540AE6A94",
-    "date": "2024-04-05T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Portugal. The Man, Snacktime'],
+    link: 'https://www.agoracleveland.com/events/detail/508347',
+    date: '2024-05-12T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "BLANKE \u2013 EARTH TO THE STARS: EMERGENCE CLEVELAND"
-    ],
-    "link": "https://www.ticketmaster.com/blanke-earth-to-the-stars-emergence-cleveland-ohio-04-06-2024/event/0500603F278D6AFA",
-    "date": "2024-04-06T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Trey Anastasio and Classic TAB'],
+    link: 'https://www.agoracleveland.com/events/detail/530002',
+    date: '2024-05-15T18:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Gimme Sugar & Mister Breeze"
-    ],
-    "link": "https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546",
-    "date": "2024-04-13T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Blind Guardian, Night Demon'],
+    link: 'https://www.agoracleveland.com/events/detail/517799',
+    date: '2024-05-16T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Josey Scott\u2019s Saliva"
-    ],
-    "link": "https://www.ticketmaster.com/josey-scotts-saliva-cleveland-ohio-04-18-2024/event/0500603A092574D4",
-    "date": "2024-04-18T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Mr. Big, Shawn Perry'],
+    link: 'https://www.agoracleveland.com/events/detail/526774',
+    date: '2024-05-24T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed"
-    ],
-    "link": "https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5",
-    "date": "2024-04-19T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Knocked Loose, Loathe, Show Me The Body, SPEED'],
+    link: 'https://www.agoracleveland.com/events/detail/528579',
+    date: '2024-05-25T18:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "EMO ORCHESTRA featuring ESCAPE THE FATE"
-    ],
-    "link": "https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853",
-    "date": "2024-04-19T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Chappell Roan'],
+    link: 'https://www.agoracleveland.com/events/detail/526058',
+    date: '2024-05-28T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Spirit Bomb"
-    ],
-    "link": "https://www.ticketmaster.com/spirit-bomb-cleveland-ohio-04-20-2024/event/05005F83B60938AC",
-    "date": "2024-04-20T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['House of BurlesCLE 2.0'],
+    link: 'https://www.agoracleveland.com/events/detail/521430',
+    date: '2024-06-08T18:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "NRBQ"
-    ],
-    "link": "https://www.ticketmaster.com/nrbq-cleveland-ohio-04-24-2024/event/05005F83FA63639A",
-    "date": "2024-04-24T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['House Of BurlesCle 2.0'],
+    link: 'https://www.agoracleveland.com/events/detail/521669',
+    date: '2024-06-08T20:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Enterprise Earth"
-    ],
-    "link": "https://www.ticketmaster.com/enterprise-earth-cleveland-ohio-04-27-2024/event/0500602A03F6497C",
-    "date": "2024-04-27T19:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool'],
+    link: 'https://www.agoracleveland.com/events/detail/520827',
+    date: '2024-07-28T18:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "The Ultimate Doors \u2013 A Tribute to the Doors"
-    ],
-    "link": "https://www.ticketmaster.com/the-ultimate-doors-a-tribute-to-cleveland-ohio-04-27-2024/event/05005F92111447BB",
-    "date": "2024-04-27T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Iron & Wine'],
+    link: 'https://www.agoracleveland.com/events/detail/529331',
+    date: '2024-08-20T18:30:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Into the Blue (ELO Tribute)"
-    ],
-    "link": "https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3",
-    "date": "2024-05-11T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['POWERWOLF, Unleash the Archers'],
+    link: 'https://www.agoracleveland.com/events/detail/529652',
+    date: '2024-09-04T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Uriah Heep & Saxon"
-    ],
-    "link": "https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0",
-    "date": "2024-05-11T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Front 242, Nitzer Ebb, Kanga'],
+    link: 'https://www.agoracleveland.com/events/detail/533396',
+    date: '2024-09-08T19:00:00',
+    venue: 'Agora',
   },
   {
-    "artist": [
-      "Rodrigo y Gabriela"
-    ],
-    "link": "https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280",
-    "date": "2024-05-14T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Lowspot single release w/ Ace of Wands, Fawx, House of Wills'],
+    link: 'https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737',
+    date: '2024-03-02T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "The Alarm \u2013 Live Today Love Tomorrow Tour 2024"
-    ],
-    "link": "https://www.ticketmaster.com/the-alarm-live-today-love-tomorrow-cleveland-ohio-05-15-2024/event/0500603004A24A65",
-    "date": "2024-05-15T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Happy Dog Takes on Everything'],
+    link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927',
+    date: '2024-03-06T19:30:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "The Pancakes & Booze Art Show"
-    ],
-    "link": "https://www.ticketmaster.com/the-pancakes-booze-art-show-cleveland-ohio-05-18-2024/event/0500604277C6126C",
-    "date": "2024-05-18T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Omni, This Is Lorelei, Suitor'],
+    link: 'https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607',
+    date: '2024-03-08T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "Abbath"
-    ],
-    "link": "https://www.ticketmaster.com/abbath-cleveland-ohio-05-19-2024/event/0500605AC5BC4156",
-    "date": "2024-05-19T19:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Bristoltooth, Total Downer, Crumbling Creatures'],
+    link: 'https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387',
+    date: '2024-03-09T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "Josh Turner"
+    artist: [
+      'Shadow Show, Marty Brass & The Lavender Jets, Perfect Pals, The Vumms',
     ],
-    "link": "https://www.ticketmaster.com/josh-turner-cleveland-ohio-06-07-2024/event/05006026B15E2CEE",
-    "date": "2024-06-07T20:00:00",
-    "venue": "Masonic Temple"
+    link: 'https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937',
+    date: '2024-03-10T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "Young Dubliners"
-    ],
-    "link": "https://www.ticketmaster.com/young-dubliners-cleveland-ohio-06-22-2024/event/05006028A9E01969",
-    "date": "2024-06-22T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ["John Condit, Songs from an Unknown God, The Magnavox's"],
+    link: 'https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377',
+    date: '2024-03-12T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "Eddie B \u2013 Teachers Only Comedy Tour 24\u2032"
-    ],
-    "link": "https://www.ticketmaster.com/eddie-b-teachers-only-comedy-tour-cleveland-ohio-06-22-2024/event/0500605AD9D34B9F",
-    "date": "2024-06-22T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Wild Shape, Kill the Hippies, Patchke'],
+    link: 'https://www.eventbrite.com/e/wild-shape-kill-the-hippies-patchke-tickets-837970390997',
+    date: '2024-03-15T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "Lake Street Dive: Good Together Tour"
-    ],
-    "link": "https://www.ticketmaster.com/lake-street-dive-good-together-tour-cleveland-ohio-07-09-2024/event/0500603AFC5F6DDE",
-    "date": "2024-07-09T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Samuel SC, Wrong Places, Xeroform'],
+    link: 'https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137',
+    date: '2024-03-16T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "Henry Cho \u2013 From Here To There Tour 2024"
-    ],
-    "link": "https://www.ticketmaster.com/henry-cho-from-here-to-there-cleveland-ohio-07-27-2024/event/05006026BE69371F",
-    "date": "2024-07-27T20:30:00",
-    "venue": "Masonic Temple"
+    artist: ["Full 90: a Free St. Patrick's Day of Irish Music!"],
+    link: 'https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207',
+    date: '2024-03-17T16:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "Couples Therapy"
-    ],
-    "link": "https://www.ticketmaster.com/couples-therapy-cleveland-ohio-10-19-2024/event/05006042A39E61EF",
-    "date": "2024-10-19T20:00:00",
-    "venue": "Masonic Temple"
+    artist: ['Lowspot single release w/ Ace of Wands, Fawx, House of Wills'],
+    link: 'https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737',
+    date: '2024-03-02T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "N69 FEST"
-    ],
-    "link": "https://www.eventbrite.com/e/n69-fest-tickets-788633583277",
-    "date": "2024-03-09T16:00:00",
-    "venue": "No Class"
+    artist: ['Happy Dog Takes on Everything'],
+    link: 'https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927',
+    date: '2024-03-06T19:30:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "TRASH UNREAL VII: HOLY TRASH"
-    ],
-    "link": "https://www.eventbrite.com/e/trash-unreal-vii-holy-trash-tickets-853710219247",
-    "date": "2024-04-06T18:00:00",
-    "venue": "No Class"
+    artist: ['Omni, This Is Lorelei, Suitor'],
+    link: 'https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607',
+    date: '2024-03-08T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "JER x Zeta"
-    ],
-    "link": "https://www.eventbrite.com/e/jer-x-zeta-tickets-847091111317",
-    "date": "2024-05-05T17:00:00",
-    "venue": "No Class"
+    artist: ['Bristoltooth, Total Downer, Crumbling Creatures'],
+    link: 'https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387',
+    date: '2024-03-09T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "SPECTRAL VOICE"
+    artist: [
+      'Shadow Show, Marty Brass & The Lavender Jets, Perfect Pals, The Vumms',
     ],
-    "link": "https://www.eventbrite.com/e/spectral-voice-tickets-832656547147",
-    "date": "2024-05-15T19:00:00",
-    "venue": "No Class"
+    link: 'https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937',
+    date: '2024-03-10T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "INCANTATION"
-    ],
-    "link": "https://www.eventbrite.com/e/incantation-tickets-841778962537",
-    "date": "2024-05-19T17:00:00",
-    "venue": "No Class"
+    artist: ["John Condit, Songs from an Unknown God, The Magnavox's"],
+    link: 'https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377',
+    date: '2024-03-12T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "VERMIN WOMB"
-    ],
-    "link": "https://www.eventbrite.com/e/vermin-womb-tickets-851153802937",
-    "date": "2024-05-23T20:00:00",
-    "venue": "No Class"
+    artist: ['Wild Shape, Kill the Hippies, Patchke'],
+    link: 'https://www.eventbrite.com/e/wild-shape-kill-the-hippies-patchke-tickets-837970390997',
+    date: '2024-03-15T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "HIRS COLLECTIVE"
-    ],
-    "link": "https://www.eventbrite.com/e/hirs-collective-tickets-850950705467",
-    "date": "2024-06-25T19:00:00",
-    "venue": "No Class"
+    artist: ['Samuel SC, Wrong Places, Xeroform'],
+    link: 'https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137',
+    date: '2024-03-16T21:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "THE EXPLOITED"
-    ],
-    "link": "https://www.eventbrite.com/e/the-exploited-tickets-849136830117",
-    "date": "2024-09-21T19:00:00",
-    "venue": "No Class"
+    artist: ["Full 90: a Free St. Patrick's Day of Irish Music!"],
+    link: 'https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207',
+    date: '2024-03-17T16:00:00',
+    venue: 'Happy Dog',
   },
   {
-    "artist": [
-      "N69 FEST"
-    ],
-    "link": "https://www.eventbrite.com/e/n69-fest-tickets-788633583277",
-    "date": "2024-03-09T16:00:00",
-    "venue": "No Class"
+    artist: ['Walter Trout', 'Wayne Baker Brooks'],
+    link: 'https://www.beachlandballroom.com/e/13487124/walter-trout-wayne-baker-brooks',
+    date: '2024-07-16T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "TRASH UNREAL VII: HOLY TRASH"
-    ],
-    "link": "https://www.eventbrite.com/e/trash-unreal-vii-holy-trash-tickets-853710219247",
-    "date": "2024-04-06T18:00:00",
-    "venue": "No Class"
+    artist: ['Redd Kross', 'Dale Crover (Melvins) DJ Set'],
+    link: 'https://www.beachlandballroom.com/e/13459174/redd-kross-dale-crover-melvins-dj-set',
+    date: '2024-07-17T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "JER x Zeta"
-    ],
-    "link": "https://www.eventbrite.com/e/jer-x-zeta-tickets-847091111317",
-    "date": "2024-05-05T17:00:00",
-    "venue": "No Class"
+    artist: ['Truth Club', 'youbet', 'Wish Queen'],
+    link: 'https://www.beachlandballroom.com/e/13442974/truth-club-youbet-wish-queen',
+    date: '2024-07-18T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "SPECTRAL VOICE"
-    ],
-    "link": "https://www.eventbrite.com/e/spectral-voice-tickets-832656547147",
-    "date": "2024-05-15T19:00:00",
-    "venue": "No Class"
+    artist: ['Killing Pixies', 'Detention', 'Girl Cologne', 'This Summer'],
+    link: 'https://www.beachlandballroom.com/e/13422124/killing-pixies-detention-girl-cologne-this-summer',
+    date: '2024-07-19T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "INCANTATION"
+    artist: [
+      'Voices of the Land: Acoustic Showcase',
+      "Crown Shy (Jimmy of the Sonder Bombs's new project)",
+      'Tallulah Patience (of Grumpy Plum)',
+      'Andi Chakraborty',
+      'Sophia Price',
     ],
-    "link": "https://www.eventbrite.com/e/incantation-tickets-841778962537",
-    "date": "2024-05-19T17:00:00",
-    "venue": "No Class"
+    link: 'https://www.beachlandballroom.com/e/13716653/voices-of-the-land-acoustic-showcase-crown-shy-jimmy-of-the-sonder-bombs-s-new-project-tallulah-patience-of-grumpy-plum-andi-chakraborty-sophia-price',
+    date: '2024-07-19T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "VERMIN WOMB"
-    ],
-    "link": "https://www.eventbrite.com/e/vermin-womb-tickets-851153802937",
-    "date": "2024-05-23T20:00:00",
-    "venue": "No Class"
+    artist: ['The 2024 US Air Guitar National Finals'],
+    link: 'https://www.beachlandballroom.com/e/13499463/the-2024-us-air-guitar-national-finals',
+    date: '2024-07-20T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "HIRS COLLECTIVE"
-    ],
-    "link": "https://www.eventbrite.com/e/hirs-collective-tickets-850950705467",
-    "date": "2024-06-25T19:00:00",
-    "venue": "No Class"
+    artist: ['Big Sandy & His Fly-Rite Boys', 'Kyle Eldridge'],
+    link: 'https://www.beachlandballroom.com/e/13511583/big-sandy-his-fly-rite-boys-kyle-eldridge',
+    date: '2024-07-20T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "THE EXPLOITED"
-    ],
-    "link": "https://www.eventbrite.com/e/the-exploited-tickets-849136830117",
-    "date": "2024-09-21T19:00:00",
-    "venue": "No Class"
+    artist: ['Beachland Brunch', 'DJ Andy Hart spinning Soul 45s'],
+    link: 'https://www.beachlandballroom.com/e/13749903/beachland-brunch-dj-andy-hart-spinning-soul-45s',
+    date: '2024-07-21T11:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Flanagan's Wake"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-2",
-    "date": "2024-01-05",
-    "venue": "Playhouse Square"
+    artist: ['Bandits On The Run', 'John Gallagher Jr.'],
+    link: 'https://www.beachlandballroom.com/e/13465384/bandits-on-the-run-john-gallagher-jr-',
+    date: '2024-07-23T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Leanne Morgan"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started",
-    "date": "2024-03-15",
-    "venue": "Playhouse Square"
+    artist: ['Mom Rock', 'The Thing with Feathers'],
+    link: 'https://www.beachlandballroom.com/e/13554324/mom-rock-the-thing-with-feathers',
+    date: '2024-07-24T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Anthony Jeselnik"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/anthony-jeselnik",
-    "date": "2024-03-16",
-    "venue": "Playhouse Square"
+    artist: ['Ward Davis', 'Reverend Lee'],
+    link: 'https://www.beachlandballroom.com/e/13369934/ward-davis-reverend-lee',
+    date: '2024-07-25T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Modi"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/modi-know-your-audience-tour",
-    "date": "2024-03-27",
-    "venue": "Playhouse Square"
+    artist: ['The Strike', 'Alt Bloom'],
+    link: 'https://www.beachlandballroom.com/e/13421604/the-strike-alt-bloom',
+    date: '2024-07-26T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Daniel Sloss: CAN'T"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/daniel-sloss-cant",
-    "date": "2024-04-20",
-    "venue": "Playhouse Square"
+    artist: ['Teen Mortgage', 'Tall Grass', 'Whiffler'],
+    link: 'https://www.beachlandballroom.com/e/13703553/teen-mortgage-tall-grass-whiffler',
+    date: '2024-07-26T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "An Evening with Phil Rosenthal of \"Somebody Feed Phil\""
+    artist: [
+      'Colicchie',
+      'Whitney Peyton',
+      '2 Fluent',
+      'LUV',
+      'FlexPackFace',
+      'State Baby Chris',
+      'Hosted by WindleEffect',
     ],
-    "link": "https://www.playhousesquare.org/events/detail/phil-rosenthal",
-    "date": "2024-04-25",
-    "venue": "Playhouse Square"
+    link: 'https://www.beachlandballroom.com/e/13662063/colicchie-whitney-peyton-2-fluent-luv-flexpackface-state-baby-chris-hosted-by-windleeffect',
+    date: '2024-07-27T19:30:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Ronny Chieng"
+    artist: [
+      'Club Ultraviolet',
+      'Illest Villains',
+      'Nuke Franklin',
+      'Joey Aich',
+      'Chanelle Kazadi',
+      'Kellevators',
     ],
-    "link": "https://www.playhousesquare.org/events/detail/ronny-chieng",
-    "date": "2024-04-26",
-    "venue": "Playhouse Square"
+    link: 'https://www.beachlandballroom.com/e/13698713/club-ultraviolet-illest-villains-nuke-franklin-joey-aich-chanelle-kazadi-kellevators',
+    date: '2024-07-27T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Marc Maron"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/marc-maron-1",
-    "date": "2024-05-10",
-    "venue": "Playhouse Square"
+    artist: ['Beachland Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13772043/beachland-brunch',
+    date: '2024-07-28T11:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Joshua Seth - Mentalist"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2",
-    "date": "2024-06-01",
-    "venue": "Playhouse Square"
+    artist: ['Maserati', 'Unwed Sailor', 'Seeress'],
+    link: 'https://www.beachlandballroom.com/e/13428494/maserati-unwed-sailor-seeress',
+    date: '2024-07-28T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Ben Brainard"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/ben-brainard",
-    "date": "2024-06-09",
-    "venue": "Playhouse Square"
+    artist: ['Save Ferris', 'Massive Hotdog Recall', "Hogan's Last Smash"],
+    link: 'https://www.beachlandballroom.com/e/13671423/save-ferris-massive-hotdog-recall-hogan-s-last-smash',
+    date: '2024-07-28T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Brett Goldstein"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/brett-goldstein",
-    "date": "2024-08-24",
-    "venue": "Playhouse Square"
+    artist: ['Kommuna Lux'],
+    link: 'https://www.beachlandballroom.com/e/13531494/kommuna-lux',
+    date: '2024-07-30T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "The Blues is Alright Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/the-blues-is-alright-tour",
-    "date": "2024-03-22",
-    "venue": "Playhouse Square"
+    artist: ['Briscoe'],
+    link: 'https://www.beachlandballroom.com/e/13524794/briscoe',
+    date: '2024-07-31T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Black Violin: The Experience Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/black-violin-the-experience-tour",
-    "date": "2024-03-23",
-    "venue": "Playhouse Square"
+    artist: ['Electric Blue Yonder', 'Banshee Tree'],
+    link: 'https://www.beachlandballroom.com/e/13486784/electric-blue-yonder-banshee-tree',
+    date: '2024-08-01T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Celtic Woman 20th Anniversary Tour"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/celtic-woman-20th-anniversary-tour",
-    "date": "2024-03-28",
-    "venue": "Playhouse Square"
+    artist: ['Lambrini Girls', 'Blossom Park'],
+    link: 'https://www.beachlandballroom.com/e/13370034/lambrini-girls-blossom-park',
+    date: '2024-08-02T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Frankie Valli & The Four Seasons"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons",
-    "date": "2024-04-18",
-    "venue": "Playhouse Square"
+    artist: ['Colby Acuff'],
+    link: 'https://www.beachlandballroom.com/e/13662203/colby-acuff',
+    date: '2024-08-02T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "RAIN: A Tribute to the Beatles"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2",
-    "date": "2024-04-19",
-    "venue": "Playhouse Square"
+    artist: ['Beachland Flea'],
+    link: 'https://www.beachlandballroom.com/e/13633933/beachland-flea',
+    date: '2024-08-03T10:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Sonic Symphony"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/sonic-symphony",
-    "date": "2024-04-20",
-    "venue": "Playhouse Square"
+    artist: ['Into The Blue: ELO Tribute'],
+    link: 'https://www.beachlandballroom.com/e/13524844/into-the-blue-elo-tribute',
+    date: '2024-08-03T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "\"Batman\" Live in Concert"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/batman-live-in-concert",
-    "date": "2024-04-21",
-    "venue": "Playhouse Square"
+    artist: ['Kaitlin Butts', 'Angela Perley'],
+    link: 'https://www.beachlandballroom.com/e/13540524/kaitlin-butts-angela-perley',
+    date: '2024-08-03T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Sesame Street Live! Say Hello"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello",
-    "date": "2024-04-24",
-    "venue": "Playhouse Square"
+    artist: ['Rebirth Brass Band', 'DaLand Brass Band'],
+    link: 'https://www.beachlandballroom.com/e/13703143/rebirth-brass-band-daland-brass-band',
+    date: '2024-08-04T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "C.S. Lewis On Stage"
+    artist: [
+      'back to BACK TO BLACK: the AMY WINEHOUSE celebration',
+      'Post Saga',
+      'Mikey Silas (Apostle Jones)',
     ],
-    "link": "https://www.playhousesquare.org/events/detail/cs-lewis-on-stage",
-    "date": "2024-05-11",
-    "venue": "Playhouse Square"
+    link: 'https://www.beachlandballroom.com/e/13736693/back-to-back-to-black-the-amy-winehouse-celebration-post-saga-mikey-silas-apostle-jones-',
+    date: '2024-08-06T19:30:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Mother's Day Celebration"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/mothers-day-celebration",
-    "date": "2024-05-11",
-    "venue": "Playhouse Square"
+    artist: ['David Ramirez', 'Kirby Brown'],
+    link: 'https://www.beachlandballroom.com/e/13519864/david-ramirez-kirby-brown',
+    date: '2024-08-06T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Loud and Proud Starring Nina West"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/loud-and-proud-starring-nina-west",
-    "date": "2024-06-01",
-    "venue": "Playhouse Square"
+    artist: ['Kind Hearted Strangers', 'The Applewhites'],
+    link: 'https://www.beachlandballroom.com/e/13491994/kind-hearted-strangers-the-applewhites',
+    date: '2024-08-07T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Boney James"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/boney-james-1",
-    "date": "2024-08-22",
-    "venue": "Playhouse Square"
+    artist: ['Robert Jon & The Wreck', 'Easton Union'],
+    link: 'https://www.beachlandballroom.com/e/13617933/robert-jon-the-wreck-easton-union',
+    date: '2024-08-07T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Jimbo's Drag Circus"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/495366",
-    "date": "2024-03-02T19:00:00",
-    "venue": "Agora"
+    artist: ['Matt Schofield', 'Guy Snowdon and the Citizens'],
+    link: 'https://www.beachlandballroom.com/e/13424544/matt-schofield-guy-snowdon-and-the-citizens',
+    date: '2024-08-08T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "BabyTron"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/511545",
-    "date": "2024-03-06T19:00:00",
-    "venue": "Agora"
+    artist: ['Giuda', 'The A-10s', "DJ Erin Ryan (WCSB's Bomb The Twist)"],
+    link: 'https://www.beachlandballroom.com/e/13469884/giuda-the-a-10s-dj-erin-ryan-wcsb-s-bomb-the-twist-',
+    date: '2024-08-08T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Alkaline Trio, Drug Church, Worriers"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/508072",
-    "date": "2024-03-08T19:00:00",
-    "venue": "Agora"
+    artist: ['BANNERS'],
+    link: 'https://www.beachlandballroom.com/e/13517794/banners',
+    date: '2024-08-09T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Scott Bradlee's  Postmodern Jukebox"
+    artist: [
+      'Charity Evonna',
+      'Reagan Gray',
+      'Billie Mitchell',
+      'Esther Fitz',
+      'Sadhu',
+      'Madison Pruitt',
+      'Katie Harrigan',
+      'A.M. The Queen',
+      'Hosted by Mila Tropicz & Ericka',
     ],
-    "link": "https://www.agoracleveland.com/events/detail/503995",
-    "date": "2024-03-10T19:00:00",
-    "venue": "Agora"
+    link: 'https://www.beachlandballroom.com/e/13736393/charity-evonna-reagan-gray-billie-mitchell-esther-fitz-sadhu-madison-pruitt-katie-harrigan-a-m-the-queen-hosted-by-mila-tropicz-ericka',
+    date: '2024-08-09T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "KMFDM, Cyanotic"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/516682",
-    "date": "2024-03-14T19:00:00",
-    "venue": "Agora"
+    artist: ['The Aristocrats'],
+    link: 'https://www.beachlandballroom.com/e/13417364/the-aristocrats',
+    date: '2024-08-10T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "KK\u2019s Priest, L.A. Guns, BURNING WITCHES"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/521713",
-    "date": "2024-03-20T18:30:00",
-    "venue": "Agora"
+    artist: ["Austin Stambaugh's Electric Weepers", 'Ohio Civil Power'],
+    link: 'https://www.beachlandballroom.com/e/13473924/austin-stambaugh-s-electric-weepers-ohio-civil-power',
+    date: '2024-08-10T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Bianca Del Rio"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/512578",
-    "date": "2024-03-22T19:00:00",
-    "venue": "Agora"
+    artist: ['A Harmonica Salute to Reese Black Germany'],
+    link: 'https://www.beachlandballroom.com/e/13499154/a-harmonica-salute-to-reese-black-germany',
+    date: '2024-08-11T17:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Kai Wachi Presents Morphosia Tour, Prosecute, Nimda"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/519381",
-    "date": "2024-03-23T20:00:00",
-    "venue": "Agora"
+    artist: ['The Band of Heathens', 'Thor Platter'],
+    link: 'https://www.beachlandballroom.com/e/13527684/the-band-of-heathens-thor-platter',
+    date: '2024-08-13T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Joe Pera"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/510001",
-    "date": "2024-03-24T18:00:00",
-    "venue": "Agora"
+    artist: ['The Surfrajettes', 'Dave Rich & the Enablers'],
+    link: 'https://www.beachlandballroom.com/e/13381274/the-surfrajettes-dave-rich-the-enablers',
+    date: '2024-08-14T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "JJ Grey & Mofro, w/ Judith Hill"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/511112",
-    "date": "2024-03-29T18:30:00",
-    "venue": "Agora"
+    artist: ['Tommy Prine', 'Theo Kandel'],
+    link: 'https://www.beachlandballroom.com/e/13517674/tommy-prine-theo-kandel',
+    date: '2024-08-14T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Scarface"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/532627",
-    "date": "2024-04-07T18:00:00",
-    "venue": "Agora"
+    artist: ['The 12th Annual International Ohio Burlesque Festival 2024'],
+    link: 'https://www.beachlandballroom.com/e/13498724/the-12th-annual-international-ohio-burlesque-festival-2024',
+    date: '2024-08-15T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Baldassarre Rock Orchestra"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/534223",
-    "date": "2024-04-13T18:30:00",
-    "venue": "Agora"
+    artist: ['Krallice', 'Vedic Dread'],
+    link: 'https://www.beachlandballroom.com/e/13477364/krallice-vedic-dread',
+    date: '2024-08-16T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Alvvays, Spllit"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/519545",
-    "date": "2024-04-18T19:00:00",
-    "venue": "Agora"
+    artist: ['The 12th Annual International Ohio Burlesque Festival 2024'],
+    link: 'https://www.beachlandballroom.com/e/13498734/the-12th-annual-international-ohio-burlesque-festival-2024',
+    date: '2024-08-16T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Benjamin Tod & Lost Dog Street Band, Resonant Rogues"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/511793",
-    "date": "2024-04-19T19:00:00",
-    "venue": "Agora"
+    artist: ['The 12th Annual International Ohio Burlesque Festival 2024'],
+    link: 'https://www.beachlandballroom.com/e/13498754/the-12th-annual-international-ohio-burlesque-festival-2024',
+    date: '2024-08-17T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Dusty Slay"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/512971",
-    "date": "2024-04-20T18:00:00",
-    "venue": "Agora"
+    artist: ['6 Turning 4 Burning'],
+    link: 'https://www.beachlandballroom.com/e/13753543/6-turning-4-burning',
+    date: '2024-08-17T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "TommyInnit How To Be A Billionaire"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/520431",
-    "date": "2024-04-25T19:00:00",
-    "venue": "Agora"
+    artist: ['Reverend Kristin Michael Hayter'],
+    link: 'https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter',
+    date: '2024-08-18T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "An Evening with Alan Ruck"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/519196",
-    "date": "2024-05-03T18:00:00",
-    "venue": "Agora"
+    artist: ['Vandoliers', 'Mya Byrne'],
+    link: 'https://www.beachlandballroom.com/e/13560864/vandoliers-mya-byrne',
+    date: '2024-08-18T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Our Last Night, Broadside, Normandie"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/507744",
-    "date": "2024-05-10T18:30:00",
-    "venue": "Agora"
+    artist: ['Pub Choir'],
+    link: 'https://www.beachlandballroom.com/e/13512884/pub-choir',
+    date: '2024-08-19T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Kathy Griffin"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/512472",
-    "date": "2024-05-11T19:00:00",
-    "venue": "Agora"
+    artist: ['Willi Carlisle', 'Anna Tivel'],
+    link: 'https://www.beachlandballroom.com/e/13541174/willi-carlisle-anna-tivel',
+    date: '2024-08-20T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Portugal. The Man, Snacktime"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/508347",
-    "date": "2024-05-12T19:00:00",
-    "venue": "Agora"
+    artist: ["The Legal Aid Society's Jam for Justice"],
+    link: 'https://www.beachlandballroom.com/e/13481964/the-legal-aid-society-s-jam-for-justice',
+    date: '2024-08-21T17:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Trey Anastasio and Classic TAB"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/530002",
-    "date": "2024-05-15T18:30:00",
-    "venue": "Agora"
+    artist: ['Silverada', 'Jason Scott & the Heat'],
+    link: 'https://www.beachlandballroom.com/e/13491234/silverada-jason-scott-the-heat',
+    date: '2024-08-22T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Blind Guardian, Night Demon"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/517799",
-    "date": "2024-05-16T19:00:00",
-    "venue": "Agora"
+    artist: ['Owen', 'Jeremy Boyle'],
+    link: 'https://www.beachlandballroom.com/e/13499163/owen-jeremy-boyle',
+    date: '2024-08-22T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Mr. Big, Shawn Perry"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/526774",
-    "date": "2024-05-24T19:00:00",
-    "venue": "Agora"
+    artist: ['Ike Reilly', "Don't Turn Your Back on Friday Night (Film)"],
+    link: 'https://www.beachlandballroom.com/e/13702703/ike-reilly-don-t-turn-your-back-on-friday-night-film-',
+    date: '2024-08-23T19:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Knocked Loose, Loathe, Show Me The Body, SPEED"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/528579",
-    "date": "2024-05-25T18:00:00",
-    "venue": "Agora"
+    artist: ['The Whips', 'Miki Fiki', 'False Teeth'],
+    link: 'https://www.beachlandballroom.com/e/13679903/the-whips-miki-fiki-false-teeth',
+    date: '2024-08-23T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Chappell Roan"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/526058",
-    "date": "2024-05-28T19:00:00",
-    "venue": "Agora"
+    artist: ['Baldassarre Rock Orchestra'],
+    link: 'https://www.beachlandballroom.com/e/13694903/baldassarre-rock-orchestra',
+    date: '2024-08-24T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "House of BurlesCLE 2.0"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/521430",
-    "date": "2024-06-08T18:00:00",
-    "venue": "Agora"
+    artist: ['The Great Iron Snake', 'Evel', 'The Power Cosmic'],
+    link: 'https://www.beachlandballroom.com/e/13672343/the-great-iron-snake-evel-the-power-cosmic',
+    date: '2024-08-24T20:30:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "House Of BurlesCle 2.0"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/521669",
-    "date": "2024-06-08T20:30:00",
-    "venue": "Agora"
+    artist: ['Dogs on Shady Lane', 'Wished Bone'],
+    link: 'https://www.beachlandballroom.com/e/13758523/dogs-on-shady-lane-wished-bone',
+    date: '2024-08-27T19:30:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/520827",
-    "date": "2024-07-28T18:30:00",
-    "venue": "Agora"
+    artist: ['Pre/Post Party with DJ Cardigan Enthusiast'],
+    link: 'https://www.beachlandballroom.com/e/13762263/pre-post-party-with-dj-cardigan-enthusiast',
+    date: '2024-08-28T18:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Iron & Wine"
+    artist: [
+      'Built To Spill',
+      "Floating Witch's Head",
+      'Rich Mattson and the Northstars',
     ],
-    "link": "https://www.agoracleveland.com/events/detail/529331",
-    "date": "2024-08-20T18:30:00",
-    "venue": "Agora"
+    link: 'https://www.beachlandballroom.com/e/13381284/built-to-spill-floating-witch-s-head-rich-mattson-and-the-northstars',
+    date: '2024-08-28T19:30:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "POWERWOLF, Unleash the Archers"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/529652",
-    "date": "2024-09-04T19:00:00",
-    "venue": "Agora"
+    artist: ['Service', 'Wrong Places'],
+    link: 'https://www.beachlandballroom.com/e/13680333/service-wrong-places',
+    date: '2024-08-29T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Front 242, Nitzer Ebb, Kanga"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/533396",
-    "date": "2024-09-08T19:00:00",
-    "venue": "Agora"
+    artist: ['Elefante'],
+    link: 'https://www.beachlandballroom.com/e/13727543/elefante',
+    date: '2024-08-29T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Lowspot single release w/ Ace of Wands, Fawx, House of Wills"
-    ],
-    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737",
-    "date": "2024-03-02T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Grant', 'Berry Box', 'Guiche'],
+    link: 'https://www.beachlandballroom.com/e/13720303/grant-berry-box-guiche',
+    date: '2024-08-30T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Happy Dog Takes on Everything"
-    ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927",
-    "date": "2024-03-06T19:30:00",
-    "venue": "Happy Dog"
+    artist: ['The Rumours'],
+    link: 'https://www.beachlandballroom.com/e/13391594/the-rumours',
+    date: '2024-09-01T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Omni, This Is Lorelei, Suitor"
-    ],
-    "link": "https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607",
-    "date": "2024-03-08T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['The Linda Lindas', 'Bacchae'],
+    link: 'https://www.beachlandballroom.com/e/13668743/the-linda-lindas-bacchae',
+    date: '2024-09-03T19:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Bristoltooth, Total Downer, Crumbling Creatures"
-    ],
-    "link": "https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387",
-    "date": "2024-03-09T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Ladrones'],
+    link: 'https://www.beachlandballroom.com/e/13698783/ladrones',
+    date: '2024-09-03T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Shadow Show, Marty Brass & The Lavender Jets, Perfect Pals, The Vumms"
-    ],
-    "link": "https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937",
-    "date": "2024-03-10T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Brothertiger'],
+    link: 'https://www.beachlandballroom.com/e/13514054/brothertiger',
+    date: '2024-09-06T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "John Condit, Songs from an Unknown God, The Magnavox's"
-    ],
-    "link": "https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377",
-    "date": "2024-03-12T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['The Clarks'],
+    link: 'https://www.beachlandballroom.com/e/13688153/the-clarks',
+    date: '2024-09-06T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Wild Shape, Kill the Hippies, Patchke"
-    ],
-    "link": "https://www.eventbrite.com/e/wild-shape-kill-the-hippies-patchke-tickets-837970390997",
-    "date": "2024-03-15T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['American Aquarium'],
+    link: 'https://www.beachlandballroom.com/e/13465314/american-aquarium',
+    date: '2024-09-08T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Samuel SC, Wrong Places, Xeroform"
-    ],
-    "link": "https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137",
-    "date": "2024-03-16T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Dogpark'],
+    link: 'https://www.beachlandballroom.com/e/13702943/dogpark',
+    date: '2024-09-10T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Full 90: a Free St. Patrick's Day of Irish Music!"
-    ],
-    "link": "https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207",
-    "date": "2024-03-17T16:00:00",
-    "venue": "Happy Dog"
+    artist: ['Joey Harkum'],
+    link: 'https://www.beachlandballroom.com/e/13665563/joey-harkum',
+    date: '2024-09-11T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Lowspot single release w/ Ace of Wands, Fawx, House of Wills"
-    ],
-    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737",
-    "date": "2024-03-02T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Jolie Holland'],
+    link: 'https://www.beachlandballroom.com/e/13721333/jolie-holland',
+    date: '2024-09-11T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Happy Dog Takes on Everything"
-    ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927",
-    "date": "2024-03-06T19:30:00",
-    "venue": "Happy Dog"
+    artist: ['My Brightest Diamond', 'NOIA'],
+    link: 'https://www.beachlandballroom.com/e/13374244/my-brightest-diamond-noia',
+    date: '2024-09-12T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Omni, This Is Lorelei, Suitor"
-    ],
-    "link": "https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607",
-    "date": "2024-03-08T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Dorian Electra'],
+    link: 'https://www.beachlandballroom.com/e/13716563/dorian-electra',
+    date: '2024-09-12T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Bristoltooth, Total Downer, Crumbling Creatures"
-    ],
-    "link": "https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387",
-    "date": "2024-03-09T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Sam Burchfield and the Scoundrels'],
+    link: 'https://www.beachlandballroom.com/e/13438474/sam-burchfield-and-the-scoundrels',
+    date: '2024-09-13T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Shadow Show, Marty Brass & The Lavender Jets, Perfect Pals, The Vumms"
-    ],
-    "link": "https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937",
-    "date": "2024-03-10T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['Sierra Hull', 'Stephanie Lambring'],
+    link: 'https://www.beachlandballroom.com/e/13505944/sierra-hull-stephanie-lambring',
+    date: '2024-09-18T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "John Condit, Songs from an Unknown God, The Magnavox's"
-    ],
-    "link": "https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377",
-    "date": "2024-03-12T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['A Giant Dog'],
+    link: 'https://www.beachlandballroom.com/e/13721303/a-giant-dog',
+    date: '2024-09-19T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Wild Shape, Kill the Hippies, Patchke"
-    ],
-    "link": "https://www.eventbrite.com/e/wild-shape-kill-the-hippies-patchke-tickets-837970390997",
-    "date": "2024-03-15T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['DEVOtional 2024'],
+    link: 'https://www.beachlandballroom.com/e/13505864/devotional-2024',
+    date: '2024-09-20T19:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Samuel SC, Wrong Places, Xeroform"
-    ],
-    "link": "https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137",
-    "date": "2024-03-16T21:00:00",
-    "venue": "Happy Dog"
+    artist: ['DEVOtional 2024'],
+    link: 'https://www.beachlandballroom.com/e/13505844/devotional-2024',
+    date: '2024-09-21T15:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Full 90: a Free St. Patrick's Day of Irish Music!"
-    ],
-    "link": "https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207",
-    "date": "2024-03-17T16:00:00",
-    "venue": "Happy Dog"
+    artist: ['Fog Lake', 'Foxes In Fiction'],
+    link: 'https://www.beachlandballroom.com/e/13706503/fog-lake-foxes-in-fiction',
+    date: '2024-09-23T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "An Evening with Dixon's Violin"
-    ],
-    "link": "https://www.celebrityetc.com/event/13323233/an-evening-with-dixons-violin",
-    "date": "2024-03-01T19:30:00",
-    "venue": "Musica Akron"
+    artist: ['William Elliott Whitmore', 'Sug Daniels'],
+    link: 'https://www.beachlandballroom.com/e/13474834/william-elliott-whitmore-sug-daniels',
+    date: '2024-09-24T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Mike Mains & The Branches, Wreck Like Me"
-    ],
-    "link": "https://www.ticketweb.com/event/mike-mains-the-branches-musica-tickets/13660028?pl=celebrityetc&REFID=clientsitewpecheck",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Musica Akron"
+    artist: ['Divine Sweater', 'Ben\u00e9t', 'Claire Ozmun'],
+    link: 'https://www.beachlandballroom.com/e/13737003/divine-sweater-ben-t-claire-ozmun',
+    date: '2024-09-26T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "MAOLI - Boots On The Ground Tour Plus Special Guest MISHKA"
-    ],
-    "link": "https://www.ticketweb.com/event/maoli-boots-on-musica-tickets/13777438?pl=celebrityetc&REFID=clientsitewpecheck",
-    "date": "2024-03-23T20:00:00",
-    "venue": "Musica Akron"
+    artist: ['The Dead Revival Band'],
+    link: 'https://www.beachlandballroom.com/e/13707283/the-dead-revival-band',
+    date: '2024-09-27T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Free Throw, Charmer & Carpool"
-    ],
-    "link": "https://www.ticketweb.com/event/free-throw-charmer-carpool-musica-tickets/13444053?pl=celebrityetc&REFID=clientsitewpecheck",
-    "date": "2024-04-07T19:30:00",
-    "venue": "Musica Akron"
+    artist: ['Under The Rug', 'Basic Printer'],
+    link: 'https://www.beachlandballroom.com/e/13495814/under-the-rug-basic-printer',
+    date: '2024-09-28T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Pilfers"
-    ],
-    "link": "https://www.ticketweb.com/event/pilfers-musica-tickets/13546943?pl=celebrityetc&REFID=clientsitewpecheck",
-    "date": "2024-05-09T19:00:00",
-    "venue": "Musica Akron"
+    artist: ['The War and Treaty'],
+    link: 'https://www.beachlandballroom.com/e/13530574/the-war-and-treaty',
+    date: '2024-09-28T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Noah Kahan: We'll All Be Here Forever Tour"
-    ],
-    "link": "https://concerts.livenation.com/noah-kahan-well-all-be-here-cuyahoga-falls-ohio-05-28-2024/event/05005F33F78770D0",
-    "date": "2024-05-28T20:00:00",
-    "venue": "Blossom"
+    artist: ['Catpack'],
+    link: 'https://www.beachlandballroom.com/e/13534854/catpack',
+    date: '2024-09-29T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "21 Savage: American Dream Tour"
-    ],
-    "link": "https://concerts.livenation.com/21-savage-american-dream-tour-cuyahoga-falls-ohio-05-29-2024/event/05006055E0CC5F09",
-    "date": "2024-05-29T19:00:00",
-    "venue": "Blossom"
+    artist: ['Victoria Canal'],
+    link: 'https://www.beachlandballroom.com/e/13671733/victoria-canal',
+    date: '2024-09-29T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Chris Stapleton's All-American Road Show"
-    ],
-    "link": "https://concerts.livenation.com/chris-stapletons-allamerican-road-show-cuyahoga-falls-ohio-05-31-2024/event/05005F58D01E36F5",
-    "date": "2024-05-31T19:00:00",
-    "venue": "Blossom"
+    artist: ['Homeshake', 'Freak Heat Waves'],
+    link: 'https://www.beachlandballroom.com/e/13584743/homeshake-freak-heat-waves',
+    date: '2024-10-01T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "NEEDTOBREATHE: THE CAVES WORLD TOUR"
-    ],
-    "link": "https://concerts.livenation.com/needtobreathe-the-caves-world-tour-cuyahoga-falls-ohio-06-01-2024/event/05005F23BD832383",
-    "date": "2024-06-01T19:30:00",
-    "venue": "Blossom"
+    artist: ['Son Little'],
+    link: 'https://www.beachlandballroom.com/e/13747223/son-little',
+    date: '2024-10-02T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Foreigner & Styx with John Waite: Renegades and Juke Box Heroes Tour"
-    ],
-    "link": "https://concerts.livenation.com/foreigner-styx-with-john-waite-renegades-cuyahoga-falls-ohio-06-12-2024/event/05005F7CE76334D4",
-    "date": "2024-06-12T18:45:00",
-    "venue": "Blossom"
+    artist: ['The Sheepdogs'],
+    link: 'https://www.beachlandballroom.com/e/13564114/the-sheepdogs',
+    date: '2024-10-03T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "New Kids On The Block with Paula Abdul & DJ Jazzy Jeff"
-    ],
-    "link": "https://concerts.livenation.com/new-kids-on-the-block-with-cuyahoga-falls-ohio-06-14-2024/event/05005F4AE82F428A",
-    "date": "2024-06-14T19:00:00",
-    "venue": "Blossom"
+    artist: ['Uz Jsme Doma', 'DaLand Brass Band'],
+    link: 'https://www.beachlandballroom.com/e/13675893/uz-jsme-doma-daland-brass-band',
+    date: '2024-10-03T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Hank Williams Jr."
-    ],
-    "link": "https://concerts.livenation.com/hank-williams-jr-cuyahoga-falls-ohio-06-21-2024/event/05005F7CA31716BD",
-    "date": "2024-06-21T19:00:00",
-    "venue": "Blossom"
+    artist: ['The Dead Tongues'],
+    link: 'https://www.beachlandballroom.com/e/13435894/the-dead-tongues',
+    date: '2024-10-04T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Dave Matthews Band"
-    ],
-    "link": "https://concerts.livenation.com/dave-matthews-band-cuyahoga-falls-ohio-06-25-2024/event/05005F85C5625046",
-    "date": "2024-06-25T19:30:00",
-    "venue": "Blossom"
+    artist: ['Sarah Shook & The Disarmers'],
+    link: 'https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers',
+    date: '2024-10-04T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Niall Horan: \"THE SHOW\" LIVE ON TOUR 2024"
-    ],
-    "link": "https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F",
-    "date": "2024-06-26T19:30:00",
-    "venue": "Blossom"
+    artist: ['Gong'],
+    link: 'https://www.beachlandballroom.com/e/13398804/gong',
+    date: '2024-10-06T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Third Eye Blind with Special Guest Yellowcard: Summer Gods Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/third-eye-blind-with-special-guest-cuyahoga-falls-ohio-07-05-2024/event/05005F8F13CF6CD6",
-    "date": "2024-07-05T18:30:00",
-    "venue": "Blossom"
+    artist: ['The Lemon Twigs'],
+    link: 'https://www.beachlandballroom.com/e/13455694/the-lemon-twigs',
+    date: '2024-10-07T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Norah Jones"
-    ],
-    "link": "https://concerts.livenation.com/norah-jones-cuyahoga-falls-ohio-07-11-2024/event/05006055C976533E",
-    "date": "2024-07-11T20:00:00",
-    "venue": "Blossom"
+    artist: ['Robert Ellis', 'Walker Lukens'],
+    link: 'https://www.beachlandballroom.com/e/13676093/robert-ellis-walker-lukens',
+    date: '2024-10-08T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Luke Bryan: Mind of a Country Boy Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/luke-bryan-mind-of-a-country-cuyahoga-falls-ohio-07-12-2024/event/0500603E047E5BCD",
-    "date": "2024-07-12T19:00:00",
-    "venue": "Blossom"
+    artist: ["Billy Bremner's Rockfile", 'Doug McKean & The Stuntmen'],
+    link: 'https://www.beachlandballroom.com/e/13653263/billy-bremner-s-rockfile-doug-mckean-the-stuntmen',
+    date: '2024-10-09T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Train & REO Speedwagon: Summer Road Trip 2024"
-    ],
-    "link": "https://concerts.livenation.com/train-reo-speedwagon-summer-road-trip-cuyahoga-falls-ohio-07-15-2024/event/05006037009167A7",
-    "date": "2024-07-15T18:25:00",
-    "venue": "Blossom"
+    artist: ['Pink Talking Fish'],
+    link: 'https://www.beachlandballroom.com/e/13664983/pink-talking-fish',
+    date: '2024-10-09T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Chicago And Earth, Wind & Fire: Heart & Soul Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/chicago-and-earth-wind-fire-heart-cuyahoga-falls-ohio-07-16-2024/event/05005F6715F764CE",
-    "date": "2024-07-16T19:30:00",
-    "venue": "Blossom"
+    artist: ['Clem Snide', 'Rye Valley'],
+    link: 'https://www.beachlandballroom.com/e/13391764/clem-snide-rye-valley',
+    date: '2024-10-10T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Alanis Morissette: The Triple Moon Tour"
+    artist: [
+      'Pat and the Pissers',
+      'TRUSS',
+      'Loconti',
+      'Off Leash (formerly known as Detention)',
+      'Solon',
+      'Blossom Park',
+      'False Teeth',
+      'Bug Moment',
+      'Social Cig',
+      'Nora Marks',
+      'Grant',
     ],
-    "link": "https://concerts.livenation.com/alanis-morissette-the-triple-moon-tour-cuyahoga-falls-ohio-07-17-2024/event/05005F640FEC5BB3",
-    "date": "2024-07-17T19:00:00",
-    "venue": "Blossom"
+    link: 'https://www.beachlandballroom.com/e/13751053/pat-and-the-pissers-truss-loconti-off-leash-formerly-known-as-detention-solon-blossom-park-false-teeth-bug-moment-social-cig-nora-marks-grant',
+    date: '2024-10-12T17:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Red Hot Chili Peppers: Unlimited Love Tour"
-    ],
-    "link": "https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F",
-    "date": "2024-07-22T19:00:00",
-    "venue": "Blossom"
+    artist: ['Jason Eady'],
+    link: 'https://www.beachlandballroom.com/e/13675063/jason-eady',
+    date: '2024-10-13T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Totally Tubular Festival"
-    ],
-    "link": "https://concerts.livenation.com/totally-tubular-festival-cuyahoga-falls-ohio-07-28-2024/event/05006047069B50E1",
-    "date": "2024-07-28T18:00:00",
-    "venue": "Blossom"
+    artist: ['Kishi Bashi', 'Sweet Loretta'],
+    link: 'https://www.beachlandballroom.com/e/13505644/kishi-bashi-sweet-loretta',
+    date: '2024-10-14T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "SAMMY HAGAR The Best of All Worlds Tour with special guest Loverboy"
-    ],
-    "link": "https://concerts.livenation.com/sammy-hagar-the-best-of-all-cuyahoga-falls-ohio-07-29-2024/event/05005F68FA146649",
-    "date": "2024-07-29T19:00:00",
-    "venue": "Blossom"
+    artist: ['John Douglas', 'Lauren Calve'],
+    link: 'https://www.beachlandballroom.com/e/13691113/john-douglas-lauren-calve',
+    date: '2024-10-16T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "PRIMUS and COHEED AND CAMBRIA"
-    ],
-    "link": "https://concerts.livenation.com/primus-and-coheed-and-cambria-cuyahoga-falls-ohio-08-05-2024/event/05006037420D7242",
-    "date": "2024-08-05T19:00:00",
-    "venue": "Blossom"
+    artist: ['Boris', 'Starcrawler'],
+    link: 'https://www.beachlandballroom.com/e/13454824/boris-starcrawler',
+    date: '2024-10-17T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Hozier: Unreal Unearth Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/hozier-unreal-unearth-tour-2024-cuyahoga-falls-ohio-08-06-2024/event/05005F623EB5784B",
-    "date": "2024-08-06T20:00:00",
-    "venue": "Blossom"
+    artist: ['Bombargo'],
+    link: 'https://www.beachlandballroom.com/e/13683203/bombargo',
+    date: '2024-10-18T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Thirty Seconds To Mars: Seasons World Tour"
-    ],
-    "link": "https://concerts.livenation.com/thirty-seconds-to-mars-seasons-world-cuyahoga-falls-ohio-08-07-2024/event/05005F67FBD05619",
-    "date": "2024-08-07T18:30:00",
-    "venue": "Blossom"
+    artist: ['Joshua Hyslop'],
+    link: 'https://www.beachlandballroom.com/e/13421334/joshua-hyslop',
+    date: '2024-10-19T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Dan + Shay: Heartbreak On The Map Tour"
-    ],
-    "link": "https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033",
-    "date": "2024-08-09T19:00:00",
-    "venue": "Blossom"
+    artist: ['Osees', 'Iguana Death Cult'],
+    link: 'https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult',
+    sold_out: true,
+    date: '2024-10-20T20:30:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "KIDZ BOP LIVE 2024"
-    ],
-    "link": "https://concerts.livenation.com/kidz-bop-live-2024-cuyahoga-falls-ohio-08-11-2024/event/05006031C7CB375B",
-    "date": "2024-08-11T16:00:00",
-    "venue": "Blossom"
+    artist: ['Brother Elsey'],
+    link: 'https://www.beachlandballroom.com/e/13691463/brother-elsey',
+    date: '2024-10-31T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Tedeschi Trucks Band Deuces Wild 2024 with Special Guest Margo Price"
-    ],
-    "link": "https://concerts.livenation.com/tedeschi-trucks-band-deuces-wild-2024-cuyahoga-falls-ohio-08-13-2024/event/05006056F9246420",
-    "date": "2024-08-13T19:00:00",
-    "venue": "Blossom"
+    artist: ['Shwayze', 'SensaMotion', 'Cloud9 Vibes'],
+    link: 'https://www.beachlandballroom.com/e/13669003/shwayze-sensamotion-cloud9-vibes',
+    date: '2024-11-01T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Hootie & the Blowfish: Summer Camp with Trucks Tour"
-    ],
-    "link": "https://concerts.livenation.com/hootie-the-blowfish-summer-camp-with-cuyahoga-falls-ohio-08-15-2024/event/05005F62BC634076",
-    "date": "2024-08-15T19:00:00",
-    "venue": "Blossom"
+    artist: ['Mr. Gnome', 'Mourning [A] BLKstar', 'Black Island Condors'],
+    link: 'https://www.beachlandballroom.com/e/13720753/mr-gnome-mourning-a-blkstar-black-island-condors',
+    date: '2024-11-02T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "The Doobie Brothers 2024"
-    ],
-    "link": "https://concerts.livenation.com/the-doobie-brothers-2024-cuyahoga-falls-ohio-08-22-2024/event/0500602C8F011833",
-    "date": "2024-08-22T19:00:00",
-    "venue": "Blossom"
+    artist: ['Deer Tick'],
+    link: 'https://www.beachlandballroom.com/e/13763743/deer-tick',
+    date: '2024-11-03T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Rob Zombie and Alice Cooper: Freaks on Parade 2024 Tour"
-    ],
-    "link": "https://concerts.livenation.com/rob-zombie-and-alice-cooper-freaks-cuyahoga-falls-ohio-08-28-2024/event/0500602A348A58D5",
-    "date": "2024-08-28T18:00:00",
-    "venue": "Blossom"
+    artist: ['Fred Eaglesmith'],
+    link: 'https://www.beachlandballroom.com/e/13708413/fred-eaglesmith',
+    date: '2024-11-07T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Avril Lavigne: The Greatest Hits"
-    ],
-    "link": "https://concerts.livenation.com/avril-lavigne-the-greatest-hits-cuyahoga-falls-ohio-09-06-2024/event/05006032D9DA4510",
-    "date": "2024-09-06T19:00:00",
-    "venue": "Blossom"
+    artist: ['Atta Boy'],
+    link: 'https://www.beachlandballroom.com/e/13531324/atta-boy',
+    date: '2024-11-08T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Cage The Elephant: Neon Pill Tour"
-    ],
-    "link": "https://concerts.livenation.com/cage-the-elephant-neon-pill-tour-cuyahoga-falls-ohio-09-09-2024/event/0500605CCE4153EF",
-    "date": "2024-09-09T18:30:00",
-    "venue": "Blossom"
+    artist: ['Wild Pink'],
+    link: 'https://www.beachlandballroom.com/e/13758773/wild-pink',
+    date: '2024-11-10T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival"
-    ],
-    "link": "https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937",
-    "date": "2024-09-12T17:30:00",
-    "venue": "Blossom"
+    artist: ['BigXthaPlug', 'Ro$ama', 'Young Hood'],
+    link: 'https://www.beachlandballroom.com/e/13747143/bigxthaplug-ro-ama-young-hood',
+    date: '2024-11-12T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Sum 41: Tour of the Setting Sum"
-    ],
-    "link": "https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22",
-    "date": "2024-09-15T19:00:00",
-    "venue": "Blossom"
+    artist: ['Hackensaw Boys'],
+    link: 'https://www.beachlandballroom.com/e/13758263/hackensaw-boys',
+    date: '2024-11-16T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Vampire Weekend: 'Only God Was Above Us' Tour"
-    ],
-    "link": "https://concerts.livenation.com/vampire-weekend-only-god-was-above-cuyahoga-falls-ohio-09-19-2024/event/05006048EE755385",
-    "date": "2024-09-19T19:00:00",
-    "venue": "Blossom"
+    artist: ['Pig', 'Stoneburner', 'Unitcode: Machine'],
+    link: 'https://www.beachlandballroom.com/e/13694113/pig-stoneburner-unitcode-machine',
+    date: '2024-11-17T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "The National and The War On Drugs with Special Guest Lucius"
-    ],
-    "link": "https://concerts.livenation.com/the-national-and-the-war-on-cuyahoga-falls-ohio-09-21-2024/event/05006047092C606D",
-    "date": "2024-09-21T18:45:00",
-    "venue": "Blossom"
+    artist: ['Alisa Amador'],
+    link: 'https://www.beachlandballroom.com/e/13687043/alisa-amador',
+    date: '2024-11-23T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "2024 Premium Season Tickets"
-    ],
-    "link": "https://premium.livenation.com/venue/blossom-music-center",
-    "date": "2024-12-31T00:00:01",
-    "venue": "Blossom"
+    artist: ['Surfer Girl', 'Coyote Island', 'Beach Fly'],
+    link: 'https://www.beachlandballroom.com/e/13683313/surfer-girl-coyote-island-beach-fly',
+    date: '2024-12-07T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
-    "artist": [
-      "Chris Young, Bryan Martin"
-    ],
-    "link": "/events/detail?event_id=524789",
-    "date": "2024-05-10T18:30:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['Ty Segall Solo Acoustic'],
+    link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
+    date: '2025-04-22T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
-    "artist": [
-      "Omarion Presents: VBZ on VBZ Tour, Vedo, WanMor, Jastin Martin"
-    ],
-    "link": "/events/detail?event_id=532826",
-    "date": "2024-05-12T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['N69 FEST'],
+    link: 'https://www.eventbrite.com/e/n69-fest-tickets-788633583277',
+    date: '2024-03-09T16:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Brit Floyd"
-    ],
-    "link": "/events/detail?event_id=521837",
-    "date": "2024-05-19T19:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['TRASH UNREAL VII: HOLY TRASH'],
+    link: 'https://www.eventbrite.com/e/trash-unreal-vii-holy-trash-tickets-853710219247',
+    date: '2024-04-06T18:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Gary Clark Jr."
-    ],
-    "link": "/events/detail?event_id=528423",
-    "date": "2024-05-24T19:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['JER x Zeta'],
+    link: 'https://www.eventbrite.com/e/jer-x-zeta-tickets-847091111317',
+    date: '2024-05-05T17:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Khruangbin, John Carroll Kirby"
-    ],
-    "link": "/events/detail?event_id=528300",
-    "date": "2024-05-29T19:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['SPECTRAL VOICE'],
+    link: 'https://www.eventbrite.com/e/spectral-voice-tickets-832656547147',
+    date: '2024-05-15T19:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Jacob Collier, Emily King"
-    ],
-    "link": "/events/detail?event_id=472801",
-    "date": "2024-06-12T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['INCANTATION'],
+    link: 'https://www.eventbrite.com/e/incantation-tickets-841778962537',
+    date: '2024-05-19T17:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Goose"
-    ],
-    "link": "/events/detail?event_id=529807",
-    "date": "2024-06-16T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['VERMIN WOMB'],
+    link: 'https://www.eventbrite.com/e/vermin-womb-tickets-851153802937',
+    date: '2024-05-23T20:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Brothers Osborne, Stephen Wilson Jr."
-    ],
-    "link": "/events/detail?event_id=516497",
-    "date": "2024-06-29T19:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['HIRS COLLECTIVE'],
+    link: 'https://www.eventbrite.com/e/hirs-collective-tickets-850950705467',
+    date: '2024-06-25T19:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Sad Summer Festival 2024, Mayday Parade, The Maine, The Wonder Years, We the Kings, Real Friends, Knuckle Puck, Daisy Grenade, Hot Milk"
-    ],
-    "link": "/events/detail?event_id=533386",
-    "date": "2024-07-29T13:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['THE EXPLOITED'],
+    link: 'https://www.eventbrite.com/e/the-exploited-tickets-849136830117',
+    date: '2024-09-21T19:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Lamb Of God & Mastodon, Kerry King; Unearth"
-    ],
-    "link": "/events/detail?event_id=529663",
-    "date": "2024-08-09T17:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['N69 FEST'],
+    link: 'https://www.eventbrite.com/e/n69-fest-tickets-788633583277',
+    date: '2024-03-09T16:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Bush, Jerry Cantrell and Candlebox"
-    ],
-    "link": "/events/detail?event_id=526378",
-    "date": "2024-08-13T17:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['TRASH UNREAL VII: HOLY TRASH'],
+    link: 'https://www.eventbrite.com/e/trash-unreal-vii-holy-trash-tickets-853710219247',
+    date: '2024-04-06T18:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "The Avett Brothers, Sammy Rae & The Friends"
-    ],
-    "link": "/events/detail?event_id=517863",
-    "date": "2024-08-23T18:30:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['JER x Zeta'],
+    link: 'https://www.eventbrite.com/e/jer-x-zeta-tickets-847091111317',
+    date: '2024-05-05T17:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "King Gizzard & the Lizard Wizard, Geese"
-    ],
-    "link": "/events/detail?event_id=509500",
-    "date": "2024-08-24T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['SPECTRAL VOICE'],
+    link: 'https://www.eventbrite.com/e/spectral-voice-tickets-832656547147',
+    date: '2024-05-15T19:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "O.A.R., Fitz and The Tantrums"
-    ],
-    "link": "/events/detail?event_id=510138",
-    "date": "2024-08-25T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['INCANTATION'],
+    link: 'https://www.eventbrite.com/e/incantation-tickets-841778962537',
+    date: '2024-05-19T17:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Mitski, Lamp"
-    ],
-    "link": "/events/detail?event_id=525985",
-    "date": "2024-09-03T18:30:00",
-    "venue": "Jacobs Pavilion at Nautica"
+    artist: ['VERMIN WOMB'],
+    link: 'https://www.eventbrite.com/e/vermin-womb-tickets-851153802937',
+    date: '2024-05-23T20:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "15th Annual Cleveland Bridal Show",
-      "Presented By TL Worldwide Transportation"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/bridal-show-240302",
-    "date": "2024-03-02",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['HIRS COLLECTIVE'],
+    link: 'https://www.eventbrite.com/e/hirs-collective-tickets-850950705467',
+    date: '2024-06-25T19:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "Avenged Sevenfold: Life Is But A Dream\u2026North American Tour",
-      "Special Guests Poppy + Sullivan King"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/avenged-sevenfold-240309",
-    "date": "2024-03-09",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['THE EXPLOITED'],
+    link: 'https://www.eventbrite.com/e/the-exploited-tickets-849136830117',
+    date: '2024-09-21T19:00:00',
+    venue: 'No Class',
   },
   {
-    "artist": [
-      "2024 Mid-American Conference Block Party"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/2024-mac-block-party",
-    "date": "2024-03-15",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['Big Girl , Factual Brains and October Beachclub'],
+    link: 'https://grogshop.gs/event-details/13488074/big-girl-w-factual-brains-and-october-beachclub',
+    date: '2024-07-17T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Women's Final Four Super Saturday Practice"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/ncaa-240406",
-    "date": "2024-04-06",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['Redd Kross', 'Dale Crover'],
+    link: 'https://grogshop.gs/event-details/13483014/redd-kross',
+    date: '2024-07-17T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Lauren Daigle",
-      "Ellie Holcomb"
+    artist: [
+      "Casso's Colossal Cookout",
+      'Kwas-e',
+      'Solo Mafia',
+      'Leandrow Thomas',
+      'Dapostergirl',
+      'Morgan Janae',
+      'Namejai',
+      'Mani Iverson',
+      'LaDaishare',
     ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/lauren-daigle-20240530",
-    "date": "2024-05-30",
-    "venue": "Rocket Mortgage FieldHouse"
+    link: 'https://grogshop.gs/event-details/13727343/casso-s-colossal-cookout',
+    date: '2024-07-18T21:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Janet Jackson: Together Again",
-      "with Nelly"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/janet-jackson-240625",
-    "date": "2024-06-25",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['B Side Summer Patio Summer Series: AKA & CO.'],
+    link: 'https://grogshop.gs/event-details/13561154/b-side-summer-patio-summer-series-aka-co-',
+    date: '2024-07-19T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "AJR: The Maybe Man Tour",
-      "Special Guests mxmtoon and Almost Monday"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/ajr20240627",
-    "date": "2024-06-27",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['Disintegration, The Sewerheads, Autopolitan, Wander'],
+    link: 'https://grogshop.gs/event-details/13531514/disintegration-the-sewerheads-autopolitan-wander',
+    date: '2024-07-19T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Justin Timberlake",
-      "The Forget Tomorrow World Tour"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/justin-timberlake-240707",
-    "date": "2024-07-07",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['Guided By Voices', 'The Sueves'],
+    link: 'https://grogshop.gs/event-details/13413594/guided-by-voices',
+    sold_out: true,
+    date: '2024-07-20T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Jennifer Lopez",
-      "This Is Me...Now The Tour"
+    artist: [
+      'Cleveland Kings Action Pack Presents: THE BOYS ARE BACK IN TOWN: Fundraiser for Trans Ohio',
     ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/jennifer-lopez-240820",
-    "date": "2024-08-20",
-    "venue": "Rocket Mortgage FieldHouse"
+    link: 'https://grogshop.gs/event-details/13676123/cleveland-kings-action-pack-presents-the-boys-are-back-in-town-fundraiser-for-trans-ohio',
+    date: '2024-07-21T18:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Peso Pluma",
-      "Exodo Tour"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/peso-pluma-100924",
-    "date": "2024-10-09",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['Marcus Smith', 'Madstarr', 'Nova', 'Bedrooms', 'Duality'],
+    link: 'https://grogshop.gs/event-details/13517124/marcus-smith-madstarr-nova-bedrooms',
+    date: '2024-07-21T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Creed: Are You Ready? Tour",
-      "Special Guests 3 Doors Down & Mammoth WVH"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122",
-    "date": "2024-11-22",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['Fucked Up', 'Chastity', 'Nuclae'],
+    link: 'https://grogshop.gs/event-details/13544614/fucked-up-w-chastity-nuclae',
+    date: '2024-07-22T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Playboi Carti: Antagonist Tour",
-      "with Homixide Gang, Ken Carson and Destroy Lonely"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/playboi-carti-231015",
-    "date": "2026-02-04",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['School of Rock AllStars', 'Headliners', 'Jr. Headliners'],
+    link: 'https://grogshop.gs/event-details/13510384/school-of-rock-allstars',
+    date: '2024-07-23T18:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "POSTPONED: Aerosmith",
-      "PEACE OUT The Farewell Tour with The Black Crowes"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921",
-    "date": "2026-02-28",
-    "venue": "Rocket Mortgage FieldHouse"
+    artist: ['If These Trees Could Talk', 'Sleepmakeswaves', 'Niights'],
+    link: 'https://grogshop.gs/event-details/13553093/if-these-trees-could-talk-sleepmakeswaves-niights',
+    date: '2024-07-24T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Club 90s Presents Justin Bieber Night: 18+ Only: ID Required"
-    ],
-    "link": "https://concerts.livenation.com/club-90s-presents-justin-bieber-night-cleveland-ohio-03-01-2024/event/05006041CF1F55C6",
-    "date": "2024-03-01T20:30:00",
-    "venue": "House of Blues"
+    artist: ['The Felice Brothers', 'Dead Gowns', 'Napsack'],
+    link: 'https://grogshop.gs/event-details/13487884/the-felice-brothers',
+    date: '2024-07-25T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Silversun Pickups"
-    ],
-    "link": "https://concerts.livenation.com/silversun-pickups-cleveland-ohio-03-02-2024/event/05005F51FE614BEC",
-    "date": "2024-03-02T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Blind Pilot', 'Angela Autumn'],
+    link: 'https://grogshop.gs/event-details/13465184/blind-pilot',
+    date: '2024-07-26T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "DESTIN CONRAD: SUBMISSIVE TOUR"
-    ],
-    "link": "https://concerts.livenation.com/destin-conrad-submissive-tour-cleveland-ohio-03-03-2024/event/0500603B32197EFD",
-    "date": "2024-03-03T19:00:00",
-    "venue": "House of Blues"
+    artist: ['B Side Summer Patio Series: Nick Samps & Friends'],
+    link: 'https://grogshop.gs/event-details/13561174/b-side-summer-patio-series-nick-samps-friends',
+    date: '2024-07-27T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Destin Conrad: Submissive Tour: Moved To Cambridge Room"
-    ],
-    "link": "https://concerts.livenation.com/destin-conrad-submissive-tour-moved-to-cleveland-ohio-03-03-2024/event/05005F76B0502211",
-    "date": "2024-03-03T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Mike Dillon & Punkadelic, Hello!3D, C-Level'],
+    link: 'https://grogshop.gs/event-details/13536034/mike-dillon-punkadelic-hello-3d-c-level',
+    date: '2024-07-27T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Bryce Vine: The Saturday Night Tour"
-    ],
-    "link": "https://concerts.livenation.com/bryce-vine-the-saturday-night-tour-cleveland-ohio-03-06-2024/event/05005F7108AEB7DD",
-    "date": "2024-03-06T19:00:00",
-    "venue": "House of Blues"
+    artist: ['BAD4U', 'Lindsxy Mesenburg', 'Bully Drillz', 'Moody'],
+    link: 'https://grogshop.gs/event-details/13696913/bad4u-lindsxy-mesenburg-bully-drillz-moody',
+    date: '2024-07-28T18:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "The Prodigals"
-    ],
-    "link": "https://concerts.livenation.com/the-prodigals-cleveland-ohio-03-08-2024/event/05005F81CE415584",
-    "date": "2024-03-08T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13475094/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-07-29T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Solid Pink Disco with DJ Trixie"
+    artist: [
+      'Mike Polk Jr. & John Skrtic\u2019s Vintage Cleveland Photo Album',
+      'John Skrtic',
     ],
-    "link": "https://concerts.livenation.com/solid-pink-disco-with-dj-trixie-cleveland-ohio-03-08-2024/event/05005F6DB59D2446",
-    "date": "2024-03-08T20:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13691533/mike-polk-jr-john-skrtic-s-vintage-cleveland-photo-album',
+    date: '2024-07-30T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Beach Weather: Pineapple Sunrise The Tour"
-    ],
-    "link": "https://concerts.livenation.com/beach-weather-pineapple-sunrise-the-tour-cleveland-ohio-03-09-2024/event/05005F2EAE722257",
-    "date": "2024-03-09T18:30:00",
-    "venue": "House of Blues"
+    artist: ['Another Dead Rockstar, Bessemer Saints, Myth & Company'],
+    link: 'https://grogshop.gs/event-details/13550894/another-dead-rockstar-bessemer-saints-myth-company',
+    date: '2024-07-31T19:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Matisyahu: Hold The Fire Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/matisyahu-hold-the-fire-tour-2024-cleveland-ohio-03-10-2024/event/05005F5ED3AB36C2",
-    "date": "2024-03-10T19:00:00",
-    "venue": "House of Blues"
+    artist: ['B Side Summer Patio Series: Jason Kaminski'],
+    link: 'https://grogshop.gs/event-details/13517074/b-side-summer-patio-series-jason-kaminski',
+    date: '2024-08-01T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Kim Dracula"
-    ],
-    "link": "https://concerts.livenation.com/kim-dracula-cleveland-ohio-03-12-2024/event/05006029B1A51F4B",
-    "date": "2024-03-12T18:30:00",
-    "venue": "House of Blues"
+    artist: ['Daisychain, Buffalo Ryders, Honey Pocket'],
+    link: 'https://grogshop.gs/event-details/13513244/daisychain-buffalo-ryders-honey-pocket',
+    date: '2024-08-01T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "The Castellows: On Tour"
-    ],
-    "link": "https://concerts.livenation.com/the-castellows-on-tour-cleveland-ohio-03-15-2024/event/05005F67E3254ABD",
-    "date": "2024-03-15T18:30:00",
-    "venue": "House of Blues"
+    artist: ['GlamGore: Seven Deadly Sins', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13484274/glamgore-seven-deadly-sins',
+    date: '2024-08-02T21:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Otoboke Beaver"
-    ],
-    "link": "https://concerts.livenation.com/otoboke-beaver-cleveland-ohio-03-15-2024/event/05005F4BEA3D36FC",
-    "date": "2024-03-15T19:00:00",
-    "venue": "House of Blues"
+    artist: ['B Side Summer Patio Series: Lil Jesse'],
+    link: 'https://grogshop.gs/event-details/13561244/b-side-summer-patio-series-lil-jesse',
+    date: '2024-08-03T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Bohemian Rhapsody: A Celebration of Queen"
-    ],
-    "link": "https://concerts.livenation.com/bohemian-rhapsody-a-celebration-of-queen-cleveland-ohio-03-16-2024/event/0500604CABD83B3E",
-    "date": "2024-03-16T18:00:00",
-    "venue": "House of Blues"
+    artist: ['Team Awesome', 'Chris Lugo', 'Scott Hanna'],
+    link: 'https://grogshop.gs/event-details/13730993/team-awesome-chris-lugo-scott-hanna',
+    date: '2024-08-04T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Gasolina: Reggaeton Party"
-    ],
-    "link": "https://concerts.livenation.com/gasolina-reggaeton-party-cleveland-ohio-03-22-2024/event/0500602BA8642073",
-    "date": "2024-03-22T21:00:00",
-    "venue": "House of Blues"
+    artist: ['Foulmouth'],
+    link: 'https://grogshop.gs/event-details/13680763/foulmouth',
+    date: '2024-08-05T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Little Stranger"
-    ],
-    "link": "https://concerts.livenation.com/little-stranger-cleveland-ohio-03-23-2024/event/05005F6C05B92AAE",
-    "date": "2024-03-23T19:00:00",
-    "venue": "House of Blues"
+    artist: ['D.O.A.', 'War On Women', 'Church&State', 'Attaxia'],
+    link: 'https://grogshop.gs/event-details/13564564/d-o-a-w-war-on-women',
+    date: '2024-08-06T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Little Stranger Afterparty"
-    ],
-    "link": "https://concerts.livenation.com/little-stranger-afterparty-cleveland-ohio-03-23-2024/event/05006056DDEB5A01",
-    "date": "2024-03-23T23:00:00",
-    "venue": "House of Blues"
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/event-details/13752343/midnight-rental-presents-secret-movie-night',
+    date: '2024-08-07T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "flipturn w/ Richy Mitch & The Coal Miners"
+    artist: [
+      'B Side Summer Patio Series: Ceci Taylor and Girl Cologne',
+      'Girl Cologne',
     ],
-    "link": "https://concerts.livenation.com/flipturn-w-richy-mitch-the-coal-cleveland-ohio-03-26-2024/event/05005F59EE0F46E7",
-    "date": "2024-03-26T19:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13561274/b-side-summer-patio-series-ceci-taylor-and-girl-cologne',
+    date: '2024-08-08T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "A Flock of Seagulls"
-    ],
-    "link": "https://concerts.livenation.com/a-flock-of-seagulls-cleveland-ohio-03-28-2024/event/05005F61AAF63BDF",
-    "date": "2024-03-28T19:00:00",
-    "venue": "House of Blues"
+    artist: ['B Side Summer Patio Series: Lea Marra'],
+    link: 'https://grogshop.gs/event-details/13561324/b-side-summer-patio-series-lea-marra',
+    date: '2024-08-09T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Sleepy Hallow: Boy Meets World Tour"
+    artist: [
+      'Conway the Machine',
+      'Jae Skeese',
+      'Armand Rashad',
+      'Dana Saf',
+      'Mynameisbravo',
     ],
-    "link": "https://concerts.livenation.com/sleepy-hallow-boy-meets-world-tour-cleveland-ohio-03-28-2024/event/05006038A94D4B2A",
-    "date": "2024-03-28T19:30:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13513704/conway-the-machine',
+    date: '2024-08-09T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "The Taylor Party: The TS Dance Party: 21 & Over Only"
+    artist: [
+      "Timalikesmusic presents That 90's Love: An Old School R&B Party",
+      'Jul Big Green',
     ],
-    "link": "https://concerts.livenation.com/the-taylor-party-the-ts-dance-cleveland-ohio-03-29-2024/event/05006032D50A430F",
-    "date": "2024-03-29T20:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13467974/timalikesmusic-presents-that-90-s-love-an-old-school-r-b-party',
+    date: '2024-08-10T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Set It Off: The Deathless Tour"
-    ],
-    "link": "https://concerts.livenation.com/set-it-off-the-deathless-tour-cleveland-ohio-03-30-2024/event/05005F75A67815E6",
-    "date": "2024-03-30T17:30:00",
-    "venue": "House of Blues"
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13754323/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-08-12T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Beach Fossils with friends Nation of Language"
+    artist: [
+      'Together Pangea Celebrates 10 Years of Badillac',
+      'Liily',
+      'The Rosies',
     ],
-    "link": "https://concerts.livenation.com/beach-fossils-with-friends-nation-of-cleveland-ohio-04-01-2024/event/05006039BED34A4B",
-    "date": "2024-04-01T19:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13524744/together-pangea-celebrates-10-years-of-badillac',
+    date: '2024-08-13T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "We Three"
-    ],
-    "link": "https://concerts.livenation.com/we-three-cleveland-ohio-04-10-2024/event/05006041C7175303",
-    "date": "2024-04-10T19:00:00",
-    "venue": "House of Blues"
+    artist: ['B Side Summer Patio Series: The Vumms'],
+    link: 'https://grogshop.gs/event-details/13561394/b-side-summer-patio-series-the-vumms',
+    date: '2024-08-16T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "VNV Nation"
-    ],
-    "link": "https://concerts.livenation.com/vnv-nation-cleveland-ohio-04-12-2024/event/0500602AD94536C9",
-    "date": "2024-04-12T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Post Saga', 'Frida And The Mann', 'The Ice Cream Militia'],
+    link: 'https://grogshop.gs/event-details/13720353/post-saga-frida-and-the-mann-the-ice-cream-militia',
+    date: '2024-08-16T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Owl City"
-    ],
-    "link": "https://concerts.livenation.com/owl-city-cleveland-ohio-04-14-2024/event/05006029964C111A",
-    "date": "2024-04-14T18:30:00",
-    "venue": "House of Blues"
+    artist: ['B Side Summer Patio Series: Melted Strawberry'],
+    link: 'https://grogshop.gs/event-details/13561414/b-side-summer-patio-series-melted-strawberry',
+    date: '2024-08-17T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Arizona Zervas"
-    ],
-    "link": "https://concerts.livenation.com/arizona-zervas-cleveland-ohio-04-14-2024/event/05006022D4953403",
-    "date": "2024-04-14T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Angie McMahon', 'Mimi Gilbert'],
+    link: 'https://grogshop.gs/event-details/13465824/angie-mcmahon',
+    date: '2024-08-17T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Me First and the Gimme Gimmes"
+    artist: [
+      "Protest The Hero (10th Anniversary of Volition) , '68 and Greyhaven",
     ],
-    "link": "https://concerts.livenation.com/me-first-and-the-gimme-gimmes-cleveland-ohio-04-16-2024/event/05006048D395491F",
-    "date": "2024-04-16T19:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13555064/protest-the-hero-10th-anniversary-of-volition-w-68-and-greyhaven',
+    date: '2024-08-18T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Queensryche"
-    ],
-    "link": "https://concerts.livenation.com/queensryche-cleveland-ohio-04-17-2024/event/05005F4409AB3E3A",
-    "date": "2024-04-17T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13754353/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-08-19T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Thy Art Is Murder Godlike Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/thy-art-is-murder-godlike-tour-cleveland-ohio-04-18-2024/event/05006041B9104A83",
-    "date": "2024-04-18T18:00:00",
-    "venue": "House of Blues"
+    artist: ['The Grog Shop Presents- Iron & Wine: Light Verse 2024'],
+    link: 'https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024',
+    date: '2024-08-20T19:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Fayrewether"
-    ],
-    "link": "https://concerts.livenation.com/fayrewether-cleveland-ohio-04-19-2024/event/05006037175A7468",
-    "date": "2024-04-19T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Mad Caddies', 'The Iron Roses', "Hogan's Last Smash"],
+    link: 'https://grogshop.gs/event-details/13465284/mad-caddies-w-the-iron-roses-hogan-s-last-smash',
+    date: '2024-08-22T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "BoyWithUke: Lucid Dreams Tour"
+    artist: [
+      'Mojoflo',
+      'Da Land Brass Band and Hyperius Blake and The Sound Experiment',
+      'MOJOFLO',
+      'Da Land Brass Band',
+      'Hyperius Blake and The Sound Experiment',
     ],
-    "link": "https://concerts.livenation.com/boywithuke-lucid-dreams-tour-cleveland-ohio-04-26-2024/event/05005F531CDF64C7",
-    "date": "2024-04-26T19:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13740093/mojoflo-w-da-land-brass-band-and-hyperius-blake-and-the-sound-experiment',
+    date: '2024-08-24T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Atmosphere: Tour De Friends Part Deux"
-    ],
-    "link": "https://concerts.livenation.com/atmosphere-tour-de-friends-part-deux-cleveland-ohio-04-28-2024/event/0500602C797B0F20",
-    "date": "2024-04-28T19:00:00",
-    "venue": "House of Blues"
+    artist: ['BATTLEGROUND: Fight for Ohio'],
+    link: 'https://grogshop.gs/event-details/13768083/battleground-fight-for-ohio',
+    date: '2024-08-25T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Jesse McCartney: All's Well Tour"
-    ],
-    "link": "https://concerts.livenation.com/jesse-mccartney-alls-well-tour-cleveland-ohio-04-29-2024/event/0500603686831FA2",
-    "date": "2024-04-29T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Apes of the State, Rent Strike, The House of Wills'],
+    link: 'https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills',
+    date: '2024-08-26T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "The Struts The Pretty Vicious Tour 2024 With Special Guest L\u00f8 Spirit"
+    artist: [
+      'Built To Spill: There\u2019s Nothing Wrong With Love 30th Anniversary Tour',
+      'Floating Witch\u2019s Head',
+      'Rich Mattson and the Northstars',
     ],
-    "link": "https://concerts.livenation.com/the-struts-the-pretty-vicious-tour-cleveland-ohio-04-30-2024/event/0500602D07044CB3",
-    "date": "2024-04-30T19:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13380944/built-to-spill-there-s-nothing-wrong-with-love-30th-anniversary-tour',
+    sold_out: true,
+    date: '2024-08-28T19:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "BRELAND: Little More Countrier Tour"
-    ],
-    "link": "https://concerts.livenation.com/breland-little-more-countrier-tour-cleveland-ohio-05-01-2024/event/05006047D5193D45",
-    "date": "2024-05-01T19:00:00",
-    "venue": "House of Blues"
+    artist: ['King Buzzo & Trevor Dunn', 'JD Pinkus'],
+    link: 'https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn',
+    date: '2024-08-28T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Drake White: The Bridge Tour"
-    ],
-    "link": "https://concerts.livenation.com/drake-white-the-bridge-tour-cleveland-ohio-05-02-2024/event/05005F4689F31176",
-    "date": "2024-05-02T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Teenage Bottlerocket', 'The Last Gang', 'The Vumms'],
+    link: 'https://grogshop.gs/event-details/13703853/teenage-bottlerocket-the-last-gang-the-vumms',
+    date: '2024-08-29T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Brent Cobb: Livin' The Dream Tour"
-    ],
-    "link": "https://concerts.livenation.com/brent-cobb-livin-the-dream-tour-cleveland-ohio-05-03-2024/event/05006037030A73F4",
-    "date": "2024-05-03T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    date: '2024-08-30T18:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Stiff Little Fingers"
-    ],
-    "link": "https://concerts.livenation.com/stiff-little-fingers-cleveland-ohio-05-06-2024/event/0500603F122E6727",
-    "date": "2024-05-06T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    date: '2024-08-30T18:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Thievery Corporation"
-    ],
-    "link": "https://concerts.livenation.com/thievery-corporation-cleveland-ohio-05-08-2024/event/05006028A7471822",
-    "date": "2024-05-08T19:00:00",
-    "venue": "House of Blues"
+    artist: ['BEN NICHOLS and TIM BARRY', 'Max Stern'],
+    link: 'https://grogshop.gs/event-details/13712113/ben-nichols-and-tim-barry',
+    date: '2024-08-30T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Tep No: Bigger Than God Tour"
+    artist: [
+      'Groga Palooza: Night 2: Pop',
+      'Emo',
+      'Hip Hop',
+      'Alternative',
+      'Metal',
+      'Punk',
+      'Psychedelic',
+      'Rock',
+      'LoConti',
+      'Slag Genie',
+      'Slug Fest',
+      'Rent For Cheryl',
+      'Freda and the Mann',
+      'Dotia',
+      "The Magnavox's",
+      'Fungits',
+      'Flourish',
+      'Mitchel Madek',
+      'Debs',
+      'Jet Star',
+      'Don Kenobi',
+      'EJ Sparks',
+      'Murr',
+      'Rellick',
     ],
-    "link": "https://concerts.livenation.com/tep-no-bigger-than-god-tour-cleveland-ohio-05-08-2024/event/05006048DC1B4C27",
-    "date": "2024-05-08T19:30:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock',
+    date: '2024-08-31T13:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Tenille Townes"
+    artist: [
+      'Groga Palooza: Night 3: Stalker Jane Screening and Special Performance',
+      'Stalker Jane',
     ],
-    "link": "https://concerts.livenation.com/tenille-townes-cleveland-ohio-05-10-2024/event/0500604231998D1F",
-    "date": "2024-05-10T19:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13672593/groga-palooza-night-3-stalker-jane-screening-and-special-performance',
+    date: '2024-09-01T16:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Battle Beast Circus Of Doom Over North America"
-    ],
-    "link": "https://concerts.livenation.com/battle-beast-circus-of-doom-over-cleveland-ohio-05-12-2024/event/05005F7239846A53",
-    "date": "2024-05-12T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Stephen Wilson Jr.'],
+    link: 'https://grogshop.gs/event-details/13748743/stephen-wilson-jr-',
+    date: '2024-09-05T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Say Anything: Is A Real Boy 20th Anniversary Tour"
+    artist: [
+      'B Side Summer Patio Series: Brent Kirby and Clare Feorene',
+      'Clare Feorene',
     ],
-    "link": "https://concerts.livenation.com/say-anything-is-a-real-boy-cleveland-ohio-05-14-2024/event/05005F75BF37230B",
-    "date": "2024-05-14T18:30:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13561444/b-side-summer-patio-series-brent-kirby-and-clare-feorene',
+    date: '2024-09-06T19:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Kamelot: Awaken The World Tour 2024"
+    artist: [
+      'GlamGore: Die',
+      'Nasty: A Tribute to the 80s',
+      'Anhedonia Delight',
     ],
-    "link": "https://concerts.livenation.com/kamelot-awaken-the-world-tour-2024-cleveland-ohio-05-18-2024/event/05006029BE12261A",
-    "date": "2024-05-18T18:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13484284/glamgore-die-nasty-a-tribute-to-the-80s',
+    date: '2024-09-06T21:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Kid Kapichi: North America 2024"
-    ],
-    "link": "https://concerts.livenation.com/kid-kapichi-north-america-2024-cleveland-ohio-05-18-2024/event/050060389EB046A1",
-    "date": "2024-05-18T19:30:00",
-    "venue": "House of Blues"
+    artist: ['Deicide, Krisiun, Inferi, Cloak'],
+    link: 'https://grogshop.gs/event-details/13727193/deicide-krisiun-inferi-cloak',
+    date: '2024-09-07T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "City and Colour: Spring 2024"
+    artist: [
+      'THE SUICIDE MACHINES with Hey Smith + Kill Lincoln + Bad Operation',
     ],
-    "link": "https://concerts.livenation.com/city-and-colour-spring-2024-cleveland-ohio-05-19-2024/event/05006047981C1A80",
-    "date": "2024-05-19T19:00:00",
-    "venue": "House of Blues"
+    link: 'https://grogshop.gs/event-details/13444074/the-suicide-machines-with-hey-smith-kill-lincoln-bad-operation',
+    date: '2024-09-08T19:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "From Ashes To New: The Blackout Tour Pt. 2"
-    ],
-    "link": "https://concerts.livenation.com/from-ashes-to-new-the-blackout-cleveland-ohio-05-20-2024/event/05006056BC0F4A97",
-    "date": "2024-05-20T17:00:00",
-    "venue": "House of Blues"
+    artist: ["Zombie: Composer's Cut by Fabio Frizzi"],
+    link: 'https://grogshop.gs/event-details/13708313/zombie-composer-s-cut-by-fabio-frizzi',
+    date: '2024-09-11T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Bella Dose: L-Pop US Tour"
-    ],
-    "link": "https://concerts.livenation.com/bella-dose-lpop-us-tour-cleveland-ohio-05-23-2024/event/05006048FD065905",
-    "date": "2024-05-23T19:00:00",
-    "venue": "House of Blues"
+    artist: ['Joey Valence & Brae'],
+    link: 'https://grogshop.gs/event-details/13530894/joey-valence-brae',
+    date: '2024-09-14T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "King Buffalo",
-      "If These Trees Could Talk"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13338153/king-buffalo-if-these-trees-could-talk",
-    "sold_out": true,
-    "date": "2024-03-01T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "The Alarm Clocks",
-      "Simon & the Apparatus",
-      "DJ Erin Ryan (WCSB's Bomb The Twist)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13368053/the-alarm-clocks-simon-the-apparatus-dj-erin-ryan-wcsb-s-bomb-the-twist-",
-    "date": "2024-03-01T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "DaLand Brass Band",
-      "Super Culture",
-      "Community Shoe"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13486023/daland-brass-band-super-culture-community-shoe",
-    "date": "2024-03-02T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Scream', 'Soulside', 'Whatever...', 'Whatever'],
+    link: 'https://grogshop.gs/event-details/13551334/scream-soulside-whatever-',
+    date: '2024-09-17T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Maddie Zahm",
-      "Leeana Firestone"
+    artist: [
+      'The Lemonheads: It\u2019s a Shame About C\u2019mon Feel Tour',
+      'John David Kent',
     ],
-    "link": "https://www.beachlandballroom.com/e/13688828/maddie-zahm-leeana-firestone",
-    "sold_out": true,
-    "date": "2024-03-02T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Beachland Brunch",
-      "DJ Rachel Hunt (WRUW)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13538493/beachland-brunch-dj-rachel-hunt-wruw-",
-    "date": "2024-03-03T11:00:00",
-    "venue": "Beachland Tavern"
+    link: 'https://grogshop.gs/event-details/13709343/the-lemonheads-it-s-a-shame-about-c-mon-feel-tour',
+    date: '2024-09-18T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Lilly Hiatt",
-      "Molly Martin"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13689198/lilly-hiatt-molly-martin",
-    "date": "2024-03-03T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Joe P', 'Anna Shoemaker'],
+    link: 'https://grogshop.gs/event-details/13564274/joe-p',
+    date: '2024-09-20T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Mary Timony",
-      "youbet"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13823808/mary-timony-youbet",
-    "date": "2024-03-05T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Foxing'],
+    link: 'https://grogshop.gs/event-details/13755673/foxing',
+    date: '2024-09-21T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Tanner Usrey",
-      "Kat Hasty"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13261843/tanner-usrey-kat-hasty",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Dishwasher Possum",
-      "Seconds Away",
-      "Jack Lutz"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13510273/dishwasher-possum-seconds-away-jack-lutz",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Bobby Rush",
-      "Austin \"Walkin\" Cane",
-      "DJ Pete London"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13420333/bobby-rush-austin-walkin-cane-dj-pete-london",
-    "date": "2024-03-07T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['The Juliana Hatfield Three'],
+    link: 'https://grogshop.gs/event-details/13564334/the-juliana-hatfield-three',
+    date: '2024-09-25T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Laveda",
-      "Youth Pallet"
+    artist: [
+      'Mustard Plug with Special Guests Authority Zero and Something To Do',
     ],
-    "link": "https://www.beachlandballroom.com/e/13457343/laveda-youth-pallet",
-    "date": "2024-03-07T20:00:00",
-    "venue": "Beachland Tavern"
+    link: 'https://grogshop.gs/event-details/13432604/mustard-plug-with-special-guests-authority-zero-and-something-to-do',
+    date: '2024-09-26T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Ekoostik Hookah"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13342463/ekoostik-hookah",
-    "date": "2024-03-08T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Pansy Division with Bev Rage & the Drinks'],
+    link: 'https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks',
+    date: '2024-09-27T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Whiskey Throttle",
-      "G.S. Harper"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13498933/whiskey-throttle-g-s-harper",
-    "date": "2024-03-08T20:30:00",
-    "venue": "Beachland Tavern"
+    artist: ['The War And Treaty'],
+    link: 'https://grogshop.gs/event-details/13532404/the-war-and-treaty',
+    date: '2024-09-28T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Abstract Sounds",
-      "Thicarus"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13479003/abstract-sounds-thicarus",
-    "date": "2024-03-09T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['John Early: The Album Tour'],
+    link: 'https://grogshop.gs/event-details/13564974/john-early-the-album-tour',
+    date: '2024-10-02T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Beachland Brunch",
-      "Hodgepodge Lodge"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13564983/beachland-brunch-hodgepodge-lodge",
-    "date": "2024-03-10T11:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['GlamGore: Haunted Hoedown', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13484314/glamgore-haunted-hoedown',
+    date: '2024-10-04T21:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Ally Venable",
-      "The Brakes"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13323923/ally-venable-the-brakes",
-    "date": "2024-03-10T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Yard Act'],
+    link: 'https://grogshop.gs/event-details/13487493/yard-act',
+    date: '2024-10-05T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Circles Around The Sun",
-      "Mikaela Davis and Southern Star"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13270963/circles-around-the-sun-mikaela-davis-and-southern-star",
-    "date": "2024-03-13T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Nil\u00fcfer Yanya', 'Angelica Garcia', 'Lutalo'],
+    link: 'https://grogshop.gs/event-details/13503104/nil-fer-yanya',
+    date: '2024-10-06T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Tophouse",
-      "The Wildwoods"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13718918/tophouse-the-wildwoods",
-    "date": "2024-03-14T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Lea Marra & the River Boys",
-      "Chloe & the Steel Strings",
-      "Dave Ziggy"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13477643/lea-marra-the-river-boys-chloe-the-steel-strings-dave-ziggy",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Sleepytime Gorilla Museum",
-      "Lung",
-      "Isolation Tank Ensemble"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13722208/sleepytime-gorilla-museum-lung-isolation-tank-ensemble",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "The Dollyrots",
-      "The Boreouts",
-      "Detention"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13874678/the-dollyrots-the-boreouts-detention",
-    "date": "2024-03-16T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "LUV",
-      "FACE",
-      "Nxbdy",
-      "Y.A.Y.A."
-    ],
-    "link": "https://www.beachlandballroom.com/e/13534923/luv-face-nxbdy-y-a-y-a-",
-    "date": "2024-03-16T20:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['6arelyhuman: The Sassy Scene Tour'],
+    link: 'https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour',
+    date: '2024-10-13T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Jake Xerxes Fussell",
-      "Alex Dupree"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13510753/jake-xerxes-fussell-alex-dupree",
-    "date": "2024-03-18T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Kishi Bashi', 'Sweet Loretta'],
+    link: 'https://grogshop.gs/event-details/13505064/kishi-bashi',
+    date: '2024-10-14T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Tow'rs",
-      "A Boy and His Kite"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13265473/tow-rs-a-boy-and-his-kite",
-    "date": "2024-03-19T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Acid Mothers Temple', 'Spirit Mother'],
+    link: 'https://grogshop.gs/event-details/13474624/acid-mothers-temple',
+    date: '2024-10-16T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Mike Doughty and Ghost of Vroom"
+    artist: [
+      'Boris \u201cAmplifier Worship Service\u201d: performing Amplifier Worship in its entirety',
+      'Starcrawler',
     ],
-    "link": "https://www.beachlandballroom.com/e/13483428/mike-doughty-and-ghost-of-vroom",
-    "date": "2024-03-19T20:00:00",
-    "venue": "Beachland Ballroom"
+    link: 'https://grogshop.gs/event-details/13443644/boris-amplifier-worship-service-performing-amplifier-worship-in-its-entirety',
+    date: '2024-10-17T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Wayne Hancock",
-      "Cory Grinder and the Playboy Scouts"
+    artist: [
+      'Evan Honer: North America 2024: Nowhere Fast Tour',
+      'Brendan Walter',
     ],
-    "link": "https://www.beachlandballroom.com/e/13292473/wayne-hancock-cory-grinder-and-the-playboy-scouts",
-    "date": "2024-03-20T20:00:00",
-    "venue": "Beachland Tavern"
+    link: 'https://grogshop.gs/event-details/13381834/evan-honer-north-america-2024-nowhere-fast-tour',
+    date: '2024-10-18T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Nathan-Paul Davis featuring Skuff Micksun & Blokhead Johnny"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13585393/nathan-paul-davis-featuring-skuff-micksun-blokhead-johnny",
-    "date": "2024-03-21T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "A Cleveland Music Showcase",
-      "Owen River",
-      "Charity Cunningham",
-      "Vince Nerone",
-      "Jack Harris"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13283663/a-cleveland-music-showcase-owen-river-charity-cunningham-vince-nerone-jack-harris",
-    "date": "2024-03-22T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Brooke Candy'],
+    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
+    date: '2024-10-19T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Joey Harkum",
-      "personsplacesthings"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13297843/joey-harkum-personsplacesthings",
-    "date": "2024-03-22T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Hinds'],
+    link: 'https://grogshop.gs/event-details/13487344/hinds',
+    date: '2024-10-22T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "This Is Just A Tribute: Rize of the Fenix"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13472323/this-is-just-a-tribute-rize-of-the-fenix",
-    "date": "2024-03-23T20:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "CHERRY!",
-      "Electric Dream Machine",
-      "DRVYN"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13526713/cherry-electric-dream-machine-drvyn",
-    "date": "2024-03-23T20:30:00",
-    "venue": "Beachland Tavern"
+    artist: ['Daniel Nunnelee: June, Baby Fall Tour'],
+    link: 'https://grogshop.gs/event-details/13550214/daniel-nunnelee-june-baby-fall-tour',
+    date: '2024-10-27T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Pre/Post Party with The Whiskey Drinks"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13586203/pre-post-party-with-the-whiskey-drinks",
-    "date": "2024-03-24T18:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Brother Elsey: A Jar Full of Lighting Tour'],
+    link: 'https://grogshop.gs/event-details/13691333/brother-elsey-a-jar-full-of-lighting-tour',
+    date: '2024-10-31T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Shovels & Rope",
-      "Al Olender"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13856508/shovels-rope-al-olender",
-    "date": "2024-03-24T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['GlamGore: The Villain Eras Tour', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13484354/glamgore-the-villain-eras-tour',
+    date: '2024-11-01T21:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Post Sex Nachos",
-      "Similar Kind"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13708828/post-sex-nachos-similar-kind",
-    "date": "2024-03-26T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Charles DC Carnes and the DC3",
-      "Austin \"Walkin\" Cane",
-      "Colin Dussault",
-      "MC Bob Frank",
-      "Gene Schwartz",
-      "Benny Mostella Jr",
-      "Charlie Christopherson"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13460663/charles-dc-carnes-and-the-dc3-austin-walkin-cane-colin-dussault-mc-bob-frank-gene-schwartz-benny-mostella-jr-charlie-christopherson",
-    "date": "2024-03-27T19:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Michigander', 'Cece Coakley'],
+    link: 'https://grogshop.gs/event-details/13709143/michigander',
+    date: '2024-11-09T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Pacific Dub",
-      "Lake Irie"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13247243/pacific-dub-lake-irie",
-    "date": "2024-03-27T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Benefit for the Family of Lachlan MacKinnon",
-      "Mourning [A] BLKstar",
-      "Wrong Places",
-      "Whatever",
-      "Oongow"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13585003/benefit-for-the-family-of-lachlan-mackinnon-mourning-a-blkstar-wrong-places-whatever-oongow",
-    "date": "2024-03-28T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['03 Greedo: The Life I Deserve Tour'],
+    link: 'https://grogshop.gs/event-details/13754913/03-greedo-the-life-i-deserve-tour',
+    date: '2024-11-12T20:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Andrea Von Kampen",
-      "American Darling"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13435253/andrea-von-kampen-american-darling",
-    "date": "2024-03-29T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Cris Jacobs'],
+    link: 'https://grogshop.gs/event-details/13555344/cris-jacobs',
+    date: '2024-11-15T21:00:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Grateful for Biggie"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13318033/grateful-for-biggie",
-    "date": "2024-03-30T20:30:00",
-    "venue": "Beachland Tavern"
+    artist: ['Forest Blakk'],
+    link: 'https://grogshop.gs/event-details/13544804/forest-blakk',
+    date: '2024-11-30T20:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Nouveau Decadence: A 20th Anniversary Burlesque Revue"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13494833/nouveau-decadence-a-20th-anniversary-burlesque-revue",
-    "date": "2024-03-30T20:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['GlamGore: Hairy', 'Scary', '& Feral', 'Anhedonia Delight'],
+    link: 'https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral',
+    date: '2024-12-13T21:30:00',
+    venue: 'Grog Shop',
   },
   {
-    "artist": [
-      "Too Many Zooz",
-      "Michael Wilbur"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13864378/too-many-zooz-michael-wilbur",
-    "date": "2024-03-31T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Chris Young, Bryan Martin'],
+    link: '/events/detail?event_id=524789',
+    date: '2024-05-10T18:30:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Matt Andersen",
-      "Old Man Luedecke"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13328773/matt-andersen-old-man-luedecke",
-    "date": "2024-04-02T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Omarion Presents: VBZ on VBZ Tour, Vedo, WanMor, Jastin Martin'],
+    link: '/events/detail?event_id=532826',
+    date: '2024-05-12T18:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "The Hi-Jivers",
-      "DJ Mr. Fishtruck"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13388323/the-hi-jivers-dj-mr-fishtruck",
-    "date": "2024-04-03T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Brit Floyd'],
+    link: '/events/detail?event_id=521837',
+    date: '2024-05-19T19:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "The Crane Wives",
-      "Rachel Bobbitt"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13744368/the-crane-wives-rachel-bobbitt",
-    "sold_out": true,
-    "date": "2024-04-03T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Kitchen Dwellers",
-      "Cris Jacobs"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13311923/kitchen-dwellers-cris-jacobs",
-    "date": "2024-04-04T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Club Ultraviolet",
-      "Will Cherry",
-      "WESWILL",
-      "Trav Hen",
-      "Cassius G",
-      "DJ Navy Jade"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13558623/club-ultraviolet-will-cherry-weswill-trav-hen-cassius-g-dj-navy-jade",
-    "date": "2024-04-04T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Gary Clark Jr.'],
+    link: '/events/detail?event_id=528423',
+    date: '2024-05-24T19:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Steve Forbert",
-      "Dave Rich"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13757928/steve-forbert-dave-rich",
-    "date": "2024-04-05T19:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Coastal Club",
-      "Jordan Dean",
-      "Liam Brock"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13435213/coastal-club-jordan-dean-liam-brock",
-    "date": "2024-04-05T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Khruangbin, John Carroll Kirby'],
+    link: '/events/detail?event_id=528300',
+    date: '2024-05-29T19:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Jackie Greene",
-      "Cousin Curtis"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13465233/jackie-greene-cousin-curtis",
-    "date": "2024-04-06T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Adam Paddock",
-      "The Meatball Mob",
-      "Flavor Wave",
-      "Emma Bieniewicz"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13342933/adam-paddock-the-meatball-mob-flavor-wave-emma-bieniewicz",
-    "date": "2024-04-06T20:30:00",
-    "venue": "Beachland Tavern"
+    artist: ['Jacob Collier, Emily King'],
+    link: '/events/detail?event_id=472801',
+    date: '2024-06-12T18:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Woods",
-      "Avey Tare"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13451573/woods-avey-tare",
-    "date": "2024-04-07T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Songstress Jo & the Familiar",
-      "Alexis Marrero",
-      "Pink Maskerade"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13558733/songstress-jo-the-familiar-alexis-marrero-pink-maskerade",
-    "date": "2024-04-07T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Goose'],
+    link: '/events/detail?event_id=529807',
+    date: '2024-06-16T18:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Nicotine Dolls",
-      "Brooke Alexx"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13323663/nicotine-dolls-brooke-alexx",
-    "date": "2024-04-08T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Brothers Osborne, Stephen Wilson Jr.'],
+    link: '/events/detail?event_id=516497',
+    date: '2024-06-29T19:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "The Thing",
-      "The Yellow Elevators"
+    artist: [
+      'Sad Summer Festival 2024, Mayday Parade, The Maine, The Wonder Years, We the Kings, Real Friends, Knuckle Puck, Daisy Grenade, Hot Milk',
     ],
-    "link": "https://www.beachlandballroom.com/e/13283793/the-thing-the-yellow-elevators",
-    "date": "2024-04-10T20:00:00",
-    "venue": "Beachland Tavern"
+    link: '/events/detail?event_id=533386',
+    date: '2024-07-29T13:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "The Motet",
-      "YAM YAM"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13434893/the-motet-yam-yam",
-    "date": "2024-04-10T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Lamb Of God & Mastodon, Kerry King; Unearth'],
+    link: '/events/detail?event_id=529663',
+    date: '2024-08-09T17:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "DC the Don",
-      "midwxst"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13485613/dc-the-don-midwxst",
-    "date": "2024-04-11T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Bush, Jerry Cantrell and Candlebox'],
+    link: '/events/detail?event_id=526378',
+    date: '2024-08-13T17:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "A Thousand Horses",
-      "Reckless Highway"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13315403/a-thousand-horses-reckless-highway",
-    "date": "2024-04-12T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "In The Pines",
-      "Super Sport",
-      "Zack Keim",
-      "The VUMMS"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13334913/in-the-pines-super-sport-zack-keim-the-vumms",
-    "date": "2024-04-12T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['The Avett Brothers, Sammy Rae & The Friends'],
+    link: '/events/detail?event_id=517863',
+    date: '2024-08-23T18:30:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Grateful Dub",
-      "Roots of Creation"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13425173/grateful-dub-roots-of-creation",
-    "date": "2024-04-13T20:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['King Gizzard & the Lizard Wizard, Geese'],
+    link: '/events/detail?event_id=509500',
+    date: '2024-08-24T18:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Burning River",
-      "Loconti"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13566583/burning-river-loconti",
-    "date": "2024-04-13T20:30:00",
-    "venue": "Beachland Tavern"
+    artist: ['O.A.R., Fitz and The Tantrums'],
+    link: '/events/detail?event_id=510138',
+    date: '2024-08-25T18:00:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "The Local Honeys"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13498823/the-local-honeys",
-    "date": "2024-04-14T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Mitski, Lamp'],
+    link: '/events/detail?event_id=525985',
+    date: '2024-09-03T18:30:00',
+    venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    "artist": [
-      "Caroline Rose",
-      "La Force"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13820778/caroline-rose-la-force",
-    "date": "2024-04-14T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Gideon'],
+    link: 'https://www.ticketmaster.com/gideon-cleveland-ohio-03-02-2024/event/05005F6FBCB43449',
+    date: '2024-03-02T18:30:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Earthless",
-      "Minami Deutsch"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13519183/earthless-minami-deutsch",
-    "date": "2024-04-15T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['KAIVON \u2013 2024 Ultraviolet Album Tour'],
+    link: 'https://www.ticketmaster.com/kaivon-2024-ultraviolet-album-tour-cleveland-ohio-03-07-2024/event/05005F66A0991638',
+    date: '2024-03-07T19:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Qwanqwa",
-      "Church of the Starry Wisdom"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13324263/qwanqwa-church-of-the-starry-wisdom",
-    "date": "2024-04-16T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Blue October'],
+    link: 'https://www.ticketmaster.com/blue-october-cleveland-ohio-03-08-2024/event/05005F75F3714F54',
+    date: '2024-03-08T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Steve'n'Seagulls",
-      "Dig Deep"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13391573/steve-n-seagulls-dig-deep",
-    "date": "2024-04-16T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['The Broken Hearts: Ultimate Tom Petty Tribute'],
+    link: 'https://www.ticketmaster.com/the-broken-hearts-ultimate-tom-petty-cleveland-ohio-03-09-2024/event/05005F83AC7E335E',
+    date: '2024-03-09T19:30:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Ruen Brothers",
-      "Poro"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13409098/ruen-brothers-poro",
-    "date": "2024-04-17T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Eddie Griffin'],
+    link: 'https://www.ticketmaster.com/eddie-griffin-cleveland-ohio-03-09-2024/event/05005F82FEA7742A',
+    date: '2024-03-09T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Rich Aucoin",
-      "Marottes"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13441843/rich-aucoin-marottes",
-    "date": "2024-04-18T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['WQMX Presents: Terri Clark'],
+    link: 'https://www.ticketmaster.com/wqmx-presents-terri-clark-cleveland-ohio-03-14-2024/event/05005F7B962F138F',
+    date: '2024-03-14T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Night Club",
-      "JPEG"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13421723/night-club-jpeg",
-    "date": "2024-04-19T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Shamrock Soiree'],
+    link: 'https://www.ticketmaster.com/shamrock-soiree-cleveland-ohio-03-15-2024/event/050060523EB88608',
+    date: '2024-03-15T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Lotus"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13423923/lotus",
-    "date": "2024-04-20T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Emo Nite \u2013 Cleveland, OH'],
+    link: 'https://www.ticketmaster.com/emo-nite-cleveland-oh-cleveland-ohio-03-15-2024/event/05006024D9E93A88',
+    date: '2024-03-15T21:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Lotus"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13423943/lotus",
-    "date": "2024-04-21T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "BODEGA",
-      "Total Downer",
-      "Big Bliss"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13399993/bodega-total-downer-big-bliss",
-    "date": "2024-04-22T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Hairball'],
+    link: 'https://www.ticketmaster.com/hairball-cleveland-ohio-03-16-2024/event/05005F83F6046189',
+    date: '2024-03-16T19:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "The Delta Bombers",
-      "IV and the Strange Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13323853/the-delta-bombers-iv-and-the-strange-band",
-    "date": "2024-04-24T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['The Static Wake'],
+    link: 'https://www.ticketmaster.com/the-static-wake-cleveland-ohio-03-16-2024/event/05006026AEDB2B57',
+    date: '2024-03-16T19:30:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "The Mary Wallopers"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13425063/the-mary-wallopers",
-    "date": "2024-04-24T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['The Celtic Tenors \u2013 Celebrating 25 Years'],
+    link: 'https://www.ticketmaster.com/the-celtic-tenors-celebrating-25-years-cleveland-ohio-03-19-2024/event/05006025D4A241AD',
+    date: '2024-03-19T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Danielle Nicole"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13400123/danielle-nicole",
-    "date": "2024-04-25T20:00:00",
-    "venue": "Beachland Ballroom"
+    link: 'https://www.ticketmaster.com/aiw-tougher-than-leather-cleveland-ohio-03-22-2024/event/05006033206C85A1',
+    date: '2024-03-22T19:30:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Angela Perley",
-      "Handsome Jack"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13519323/angela-perley-handsome-jack",
-    "date": "2024-04-25T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Allah-Las",
-      "Maston",
-      "Reverberation Radio"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13400073/allah-las-maston-reverberation-radio",
-    "date": "2024-04-26T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['William Black'],
+    link: 'https://www.ticketmaster.com/william-black-cleveland-ohio-03-22-2024/event/05005F4C2A04577D',
+    date: '2024-03-22T19:30:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Midnight North",
-      "Fireside Collective"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13361123/midnight-north-fireside-collective",
-    "date": "2024-04-28T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Sea of Treachery'],
+    link: 'https://www.ticketmaster.com/sea-of-treachery-cleveland-ohio-03-22-2024/event/05005F83FD6A6483',
+    date: '2024-03-22T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Vision Video",
-      "Then Comes Silence"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13451533/vision-video-then-comes-silence",
-    "date": "2024-04-30T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Talib Kweli'],
+    link: 'https://www.ticketmaster.com/talib-kweli-cleveland-ohio-03-23-2024/event/0500604282A64CB1',
+    date: '2024-03-23T21:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Rickshaw Billie's Burger Patrol"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13518803/rickshaw-billie-s-burger-patrol",
-    "date": "2024-04-30T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Darkest Hour'],
+    link: 'https://www.ticketmaster.com/darkest-hour-cleveland-ohio-03-28-2024/event/0500602440895643',
+    date: '2024-03-28T19:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "The Arcadian Wild"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13442823/the-arcadian-wild",
-    "date": "2024-05-01T19:30:00",
-    "venue": "Beachland Tavern"
+    artist: ['ARTIX! & HUKAE \u2013 BRAINSTORM TOUR'],
+    link: 'https://www.ticketmaster.com/artix-hukae-brainstorm-tour-cleveland-ohio-03-29-2024/event/05006054425F7D16',
+    date: '2024-03-29T19:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "The Garcia Project"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13477453/the-garcia-project",
-    "date": "2024-05-02T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Blackberry Smoke: Be Right Here Tour'],
+    link: 'https://www.ticketmaster.com/blackberry-smoke-be-right-here-tour-cleveland-ohio-03-29-2024/event/05005F68E1CF33E6',
+    date: '2024-03-29T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Wallace Coleman Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13588713/wallace-coleman-band",
-    "date": "2024-05-02T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Galactic Empire'],
+    link: 'https://www.ticketmaster.com/galactic-empire-cleveland-ohio-04-04-2024/event/050060251B0F6056',
+    date: '2024-04-04T19:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Ty Segall",
-      "Sharpie Smile"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13457108/ty-segall-sharpie-smile",
-    "date": "2024-05-05T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Joey Aich'],
+    link: 'https://www.ticketmaster.com/joey-aich-cleveland-ohio-04-05-2024/event/0500603540AE6A94',
+    date: '2024-04-05T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Varietopia with Paul F. Tompkins"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13434413/varietopia-with-paul-f-tompkins",
-    "sold_out": true,
-    "date": "2024-05-06T19:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['BLANKE \u2013 EARTH TO THE STARS: EMERGENCE CLEVELAND'],
+    link: 'https://www.ticketmaster.com/blanke-earth-to-the-stars-emergence-cleveland-ohio-04-06-2024/event/0500603F278D6AFA',
+    date: '2024-04-06T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Varietopia with Paul F. Tompkins"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13471863/varietopia-with-paul-f-tompkins",
-    "date": "2024-05-06T22:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "TWRP",
-      "nelward",
-      "Trey Magnifique"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13311603/twrp-nelward-trey-magnifique",
-    "date": "2024-05-08T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Gimme Sugar & Mister Breeze'],
+    link: 'https://www.ticketmaster.com/gimme-sugar-stones-tribute-mister-breeze-cleveland-ohio-04-13-2024/event/05005F822EFE8546',
+    date: '2024-04-13T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Illiterate Light",
-      "Slag Genie"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13420503/illiterate-light-slag-genie",
-    "date": "2024-05-09T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Josey Scott\u2019s Saliva'],
+    link: 'https://www.ticketmaster.com/josey-scotts-saliva-cleveland-ohio-04-18-2024/event/0500603A092574D4',
+    date: '2024-04-18T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Los Straitjackets",
-      "Televisionaries"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13471793/los-straitjackets-televisionaries",
-    "date": "2024-05-09T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['TRIPLE THREAT TOUR feat. Point.Blank, Dr. Urshuu, & Kill Feed'],
+    link: 'https://www.ticketmaster.com/triple-threat-tour-feat-pointblank-dr-cleveland-ohio-04-19-2024/event/050060344EE27AD5',
+    date: '2024-04-19T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Eggy"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13477173/eggy",
-    "date": "2024-05-10T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['EMO ORCHESTRA featuring ESCAPE THE FATE'],
+    link: 'https://www.ticketmaster.com/1073-alt-cle-presents-emo-orchestra-cleveland-ohio-04-19-2024/event/050060333A828853',
+    date: '2024-04-19T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "R.A.P. Ferreira",
-      "Cavalier"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13535183/r-a-p-ferreira-cavalier",
-    "date": "2024-05-10T20:30:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Our Day Will Come",
-      "Charity Cunningham",
-      "Girl Cologne",
-      "Jinni Fontana",
-      "Kristine Jackson",
-      "Lilieae",
-      "Moon Echo Garden",
-      "Queue Up with Alison Garrigan",
-      "The Super Babes",
-      "Vanity Crash"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13557103/our-day-will-come-charity-cunningham-girl-cologne-jinni-fontana-kristine-jackson-lilieae-moon-echo-garden-queue-up-with-alison-garrigan-the-super-babes-vanity-crash",
-    "date": "2024-05-11T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Spirit Bomb'],
+    link: 'https://www.ticketmaster.com/spirit-bomb-cleveland-ohio-04-20-2024/event/05005F83B60938AC',
+    date: '2024-04-20T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Satsang"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13535363/satsang",
-    "date": "2024-05-12T20:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['NRBQ'],
+    link: 'https://www.ticketmaster.com/nrbq-cleveland-ohio-04-24-2024/event/05005F83FA63639A',
+    date: '2024-04-24T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Chest Fever"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13585443/chest-fever",
-    "date": "2024-05-13T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Enterprise Earth'],
+    link: 'https://www.ticketmaster.com/enterprise-earth-cleveland-ohio-04-27-2024/event/0500602A03F6497C',
+    date: '2024-04-27T19:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "The Furious Bongos"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13542103/the-furious-bongos",
-    "date": "2024-05-14T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['The Ultimate Doors \u2013 A Tribute to the Doors'],
+    link: 'https://www.ticketmaster.com/the-ultimate-doors-a-tribute-to-cleveland-ohio-04-27-2024/event/05005F92111447BB',
+    date: '2024-04-27T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Psychedelic Porn Crumpets"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13865678/psychedelic-porn-crumpets",
-    "date": "2024-05-17T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Into the Blue (ELO Tribute)'],
+    link: 'https://www.ticketmaster.com/into-the-blue-elo-tribute-cleveland-ohio-05-11-2024/event/05006041E10F5DC3',
+    date: '2024-05-11T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Olde Wrestling"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13548763/olde-wrestling",
-    "date": "2024-05-18T19:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Surely Tempo",
-      "Tony Jupiter",
-      "Honey Pocket"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13546273/surely-tempo-tony-jupiter-honey-pocket",
-    "date": "2024-05-18T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Uriah Heep & Saxon'],
+    link: 'https://www.ticketmaster.com/uriah-heep-saxon-hell-fire-chaos-cleveland-ohio-05-11-2024/event/05006024245850E0',
+    date: '2024-05-11T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Mark Lettieri Group"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13468543/mark-lettieri-group",
-    "date": "2024-05-19T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Rodrigo y Gabriela'],
+    link: 'https://www.ticketmaster.com/rodrigo-y-gabriela-cleveland-ohio-05-14-2024/event/05005F873E876280',
+    date: '2024-05-14T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Boy Golden",
-      "Joshua Quimby"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13538813/boy-golden-joshua-quimby",
-    "date": "2024-05-22T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['The Alarm \u2013 Live Today Love Tomorrow Tour 2024'],
+    link: 'https://www.ticketmaster.com/the-alarm-live-today-love-tomorrow-cleveland-ohio-05-15-2024/event/0500603004A24A65',
+    date: '2024-05-15T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Jesse Daniel",
-      "Alex Williams"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13438933/jesse-daniel-alex-williams",
-    "date": "2024-05-24T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['The Pancakes & Booze Art Show'],
+    link: 'https://www.ticketmaster.com/the-pancakes-booze-art-show-cleveland-ohio-05-18-2024/event/0500604277C6126C',
+    date: '2024-05-18T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Ghalia Volt",
-      "Kristine Jackson"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13477843/ghalia-volt-kristine-jackson",
-    "date": "2024-05-24T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Abbath'],
+    link: 'https://www.ticketmaster.com/abbath-cleveland-ohio-05-19-2024/event/0500605AC5BC4156',
+    date: '2024-05-19T19:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Maggie Rose"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13570713/maggie-rose",
-    "date": "2024-05-30T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Josh Turner'],
+    link: 'https://www.ticketmaster.com/josh-turner-cleveland-ohio-06-07-2024/event/05006026B15E2CEE',
+    date: '2024-06-07T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Emo Night Kent: Beachland Takeover",
-      "Special Guest Emo TikTok Star Cat Lynn aka @clawed_Beauty101"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13566523/emo-night-kent-beachland-takeover-special-guest-emo-tiktok-star-cat-lynn-aka-clawed_beauty101",
-    "date": "2024-05-31T21:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Young Dubliners'],
+    link: 'https://www.ticketmaster.com/young-dubliners-cleveland-ohio-06-22-2024/event/05006028A9E01969',
+    date: '2024-06-22T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Autumn!"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13542553/autumn-",
-    "date": "2024-06-01T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Eddie B \u2013 Teachers Only Comedy Tour 24\u2032'],
+    link: 'https://www.ticketmaster.com/eddie-b-teachers-only-comedy-tour-cleveland-ohio-06-22-2024/event/0500605AD9D34B9F',
+    date: '2024-06-22T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Nektar",
-      "Dave Swanson's Mystery Airship"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13503813/nektar-dave-swanson-s-mystery-airship",
-    "date": "2024-06-09T19:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Lake Street Dive: Good Together Tour'],
+    link: 'https://www.ticketmaster.com/lake-street-dive-good-together-tour-cleveland-ohio-07-09-2024/event/0500603AFC5F6DDE',
+    date: '2024-07-09T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Avi Kaplan"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13510393/avi-kaplan",
-    "date": "2024-06-12T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Henry Cho \u2013 From Here To There Tour 2024'],
+    link: 'https://www.ticketmaster.com/henry-cho-from-here-to-there-cleveland-ohio-07-27-2024/event/05006026BE69371F',
+    date: '2024-07-27T20:30:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "Jason Ricci & The Bad Kind"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13538713/jason-ricci-the-bad-kind",
-    "date": "2024-06-15T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Couples Therapy'],
+    link: 'https://www.ticketmaster.com/couples-therapy-cleveland-ohio-10-19-2024/event/05006042A39E61EF',
+    date: '2024-10-19T20:00:00',
+    venue: 'Masonic Temple',
   },
   {
-    "artist": [
-      "JMSN"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13518523/jmsn",
-    "date": "2024-06-16T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['David Morris'],
+    link: 'https://concerts.livenation.com/david-morris-cleveland-ohio-07-18-2024/event/050060ADEDA35C47',
+    date: '2024-07-18T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Mdou Moctar"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13567153/mdou-moctar",
-    "date": "2024-06-20T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ["Alexandra Kay: ALL I'VE EVER KNOWN: THE TOUR : CHAPTER 2"],
+    link: 'https://concerts.livenation.com/alexandra-kay-all-ive-ever-known-cleveland-ohio-07-19-2024/event/050060A3F2F47775',
+    date: '2024-07-19T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Kevin Gordon Trio"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13391873/kevin-gordon-trio",
-    "date": "2024-06-22T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['The Purple Madness: Tribute to Prince'],
+    link: 'https://concerts.livenation.com/the-purple-madness-tribute-to-prince-cleveland-ohio-07-20-2024/event/050060C4BFC83C54',
+    date: '2024-07-20T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Hillbilly Casino",
-      "Sasquatch & The Sick-A-Billys"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13553243/hillbilly-casino-sasquatch-the-sick-a-billys",
-    "date": "2024-06-25T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['Mickey Avalon'],
+    link: 'https://concerts.livenation.com/mickey-avalon-cleveland-ohio-07-25-2024/event/0500606CCE68346D',
+    date: '2024-07-25T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Messer Chups"
+    artist: [
+      'Bop To The Top Present Best Of Both Worlds Hannah Montana Night: 18+',
     ],
-    "link": "https://www.beachlandballroom.com/e/13539063/messer-chups",
-    "date": "2024-06-26T20:00:00",
-    "venue": "Beachland Ballroom"
+    link: 'https://concerts.livenation.com/bop-to-the-top-present-best-cleveland-ohio-07-26-2024/event/050060A825E68021',
+    date: '2024-07-26T20:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Banned From Utopia",
-      "Paul Green Rock Academy"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13552053/banned-from-utopia-paul-green-rock-academy",
-    "date": "2024-07-06T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "APOCALYPS Records Festival",
-      "Kingxzell",
-      "Johnny and Swank"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13376333/apocalyps-records-festival-kingxzell-johnny-and-swank",
-    "date": "2024-07-12T19:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Hobo Johnson & The Lovemakers: hj drinks tour'],
+    link: 'https://concerts.livenation.com/hobo-johnson-the-lovemakers-hj-drinks-cleveland-ohio-07-28-2024/event/05006074B21733BA',
+    date: '2024-07-28T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Mates of State"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13546853/mates-of-state",
-    "date": "2024-07-14T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Bowling for Soup'],
+    link: 'https://concerts.livenation.com/bowling-for-soup-cleveland-ohio-07-30-2024/event/05006039C7D94F65',
+    date: '2024-07-30T18:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "The 2024 US Air Guitar National Finals"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13499463/the-2024-us-air-guitar-national-finals",
-    "date": "2024-07-20T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Ski Mask The Slump God: 11th Dimension Tour'],
+    link: 'https://concerts.livenation.com/ski-mask-the-slump-god-11th-cleveland-ohio-07-31-2024/event/050060BEE7DC79C4',
+    date: '2024-07-31T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Big Sandy & His Fly-Rite Boys"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13511583/big-sandy-his-fly-rite-boys",
-    "date": "2024-07-20T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['4th Rope Presents: Heels Have Eyes 2 (18+ Event)'],
+    link: 'https://concerts.livenation.com/4th-rope-presents-heels-have-eyes-cleveland-ohio-08-02-2024/event/050060C4EDBF60E9',
+    date: '2024-08-02T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Owen"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13499163/owen",
-    "date": "2024-08-22T20:00:00",
-    "venue": "Beachland Tavern"
+    artist: ['The American Idiots: A Tribute to Green Day'],
+    link: 'https://concerts.livenation.com/the-american-idiots-a-tribute-to-cleveland-ohio-08-03-2024/event/050060D39D804A04',
+    date: '2024-08-03T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Homeshake",
-      "Freak Heat Waves"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13584743/homeshake-freak-heat-waves",
-    "date": "2024-10-01T20:00:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Hans Williams'],
+    link: 'https://concerts.livenation.com/hans-williams-cleveland-ohio-08-06-2024/event/050060A8D3B269CA',
+    date: '2024-08-06T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "David Cross Lark's Tongue Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13447953/david-cross-lark-s-tongue-band",
-    "date": "2024-10-11T19:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['Five for Fighting'],
+    link: 'https://concerts.livenation.com/five-for-fighting-cleveland-ohio-08-09-2024/event/0500606E99CF21F5',
+    date: '2024-08-09T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Osees",
-      "Iguana Death Cult"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult",
-    "sold_out": true,
-    "date": "2024-10-20T20:30:00",
-    "venue": "Beachland Ballroom"
+    artist: ['THE TAYLOR PARTY: CRUEL SUMMER TOUR: 18 & OVER ONLY'],
+    link: 'https://concerts.livenation.com/the-taylor-party-cruel-summer-tour-cleveland-ohio-08-10-2024/event/050060CBD9D771B1',
+    date: '2024-08-10T20:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "RHYTHM OASIS"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/rhythm-oasis/",
-    "date": "2024-03-02T21:00:00",
-    "venue": "Foundry"
+    artist: ['Jonah Kagen'],
+    link: 'https://concerts.livenation.com/jonah-kagen-cleveland-ohio-08-13-2024/event/050060A305DC7C25',
+    date: '2024-08-13T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "RAMEN POP-UP"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/ramen-pop-up/",
-    "date": "2024-03-03T17:00:00",
-    "venue": "Foundry"
+    artist: ['Bones UK'],
+    link: 'https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161',
+    date: '2024-08-14T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-9/",
-    "date": "2024-03-04T17:00:00",
-    "venue": "Foundry"
+    artist: ['Gimme Sugar: A Tribute To The Rolling Stones'],
+    link: 'https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF',
+    date: '2024-08-16T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "POSTPONED"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/of-virtue/",
-    "date": "2024-03-05T19:00:00",
-    "venue": "Foundry"
+    artist: ['Black Pistol Fire'],
+    link: 'https://concerts.livenation.com/black-pistol-fire-cleveland-ohio-08-23-2024/event/050060B6EE226150',
+    date: '2024-08-23T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Alyxx, Ghostatic, Ash Hollow, Nineteenth Paradise, High Early"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/alyxx-ghostatic-ash-hollow-nineteenth-paradise-high-early/",
-    "date": "2024-03-08T18:00:00",
-    "venue": "Foundry"
+    artist: ['Magic Men Australia'],
+    link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
+    date: '2024-08-27T18:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "NOCTURNAL VS. MOONLIGHT DANCE CLUB"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-vs-moonlight-dance-club/",
-    "date": "2024-03-09T21:00:00",
-    "venue": "Foundry"
+    artist: ['Strangelove: The Depeche Mode Experience'],
+    link: 'https://concerts.livenation.com/strangelove-the-depeche-mode-experience-cleveland-ohio-08-30-2024/event/050060E9B8C427D4',
+    date: '2024-08-30T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Weeping Wound, Wiltwither, cohen_noise, Narcissus"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/weeping-wound-wiltwither-cohen_noise/",
-    "date": "2024-03-12T19:00:00",
-    "venue": "Foundry"
+    artist: ['Gasolina: Reggaeton Party (18+ Only)'],
+    link: 'https://concerts.livenation.com/gasolina-reggaeton-party-18-only-cleveland-ohio-08-31-2024/event/050060C7CC205FF6',
+    date: '2024-08-31T21:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "BORED GAME NIGHT"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-2/",
-    "date": "2024-03-14T17:00:00",
-    "venue": "Foundry"
+    artist: ['Mr. Speed: A Tribute to Kiss'],
+    link: 'https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2',
+    date: '2024-09-07T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Lutharo, Olathia, After The Apocalypse, Storms of Tomorrow"
+    artist: [
+      'The 502s: Great American Road Trip with Special Guest Oliver Hazard',
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/lutharo-olathia-after-the-apocalypse/",
-    "date": "2024-03-16T19:00:00",
-    "venue": "Foundry"
+    link: 'https://concerts.livenation.com/the-502s-great-american-road-trip-cleveland-ohio-09-08-2024/event/050060BF2FE89790',
+    date: '2024-09-08T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Death Lens, The Rosies, Honey Pocket"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/death-lens-the-rosies-honey-pocket/",
-    "date": "2024-03-20T19:00:00",
-    "venue": "Foundry"
+    artist: ['Baldassarre Rock Orchestra'],
+    link: 'https://concerts.livenation.com/baldassarre-rock-orchestra-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5',
+    date: '2024-09-13T18:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Native Sons, Lilieae, Vernotica, Billy Morris and the Sunset Strip"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/native-sons-lilieae-vernotica/",
-    "date": "2024-03-21T19:00:00",
-    "venue": "Foundry"
+    artist: ['FLESHGOD APOCALYPSE & SHADOW OF INTENT: THE BLACK OPERA 2024'],
+    link: 'https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB',
+    date: '2024-09-14T17:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "LUNAR UNDERGROUND AND LIGHTS AND SOUND MEDIA BOOKINGS PRESENTS VAMPIRES BALL"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/lunar-underground-and-lights-and-sound-media-bookings-presents-vampires-ball/",
-    "date": "2024-03-22T20:00:00",
-    "venue": "Foundry"
+    artist: ['Buzzcocks'],
+    link: 'https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/050060BFBC9269A2',
+    date: '2024-09-15T18:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "OHIO UNDERGROUND"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/ohio-underground/",
-    "date": "2024-03-23T19:00:00",
-    "venue": "Foundry"
+    artist: ['The Hives'],
+    link: 'https://concerts.livenation.com/the-hives-cleveland-ohio-09-17-2024/event/050060738EC81489',
+    date: '2024-09-17T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-12/",
-    "date": "2024-03-25T17:00:00",
-    "venue": "Foundry"
+    artist: ['Leprous: Melodies of Atonement North American 2024 Tour'],
+    link: 'https://concerts.livenation.com/leprous-melodies-of-atonement-north-american-cleveland-ohio-09-18-2024/event/0500608486B03790',
+    date: '2024-09-18T18:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Dizasterpiece"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/dizasterpiece/",
-    "date": "2024-03-28T19:00:00",
-    "venue": "Foundry"
+    artist: ['Something Corporate: Out Of Office Tour 2024'],
+    link: 'https://concerts.livenation.com/something-corporate-out-of-office-tour-cleveland-ohio-09-19-2024/event/0500604D98FC2679',
+    date: '2024-09-19T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Reticulatus, Unvow, Kingz & Thievez, The Final Seconds of Suffering, Rustfed"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/reticulatus-unvow-the-final-seconds-of-suffering-rustfed/",
-    "date": "2024-03-29T20:00:00",
-    "venue": "Foundry"
+    artist: ['Lord of the Lost'],
+    link: 'https://concerts.livenation.com/lord-of-the-lost-cleveland-ohio-09-20-2024/event/05006033CC4F7495',
+    date: '2024-09-20T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Memory Lane"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/memory-lane/",
-    "date": "2024-03-30T19:00:00",
-    "venue": "Foundry"
+    artist: ['Polaris'],
+    link: 'https://concerts.livenation.com/polaris-cleveland-ohio-09-22-2024/event/050060C5CA47671C',
+    date: '2024-09-22T18:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Mugshot, Kaonashi, Cell , Pain, Terra Vista"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/mugshot-kaonashi-cell-pain/",
-    "date": "2024-04-02T18:30:00",
-    "venue": "Foundry"
+    artist: ['MOTHER MOTHER'],
+    link: 'https://concerts.livenation.com/mother-mother-cleveland-ohio-09-25-2024/event/05006092CA78609F',
+    date: '2024-09-25T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "The Obsessed, Howling Giant, Gozu"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-obsessed-howling-giant-gozu/",
-    "date": "2024-04-04T19:00:00",
-    "venue": "Foundry"
+    artist: ['The Airborne Toxic Event'],
+    link: 'https://concerts.livenation.com/the-airborne-toxic-event-cleveland-ohio-09-26-2024/event/05006074D1864DC2',
+    date: '2024-09-26T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Unhinged Easter"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/unhinged-easter/",
-    "date": "2024-04-05T19:00:00",
-    "venue": "Foundry"
+    artist: ['Point North'],
+    link: 'https://concerts.livenation.com/point-north-cleveland-ohio-09-27-2024/event/050060D6BCBB8488',
+    date: '2024-09-27T18:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Shayfer James"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/shayfer-james/",
-    "date": "2024-04-06T19:00:00",
-    "venue": "Foundry"
+    artist: ['Loveless: I LOVE IT WHEN IT TOURS TOUR'],
+    link: 'https://concerts.livenation.com/loveless-i-love-it-when-it-cleveland-ohio-09-27-2024/event/05006091F9FC6684',
+    date: '2024-09-27T18:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "The Ghost Club, Fuller"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-ghost-club-fuller/",
-    "date": "2024-04-07T19:00:00",
-    "venue": "Foundry"
+    artist: ['Social Distortion'],
+    link: 'https://concerts.livenation.com/social-distortion-cleveland-ohio-09-28-2024/event/05006072B5E72471',
+    date: '2024-09-28T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "If Not For Me, Dread Engine"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/if-not-for-me-dread-engine/",
-    "date": "2024-04-08T19:00:00",
-    "venue": "Foundry"
+    artist: ['Social Distortion'],
+    link: 'https://concerts.livenation.com/social-distortion-cleveland-ohio-09-29-2024/event/05006072B862250D',
+    date: '2024-09-29T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Scream At The Sky, The Mendenhall Experiment"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/scream-at-the-sky-the-mendenhall-experiment/",
-    "date": "2024-04-11T19:00:00",
-    "venue": "Foundry"
+    artist: ['Phantogram'],
+    link: 'https://concerts.livenation.com/phantogram-cleveland-ohio-09-30-2024/event/050060BFCA856F90',
+    date: '2024-09-30T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Dick Valentine"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/dick-valentine/",
-    "date": "2024-04-12T18:00:00",
-    "venue": "Foundry"
+    artist: ['Tori Kelly: purple skies tour'],
+    link: 'https://concerts.livenation.com/tori-kelly-purple-skies-tour-cleveland-ohio-10-01-2024/event/05006085C2BB6D6E',
+    date: '2024-10-01T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Gates of Sheol, Elijah, Counting Gravestones, Only The Lucky Ones Die"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/gates-of-sheol-elijah-counting-gravestones-only-the-lucky-ones-die/",
-    "date": "2024-04-13T19:00:00",
-    "venue": "Foundry"
+    artist: ['Switchfoot: The Beautiful Letdown World Tour'],
+    link: 'https://concerts.livenation.com/switchfoot-the-beautiful-letdown-world-tour-cleveland-ohio-10-03-2024/event/050060B5AB36240A',
+    date: '2024-10-03T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "David J, Anella Herim"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/david-j-anella-herim/",
-    "date": "2024-04-20T17:00:00",
-    "venue": "Foundry"
+    artist: ['PALAYE ROYALE "DEATH OR GLORY TOUR 2024"'],
+    link: 'https://concerts.livenation.com/palaye-royale-death-or-glory-tour-cleveland-ohio-10-04-2024/event/050060C6C6696CC5',
+    date: '2024-10-04T18:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Mall Goth Metal: The Nu Metal Party"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/mall-goth-metal-the-nu-metal-party/",
-    "date": "2024-04-20T21:00:00",
-    "venue": "Foundry"
+    artist: ['Asking Alexandria: All My Friends North American Tour 2024'],
+    link: 'https://concerts.livenation.com/asking-alexandria-all-my-friends-north-cleveland-ohio-10-05-2024/event/050060B4010D5D08',
+    date: '2024-10-05T17:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "WEAPON OF CHOICE TOUR"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/weapon-of-choice-tour/",
-    "date": "2024-05-12T19:00:00",
-    "venue": "Foundry"
+    artist: ['Alec Benjamin: 12 Notes Tour'],
+    link: 'https://concerts.livenation.com/alec-benjamin-12-notes-tour-cleveland-ohio-10-06-2024/event/05006082E70362E8',
+    date: '2024-10-06T18:30:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "It Dies Today, Last Gasp"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/it-dies-today-last-gasp/",
-    "date": "2024-05-20T19:30:00",
-    "venue": "Foundry"
+    artist: ['Ricky Montgomery: The Rick Tour: One Rick to Rule Them All'],
+    link: 'https://concerts.livenation.com/ricky-montgomery-the-rick-tour-one-cleveland-ohio-10-08-2024/event/0500608BE1996EB9',
+    date: '2024-10-08T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Get The Shot, Life Cycles"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/get-the-shot-life-cycles/",
-    "date": "2024-05-23T19:00:00",
-    "venue": "Foundry"
+    artist: ['OMD: Orchestral Manoeuvres in the Dark'],
+    link: 'https://concerts.livenation.com/omd-orchestral-manoeuvres-in-the-dark-cleveland-ohio-10-09-2024/event/0500604CD5724FE8',
+    date: '2024-10-09T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Green Jelly, Silverspork"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/green-jelly-silverspork/",
-    "date": "2024-05-25T19:00:00",
-    "venue": "Foundry"
+    artist: ['Kaleo: Payback Tour 2024'],
+    link: 'https://concerts.livenation.com/kaleo-payback-tour-2024-cleveland-ohio-10-10-2024/event/05006098A5323B42',
+    date: '2024-10-10T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Divide The Fall, Reign of Z"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/divide-the-fall-reign-of-z/",
-    "date": "2024-06-01T19:00:00",
-    "venue": "Foundry"
+    artist: ['The Elovaters: Roll Up Tour'],
+    link: 'https://concerts.livenation.com/the-elovaters-roll-up-tour-cleveland-ohio-10-11-2024/event/050060A9B6E86808',
+    date: '2024-10-11T18:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Plush, Truss, Dive Bombs, Grant"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/plush-truss-dive-bombs-grant/",
-    "date": "2024-06-13T19:00:00",
-    "venue": "Foundry"
+    artist: ['The Front Bottoms'],
+    link: 'https://concerts.livenation.com/the-front-bottoms-cleveland-ohio-10-13-2024/event/050060D102DA8937',
+    date: '2024-10-13T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "A Skylit Drive, Vrsty, Ovtlier"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/",
-    "date": "2024-08-20T19:00:00",
-    "venue": "Foundry"
+    artist: ['Dayglow: The Tour'],
+    link: 'https://concerts.livenation.com/dayglow-the-tour-cleveland-ohio-10-15-2024/event/050060C6ABED608A',
+    date: '2024-10-15T19:00:00',
+    venue: 'House of Blues',
   },
   {
-    "artist": [
-      "Polkadot Cadaver, Beneath the Hollow , Irewyrm"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/polkadot-cadaver/",
-    "date": "2024-08-31T19:00:00",
-    "venue": "Foundry"
+    artist: ['Pretty Good Comedy Show'],
+    link: 'https://www.playhousesquare.org/events/detail/pretty-good-comedy-show',
+    date: '2024-07-25',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Polkadot Cadaver, Beneath the Hollow , After The Apocalypse"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/polkadot-cadaver-2/",
-    "date": "2024-09-01T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "The Groovy Roots",
-      "Big Blitz",
-      "Unc D"
-    ],
-    "link": "https://grogshop.gs/event-details/13417243/the-groovy-roots-big-blitz-unc-d",
-    "date": "2024-03-02T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Cleveland Comedy Fest'],
+    link: 'https://www.playhousesquare.org/events/detail/cleveland-comedy-fest',
+    date: '2024-07-25',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "\"Back To 2005\" Movie Premiere"
-    ],
-    "link": "https://grogshop.gs/event-details/13465833/-back-to-2005-movie-premiere",
-    "date": "2024-03-03T18:00:00",
-    "venue": "Grog Shop"
+    artist: ['GOLDEN GIRLS - The Laughs Continue'],
+    link: 'https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls',
+    date: '2024-08-06',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "\"Back To 2005\" Movie Premiere (Second Showing)"
-    ],
-    "link": "https://grogshop.gs/event-details/13465863/-back-to-2005-movie-premiere-second-showing-",
-    "date": "2024-03-03T20:30:00",
-    "venue": "Grog Shop"
+    artist: ['Brett Goldstein'],
+    link: 'https://www.playhousesquare.org/events/detail/brett-goldstein',
+    date: '2024-08-24',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "BabyTron"
-    ],
-    "link": "https://grogshop.gs/event-details/13853798/babytron",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Left Lane Cruiser",
-      "Nate Bergman",
-      "Adam Faucett",
-      "The Morning Bird"
-    ],
-    "link": "https://grogshop.gs/event-details/13452503/left-lane-cruiser-nate-bergman-adam-faucett-the-morning-bird",
-    "date": "2024-03-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Dirty Pop Party with Cherry!",
-      "J-Line",
-      "Miron Hala",
-      "Walk On Mars",
-      "Mitchel Madak",
-      "j-Line",
-      "Cherry!",
-      "Mitchel Madek"
-    ],
-    "link": "https://grogshop.gs/event-details/13396483/the-dirty-pop-party-with-cherry-j-line-miron-hala-walk-on-mars-mitchel-madak",
-    "date": "2024-03-07T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Andrew Schulz: The Life Tour'],
+    link: 'https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour',
+    date: '2024-09-20',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Songs and Stories with Lisa Loeb"
-    ],
-    "link": "https://grogshop.gs/event-details/13495713/songs-and-stories-with-lisa-loeb",
-    "sold_out": true,
-    "date": "2024-03-08T19:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "PLANET HER: INTL WMNS DAY: A CELEBRATION OF WOMEN",
-      "D'Asia Simone",
-      "Medlee",
-      "Sierra Delaine"
-    ],
-    "link": "https://grogshop.gs/event-details/13566673/planet-her-intl-wmns-day-a-celebration-of-women",
-    "date": "2024-03-08T22:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Tossers",
-      "Brazen Rogues",
-      "Forlorn United"
-    ],
-    "link": "https://grogshop.gs/event-details/13400093/the-tossers",
-    "date": "2024-03-09T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Wifisfuneral: BLACK HEART REVENGE 2 TOUR",
-      "Kxvin Tylxr",
-      "Lil Jesse",
-      "Big Duka",
-      "2042GO! x 4700 Bands"
-    ],
-    "link": "https://grogshop.gs/event-details/13275893/wifisfuneral-black-heart-revenge-2-tour",
-    "date": "2024-03-10T20:30:00",
-    "venue": "Grog Shop"
+    artist: ['Sarah Silverman: Postmortem'],
+    link: 'https://www.playhousesquare.org/events/detail/sarah-silverman',
+    date: '2024-09-21',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13504463/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-03-11T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Decibel Magazine Tour 2024",
-      "Hulder",
-      "Devil Master",
-      "Worm",
-      "Necrofier"
-    ],
-    "link": "https://grogshop.gs/event-details/13308213/the-decibel-magazine-tour-2024",
-    "date": "2024-03-13T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Horse Lords",
-      "Ka Baird",
-      "Powers/Rolin Duo"
-    ],
-    "link": "https://grogshop.gs/event-details/13438338/horse-lords-ka-baird-powers-rolin-duo",
-    "date": "2024-03-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "SWANK. All Smiles",
-      "Westside LO",
-      "Big Bewm",
-      "Just-Johnny",
-      "DJ Cooley High"
-    ],
-    "link": "https://grogshop.gs/event-details/13504543/swank-all-smiles",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['The Capitol Fools'],
+    link: 'https://www.playhousesquare.org/events/detail/the-capitol-fools',
+    date: '2024-09-27',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Otoboke Beaver",
-      "Drinking Boys and Girls Choir"
-    ],
-    "link": "https://grogshop.gs/event-details/13764018/otoboke-beaver",
-    "date": "2024-03-15T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Justin Willman: Illusionati Tour'],
+    link: 'https://www.playhousesquare.org/events/detail/justin-willman-illusionati-tour',
+    date: '2024-09-28',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Mihali",
-      "The Cat's Meow"
-    ],
-    "link": "https://grogshop.gs/event-details/13495513/mihali",
-    "date": "2024-03-16T20:30:00",
-    "venue": "Grog Shop"
+    artist: ["Matteo Lane: Can't Stop Talking"],
+    link: 'https://www.playhousesquare.org/events/detail/matteo-lane-cant-stop-talking',
+    date: '2024-09-28',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13504483/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-03-18T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Jo Koy: Just Being Koy Tour'],
+    link: 'https://www.playhousesquare.org/events/detail/jo-koy-just-being-koy-tour',
+    date: '2024-11-03',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Midnight Rental presents Secret Movie Night"
-    ],
-    "link": "https://grogshop.gs/event-details/13504233/midnight-rental-presents-secret-movie-night",
-    "date": "2024-03-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Taste My Movement : R The Czar vs Malik X",
-      "King syxx",
-      "Nell da Juggernaut",
-      "Juudae",
-      "Fascin8",
-      "P frm da tribe",
-      "illustrious"
-    ],
-    "link": "https://grogshop.gs/event-details/13511363/taste-my-movement-r-the-czar-vs-malik-x",
-    "date": "2024-03-21T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Slow Wake",
-      "Megaton Communion",
-      "Black Sasquatch",
-      "Dead East Garden"
-    ],
-    "link": "https://grogshop.gs/event-details/13527333/slow-wake-megaton-communion-black-sasquatch-dead-east-garden",
-    "date": "2024-03-22T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Trek Manifest And AYE-1 Band",
-      "Crib Collective",
-      "aka & co"
-    ],
-    "link": "https://grogshop.gs/event-details/13510713/trek-manifest-and-aye-1-band-crib-collective-aka-co",
-    "date": "2024-03-23T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Kevin Hart: Acting My Age'],
+    link: 'https://www.playhousesquare.org/events/detail/kevin-hart-acting-my-age',
+    date: '2024-11-15',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "HBSANLMM, Ecstacy, and Cult Kids"
-    ],
-    "link": "https://grogshop.gs/event-details/13601073/hbsanlmm-ecstacy-and-cult-kids",
-    "date": "2024-03-25T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Joe Brown Band",
-      "Temple Bros & Dakota Renteria",
-      "Ty Bogikes",
-      "Lucas Chambers"
-    ],
-    "link": "https://grogshop.gs/event-details/13526973/joe-brown-band-temple-bros-dakota-renteria-ty-bogikes-lucas-chambers",
-    "date": "2024-03-26T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Koffin Kats",
-      "The Queers",
-      "Lords Of The Highway"
-    ],
-    "link": "https://grogshop.gs/event-details/13397033/koffin-kats-the-queers-lords-of-the-highway",
-    "date": "2024-03-27T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Two Mile Moon",
-      "The Yikes",
-      "Harborer"
-    ],
-    "link": "https://grogshop.gs/event-details/13542333/two-mile-moon-the-yikes-harborer",
-    "date": "2024-03-28T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "'68",
-      "The Callous Daoboys",
-      "The Homeless Gospel Choir"
-    ],
-    "link": "https://grogshop.gs/event-details/13401623/-68",
-    "date": "2024-03-29T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Jinari Kemet",
-      "Madstarr",
-      "Illest Villians",
-      "AllTheHipe",
-      "Illest villians"
-    ],
-    "link": "https://grogshop.gs/event-details/13514253/jinari-kemet-madstarr-illest-villians-allthehipe",
-    "date": "2024-03-30T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['David Nihill: Shelf Help'],
+    link: 'https://www.playhousesquare.org/events/detail/david-nihill',
+    date: '2024-11-15',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13599703/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-04-01T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['The Uncle Louie Variety Show'],
+    link: 'https://www.playhousesquare.org/events/detail/the-uncle-louie-variety-show-5',
+    date: '2024-11-16',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Kate Clover",
-      "Autopolitan"
-    ],
-    "link": "https://grogshop.gs/event-details/13435643/kate-clover-autopolitan",
-    "date": "2024-04-03T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Grand Piano Playoff'],
+    link: 'https://www.playhousesquare.org/events/detail/grand-piano-playoff',
+    date: '2024-07-28',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "GlamGore: Creatures of the Deep",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13297733/glamgore-creatures-of-the-deep",
-    "date": "2024-04-05T21:00:00",
-    "venue": "Grog Shop"
+    artist: ['Boney James'],
+    link: 'https://www.playhousesquare.org/events/detail/boney-james-1',
+    date: '2024-08-22',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "The Slackers, The Operators"
-    ],
-    "link": "https://grogshop.gs/event-details/13276353/the-slackers-the-operators",
-    "date": "2024-04-06T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Low Phase",
-      "The Vumms",
-      "Tall Grass",
-      "False Teeth"
-    ],
-    "link": "https://grogshop.gs/event-details/13464333/low-phase-the-vumms-tall-grass-false-teeth",
-    "date": "2024-04-09T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Rosanne Cash'],
+    link: 'https://www.playhousesquare.org/events/detail/rosanne-cash',
+    date: '2024-08-29',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "BravoArtist Presents: Lakeview",
-      "Sam Grow"
-    ],
-    "link": "https://grogshop.gs/event-details/13519163/bravoartist-presents-lakeview",
-    "date": "2024-04-11T20:00:00",
-    "venue": "Grog Shop"
+    artist: ["RuPaul's Drag Race All Stars LIVE"],
+    link: 'https://www.playhousesquare.org/events/detail/rupauls-drag-race-all-stars-live',
+    date: '2024-09-07',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Mannequin Pussy, Soul Glo"
-    ],
-    "link": "https://grogshop.gs/event-details/13857388/mannequin-pussy-soul-glo",
-    "sold_out": true,
-    "date": "2024-04-12T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Swami & The Bed of Nails",
-      "Simon & The Apparatus",
-      "Leisure Beams"
-    ],
-    "link": "https://grogshop.gs/event-details/13504303/swami-the-bed-of-nails-simon-the-apparatus-leisure-beams",
-    "date": "2024-04-13T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Spider-Man: Across The Spider-Verse'],
+    link: 'https://www.playhousesquare.org/events/detail/spider-man-across-the-spider-verse',
+    date: '2024-09-13',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13599713/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-04-15T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Shining Star CLE 2024'],
+    link: 'https://www.playhousesquare.org/events/detail/shining-star-cle-2024',
+    date: '2024-09-22',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Work Wife",
-      "You're Among Friends"
-    ],
-    "link": "https://grogshop.gs/event-details/13543723/work-wife-you-re-among-friends",
-    "date": "2024-04-17T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Scott H. Biram",
-      "Adrian and Meredith",
-      "Ruby Rose Weston"
-    ],
-    "link": "https://grogshop.gs/event-details/13429733/scott-h-biram-adrian-and-meredith-ruby-rose-weston",
-    "date": "2024-04-18T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Carlos Jones (+)",
-      "Shake Ground",
-      "Shake Ground Band"
-    ],
-    "link": "https://grogshop.gs/event-details/13542543/carlos-jones-w-shake-ground",
-    "date": "2024-04-19T21:00:00",
-    "venue": "Grog Shop"
+    artist: ['The Life & Music of George Michael'],
+    link: 'https://www.playhousesquare.org/events/detail/the-life-music-of-george-michael',
+    date: '2024-09-25',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Mickey Darling"
-    ],
-    "link": "https://grogshop.gs/event-details/13451703/mickey-darling",
-    "date": "2024-04-20T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "MIKE \"Somebody Fine Me Trouble\" Tour",
-      "454",
-      "Niontay",
-      "El Cousteau"
-    ],
-    "link": "https://grogshop.gs/event-details/13745648/mike-somebody-fine-me-trouble-tour",
-    "date": "2024-04-21T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Souls of Mischief: '93 Til Infinity 30th Anniversary Tour",
-      "Souls of Mischief",
-      "Malik X",
-      "E.Side4",
-      "Dj Scottradamus"
-    ],
-    "link": "https://grogshop.gs/event-details/13531703/souls-of-mischief-93-til-infinity-30th-anniversary-tour",
-    "date": "2024-04-22T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Air Supply'],
+    link: 'https://www.playhousesquare.org/events/detail/air-supply',
+    date: '2024-09-29',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Nick Shoulders and The Okay Crawdad: \u201cAll Bad Tour\u201d",
-      "Nat Myers"
-    ],
-    "link": "https://grogshop.gs/event-details/13307933/nick-shoulders-and-the-okay-crawdad-all-bad-tour-",
-    "date": "2024-04-23T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Meatbodies",
-      "Population II",
-      "Brood X"
-    ],
-    "link": "https://grogshop.gs/event-details/13318953/meatbodies-population-ii-brood-x",
-    "date": "2024-04-24T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Royel Otis: PRATTS & PAIN: North America Tour 2024",
-      "Girl and Girl",
-      "Louse"
-    ],
-    "link": "https://grogshop.gs/event-details/13833198/royel-otis-pratts-pain-north-america-tour-2024",
-    "date": "2024-04-28T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Avatar: The Last Airbender in Concert'],
+    link: 'https://www.playhousesquare.org/events/detail/avatar-the-last-airbender-in-concert-1',
+    date: '2024-10-17',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Wine Lips",
-      "Bad Nerves"
-    ],
-    "link": "https://grogshop.gs/event-details/13504023/wine-lips-bad-nerves",
-    "date": "2024-04-30T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['John Ruffin Presents "LIVING ALL ALONE"'],
+    link: 'https://www.playhousesquare.org/events/detail/john-ruffin-presents-living-all-alone',
+    date: '2024-11-09',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "GlamGore: Mommie Fearest",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13297763/glamgore-mommie-fearest",
-    "date": "2024-05-03T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Ghost-Note",
-      "The Labra Brothers",
-      "Apostle Jones"
-    ],
-    "link": "https://grogshop.gs/event-details/13507723/ghost-note-the-labra-brothers-apostle-jones",
-    "date": "2024-05-11T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['A Jolly Holiday with the Pops'],
+    link: 'https://www.playhousesquare.org/events/detail/a-jolly-holiday-with-the-pops',
+    date: '2024-12-01',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Cathedral Bells"
-    ],
-    "link": "https://grogshop.gs/event-details/13548893/cathedral-bells",
-    "date": "2024-05-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Laura Jane Grace with Worriers and Sam Russo",
-      "Worriers",
-      "Sam Russo"
-    ],
-    "link": "https://grogshop.gs/event-details/13429923/laura-jane-grace-with-worriers-and-sam-russo",
-    "date": "2024-05-25T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "1349",
-      "Spectral Wound",
-      "Antichrist Siege Machine",
-      "Spirit Possession"
-    ],
-    "link": "https://grogshop.gs/event-details/13519373/1349-spectral-wound-antichrist-siege-machine-spirit-possession",
-    "date": "2024-05-28T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['The Jinkx & DeLa Holiday Show'],
+    link: 'https://www.playhousesquare.org/events/detail/the-jinkx-dela-holiday-show',
+    date: '2024-12-06',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "10 Years"
-    ],
-    "link": "https://grogshop.gs/event-details/13543893/10-years",
-    "date": "2024-05-31T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Melt-Banana",
-      "The Flying Luttenbachers",
-      "BabyBaby_Explorers"
-    ],
-    "link": "https://grogshop.gs/event-details/13482083/melt-banana",
-    "date": "2024-06-02T19:30:00",
-    "venue": "Grog Shop"
+    artist: ['Jim Brickman\'s "Comfort & Joy"'],
+    link: 'https://www.playhousesquare.org/events/detail/jim-brickmans-comfort-joy',
+    date: '2024-12-21',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "GlamGore: 6th Annual Pre-Pride on the East Side",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13297803/glamgore-6th-annual-pre-pride-on-the-east-side",
-    "date": "2024-06-07T21:00:00",
-    "venue": "Grog Shop"
+    artist: ['Straight No Chaser - Top Shelf Tour'],
+    link: 'https://www.playhousesquare.org/events/detail/straight-no-chaser-top-shelf-tour',
+    date: '2024-12-21',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "Horsegirl",
-      "Cindy"
-    ],
-    "link": "https://grogshop.gs/event-details/13535403/horsegirl",
-    "date": "2024-06-16T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Final Fantasy VII Rebirth'],
+    link: 'https://www.playhousesquare.org/events/detail/final-fantasy-vii-rebirth',
+    date: '2025-01-18',
+    venue: 'Playhouse Square',
   },
   {
-    "artist": [
-      "COSMIC PSYCHOS: 40th Anniversary Tour , Special Guest NINE POUND HAMMER"
-    ],
-    "link": "https://grogshop.gs/event-details/13566893/cosmic-psychos-40th-anniversary-tour-w-special-guest-nine-pound-hammer",
-    "date": "2024-06-18T19:30:00",
-    "venue": "Grog Shop"
+    artist: ['A FUNDRAISER FOR CHEF SIERRA'],
+    link: 'https://www.foundryconcertclub.com/tm-event/a-fundraiser-for-chef-sierra/',
+    date: '2024-07-16T17:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Melissa Ferrick"
-    ],
-    "link": "https://grogshop.gs/event-details/13542413/melissa-ferrick",
-    "date": "2024-06-26T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Folk Around and Find Out'],
+    link: 'https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out-2/',
+    date: '2024-07-18T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "The Spits",
-      "The Hell"
+    artist: [
+      'After The Apocalypse, Brothers At Arms, Saints Of Lorain, Druparia',
     ],
-    "link": "https://grogshop.gs/event-details/13557123/the-spits",
-    "date": "2024-07-06T21:00:00",
-    "venue": "Grog Shop"
+    link: 'https://www.foundryconcertclub.com/tm-event/after-the-apocalypse-brothers-at-arms-saints-of-lorain-druparia/',
+    date: '2024-07-19T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "mc chris",
-      "Crunk Witch"
-    ],
-    "link": "https://grogshop.gs/event-details/13542873/mc-chris-crunk-witch",
-    "date": "2024-07-09T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Vanishing Kids, Insomniac, Axioma, Pulled Under'],
+    link: 'https://www.foundryconcertclub.com/tm-event/vanishing-kids-insomniac-axioma/',
+    date: '2024-07-20T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "If These Trees Could Talk",
-      "Sleepmakeswaves"
-    ],
-    "link": "https://grogshop.gs/event-details/13553093/if-these-trees-could-talk-sleepmakeswaves",
-    "date": "2024-07-24T20:00:00",
-    "venue": "Grog Shop"
+    artist: ['Daisy Chain, Clare Feorene, David Bays, Muthsera'],
+    link: 'https://www.foundryconcertclub.com/tm-event/daisy-chain-clare-feorene-david-bays-muthsera/',
+    date: '2024-07-21T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "The Grog Shop Presents- Iron & Wine: Light Verse 2024"
-    ],
-    "link": "https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024",
-    "date": "2024-08-20T19:30:00",
-    "venue": "Grog Shop"
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-10/',
+    date: '2024-07-22T17:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "King Buzzo & Trevor Dunn",
-      "JD Pinkus"
+    artist: [
+      'Lydia Can\u2019t Breathe, Puma Thurman, Nightmare Empire, Breakaway',
     ],
-    "link": "https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn",
-    "date": "2024-08-28T20:00:00",
-    "venue": "Grog Shop"
+    link: 'https://www.foundryconcertclub.com/tm-event/lydia-cant-breathe/',
+    date: '2024-07-25T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Yard Act"
-    ],
-    "link": "https://grogshop.gs/event-details/13487493/yard-act",
-    "date": "2024-10-05T20:30:00",
-    "venue": "Grog Shop"
+    artist: ['Anime / K-Pop Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/',
+    date: '2024-07-26T21:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "School of Rock headliners"
-    ],
-    "link": "https://link.dice.fm/Zc5de098a833?dice_id=Zc5de098a833",
-    "date": "2024-03-02T11:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Breed'],
+    link: 'https://www.foundryconcertclub.com/tm-event/breed/',
+    date: '2024-07-28T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Formerly Candice"
-    ],
-    "link": "https://link.dice.fm/Gcafdf0f70fc?dice_id=Gcafdf0f70fc",
-    "date": "2024-03-02T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    artist: ['ODDITIES BINGO'],
+    link: 'https://www.foundryconcertclub.com/tm-event/oddities-bingo/',
+    date: '2024-07-30T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Annadale"
-    ],
-    "link": "https://link.dice.fm/M8f638a496d7?dice_id=M8f638a496d7",
-    "date": "2024-03-03T17:30:00-05:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Brotality, Iron Bison, Voices Of The Damned, AMASSA'],
+    link: 'https://www.foundryconcertclub.com/tm-event/brotality-iron-bison-voices-of-the-damned/',
+    date: '2024-08-01T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Hockey Dad"
-    ],
-    "link": "https://link.dice.fm/B3959620ec40?dice_id=B3959620ec40",
-    "date": "2024-03-06T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    artist: ['xEighty-Sixedx'],
+    link: 'https://www.foundryconcertclub.com/tm-event/xeighty-sixedx/',
+    date: '2024-08-02T07:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Sungaze"
+    artist: [
+      'ignominious, Scab Hag, Self Absorbed, Ovenhead, Excremental Scaphism',
     ],
-    "link": "https://link.dice.fm/C3fe352e743c?dice_id=C3fe352e743c",
-    "date": "2024-03-07T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://www.foundryconcertclub.com/tm-event/ignominious-scab-hag-self-absorbed-ovenhead-excremental/',
+    date: '2024-08-03T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Stolen Gin"
+    artist: [
+      'THE BUNNY THE BEAR, Dizasterpiece, Unhealthy While Unhinged, For Absent Friends, Left Unsaid',
     ],
-    "link": "https://link.dice.fm/V42b338eec76?dice_id=V42b338eec76",
-    "date": "2024-03-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://www.foundryconcertclub.com/tm-event/the-bunny-the-bear-dizasterpiece/',
+    date: '2024-08-05T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Bizarre Dance Triangle: Joy Division vs. New Order"
-    ],
-    "link": "https://link.dice.fm/qae8058b48ac?dice_id=qae8058b48ac",
-    "date": "2024-03-09T21:00:00-05:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Spongebob Food Pop Up'],
+    link: 'https://www.foundryconcertclub.com/tm-event/spongebob-food-pop-up/',
+    date: '2024-08-06T17:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Joywave"
+    artist: [
+      'October Beach Club, The Existentials, Super Culture, Alanna Jade',
     ],
-    "link": "https://link.dice.fm/F86ac2d72f68?dice_id=F86ac2d72f68",
-    "date": "2024-03-10T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    link: 'https://www.foundryconcertclub.com/tm-event/october-beach-club-the-existentials-super-culture-alanna-jade/',
+    date: '2024-08-08T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Kelsy Karter & The Heroines"
-    ],
-    "link": "https://link.dice.fm/v4ba2ce1014e?dice_id=v4ba2ce1014e",
-    "date": "2024-03-10T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Like Murder, Infalling'],
+    link: 'https://www.foundryconcertclub.com/tm-event/like-murder-infalling/',
+    date: '2024-08-10T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Turnover"
-    ],
-    "link": "https://link.dice.fm/Xdadde097266?dice_id=Xdadde097266",
-    "date": "2024-03-12T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Folk Around and Find Out'],
+    link: 'https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out-3/',
+    date: '2024-08-15T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Anthony Green"
-    ],
-    "link": "https://link.dice.fm/vada9f958f96?dice_id=vada9f958f96",
-    "date": "2024-03-13T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Emo Kids, Lake Erie Emo Club'],
+    link: 'https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/',
+    date: '2024-08-17T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Video Age"
-    ],
-    "link": "https://link.dice.fm/M31d005f3d08?dice_id=M31d005f3d08",
-    "date": "2024-03-14T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Ekko Astral, Tetchy, Pretty Pretty Awful'],
+    link: 'https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/',
+    date: '2024-08-18T20:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Koyo, One Step Closer, and Anxious"
-    ],
-    "link": "https://link.dice.fm/d234aaecbddb?dice_id=d234aaecbddb",
-    "date": "2024-03-15T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain'],
+    link: 'https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/',
+    date: '2024-08-20T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Misery Business: an all Paramore emo night"
+    artist: [
+      'Worthy Of The Crown, The Dead Don\u2019t Sleep, Only The Lucky Ones Die',
     ],
-    "link": "https://link.dice.fm/s9afdbe2317e?dice_id=s9afdbe2317e",
-    "date": "2024-03-16T21:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://www.foundryconcertclub.com/tm-event/worthy-of-the-crown-the-dead-dont-sleep-only-the-lucky-ones-die/',
+    date: '2024-08-22T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Arm's Length"
-    ],
-    "link": "https://link.dice.fm/D72fa33ab9ba?dice_id=D72fa33ab9ba",
-    "date": "2024-03-17T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Sinful Summer Sizzle'],
+    link: 'https://www.foundryconcertclub.com/tm-event/sinful-summer-sizzle/',
+    date: '2024-08-24T21:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Between You & Me"
-    ],
-    "link": "https://link.dice.fm/M7d744b3a77c?dice_id=M7d744b3a77c",
-    "date": "2024-03-18T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Conquer Divide, Enmy'],
+    link: 'https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/',
+    date: '2024-08-25T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Native Sun + Thus Love"
-    ],
-    "link": "https://link.dice.fm/faca05f0763a?dice_id=faca05f0763a",
-    "date": "2024-03-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Polkadot Cadaver, Beneath the Hollow , Irewyrm'],
+    link: 'https://www.foundryconcertclub.com/tm-event/polkadot-cadaver/',
+    date: '2024-08-31T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Tall Grass"
-    ],
-    "link": "https://link.dice.fm/B5066da4a941?dice_id=B5066da4a941",
-    "date": "2024-03-21T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Polkadot Cadaver, Beneath the Hollow , After The Apocalypse'],
+    link: 'https://www.foundryconcertclub.com/tm-event/polkadot-cadaver-2/',
+    date: '2024-09-01T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Queencard: a K-Pop themed dance party"
-    ],
-    "link": "https://link.dice.fm/W0794adbf556?dice_id=W0794adbf556",
-    "date": "2024-03-22T20:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Of Virtue, The Static Wake, Like Tyrants, Earth & Elsewhere'],
+    link: 'https://www.foundryconcertclub.com/tm-event/of-virtue-the-static-wake/',
+    date: '2024-09-03T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Club Fabulous: a dance party of DCOM soundtracks"
-    ],
-    "link": "https://link.dice.fm/le52111d770a?dice_id=le52111d770a",
-    "date": "2024-03-23T20:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Hoods, Southpaw, Unvow, Disobedient Crew'],
+    link: 'https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/',
+    date: '2024-09-05T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Felicity"
-    ],
-    "link": "https://link.dice.fm/q41a7fc9d0a3?dice_id=q41a7fc9d0a3",
-    "date": "2024-03-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['AA Williams'],
+    link: 'https://www.foundryconcertclub.com/tm-event/aa-williams/',
+    date: '2024-09-16T20:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Ducks Ltd"
-    ],
-    "link": "https://link.dice.fm/q654d1d89e8e?dice_id=q654d1d89e8e",
-    "date": "2024-03-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Baby Bugs, Solya'],
+    link: 'https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/',
+    date: '2024-09-21T20:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "The Armed"
-    ],
-    "link": "https://link.dice.fm/Q5a5918ecf59?dice_id=Q5a5918ecf59",
-    "date": "2024-03-27T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Sam Lachow'],
+    link: 'https://www.foundryconcertclub.com/tm-event/sam-lachow/',
+    date: '2024-09-22T20:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "The Little Ditties / Magazine Beach"
-    ],
-    "link": "https://link.dice.fm/p29e70ee92da?dice_id=p29e70ee92da",
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Flake, Lemonbar, Leisure Hour, Moosecreek Park'],
+    link: 'https://www.foundryconcertclub.com/tm-event/flake-lemonbar-leisure-hour-moosecreek-park/',
+    date: '2024-10-01T20:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Bilmuri"
-    ],
-    "link": "https://link.dice.fm/K137a8a6dfca?dice_id=K137a8a6dfca",
-    "sold_out": true,
-    "date": "2024-03-28T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['JJ Wilde'],
+    link: 'https://www.foundryconcertclub.com/tm-event/jj-wilde/',
+    date: '2024-10-05T20:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Nadiem - Exception Tour "
+    artist: [
+      'Unhealthy While Unhinged, Perspectives, Like Tyrants, New Saviors, Gates of Sheol',
     ],
-    "link": "https://link.dice.fm/vfdf6fe1a123?dice_id=vfdf6fe1a123",
-    "date": "2024-03-29T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    link: 'https://www.foundryconcertclub.com/tm-event/unhealthy-while-unhinged-perspectives-like-tyrants-new-saviors-gates-of-sheol/',
+    date: '2024-10-10T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Jukebox Breakdown aka Emo Night CLE"
+    artist: [
+      'The Static Wake, Dread Engine, Titans In Time, If I Fall Asleep, Constellations',
     ],
-    "link": "https://link.dice.fm/Aa600a389173?dice_id=Aa600a389173",
-    "date": "2024-03-29T21:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://www.foundryconcertclub.com/tm-event/the-static-wake-dread-engine-titans-in-time-if-i-fall-asleep-constellations/',
+    date: '2024-10-19T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Dancing Queen: a Mamma Mia disco dance party"
-    ],
-    "link": "https://link.dice.fm/Zbca8095d43c?dice_id=Zbca8095d43c",
-    "date": "2024-03-30T21:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['2 Shadows, Change My Brain With Cakes, Tomorrows Ghosts'],
+    link: 'https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/',
+    date: '2024-10-26T19:00:00',
+    venue: 'Foundry',
   },
   {
-    "artist": [
-      "Glass Beach"
-    ],
-    "link": "https://link.dice.fm/b13b1b1a9ca3?dice_id=b13b1b1a9ca3",
-    "date": "2024-04-02T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Chicago And Earth, Wind & Fire: Heart & Soul Tour 2024'],
+    link: 'https://concerts.livenation.com/chicago-and-earth-wind-fire-heart-cuyahoga-falls-ohio-07-16-2024/event/05005F6715F764CE',
+    date: '2024-07-16T19:30:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Jack Lutz"
-    ],
-    "link": "https://link.dice.fm/m7fdd552624e?dice_id=m7fdd552624e",
-    "date": "2024-04-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Alanis Morissette: The Triple Moon Tour'],
+    link: 'https://concerts.livenation.com/alanis-morissette-the-triple-moon-tour-cuyahoga-falls-ohio-07-17-2024/event/05005F640FEC5BB3',
+    date: '2024-07-17T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Jeff Rosenstock"
-    ],
-    "link": "https://link.dice.fm/Yfe527ea4de7?dice_id=Yfe527ea4de7",
-    "date": "2024-04-04T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Sam Hunt: Locked Up Tour 2024'],
+    link: 'https://concerts.livenation.com/sam-hunt-locked-up-tour-2024-cuyahoga-falls-ohio-07-19-2024/event/0500607A18B06DED',
+    date: '2024-07-19T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Sitting On Stacy"
-    ],
-    "link": "https://link.dice.fm/p7e4eb4034a4?dice_id=p7e4eb4034a4",
-    "date": "2024-04-04T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Red Hot Chili Peppers: Unlimited Love Tour'],
+    link: 'https://concerts.livenation.com/red-hot-chili-peppers-unlimited-love-cuyahoga-falls-ohio-07-22-2024/event/05005F7BD91E3F0F',
+    date: '2024-07-22T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Unprocessed"
-    ],
-    "link": "https://link.dice.fm/W36e2339d3e7?dice_id=W36e2339d3e7",
-    "date": "2024-04-05T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Totally Tubular Festival'],
+    link: 'https://concerts.livenation.com/totally-tubular-festival-cuyahoga-falls-ohio-07-28-2024/event/05006047069B50E1',
+    date: '2024-07-28T18:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Willis"
+    artist: [
+      'SAMMY HAGAR The Best of All Worlds Tour with special guest Loverboy',
     ],
-    "link": "https://link.dice.fm/he9e8532141e?dice_id=he9e8532141e",
-    "date": "2024-04-06T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://concerts.livenation.com/sammy-hagar-the-best-of-all-cuyahoga-falls-ohio-07-29-2024/event/05005F68FA146649',
+    date: '2024-07-29T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Small Crush"
-    ],
-    "link": "https://link.dice.fm/tab4785d95c8?dice_id=tab4785d95c8",
-    "date": "2024-04-07T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['PRIMUS and COHEED AND CAMBRIA'],
+    link: 'https://concerts.livenation.com/primus-and-coheed-and-cambria-cuyahoga-falls-ohio-08-05-2024/event/05006037420D7242',
+    date: '2024-08-05T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Hail The Sun and Intervals: Spring 2024"
-    ],
-    "link": "https://link.dice.fm/pa4707eaa4f3?dice_id=pa4707eaa4f3",
-    "date": "2024-04-11T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Hozier: Unreal Unearth Tour 2024'],
+    link: 'https://concerts.livenation.com/hozier-unreal-unearth-tour-2024-cuyahoga-falls-ohio-08-06-2024/event/05005F623EB5784B',
+    date: '2024-08-06T19:30:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Big Something: Headspace Tour"
-    ],
-    "link": "https://link.dice.fm/md45554ce3c8?dice_id=md45554ce3c8",
-    "date": "2024-04-11T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Thirty Seconds To Mars: Seasons World Tour'],
+    link: 'https://concerts.livenation.com/thirty-seconds-to-mars-seasons-world-cuyahoga-falls-ohio-08-07-2024/event/05005F67FBD05619',
+    date: '2024-08-07T18:30:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Your Neighbors"
-    ],
-    "link": "https://link.dice.fm/I183d41afb8f?dice_id=I183d41afb8f",
-    "date": "2024-04-13T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Dan + Shay: Heartbreak On The Map Tour'],
+    link: 'https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033',
+    date: '2024-08-09T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Sweet Pill"
-    ],
-    "link": "https://link.dice.fm/G6a619c4f520?dice_id=G6a619c4f520",
-    "date": "2024-04-14T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['The Queens of R&B: Xscape & SWV'],
+    link: 'https://concerts.livenation.com/the-queens-of-rb-xscape-swv-cuyahoga-falls-ohio-08-10-2024/event/05006072ECAD47D5',
+    date: '2024-08-10T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Dear Nora"
-    ],
-    "link": "https://link.dice.fm/C88c85ab80b3?dice_id=C88c85ab80b3",
-    "date": "2024-04-16T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['KIDZ BOP LIVE 2024'],
+    link: 'https://concerts.livenation.com/kidz-bop-live-2024-cuyahoga-falls-ohio-08-11-2024/event/05006031C7CB375B',
+    date: '2024-08-11T16:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "VS Self"
+    artist: [
+      'Tedeschi Trucks Band Deuces Wild 2024 with Special Guest Margo Price',
     ],
-    "link": "https://link.dice.fm/e110355c0f49?dice_id=e110355c0f49",
-    "date": "2024-04-18T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://concerts.livenation.com/tedeschi-trucks-band-deuces-wild-2024-cuyahoga-falls-ohio-08-13-2024/event/05006056F9246420',
+    date: '2024-08-13T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Arlo McKinley"
-    ],
-    "link": "https://link.dice.fm/Oe408c6a625d?dice_id=Oe408c6a625d",
-    "date": "2024-04-19T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Hootie & the Blowfish: Summer Camp with Trucks Tour'],
+    link: 'https://concerts.livenation.com/hootie-the-blowfish-summer-camp-with-cuyahoga-falls-ohio-08-15-2024/event/05005F62BC634076',
+    date: '2024-08-15T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "JOHN R. MILLER & THE DESLONDES"
-    ],
-    "link": "https://link.dice.fm/Xcf1fc2e03de?dice_id=Xcf1fc2e03de",
-    "date": "2024-04-21T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Human Musical Group Sensations GLASS ANIMALS: TOUR OF EARTH'],
+    link: 'https://concerts.livenation.com/human-musical-group-sensations-glass-animals-cuyahoga-falls-ohio-08-21-2024/event/05006082D88A5F19',
+    date: '2024-08-21T19:45:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Soft Kill"
-    ],
-    "link": "https://link.dice.fm/Sf355e0c6290?dice_id=Sf355e0c6290",
-    "date": "2024-04-24T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['The Doobie Brothers 2024'],
+    link: 'https://concerts.livenation.com/the-doobie-brothers-2024-cuyahoga-falls-ohio-08-22-2024/event/0500602C8F011833',
+    date: '2024-08-22T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "A Sense of Purpose"
-    ],
-    "link": "https://link.dice.fm/Dbea120efe2f?dice_id=Dbea120efe2f",
-    "date": "2024-04-25T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Rob Zombie and Alice Cooper: Freaks on Parade 2024 Tour'],
+    link: 'https://concerts.livenation.com/rob-zombie-and-alice-cooper-freaks-cuyahoga-falls-ohio-08-28-2024/event/0500602A348A58D5',
+    date: '2024-08-28T18:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Slothrust"
-    ],
-    "link": "https://link.dice.fm/ncd76fd2aa2d?dice_id=ncd76fd2aa2d",
-    "date": "2024-04-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Pitbull: Party After Dark Tour'],
+    link: 'https://concerts.livenation.com/pitbull-party-after-dark-tour-cuyahoga-falls-ohio-08-29-2024/event/05006093E2A96834',
+    date: '2024-08-29T20:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Rich Amiri"
-    ],
-    "link": "https://link.dice.fm/w1a38e5def0e?dice_id=w1a38e5def0e",
-    "date": "2024-04-28T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Avril Lavigne: The Greatest Hits'],
+    link: 'https://concerts.livenation.com/avril-lavigne-the-greatest-hits-cuyahoga-falls-ohio-09-06-2024/event/05006032D9DA4510',
+    date: '2024-09-06T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Tom Sandoval & The Most Extras"
-    ],
-    "link": "https://link.dice.fm/Rda554e7f7ac?dice_id=Rda554e7f7ac",
-    "date": "2024-05-01T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Cage The Elephant: Neon Pill Tour'],
+    link: 'https://concerts.livenation.com/cage-the-elephant-neon-pill-tour-cuyahoga-falls-ohio-09-09-2024/event/0500605CCE4153EF',
+    date: '2024-09-09T18:30:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Yot Club"
-    ],
-    "link": "https://link.dice.fm/nc7d2b1793f0?dice_id=nc7d2b1793f0",
-    "date": "2024-05-03T19:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Stone Temple Pilots & +LIVE+: The Jubilee Tour'],
+    link: 'https://concerts.livenation.com/stone-temple-pilots-live-the-jubilee-cuyahoga-falls-ohio-09-10-2024/event/0500606D07396904',
+    date: '2024-09-10T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Cheekface"
+    artist: [
+      'Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival',
     ],
-    "link": "https://link.dice.fm/u7e36691bdb6?dice_id=u7e36691bdb6",
-    "date": "2024-05-04T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937',
+    date: '2024-09-12T17:30:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Dustin Kensrue"
-    ],
-    "link": "https://link.dice.fm/sa03fb5c69cd?dice_id=sa03fb5c69cd",
-    "date": "2024-05-06T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Parker McCollum: Burn It Down Tour'],
+    link: 'https://concerts.livenation.com/parker-mccollum-burn-it-down-tour-cuyahoga-falls-ohio-09-13-2024/event/0500608108D75E3E',
+    date: '2024-09-13T19:30:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Soen"
-    ],
-    "link": "https://link.dice.fm/Tda2fa30b6c3?dice_id=Tda2fa30b6c3",
-    "date": "2024-05-08T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Sum 41: Tour of the Setting Sum'],
+    link: 'https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22',
+    date: '2024-09-15T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Chastity"
-    ],
-    "link": "https://link.dice.fm/Aea95a624cd0?dice_id=Aea95a624cd0",
-    "date": "2024-05-09T19:00:00-04:00",
-    "venue": "Mahall\u2019s Apartment"
+    artist: ["Vampire Weekend: 'Only God Was Above Us' Tour"],
+    link: 'https://concerts.livenation.com/vampire-weekend-only-god-was-above-cuyahoga-falls-ohio-09-19-2024/event/05006048EE755385',
+    date: '2024-09-19T19:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Microwave"
-    ],
-    "link": "https://link.dice.fm/E06760865fbb?dice_id=E06760865fbb",
-    "date": "2024-05-10T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['The National and The War On Drugs with Special Guest Lucius'],
+    link: 'https://concerts.livenation.com/the-national-and-the-war-on-cuyahoga-falls-ohio-09-21-2024/event/05006047092C606D',
+    date: '2024-09-21T18:45:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Boundaries"
-    ],
-    "link": "https://link.dice.fm/ra3cdfcaad71?dice_id=ra3cdfcaad71",
-    "date": "2024-05-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Meghan Trainor | The Timeless Tour'],
+    link: 'https://concerts.livenation.com/meghan-trainor-the-timeless-tour-cuyahoga-falls-ohio-09-27-2024/event/0500606CB97B285C',
+    date: '2024-09-27T18:30:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "Young Rising Sons"
-    ],
-    "link": "https://link.dice.fm/Sac774794fa1?dice_id=Sac774794fa1",
-    "date": "2024-05-11T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Post Malone: F-1 Trillion Tour'],
+    link: 'https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3',
+    date: '2024-10-01T20:00:00',
+    venue: 'Blossom',
   },
   {
-    "artist": [
-      "HAWTHORNE HEIGHTS: BEHIND THE TEARS"
-    ],
-    "link": "https://link.dice.fm/N2e4da2fc079?dice_id=N2e4da2fc079",
-    "date": "2024-05-12T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Cleveland Foundation Annual Meeting'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/cleveland-foundation-annual-meeting-240718',
+    date: '2024-07-18',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Joy Again"
-    ],
-    "link": "https://link.dice.fm/d6e7358aa698?dice_id=d6e7358aa698",
-    "date": "2024-05-15T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['WWE: Friday Night SmackDown'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/wwe-smackdown-240802',
+    date: '2024-08-02',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Jeffrey Martin with special guest Dean Johnson"
+    artist: [
+      'Martin Lawrence with special guest Gary Owen',
+      "Y'all Know What It Is Tour",
     ],
-    "link": "https://link.dice.fm/ndd45cda1606?dice_id=ndd45cda1606",
-    "date": "2024-05-16T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/martin-lawrence-240803',
+    date: '2024-08-03',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "The Heavy Heavy"
+    artist: [
+      'Missy Elliott: OUT OF THIS WORLD: THE EXPERIENCE',
+      'Special Guests Ciara, Busta Rhymes & Timbaland',
     ],
-    "link": "https://link.dice.fm/Bf8225397761?dice_id=Bf8225397761",
-    "date": "2024-05-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/missy-elliott-240814',
+    date: '2024-08-14',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Alpha Wolf: Half Living Things"
-    ],
-    "link": "https://link.dice.fm/w66b455313e8?dice_id=w66b455313e8",
-    "date": "2024-05-18T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['A Taste of Black Cleveland', 'The Food Showcase 6.0'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/tobc2024',
+    date: '2024-08-22',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Motherfolk"
-    ],
-    "link": "https://link.dice.fm/L956e8920e79?dice_id=L956e8920e79",
-    "date": "2024-05-19T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Nicki Minaj', 'Pink Friday 2 World Tour'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/nicki-minaj-240913',
+    date: '2024-09-13',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Modern Color"
-    ],
-    "link": "https://link.dice.fm/S2e955b5d257?dice_id=S2e955b5d257",
-    "date": "2024-05-25T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ["Jeff Lynne's ELO: THE OVER AND OUT TOUR", 'Rooney'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/elo-240914',
+    date: '2024-09-14',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Delta Sleep"
-    ],
-    "link": "https://link.dice.fm/Sb23d02d0836?dice_id=Sb23d02d0836",
-    "date": "2024-05-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Tom Segura', 'Come Together'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/tom-segura-come-together-240926',
+    date: '2024-09-26',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Youth Fountain"
+    artist: [
+      '$uicideboy$: Grey Day Tour 2024',
+      'Special Guests Denzel Curry, Pouya, HAARPER, Shakewell & Ekkstacy',
     ],
-    "link": "https://link.dice.fm/Ia7b31d8e2d3?dice_id=Ia7b31d8e2d3",
-    "date": "2024-06-01T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/suicideboys-240927',
+    date: '2024-09-27',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Los Campesinos!"
-    ],
-    "link": "https://link.dice.fm/f53f6c428bf6?dice_id=f53f6c428bf6",
-    "date": "2024-06-21T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['Twenty One Pilots', 'The Clancy World Tour'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/twenty-one-pilots-240928',
+    date: '2024-09-28',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Softcult"
-    ],
-    "link": "https://link.dice.fm/If192ba6a9fc?dice_id=If192ba6a9fc",
-    "date": "2024-07-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Aerosmith', 'PEACE OUT The Farewell Tour with The Black Crowes'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/aerosmith-peace-out-the-farewell-tour-230921',
+    date: '2024-09-29',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "And So I Watch You From Afar and Caspian"
-    ],
-    "link": "https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3",
-    "date": "2024-07-27T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    artist: ['2024 Rock & Roll Hall of Fame Induction Ceremony'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/rockhall-241019',
+    date: '2024-10-19',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Katy Kirby"
-    ],
-    "link": "https://link.dice.fm/v5f12eef8cd4?dice_id=v5f12eef8cd4",
-    "date": "2024-08-08T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    artist: ['Gold Over America Tour', 'Starring Simone Biles'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/gold-over-america-102724',
+    date: '2024-10-27',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
+    artist: ['TOBYMAC MercyMe Zach Williams'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/tobymac-241116',
+    date: '2024-11-16',
+    venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    "artist": [
-      "Wheatus"
+    artist: [
+      'Creed: Are You Ready? Tour',
+      'Special Guests 3 Doors Down & Mammoth WVH',
     ],
-    "link": "https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca",
-    "date": "2024-08-15T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  }
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122',
+    date: '2024-11-22',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
+    artist: ['Lifeguard and Font'],
+    link: 'https://link.dice.fm/Eb59b20b94b5?dice_id=Eb59b20b94b5',
+    date: '2024-07-18T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Gimme Gimme Disco'],
+    link: 'https://link.dice.fm/b6a6cbdb1612?dice_id=b6a6cbdb1612',
+    date: '2024-07-19T20:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['HEAVY EMO NIGHT: ADTR VS. PTV'],
+    link: 'https://link.dice.fm/G967d4365d56?dice_id=G967d4365d56',
+    date: '2024-07-19T21:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['The Greeting Committee'],
+    link: 'https://link.dice.fm/ve5848798e05?dice_id=ve5848798e05',
+    date: '2024-07-20T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Frozen Soul'],
+    link: 'https://link.dice.fm/s27cd08a697c?dice_id=s27cd08a697c',
+    date: '2024-07-21T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Jessica Pratt'],
+    link: 'https://link.dice.fm/Xbf079c6aae2?dice_id=Xbf079c6aae2',
+    date: '2024-07-22T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Softcult'],
+    link: 'https://link.dice.fm/If192ba6a9fc?dice_id=If192ba6a9fc',
+    date: '2024-07-23T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['The Little Ditties'],
+    link: 'https://link.dice.fm/ea6d1f532444?dice_id=ea6d1f532444',
+    date: '2024-07-24T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Yuno Miles: Bringing Trash To The World Tour'],
+    link: 'https://link.dice.fm/Wb1e981b55ad?dice_id=Wb1e981b55ad',
+    date: '2024-07-25T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['And So I Watch You From Afar and Caspian'],
+    link: 'https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3',
+    date: '2024-07-27T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Wilderado'],
+    link: 'https://link.dice.fm/A6faf20716e6?dice_id=A6faf20716e6',
+    date: '2024-07-28T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Grayscale'],
+    link: 'https://link.dice.fm/h8c6a71babc9?dice_id=h8c6a71babc9',
+    date: '2024-07-31T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Wrestling Night Club'],
+    link: 'https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e',
+    date: '2024-08-01T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Jake Hill'],
+    link: 'https://link.dice.fm/Dba5c0fe1126?dice_id=Dba5c0fe1126',
+    date: '2024-08-02T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['MyHeartYourGlove'],
+    link: 'https://link.dice.fm/W547e1384f99?dice_id=W547e1384f99',
+    date: '2024-08-02T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Fiddlehead'],
+    link: 'https://link.dice.fm/e38e4bbf7374?dice_id=e38e4bbf7374',
+    date: '2024-08-03T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Boys of Fall'],
+    link: 'https://link.dice.fm/b59425825402?dice_id=b59425825402',
+    date: '2024-08-04T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['SeeYouSpaceCowboy'],
+    link: 'https://link.dice.fm/Dd9c36d9115f?dice_id=Dd9c36d9115f',
+    date: '2024-08-07T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Katy Kirby'],
+    link: 'https://link.dice.fm/v5f12eef8cd4?dice_id=v5f12eef8cd4',
+    date: '2024-08-08T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Jady'],
+    link: 'https://link.dice.fm/df07a436f5ff?dice_id=df07a436f5ff',
+    date: '2024-08-09T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ["Club 2K: an all out 2010's dance party"],
+    link: 'https://link.dice.fm/gc76e2a2271f?dice_id=gc76e2a2271f',
+    date: '2024-08-09T22:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Bent Knee'],
+    link: 'https://link.dice.fm/Z07031402c0d?dice_id=Z07031402c0d',
+    date: '2024-08-10T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Wheatus'],
+    link: 'https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca',
+    date: '2024-08-15T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Tyler Hilton'],
+    link: 'https://link.dice.fm/T8245297ed8a?dice_id=T8245297ed8a',
+    date: '2024-08-16T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['FOB vs. Paramore: an all fob and paramore emo night'],
+    link: 'https://link.dice.fm/L78b7caca0c8?dice_id=L78b7caca0c8',
+    date: '2024-08-16T22:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['club classixcx: a charli party'],
+    link: 'https://link.dice.fm/xa3cb99fae62?dice_id=xa3cb99fae62',
+    date: '2024-08-17T21:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Chris Gethard and Eddie Pepitone'],
+    link: 'https://link.dice.fm/da57149caf06?dice_id=da57149caf06',
+    date: '2024-08-18T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Laur Elle & Lyncs'],
+    link: 'https://link.dice.fm/Bc4efb1ed694?dice_id=Bc4efb1ed694',
+    date: '2024-08-20T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Gates of Sheol'],
+    link: 'https://link.dice.fm/g7c5c6ccd907?dice_id=g7c5c6ccd907',
+    date: '2024-08-21T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Emo Night Brooklyn Presents: Super American'],
+    link: 'https://link.dice.fm/V2783c0929aa?dice_id=V2783c0929aa',
+    date: '2024-08-22T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Leanna Firestone'],
+    link: 'https://link.dice.fm/Vad48afe7a0a?dice_id=Vad48afe7a0a',
+    date: '2024-08-23T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Gimme Gimme Disco'],
+    link: 'https://link.dice.fm/G70b151fef0f?dice_id=G70b151fef0f',
+    date: '2024-08-24T20:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Girl Cologne'],
+    link: 'https://link.dice.fm/F9b2c74d07b0?dice_id=F9b2c74d07b0',
+    date: '2024-08-29T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Pink Pony Club: a modern pop dance party'],
+    link: 'https://link.dice.fm/N0895c461d54?dice_id=N0895c461d54',
+    date: '2024-08-31T20:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['The Kilograms'],
+    link: 'https://link.dice.fm/Of5ac7d72fd7?dice_id=Of5ac7d72fd7',
+    date: '2024-09-04T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['@'],
+    link: 'https://link.dice.fm/V2d5e7459e34?dice_id=V2d5e7459e34',
+    date: '2024-09-05T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['CG5'],
+    link: 'https://link.dice.fm/m21fd14b4163?dice_id=m21fd14b4163',
+    date: '2024-09-07T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Sad Park'],
+    link: 'https://link.dice.fm/Od04579a4ffc?dice_id=Od04579a4ffc',
+    date: '2024-09-08T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Ian McConnell'],
+    link: 'https://link.dice.fm/O481bb2b5c20?dice_id=O481bb2b5c20',
+    date: '2024-09-10T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Pillow Queens'],
+    link: 'https://link.dice.fm/rc470220a0b2?dice_id=rc470220a0b2',
+    date: '2024-09-11T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Horse Jumper of Love'],
+    link: 'https://link.dice.fm/R4084e320ea0?dice_id=R4084e320ea0',
+    date: '2024-09-14T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['The Armed and H09909'],
+    link: 'https://link.dice.fm/Cab123510986?dice_id=Cab123510986',
+    date: '2024-09-20T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Caskets'],
+    link: 'https://link.dice.fm/w9a4a693134a?dice_id=w9a4a693134a',
+    date: '2024-09-20T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Summer Salt'],
+    link: 'https://link.dice.fm/A56578521e09?dice_id=A56578521e09',
+    date: '2024-09-24T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Miss May I'],
+    link: 'https://link.dice.fm/U652d36594d4?dice_id=U652d36594d4',
+    date: '2024-10-02T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Lightning Bolt'],
+    link: 'https://link.dice.fm/H821f6cc8f47?dice_id=H821f6cc8f47',
+    date: '2024-10-02T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Bears In Trees'],
+    link: 'https://link.dice.fm/Wb4de58beaa2?dice_id=Wb4de58beaa2',
+    date: '2024-10-05T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Duster'],
+    link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
+    date: '2024-10-07T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['The Red Pears'],
+    link: 'https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f',
+    date: '2024-10-07T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Stop Light Observations'],
+    link: 'https://link.dice.fm/Ifb101337d3b?dice_id=Ifb101337d3b',
+    date: '2024-10-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
+    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Balance & Composure'],
+    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Lady Lamb'],
+    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['JW Francis x Jaguar Sun'],
+    link: 'https://link.dice.fm/Se4fc671b088?dice_id=Se4fc671b088',
+    date: '2024-10-15T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Bendigo Fletcher'],
+    link: 'https://link.dice.fm/R48066f9c9e6?dice_id=R48066f9c9e6',
+    date: '2024-10-16T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Friday Pilots Club: The Nowhere Tour'],
+    link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
+    date: '2024-10-17T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Cloud Nothings'],
+    link: 'https://link.dice.fm/N8ce2e8eb650?dice_id=N8ce2e8eb650',
+    date: '2024-10-19T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Tank and the Bangas and Jamila Woods'],
+    link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
+    date: '2024-10-23T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Quarters of Change'],
+    link: 'https://link.dice.fm/E5686fffad42?dice_id=E5686fffad42',
+    date: '2024-10-25T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Sueco - Attempted Lover Tour'],
+    link: 'https://link.dice.fm/K0a3c3986e0a?dice_id=K0a3c3986e0a',
+    date: '2024-10-28T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['FEVER 333'],
+    link: 'https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560',
+    date: '2024-11-01T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['ZERO 9:36'],
+    link: 'https://link.dice.fm/c4bf8bfbfbc6?dice_id=c4bf8bfbfbc6',
+    date: '2024-11-04T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['CHAT PILE "COOL WORLD TOUR"'],
+    link: 'https://link.dice.fm/ydd703ecc289?dice_id=ydd703ecc289',
+    date: '2024-11-08T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['BIG D AND THE KIDS TABLE + WE ARE THE UNION'],
+    link: 'https://link.dice.fm/Da661b551e2f?dice_id=Da661b551e2f',
+    date: '2024-11-17T18:30:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Tiny Moving Parts'],
+    link: 'https://link.dice.fm/y76353c15861?dice_id=y76353c15861',
+    date: '2024-12-08T18:30:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Maggie Rose: No One Gets Out Alive Tour'],
+    link: 'https://www.ticketweb.com/event/maggie-rose-no-one-gets-musica-tickets/13662323',
+    date: '2024-07-25T19:30:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['Bug Hunter & The Narcissist Cookbook'],
+    link: 'https://www.ticketweb.com/event/bug-hunter-the-narcissist-cookbook-musica-tickets/13400384',
+    date: '2024-08-21T19:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['Cole Chaney: Legends & Verse 2024, Tony Logue and The 184'],
+    link: 'https://www.ticketweb.com/event/cole-chaney-legends-verse-musica-tickets/13506764',
+    date: '2024-09-06T21:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['Jon Spencer'],
+    link: 'https://www.ticketweb.com/event/jon-spencer-musica-tickets/13389354',
+    date: '2024-09-24T20:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['The Menzingers'],
+    link: 'https://www.ticketweb.com/event/the-menzingers-musica-tickets/13698403',
+    date: '2024-11-03T19:00:00',
+    venue: 'Musica Akron',
+  },
+  {
+    artist: ['Will Hoge'],
+    link: 'https://www.ticketweb.com/event/will-hoge-musica-tickets/13530334',
+    date: '2024-11-15T21:00:00',
+    venue: 'Musica Akron',
+  },
 ]

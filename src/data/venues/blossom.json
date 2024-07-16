@@ -1,110 +1,6 @@
 [
   {
     "artist": [
-      "Noah Kahan: We'll All Be Here Forever Tour"
-    ],
-    "link": "https://concerts.livenation.com/noah-kahan-well-all-be-here-cuyahoga-falls-ohio-05-28-2024/event/05005F33F78770D0",
-    "date": "2024-05-28T20:00:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "21 Savage: American Dream Tour"
-    ],
-    "link": "https://concerts.livenation.com/21-savage-american-dream-tour-cuyahoga-falls-ohio-05-29-2024/event/05006055E0CC5F09",
-    "date": "2024-05-29T19:00:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Chris Stapleton's All-American Road Show"
-    ],
-    "link": "https://concerts.livenation.com/chris-stapletons-allamerican-road-show-cuyahoga-falls-ohio-05-31-2024/event/05005F58D01E36F5",
-    "date": "2024-05-31T19:00:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "NEEDTOBREATHE: THE CAVES WORLD TOUR"
-    ],
-    "link": "https://concerts.livenation.com/needtobreathe-the-caves-world-tour-cuyahoga-falls-ohio-06-01-2024/event/05005F23BD832383",
-    "date": "2024-06-01T19:30:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Foreigner & Styx with John Waite: Renegades and Juke Box Heroes Tour"
-    ],
-    "link": "https://concerts.livenation.com/foreigner-styx-with-john-waite-renegades-cuyahoga-falls-ohio-06-12-2024/event/05005F7CE76334D4",
-    "date": "2024-06-12T18:45:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "New Kids On The Block with Paula Abdul & DJ Jazzy Jeff"
-    ],
-    "link": "https://concerts.livenation.com/new-kids-on-the-block-with-cuyahoga-falls-ohio-06-14-2024/event/05005F4AE82F428A",
-    "date": "2024-06-14T19:00:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Hank Williams Jr."
-    ],
-    "link": "https://concerts.livenation.com/hank-williams-jr-cuyahoga-falls-ohio-06-21-2024/event/05005F7CA31716BD",
-    "date": "2024-06-21T19:00:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Dave Matthews Band"
-    ],
-    "link": "https://concerts.livenation.com/dave-matthews-band-cuyahoga-falls-ohio-06-25-2024/event/05005F85C5625046",
-    "date": "2024-06-25T19:30:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Niall Horan: \"THE SHOW\" LIVE ON TOUR 2024"
-    ],
-    "link": "https://concerts.livenation.com/niall-horan-the-show-live-on-cuyahoga-falls-ohio-06-26-2024/event/05005EB314097E0F",
-    "date": "2024-06-26T19:30:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Third Eye Blind with Special Guest Yellowcard: Summer Gods Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/third-eye-blind-with-special-guest-cuyahoga-falls-ohio-07-05-2024/event/05005F8F13CF6CD6",
-    "date": "2024-07-05T18:30:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Norah Jones"
-    ],
-    "link": "https://concerts.livenation.com/norah-jones-cuyahoga-falls-ohio-07-11-2024/event/05006055C976533E",
-    "date": "2024-07-11T20:00:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Luke Bryan: Mind of a Country Boy Tour 2024"
-    ],
-    "link": "https://concerts.livenation.com/luke-bryan-mind-of-a-country-cuyahoga-falls-ohio-07-12-2024/event/0500603E047E5BCD",
-    "date": "2024-07-12T19:00:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
-      "Train & REO Speedwagon: Summer Road Trip 2024"
-    ],
-    "link": "https://concerts.livenation.com/train-reo-speedwagon-summer-road-trip-cuyahoga-falls-ohio-07-15-2024/event/05006037009167A7",
-    "date": "2024-07-15T18:25:00",
-    "venue": "Blossom"
-  },
-  {
-    "artist": [
       "Chicago And Earth, Wind & Fire: Heart & Soul Tour 2024"
     ],
     "link": "https://concerts.livenation.com/chicago-and-earth-wind-fire-heart-cuyahoga-falls-ohio-07-16-2024/event/05005F6715F764CE",
@@ -117,6 +13,14 @@
     ],
     "link": "https://concerts.livenation.com/alanis-morissette-the-triple-moon-tour-cuyahoga-falls-ohio-07-17-2024/event/05005F640FEC5BB3",
     "date": "2024-07-17T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Sam Hunt: Locked Up Tour 2024"
+    ],
+    "link": "https://concerts.livenation.com/sam-hunt-locked-up-tour-2024-cuyahoga-falls-ohio-07-19-2024/event/0500607A18B06DED",
+    "date": "2024-07-19T19:00:00",
     "venue": "Blossom"
   },
   {
@@ -156,7 +60,7 @@
       "Hozier: Unreal Unearth Tour 2024"
     ],
     "link": "https://concerts.livenation.com/hozier-unreal-unearth-tour-2024-cuyahoga-falls-ohio-08-06-2024/event/05005F623EB5784B",
-    "date": "2024-08-06T20:00:00",
+    "date": "2024-08-06T19:30:00",
     "venue": "Blossom"
   },
   {
@@ -173,6 +77,14 @@
     ],
     "link": "https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033",
     "date": "2024-08-09T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "The Queens of R&B: Xscape & SWV"
+    ],
+    "link": "https://concerts.livenation.com/the-queens-of-rb-xscape-swv-cuyahoga-falls-ohio-08-10-2024/event/05006072ECAD47D5",
+    "date": "2024-08-10T19:00:00",
     "venue": "Blossom"
   },
   {
@@ -201,6 +113,14 @@
   },
   {
     "artist": [
+      "Human Musical Group Sensations GLASS ANIMALS: TOUR OF EARTH"
+    ],
+    "link": "https://concerts.livenation.com/human-musical-group-sensations-glass-animals-cuyahoga-falls-ohio-08-21-2024/event/05006082D88A5F19",
+    "date": "2024-08-21T19:45:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
       "The Doobie Brothers 2024"
     ],
     "link": "https://concerts.livenation.com/the-doobie-brothers-2024-cuyahoga-falls-ohio-08-22-2024/event/0500602C8F011833",
@@ -213,6 +133,14 @@
     ],
     "link": "https://concerts.livenation.com/rob-zombie-and-alice-cooper-freaks-cuyahoga-falls-ohio-08-28-2024/event/0500602A348A58D5",
     "date": "2024-08-28T18:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Pitbull: Party After Dark Tour"
+    ],
+    "link": "https://concerts.livenation.com/pitbull-party-after-dark-tour-cuyahoga-falls-ohio-08-29-2024/event/05006093E2A96834",
+    "date": "2024-08-29T20:00:00",
     "venue": "Blossom"
   },
   {
@@ -233,10 +161,26 @@
   },
   {
     "artist": [
+      "Stone Temple Pilots & +LIVE+: The Jubilee Tour"
+    ],
+    "link": "https://concerts.livenation.com/stone-temple-pilots-live-the-jubilee-cuyahoga-falls-ohio-09-10-2024/event/0500606D07396904",
+    "date": "2024-09-10T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
       "Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival"
     ],
     "link": "https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937",
     "date": "2024-09-12T17:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Parker McCollum: Burn It Down Tour"
+    ],
+    "link": "https://concerts.livenation.com/parker-mccollum-burn-it-down-tour-cuyahoga-falls-ohio-09-13-2024/event/0500608108D75E3E",
+    "date": "2024-09-13T19:30:00",
     "venue": "Blossom"
   },
   {
@@ -265,10 +209,18 @@
   },
   {
     "artist": [
-      "2024 Premium Season Tickets"
+      "Meghan Trainor | The Timeless Tour"
     ],
-    "link": "https://premium.livenation.com/venue/blossom-music-center",
-    "date": "2024-12-31T00:00:01",
+    "link": "https://concerts.livenation.com/meghan-trainor-the-timeless-tour-cuyahoga-falls-ohio-09-27-2024/event/0500606CB97B285C",
+    "date": "2024-09-27T18:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Post Malone: F-1 Trillion Tour"
+    ],
+    "link": "https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3",
+    "date": "2024-10-01T20:00:00",
     "venue": "Blossom"
   }
 ]

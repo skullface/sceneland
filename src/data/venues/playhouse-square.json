@@ -1,82 +1,26 @@
 [
   {
     "artist": [
-      "Flanagan's Wake"
+      "Pretty Good Comedy Show"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-2",
-    "date": "2024-01-05",
+    "link": "https://www.playhousesquare.org/events/detail/pretty-good-comedy-show",
+    "date": "2024-07-25",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Leanne Morgan"
+      "Cleveland Comedy Fest"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/leanne-morgan-just-getting-started",
-    "date": "2024-03-15",
+    "link": "https://www.playhousesquare.org/events/detail/cleveland-comedy-fest",
+    "date": "2024-07-25",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Anthony Jeselnik"
+      "GOLDEN GIRLS - The Laughs Continue"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/anthony-jeselnik",
-    "date": "2024-03-16",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Modi"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/modi-know-your-audience-tour",
-    "date": "2024-03-27",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Daniel Sloss: CAN'T"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/daniel-sloss-cant",
-    "date": "2024-04-20",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "An Evening with Phil Rosenthal of \"Somebody Feed Phil\""
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/phil-rosenthal",
-    "date": "2024-04-25",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Ronny Chieng"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/ronny-chieng",
-    "date": "2024-04-26",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Marc Maron"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/marc-maron-1",
-    "date": "2024-05-10",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Joshua Seth - Mentalist"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/joshua-seth-mentalist-2",
-    "date": "2024-06-01",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Ben Brainard"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/ben-brainard",
-    "date": "2024-06-09",
+    "link": "https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls",
+    "date": "2024-08-06",
     "venue": "Playhouse Square"
   },
   {
@@ -89,90 +33,82 @@
   },
   {
     "artist": [
-      "The Blues is Alright Tour"
+      "Andrew Schulz: The Life Tour"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/the-blues-is-alright-tour",
-    "date": "2024-03-22",
+    "link": "https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour",
+    "date": "2024-09-20",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Black Violin: The Experience Tour"
+      "Sarah Silverman: Postmortem"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/black-violin-the-experience-tour",
-    "date": "2024-03-23",
+    "link": "https://www.playhousesquare.org/events/detail/sarah-silverman",
+    "date": "2024-09-21",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Celtic Woman 20th Anniversary Tour"
+      "The Capitol Fools"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/celtic-woman-20th-anniversary-tour",
-    "date": "2024-03-28",
+    "link": "https://www.playhousesquare.org/events/detail/the-capitol-fools",
+    "date": "2024-09-27",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Frankie Valli & The Four Seasons"
+      "Justin Willman: Illusionati Tour"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons",
-    "date": "2024-04-18",
+    "link": "https://www.playhousesquare.org/events/detail/justin-willman-illusionati-tour",
+    "date": "2024-09-28",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "RAIN: A Tribute to the Beatles"
+      "Matteo Lane: Can't Stop Talking"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/rain-a-tribute-to-the-beatles-2",
-    "date": "2024-04-19",
+    "link": "https://www.playhousesquare.org/events/detail/matteo-lane-cant-stop-talking",
+    "date": "2024-09-28",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Sonic Symphony"
+      "Jo Koy: Just Being Koy Tour"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/sonic-symphony",
-    "date": "2024-04-20",
+    "link": "https://www.playhousesquare.org/events/detail/jo-koy-just-being-koy-tour",
+    "date": "2024-11-03",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "\"Batman\" Live in Concert"
+      "Kevin Hart: Acting My Age"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/batman-live-in-concert",
-    "date": "2024-04-21",
+    "link": "https://www.playhousesquare.org/events/detail/kevin-hart-acting-my-age",
+    "date": "2024-11-15",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Sesame Street Live! Say Hello"
+      "David Nihill: Shelf Help"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/sesame-street-live-say-hello",
-    "date": "2024-04-24",
+    "link": "https://www.playhousesquare.org/events/detail/david-nihill",
+    "date": "2024-11-15",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "C.S. Lewis On Stage"
+      "The Uncle Louie Variety Show"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/cs-lewis-on-stage",
-    "date": "2024-05-11",
+    "link": "https://www.playhousesquare.org/events/detail/the-uncle-louie-variety-show-5",
+    "date": "2024-11-16",
     "venue": "Playhouse Square"
   },
   {
     "artist": [
-      "Mother's Day Celebration"
+      "Grand Piano Playoff"
     ],
-    "link": "https://www.playhousesquare.org/events/detail/mothers-day-celebration",
-    "date": "2024-05-11",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Loud and Proud Starring Nina West"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/loud-and-proud-starring-nina-west",
-    "date": "2024-06-01",
+    "link": "https://www.playhousesquare.org/events/detail/grand-piano-playoff",
+    "date": "2024-07-28",
     "venue": "Playhouse Square"
   },
   {
@@ -181,6 +117,110 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/boney-james-1",
     "date": "2024-08-22",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Rosanne Cash"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/rosanne-cash",
+    "date": "2024-08-29",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "RuPaul's Drag Race All Stars LIVE"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/rupauls-drag-race-all-stars-live",
+    "date": "2024-09-07",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Spider-Man: Across The Spider-Verse"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/spider-man-across-the-spider-verse",
+    "date": "2024-09-13",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Shining Star CLE 2024"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/shining-star-cle-2024",
+    "date": "2024-09-22",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "The Life & Music of George Michael"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-life-music-of-george-michael",
+    "date": "2024-09-25",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Air Supply"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/air-supply",
+    "date": "2024-09-29",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Avatar: The Last Airbender in Concert"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/avatar-the-last-airbender-in-concert-1",
+    "date": "2024-10-17",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "John Ruffin Presents \"LIVING ALL ALONE\""
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/john-ruffin-presents-living-all-alone",
+    "date": "2024-11-09",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "A Jolly Holiday with the Pops"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/a-jolly-holiday-with-the-pops",
+    "date": "2024-12-01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "The Jinkx & DeLa Holiday Show"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-jinkx-dela-holiday-show",
+    "date": "2024-12-06",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Jim Brickman's \"Comfort & Joy\""
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/jim-brickmans-comfort-joy",
+    "date": "2024-12-21",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Straight No Chaser - Top Shelf Tour"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/straight-no-chaser-top-shelf-tour",
+    "date": "2024-12-21",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Final Fantasy VII Rebirth"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/final-fantasy-vii-rebirth",
+    "date": "2025-01-18",
     "venue": "Playhouse Square"
   }
 ]

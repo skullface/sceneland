@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Walter Trout",
-      "Wayne Baker Brooks"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13487124/walter-trout-wayne-baker-brooks",
-    "date": "2024-07-16T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Redd Kross",
       "Dale Crover (Melvins) DJ Set"
     ],
@@ -141,11 +132,11 @@
       "Club Ultraviolet",
       "Illest Villains",
       "Nuke Franklin",
-      "Joey Aich",
+      "Will Cherry",
       "Chanelle Kazadi",
       "Kellevators"
     ],
-    "link": "https://www.beachlandballroom.com/e/13698713/club-ultraviolet-illest-villains-nuke-franklin-joey-aich-chanelle-kazadi-kellevators",
+    "link": "https://www.beachlandballroom.com/e/13698713/club-ultraviolet-illest-villains-nuke-franklin-will-cherry-chanelle-kazadi-kellevators",
     "date": "2024-07-27T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -187,18 +178,20 @@
   },
   {
     "artist": [
-      "Briscoe"
+      "Briscoe",
+      "Wells Ferrari"
     ],
-    "link": "https://www.beachlandballroom.com/e/13524794/briscoe",
+    "link": "https://www.beachlandballroom.com/e/13524794/briscoe-wells-ferrari",
     "date": "2024-07-31T20:00:00",
     "venue": "Beachland Tavern"
   },
   {
     "artist": [
       "Electric Blue Yonder",
-      "Banshee Tree"
+      "Banshee Tree",
+      "Orange Animal"
     ],
-    "link": "https://www.beachlandballroom.com/e/13486784/electric-blue-yonder-banshee-tree",
+    "link": "https://www.beachlandballroom.com/e/13486784/electric-blue-yonder-banshee-tree-orange-animal",
     "date": "2024-08-01T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -620,6 +613,22 @@
   },
   {
     "artist": [
+      "Trash Bash",
+      "After The Apocalypse",
+      "Hams",
+      "Beast Killer",
+      "Bittersweet Revenge",
+      "Inducing Panic",
+      "Voices of the Damned",
+      "Nosewig",
+      "Psycho Plantation"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13777693/trash-bash-after-the-apocalypse-hams-beast-killer-bittersweet-revenge-inducing-panic-voices-of-the-damned-nosewig-psycho-plantation",
+    "date": "2024-09-07T17:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "American Aquarium"
     ],
     "link": "https://www.beachlandballroom.com/e/13465314/american-aquarium",
@@ -669,9 +678,10 @@
   },
   {
     "artist": [
-      "Sam Burchfield and the Scoundrels"
+      "Sam Burchfield and the Scoundrels",
+      "Greyson Jenkins"
     ],
-    "link": "https://www.beachlandballroom.com/e/13438474/sam-burchfield-and-the-scoundrels",
+    "link": "https://www.beachlandballroom.com/e/13438474/sam-burchfield-and-the-scoundrels-greyson-jenkins",
     "date": "2024-09-13T20:00:00",
     "venue": "Beachland Tavern"
   },

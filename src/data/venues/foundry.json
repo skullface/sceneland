@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "A FUNDRAISER FOR CHEF SIERRA"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/a-fundraiser-for-chef-sierra/",
-    "date": "2024-07-16T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Folk Around and Find Out"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out-2/",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-bunny-the-bear-dizasterpiece/",
     "date": "2024-08-05T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Spongebob Food Pop Up"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/spongebob-food-pop-up/",
+    "date": "2024-08-06T17:00:00",
     "venue": "Foundry"
   },
   {

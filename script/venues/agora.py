@@ -57,8 +57,19 @@ for show in shows:
   for link_element in show.findAll('a'):
     if link_element.parent == headliner:
       all_shows_data['link'] = link_element['href']
+      
+  date = show.find('span', class_='date').text.strip()
 
-  all_shows_data['date'] = '2024-08-01T18:00:00'
+  day_of_week, date_part = date.split(',', maxsplit=1)
+  date_part = date_part.strip()
+  date_part_cleaned = ' '.join(date_part.split())
+  month, day, year = date_part_cleaned.split()
+  month_number = datetime.strptime(month, '%b').month
+  full_date_text = f'{month} {day} {year}'
+
+  parsed_date = datetime.strptime(full_date_text, '%b %d, %Y')
+  parsed_datetime = f'{parsed_date:%Y-%m-%d}T18:00:00'
+  all_shows_data['date'] = parsed_datetime
 
   all_shows_data['venue'] = 'Agora'
   all_shows_list.append(all_shows_data)

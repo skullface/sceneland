@@ -1,46 +1,6 @@
 [
   {
     "artist": [
-      "David Morris"
-    ],
-    "link": "https://concerts.livenation.com/david-morris-cleveland-ohio-07-18-2024/event/050060ADEDA35C47",
-    "date": "2024-07-18T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Alexandra Kay: ALL I'VE EVER KNOWN: THE TOUR : CHAPTER 2"
-    ],
-    "link": "https://concerts.livenation.com/alexandra-kay-all-ive-ever-known-cleveland-ohio-07-19-2024/event/050060A3F2F47775",
-    "date": "2024-07-19T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "The Purple Madness: Tribute to Prince"
-    ],
-    "link": "https://concerts.livenation.com/the-purple-madness-tribute-to-prince-cleveland-ohio-07-20-2024/event/050060C4BFC83C54",
-    "date": "2024-07-20T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Mickey Avalon"
-    ],
-    "link": "https://concerts.livenation.com/mickey-avalon-cleveland-ohio-07-25-2024/event/0500606CCE68346D",
-    "date": "2024-07-25T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Bop To The Top Present Best Of Both Worlds Hannah Montana Night: 18+"
-    ],
-    "link": "https://concerts.livenation.com/bop-to-the-top-present-best-cleveland-ohio-07-26-2024/event/050060A825E68021",
-    "date": "2024-07-26T20:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Hobo Johnson & The Lovemakers: hj drinks tour"
     ],
     "link": "https://concerts.livenation.com/hobo-johnson-the-lovemakers-hj-drinks-cleveland-ohio-07-28-2024/event/05006074B21733BA",
@@ -105,14 +65,6 @@
   },
   {
     "artist": [
-      "Jonah Kagen"
-    ],
-    "link": "https://concerts.livenation.com/jonah-kagen-cleveland-ohio-08-13-2024/event/050060A305DC7C25",
-    "date": "2024-08-13T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Bones UK"
     ],
     "link": "https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161",
@@ -173,6 +125,14 @@
     ],
     "link": "https://concerts.livenation.com/the-502s-great-american-road-trip-cleveland-ohio-09-08-2024/event/050060BF2FE89790",
     "date": "2024-09-08T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "CupcakKe"
+    ],
+    "link": "https://concerts.livenation.com/cupcakke-cleveland-ohio-09-10-2024/event/050060E8EEE86017",
+    "date": "2024-09-10T19:00:00",
     "venue": "House of Blues"
   },
   {
@@ -381,6 +341,46 @@
     ],
     "link": "https://concerts.livenation.com/dayglow-the-tour-cleveland-ohio-10-15-2024/event/050060C6ABED608A",
     "date": "2024-10-15T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Everclear"
+    ],
+    "link": "https://concerts.livenation.com/everclear-cleveland-ohio-10-16-2024/event/050060938113116C",
+    "date": "2024-10-16T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Mod Sun & lovelytheband: Here's Your Flowers Tour"
+    ],
+    "link": "https://concerts.livenation.com/mod-sun-lovelytheband-heres-your-flowers-cleveland-ohio-10-19-2024/event/050060C5CB7E67AA",
+    "date": "2024-10-19T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Inhaler"
+    ],
+    "link": "https://concerts.livenation.com/inhaler-cleveland-ohio-10-22-2024/event/050060AAD53A60F0",
+    "date": "2024-10-22T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Drive-By Truckers: Southern Rock Opera Revisited 2024"
+    ],
+    "link": "https://concerts.livenation.com/driveby-truckers-southern-rock-opera-revisited-cleveland-ohio-10-23-2024/event/0500606FD9EC61D8",
+    "date": "2024-10-23T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Syleena Johnson"
+    ],
+    "link": "https://concerts.livenation.com/syleena-johnson-cleveland-ohio-10-27-2024/event/050060F2E6DF6A97",
+    "date": "2024-10-27T18:00:00",
     "venue": "House of Blues"
   }
 ]

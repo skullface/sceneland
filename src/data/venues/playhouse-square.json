@@ -73,6 +73,22 @@
   },
   {
     "artist": [
+      "Nurse John"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/nurse-john",
+    "date": "2024-10-11",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Taylor Tomlinson"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/taylor-tomlinson-1",
+    "date": "2024-10-25",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Jo Koy: Just Being Koy Tour"
     ],
     "link": "https://www.playhousesquare.org/events/detail/jo-koy-just-being-koy-tour",
@@ -153,6 +169,14 @@
   },
   {
     "artist": [
+      "Outback Presents - The Thorn"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/outback-presents-the-thorn",
+    "date": "2024-09-24",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "The Life & Music of George Michael"
     ],
     "link": "https://www.playhousesquare.org/events/detail/the-life-music-of-george-michael",
@@ -221,6 +245,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/final-fantasy-vii-rebirth",
     "date": "2025-01-18",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Joe Bonamassa"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/joe-bonamassa-3",
+    "date": "2025-02-22",
     "venue": "Playhouse Square"
   }
 ]

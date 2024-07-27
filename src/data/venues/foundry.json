@@ -1,54 +1,6 @@
 [
   {
     "artist": [
-      "Folk Around and Find Out"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out-2/",
-    "date": "2024-07-18T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "After The Apocalypse, Brothers At Arms, Saints Of Lorain, Druparia"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/after-the-apocalypse-brothers-at-arms-saints-of-lorain-druparia/",
-    "date": "2024-07-19T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Vanishing Kids, Insomniac, Axioma, Pulled Under"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/vanishing-kids-insomniac-axioma/",
-    "date": "2024-07-20T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Daisy Chain, Clare Feorene, David Bays, Muthsera"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/daisy-chain-clare-feorene-david-bays-muthsera/",
-    "date": "2024-07-21T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-10/",
-    "date": "2024-07-22T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Lydia Can\u2019t Breathe, Puma Thurman, Nightmare Empire, Breakaway"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/lydia-cant-breathe/",
-    "date": "2024-07-25T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Anime / K-Pop Night"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/",
@@ -61,6 +13,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/breed/",
     "date": "2024-07-28T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/",
+    "date": "2024-07-29T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -113,14 +73,6 @@
   },
   {
     "artist": [
-      "Spongebob Food Pop Up"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/spongebob-food-pop-up/",
-    "date": "2024-08-06T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "October Beach Club, The Existentials, Super Culture, Alanna Jade"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/october-beach-club-the-existentials-super-culture-alanna-jade/",
@@ -129,10 +81,26 @@
   },
   {
     "artist": [
-      "Like Murder, Infalling"
+      "Nocturnal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
+    "date": "2024-08-09T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Like Murder, Infalling, 10,000 Rambos"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/like-murder-infalling/",
     "date": "2024-08-10T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "HOT BOY SUMMER"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/hot-boy-summer-2/",
+    "date": "2024-08-11T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -169,7 +137,7 @@
   },
   {
     "artist": [
-      "Worthy Of The Crown, The Dead Don\u2019t Sleep, Only The Lucky Ones Die"
+      "Worthy Of The Crown, The Dead Don\u2019t Sleep, Midwinter, Only The Lucky Ones Die, Unconditional Hatred"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/worthy-of-the-crown-the-dead-dont-sleep-only-the-lucky-ones-die/",
     "date": "2024-08-22T19:00:00",
@@ -229,6 +197,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/aa-williams/",
     "date": "2024-09-16T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Gorgatron, Misfire, Apothic"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/gorgatron-misfire-apothic/",
+    "date": "2024-09-19T19:00:00",
     "venue": "Foundry"
   },
   {

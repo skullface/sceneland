@@ -96,12 +96,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['The Band CAMINO, Knox'],
-    link: 'https://www.agoracleveland.com/events/detail/565846',
-    date: '2024-07-27T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool'],
     link: 'https://www.agoracleveland.com/events/detail/520827',
     date: '2024-07-28T18:00:00',
@@ -468,12 +462,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Anime / K-Pop Night'],
-    link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/',
-    date: '2024-07-26T21:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Breed'],
     link: 'https://www.foundryconcertclub.com/tm-event/breed/',
     date: '2024-07-28T19:00:00',
@@ -567,6 +555,12 @@ export const allShows = [
     artist: ['Ekko Astral, Tetchy, Pretty Pretty Awful'],
     link: 'https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/',
     date: '2024-08-18T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain'],
+    link: 'https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/',
+    date: '2024-08-20T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1243,18 +1237,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Pretty Good Comedy Show'],
-    link: 'https://www.playhousesquare.org/events/detail/pretty-good-comedy-show',
-    date: '2024-07-25',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Cleveland Comedy Fest'],
-    link: 'https://www.playhousesquare.org/events/detail/cleveland-comedy-fest',
-    date: '2024-07-25',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['GOLDEN GIRLS - The Laughs Continue'],
     link: 'https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls',
     date: '2024-08-06',
@@ -1643,12 +1625,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['And So I Watch You From Afar and Caspian'],
-    link: 'https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3',
-    date: '2024-07-27T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Wilderado'],
     link: 'https://link.dice.fm/A6faf20716e6?dice_id=A6faf20716e6',
     date: '2024-07-28T19:00:00-04:00',
@@ -1661,16 +1637,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['RRRIOT!'],
-    link: 'https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb',
-    date: '2024-08-01T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Wrestling Night Club ft Guest DJ: Mark Henry'],
     link: 'https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e',
     date: '2024-08-01T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['RRRIOT!'],
+    link: 'https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb',
+    date: '2024-08-01T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Jake Hill'],
@@ -2159,33 +2135,6 @@ export const allShows = [
     link: '/events/detail?event_id=525985',
     date: '2024-09-03T18:30:00',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: [
-      'Colicchie',
-      'Whitney Peyton',
-      '2 Fluent',
-      'LUV',
-      'FlexPackFace',
-      'State Baby Chris',
-      'Hosted by WindleEffect',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13662063/colicchie-whitney-peyton-2-fluent-luv-flexpackface-state-baby-chris-hosted-by-windleeffect',
-    date: '2024-07-27T19:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: [
-      'Club Ultraviolet',
-      'Illest Villains',
-      'Nuke Franklin',
-      'Will Cherry',
-      'Chanelle Kazadi',
-      'Kellevators',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13698713/club-ultraviolet-illest-villains-nuke-franklin-will-cherry-chanelle-kazadi-kellevators',
-    date: '2024-07-27T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Beachland Brunch', 'Gerloscar Supreme Team'],
@@ -2936,18 +2885,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['B Side Summer Patio Series: Nick Samps & Friends'],
-    link: 'https://grogshop.gs/event-details/13561174/b-side-summer-patio-series-nick-samps-friends',
-    date: '2024-07-27T19:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Mike Dillon & Punkadelic, Hello!3D, C-Level'],
-    link: 'https://grogshop.gs/event-details/13536034/mike-dillon-punkadelic-hello-3d-c-level',
-    date: '2024-07-27T20:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['BAD4U', 'Lindsxy Mesenburg', 'Bully Drillz', 'Moody'],

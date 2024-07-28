@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Anime / K-Pop Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/",
-    "date": "2024-07-26T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Breed"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/breed/",
@@ -125,6 +117,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/",
     "date": "2024-08-18T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/",
+    "date": "2024-08-20T19:00:00",
     "venue": "Foundry"
   },
   {

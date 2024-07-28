@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jul 2024 09:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 09:05:11 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[N69 FEST at No Class]]></title>
@@ -117,13 +117,6 @@
             <link>https://www.eventbrite.com/e/the-exploited-tickets-849136830117</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/the-exploited-tickets-849136830117</guid>
             <pubDate>Sat, 21 Sep 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Band CAMINO, Knox at Agora]]></title>
-            <description><![CDATA[Get tickets to The Band CAMINO, Knox at Agora on Saturday, July 27, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/565846]]></description>
-            <link>https://www.agoracleveland.com/events/detail/565846</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/565846</guid>
-            <pubDate>Sat, 27 Jul 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool at Agora]]></title>
@@ -546,13 +539,6 @@
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Anime / K-Pop Night at Foundry]]></title>
-            <description><![CDATA[Get tickets to Anime / K-Pop Night at Foundry on Friday, July 26, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/anime-k-pop-night-2/</guid>
-            <pubDate>Fri, 26 Jul 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Breed at Foundry]]></title>
             <description><![CDATA[Get tickets to Breed at Foundry on Sunday, July 28, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/breed/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/breed/</link>
@@ -656,6 +642,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/</guid>
             <pubDate>Sun, 18 Aug 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain at Foundry]]></title>
+            <description><![CDATA[Get tickets to A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain at Foundry on Tuesday, August 20, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/</guid>
+            <pubDate>Tue, 20 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain at Foundry]]></title>
@@ -1428,20 +1421,6 @@
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pretty Good Comedy Show at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Pretty Good Comedy Show at Playhouse Square on Thursday, July 25, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/pretty-good-comedy-show]]></description>
-            <link>https://www.playhousesquare.org/events/detail/pretty-good-comedy-show</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/pretty-good-comedy-show</guid>
-            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cleveland Comedy Fest at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Cleveland Comedy Fest at Playhouse Square on Thursday, July 25, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/cleveland-comedy-fest]]></description>
-            <link>https://www.playhousesquare.org/events/detail/cleveland-comedy-fest</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/cleveland-comedy-fest</guid>
-            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[GOLDEN GIRLS - The Laughs Continue at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to GOLDEN GIRLS - The Laughs Continue at Playhouse Square on Tuesday, August 6, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls]]></description>
             <link>https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls</link>
@@ -1876,13 +1855,6 @@
             <pubDate>Sun, 17 Mar 2024 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[And So I Watch You From Afar and Caspian at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to And So I Watch You From Afar and Caspian at The Roxy at Mahall’s on Saturday, July 27, 2024, 11:00 PM: https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3]]></description>
-            <link>https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3</link>
-            <guid isPermaLink="true">https://link.dice.fm/Wf89f27009d3?dice_id=Wf89f27009d3</guid>
-            <pubDate>Sat, 27 Jul 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wilderado at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Wilderado at The Roxy at Mahall’s on Sunday, July 28, 2024, 11:00 PM: https://link.dice.fm/A6faf20716e6?dice_id=A6faf20716e6]]></description>
             <link>https://link.dice.fm/A6faf20716e6?dice_id=A6faf20716e6</link>
@@ -1897,17 +1869,17 @@
             <pubDate>Wed, 31 Jul 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RRRIOT! at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to RRRIOT! at Mahall’s on Thursday, August 1, 2024, 11:00 PM: https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb]]></description>
-            <link>https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb</link>
-            <guid isPermaLink="true">https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb</guid>
-            <pubDate>Thu, 01 Aug 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrestling Night Club ft Guest DJ: Mark Henry at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Wrestling Night Club ft Guest DJ: Mark Henry at The Roxy at Mahall’s on Thursday, August 1, 2024, 11:00 PM: https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e]]></description>
             <link>https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e</link>
             <guid isPermaLink="true">https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e</guid>
+            <pubDate>Thu, 01 Aug 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RRRIOT! at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to RRRIOT! at Mahall’s on Thursday, August 1, 2024, 11:00 PM: https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb]]></description>
+            <link>https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb</link>
+            <guid isPermaLink="true">https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb</guid>
             <pubDate>Thu, 01 Aug 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2476,20 +2448,6 @@
             <link>/events/detail?event_id=525985</link>
             <guid isPermaLink="true">/events/detail?event_id=525985</guid>
             <pubDate>Tue, 03 Sep 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colicchie, Whitney Peyton, 2 Fluent, LUV, FlexPackFace, State Baby Chris, Hosted by WindleEffect at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Colicchie, Whitney Peyton, 2 Fluent, LUV, FlexPackFace, State Baby Chris, Hosted by WindleEffect at Beachland Ballroom on Saturday, July 27, 2024, 07:30 PM: https://www.beachlandballroom.com/e/13662063/colicchie-whitney-peyton-2-fluent-luv-flexpackface-state-baby-chris-hosted-by-windleeffect]]></description>
-            <link>https://www.beachlandballroom.com/e/13662063/colicchie-whitney-peyton-2-fluent-luv-flexpackface-state-baby-chris-hosted-by-windleeffect</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13662063/colicchie-whitney-peyton-2-fluent-luv-flexpackface-state-baby-chris-hosted-by-windleeffect</guid>
-            <pubDate>Sat, 27 Jul 2024 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Club Ultraviolet, Illest Villains, Nuke Franklin, Will Cherry, Chanelle Kazadi, Kellevators at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Club Ultraviolet, Illest Villains, Nuke Franklin, Will Cherry, Chanelle Kazadi, Kellevators at Beachland Tavern on Saturday, July 27, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13698713/club-ultraviolet-illest-villains-nuke-franklin-will-cherry-chanelle-kazadi-kellevators]]></description>
-            <link>https://www.beachlandballroom.com/e/13698713/club-ultraviolet-illest-villains-nuke-franklin-will-cherry-chanelle-kazadi-kellevators</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13698713/club-ultraviolet-illest-villains-nuke-franklin-will-cherry-chanelle-kazadi-kellevators</guid>
-            <pubDate>Sat, 27 Jul 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beachland Brunch, Gerloscar Supreme Team at Beachland Tavern]]></title>
@@ -3302,20 +3260,6 @@
             <link>https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</guid>
             <pubDate>Tue, 22 Apr 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B Side Summer Patio Series: Nick Samps & Friends at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to B Side Summer Patio Series: Nick Samps & Friends at Grog Shop on Saturday, July 27, 2024, 07:00 PM: https://grogshop.gs/event-details/13561174/b-side-summer-patio-series-nick-samps-friends]]></description>
-            <link>https://grogshop.gs/event-details/13561174/b-side-summer-patio-series-nick-samps-friends</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13561174/b-side-summer-patio-series-nick-samps-friends</guid>
-            <pubDate>Sat, 27 Jul 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mike Dillon & Punkadelic, Hello!3D, C-Level at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Mike Dillon & Punkadelic, Hello!3D, C-Level at Grog Shop on Saturday, July 27, 2024, 08:30 PM: https://grogshop.gs/event-details/13536034/mike-dillon-punkadelic-hello-3d-c-level]]></description>
-            <link>https://grogshop.gs/event-details/13536034/mike-dillon-punkadelic-hello-3d-c-level</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13536034/mike-dillon-punkadelic-hello-3d-c-level</guid>
-            <pubDate>Sat, 27 Jul 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BAD4U, Lindsxy Mesenburg, Bully Drillz, Moody at Grog Shop]]></title>

@@ -96,12 +96,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Jerry Harrison &  Adrian Belew: REMAIN IN LIGHT, Cool Cool Cool'],
-    link: 'https://www.agoracleveland.com/events/detail/520827',
-    date: '2024-07-28T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Lucky Daye, Fana Hues'],
     link: 'https://www.agoracleveland.com/events/detail/551687',
     date: '2024-07-30T18:00:00',
@@ -462,12 +456,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Breed'],
-    link: 'https://www.foundryconcertclub.com/tm-event/breed/',
-    date: '2024-07-28T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['MOVIE NIGHT MONDAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/',
     date: '2024-07-29T17:00:00',
@@ -555,12 +543,6 @@ export const allShows = [
     artist: ['Ekko Astral, Tetchy, Pretty Pretty Awful'],
     link: 'https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/',
     date: '2024-08-18T20:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain'],
-    link: 'https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/',
-    date: '2024-08-20T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -700,12 +682,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Hobo Johnson & The Lovemakers: hj drinks tour'],
-    link: 'https://concerts.livenation.com/hobo-johnson-the-lovemakers-hj-drinks-cleveland-ohio-07-28-2024/event/05006074B21733BA',
-    date: '2024-07-28T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Bowling for Soup'],
@@ -989,6 +965,12 @@ export const allShows = [
     artist: ['Syleena Johnson'],
     link: 'https://concerts.livenation.com/syleena-johnson-cleveland-ohio-10-27-2024/event/050060F2E6DF6A97',
     date: '2024-10-27T18:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Streetlight Manifesto'],
+    link: 'https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B',
+    date: '2024-11-01T18:30:00',
     venue: 'House of Blues',
   },
   {
@@ -1315,12 +1297,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Grand Piano Playoff'],
-    link: 'https://www.playhousesquare.org/events/detail/grand-piano-playoff',
-    date: '2024-07-28',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Boney James'],
     link: 'https://www.playhousesquare.org/events/detail/boney-james-1',
     date: '2024-08-22',
@@ -1625,12 +1601,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Wilderado'],
-    link: 'https://link.dice.fm/A6faf20716e6?dice_id=A6faf20716e6',
-    date: '2024-07-28T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Grayscale'],
     link: 'https://link.dice.fm/h8c6a71babc9?dice_id=h8c6a71babc9',
     date: '2024-07-31T19:00:00-04:00',
@@ -1778,6 +1748,12 @@ export const allShows = [
     artist: ['Gimme Gimme Disco'],
     link: 'https://link.dice.fm/G70b151fef0f?dice_id=G70b151fef0f',
     date: '2024-08-24T20:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Fungits'],
+    link: 'https://link.dice.fm/c5f650c72e24?dice_id=c5f650c72e24',
+    date: '2024-08-25T18:30:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2135,12 +2111,6 @@ export const allShows = [
     link: '/events/detail?event_id=525985',
     date: '2024-09-03T18:30:00',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Beachland Brunch', 'Gerloscar Supreme Team'],
-    link: 'https://www.beachlandballroom.com/e/13772043/beachland-brunch-gerloscar-supreme-team',
-    date: '2024-07-28T11:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Maserati', 'Unwed Sailor', 'Seeress'],
@@ -2887,12 +2857,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['BAD4U', 'Lindsxy Mesenburg', 'Bully Drillz', 'Moody'],
-    link: 'https://grogshop.gs/event-details/13696913/bad4u-lindsxy-mesenburg-bully-drillz-moody',
-    date: '2024-07-28T18:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13475094/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-07-29T20:00:00',
@@ -3127,14 +3091,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -3462,12 +3426,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral',
     date: '2024-12-13T21:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Totally Tubular Festival'],
-    link: 'https://concerts.livenation.com/totally-tubular-festival-cuyahoga-falls-ohio-07-28-2024/event/05006047069B50E1',
-    date: '2024-07-28T18:00:00',
-    venue: 'Blossom',
   },
   {
     artist: [

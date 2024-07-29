@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Wilderado"
-    ],
-    "link": "https://link.dice.fm/A6faf20716e6?dice_id=A6faf20716e6",
-    "date": "2024-07-28T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Grayscale"
     ],
     "link": "https://link.dice.fm/h8c6a71babc9?dice_id=h8c6a71babc9",
@@ -205,6 +197,14 @@
     ],
     "link": "https://link.dice.fm/G70b151fef0f?dice_id=G70b151fef0f",
     "date": "2024-08-24T20:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Fungits"
+    ],
+    "link": "https://link.dice.fm/c5f650c72e24?dice_id=c5f650c72e24",
+    "date": "2024-08-25T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

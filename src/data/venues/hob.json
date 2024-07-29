@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Hobo Johnson & The Lovemakers: hj drinks tour"
-    ],
-    "link": "https://concerts.livenation.com/hobo-johnson-the-lovemakers-hj-drinks-cleveland-ohio-07-28-2024/event/05006074B21733BA",
-    "date": "2024-07-28T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Bowling for Soup"
     ],
     "link": "https://concerts.livenation.com/bowling-for-soup-cleveland-ohio-07-30-2024/event/05006039C7D94F65",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/syleena-johnson-cleveland-ohio-10-27-2024/event/050060F2E6DF6A97",
     "date": "2024-10-27T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Streetlight Manifesto"
+    ],
+    "link": "https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B",
+    "date": "2024-11-01T18:30:00",
     "venue": "House of Blues"
   }
 ]

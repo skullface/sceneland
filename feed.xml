@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jul 2024 09:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 09:05:15 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[N69 FEST at No Class]]></title>
@@ -532,13 +532,6 @@
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, July 29, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/</guid>
-            <pubDate>Mon, 29 Jul 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ODDITIES BINGO at Foundry]]></title>
             <description><![CDATA[Get tickets to ODDITIES BINGO at Foundry on Tuesday, July 30, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/oddities-bingo/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/oddities-bingo/</link>
@@ -698,6 +691,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/gorgatron-misfire-apothic/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/gorgatron-misfire-apothic/</guid>
             <pubDate>Thu, 19 Sep 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Julien-K, Tomorrows Ghosts at Foundry]]></title>
+            <description><![CDATA[Get tickets to Julien-K, Tomorrows Ghosts at Foundry on Friday, September 20, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/</guid>
+            <pubDate>Fri, 20 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Baby Bugs, Solya at Foundry]]></title>
@@ -1449,6 +1449,13 @@
             <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Festival of Laughs at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Festival of Laughs at Playhouse Square on Saturday, September 28, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/festival-of-laughs-3]]></description>
+            <link>https://www.playhousesquare.org/events/detail/festival-of-laughs-3</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/festival-of-laughs-3</guid>
+            <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nurse John at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Nurse John at Playhouse Square on Friday, October 11, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/nurse-john]]></description>
             <link>https://www.playhousesquare.org/events/detail/nurse-john</link>
@@ -1468,6 +1475,13 @@
             <link>https://www.playhousesquare.org/events/detail/jo-koy-just-being-koy-tour</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/jo-koy-just-being-koy-tour</guid>
             <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Dunham Artificial Intelligence at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Jeff Dunham Artificial Intelligence at Playhouse Square on Friday, November 8, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/jeff-dunham-artificial-intelligence]]></description>
+            <link>https://www.playhousesquare.org/events/detail/jeff-dunham-artificial-intelligence</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/jeff-dunham-artificial-intelligence</guid>
+            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kevin Hart: Acting My Age at Playhouse Square]]></title>
@@ -2114,6 +2128,13 @@
             <pubDate>Tue, 24 Sep 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Slomosa at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Slomosa at Mahall’s on Wednesday, September 25, 2024, 11:30 PM: https://link.dice.fm/o532c80603e6?dice_id=o532c80603e6]]></description>
+            <link>https://link.dice.fm/o532c80603e6?dice_id=o532c80603e6</link>
+            <guid isPermaLink="true">https://link.dice.fm/o532c80603e6?dice_id=o532c80603e6</guid>
+            <pubDate>Wed, 25 Sep 2024 23:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jukebox Breakdown aka Emo Night CLE at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Jukebox Breakdown aka Emo Night CLE at Mahall’s on Saturday, September 28, 2024, 02:00 AM: https://link.dice.fm/n172d979194b?dice_id=n172d979194b]]></description>
             <link>https://link.dice.fm/n172d979194b?dice_id=n172d979194b</link>
@@ -2177,17 +2198,17 @@
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lady Lamb at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
-            <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
-            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
             <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
             <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
+            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lady Lamb at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
+            <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
             <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2254,6 +2275,13 @@
             <pubDate>Fri, 25 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Atlus  at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Atlus  at Mahall’s on Sunday, October 27, 2024, 11:00 PM: https://link.dice.fm/g96e8dfe30dc?dice_id=g96e8dfe30dc]]></description>
+            <link>https://link.dice.fm/g96e8dfe30dc?dice_id=g96e8dfe30dc</link>
+            <guid isPermaLink="true">https://link.dice.fm/g96e8dfe30dc?dice_id=g96e8dfe30dc</guid>
+            <pubDate>Sun, 27 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sueco - Attempted Lover Tour at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Sueco - Attempted Lover Tour at The Roxy at Mahall’s on Monday, October 28, 2024, 10:30 PM: https://link.dice.fm/K0a3c3986e0a?dice_id=K0a3c3986e0a]]></description>
             <link>https://link.dice.fm/K0a3c3986e0a?dice_id=K0a3c3986e0a</link>
@@ -2273,6 +2301,13 @@
             <link>https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560</link>
             <guid isPermaLink="true">https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560</guid>
             <pubDate>Fri, 01 Nov 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four Year Strong at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Four Year Strong at The Roxy at Mahall’s on Saturday, November 2, 2024, 10:00 PM: https://link.dice.fm/C7d226a0dd08?dice_id=C7d226a0dd08]]></description>
+            <link>https://link.dice.fm/C7d226a0dd08?dice_id=C7d226a0dd08</link>
+            <guid isPermaLink="true">https://link.dice.fm/C7d226a0dd08?dice_id=C7d226a0dd08</guid>
+            <pubDate>Sat, 02 Nov 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ZERO 9:36 at Mahall’s]]></title>
@@ -2422,20 +2457,6 @@
             <pubDate>Tue, 03 Sep 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maserati, Unwed Sailor, Seeress at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Maserati, Unwed Sailor, Seeress at Beachland Tavern on Sunday, July 28, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13428494/maserati-unwed-sailor-seeress]]></description>
-            <link>https://www.beachlandballroom.com/e/13428494/maserati-unwed-sailor-seeress</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13428494/maserati-unwed-sailor-seeress</guid>
-            <pubDate>Sun, 28 Jul 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Save Ferris, Massive Hotdog Recall, Hogan's Last Smash at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Save Ferris, Massive Hotdog Recall, Hogan's Last Smash at Beachland Ballroom on Sunday, July 28, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13671423/save-ferris-massive-hotdog-recall-hogan-s-last-smash]]></description>
-            <link>https://www.beachlandballroom.com/e/13671423/save-ferris-massive-hotdog-recall-hogan-s-last-smash</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13671423/save-ferris-massive-hotdog-recall-hogan-s-last-smash</guid>
-            <pubDate>Sun, 28 Jul 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kommuna Lux at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Kommuna Lux at Beachland Tavern on Tuesday, July 30, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13531494/kommuna-lux]]></description>
             <link>https://www.beachlandballroom.com/e/13531494/kommuna-lux</link>
@@ -2574,6 +2595,13 @@
             <link>https://www.beachlandballroom.com/e/13473924/austin-stambaugh-s-electric-weepers-ohio-civil-power</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13473924/austin-stambaugh-s-electric-weepers-ohio-civil-power</guid>
             <pubDate>Sat, 10 Aug 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beachland Brunch at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Beachland Brunch at Beachland Tavern on Sunday, August 11, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13807663/beachland-brunch]]></description>
+            <link>https://www.beachlandballroom.com/e/13807663/beachland-brunch</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13807663/beachland-brunch</guid>
+            <pubDate>Sun, 11 Aug 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Harmonica Salute to Reese Black Germany at Beachland Ballroom]]></title>
@@ -3227,13 +3255,6 @@
             <pubDate>Tue, 22 Apr 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, July 29, 2024, 08:00 PM: https://grogshop.gs/event-details/13475094/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
-            <link>https://grogshop.gs/event-details/13475094/make-em-laugh-mondays-hosted-by-kevin-ford</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13475094/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
-            <pubDate>Mon, 29 Jul 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mike Polk Jr. & John Skrtic’s Vintage Cleveland Photo Album, John Skrtic at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Mike Polk Jr. & John Skrtic’s Vintage Cleveland Photo Album, John Skrtic at Grog Shop on Tuesday, July 30, 2024, 08:00 PM: https://grogshop.gs/event-details/13691533/mike-polk-jr-john-skrtic-s-vintage-cleveland-photo-album]]></description>
             <link>https://grogshop.gs/event-details/13691533/mike-polk-jr-john-skrtic-s-vintage-cleveland-photo-album</link>
@@ -3262,10 +3283,10 @@
             <pubDate>Fri, 02 Aug 2024 21:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[B Side Summer Patio Series: Lil Jesse at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to B Side Summer Patio Series: Lil Jesse at Grog Shop on Saturday, August 3, 2024, 07:00 PM: https://grogshop.gs/event-details/13561244/b-side-summer-patio-series-lil-jesse]]></description>
-            <link>https://grogshop.gs/event-details/13561244/b-side-summer-patio-series-lil-jesse</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13561244/b-side-summer-patio-series-lil-jesse</guid>
+            <title><![CDATA[B Side Summer Series: Lil Jesse at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to B Side Summer Series: Lil Jesse at Grog Shop on Saturday, August 3, 2024, 07:00 PM: https://grogshop.gs/event-details/13561244/b-side-summer-series-lil-jesse]]></description>
+            <link>https://grogshop.gs/event-details/13561244/b-side-summer-series-lil-jesse</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13561244/b-side-summer-series-lil-jesse</guid>
             <pubDate>Sat, 03 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3304,10 +3325,10 @@
             <pubDate>Wed, 07 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[B Side Summer Patio Series: Ceci Taylor and Girl Cologne, Girl Cologne at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to B Side Summer Patio Series: Ceci Taylor and Girl Cologne, Girl Cologne at Grog Shop on Thursday, August 8, 2024, 07:00 PM: https://grogshop.gs/event-details/13561274/b-side-summer-patio-series-ceci-taylor-and-girl-cologne]]></description>
-            <link>https://grogshop.gs/event-details/13561274/b-side-summer-patio-series-ceci-taylor-and-girl-cologne</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13561274/b-side-summer-patio-series-ceci-taylor-and-girl-cologne</guid>
+            <title><![CDATA[B Side Summer Series: Ceci Taylor and Girl Cologne, Girl Cologne at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to B Side Summer Series: Ceci Taylor and Girl Cologne, Girl Cologne at Grog Shop on Thursday, August 8, 2024, 07:00 PM: https://grogshop.gs/event-details/13561274/b-side-summer-series-ceci-taylor-and-girl-cologne]]></description>
+            <link>https://grogshop.gs/event-details/13561274/b-side-summer-series-ceci-taylor-and-girl-cologne</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13561274/b-side-summer-series-ceci-taylor-and-girl-cologne</guid>
             <pubDate>Thu, 08 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3360,10 +3381,10 @@
             <pubDate>Thu, 15 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[B Side Summer Patio Series: The Vumms at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to B Side Summer Patio Series: The Vumms at Grog Shop on Friday, August 16, 2024, 07:00 PM: https://grogshop.gs/event-details/13561394/b-side-summer-patio-series-the-vumms]]></description>
-            <link>https://grogshop.gs/event-details/13561394/b-side-summer-patio-series-the-vumms</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13561394/b-side-summer-patio-series-the-vumms</guid>
+            <title><![CDATA[B Side Summer Series: The Vumms at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to B Side Summer Series: The Vumms at Grog Shop on Friday, August 16, 2024, 07:00 PM: https://grogshop.gs/event-details/13561394/b-side-summer-series-the-vumms]]></description>
+            <link>https://grogshop.gs/event-details/13561394/b-side-summer-series-the-vumms</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13561394/b-side-summer-series-the-vumms</guid>
             <pubDate>Fri, 16 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3374,10 +3395,10 @@
             <pubDate>Fri, 16 Aug 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[B Side Summer Patio Series: Melted Strawberry at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to B Side Summer Patio Series: Melted Strawberry at Grog Shop on Saturday, August 17, 2024, 07:00 PM: https://grogshop.gs/event-details/13561414/b-side-summer-patio-series-melted-strawberry]]></description>
-            <link>https://grogshop.gs/event-details/13561414/b-side-summer-patio-series-melted-strawberry</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13561414/b-side-summer-patio-series-melted-strawberry</guid>
+            <title><![CDATA[B Side Summer Series: Melted Strawberry at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to B Side Summer Series: Melted Strawberry at Grog Shop on Saturday, August 17, 2024, 07:00 PM: https://grogshop.gs/event-details/13561414/b-side-summer-series-melted-strawberry]]></description>
+            <link>https://grogshop.gs/event-details/13561414/b-side-summer-series-melted-strawberry</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13561414/b-side-summer-series-melted-strawberry</guid>
             <pubDate>Sat, 17 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3458,17 +3479,17 @@
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
-            <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
-            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
             <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
+            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
+            <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
             <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3479,8 +3500,8 @@
             <pubDate>Fri, 30 Aug 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Flourish, Mitchel Madek, Debs, Jet Star, Don Kenobi, EJ Sparks, Murr, Rellick at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Flourish, Mitchel Madek, Debs, Jet Star, Don Kenobi, EJ Sparks, Murr, Rellick at Grog Shop on Saturday, August 31, 2024, 01:00 PM: https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock]]></description>
+            <title><![CDATA[Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Mitchel Madek, Debs, Jet Star, Don Kenobi, EJ Sparks, Murr, Rellick at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Mitchel Madek, Debs, Jet Star, Don Kenobi, EJ Sparks, Murr, Rellick at Grog Shop on Saturday, August 31, 2024, 01:00 PM: https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock]]></description>
             <link>https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock</guid>
             <pubDate>Sat, 31 Aug 2024 13:00:00 GMT</pubDate>
@@ -3682,6 +3703,13 @@
             <pubDate>Mon, 07 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Polish Ambassador at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Polish Ambassador at Grog Shop on Wednesday, October 9, 2024, 08:00 PM: https://grogshop.gs/event-details/13790453/the-polish-ambassador]]></description>
+            <link>https://grogshop.gs/event-details/13790453/the-polish-ambassador</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13790453/the-polish-ambassador</guid>
+            <pubDate>Wed, 09 Oct 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[6arelyhuman: The Sassy Scene Tour at Grog Shop]]></title>
             <description><![CDATA[Get tickets to 6arelyhuman: The Sassy Scene Tour at Grog Shop on Sunday, October 13, 2024, 08:00 PM: https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour]]></description>
             <link>https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour</link>
@@ -3792,13 +3820,6 @@
             <link>https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral</guid>
             <pubDate>Fri, 13 Dec 2024 21:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SAMMY HAGAR The Best of All Worlds Tour with special guest Loverboy at Blossom]]></title>
-            <description><![CDATA[Get tickets to SAMMY HAGAR The Best of All Worlds Tour with special guest Loverboy at Blossom on Monday, July 29, 2024, 07:00 PM: https://concerts.livenation.com/sammy-hagar-the-best-of-all-cuyahoga-falls-ohio-07-29-2024/event/05005F68FA146649]]></description>
-            <link>https://concerts.livenation.com/sammy-hagar-the-best-of-all-cuyahoga-falls-ohio-07-29-2024/event/05005F68FA146649</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/sammy-hagar-the-best-of-all-cuyahoga-falls-ohio-07-29-2024/event/05005F68FA146649</guid>
-            <pubDate>Mon, 29 Jul 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PRIMUS and COHEED AND CAMBRIA at Blossom]]></title>

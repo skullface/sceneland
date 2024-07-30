@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13475094/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-07-29T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Mike Polk Jr. & John Skrtic\u2019s Vintage Cleveland Photo Album",
       "John Skrtic"
     ],
@@ -43,9 +35,9 @@
   },
   {
     "artist": [
-      "B Side Summer Patio Series: Lil Jesse"
+      "B Side Summer Series: Lil Jesse"
     ],
-    "link": "https://grogshop.gs/event-details/13561244/b-side-summer-patio-series-lil-jesse",
+    "link": "https://grogshop.gs/event-details/13561244/b-side-summer-series-lil-jesse",
     "date": "2024-08-03T19:00:00",
     "venue": "Grog Shop"
   },
@@ -96,10 +88,10 @@
   },
   {
     "artist": [
-      "B Side Summer Patio Series: Ceci Taylor and Girl Cologne",
+      "B Side Summer Series: Ceci Taylor and Girl Cologne",
       "Girl Cologne"
     ],
-    "link": "https://grogshop.gs/event-details/13561274/b-side-summer-patio-series-ceci-taylor-and-girl-cologne",
+    "link": "https://grogshop.gs/event-details/13561274/b-side-summer-series-ceci-taylor-and-girl-cologne",
     "date": "2024-08-08T19:00:00",
     "venue": "Grog Shop"
   },
@@ -174,9 +166,9 @@
   },
   {
     "artist": [
-      "B Side Summer Patio Series: The Vumms"
+      "B Side Summer Series: The Vumms"
     ],
-    "link": "https://grogshop.gs/event-details/13561394/b-side-summer-patio-series-the-vumms",
+    "link": "https://grogshop.gs/event-details/13561394/b-side-summer-series-the-vumms",
     "date": "2024-08-16T19:00:00",
     "venue": "Grog Shop"
   },
@@ -192,9 +184,9 @@
   },
   {
     "artist": [
-      "B Side Summer Patio Series: Melted Strawberry"
+      "B Side Summer Series: Melted Strawberry"
     ],
-    "link": "https://grogshop.gs/event-details/13561414/b-side-summer-patio-series-melted-strawberry",
+    "link": "https://grogshop.gs/event-details/13561414/b-side-summer-series-melted-strawberry",
     "date": "2024-08-17T19:00:00",
     "venue": "Grog Shop"
   },
@@ -300,17 +292,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -341,7 +333,6 @@
       "Dotia",
       "The Magnavox's",
       "Fungits",
-      "Flourish",
       "Mitchel Madek",
       "Debs",
       "Jet Star",
@@ -452,6 +443,7 @@
       "Joey Valence & Brae"
     ],
     "link": "https://grogshop.gs/event-details/13530894/joey-valence-brae",
+    "sold_out": true,
     "date": "2024-09-14T20:30:00",
     "venue": "Grog Shop"
   },
@@ -593,6 +585,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13756003/blu-detiger-all-i-ever-want-is-tour",
     "date": "2024-10-07T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Polish Ambassador"
+    ],
+    "link": "https://grogshop.gs/event-details/13790453/the-polish-ambassador",
+    "date": "2024-10-09T20:00:00",
     "venue": "Grog Shop"
   },
   {

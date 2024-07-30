@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "Maserati",
-      "Unwed Sailor",
-      "Seeress"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13428494/maserati-unwed-sailor-seeress",
-    "date": "2024-07-28T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Save Ferris",
-      "Massive Hotdog Recall",
-      "Hogan's Last Smash"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13671423/save-ferris-massive-hotdog-recall-hogan-s-last-smash",
-    "date": "2024-07-28T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Kommuna Lux"
     ],
     "link": "https://www.beachlandballroom.com/e/13531494/kommuna-lux",
@@ -205,6 +185,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13473924/austin-stambaugh-s-electric-weepers-ohio-civil-power",
     "date": "2024-08-10T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13807663/beachland-brunch",
+    "date": "2024-08-11T11:00:00",
     "venue": "Beachland Tavern"
   },
   {

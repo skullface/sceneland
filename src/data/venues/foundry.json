@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/",
-    "date": "2024-07-29T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "ODDITIES BINGO"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/oddities-bingo/",
@@ -189,6 +181,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/gorgatron-misfire-apothic/",
     "date": "2024-09-19T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Julien-K, Tomorrows Ghosts"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/",
+    "date": "2024-09-20T19:00:00",
     "venue": "Foundry"
   },
   {

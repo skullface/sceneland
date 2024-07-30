@@ -456,12 +456,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-11/',
-    date: '2024-07-29T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['ODDITIES BINGO'],
     link: 'https://www.foundryconcertclub.com/tm-event/oddities-bingo/',
     date: '2024-07-30T19:00:00',
@@ -605,6 +599,12 @@ export const allShows = [
     artist: ['Gorgatron, Misfire, Apothic'],
     link: 'https://www.foundryconcertclub.com/tm-event/gorgatron-misfire-apothic/',
     date: '2024-09-19T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Julien-K, Tomorrows Ghosts'],
+    link: 'https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/',
+    date: '2024-09-20T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1261,6 +1261,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Festival of Laughs'],
+    link: 'https://www.playhousesquare.org/events/detail/festival-of-laughs-3',
+    date: '2024-09-28',
+    venue: 'Playhouse Square',
+  },
+  {
     artist: ['Nurse John'],
     link: 'https://www.playhousesquare.org/events/detail/nurse-john',
     date: '2024-10-11',
@@ -1276,6 +1282,12 @@ export const allShows = [
     artist: ['Jo Koy: Just Being Koy Tour'],
     link: 'https://www.playhousesquare.org/events/detail/jo-koy-just-being-koy-tour',
     date: '2024-11-03',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ['Jeff Dunham Artificial Intelligence'],
+    link: 'https://www.playhousesquare.org/events/detail/jeff-dunham-artificial-intelligence',
+    date: '2024-11-08',
     venue: 'Playhouse Square',
   },
   {
@@ -1847,6 +1859,12 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['Slomosa'],
+    link: 'https://link.dice.fm/o532c80603e6?dice_id=o532c80603e6',
+    date: '2024-09-25T19:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Jukebox Breakdown aka Emo Night CLE'],
     link: 'https://link.dice.fm/n172d979194b?dice_id=n172d979194b',
     date: '2024-09-27T22:00:00-04:00',
@@ -1901,16 +1919,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Lady Lamb'],
-    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
-    date: '2024-10-12T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Balance & Composure'],
     link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Lady Lamb'],
+    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['JW Francis x Jaguar Sun'],
@@ -1967,6 +1985,12 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['Atlus '],
+    link: 'https://link.dice.fm/g96e8dfe30dc?dice_id=g96e8dfe30dc',
+    date: '2024-10-27T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Sueco - Attempted Lover Tour'],
     link: 'https://link.dice.fm/K0a3c3986e0a?dice_id=K0a3c3986e0a',
     date: '2024-10-28T18:30:00-04:00',
@@ -1982,6 +2006,12 @@ export const allShows = [
     artist: ['FEVER 333'],
     link: 'https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560',
     date: '2024-11-01T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Four Year Strong'],
+    link: 'https://link.dice.fm/C7d226a0dd08?dice_id=C7d226a0dd08',
+    date: '2024-11-02T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
@@ -2111,18 +2141,6 @@ export const allShows = [
     link: '/events/detail?event_id=525985',
     date: '2024-09-03T18:30:00',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Maserati', 'Unwed Sailor', 'Seeress'],
-    link: 'https://www.beachlandballroom.com/e/13428494/maserati-unwed-sailor-seeress',
-    date: '2024-07-28T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Save Ferris', 'Massive Hotdog Recall', "Hogan's Last Smash"],
-    link: 'https://www.beachlandballroom.com/e/13671423/save-ferris-massive-hotdog-recall-hogan-s-last-smash',
-    date: '2024-07-28T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Kommuna Lux'],
@@ -2257,6 +2275,12 @@ export const allShows = [
     artist: ["Austin Stambaugh's Electric Weepers", 'Ohio Civil Power'],
     link: 'https://www.beachlandballroom.com/e/13473924/austin-stambaugh-s-electric-weepers-ohio-civil-power',
     date: '2024-08-10T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Beachland Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13807663/beachland-brunch',
+    date: '2024-08-11T11:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -2857,12 +2881,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
-    link: 'https://grogshop.gs/event-details/13475094/make-em-laugh-mondays-hosted-by-kevin-ford',
-    date: '2024-07-29T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Mike Polk Jr. & John Skrtic\u2019s Vintage Cleveland Photo Album',
       'John Skrtic',
@@ -2890,8 +2908,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['B Side Summer Patio Series: Lil Jesse'],
-    link: 'https://grogshop.gs/event-details/13561244/b-side-summer-patio-series-lil-jesse',
+    artist: ['B Side Summer Series: Lil Jesse'],
+    link: 'https://grogshop.gs/event-details/13561244/b-side-summer-series-lil-jesse',
     date: '2024-08-03T19:00:00',
     venue: 'Grog Shop',
   },
@@ -2927,10 +2945,10 @@ export const allShows = [
   },
   {
     artist: [
-      'B Side Summer Patio Series: Ceci Taylor and Girl Cologne',
+      'B Side Summer Series: Ceci Taylor and Girl Cologne',
       'Girl Cologne',
     ],
-    link: 'https://grogshop.gs/event-details/13561274/b-side-summer-patio-series-ceci-taylor-and-girl-cologne',
+    link: 'https://grogshop.gs/event-details/13561274/b-side-summer-series-ceci-taylor-and-girl-cologne',
     date: '2024-08-08T19:00:00',
     venue: 'Grog Shop',
   },
@@ -2995,8 +3013,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['B Side Summer Patio Series: The Vumms'],
-    link: 'https://grogshop.gs/event-details/13561394/b-side-summer-patio-series-the-vumms',
+    artist: ['B Side Summer Series: The Vumms'],
+    link: 'https://grogshop.gs/event-details/13561394/b-side-summer-series-the-vumms',
     date: '2024-08-16T19:00:00',
     venue: 'Grog Shop',
   },
@@ -3007,8 +3025,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['B Side Summer Patio Series: Melted Strawberry'],
-    link: 'https://grogshop.gs/event-details/13561414/b-side-summer-patio-series-melted-strawberry',
+    artist: ['B Side Summer Series: Melted Strawberry'],
+    link: 'https://grogshop.gs/event-details/13561414/b-side-summer-series-melted-strawberry',
     date: '2024-08-17T19:00:00',
     venue: 'Grog Shop',
   },
@@ -3091,14 +3109,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -3126,7 +3144,6 @@ export const allShows = [
       'Dotia',
       "The Magnavox's",
       'Fungits',
-      'Flourish',
       'Mitchel Madek',
       'Debs',
       'Jet Star',
@@ -3221,6 +3238,7 @@ export const allShows = [
   {
     artist: ['Joey Valence & Brae'],
     link: 'https://grogshop.gs/event-details/13530894/joey-valence-brae',
+    sold_out: true,
     date: '2024-09-14T20:30:00',
     venue: 'Grog Shop',
   },
@@ -3326,6 +3344,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['The Polish Ambassador'],
+    link: 'https://grogshop.gs/event-details/13790453/the-polish-ambassador',
+    date: '2024-10-09T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['6arelyhuman: The Sassy Scene Tour'],
     link: 'https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour',
     date: '2024-10-13T20:00:00',
@@ -3426,14 +3450,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral',
     date: '2024-12-13T21:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'SAMMY HAGAR The Best of All Worlds Tour with special guest Loverboy',
-    ],
-    link: 'https://concerts.livenation.com/sammy-hagar-the-best-of-all-cuyahoga-falls-ohio-07-29-2024/event/05005F68FA146649',
-    date: '2024-07-29T19:00:00',
-    venue: 'Blossom',
   },
   {
     artist: ['PRIMUS and COHEED AND CAMBRIA'],

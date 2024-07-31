@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Mike Polk Jr. & John Skrtic\u2019s Vintage Cleveland Photo Album",
-      "John Skrtic"
-    ],
-    "link": "https://grogshop.gs/event-details/13691533/mike-polk-jr-john-skrtic-s-vintage-cleveland-photo-album",
-    "date": "2024-07-30T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Another Dead Rockstar, Bessemer Saints, Myth & Company"
     ],
     "link": "https://grogshop.gs/event-details/13550894/another-dead-rockstar-bessemer-saints-myth-company",
@@ -292,17 +283,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -550,6 +541,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13564974/john-early-the-album-tour",
     "date": "2024-10-02T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Saosin"
+    ],
+    "link": "https://grogshop.gs/event-details/13808513/saosin",
+    "date": "2024-10-03T20:00:00",
     "venue": "Grog Shop"
   },
   {

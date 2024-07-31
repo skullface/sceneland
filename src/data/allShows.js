@@ -96,12 +96,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Lucky Daye, Fana Hues'],
-    link: 'https://www.agoracleveland.com/events/detail/551687',
-    date: '2024-07-30T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Comedy Bang! Bang!'],
     link: 'https://www.agoracleveland.com/events/detail/541544',
     date: '2024-08-01T18:00:00',
@@ -242,6 +236,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Skillet, Tim Montana, Royale Lynn'],
+    link: 'https://www.agoracleveland.com/events/detail/639419',
+    date: '2024-09-26T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['SOFI TUKKER'],
     link: 'https://www.agoracleveland.com/events/detail/558994',
     date: '2024-09-30T18:00:00',
@@ -360,6 +360,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['TVBOO'],
+    link: 'https://www.agoracleveland.com/events/detail/644361',
+    date: '2024-10-31T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['GWAR, Dark Funeral, Squid Pisser'],
     link: 'https://www.agoracleveland.com/events/detail/596178',
     date: '2024-11-01T18:00:00',
@@ -375,6 +381,12 @@ export const allShows = [
     artist: ['Craig Ferguson'],
     link: 'https://www.agoracleveland.com/events/detail/579465',
     date: '2024-11-03T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['King Diamond, Overkill, Night Demon'],
+    link: 'https://www.agoracleveland.com/events/detail/633703',
+    date: '2024-11-06T18:00:00',
     venue: 'Agora',
   },
   {
@@ -456,12 +468,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['ODDITIES BINGO'],
-    link: 'https://www.foundryconcertclub.com/tm-event/oddities-bingo/',
-    date: '2024-07-30T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Brotality, Iron Bison, Voices Of The Damned, AMASSA'],
     link: 'https://www.foundryconcertclub.com/tm-event/brotality-iron-bison-voices-of-the-damned/',
     date: '2024-08-01T19:00:00',
@@ -522,6 +528,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday/',
+    date: '2024-08-12T17:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Folk Around and Find Out'],
     link: 'https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out-3/',
     date: '2024-08-15T19:00:00',
@@ -560,7 +572,7 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Conquer Divide, Enmy'],
+    artist: ['Conquer Divide, Enmy, Heartsick'],
     link: 'https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/',
     date: '2024-08-25T19:00:00',
     venue: 'Foundry',
@@ -633,14 +645,6 @@ export const allShows = [
   },
   {
     artist: [
-      'Unhealthy While Unhinged, Perspectives, Like Tyrants, New Saviors, Gates of Sheol',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/unhealthy-while-unhinged-perspectives-like-tyrants-new-saviors-gates-of-sheol/',
-    date: '2024-10-10T19:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: [
       'The Static Wake, Dread Engine, Titans In Time, If I Fall Asleep, Constellations',
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/the-static-wake-dread-engine-titans-in-time-if-i-fall-asleep-constellations/',
@@ -682,12 +686,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Bowling for Soup'],
-    link: 'https://concerts.livenation.com/bowling-for-soup-cleveland-ohio-07-30-2024/event/05006039C7D94F65',
-    date: '2024-07-30T18:30:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Ski Mask The Slump God: 11th Dimension Tour'],
@@ -971,6 +969,12 @@ export const allShows = [
     artist: ['Streetlight Manifesto'],
     link: 'https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B',
     date: '2024-11-01T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Livingston: A Hometown Odyssey Tour: Part 2'],
+    link: 'https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71',
+    date: '2024-11-06T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1889,6 +1893,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Hotline TNT'],
+    link: 'https://link.dice.fm/lca38b989f21?dice_id=lca38b989f21',
+    date: '2024-10-06T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['The Red Pears'],
     link: 'https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f',
     date: '2024-10-07T19:00:00-04:00',
@@ -2141,12 +2151,6 @@ export const allShows = [
     link: '/events/detail?event_id=525985',
     date: '2024-09-03T18:30:00',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Kommuna Lux'],
-    link: 'https://www.beachlandballroom.com/e/13531494/kommuna-lux',
-    date: '2024-07-30T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Briscoe', 'Wells Ferrari'],
@@ -2538,6 +2542,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Birthday Girl', 'High.'],
+    link: 'https://www.beachlandballroom.com/e/13811333/birthday-girl-high-',
+    date: '2024-09-09T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Dogpark'],
     link: 'https://www.beachlandballroom.com/e/13702943/dogpark',
     date: '2024-09-10T20:00:00',
@@ -2790,10 +2800,25 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: [
+      'The Joe Marcinek Band (2 Sets)',
+      'Steve Horvath and Phriends (Late Nate Set)',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-nate-set-',
+    date: '2024-10-19T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Osees', 'Iguana Death Cult'],
     link: 'https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult',
     sold_out: true,
     date: '2024-10-20T20:30:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Jessica Lea Mayfield', 'Good Morning Valentine'],
+    link: 'https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-good-morning-valentine',
+    date: '2024-10-24T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -2879,15 +2904,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: [
-      'Mike Polk Jr. & John Skrtic\u2019s Vintage Cleveland Photo Album',
-      'John Skrtic',
-    ],
-    link: 'https://grogshop.gs/event-details/13691533/mike-polk-jr-john-skrtic-s-vintage-cleveland-photo-album',
-    date: '2024-07-30T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Another Dead Rockstar, Bessemer Saints, Myth & Company'],
@@ -3109,14 +3125,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -3317,6 +3333,12 @@ export const allShows = [
     artist: ['John Early: The Album Tour'],
     link: 'https://grogshop.gs/event-details/13564974/john-early-the-album-tour',
     date: '2024-10-02T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Saosin'],
+    link: 'https://grogshop.gs/event-details/13808513/saosin',
+    date: '2024-10-03T20:00:00',
     venue: 'Grog Shop',
   },
   {

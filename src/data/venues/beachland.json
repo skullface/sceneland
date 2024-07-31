@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kommuna Lux"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13531494/kommuna-lux",
-    "date": "2024-07-30T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Briscoe",
       "Wells Ferrari"
     ],
@@ -540,6 +532,15 @@
   },
   {
     "artist": [
+      "Birthday Girl",
+      "High."
+    ],
+    "link": "https://www.beachlandballroom.com/e/13811333/birthday-girl-high-",
+    "date": "2024-09-09T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Dogpark"
     ],
     "link": "https://www.beachlandballroom.com/e/13702943/dogpark",
@@ -889,12 +890,30 @@
   },
   {
     "artist": [
+      "The Joe Marcinek Band (2 Sets)",
+      "Steve Horvath and Phriends (Late Nate Set)"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-nate-set-",
+    "date": "2024-10-19T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Osees",
       "Iguana Death Cult"
     ],
     "link": "https://www.beachlandballroom.com/e/13787568/osees-iguana-death-cult",
     "sold_out": true,
     "date": "2024-10-20T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jessica Lea Mayfield",
+      "Good Morning Valentine"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-good-morning-valentine",
+    "date": "2024-10-24T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

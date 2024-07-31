@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ODDITIES BINGO"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/oddities-bingo/",
-    "date": "2024-07-30T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Brotality, Iron Bison, Voices Of The Damned, AMASSA"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/brotality-iron-bison-voices-of-the-damned/",
@@ -81,6 +73,14 @@
   },
   {
     "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday/",
+    "date": "2024-08-12T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Folk Around and Find Out"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out-3/",
@@ -129,7 +129,7 @@
   },
   {
     "artist": [
-      "Conquer Divide, Enmy"
+      "Conquer Divide, Enmy, Heartsick"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/",
     "date": "2024-08-25T19:00:00",
@@ -221,14 +221,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/jj-wilde/",
     "date": "2024-10-05T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Unhealthy While Unhinged, Perspectives, Like Tyrants, New Saviors, Gates of Sheol"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/unhealthy-while-unhinged-perspectives-like-tyrants-new-saviors-gates-of-sheol/",
-    "date": "2024-10-10T19:00:00",
     "venue": "Foundry"
   },
   {

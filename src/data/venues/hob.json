@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bowling for Soup"
-    ],
-    "link": "https://concerts.livenation.com/bowling-for-soup-cleveland-ohio-07-30-2024/event/05006039C7D94F65",
-    "date": "2024-07-30T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Ski Mask The Slump God: 11th Dimension Tour"
     ],
     "link": "https://concerts.livenation.com/ski-mask-the-slump-god-11th-cleveland-ohio-07-31-2024/event/050060BEE7DC79C4",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B",
     "date": "2024-11-01T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Livingston: A Hometown Odyssey Tour: Part 2"
+    ],
+    "link": "https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71",
+    "date": "2024-11-06T19:00:00",
     "venue": "House of Blues"
   }
 ]

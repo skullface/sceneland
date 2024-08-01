@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 31 Jul 2024 09:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 09:05:14 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[N69 FEST at No Class]]></title>
@@ -791,13 +791,6 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ski Mask The Slump God: 11th Dimension Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Ski Mask The Slump God: 11th Dimension Tour at House of Blues on Wednesday, July 31, 2024, 07:00 PM: https://concerts.livenation.com/ski-mask-the-slump-god-11th-cleveland-ohio-07-31-2024/event/050060BEE7DC79C4]]></description>
-            <link>https://concerts.livenation.com/ski-mask-the-slump-god-11th-cleveland-ohio-07-31-2024/event/050060BEE7DC79C4</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/ski-mask-the-slump-god-11th-cleveland-ohio-07-31-2024/event/050060BEE7DC79C4</guid>
-            <pubDate>Wed, 31 Jul 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[4th Rope Presents: Heels Have Eyes 2 (18+ Event) at House of Blues]]></title>
             <description><![CDATA[Get tickets to 4th Rope Presents: Heels Have Eyes 2 (18+ Event) at House of Blues on Friday, August 2, 2024, 07:00 PM: https://concerts.livenation.com/4th-rope-presents-heels-have-eyes-cleveland-ohio-08-02-2024/event/050060C4EDBF60E9]]></description>
             <link>https://concerts.livenation.com/4th-rope-presents-heels-have-eyes-cleveland-ohio-08-02-2024/event/050060C4EDBF60E9</link>
@@ -1125,6 +1118,13 @@
             <link>https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71</link>
             <guid isPermaLink="true">https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71</guid>
             <pubDate>Wed, 06 Nov 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyfe Jennings at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Lyfe Jennings at House of Blues on Saturday, November 9, 2024, 07:00 PM: https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8]]></description>
+            <link>https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8</guid>
+            <pubDate>Sat, 09 Nov 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gideon at Masonic Temple]]></title>
@@ -1848,13 +1848,6 @@
             <pubDate>Sun, 17 Mar 2024 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Grayscale at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Grayscale at Mahall’s on Wednesday, July 31, 2024, 11:00 PM: https://link.dice.fm/h8c6a71babc9?dice_id=h8c6a71babc9]]></description>
-            <link>https://link.dice.fm/h8c6a71babc9?dice_id=h8c6a71babc9</link>
-            <guid isPermaLink="true">https://link.dice.fm/h8c6a71babc9?dice_id=h8c6a71babc9</guid>
-            <pubDate>Wed, 31 Jul 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wrestling Night Club ft Guest DJ: Mark Henry at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Wrestling Night Club ft Guest DJ: Mark Henry at The Roxy at Mahall’s on Thursday, August 1, 2024, 11:00 PM: https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e]]></description>
             <link>https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e</link>
@@ -2142,6 +2135,13 @@
             <pubDate>Wed, 25 Sep 2024 23:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Berry Box at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Berry Box at Mahall’s on Friday, September 27, 2024, 10:30 PM: https://link.dice.fm/k5385a01fbab?dice_id=k5385a01fbab]]></description>
+            <link>https://link.dice.fm/k5385a01fbab?dice_id=k5385a01fbab</link>
+            <guid isPermaLink="true">https://link.dice.fm/k5385a01fbab?dice_id=k5385a01fbab</guid>
+            <pubDate>Fri, 27 Sep 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jukebox Breakdown aka Emo Night CLE at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Jukebox Breakdown aka Emo Night CLE at Mahall’s on Saturday, September 28, 2024, 02:00 AM: https://link.dice.fm/n172d979194b?dice_id=n172d979194b]]></description>
             <link>https://link.dice.fm/n172d979194b?dice_id=n172d979194b</link>
@@ -2177,17 +2177,17 @@
             <pubDate>Sun, 06 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Red Pears at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Red Pears at Mahall’s on Monday, October 7, 2024, 11:00 PM: https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f]]></description>
-            <link>https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</link>
-            <guid isPermaLink="true">https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</guid>
-            <pubDate>Mon, 07 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Duster at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Duster at The Roxy at Mahall’s on Monday, October 7, 2024, 11:00 PM: https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1]]></description>
             <link>https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1</link>
             <guid isPermaLink="true">https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1</guid>
+            <pubDate>Mon, 07 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Red Pears at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to The Red Pears at Mahall’s on Monday, October 7, 2024, 11:00 PM: https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f]]></description>
+            <link>https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</link>
+            <guid isPermaLink="true">https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</guid>
             <pubDate>Mon, 07 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2212,17 +2212,24 @@
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
-            <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
-            <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
-            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+            <title><![CDATA[Many Eyes at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
+            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
+            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
+            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lady Lamb at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
             <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
             <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
+            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
+            <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
+            <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
             <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2273,6 +2280,13 @@
             <link>https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135</link>
             <guid isPermaLink="true">https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135</guid>
             <pubDate>Wed, 23 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Undeath at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Undeath at Mahall’s on Thursday, October 24, 2024, 11:00 PM: https://link.dice.fm/iaec9cb6a6c5?dice_id=iaec9cb6a6c5]]></description>
+            <link>https://link.dice.fm/iaec9cb6a6c5?dice_id=iaec9cb6a6c5</link>
+            <guid isPermaLink="true">https://link.dice.fm/iaec9cb6a6c5?dice_id=iaec9cb6a6c5</guid>
+            <pubDate>Thu, 24 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quarters of Change at Mahall’s]]></title>
@@ -2469,13 +2483,6 @@
             <link>/events/detail?event_id=525985</link>
             <guid isPermaLink="true">/events/detail?event_id=525985</guid>
             <pubDate>Tue, 03 Sep 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Briscoe, Wells Ferrari at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Briscoe, Wells Ferrari at Beachland Tavern on Wednesday, July 31, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13524794/briscoe-wells-ferrari]]></description>
-            <link>https://www.beachlandballroom.com/e/13524794/briscoe-wells-ferrari</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13524794/briscoe-wells-ferrari</guid>
-            <pubDate>Wed, 31 Jul 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Electric Blue Yonder, Banshee Tree, Orange Animal at Beachland Tavern]]></title>
@@ -2765,10 +2772,10 @@
             <pubDate>Sun, 25 Aug 2024 13:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aggie Miller at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Aggie Miller at Beachland Tavern on Monday, August 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13796593/aggie-miller]]></description>
-            <link>https://www.beachlandballroom.com/e/13796593/aggie-miller</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13796593/aggie-miller</guid>
+            <title><![CDATA[Aggie Miller, Surgeon General, Clare Feorene at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Aggie Miller, Surgeon General, Clare Feorene at Beachland Tavern on Monday, August 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene]]></description>
+            <link>https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene</guid>
             <pubDate>Mon, 26 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3031,6 +3038,13 @@
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mike Viola at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Mike Viola at Beachland Tavern on Wednesday, October 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13392184/mike-viola]]></description>
+            <link>https://www.beachlandballroom.com/e/13392184/mike-viola</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13392184/mike-viola</guid>
+            <pubDate>Wed, 02 Oct 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Son Little at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Son Little at Beachland Ballroom on Wednesday, October 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13747223/son-little]]></description>
             <link>https://www.beachlandballroom.com/e/13747223/son-little</link>
@@ -3164,10 +3178,10 @@
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Joe Marcinek Band (2 Sets), Steve Horvath and Phriends (Late Nate Set) at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to The Joe Marcinek Band (2 Sets), Steve Horvath and Phriends (Late Nate Set) at Beachland Ballroom on Saturday, October 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-nate-set-]]></description>
-            <link>https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-nate-set-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-nate-set-</guid>
+            <title><![CDATA[The Joe Marcinek Band (2 Sets), Steve Horvath and Phriends (Late Night Set) at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to The Joe Marcinek Band (2 Sets), Steve Horvath and Phriends (Late Night Set) at Beachland Ballroom on Saturday, October 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-night-set-]]></description>
+            <link>https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-night-set-</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-night-set-</guid>
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3178,10 +3192,10 @@
             <pubDate>Sun, 20 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jessica Lea Mayfield, Good Morning Valentine at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Jessica Lea Mayfield, Good Morning Valentine at Beachland Ballroom on Thursday, October 24, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-good-morning-valentine]]></description>
-            <link>https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-good-morning-valentine</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-good-morning-valentine</guid>
+            <title><![CDATA[Jessica Lea Mayfield, Goodmorning Valentine at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Jessica Lea Mayfield, Goodmorning Valentine at Beachland Ballroom on Thursday, October 24, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-goodmorning-valentine]]></description>
+            <link>https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-goodmorning-valentine</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-goodmorning-valentine</guid>
             <pubDate>Thu, 24 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3190,6 +3204,13 @@
             <link>https://www.beachlandballroom.com/e/13780323/the-shootouts-thor-platter</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13780323/the-shootouts-thor-platter</guid>
             <pubDate>Fri, 25 Oct 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MALINDA at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to MALINDA at Beachland Ballroom on Monday, October 28, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13796873/malinda]]></description>
+            <link>https://www.beachlandballroom.com/e/13796873/malinda</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13796873/malinda</guid>
+            <pubDate>Mon, 28 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brother Elsey at Beachland Tavern]]></title>
@@ -3281,13 +3302,6 @@
             <link>https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</guid>
             <pubDate>Tue, 22 Apr 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another Dead Rockstar, Bessemer Saints, Myth & Company at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Another Dead Rockstar, Bessemer Saints, Myth & Company at Grog Shop on Wednesday, July 31, 2024, 07:30 PM: https://grogshop.gs/event-details/13550894/another-dead-rockstar-bessemer-saints-myth-company]]></description>
-            <link>https://grogshop.gs/event-details/13550894/another-dead-rockstar-bessemer-saints-myth-company</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13550894/another-dead-rockstar-bessemer-saints-myth-company</guid>
-            <pubDate>Wed, 31 Jul 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Daisychain, Buffalo Ryders, Honey Pocket at Grog Shop]]></title>
@@ -3423,8 +3437,8 @@
             <pubDate>Sat, 17 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Angie McMahon, Mimi Gilbert at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Angie McMahon, Mimi Gilbert at Grog Shop on Saturday, August 17, 2024, 08:30 PM: https://grogshop.gs/event-details/13465824/angie-mcmahon]]></description>
+            <title><![CDATA[Angie McMahon, Mimi Gilbert, Wish Queen at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Angie McMahon, Mimi Gilbert, Wish Queen at Grog Shop on Saturday, August 17, 2024, 08:30 PM: https://grogshop.gs/event-details/13465824/angie-mcmahon]]></description>
             <link>https://grogshop.gs/event-details/13465824/angie-mcmahon</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13465824/angie-mcmahon</guid>
             <pubDate>Sat, 17 Aug 2024 20:30:00 GMT</pubDate>
@@ -3500,17 +3514,17 @@
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
-            <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
-            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
             <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
+            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
+            <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
             <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3521,15 +3535,15 @@
             <pubDate>Fri, 30 Aug 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Mitchel Madek, Debs, Jet Star, Don Kenobi, EJ Sparks, Murr, Rellick at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Mitchel Madek, Debs, Jet Star, Don Kenobi, EJ Sparks, Murr, Rellick at Grog Shop on Saturday, August 31, 2024, 01:00 PM: https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock]]></description>
+            <title><![CDATA[Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Mitchel Madek, Debs, Jet Star, Don Kenobi, Murr, Rellick, Noshows, The Other Guys, Indigo Aries at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: Night 2: Pop, Emo, Hip Hop, Alternative, Metal, Punk, Psychedelic, Rock, LoConti, Slag Genie, Slug Fest, Rent For Cheryl, Freda and the Mann, Dotia, The Magnavox's, Fungits, Mitchel Madek, Debs, Jet Star, Don Kenobi, Murr, Rellick, Noshows, The Other Guys, Indigo Aries at Grog Shop on Saturday, August 31, 2024, 01:00 PM: https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock]]></description>
             <link>https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock</guid>
             <pubDate>Sat, 31 Aug 2024 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: Night 3: Stalker Jane Screening and Special Performance, Stalker Jane, Flourish at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: Night 3: Stalker Jane Screening and Special Performance, Stalker Jane, Flourish at Grog Shop on Sunday, September 1, 2024, 05:00 PM: https://grogshop.gs/event-details/13672593/groga-palooza-night-3-stalker-jane-screening-and-special-performance]]></description>
+            <title><![CDATA[Groga Palooza: Night 3: Stalker Jane Screening and Special Performance, Stalker Jane, Flourish, Dotia, Noshows at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: Night 3: Stalker Jane Screening and Special Performance, Stalker Jane, Flourish, Dotia, Noshows at Grog Shop on Sunday, September 1, 2024, 05:00 PM: https://grogshop.gs/event-details/13672593/groga-palooza-night-3-stalker-jane-screening-and-special-performance]]></description>
             <link>https://grogshop.gs/event-details/13672593/groga-palooza-night-3-stalker-jane-screening-and-special-performance</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13672593/groga-palooza-night-3-stalker-jane-screening-and-special-performance</guid>
             <pubDate>Sun, 01 Sep 2024 17:00:00 GMT</pubDate>
@@ -3710,8 +3724,8 @@
             <pubDate>Fri, 04 Oct 2024 21:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yard Act at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Yard Act at Grog Shop on Saturday, October 5, 2024, 08:30 PM: https://grogshop.gs/event-details/13487493/yard-act]]></description>
+            <title><![CDATA[Yard Act, Omni at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Yard Act, Omni at Grog Shop on Saturday, October 5, 2024, 08:30 PM: https://grogshop.gs/event-details/13487493/yard-act]]></description>
             <link>https://grogshop.gs/event-details/13487493/yard-act</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13487493/yard-act</guid>
             <pubDate>Sat, 05 Oct 2024 20:30:00 GMT</pubDate>

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Another Dead Rockstar, Bessemer Saints, Myth & Company"
-    ],
-    "link": "https://grogshop.gs/event-details/13550894/another-dead-rockstar-bessemer-saints-myth-company",
-    "date": "2024-07-31T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Daisychain, Buffalo Ryders, Honey Pocket"
     ],
     "link": "https://grogshop.gs/event-details/13513244/daisychain-buffalo-ryders-honey-pocket",
@@ -184,7 +176,8 @@
   {
     "artist": [
       "Angie McMahon",
-      "Mimi Gilbert"
+      "Mimi Gilbert",
+      "Wish Queen"
     ],
     "link": "https://grogshop.gs/event-details/13465824/angie-mcmahon",
     "date": "2024-08-17T20:30:00",
@@ -259,6 +252,7 @@
       "Rich Mattson and the Northstars"
     ],
     "link": "https://grogshop.gs/event-details/13380944/built-to-spill-there-s-nothing-wrong-with-love-30th-anniversary-tour",
+    "sold_out": true,
     "date": "2024-08-28T19:30:00",
     "venue": "Grog Shop"
   },
@@ -283,17 +277,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -328,9 +322,11 @@
       "Debs",
       "Jet Star",
       "Don Kenobi",
-      "EJ Sparks",
       "Murr",
-      "Rellick"
+      "Rellick",
+      "Noshows",
+      "The Other Guys",
+      "Indigo Aries"
     ],
     "link": "https://grogshop.gs/event-details/13672583/groga-palooza-night-2-pop-emo-hip-hop-alternative-metal-punk-psychedelic-rock",
     "date": "2024-08-31T13:00:00",
@@ -340,7 +336,9 @@
     "artist": [
       "Groga Palooza: Night 3: Stalker Jane Screening and Special Performance",
       "Stalker Jane",
-      "Flourish"
+      "Flourish",
+      "Dotia",
+      "Noshows"
     ],
     "link": "https://grogshop.gs/event-details/13672593/groga-palooza-night-3-stalker-jane-screening-and-special-performance",
     "date": "2024-09-01T17:00:00",
@@ -562,7 +560,8 @@
   },
   {
     "artist": [
-      "Yard Act"
+      "Yard Act",
+      "Omni"
     ],
     "link": "https://grogshop.gs/event-details/13487493/yard-act",
     "date": "2024-10-05T20:30:00",

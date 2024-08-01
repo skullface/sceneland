@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Briscoe",
-      "Wells Ferrari"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13524794/briscoe-wells-ferrari",
-    "date": "2024-07-31T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Electric Blue Yonder",
       "Banshee Tree",
       "Orange Animal"
@@ -379,9 +370,11 @@
   },
   {
     "artist": [
-      "Aggie Miller"
+      "Aggie Miller",
+      "Surgeon General",
+      "Clare Feorene"
     ],
-    "link": "https://www.beachlandballroom.com/e/13796593/aggie-miller",
+    "link": "https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene",
     "date": "2024-08-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -720,6 +713,14 @@
   },
   {
     "artist": [
+      "Mike Viola"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13392184/mike-viola",
+    "date": "2024-10-02T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Son Little"
     ],
     "link": "https://www.beachlandballroom.com/e/13747223/son-little",
@@ -891,9 +892,9 @@
   {
     "artist": [
       "The Joe Marcinek Band (2 Sets)",
-      "Steve Horvath and Phriends (Late Nate Set)"
+      "Steve Horvath and Phriends (Late Night Set)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-nate-set-",
+    "link": "https://www.beachlandballroom.com/e/13812023/the-joe-marcinek-band-2-sets-steve-horvath-and-phriends-late-night-set-",
     "date": "2024-10-19T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -910,9 +911,9 @@
   {
     "artist": [
       "Jessica Lea Mayfield",
-      "Good Morning Valentine"
+      "Goodmorning Valentine"
     ],
-    "link": "https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-good-morning-valentine",
+    "link": "https://www.beachlandballroom.com/e/13794483/jessica-lea-mayfield-goodmorning-valentine",
     "date": "2024-10-24T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -924,6 +925,14 @@
     "link": "https://www.beachlandballroom.com/e/13780323/the-shootouts-thor-platter",
     "date": "2024-10-25T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "MALINDA"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13796873/malinda",
+    "date": "2024-10-28T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

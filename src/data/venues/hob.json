@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Ski Mask The Slump God: 11th Dimension Tour"
-    ],
-    "link": "https://concerts.livenation.com/ski-mask-the-slump-god-11th-cleveland-ohio-07-31-2024/event/050060BEE7DC79C4",
-    "date": "2024-07-31T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "4th Rope Presents: Heels Have Eyes 2 (18+ Event)"
     ],
     "link": "https://concerts.livenation.com/4th-rope-presents-heels-have-eyes-cleveland-ohio-08-02-2024/event/050060C4EDBF60E9",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71",
     "date": "2024-11-06T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Lyfe Jennings"
+    ],
+    "link": "https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8",
+    "date": "2024-11-09T19:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -96,12 +96,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Comedy Bang! Bang!'],
-    link: 'https://www.agoracleveland.com/events/detail/541544',
-    date: '2024-08-01T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Damian Priest LIVE'],
     link: 'https://www.agoracleveland.com/events/detail/635145',
     date: '2024-08-02T18:00:00',
@@ -468,12 +462,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Brotality, Iron Bison, Voices Of The Damned, AMASSA'],
-    link: 'https://www.foundryconcertclub.com/tm-event/brotality-iron-bison-voices-of-the-damned/',
-    date: '2024-08-01T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['xEighty-Sixedx'],
     link: 'https://www.foundryconcertclub.com/tm-event/xeighty-sixedx/',
     date: '2024-08-02T07:00:00',
@@ -635,6 +623,14 @@ export const allShows = [
     artist: ['Flake, Lemonbar, Leisure Hour, Moosecreek Park'],
     link: 'https://www.foundryconcertclub.com/tm-event/flake-lemonbar-leisure-hour-moosecreek-park/',
     date: '2024-10-01T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: [
+      'What Lies Below, Two Sides Of Me, A Sense Of Purpose, Unhealthy While Unhinged',
+    ],
+    link: 'https://www.foundryconcertclub.com/tm-event/what-lies-below-two-sides-of-me-a-sense-of-purpose-unhealthy-while-unhinged/',
+    date: '2024-10-04T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1617,18 +1613,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Wrestling Night Club ft Guest DJ: Mark Henry'],
-    link: 'https://link.dice.fm/X887e4beae9e?dice_id=X887e4beae9e',
-    date: '2024-08-01T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['RRRIOT!'],
-    link: 'https://link.dice.fm/jfface7c4ebb?dice_id=jfface7c4ebb',
-    date: '2024-08-01T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Jake Hill'],
     link: 'https://link.dice.fm/Dba5c0fe1126?dice_id=Dba5c0fe1126',
     date: '2024-08-02T18:30:00-04:00',
@@ -1719,16 +1703,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Chris Gethard and Eddie Pepitone'],
-    link: 'https://link.dice.fm/da57149caf06?dice_id=da57149caf06',
-    date: '2024-08-18T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Team Awesome'],
     link: 'https://link.dice.fm/L50ba1d08e1e?dice_id=L50ba1d08e1e',
     date: '2024-08-18T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Chris Gethard and Eddie Pepitone'],
+    link: 'https://link.dice.fm/da57149caf06?dice_id=da57149caf06',
+    date: '2024-08-18T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Laur Elle & Lyncs'],
@@ -1751,7 +1735,7 @@ export const allShows = [
   {
     artist: ['Leanna Firestone'],
     link: 'https://link.dice.fm/Vad48afe7a0a?dice_id=Vad48afe7a0a',
-    date: '2024-08-23T18:00:00-04:00',
+    date: '2024-08-23T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -1899,16 +1883,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Duster'],
-    link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
-    date: '2024-10-07T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['The Red Pears'],
     link: 'https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f',
     date: '2024-10-07T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Duster'],
+    link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
+    date: '2024-10-07T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Stop Light Observations'],
@@ -1923,16 +1907,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
-    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Many Eyes'],
     link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
+    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Lady Lamb'],
@@ -2163,12 +2147,6 @@ export const allShows = [
     link: '/events/detail?event_id=525985',
     date: '2024-09-03T18:30:00',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['Electric Blue Yonder', 'Banshee Tree', 'Orange Animal'],
-    link: 'https://www.beachlandballroom.com/e/13486784/electric-blue-yonder-banshee-tree-orange-animal',
-    date: '2024-08-01T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Lambrini Girls', 'Blossom Park', 'Mutant Militia'],
@@ -2490,8 +2468,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['The Rumours'],
-    link: 'https://www.beachlandballroom.com/e/13391594/the-rumours',
+    artist: [
+      'The Rumours',
+      'Fear of Dancing',
+      'Dave Bone & the Trouble Makers',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13391594/the-rumours-fear-of-dancing-dave-bone-the-trouble-makers',
     date: '2024-09-01T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2922,12 +2904,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Daisychain, Buffalo Ryders, Honey Pocket'],
-    link: 'https://grogshop.gs/event-details/13513244/daisychain-buffalo-ryders-honey-pocket',
-    date: '2024-08-01T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['GlamGore: Seven Deadly Sins', 'Anhedonia Delight'],
@@ -3437,7 +3413,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Daniel Nunnelee: June, Baby Fall Tour'],
+    artist: ['Daniel Nunnelee: June', 'Baby Fall Tour', 'Hana Eid'],
     link: 'https://grogshop.gs/event-details/13550214/daniel-nunnelee-june-baby-fall-tour',
     date: '2024-10-27T20:00:00',
     venue: 'Grog Shop',

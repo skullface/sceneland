@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Electric Blue Yonder",
-      "Banshee Tree",
-      "Orange Animal"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13486784/electric-blue-yonder-banshee-tree-orange-animal",
-    "date": "2024-08-01T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Lambrini Girls",
       "Blossom Park",
       "Mutant Militia"
@@ -449,9 +439,11 @@
   },
   {
     "artist": [
-      "The Rumours"
+      "The Rumours",
+      "Fear of Dancing",
+      "Dave Bone & the Trouble Makers"
     ],
-    "link": "https://www.beachlandballroom.com/e/13391594/the-rumours",
+    "link": "https://www.beachlandballroom.com/e/13391594/the-rumours-fear-of-dancing-dave-bone-the-trouble-makers",
     "date": "2024-09-01T20:00:00",
     "venue": "Beachland Tavern"
   },

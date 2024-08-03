@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Jake Hill"
-    ],
-    "link": "https://link.dice.fm/Dba5c0fe1126?dice_id=Dba5c0fe1126",
-    "date": "2024-08-02T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "MyHeartYourGlove"
-    ],
-    "link": "https://link.dice.fm/W547e1384f99?dice_id=W547e1384f99",
-    "date": "2024-08-02T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Fiddlehead"
     ],
     "link": "https://link.dice.fm/e38e4bbf7374?dice_id=e38e4bbf7374",
@@ -121,19 +105,19 @@
   },
   {
     "artist": [
-      "Team Awesome"
-    ],
-    "link": "https://link.dice.fm/L50ba1d08e1e?dice_id=L50ba1d08e1e",
-    "date": "2024-08-18T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Chris Gethard and Eddie Pepitone"
     ],
     "link": "https://link.dice.fm/da57149caf06?dice_id=da57149caf06",
     "date": "2024-08-18T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Team Awesome"
+    ],
+    "link": "https://link.dice.fm/L50ba1d08e1e?dice_id=L50ba1d08e1e",
+    "date": "2024-08-18T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

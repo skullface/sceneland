@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "4th Rope Presents: Heels Have Eyes 2 (18+ Event)"
-    ],
-    "link": "https://concerts.livenation.com/4th-rope-presents-heels-have-eyes-cleveland-ohio-08-02-2024/event/050060C4EDBF60E9",
-    "date": "2024-08-02T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The American Idiots: A Tribute to Green Day"
     ],
     "link": "https://concerts.livenation.com/the-american-idiots-a-tribute-to-cleveland-ohio-08-03-2024/event/050060D39D804A04",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8",
     "date": "2024-11-09T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Fit for an Autopsy"
+    ],
+    "link": "https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309",
+    "date": "2024-11-15T17:30:00",
     "venue": "House of Blues"
   }
 ]

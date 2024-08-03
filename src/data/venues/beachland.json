@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "Lambrini Girls",
-      "Blossom Park",
-      "Mutant Militia"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13370034/lambrini-girls-blossom-park-mutant-militia",
-    "date": "2024-08-02T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Colby Acuff",
-      "Low Gap"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13662203/colby-acuff-low-gap",
-    "date": "2024-08-02T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Beachland Flea"
     ],
     "link": "https://www.beachlandballroom.com/e/13633933/beachland-flea",
@@ -518,9 +499,10 @@
   {
     "artist": [
       "Birthday Girl",
-      "High."
+      "High.",
+      "cool party"
     ],
-    "link": "https://www.beachlandballroom.com/e/13811333/birthday-girl-high-",
+    "link": "https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party",
     "date": "2024-09-09T20:00:00",
     "venue": "Beachland Tavern"
   },

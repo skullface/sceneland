@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "xEighty-Sixedx"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/xeighty-sixedx/",
-    "date": "2024-08-02T07:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "ignominious, Scab Hag, Self Absorbed, Ovenhead, Excremental Scaphism"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ignominious-scab-hag-self-absorbed-ovenhead-excremental/",
@@ -221,6 +213,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/jj-wilde/",
     "date": "2024-10-05T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Nanowar of Steel, Tragedy: All Metal Tribute to the Bee Gees & Beyond"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nanowar-of-steel-tragedy-all-metal-tribute-to-the-bee-gees-beyond/",
+    "date": "2024-10-08T19:00:00",
     "venue": "Foundry"
   },
   {

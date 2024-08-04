@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The American Idiots: A Tribute to Green Day"
-    ],
-    "link": "https://concerts.livenation.com/the-american-idiots-a-tribute-to-cleveland-ohio-08-03-2024/event/050060D39D804A04",
-    "date": "2024-08-03T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Hans Williams"
     ],
     "link": "https://concerts.livenation.com/hans-williams-cleveland-ohio-08-06-2024/event/050060A8D3B269CA",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309",
     "date": "2024-11-15T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Animals As Leaders: Joy Of Motion X Tour"
+    ],
+    "link": "https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18",
+    "date": "2024-11-20T19:00:00",
     "venue": "House of Blues"
   }
 ]

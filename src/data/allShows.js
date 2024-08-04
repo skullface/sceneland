@@ -1,14 +1,6 @@
 export const allShows = [
   {
     artist: [
-      'ignominious, Scab Hag, Self Absorbed, Ovenhead, Excremental Scaphism',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/ignominious-scab-hag-self-absorbed-ovenhead-excremental/',
-    date: '2024-08-03T19:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: [
       'THE BUNNY THE BEAR, Dizasterpiece, Unhealthy While Unhinged, For Absent Friends, Left Unsaid',
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/the-bunny-the-bear-dizasterpiece/',
@@ -470,15 +462,6 @@ export const allShows = [
   },
   {
     artist: [
-      "Martin Lawrence: Y'all Know What It Is! Tour",
-      'Special Guests Gary Owen, Mojo Brookzz and Benji Brown',
-    ],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/martin-lawrence-240803',
-    date: '2024-08-03',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: [
       'Missy Elliott: OUT OF THIS WORLD: THE EXPERIENCE',
       'Special Guests Ciara, Busta Rhymes & Timbaland',
     ],
@@ -560,18 +543,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122',
     date: '2024-11-22',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['B Side Summer Series: Lil Jesse'],
-    link: 'https://grogshop.gs/event-details/13561244/b-side-summer-series-lil-jesse',
-    date: '2024-08-03T19:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Brent Roach Events Presents: Tiny Stage Series Neo Soul Edition'],
-    link: 'https://grogshop.gs/event-details/13780423/brent-roach-events-presents-tiny-stage-series-neo-soul-edition',
-    date: '2024-08-03T21:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Team Awesome', 'Chris Lugo', 'Scott Hanna'],
@@ -1341,12 +1312,6 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ['The American Idiots: A Tribute to Green Day'],
-    link: 'https://concerts.livenation.com/the-american-idiots-a-tribute-to-cleveland-ohio-08-03-2024/event/050060D39D804A04',
-    date: '2024-08-03T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Hans Williams'],
     link: 'https://concerts.livenation.com/hans-williams-cleveland-ohio-08-06-2024/event/050060A8D3B269CA',
     date: '2024-08-06T19:00:00',
@@ -1631,52 +1596,10 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['N69 FEST'],
-    link: 'https://www.eventbrite.com/e/n69-fest-tickets-788633583277',
-    date: '2024-03-09T16:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['TRASH UNREAL VII: HOLY TRASH'],
-    link: 'https://www.eventbrite.com/e/trash-unreal-vii-holy-trash-tickets-853710219247',
-    date: '2024-04-06T18:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['JER x Zeta'],
-    link: 'https://www.eventbrite.com/e/jer-x-zeta-tickets-847091111317',
-    date: '2024-05-05T17:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['SPECTRAL VOICE'],
-    link: 'https://www.eventbrite.com/e/spectral-voice-tickets-832656547147',
-    date: '2024-05-15T19:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['INCANTATION'],
-    link: 'https://www.eventbrite.com/e/incantation-tickets-841778962537',
-    date: '2024-05-19T17:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['VERMIN WOMB'],
-    link: 'https://www.eventbrite.com/e/vermin-womb-tickets-851153802937',
-    date: '2024-05-23T20:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['HIRS COLLECTIVE'],
-    link: 'https://www.eventbrite.com/e/hirs-collective-tickets-850950705467',
-    date: '2024-06-25T19:00:00',
-    venue: 'No Class',
-  },
-  {
-    artist: ['THE EXPLOITED'],
-    link: 'https://www.eventbrite.com/e/the-exploited-tickets-849136830117',
-    date: '2024-09-21T19:00:00',
-    venue: 'No Class',
+    artist: ['Animals As Leaders: Joy Of Motion X Tour'],
+    link: 'https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18',
+    date: '2024-11-20T19:00:00',
+    venue: 'House of Blues',
   },
   {
     artist: ['N69 FEST'],
@@ -1727,10 +1650,52 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['UNDERTAKER'],
-    link: 'https://www.agoracleveland.com/events/detail/619247',
-    date: '2024-08-03T18:00:00',
-    venue: 'Agora',
+    artist: ['N69 FEST'],
+    link: 'https://www.eventbrite.com/e/n69-fest-tickets-788633583277',
+    date: '2024-03-09T16:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['TRASH UNREAL VII: HOLY TRASH'],
+    link: 'https://www.eventbrite.com/e/trash-unreal-vii-holy-trash-tickets-853710219247',
+    date: '2024-04-06T18:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['JER x Zeta'],
+    link: 'https://www.eventbrite.com/e/jer-x-zeta-tickets-847091111317',
+    date: '2024-05-05T17:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['SPECTRAL VOICE'],
+    link: 'https://www.eventbrite.com/e/spectral-voice-tickets-832656547147',
+    date: '2024-05-15T19:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['INCANTATION'],
+    link: 'https://www.eventbrite.com/e/incantation-tickets-841778962537',
+    date: '2024-05-19T17:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['VERMIN WOMB'],
+    link: 'https://www.eventbrite.com/e/vermin-womb-tickets-851153802937',
+    date: '2024-05-23T20:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['HIRS COLLECTIVE'],
+    link: 'https://www.eventbrite.com/e/hirs-collective-tickets-850950705467',
+    date: '2024-06-25T19:00:00',
+    venue: 'No Class',
+  },
+  {
+    artist: ['THE EXPLOITED'],
+    link: 'https://www.eventbrite.com/e/the-exploited-tickets-849136830117',
+    date: '2024-09-21T19:00:00',
+    venue: 'No Class',
   },
   {
     artist: ['Ken Carson, 2hollis'],
@@ -2073,24 +2038,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Beachland Flea'],
-    link: 'https://www.beachlandballroom.com/e/13633933/beachland-flea',
-    date: '2024-08-03T10:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Into The Blue: ELO Tribute'],
-    link: 'https://www.beachlandballroom.com/e/13524844/into-the-blue-elo-tribute',
-    date: '2024-08-03T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Kaitlin Butts', 'Angela Perley'],
-    link: 'https://www.beachlandballroom.com/e/13540524/kaitlin-butts-angela-perley',
-    date: '2024-08-03T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Beachland Brunch', 'Cousin Bobby'],
@@ -2956,12 +2903,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Fiddlehead'],
-    link: 'https://link.dice.fm/e38e4bbf7374?dice_id=e38e4bbf7374',
-    date: '2024-08-03T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Boys of Fall'],
     link: 'https://link.dice.fm/b59425825402?dice_id=b59425825402',
     date: '2024-08-04T18:30:00-04:00',
@@ -3034,16 +2975,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Chris Gethard and Eddie Pepitone'],
-    link: 'https://link.dice.fm/da57149caf06?dice_id=da57149caf06',
-    date: '2024-08-18T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Team Awesome'],
     link: 'https://link.dice.fm/L50ba1d08e1e?dice_id=L50ba1d08e1e',
     date: '2024-08-18T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Chris Gethard and Eddie Pepitone'],
+    link: 'https://link.dice.fm/da57149caf06?dice_id=da57149caf06',
+    date: '2024-08-18T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Laur Elle & Lyncs'],
@@ -3214,16 +3155,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Red Pears'],
-    link: 'https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f',
-    date: '2024-10-07T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Duster'],
     link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
     date: '2024-10-07T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['The Red Pears'],
+    link: 'https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f',
+    date: '2024-10-07T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Stop Light Observations'],

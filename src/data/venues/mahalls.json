@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Boys of Fall"
-    ],
-    "link": "https://link.dice.fm/b59425825402?dice_id=b59425825402",
-    "date": "2024-08-04T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "SeeYouSpaceCowboy"
     ],
     "link": "https://link.dice.fm/Dd9c36d9115f?dice_id=Dd9c36d9115f",
@@ -369,14 +361,6 @@
   },
   {
     "artist": [
-      "Many Eyes"
-    ],
-    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
     "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
@@ -385,10 +369,10 @@
   },
   {
     "artist": [
-      "Lady Lamb"
+      "Many Eyes"
     ],
-    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
-    "date": "2024-10-12T18:30:00-04:00",
+    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
+    "date": "2024-10-11T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -398,6 +382,14 @@
     "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
     "date": "2024-10-12T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Lady Lamb"
+    ],
+    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
+    "date": "2024-10-12T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

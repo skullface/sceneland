@@ -52,6 +52,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['CLOSED FOR A PRIVATE EVENT'],
+    link: 'https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/',
+    date: '2024-08-16T00:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Emo Kids, Lake Erie Emo Club'],
     link: 'https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/',
     date: '2024-08-17T19:00:00',
@@ -84,7 +90,7 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Conquer Divide, Enmy, Heartsick'],
+    artist: ['Conquer Divide, Enmy, Heartsick, Death & Exhale'],
     link: 'https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/',
     date: '2024-08-25T19:00:00',
     venue: 'Foundry',
@@ -111,6 +117,12 @@ export const allShows = [
     artist: ['Hoods, Southpaw, Unvow, Disobedient Crew'],
     link: 'https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/',
     date: '2024-09-05T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Bay Faction'],
+    link: 'https://www.foundryconcertclub.com/tm-event/bay-faction/',
+    date: '2024-09-10T20:00:00',
     venue: 'Foundry',
   },
   {
@@ -183,6 +195,12 @@ export const allShows = [
     artist: ['2 Shadows, Change My Brain With Cakes, Tomorrows Ghosts'],
     link: 'https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/',
     date: '2024-10-26T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Felix Martin, Catbamboo'],
+    link: 'https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/',
+    date: '2024-11-13T20:00:00',
     venue: 'Foundry',
   },
   {
@@ -545,12 +563,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Team Awesome', 'Chris Lugo', 'Scott Hanna'],
-    link: 'https://grogshop.gs/event-details/13730993/team-awesome-chris-lugo-scott-hanna',
-    date: '2024-08-04T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Foulmouth'],
     link: 'https://grogshop.gs/event-details/13680763/foulmouth',
     date: '2024-08-05T20:30:00',
@@ -749,14 +761,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -2040,12 +2052,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Beachland Brunch', 'Cousin Bobby'],
-    link: 'https://www.beachlandballroom.com/e/13789493/beachland-brunch-cousin-bobby',
-    date: '2024-08-04T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Rebirth Brass Band', 'Da Land Brass Band'],
     link: 'https://www.beachlandballroom.com/e/13703143/rebirth-brass-band-da-land-brass-band',
     date: '2024-08-04T20:00:00',
@@ -2903,12 +2909,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Boys of Fall'],
-    link: 'https://link.dice.fm/b59425825402?dice_id=b59425825402',
-    date: '2024-08-04T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['SeeYouSpaceCowboy'],
     link: 'https://link.dice.fm/Dd9c36d9115f?dice_id=Dd9c36d9115f',
     date: '2024-08-07T18:30:00-04:00',
@@ -3179,21 +3179,15 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Many Eyes'],
-    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
     link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Lady Lamb'],
-    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
-    date: '2024-10-12T18:30:00-04:00',
+    artist: ['Many Eyes'],
+    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
+    date: '2024-10-11T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -3201,6 +3195,12 @@ export const allShows = [
     link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Lady Lamb'],
+    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['JW Francis x Jaguar Sun'],

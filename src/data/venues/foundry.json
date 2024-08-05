@@ -65,6 +65,14 @@
   },
   {
     "artist": [
+      "CLOSED FOR A PRIVATE EVENT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/",
+    "date": "2024-08-16T00:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Emo Kids, Lake Erie Emo Club"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/",
@@ -105,7 +113,7 @@
   },
   {
     "artist": [
-      "Conquer Divide, Enmy, Heartsick"
+      "Conquer Divide, Enmy, Heartsick, Death & Exhale"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/",
     "date": "2024-08-25T19:00:00",
@@ -141,6 +149,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/",
     "date": "2024-09-05T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Bay Faction"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bay-faction/",
+    "date": "2024-09-10T20:00:00",
     "venue": "Foundry"
   },
   {
@@ -229,6 +245,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/",
     "date": "2024-10-26T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Felix Martin, Catbamboo"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/",
+    "date": "2024-11-13T20:00:00",
     "venue": "Foundry"
   }
 ]

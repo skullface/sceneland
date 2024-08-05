@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Aug 2024 09:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 09:05:37 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[THE BUNNY THE BEAR, Dizasterpiece, Unhealthy While Unhinged, For Absent Friends, Left Unsaid at Foundry]]></title>
@@ -63,6 +63,13 @@
             <pubDate>Thu, 15 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CLOSED FOR A PRIVATE EVENT at Foundry]]></title>
+            <description><![CDATA[Get tickets to CLOSED FOR A PRIVATE EVENT at Foundry on Friday, August 16, 2024, 12:00 AM: https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Emo Kids, Lake Erie Emo Club at Foundry]]></title>
             <description><![CDATA[Get tickets to Emo Kids, Lake Erie Emo Club at Foundry on Saturday, August 17, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/</link>
@@ -98,8 +105,8 @@
             <pubDate>Sat, 24 Aug 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conquer Divide, Enmy, Heartsick at Foundry]]></title>
-            <description><![CDATA[Get tickets to Conquer Divide, Enmy, Heartsick at Foundry on Sunday, August 25, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/]]></description>
+            <title><![CDATA[Conquer Divide, Enmy, Heartsick, Death & Exhale at Foundry]]></title>
+            <description><![CDATA[Get tickets to Conquer Divide, Enmy, Heartsick, Death & Exhale at Foundry on Sunday, August 25, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/</guid>
             <pubDate>Sun, 25 Aug 2024 19:00:00 GMT</pubDate>
@@ -131,6 +138,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/</guid>
             <pubDate>Thu, 05 Sep 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bay Faction at Foundry]]></title>
+            <description><![CDATA[Get tickets to Bay Faction at Foundry on Tuesday, September 10, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/bay-faction/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/bay-faction/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/bay-faction/</guid>
+            <pubDate>Tue, 10 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AA Williams at Foundry]]></title>
@@ -208,6 +222,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/</guid>
             <pubDate>Sat, 26 Oct 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Felix Martin, Catbamboo at Foundry]]></title>
+            <description><![CDATA[Get tickets to Felix Martin, Catbamboo at Foundry on Wednesday, November 13, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/</guid>
+            <pubDate>Wed, 13 Nov 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bug Hunter & The Narcissist Cookbook at Musica Akron]]></title>
@@ -609,13 +630,6 @@
             <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Team Awesome, Chris Lugo, Scott Hanna at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Team Awesome, Chris Lugo, Scott Hanna at Grog Shop on Sunday, August 4, 2024, 08:00 PM: https://grogshop.gs/event-details/13730993/team-awesome-chris-lugo-scott-hanna]]></description>
-            <link>https://grogshop.gs/event-details/13730993/team-awesome-chris-lugo-scott-hanna</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13730993/team-awesome-chris-lugo-scott-hanna</guid>
-            <pubDate>Sun, 04 Aug 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Foulmouth at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Foulmouth at Grog Shop on Monday, August 5, 2024, 08:30 PM: https://grogshop.gs/event-details/13680763/foulmouth]]></description>
             <link>https://grogshop.gs/event-details/13680763/foulmouth</link>
@@ -798,17 +812,17 @@
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
-            <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
-            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
             <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
+            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
+            <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
             <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2226,13 +2240,6 @@
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beachland Brunch, Cousin Bobby at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, Cousin Bobby at Beachland Tavern on Sunday, August 4, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13789493/beachland-brunch-cousin-bobby]]></description>
-            <link>https://www.beachlandballroom.com/e/13789493/beachland-brunch-cousin-bobby</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13789493/beachland-brunch-cousin-bobby</guid>
-            <pubDate>Sun, 04 Aug 2024 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rebirth Brass Band, Da Land Brass Band at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Rebirth Brass Band, Da Land Brass Band at Beachland Ballroom on Sunday, August 4, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13703143/rebirth-brass-band-da-land-brass-band]]></description>
             <link>https://www.beachlandballroom.com/e/13703143/rebirth-brass-band-da-land-brass-band</link>
@@ -3157,13 +3164,6 @@
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boys of Fall at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Boys of Fall at Mahall’s on Sunday, August 4, 2024, 10:30 PM: https://link.dice.fm/b59425825402?dice_id=b59425825402]]></description>
-            <link>https://link.dice.fm/b59425825402?dice_id=b59425825402</link>
-            <guid isPermaLink="true">https://link.dice.fm/b59425825402?dice_id=b59425825402</guid>
-            <pubDate>Sun, 04 Aug 2024 22:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SeeYouSpaceCowboy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to SeeYouSpaceCowboy at Mahall’s on Wednesday, August 7, 2024, 10:30 PM: https://link.dice.fm/Dd9c36d9115f?dice_id=Dd9c36d9115f]]></description>
             <link>https://link.dice.fm/Dd9c36d9115f?dice_id=Dd9c36d9115f</link>
@@ -3479,13 +3479,6 @@
             <pubDate>Thu, 10 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Many Eyes at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
-            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
-            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
-            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7]]></description>
             <link>https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</link>
@@ -3493,17 +3486,24 @@
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lady Lamb at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
-            <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
-            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+            <title><![CDATA[Many Eyes at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
+            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
+            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
+            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
             <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
             <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
+            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lady Lamb at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
+            <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
             <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>

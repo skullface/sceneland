@@ -1,21 +1,12 @@
 [
   {
     "artist": [
-      "Rebirth Brass Band",
-      "Da Land Brass Band"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13703143/rebirth-brass-band-da-land-brass-band",
-    "date": "2024-08-04T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "back to BACK TO BLACK: the AMY WINEHOUSE celebration",
       "Post Saga",
       "Mikey Silas (Apostle Jones)"
     ],
     "link": "https://www.beachlandballroom.com/e/13736693/back-to-back-to-black-the-amy-winehouse-celebration-post-saga-mikey-silas-apostle-jones-",
-    "date": "2024-08-06T19:30:00",
+    "date": "2024-08-06T19:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -197,6 +188,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13753543/6-turning-4-burning",
     "date": "2024-08-17T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13830323/beachland-brunch",
+    "date": "2024-08-18T11:00:00",
     "venue": "Beachland Tavern"
   },
   {

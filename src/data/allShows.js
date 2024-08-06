@@ -1,13 +1,5 @@
 export const allShows = [
   {
-    artist: [
-      'THE BUNNY THE BEAR, Dizasterpiece, Unhealthy While Unhinged, For Absent Friends, Left Unsaid',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/the-bunny-the-bear-dizasterpiece/',
-    date: '2024-08-05T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Spongebob Food Pop Up'],
     link: 'https://www.foundryconcertclub.com/tm-event/spongebob-food-pop-up/',
     date: '2024-08-06T17:00:00',
@@ -563,12 +555,6 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Foulmouth'],
-    link: 'https://grogshop.gs/event-details/13680763/foulmouth',
-    date: '2024-08-05T20:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['D.O.A.', 'War On Women', 'Church&State', 'Attaxia'],
     link: 'https://grogshop.gs/event-details/13564564/d-o-a-w-war-on-women',
     date: '2024-08-06T20:00:00',
@@ -761,14 +747,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -1036,6 +1022,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Gel', 'MSPAINT', 'Destiny Bond', 'The Mall'],
+    link: 'https://grogshop.gs/event-details/13826513/gel',
+    date: '2024-10-17T19:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: [
       'Boris \u201cAmplifier Worship Service\u201d: performing Amplifier Worship in its entirety',
       'Starcrawler',
@@ -1087,6 +1079,12 @@ export const allShows = [
     artist: ['Blitzen Trapper'],
     link: 'https://grogshop.gs/event-details/13777373/blitzen-trapper',
     date: '2024-11-04T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Lauren Sanderson: Girl From The Internet Tour'],
+    link: 'https://grogshop.gs/event-details/13827043/lauren-sanderson-girl-from-the-internet-tour',
+    date: '2024-11-06T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1378,6 +1376,14 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: [
+      'Club 90s Presents Pink Pony Club: Chappell Roan Night (18+ Only)',
+    ],
+    link: 'https://concerts.livenation.com/club-90s-presents-pink-pony-club-cleveland-ohio-09-06-2024/event/050061024649D224',
+    date: '2024-09-06T20:30:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Mr. Speed: A Tribute to Kiss'],
     link: 'https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2',
     date: '2024-09-07T19:00:00',
@@ -1521,12 +1527,6 @@ export const allShows = [
     artist: ['Ricky Montgomery: The Rick Tour: One Rick to Rule Them All'],
     link: 'https://concerts.livenation.com/ricky-montgomery-the-rick-tour-one-cleveland-ohio-10-08-2024/event/0500608BE1996EB9',
     date: '2024-10-08T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['OMD: Orchestral Manoeuvres in the Dark'],
-    link: 'https://concerts.livenation.com/omd-orchestral-manoeuvres-in-the-dark-cleveland-ohio-10-09-2024/event/0500604CD5724FE8',
-    date: '2024-10-09T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1858,6 +1858,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Carly Pearce, Karley Scott Collins'],
+    link: 'https://www.agoracleveland.com/events/detail/646114',
+    date: '2024-10-05T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Witch Perfect'],
     link: 'https://www.agoracleveland.com/events/detail/581049',
     date: '2024-10-06T18:00:00',
@@ -2052,19 +2058,13 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Rebirth Brass Band', 'Da Land Brass Band'],
-    link: 'https://www.beachlandballroom.com/e/13703143/rebirth-brass-band-da-land-brass-band',
-    date: '2024-08-04T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: [
       'back to BACK TO BLACK: the AMY WINEHOUSE celebration',
       'Post Saga',
       'Mikey Silas (Apostle Jones)',
     ],
     link: 'https://www.beachlandballroom.com/e/13736693/back-to-back-to-black-the-amy-winehouse-celebration-post-saga-mikey-silas-apostle-jones-',
-    date: '2024-08-06T19:30:00',
+    date: '2024-08-06T19:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -2196,6 +2196,12 @@ export const allShows = [
     artist: ['6 Turning 4 Burning'],
     link: 'https://www.beachlandballroom.com/e/13753543/6-turning-4-burning',
     date: '2024-08-17T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Beachland Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13830323/beachland-brunch',
+    date: '2024-08-18T11:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -2773,12 +2779,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['PRIMUS and COHEED AND CAMBRIA'],
-    link: 'https://concerts.livenation.com/primus-and-coheed-and-cambria-cuyahoga-falls-ohio-08-05-2024/event/05006037420D7242',
-    date: '2024-08-05T19:00:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['Hozier: Unreal Unearth Tour 2024'],
     link: 'https://concerts.livenation.com/hozier-unreal-unearth-tour-2024-cuyahoga-falls-ohio-08-06-2024/event/05005F623EB5784B',
     date: '2024-08-06T19:30:00',
@@ -3023,6 +3023,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Emo Bingo'],
+    link: 'https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3',
+    date: '2024-08-27T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Girl Cologne'],
     link: 'https://link.dice.fm/F9b2c74d07b0?dice_id=F9b2c74d07b0',
     date: '2024-08-29T19:00:00-04:00',
@@ -3056,6 +3062,12 @@ export const allShows = [
     artist: ['@'],
     link: 'https://link.dice.fm/V2d5e7459e34?dice_id=V2d5e7459e34',
     date: '2024-09-05T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Kultures album release show'],
+    link: 'https://link.dice.fm/P2b989eb0cb9?dice_id=P2b989eb0cb9',
+    date: '2024-09-06T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -3155,16 +3167,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Duster'],
-    link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
-    date: '2024-10-07T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['The Red Pears'],
     link: 'https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f',
     date: '2024-10-07T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Duster'],
+    link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
+    date: '2024-10-07T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Stop Light Observations'],
@@ -3179,16 +3191,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
-    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Many Eyes'],
     link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
+    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Balance & Composure'],
@@ -3321,6 +3333,12 @@ export const allShows = [
     link: 'https://link.dice.fm/G2d246f72031?dice_id=G2d246f72031',
     date: '2024-11-29T18:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Better Lovers: The Highly Irresponsible Tour'],
+    link: 'https://link.dice.fm/S06f850b285f?dice_id=S06f850b285f',
+    date: '2024-12-08T18:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Tiny Moving Parts'],

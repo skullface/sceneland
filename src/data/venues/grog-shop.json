@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Foulmouth"
-    ],
-    "link": "https://grogshop.gs/event-details/13680763/foulmouth",
-    "date": "2024-08-05T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "D.O.A.",
       "War On Women",
       "Church&State",
@@ -248,17 +240,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -600,6 +592,17 @@
   },
   {
     "artist": [
+      "Gel",
+      "MSPAINT",
+      "Destiny Bond",
+      "The Mall"
+    ],
+    "link": "https://grogshop.gs/event-details/13826513/gel",
+    "date": "2024-10-17T19:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Boris \u201cAmplifier Worship Service\u201d: performing Amplifier Worship in its entirety",
       "Starcrawler"
     ],
@@ -665,6 +668,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13777373/blitzen-trapper",
     "date": "2024-11-04T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Lauren Sanderson: Girl From The Internet Tour"
+    ],
+    "link": "https://grogshop.gs/event-details/13827043/lauren-sanderson-girl-from-the-internet-tour",
+    "date": "2024-11-06T20:00:00",
     "venue": "Grog Shop"
   },
   {

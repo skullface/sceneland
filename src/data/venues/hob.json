@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Hans Williams"
-    ],
-    "link": "https://concerts.livenation.com/hans-williams-cleveland-ohio-08-06-2024/event/050060A8D3B269CA",
-    "date": "2024-08-06T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Five for Fighting"
     ],
     "link": "https://concerts.livenation.com/five-for-fighting-cleveland-ohio-08-09-2024/event/0500606E99CF21F5",
@@ -269,6 +261,14 @@
     ],
     "link": "https://concerts.livenation.com/ricky-montgomery-the-rick-tour-one-cleveland-ohio-10-08-2024/event/0500608BE1996EB9",
     "date": "2024-10-08T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "That Mexican OT"
+    ],
+    "link": "https://concerts.livenation.com/that-mexican-ot-cleveland-ohio-10-09-2024/event/050060FADDA59071",
+    "date": "2024-10-09T19:00:00",
     "venue": "House of Blues"
   },
   {

@@ -337,18 +337,18 @@
   },
   {
     "artist": [
-      "Hotline TNT"
+      "Gimme Gimme Disco"
     ],
-    "link": "https://link.dice.fm/lca38b989f21?dice_id=lca38b989f21",
-    "date": "2024-10-06T18:30:00-04:00",
+    "link": "https://link.dice.fm/r3afc3a61ede?dice_id=r3afc3a61ede",
+    "date": "2024-10-05T22:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "The Red Pears"
+      "Hotline TNT"
     ],
-    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
-    "date": "2024-10-07T19:00:00-04:00",
+    "link": "https://link.dice.fm/lca38b989f21?dice_id=lca38b989f21",
+    "date": "2024-10-06T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -358,6 +358,14 @@
     "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
     "date": "2024-10-07T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Red Pears"
+    ],
+    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
+    "date": "2024-10-07T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -572,6 +580,7 @@
       "Better Lovers: The Highly Irresponsible Tour"
     ],
     "link": "https://link.dice.fm/S06f850b285f?dice_id=S06f850b285f",
+    "sold_out": true,
     "date": "2024-12-08T18:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "SeeYouSpaceCowboy"
-    ],
-    "link": "https://link.dice.fm/Dd9c36d9115f?dice_id=Dd9c36d9115f",
-    "date": "2024-08-07T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Katy Kirby"
     ],
     "link": "https://link.dice.fm/v5f12eef8cd4?dice_id=v5f12eef8cd4",
@@ -433,19 +425,19 @@
   },
   {
     "artist": [
-      "Friday Pilots Club: The Nowhere Tour"
-    ],
-    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
-    "date": "2024-10-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Demon Hunter"
     ],
     "link": "https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06",
     "date": "2024-10-17T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Friday Pilots Club: The Nowhere Tour"
+    ],
+    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
+    "date": "2024-10-17T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -517,6 +509,14 @@
     ],
     "link": "https://link.dice.fm/kd8e68c5bbe5?dice_id=kd8e68c5bbe5",
     "date": "2024-10-29T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mondo Cozmo"
+    ],
+    "link": "https://link.dice.fm/Afb682f9b70d?dice_id=Afb682f9b70d",
+    "date": "2024-10-30T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

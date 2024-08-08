@@ -1041,12 +1041,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Thirty Seconds To Mars: Seasons World Tour'],
-    link: 'https://concerts.livenation.com/thirty-seconds-to-mars-seasons-world-cuyahoga-falls-ohio-08-07-2024/event/05005F67FBD05619',
-    date: '2024-08-07T18:00:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['Dan + Shay: Heartbreak On The Map Tour'],
     link: 'https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033',
     date: '2024-08-09T19:00:00',
@@ -1241,8 +1235,8 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Baldassarre Rock Orchestra'],
-    link: 'https://concerts.livenation.com/baldassarre-rock-orchestra-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5',
+    artist: ['Baldassarre Rock Orchestra: A Whole Lotta Zeppelin'],
+    link: 'https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5',
     date: '2024-09-13T18:30:00',
     venue: 'House of Blues',
   },
@@ -1403,6 +1397,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Jeezy: Playlist Concert'],
+    link: 'https://concerts.livenation.com/jeezy-playlist-concert-cleveland-ohio-10-17-2024/event/050061057D66119E',
+    date: '2024-10-17T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ["Mod Sun & lovelytheband: Here's Your Flowers Tour"],
     link: 'https://concerts.livenation.com/mod-sun-lovelytheband-heres-your-flowers-cleveland-ohio-10-19-2024/event/050060C5CB7E67AA',
     date: '2024-10-19T18:00:00',
@@ -1445,15 +1445,9 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Fit for an Autopsy'],
-    link: 'https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309',
-    date: '2024-11-15T17:30:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Animals As Leaders: Joy Of Motion X Tour'],
-    link: 'https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18',
-    date: '2024-11-20T19:00:00',
+    artist: ['Peezy & Icewear Vezzo'],
+    link: 'https://concerts.livenation.com/peezy-icewear-vezzo-cleveland-ohio-11-14-2024/event/05006102E2049A31',
+    date: '2024-11-14T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1823,12 +1817,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/event-details/13752343/midnight-rental-presents-secret-movie-night',
-    date: '2024-08-07T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'B Side Summer Series: Ceci Taylor and Girl Cologne',
       'Girl Cologne',
@@ -2077,6 +2065,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/event-details/13838243/midnight-rental-presents-secret-movie-night',
+    date: '2024-09-04T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['FIGGMUNITY Live Podcast'],
     link: 'https://grogshop.gs/event-details/13777833/figgmunity-live-podcast',
     date: '2024-09-04T20:30:00',
@@ -2150,6 +2144,12 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13530894/joey-valence-brae',
     sold_out: true,
     date: '2024-09-14T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Local H'],
+    link: 'https://grogshop.gs/event-details/13830913/local-h',
+    date: '2024-09-15T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2368,6 +2368,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Peezy & IceWear Vezzo'],
+    link: 'https://grogshop.gs/event-details/13834873/peezy-icewear-vezzo',
+    date: '2024-11-14T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Cris Jacobs'],
     link: 'https://grogshop.gs/event-details/13555344/cris-jacobs',
     date: '2024-11-15T21:00:00',
@@ -2388,36 +2394,8 @@ export const allShows = [
   {
     artist: ['Bright Eyes'],
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
-    date: '2025-04-09T20:00:00',
+    date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: [
-      'back to BACK TO BLACK: the AMY WINEHOUSE celebration',
-      'Post Saga',
-      'Mikey Silas (Apostle Jones)',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13736693/back-to-back-to-black-the-amy-winehouse-celebration-post-saga-mikey-silas-apostle-jones-',
-    date: '2024-08-06T19:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['David Ramirez', 'Kirby Brown'],
-    link: 'https://www.beachlandballroom.com/e/13519864/david-ramirez-kirby-brown',
-    date: '2024-08-06T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Kind Hearted Strangers', 'The Applewhites'],
-    link: 'https://www.beachlandballroom.com/e/13491994/kind-hearted-strangers-the-applewhites',
-    date: '2024-08-07T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Robert Jon & The Wreck', 'Easton Union'],
-    link: 'https://www.beachlandballroom.com/e/13617933/robert-jon-the-wreck-easton-union',
-    date: '2024-08-07T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Matt Schofield', 'Guy Snowdon and the Citizens'],
@@ -2743,8 +2721,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Dogpark'],
-    link: 'https://www.beachlandballroom.com/e/13702943/dogpark',
+    artist: ['Dogpark', 'Juniper'],
+    link: 'https://www.beachlandballroom.com/e/13702943/dogpark-juniper',
     date: '2024-09-10T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -3023,6 +3001,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Kyle Smith', 'Aaron Wolf', 'CARII\u0112S'],
+    link: 'https://www.beachlandballroom.com/e/13823413/kyle-smith-aaron-wolf-carii-s',
+    date: '2024-10-24T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['The Shootouts', 'Thor Platter'],
     link: 'https://www.beachlandballroom.com/e/13780323/the-shootouts-thor-platter',
     date: '2024-10-25T20:00:00',
@@ -3089,8 +3073,14 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Hackensaw Boys'],
-    link: 'https://www.beachlandballroom.com/e/13758263/hackensaw-boys',
+    artist: ['Ballyhoo!', 'Keep Flying'],
+    link: 'https://www.beachlandballroom.com/e/13827083/ballyhoo-keep-flying',
+    date: '2024-11-15T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Hackensaw Boys', 'Cory Grinder and the Playboy Scouts'],
+    link: 'https://www.beachlandballroom.com/e/13758263/hackensaw-boys-cory-grinder-and-the-playboy-scouts',
     date: '2024-11-16T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -3123,12 +3113,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['SeeYouSpaceCowboy'],
-    link: 'https://link.dice.fm/Dd9c36d9115f?dice_id=Dd9c36d9115f',
-    date: '2024-08-07T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Katy Kirby'],
@@ -3449,16 +3433,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Friday Pilots Club: The Nowhere Tour'],
-    link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
-    date: '2024-10-17T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Demon Hunter'],
     link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
     date: '2024-10-17T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Friday Pilots Club: The Nowhere Tour'],
+    link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
+    date: '2024-10-17T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Cloud Nothings'],
@@ -3512,6 +3496,12 @@ export const allShows = [
     artist: ['Dirtwire with The Spooklights'],
     link: 'https://link.dice.fm/kd8e68c5bbe5?dice_id=kd8e68c5bbe5',
     date: '2024-10-29T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Mondo Cozmo'],
+    link: 'https://link.dice.fm/Afb682f9b70d?dice_id=Afb682f9b70d',
+    date: '2024-10-30T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {

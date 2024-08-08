@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
-    ],
-    "link": "https://grogshop.gs/event-details/13752343/midnight-rental-presents-secret-movie-night",
-    "date": "2024-08-07T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "B Side Summer Series: Ceci Taylor and Girl Cologne",
       "Girl Cologne"
     ],
@@ -306,6 +298,14 @@
   },
   {
     "artist": [
+      "Midnight Rental presents Secret Movie Night"
+    ],
+    "link": "https://grogshop.gs/event-details/13838243/midnight-rental-presents-secret-movie-night",
+    "date": "2024-09-04T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "FIGGMUNITY Live Podcast"
     ],
     "link": "https://grogshop.gs/event-details/13777833/figgmunity-live-podcast",
@@ -394,6 +394,14 @@
     "link": "https://grogshop.gs/event-details/13530894/joey-valence-brae",
     "sold_out": true,
     "date": "2024-09-14T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Local H"
+    ],
+    "link": "https://grogshop.gs/event-details/13830913/local-h",
+    "date": "2024-09-15T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -695,6 +703,14 @@
   },
   {
     "artist": [
+      "Peezy & IceWear Vezzo"
+    ],
+    "link": "https://grogshop.gs/event-details/13834873/peezy-icewear-vezzo",
+    "date": "2024-11-14T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Cris Jacobs"
     ],
     "link": "https://grogshop.gs/event-details/13555344/cris-jacobs",
@@ -725,7 +741,7 @@
       "Bright Eyes"
     ],
     "link": "https://grogshop.gs/event-details/13809123/bright-eyes",
-    "date": "2025-04-09T20:00:00",
+    "date": "2025-04-09T19:30:00",
     "venue": "Grog Shop"
   }
 ]

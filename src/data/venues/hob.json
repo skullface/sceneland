@@ -97,9 +97,9 @@
   },
   {
     "artist": [
-      "Baldassarre Rock Orchestra"
+      "Baldassarre Rock Orchestra: A Whole Lotta Zeppelin"
     ],
-    "link": "https://concerts.livenation.com/baldassarre-rock-orchestra-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5",
+    "link": "https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5",
     "date": "2024-09-13T18:30:00",
     "venue": "House of Blues"
   },
@@ -313,6 +313,14 @@
   },
   {
     "artist": [
+      "Jeezy: Playlist Concert"
+    ],
+    "link": "https://concerts.livenation.com/jeezy-playlist-concert-cleveland-ohio-10-17-2024/event/050061057D66119E",
+    "date": "2024-10-17T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Mod Sun & lovelytheband: Here's Your Flowers Tour"
     ],
     "link": "https://concerts.livenation.com/mod-sun-lovelytheband-heres-your-flowers-cleveland-ohio-10-19-2024/event/050060C5CB7E67AA",
@@ -369,18 +377,10 @@
   },
   {
     "artist": [
-      "Fit for an Autopsy"
+      "Peezy & Icewear Vezzo"
     ],
-    "link": "https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309",
-    "date": "2024-11-15T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Animals As Leaders: Joy Of Motion X Tour"
-    ],
-    "link": "https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18",
-    "date": "2024-11-20T19:00:00",
+    "link": "https://concerts.livenation.com/peezy-icewear-vezzo-cleveland-ohio-11-14-2024/event/05006102E2049A31",
+    "date": "2024-11-14T19:00:00",
     "venue": "House of Blues"
   }
 ]

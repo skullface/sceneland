@@ -1,43 +1,6 @@
 [
   {
     "artist": [
-      "back to BACK TO BLACK: the AMY WINEHOUSE celebration",
-      "Post Saga",
-      "Mikey Silas (Apostle Jones)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13736693/back-to-back-to-black-the-amy-winehouse-celebration-post-saga-mikey-silas-apostle-jones-",
-    "date": "2024-08-06T19:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "David Ramirez",
-      "Kirby Brown"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13519864/david-ramirez-kirby-brown",
-    "date": "2024-08-06T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Kind Hearted Strangers",
-      "The Applewhites"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13491994/kind-hearted-strangers-the-applewhites",
-    "date": "2024-08-07T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Robert Jon & The Wreck",
-      "Easton Union"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13617933/robert-jon-the-wreck-easton-union",
-    "date": "2024-08-07T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Matt Schofield",
       "Guy Snowdon and the Citizens"
     ],
@@ -473,9 +436,10 @@
   },
   {
     "artist": [
-      "Dogpark"
+      "Dogpark",
+      "Juniper"
     ],
-    "link": "https://www.beachlandballroom.com/e/13702943/dogpark",
+    "link": "https://www.beachlandballroom.com/e/13702943/dogpark-juniper",
     "date": "2024-09-10T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -858,6 +822,16 @@
   },
   {
     "artist": [
+      "Kyle Smith",
+      "Aaron Wolf",
+      "CARII\u0112S"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13823413/kyle-smith-aaron-wolf-carii-s",
+    "date": "2024-10-24T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "The Shootouts",
       "Thor Platter"
     ],
@@ -954,9 +928,19 @@
   },
   {
     "artist": [
-      "Hackensaw Boys"
+      "Ballyhoo!",
+      "Keep Flying"
     ],
-    "link": "https://www.beachlandballroom.com/e/13758263/hackensaw-boys",
+    "link": "https://www.beachlandballroom.com/e/13827083/ballyhoo-keep-flying",
+    "date": "2024-11-15T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Hackensaw Boys",
+      "Cory Grinder and the Playboy Scouts"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13758263/hackensaw-boys-cory-grinder-and-the-playboy-scouts",
     "date": "2024-11-16T20:00:00",
     "venue": "Beachland Tavern"
   },

@@ -494,14 +494,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: [
-      'October Beach Club, The Existentials, Super Culture, Alanna Jade',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/october-beach-club-the-existentials-super-culture-alanna-jade/',
-    date: '2024-08-08T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Nocturnal'],
     link: 'https://www.foundryconcertclub.com/tm-event/nocturnal/',
     date: '2024-08-09T21:00:00',
@@ -1818,21 +1810,6 @@ export const allShows = [
   },
   {
     artist: [
-      'B Side Summer Series: Ceci Taylor and Girl Cologne',
-      'Girl Cologne',
-    ],
-    link: 'https://grogshop.gs/event-details/13561274/b-side-summer-series-ceci-taylor-and-girl-cologne',
-    date: '2024-08-08T19:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['The Brakes, The Daze, Earthrise'],
-    link: 'https://grogshop.gs/event-details/13786793/the-brakes-the-daze-earthrise',
-    date: '2024-08-08T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
       'Conway the Machine',
       'Jae Skeese',
       'Armand Rashad',
@@ -2272,6 +2249,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Phantom Planet'],
+    link: 'https://grogshop.gs/event-details/13834683/phantom-planet',
+    date: '2024-10-10T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['6arelyhuman: The Sassy Scene Tour'],
     link: 'https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour',
     date: '2024-10-13T20:00:00',
@@ -2396,18 +2379,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Matt Schofield', 'Guy Snowdon and the Citizens'],
-    link: 'https://www.beachlandballroom.com/e/13424544/matt-schofield-guy-snowdon-and-the-citizens',
-    date: '2024-08-08T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Giuda', 'The A-10s', "DJ Erin Ryan (WCSB's Bomb The Twist)"],
-    link: 'https://www.beachlandballroom.com/e/13469884/giuda-the-a-10s-dj-erin-ryan-wcsb-s-bomb-the-twist-',
-    date: '2024-08-08T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['BANNERS', 'Culture Wars'],
@@ -3019,6 +2990,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Amy Rigby'],
+    link: 'https://www.beachlandballroom.com/e/13841043/amy-rigby',
+    date: '2024-10-29T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Brother Elsey'],
     link: 'https://www.beachlandballroom.com/e/13691463/brother-elsey',
     date: '2024-10-31T20:00:00',
@@ -3053,6 +3030,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13531324/atta-boy',
     date: '2024-11-08T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Town Mountain', 'John R. Miller'],
+    link: 'https://www.beachlandballroom.com/e/13826903/town-mountain-john-r-miller',
+    date: '2024-11-09T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Wild Pink'],
@@ -3113,12 +3096,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Katy Kirby'],
-    link: 'https://link.dice.fm/v5f12eef8cd4?dice_id=v5f12eef8cd4',
-    date: '2024-08-08T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Jady'],
@@ -3340,6 +3317,12 @@ export const allShows = [
     artist: ['Jukebox Breakdown aka Emo Night CLE'],
     link: 'https://link.dice.fm/n172d979194b?dice_id=n172d979194b',
     date: '2024-09-27T22:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Creeper'],
+    link: 'https://link.dice.fm/ld400190f900?dice_id=ld400190f900',
+    date: '2024-09-29T18:30:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {

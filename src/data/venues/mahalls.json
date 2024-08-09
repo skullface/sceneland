@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Katy Kirby"
-    ],
-    "link": "https://link.dice.fm/v5f12eef8cd4?dice_id=v5f12eef8cd4",
-    "date": "2024-08-08T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Jady"
     ],
     "link": "https://link.dice.fm/df07a436f5ff?dice_id=df07a436f5ff",
@@ -301,6 +293,14 @@
     ],
     "link": "https://link.dice.fm/n172d979194b?dice_id=n172d979194b",
     "date": "2024-09-27T22:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Creeper"
+    ],
+    "link": "https://link.dice.fm/ld400190f900?dice_id=ld400190f900",
+    "date": "2024-09-29T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

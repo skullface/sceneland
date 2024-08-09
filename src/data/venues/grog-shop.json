@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "B Side Summer Series: Ceci Taylor and Girl Cologne",
-      "Girl Cologne"
-    ],
-    "link": "https://grogshop.gs/event-details/13561274/b-side-summer-series-ceci-taylor-and-girl-cologne",
-    "date": "2024-08-08T19:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Brakes, The Daze, Earthrise"
-    ],
-    "link": "https://grogshop.gs/event-details/13786793/the-brakes-the-daze-earthrise",
-    "date": "2024-08-08T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Conway the Machine",
       "Jae Skeese",
       "Armand Rashad",
@@ -568,6 +551,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13790453/the-polish-ambassador",
     "date": "2024-10-09T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Phantom Planet"
+    ],
+    "link": "https://grogshop.gs/event-details/13834683/phantom-planet",
+    "date": "2024-10-10T20:00:00",
     "venue": "Grog Shop"
   },
   {

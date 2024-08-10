@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Aug 2024 09:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 09:05:37 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GOLDEN GIRLS - The Laughs Continue at Playhouse Square]]></title>
@@ -273,8 +273,8 @@
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Twenty One Pilots, The Clancy World Tour at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Twenty One Pilots, The Clancy World Tour at Rocket Mortgage FieldHouse on Saturday, September 28, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/twenty-one-pilots-240928]]></description>
+            <title><![CDATA[Twenty One Pilots: The Clancy World Tour, Balu Brigada at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Twenty One Pilots: The Clancy World Tour, Balu Brigada at Rocket Mortgage FieldHouse on Saturday, September 28, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/twenty-one-pilots-240928]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/twenty-one-pilots-240928</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/twenty-one-pilots-240928</guid>
             <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
@@ -567,13 +567,6 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nocturnal at Foundry]]></title>
-            <description><![CDATA[Get tickets to Nocturnal at Foundry on Friday, August 9, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/nocturnal/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/nocturnal/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nocturnal/</guid>
-            <pubDate>Fri, 09 Aug 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Like Murder, Infalling, 10,000 Rambos at Foundry]]></title>
             <description><![CDATA[Get tickets to Like Murder, Infalling, 10,000 Rambos at Foundry on Saturday, August 10, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/like-murder-infalling/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/like-murder-infalling/</link>
@@ -761,6 +754,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/</guid>
             <pubDate>Sat, 26 Oct 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadlands, Renesans, Ovtlier at Foundry]]></title>
+            <description><![CDATA[Get tickets to Deadlands, Renesans, Ovtlier at Foundry on Sunday, October 27, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/deadlands-renesans-ovtlier/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/deadlands-renesans-ovtlier/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/deadlands-renesans-ovtlier/</guid>
+            <pubDate>Sun, 27 Oct 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Felix Martin, Catbamboo at Foundry]]></title>
@@ -1176,13 +1176,6 @@
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dan + Shay: Heartbreak On The Map Tour at Blossom]]></title>
-            <description><![CDATA[Get tickets to Dan + Shay: Heartbreak On The Map Tour at Blossom on Friday, August 9, 2024, 07:00 PM: https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033]]></description>
-            <link>https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033</guid>
-            <pubDate>Fri, 09 Aug 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Queens of R&B: Xscape & SWV at Blossom]]></title>
             <description><![CDATA[Get tickets to The Queens of R&B: Xscape & SWV at Blossom on Saturday, August 10, 2024, 07:00 PM: https://concerts.livenation.com/the-queens-of-rb-xscape-swv-cuyahoga-falls-ohio-08-10-2024/event/05006072ECAD47D5]]></description>
             <link>https://concerts.livenation.com/the-queens-of-rb-xscape-swv-cuyahoga-falls-ohio-08-10-2024/event/05006072ECAD47D5</link>
@@ -1307,13 +1300,6 @@
             <link>https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</link>
             <guid isPermaLink="true">https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</guid>
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five for Fighting at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Five for Fighting at House of Blues on Friday, August 9, 2024, 07:00 PM: https://concerts.livenation.com/five-for-fighting-cleveland-ohio-08-09-2024/event/0500606E99CF21F5]]></description>
-            <link>https://concerts.livenation.com/five-for-fighting-cleveland-ohio-08-09-2024/event/0500606E99CF21F5</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/five-for-fighting-cleveland-ohio-08-09-2024/event/0500606E99CF21F5</guid>
-            <pubDate>Fri, 09 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE TAYLOR PARTY: CRUEL SUMMER TOUR: 18 & OVER ONLY at House of Blues]]></title>
@@ -1547,8 +1533,8 @@
             <pubDate>Wed, 09 Oct 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Kaleo: Payback Tour 2024 at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Kaleo: Payback Tour 2024 at House of Blues on Thursday, October 10, 2024, 07:00 PM: https://concerts.livenation.com/kaleo-payback-tour-2024-cleveland-ohio-10-10-2024/event/05006098A5323B42]]></description>
+            <title><![CDATA[KALEO: PAYBACK TOUR 2024 at House of Blues]]></title>
+            <description><![CDATA[Get tickets to KALEO: PAYBACK TOUR 2024 at House of Blues on Thursday, October 10, 2024, 07:00 PM: https://concerts.livenation.com/kaleo-payback-tour-2024-cleveland-ohio-10-10-2024/event/05006098A5323B42]]></description>
             <link>https://concerts.livenation.com/kaleo-payback-tour-2024-cleveland-ohio-10-10-2024/event/05006098A5323B42</link>
             <guid isPermaLink="true">https://concerts.livenation.com/kaleo-payback-tour-2024-cleveland-ohio-10-10-2024/event/05006098A5323B42</guid>
             <pubDate>Thu, 10 Oct 2024 19:00:00 GMT</pubDate>
@@ -1622,6 +1608,13 @@
             <link>https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B</link>
             <guid isPermaLink="true">https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B</guid>
             <pubDate>Fri, 01 Nov 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redwood Christian Ministries Presents: Beyond the Walls at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Redwood Christian Ministries Presents: Beyond the Walls at House of Blues on Saturday, November 2, 2024, 06:00 PM: https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF]]></description>
+            <link>https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF</guid>
+            <pubDate>Sat, 02 Nov 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Livingston: A Hometown Odyssey Tour: Part 2 at House of Blues]]></title>
@@ -2065,13 +2058,6 @@
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Conway the Machine, Jae Skeese, Armand Rashad, Dana Saf, Mynameisbravo at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Conway the Machine, Jae Skeese, Armand Rashad, Dana Saf, Mynameisbravo at Grog Shop on Friday, August 9, 2024, 08:00 PM: https://grogshop.gs/event-details/13513704/conway-the-machine]]></description>
-            <link>https://grogshop.gs/event-details/13513704/conway-the-machine</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13513704/conway-the-machine</guid>
-            <pubDate>Fri, 09 Aug 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Timalikesmusic presents That 90's Love: An Old School R&B Party, Jul Big Green at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Timalikesmusic presents That 90's Love: An Old School R&B Party, Jul Big Green at Grog Shop on Saturday, August 10, 2024, 08:30 PM: https://grogshop.gs/event-details/13467974/timalikesmusic-presents-that-90-s-love-an-old-school-r-b-party]]></description>
             <link>https://grogshop.gs/event-details/13467974/timalikesmusic-presents-that-90-s-love-an-old-school-r-b-party</link>
@@ -2156,6 +2142,13 @@
             <pubDate>Tue, 20 Aug 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Yo Pastel & Friends ft. Easton Evans, Easton Evans at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Yo Pastel & Friends ft. Easton Evans, Easton Evans at Grog Shop on Wednesday, August 21, 2024, 08:00 PM: https://grogshop.gs/event-details/13843883/yo-pastel-friends-ft-easton-evans]]></description>
+            <link>https://grogshop.gs/event-details/13843883/yo-pastel-friends-ft-easton-evans</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13843883/yo-pastel-friends-ft-easton-evans</guid>
+            <pubDate>Wed, 21 Aug 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mad Caddies, The Iron Roses, Hogan's Last Smash at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Mad Caddies, The Iron Roses, Hogan's Last Smash at Grog Shop on Thursday, August 22, 2024, 08:00 PM: https://grogshop.gs/event-details/13465284/mad-caddies-w-the-iron-roses-hogan-s-last-smash]]></description>
             <link>https://grogshop.gs/event-details/13465284/mad-caddies-w-the-iron-roses-hogan-s-last-smash</link>
@@ -2212,17 +2205,24 @@
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
-            <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
-            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
+            <title><![CDATA[R&B Sing A Long with DJ Dreem at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to R&B Sing A Long with DJ Dreem at Grog Shop on Thursday, August 29, 2024, 09:00 PM: https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem]]></description>
+            <link>https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem</guid>
+            <pubDate>Thu, 29 Aug 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
             <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
+            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
+            <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
             <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2625,8 +2625,8 @@
             <pubDate>Wed, 09 Apr 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BANNERS, Culture Wars at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to BANNERS, Culture Wars at Beachland Ballroom on Friday, August 9, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13517794/banners-culture-wars]]></description>
+            <title><![CDATA[BANNERS, Culture Wars at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to BANNERS, Culture Wars at Beachland Tavern on Friday, August 9, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13517794/banners-culture-wars]]></description>
             <link>https://www.beachlandballroom.com/e/13517794/banners-culture-wars</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13517794/banners-culture-wars</guid>
             <pubDate>Fri, 09 Aug 2024 20:00:00 GMT</pubDate>
@@ -2737,10 +2737,10 @@
             <pubDate>Sun, 18 Aug 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Reverend Kristin Michael Hayter, Church of the Starry Wisdom at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Reverend Kristin Michael Hayter, Church of the Starry Wisdom at Beachland Ballroom on Sunday, August 18, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-the-starry-wisdom]]></description>
-            <link>https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-the-starry-wisdom</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-the-starry-wisdom</guid>
+            <title><![CDATA[Reverend Kristin Michael Hayter, Church of Starry Wisdom at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Reverend Kristin Michael Hayter, Church of Starry Wisdom at Beachland Ballroom on Sunday, August 18, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-starry-wisdom]]></description>
+            <link>https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-starry-wisdom</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-starry-wisdom</guid>
             <pubDate>Sun, 18 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3031,10 +3031,10 @@
             <pubDate>Tue, 24 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Bonnie at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Why Bonnie at Beachland Tavern on Wednesday, September 25, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13783253/why-bonnie]]></description>
-            <link>https://www.beachlandballroom.com/e/13783253/why-bonnie</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13783253/why-bonnie</guid>
+            <title><![CDATA[Why Bonnie, Wish Queen at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Why Bonnie, Wish Queen at Beachland Tavern on Wednesday, September 25, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13783253/why-bonnie-wish-queen]]></description>
+            <link>https://www.beachlandballroom.com/e/13783253/why-bonnie-wish-queen</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13783253/why-bonnie-wish-queen</guid>
             <pubDate>Wed, 25 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3087,10 +3087,10 @@
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mike Viola at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Mike Viola at Beachland Tavern on Wednesday, October 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13392184/mike-viola]]></description>
-            <link>https://www.beachlandballroom.com/e/13392184/mike-viola</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13392184/mike-viola</guid>
+            <title><![CDATA[Mike Viola, L.A. Exes at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Mike Viola, L.A. Exes at Beachland Tavern on Wednesday, October 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes]]></description>
+            <link>https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes</guid>
             <pubDate>Wed, 02 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3393,20 +3393,6 @@
             <link>https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</guid>
             <pubDate>Tue, 22 Apr 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jady at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Jady at Mahall’s on Friday, August 9, 2024, 10:00 PM: https://link.dice.fm/df07a436f5ff?dice_id=df07a436f5ff]]></description>
-            <link>https://link.dice.fm/df07a436f5ff?dice_id=df07a436f5ff</link>
-            <guid isPermaLink="true">https://link.dice.fm/df07a436f5ff?dice_id=df07a436f5ff</guid>
-            <pubDate>Fri, 09 Aug 2024 22:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Club 2K: an all out 2010's dance party at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Club 2K: an all out 2010's dance party at Mahall’s on Saturday, August 10, 2024, 02:00 AM: https://link.dice.fm/gc76e2a2271f?dice_id=gc76e2a2271f]]></description>
-            <link>https://link.dice.fm/gc76e2a2271f?dice_id=gc76e2a2271f</link>
-            <guid isPermaLink="true">https://link.dice.fm/gc76e2a2271f?dice_id=gc76e2a2271f</guid>
-            <pubDate>Sat, 10 Aug 2024 02:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mahall's Summer Market at The Roxy at Mahall’s]]></title>
@@ -3724,13 +3710,6 @@
             <pubDate>Thu, 10 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Many Eyes at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
-            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
-            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
-            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7]]></description>
             <link>https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</link>
@@ -3738,17 +3717,24 @@
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
-            <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
-            <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
-            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+            <title><![CDATA[Many Eyes at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
+            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
+            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
+            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lady Lamb at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
             <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
             <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
+            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
+            <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
+            <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
             <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3798,6 +3784,13 @@
             <description><![CDATA[Get tickets to Tank and the Bangas and Jamila Woods at The Roxy at Mahall’s on Wednesday, October 23, 2024, 11:00 PM: https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135]]></description>
             <link>https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135</link>
             <guid isPermaLink="true">https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135</guid>
+            <pubDate>Wed, 23 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rav and Kill Bill: The Rapper at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Rav and Kill Bill: The Rapper at Mahall’s on Wednesday, October 23, 2024, 11:00 PM: https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5]]></description>
+            <link>https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</link>
+            <guid isPermaLink="true">https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</guid>
             <pubDate>Wed, 23 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>

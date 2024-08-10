@@ -234,7 +234,7 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Twenty One Pilots', 'The Clancy World Tour'],
+    artist: ['Twenty One Pilots: The Clancy World Tour', 'Balu Brigada'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/twenty-one-pilots-240928',
     date: '2024-09-28',
     venue: 'Rocket Mortgage FieldHouse',
@@ -494,12 +494,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Nocturnal'],
-    link: 'https://www.foundryconcertclub.com/tm-event/nocturnal/',
-    date: '2024-08-09T21:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Like Murder, Infalling, 10,000 Rambos'],
     link: 'https://www.foundryconcertclub.com/tm-event/like-murder-infalling/',
     date: '2024-08-10T19:00:00',
@@ -667,6 +661,12 @@ export const allShows = [
     artist: ['2 Shadows, Change My Brain With Cakes, Tomorrows Ghosts'],
     link: 'https://www.foundryconcertclub.com/tm-event/2-shadows-change-my-brain-with-cakes-tomorrows-ghosts/',
     date: '2024-10-26T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Deadlands, Renesans, Ovtlier'],
+    link: 'https://www.foundryconcertclub.com/tm-event/deadlands-renesans-ovtlier/',
+    date: '2024-10-27T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1033,12 +1033,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Dan + Shay: Heartbreak On The Map Tour'],
-    link: 'https://concerts.livenation.com/dan-shay-heartbreak-on-the-map-cuyahoga-falls-ohio-08-09-2024/event/050060474BCC6033',
-    date: '2024-08-09T19:00:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['The Queens of R&B: Xscape & SWV'],
     link: 'https://concerts.livenation.com/the-queens-of-rb-xscape-swv-cuyahoga-falls-ohio-08-10-2024/event/05006072ECAD47D5',
     date: '2024-08-10T19:00:00',
@@ -1149,12 +1143,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3',
     date: '2024-10-01T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Five for Fighting'],
-    link: 'https://concerts.livenation.com/five-for-fighting-cleveland-ohio-08-09-2024/event/0500606E99CF21F5',
-    date: '2024-08-09T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['THE TAYLOR PARTY: CRUEL SUMMER TOUR: 18 & OVER ONLY'],
@@ -1359,7 +1347,7 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Kaleo: Payback Tour 2024'],
+    artist: ['KALEO: PAYBACK TOUR 2024'],
     link: 'https://concerts.livenation.com/kaleo-payback-tour-2024-cleveland-ohio-10-10-2024/event/05006098A5323B42',
     date: '2024-10-10T19:00:00',
     venue: 'House of Blues',
@@ -1422,6 +1410,12 @@ export const allShows = [
     artist: ['Streetlight Manifesto'],
     link: 'https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B',
     date: '2024-11-01T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Redwood Christian Ministries Presents: Beyond the Walls'],
+    link: 'https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF',
+    date: '2024-11-02T18:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1810,18 +1804,6 @@ export const allShows = [
   },
   {
     artist: [
-      'Conway the Machine',
-      'Jae Skeese',
-      'Armand Rashad',
-      'Dana Saf',
-      'Mynameisbravo',
-    ],
-    link: 'https://grogshop.gs/event-details/13513704/conway-the-machine',
-    date: '2024-08-09T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: [
       "Timalikesmusic presents That 90's Love: An Old School R&B Party",
       'Jul Big Green',
     ],
@@ -1907,6 +1889,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Yo Pastel & Friends ft. Easton Evans', 'Easton Evans'],
+    link: 'https://grogshop.gs/event-details/13843883/yo-pastel-friends-ft-easton-evans',
+    date: '2024-08-21T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Mad Caddies', 'The Iron Roses', "Hogan's Last Smash"],
     link: 'https://grogshop.gs/event-details/13465284/mad-caddies-w-the-iron-roses-hogan-s-last-smash',
     date: '2024-08-22T20:00:00',
@@ -1974,14 +1962,20 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
-    date: '2024-08-30T18:00:00',
+    artist: ['R&B Sing A Long with DJ Dreem'],
+    link: 'https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem',
+    date: '2024-08-29T21:00:00',
     venue: 'Grog Shop',
   },
   {
     artist: ['Groga Palooza: 3 Night Pass'],
     link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    date: '2024-08-30T18:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -2119,7 +2113,6 @@ export const allShows = [
   {
     artist: ['Joey Valence & Brae'],
     link: 'https://grogshop.gs/event-details/13530894/joey-valence-brae',
-    sold_out: true,
     date: '2024-09-14T20:30:00',
     venue: 'Grog Shop',
   },
@@ -2383,8 +2376,9 @@ export const allShows = [
   {
     artist: ['BANNERS', 'Culture Wars'],
     link: 'https://www.beachlandballroom.com/e/13517794/banners-culture-wars',
+    sold_out: true,
     date: '2024-08-09T20:00:00',
-    venue: 'Beachland Ballroom',
+    venue: 'Beachland Tavern',
   },
   {
     artist: [
@@ -2488,8 +2482,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Reverend Kristin Michael Hayter', 'Church of the Starry Wisdom'],
-    link: 'https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-the-starry-wisdom',
+    artist: ['Reverend Kristin Michael Hayter', 'Church of Starry Wisdom'],
+    link: 'https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-starry-wisdom',
     date: '2024-08-18T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2502,6 +2496,7 @@ export const allShows = [
   {
     artist: ['Pub Choir'],
     link: 'https://www.beachlandballroom.com/e/13512884/pub-choir',
+    sold_out: true,
     date: '2024-08-19T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2770,8 +2765,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Why Bonnie'],
-    link: 'https://www.beachlandballroom.com/e/13783253/why-bonnie',
+    artist: ['Why Bonnie', 'Wish Queen'],
+    link: 'https://www.beachlandballroom.com/e/13783253/why-bonnie-wish-queen',
     date: '2024-09-25T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2818,8 +2813,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Mike Viola'],
-    link: 'https://www.beachlandballroom.com/e/13392184/mike-viola',
+    artist: ['Mike Viola', 'L.A. Exes'],
+    link: 'https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes',
     date: '2024-10-02T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -3098,18 +3093,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Jady'],
-    link: 'https://link.dice.fm/df07a436f5ff?dice_id=df07a436f5ff',
-    date: '2024-08-09T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ["Club 2K: an all out 2010's dance party"],
-    link: 'https://link.dice.fm/gc76e2a2271f?dice_id=gc76e2a2271f',
-    date: '2024-08-09T22:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ["Mahall's Summer Market"],
     link: 'https://link.dice.fm/oc3ec9ff54d7?dice_id=oc3ec9ff54d7',
     date: '2024-08-10T11:00:00-04:00',
@@ -3380,28 +3363,28 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Many Eyes'],
-    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
     link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Balance & Composure'],
-    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
-    date: '2024-10-12T18:30:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
+    artist: ['Many Eyes'],
+    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Lady Lamb'],
     link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Balance & Composure'],
+    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['JW Francis x Jaguar Sun'],
@@ -3444,6 +3427,12 @@ export const allShows = [
     link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
     date: '2024-10-23T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Rav and Kill Bill: The Rapper'],
+    link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
+    date: '2024-10-23T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Undeath'],
@@ -3532,7 +3521,6 @@ export const allShows = [
   {
     artist: ['Better Lovers: The Highly Irresponsible Tour'],
     link: 'https://link.dice.fm/S06f850b285f?dice_id=S06f850b285f',
-    sold_out: true,
     date: '2024-12-08T18:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
   },

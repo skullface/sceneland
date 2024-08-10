@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Five for Fighting"
-    ],
-    "link": "https://concerts.livenation.com/five-for-fighting-cleveland-ohio-08-09-2024/event/0500606E99CF21F5",
-    "date": "2024-08-09T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "THE TAYLOR PARTY: CRUEL SUMMER TOUR: 18 & OVER ONLY"
     ],
     "link": "https://concerts.livenation.com/the-taylor-party-cruel-summer-tour-cleveland-ohio-08-10-2024/event/050060CBD9D771B1",
@@ -273,7 +265,7 @@
   },
   {
     "artist": [
-      "Kaleo: Payback Tour 2024"
+      "KALEO: PAYBACK TOUR 2024"
     ],
     "link": "https://concerts.livenation.com/kaleo-payback-tour-2024-cleveland-ohio-10-10-2024/event/05006098A5323B42",
     "date": "2024-10-10T19:00:00",
@@ -357,6 +349,14 @@
     ],
     "link": "https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B",
     "date": "2024-11-01T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Redwood Christian Ministries Presents: Beyond the Walls"
+    ],
+    "link": "https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF",
+    "date": "2024-11-02T18:00:00",
     "venue": "House of Blues"
   },
   {

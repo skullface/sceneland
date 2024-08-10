@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "Conway the Machine",
-      "Jae Skeese",
-      "Armand Rashad",
-      "Dana Saf",
-      "Mynameisbravo"
-    ],
-    "link": "https://grogshop.gs/event-details/13513704/conway-the-machine",
-    "date": "2024-08-09T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Timalikesmusic presents That 90's Love: An Old School R&B Party",
       "Jul Big Green"
     ],
@@ -122,6 +110,15 @@
   },
   {
     "artist": [
+      "Yo Pastel & Friends ft. Easton Evans",
+      "Easton Evans"
+    ],
+    "link": "https://grogshop.gs/event-details/13843883/yo-pastel-friends-ft-easton-evans",
+    "date": "2024-08-21T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Mad Caddies",
       "The Iron Roses",
       "Hogan's Last Smash"
@@ -204,10 +201,10 @@
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "R&B Sing A Long with DJ Dreem"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
-    "date": "2024-08-30T18:00:00",
+    "link": "https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem",
+    "date": "2024-08-29T21:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -215,6 +212,14 @@
       "Groga Palooza: 3 Night Pass"
     ],
     "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "date": "2024-08-30T18:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+    ],
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -375,7 +380,6 @@
       "Joey Valence & Brae"
     ],
     "link": "https://grogshop.gs/event-details/13530894/joey-valence-brae",
-    "sold_out": true,
     "date": "2024-09-14T20:30:00",
     "venue": "Grog Shop"
   },

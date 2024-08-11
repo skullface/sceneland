@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "THE TAYLOR PARTY: CRUEL SUMMER TOUR: 18 & OVER ONLY"
-    ],
-    "link": "https://concerts.livenation.com/the-taylor-party-cruel-summer-tour-cleveland-ohio-08-10-2024/event/050060CBD9D771B1",
-    "date": "2024-08-10T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Bones UK"
     ],
     "link": "https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/peezy-icewear-vezzo-cleveland-ohio-11-14-2024/event/05006102E2049A31",
     "date": "2024-11-14T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Fit for an Autopsy"
+    ],
+    "link": "https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309",
+    "date": "2024-11-15T17:30:00",
     "venue": "House of Blues"
   }
 ]

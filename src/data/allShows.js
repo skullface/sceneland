@@ -574,12 +574,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Of Virtue, The Static Wake, Like Tyrants, Earth & Elsewhere'],
-    link: 'https://www.foundryconcertclub.com/tm-event/of-virtue-the-static-wake/',
-    date: '2024-09-03T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Hoods, Southpaw, Unvow, Disobedient Crew'],
     link: 'https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/',
     date: '2024-09-05T19:00:00',
@@ -666,7 +660,7 @@ export const allShows = [
   {
     artist: ['Deadlands, Renesans, Ovtlier'],
     link: 'https://www.foundryconcertclub.com/tm-event/deadlands-renesans-ovtlier/',
-    date: '2024-10-27T19:00:00',
+    date: '2024-10-27T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1033,12 +1027,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['The Queens of R&B: Xscape & SWV'],
-    link: 'https://concerts.livenation.com/the-queens-of-rb-xscape-swv-cuyahoga-falls-ohio-08-10-2024/event/05006072ECAD47D5',
-    date: '2024-08-10T19:00:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['KIDZ BOP LIVE 2024'],
     link: 'https://concerts.livenation.com/kidz-bop-live-2024-cuyahoga-falls-ohio-08-11-2024/event/05006031C7CB375B',
     date: '2024-08-11T16:00:00',
@@ -1143,12 +1131,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3',
     date: '2024-10-01T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['THE TAYLOR PARTY: CRUEL SUMMER TOUR: 18 & OVER ONLY'],
-    link: 'https://concerts.livenation.com/the-taylor-party-cruel-summer-tour-cleveland-ohio-08-10-2024/event/050060CBD9D771B1',
-    date: '2024-08-10T20:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Bones UK'],
@@ -1437,10 +1419,10 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Ken Carson, 2hollis'],
-    link: 'https://www.agoracleveland.com/events/detail/544885',
-    date: '2024-08-10T18:00:00',
-    venue: 'Agora',
+    artist: ['Fit for an Autopsy'],
+    link: 'https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309',
+    date: '2024-11-15T17:30:00',
+    venue: 'House of Blues',
   },
   {
     artist: ['Dweezil Zappa'],
@@ -1803,12 +1785,9 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: [
-      "Timalikesmusic presents That 90's Love: An Old School R&B Party",
-      'Jul Big Green',
-    ],
-    link: 'https://grogshop.gs/event-details/13467974/timalikesmusic-presents-that-90-s-love-an-old-school-r-b-party',
-    date: '2024-08-10T20:30:00',
+    artist: ['Mud Whale Music Video Shoot', 'Skwerm', 'Fruitfly'],
+    link: 'https://grogshop.gs/event-details/13845673/mud-whale-music-video-shoot',
+    date: '2024-08-11T17:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1968,14 +1947,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -2372,29 +2351,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['BANNERS', 'Culture Wars'],
-    link: 'https://www.beachlandballroom.com/e/13517794/banners-culture-wars',
-    sold_out: true,
-    date: '2024-08-09T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: [
-      'Charity Evonna',
-      'Reagan Gray',
-      'Billie Mitchell',
-      'Esther Fitz',
-      'Sadhu',
-      'Madison Pruitt',
-      'Katie Harrigan',
-      'A.M. The Queen',
-      'Hosted by Mila Tropicz & Ericka',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13736393/charity-evonna-reagan-gray-billie-mitchell-esther-fitz-sadhu-madison-pruitt-katie-harrigan-a-m-the-queen-hosted-by-mila-tropicz-ericka',
-    date: '2024-08-09T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['The Aristocrats'],
@@ -3093,18 +3049,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ["Mahall's Summer Market"],
-    link: 'https://link.dice.fm/oc3ec9ff54d7?dice_id=oc3ec9ff54d7',
-    date: '2024-08-10T11:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Bent Knee'],
-    link: 'https://link.dice.fm/Z07031402c0d?dice_id=Z07031402c0d',
-    date: '2024-08-10T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Cranberry Casket'],
     link: 'https://link.dice.fm/a6978c03279c?dice_id=a6978c03279c',
     date: '2024-08-11T18:30:00-04:00',
@@ -3339,16 +3283,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Duster'],
-    link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
-    date: '2024-10-07T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['The Red Pears'],
     link: 'https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f',
     date: '2024-10-07T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Duster'],
+    link: 'https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1',
+    date: '2024-10-07T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Stop Light Observations'],
@@ -3363,28 +3307,28 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
-    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Many Eyes'],
     link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Lady Lamb'],
-    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
-    date: '2024-10-12T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
+    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
+    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Balance & Composure'],
     link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Lady Lamb'],
+    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['JW Francis x Jaguar Sun'],
@@ -3423,16 +3367,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Tank and the Bangas and Jamila Woods'],
-    link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
-    date: '2024-10-23T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Rav and Kill Bill: The Rapper'],
     link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
     date: '2024-10-23T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Tank and the Bangas and Jamila Woods'],
+    link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
+    date: '2024-10-23T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Undeath'],

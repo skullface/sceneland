@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Mahall's Summer Market"
-    ],
-    "link": "https://link.dice.fm/oc3ec9ff54d7?dice_id=oc3ec9ff54d7",
-    "date": "2024-08-10T11:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Bent Knee"
-    ],
-    "link": "https://link.dice.fm/Z07031402c0d?dice_id=Z07031402c0d",
-    "date": "2024-08-10T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Cranberry Casket"
     ],
     "link": "https://link.dice.fm/a6978c03279c?dice_id=a6978c03279c",
@@ -329,19 +313,19 @@
   },
   {
     "artist": [
-      "Duster"
-    ],
-    "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
-    "date": "2024-10-07T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Red Pears"
     ],
     "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
     "date": "2024-10-07T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Duster"
+    ],
+    "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
+    "date": "2024-10-07T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -361,14 +345,6 @@
   },
   {
     "artist": [
-      "Ginger Root\u2019s SHINBANGUMI Tour"
-    ],
-    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Many Eyes"
     ],
     "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
@@ -377,11 +353,11 @@
   },
   {
     "artist": [
-      "Lady Lamb"
+      "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
-    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
-    "date": "2024-10-12T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -390,6 +366,14 @@
     "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
     "date": "2024-10-12T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Lady Lamb"
+    ],
+    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
+    "date": "2024-10-12T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -441,19 +425,19 @@
   },
   {
     "artist": [
-      "Tank and the Bangas and Jamila Woods"
-    ],
-    "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
-    "date": "2024-10-23T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Rav and Kill Bill: The Rapper"
     ],
     "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
     "date": "2024-10-23T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Tank and the Bangas and Jamila Woods"
+    ],
+    "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
+    "date": "2024-10-23T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

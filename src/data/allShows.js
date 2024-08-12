@@ -494,12 +494,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Like Murder, Infalling, 10,000 Rambos'],
-    link: 'https://www.foundryconcertclub.com/tm-event/like-murder-infalling/',
-    date: '2024-08-10T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['HOT BOY SUMMER'],
     link: 'https://www.foundryconcertclub.com/tm-event/hot-boy-summer-2/',
     date: '2024-08-11T19:00:00',
@@ -571,6 +565,12 @@ export const allShows = [
     artist: ['Polkadot Cadaver, Beneath the Hollow , After The Apocalypse'],
     link: 'https://www.foundryconcertclub.com/tm-event/polkadot-cadaver-2/',
     date: '2024-09-01T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Of Virtue, The Static Wake, Like Tyrants, Earth & Elsewhere'],
+    link: 'https://www.foundryconcertclub.com/tm-event/of-virtue-the-static-wake/',
+    date: '2024-09-03T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1025,12 +1025,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/couples-therapy-cleveland-ohio-10-19-2024/event/05006042A39E61EF',
     date: '2024-10-19T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['KIDZ BOP LIVE 2024'],
-    link: 'https://concerts.livenation.com/kidz-bop-live-2024-cuyahoga-falls-ohio-08-11-2024/event/05006031C7CB375B',
-    date: '2024-08-11T16:00:00',
-    venue: 'Blossom',
   },
   {
     artist: [
@@ -1785,18 +1779,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Mud Whale Music Video Shoot', 'Skwerm', 'Fruitfly'],
-    link: 'https://grogshop.gs/event-details/13845673/mud-whale-music-video-shoot',
-    date: '2024-08-11T17:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Awesome*Quest!', 'RA Washington', 'jCa', 'Hed Cheez'],
-    link: 'https://grogshop.gs/event-details/13793673/awesome-quest-ra-washington-jca-hed-cheez',
-    date: '2024-08-11T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13754323/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-08-12T20:00:00',
@@ -2351,31 +2333,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['The Aristocrats'],
-    link: 'https://www.beachlandballroom.com/e/13417364/the-aristocrats',
-    sold_out: true,
-    date: '2024-08-10T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ["Austin Stambaugh's Electric Weepers", 'Ohio Civil Power'],
-    link: 'https://www.beachlandballroom.com/e/13473924/austin-stambaugh-s-electric-weepers-ohio-civil-power',
-    date: '2024-08-10T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Beachland Brunch'],
-    link: 'https://www.beachlandballroom.com/e/13807663/beachland-brunch',
-    date: '2024-08-11T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['A Harmonica Salute to Reese Black Germany'],
-    link: 'https://www.beachlandballroom.com/e/13499154/a-harmonica-salute-to-reese-black-germany',
-    date: '2024-08-11T17:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Book Signing with K. Adrian Zonneville & Deanna R. Adams'],
@@ -3049,12 +3006,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Cranberry Casket'],
-    link: 'https://link.dice.fm/a6978c03279c?dice_id=a6978c03279c',
-    date: '2024-08-11T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Wheatus'],
     link: 'https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca',
     date: '2024-08-15T19:00:00-04:00',
@@ -3307,28 +3258,28 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Many Eyes'],
-    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
     link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Balance & Composure'],
-    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
-    date: '2024-10-12T18:30:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
+    artist: ['Many Eyes'],
+    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Lady Lamb'],
     link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Balance & Composure'],
+    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['JW Francis x Jaguar Sun'],
@@ -3343,16 +3294,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Demon Hunter'],
-    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
-    date: '2024-10-17T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Friday Pilots Club: The Nowhere Tour'],
     link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
     date: '2024-10-17T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Demon Hunter'],
+    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
+    date: '2024-10-17T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Cloud Nothings'],

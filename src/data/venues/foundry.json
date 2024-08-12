@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Like Murder, Infalling, 10,000 Rambos"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/like-murder-infalling/",
-    "date": "2024-08-10T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "HOT BOY SUMMER"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/hot-boy-summer-2/",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/polkadot-cadaver-2/",
     "date": "2024-09-01T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Of Virtue, The Static Wake, Like Tyrants, Earth & Elsewhere"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/of-virtue-the-static-wake/",
+    "date": "2024-09-03T19:00:00",
     "venue": "Foundry"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Book Signing with K. Adrian Zonneville & Deanna R. Adams"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13790573/book-signing-with-k-adrian-zonneville-deanna-r-adams",
-    "date": "2024-08-12T19:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The Band of Heathens",
       "Thor Platter"
     ],
@@ -77,9 +69,10 @@
   },
   {
     "artist": [
-      "Beachland Brunch"
+      "Beachland Brunch",
+      "DJ Zoe Bunny"
     ],
-    "link": "https://www.beachlandballroom.com/e/13830323/beachland-brunch",
+    "link": "https://www.beachlandballroom.com/e/13830323/beachland-brunch-dj-zoe-bunny",
     "date": "2024-08-18T11:00:00",
     "venue": "Beachland Tavern"
   },
@@ -157,10 +150,9 @@
   {
     "artist": [
       "The Whips",
-      "Miki Fiki",
-      "False Teeth"
+      "Miki Fiki"
     ],
-    "link": "https://www.beachlandballroom.com/e/13679903/the-whips-miki-fiki-false-teeth",
+    "link": "https://www.beachlandballroom.com/e/13679903/the-whips-miki-fiki",
     "date": "2024-08-23T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -180,6 +172,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13672343/the-great-iron-snake-evel-the-power-cosmic",
     "date": "2024-08-24T20:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13847193/beachland-brunch",
+    "date": "2024-08-25T11:00:00",
     "venue": "Beachland Tavern"
   },
   {

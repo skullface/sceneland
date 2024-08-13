@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "HOT BOY SUMMER"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/hot-boy-summer-2/",
-    "date": "2024-08-11T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday/",
-    "date": "2024-08-12T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Folk Around and Find Out"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out-3/",
@@ -45,6 +29,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/",
     "date": "2024-08-18T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/",
+    "date": "2024-08-19T17:00:00",
     "venue": "Foundry"
   },
   {

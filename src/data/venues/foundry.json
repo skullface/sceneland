@@ -73,6 +73,22 @@
   },
   {
     "artist": [
+      "Fundraiser"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/fundraiser/",
+    "date": "2024-08-26T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Sad Dad Happy Hour"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/sad-dad-happy-hour/",
+    "date": "2024-08-29T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Polkadot Cadaver, Beneath the Hollow , Irewyrm"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/polkadot-cadaver/",
@@ -121,6 +137,14 @@
   },
   {
     "artist": [
+      "ODDITIES BINGO"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/oddities-bingo-2/",
+    "date": "2024-09-17T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Gorgatron, Misfire, Apothic"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/gorgatron-misfire-apothic/",
@@ -153,10 +177,26 @@
   },
   {
     "artist": [
+      "Folk Around and Find Out"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/",
+    "date": "2024-09-26T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Flake, Lemonbar, Leisure Hour, Moosecreek Park"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/flake-lemonbar-leisure-hour-moosecreek-park/",
     "date": "2024-10-01T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Marc Rizzo, Offensive, Ametropia"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/marc-rizzo-offensive-ametropia/",
+    "date": "2024-10-03T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -213,6 +253,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/",
     "date": "2024-11-13T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "FREE BAR SHOW"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show-2/",
+    "date": "2024-11-17T19:00:00",
     "venue": "Foundry"
   }
 ]

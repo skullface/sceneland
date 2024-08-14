@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Together Pangea Celebrates 10 Years of Badillac",
-      "Liily",
-      "The Rosies"
-    ],
-    "link": "https://grogshop.gs/event-details/13524744/together-pangea-celebrates-10-years-of-badillac",
-    "date": "2024-08-13T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Little Ditties",
       "Guiche",
       "The Jo Shmos",
@@ -18,14 +8,6 @@
     ],
     "link": "https://grogshop.gs/event-details/13800353/the-little-ditties-guiche-the-jo-shmos-sean-bradesca-and-his-swing-boys",
     "date": "2024-08-15T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "B Side Summer Series: The Vumms"
-    ],
-    "link": "https://grogshop.gs/event-details/13561394/b-side-summer-series-the-vumms",
-    "date": "2024-08-16T19:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -181,17 +163,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -239,7 +221,6 @@
   {
     "artist": [
       "Groga Palooza: Night 3: Stalker Jane Screening and Special Performance",
-      "Stalker Jane",
       "Flourish",
       "Dotia",
       "Noshows"
@@ -277,6 +258,7 @@
       "Stephen Wilson Jr."
     ],
     "link": "https://grogshop.gs/event-details/13748743/stephen-wilson-jr-",
+    "sold_out": true,
     "date": "2024-09-05T20:00:00",
     "venue": "Grog Shop"
   },
@@ -333,9 +315,11 @@
   },
   {
     "artist": [
-      "Thumpasaurus"
+      "Thumpasaurus",
+      "Total Downer",
+      "Sammy Slims"
     ],
-    "link": "https://grogshop.gs/event-details/13790273/thumpasaurus",
+    "link": "https://grogshop.gs/event-details/13790273/thumpasaurus-total-downer-sammy-slims",
     "date": "2024-09-12T20:00:00",
     "venue": "Grog Shop"
   },
@@ -598,6 +582,18 @@
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
     "date": "2024-10-19T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Devin The Dude",
+      "Kamakazi Kenji.",
+      "Dj Scottradamus",
+      "Jay Casso",
+      "DJ Cooley High"
+    ],
+    "link": "https://grogshop.gs/event-details/13844083/devin-the-dude",
+    "date": "2024-10-20T20:00:00",
     "venue": "Grog Shop"
   },
   {

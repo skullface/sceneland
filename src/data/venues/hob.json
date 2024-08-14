@@ -345,6 +345,14 @@
   },
   {
     "artist": [
+      "Cowboy Bebop LIVE"
+    ],
+    "link": "https://concerts.livenation.com/cowboy-bebop-live-cleveland-ohio-10-24-2024/event/050061088B442CBC",
+    "date": "2024-10-24T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "The HU with Special Guest The Funeral Portrait"
     ],
     "link": "https://concerts.livenation.com/the-hu-with-special-guest-the-cleveland-ohio-10-25-2024/event/05006109C49441FF",
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF",
     "date": "2024-11-02T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Livingston: A Hometown Odyssey Tour: Part 2"
-    ],
-    "link": "https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71",
-    "date": "2024-11-06T19:00:00",
     "venue": "House of Blues"
   }
 ]

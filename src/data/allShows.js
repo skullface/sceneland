@@ -12,14 +12,14 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Andrew Schulz: The Life Tour'],
-    link: 'https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour',
+    artist: ['Ralph Barbosa'],
+    link: 'https://www.playhousesquare.org/events/detail/ralph-barbosa',
     date: '2024-09-20',
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Ralph Barbosa'],
-    link: 'https://www.playhousesquare.org/events/detail/ralph-barbosa',
+    artist: ['Andrew Schulz: The Life Tour'],
+    link: 'https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour',
     date: '2024-09-20',
     venue: 'Playhouse Square',
   },
@@ -190,15 +190,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/joe-bonamassa-3',
     date: '2025-02-22',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: [
-      'Missy Elliott: OUT OF THIS WORLD: THE EXPERIENCE',
-      'Special Guests Ciara, Busta Rhymes & Timbaland',
-    ],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/missy-elliott-240814',
-    date: '2024-08-14',
-    venue: 'Rocket Mortgage FieldHouse',
   },
   {
     artist: ['A Taste of Black Cleveland', 'The Food Showcase 6.0'],
@@ -1149,12 +1140,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Bones UK'],
-    link: 'https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161',
-    date: '2024-08-14T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Gimme Sugar: A Tribute To The Rolling Stones'],
     link: 'https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF',
     date: '2024-08-16T19:00:00',
@@ -1306,6 +1291,12 @@ export const allShows = [
     artist: ['Tori Kelly: purple skies tour'],
     link: 'https://concerts.livenation.com/tori-kelly-purple-skies-tour-cleveland-ohio-10-01-2024/event/05006085C2BB6D6E',
     date: '2024-10-01T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['DeJ Loaf  "Where My Fans Tour" (End Of Summer)'],
+    link: 'https://concerts.livenation.com/dej-loaf-where-my-fans-tour-cleveland-ohio-10-02-2024/event/0500610AEDB5808F',
+    date: '2024-10-02T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1953,12 +1944,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['R&B Sing A Long with DJ Dreem'],
-    link: 'https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem',
-    date: '2024-08-29T21:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
     link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
@@ -2104,6 +2089,7 @@ export const allShows = [
   {
     artist: ['Joey Valence & Brae'],
     link: 'https://grogshop.gs/event-details/13530894/joey-valence-brae',
+    sold_out: true,
     date: '2024-09-14T20:30:00',
     venue: 'Grog Shop',
   },
@@ -2311,6 +2297,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'Pop Punk Halloween with TRUSS (Paramore), Grant (Weezer), & Tall Grass (Green Day)',
+    ],
+    link: 'https://grogshop.gs/event-details/13835653/pop-punk-halloween-with-truss-paramore-grant-weezer-tall-grass-green-day-',
+    date: '2024-10-26T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Daniel Nunnelee: June', 'Baby Fall Tour', 'Hana Eid'],
     link: 'https://grogshop.gs/event-details/13550214/daniel-nunnelee-june-baby-fall-tour',
     date: '2024-10-27T20:00:00',
@@ -2381,12 +2375,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['The Band of Heathens', 'Thor Platter'],
-    link: 'https://www.beachlandballroom.com/e/13527684/the-band-of-heathens-thor-platter',
-    date: '2024-08-13T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['The Surfrajettes', 'Dave Rich & the Enablers'],
@@ -2697,6 +2685,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Crawlers'],
+    link: 'https://www.beachlandballroom.com/e/13848013/crawlers',
+    date: '2024-09-19T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['DEVOtional 2024'],
     link: 'https://www.beachlandballroom.com/e/13505864/devotional-2024',
     date: '2024-09-20T19:00:00',
@@ -2737,6 +2731,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13707283/the-dead-revival-band',
     date: '2024-09-27T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['The Rosies', 'Babe Haven', 'Fruitfly'],
+    link: 'https://www.beachlandballroom.com/e/13809103/the-rosies-babe-haven-fruitfly',
+    date: '2024-09-27T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Under The Rug', 'Basic Printer'],

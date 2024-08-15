@@ -155,14 +155,6 @@
   },
   {
     "artist": [
-      "R&B Sing A Long with DJ Dreem"
-    ],
-    "link": "https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem",
-    "date": "2024-08-29T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
     "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
@@ -336,6 +328,7 @@
       "Joey Valence & Brae"
     ],
     "link": "https://grogshop.gs/event-details/13530894/joey-valence-brae",
+    "sold_out": true,
     "date": "2024-09-14T20:30:00",
     "venue": "Grog Shop"
   },
@@ -610,6 +603,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13835463/babylon-beautiful-memories-1st-usa-tour",
     "date": "2024-10-24T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Pop Punk Halloween with TRUSS (Paramore), Grant (Weezer), & Tall Grass (Green Day)"
+    ],
+    "link": "https://grogshop.gs/event-details/13835653/pop-punk-halloween-with-truss-paramore-grant-weezer-tall-grass-green-day-",
+    "date": "2024-10-26T20:00:00",
     "venue": "Grog Shop"
   },
   {

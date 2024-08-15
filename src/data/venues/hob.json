@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bones UK"
-    ],
-    "link": "https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161",
-    "date": "2024-08-14T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Gimme Sugar: A Tribute To The Rolling Stones"
     ],
     "link": "https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF",
@@ -205,6 +197,14 @@
     ],
     "link": "https://concerts.livenation.com/tori-kelly-purple-skies-tour-cleveland-ohio-10-01-2024/event/05006085C2BB6D6E",
     "date": "2024-10-01T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "DeJ Loaf  \"Where My Fans Tour\" (End Of Summer)"
+    ],
+    "link": "https://concerts.livenation.com/dej-loaf-where-my-fans-tour-cleveland-ohio-10-02-2024/event/0500610AEDB5808F",
+    "date": "2024-10-02T19:00:00",
     "venue": "House of Blues"
   },
   {

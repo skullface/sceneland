@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Band of Heathens",
-      "Thor Platter"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13527684/the-band-of-heathens-thor-platter",
-    "date": "2024-08-13T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "The Surfrajettes",
       "Dave Rich & the Enablers"
     ],
@@ -436,6 +427,14 @@
   },
   {
     "artist": [
+      "Crawlers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13848013/crawlers",
+    "date": "2024-09-19T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "DEVOtional 2024"
     ],
     "link": "https://www.beachlandballroom.com/e/13505864/devotional-2024",
@@ -494,6 +493,16 @@
     "link": "https://www.beachlandballroom.com/e/13707283/the-dead-revival-band",
     "date": "2024-09-27T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "The Rosies",
+      "Babe Haven",
+      "Fruitfly"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13809103/the-rosies-babe-haven-fruitfly",
+    "date": "2024-09-27T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

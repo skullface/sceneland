@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Aug 2024 09:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 09:05:18 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GOLDEN GIRLS - The Laughs Continue at Playhouse Square]]></title>
@@ -21,17 +21,17 @@
             <pubDate>Sat, 24 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Andrew Schulz: The Life Tour at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour]]></description>
-            <link>https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ralph Barbosa at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Ralph Barbosa at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/ralph-barbosa]]></description>
             <link>https://www.playhousesquare.org/events/detail/ralph-barbosa</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/ralph-barbosa</guid>
+            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Andrew Schulz: The Life Tour at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</guid>
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -229,13 +229,6 @@
             <link>https://www.playhousesquare.org/events/detail/joe-bonamassa-3</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/joe-bonamassa-3</guid>
             <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missy Elliott: OUT OF THIS WORLD: THE EXPERIENCE, Special Guests Ciara, Busta Rhymes & Timbaland at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Missy Elliott: OUT OF THIS WORLD: THE EXPERIENCE, Special Guests Ciara, Busta Rhymes & Timbaland at Rocket Mortgage FieldHouse on Wednesday, August 14, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/missy-elliott-240814]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/missy-elliott-240814</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/missy-elliott-240814</guid>
-            <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Taste of Black Cleveland, The Food Showcase 6.0 at Rocket Mortgage FieldHouse]]></title>
@@ -1309,13 +1302,6 @@
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bones UK at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Bones UK at House of Blues on Wednesday, August 14, 2024, 07:00 PM: https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161]]></description>
-            <link>https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/bones-uk-cleveland-ohio-08-14-2024/event/050060CD9DC14161</guid>
-            <pubDate>Wed, 14 Aug 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Gimme Sugar: A Tribute To The Rolling Stones at House of Blues]]></title>
             <description><![CDATA[Get tickets to Gimme Sugar: A Tribute To The Rolling Stones at House of Blues on Friday, August 16, 2024, 07:00 PM: https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF]]></description>
             <link>https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF</link>
@@ -1489,6 +1475,13 @@
             <link>https://concerts.livenation.com/tori-kelly-purple-skies-tour-cleveland-ohio-10-01-2024/event/05006085C2BB6D6E</link>
             <guid isPermaLink="true">https://concerts.livenation.com/tori-kelly-purple-skies-tour-cleveland-ohio-10-01-2024/event/05006085C2BB6D6E</guid>
             <pubDate>Tue, 01 Oct 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DeJ Loaf  "Where My Fans Tour" (End Of Summer) at House of Blues]]></title>
+            <description><![CDATA[Get tickets to DeJ Loaf  "Where My Fans Tour" (End Of Summer) at House of Blues on Wednesday, October 2, 2024, 07:00 PM: https://concerts.livenation.com/dej-loaf-where-my-fans-tour-cleveland-ohio-10-02-2024/event/0500610AEDB5808F]]></description>
+            <link>https://concerts.livenation.com/dej-loaf-where-my-fans-tour-cleveland-ohio-10-02-2024/event/0500610AEDB5808F</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/dej-loaf-where-my-fans-tour-cleveland-ohio-10-02-2024/event/0500610AEDB5808F</guid>
+            <pubDate>Wed, 02 Oct 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Switchfoot: The Beautiful Letdown World Tour at House of Blues]]></title>
@@ -2205,13 +2198,6 @@
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[R&B Sing A Long with DJ Dreem at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to R&B Sing A Long with DJ Dreem at Grog Shop on Thursday, August 29, 2024, 09:00 PM: https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem]]></description>
-            <link>https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13843713/r-b-sing-a-long-with-dj-dreem</guid>
-            <pubDate>Thu, 29 Aug 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
             <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
@@ -2555,6 +2541,13 @@
             <pubDate>Thu, 24 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pop Punk Halloween with TRUSS (Paramore), Grant (Weezer), & Tall Grass (Green Day) at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Pop Punk Halloween with TRUSS (Paramore), Grant (Weezer), & Tall Grass (Green Day) at Grog Shop on Saturday, October 26, 2024, 08:00 PM: https://grogshop.gs/event-details/13835653/pop-punk-halloween-with-truss-paramore-grant-weezer-tall-grass-green-day-]]></description>
+            <link>https://grogshop.gs/event-details/13835653/pop-punk-halloween-with-truss-paramore-grant-weezer-tall-grass-green-day-</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13835653/pop-punk-halloween-with-truss-paramore-grant-weezer-tall-grass-green-day-</guid>
+            <pubDate>Sat, 26 Oct 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Daniel Nunnelee: June, Baby Fall Tour, Hana Eid at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Daniel Nunnelee: June, Baby Fall Tour, Hana Eid at Grog Shop on Sunday, October 27, 2024, 08:00 PM: https://grogshop.gs/event-details/13550214/daniel-nunnelee-june-baby-fall-tour]]></description>
             <link>https://grogshop.gs/event-details/13550214/daniel-nunnelee-june-baby-fall-tour</link>
@@ -2637,13 +2630,6 @@
             <link>https://grogshop.gs/event-details/13809123/bright-eyes</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13809123/bright-eyes</guid>
             <pubDate>Wed, 09 Apr 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Band of Heathens, Thor Platter at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to The Band of Heathens, Thor Platter at Beachland Ballroom on Tuesday, August 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13527684/the-band-of-heathens-thor-platter]]></description>
-            <link>https://www.beachlandballroom.com/e/13527684/the-band-of-heathens-thor-platter</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13527684/the-band-of-heathens-thor-platter</guid>
-            <pubDate>Tue, 13 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Surfrajettes, Dave Rich & the Enablers at Beachland Ballroom]]></title>
@@ -2975,6 +2961,13 @@
             <pubDate>Thu, 19 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Crawlers at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Crawlers at Beachland Ballroom on Thursday, September 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13848013/crawlers]]></description>
+            <link>https://www.beachlandballroom.com/e/13848013/crawlers</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13848013/crawlers</guid>
+            <pubDate>Thu, 19 Sep 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DEVOtional 2024 at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to DEVOtional 2024 at Beachland Ballroom on Friday, September 20, 2024, 07:00 PM: https://www.beachlandballroom.com/e/13505864/devotional-2024]]></description>
             <link>https://www.beachlandballroom.com/e/13505864/devotional-2024</link>
@@ -3021,6 +3014,13 @@
             <description><![CDATA[Get tickets to The Dead Revival Band at Beachland Tavern on Friday, September 27, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13707283/the-dead-revival-band]]></description>
             <link>https://www.beachlandballroom.com/e/13707283/the-dead-revival-band</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13707283/the-dead-revival-band</guid>
+            <pubDate>Fri, 27 Sep 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Rosies, Babe Haven, Fruitfly at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to The Rosies, Babe Haven, Fruitfly at Beachland Ballroom on Friday, September 27, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13809103/the-rosies-babe-haven-fruitfly]]></description>
+            <link>https://www.beachlandballroom.com/e/13809103/the-rosies-babe-haven-fruitfly</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13809103/the-rosies-babe-haven-fruitfly</guid>
             <pubDate>Fri, 27 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>

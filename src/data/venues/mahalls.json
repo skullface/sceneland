@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Wheatus"
-    ],
-    "link": "https://link.dice.fm/S826b6f9f8ca?dice_id=S826b6f9f8ca",
-    "date": "2024-08-15T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Tyler Hilton"
     ],
     "link": "https://link.dice.fm/T8245297ed8a?dice_id=T8245297ed8a",
@@ -33,19 +25,19 @@
   },
   {
     "artist": [
-      "Team Awesome"
-    ],
-    "link": "https://link.dice.fm/L50ba1d08e1e?dice_id=L50ba1d08e1e",
-    "date": "2024-08-18T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Chris Gethard and Eddie Pepitone"
     ],
     "link": "https://link.dice.fm/da57149caf06?dice_id=da57149caf06",
     "date": "2024-08-18T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Team Awesome"
+    ],
+    "link": "https://link.dice.fm/L50ba1d08e1e?dice_id=L50ba1d08e1e",
+    "date": "2024-08-18T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -321,19 +313,19 @@
   },
   {
     "artist": [
-      "Duster"
-    ],
-    "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
-    "date": "2024-10-07T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Red Pears"
     ],
     "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
     "date": "2024-10-07T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Duster"
+    ],
+    "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
+    "date": "2024-10-07T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -353,14 +345,6 @@
   },
   {
     "artist": [
-      "Ginger Root\u2019s SHINBANGUMI Tour"
-    ],
-    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Many Eyes"
     ],
     "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
@@ -369,10 +353,10 @@
   },
   {
     "artist": [
-      "Balance & Composure"
+      "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
-    "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
-    "date": "2024-10-12T18:30:00-04:00",
+    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
+    "date": "2024-10-11T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {
@@ -382,6 +366,14 @@
     "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
     "date": "2024-10-12T18:30:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Balance & Composure"
+    ],
+    "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
+    "date": "2024-10-12T18:30:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -401,19 +393,19 @@
   },
   {
     "artist": [
-      "Friday Pilots Club: The Nowhere Tour"
-    ],
-    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
-    "date": "2024-10-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Demon Hunter"
     ],
     "link": "https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06",
     "date": "2024-10-17T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Friday Pilots Club: The Nowhere Tour"
+    ],
+    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
+    "date": "2024-10-17T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

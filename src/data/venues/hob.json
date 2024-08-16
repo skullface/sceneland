@@ -289,6 +289,14 @@
   },
   {
     "artist": [
+      "The Front Bottoms"
+    ],
+    "link": "https://concerts.livenation.com/the-front-bottoms-cleveland-ohio-10-14-2024/event/050060D282AC1D01",
+    "date": "2024-10-14T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Dayglow: The Tour"
     ],
     "link": "https://concerts.livenation.com/dayglow-the-tour-cleveland-ohio-10-15-2024/event/050060C6ABED608A",
@@ -329,6 +337,14 @@
   },
   {
     "artist": [
+      "Chris Webby"
+    ],
+    "link": "https://concerts.livenation.com/chris-webby-cleveland-ohio-10-20-2024/event/0500610EAE011E25",
+    "date": "2024-10-20T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Inhaler"
     ],
     "link": "https://concerts.livenation.com/inhaler-cleveland-ohio-10-22-2024/event/050060AAD53A60F0",
@@ -365,22 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/syleena-johnson-cleveland-ohio-10-27-2024/event/050060F2E6DF6A97",
     "date": "2024-10-27T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Streetlight Manifesto"
-    ],
-    "link": "https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B",
-    "date": "2024-11-01T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Redwood Christian Ministries Presents: Beyond the Walls"
-    ],
-    "link": "https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF",
-    "date": "2024-11-02T18:00:00",
     "venue": "House of Blues"
   }
 ]

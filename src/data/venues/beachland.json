@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "The Surfrajettes",
-      "Dave Rich & the Enablers"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13381274/the-surfrajettes-dave-rich-the-enablers",
-    "date": "2024-08-14T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Tommy Prine",
-      "Theo Kandel"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13517674/tommy-prine-theo-kandel",
-    "date": "2024-08-14T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The 12th Annual International Ohio Burlesque Festival 2024"
     ],
     "link": "https://www.beachlandballroom.com/e/13498724/the-12th-annual-international-ohio-burlesque-festival-2024",
@@ -66,15 +48,6 @@
     "link": "https://www.beachlandballroom.com/e/13830323/beachland-brunch-dj-zoe-bunny",
     "date": "2024-08-18T11:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Reverend Kristin Michael Hayter",
-      "Church of Starry Wisdom"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13535234/reverend-kristin-michael-hayter-church-of-starry-wisdom",
-    "date": "2024-08-18T20:00:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -771,6 +744,14 @@
     "link": "https://www.beachlandballroom.com/e/13780323/the-shootouts-thor-platter",
     "date": "2024-10-25T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Scream Queens"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13857403/scream-queens",
+    "date": "2024-10-27T19:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

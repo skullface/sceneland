@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Post Saga",
-      "Frida And The Mann",
-      "The Ice Cream Militia"
-    ],
-    "link": "https://grogshop.gs/event-details/13720353/post-saga-frida-and-the-mann-the-ice-cream-militia",
-    "date": "2024-08-16T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "B Side Summer Series: Melted Strawberry"
     ],
     "link": "https://grogshop.gs/event-details/13561414/b-side-summer-series-melted-strawberry",
@@ -323,9 +313,10 @@
   },
   {
     "artist": [
-      "Local H"
+      "Local H",
+      "Radkey"
     ],
-    "link": "https://grogshop.gs/event-details/13830913/local-h",
+    "link": "https://grogshop.gs/event-details/13830913/local-h-radkey",
     "date": "2024-09-15T20:00:00",
     "venue": "Grog Shop"
   },
@@ -489,7 +480,10 @@
   },
   {
     "artist": [
-      "The Polish Ambassador"
+      "The Polish Ambassador",
+      "Otterbahn",
+      "Haydees",
+      "Derek Post"
     ],
     "link": "https://grogshop.gs/event-details/13790453/the-polish-ambassador",
     "date": "2024-10-09T20:00:00",

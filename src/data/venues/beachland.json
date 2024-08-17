@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The 12th Annual International Ohio Burlesque Festival 2024"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13498724/the-12th-annual-international-ohio-burlesque-festival-2024",
-    "date": "2024-08-15T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Krallice",
       "Vedic Dread"
     ],
@@ -222,13 +214,14 @@
   {
     "artist": [
       "BigBabyGucci",
+      "WhiteRoseMoxie",
       "MDMA",
       "Illest Villains",
       "CarterClouud",
       "Public Chase",
       "DJ Sleazus Christ"
     ],
-    "link": "https://www.beachlandballroom.com/e/13790293/bigbabygucci-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ",
+    "link": "https://www.beachlandballroom.com/e/13790293/bigbabygucci-whiterosemoxie-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ",
     "date": "2024-08-31T20:30:00",
     "venue": "Beachland Tavern"
   },
@@ -309,6 +302,14 @@
     "link": "https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury",
     "date": "2024-09-08T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Carter Vail"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13856503/carter-vail",
+    "date": "2024-09-08T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -504,9 +505,10 @@
   },
   {
     "artist": [
-      "Victoria Canal"
+      "Victoria Canal",
+      "Lucy Clearwater"
     ],
-    "link": "https://www.beachlandballroom.com/e/13671733/victoria-canal",
+    "link": "https://www.beachlandballroom.com/e/13671733/victoria-canal-lucy-clearwater",
     "date": "2024-09-29T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -522,9 +524,10 @@
   {
     "artist": [
       "Mike Viola",
-      "L.A. Exes"
+      "L.A. Exes",
+      "Jack & the Optimists"
     ],
-    "link": "https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes",
+    "link": "https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes-jack-the-optimists",
     "date": "2024-10-02T20:00:00",
     "venue": "Beachland Tavern"
   },

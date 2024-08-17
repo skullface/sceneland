@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Tyler Hilton"
-    ],
-    "link": "https://link.dice.fm/T8245297ed8a?dice_id=T8245297ed8a",
-    "date": "2024-08-16T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "FOB vs. Paramore: an all fob and paramore emo night"
-    ],
-    "link": "https://link.dice.fm/L78b7caca0c8?dice_id=L78b7caca0c8",
-    "date": "2024-08-16T22:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "club classixcx: a charli party"
     ],
     "link": "https://link.dice.fm/xa3cb99fae62?dice_id=xa3cb99fae62",
@@ -313,19 +297,19 @@
   },
   {
     "artist": [
-      "The Red Pears"
-    ],
-    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
-    "date": "2024-10-07T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Duster"
     ],
     "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
     "date": "2024-10-07T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Red Pears"
+    ],
+    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
+    "date": "2024-10-07T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -345,14 +329,6 @@
   },
   {
     "artist": [
-      "Many Eyes"
-    ],
-    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
     "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
@@ -361,10 +337,10 @@
   },
   {
     "artist": [
-      "Lady Lamb"
+      "Many Eyes"
     ],
-    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
-    "date": "2024-10-12T18:30:00-04:00",
+    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
+    "date": "2024-10-11T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -374,6 +350,14 @@
     "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
     "date": "2024-10-12T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Lady Lamb"
+    ],
+    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
+    "date": "2024-10-12T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -421,6 +405,14 @@
     ],
     "link": "https://link.dice.fm/Z10550960166?dice_id=Z10550960166",
     "date": "2024-10-20T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "GRLwood"
+    ],
+    "link": "https://link.dice.fm/zffbf5b26db8?dice_id=zffbf5b26db8",
+    "date": "2024-10-22T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -564,7 +556,6 @@
       "Real Friends"
     ],
     "link": "https://link.dice.fm/t55a48d5aafd?dice_id=t55a48d5aafd",
-    "sold_out": true,
     "date": "2024-12-01T18:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
   },

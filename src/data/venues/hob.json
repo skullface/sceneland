@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Gimme Sugar: A Tribute To The Rolling Stones"
-    ],
-    "link": "https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF",
-    "date": "2024-08-16T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Black Pistol Fire"
     ],
     "link": "https://concerts.livenation.com/black-pistol-fire-cleveland-ohio-08-23-2024/event/050060B6EE226150",
@@ -157,14 +149,6 @@
     ],
     "link": "https://concerts.livenation.com/point-north-cleveland-ohio-09-27-2024/event/050060D6BCBB8488",
     "date": "2024-09-27T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Loveless: I LOVE IT WHEN IT TOURS TOUR"
-    ],
-    "link": "https://concerts.livenation.com/loveless-i-love-it-when-it-cleveland-ohio-09-27-2024/event/05006091F9FC6684",
-    "date": "2024-09-27T18:30:00",
     "venue": "House of Blues"
   },
   {
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/syleena-johnson-cleveland-ohio-10-27-2024/event/050060F2E6DF6A97",
     "date": "2024-10-27T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Streetlight Manifesto"
+    ],
+    "link": "https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B",
+    "date": "2024-11-01T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Redwood Christian Ministries Presents: Beyond the Walls"
+    ],
+    "link": "https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF",
+    "date": "2024-11-02T18:00:00",
     "venue": "House of Blues"
   }
 ]

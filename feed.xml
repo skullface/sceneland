@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Aug 2024 09:06:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 09:05:15 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GOLDEN GIRLS - The Laughs Continue at Playhouse Square]]></title>
@@ -21,17 +21,17 @@
             <pubDate>Sat, 24 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ralph Barbosa at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Ralph Barbosa at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/ralph-barbosa]]></description>
-            <link>https://www.playhousesquare.org/events/detail/ralph-barbosa</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/ralph-barbosa</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Andrew Schulz: The Life Tour at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour]]></description>
             <link>https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</guid>
+            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ralph Barbosa at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Ralph Barbosa at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/ralph-barbosa]]></description>
+            <link>https://www.playhousesquare.org/events/detail/ralph-barbosa</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/ralph-barbosa</guid>
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -560,13 +560,6 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CLOSED FOR A PRIVATE EVENT at Foundry]]></title>
-            <description><![CDATA[Get tickets to CLOSED FOR A PRIVATE EVENT at Foundry on Friday, August 16, 2024, 12:00 AM: https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event/</guid>
-            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emo Kids, Lake Erie Emo Club at Foundry]]></title>
             <description><![CDATA[Get tickets to Emo Kids, Lake Erie Emo Club at Foundry on Saturday, August 17, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/</link>
@@ -658,6 +651,13 @@
             <pubDate>Thu, 05 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Reticulatus, Midwinter, The Final Seconds of Suffering, For Absent Friends, Gates of Sheol at Foundry]]></title>
+            <description><![CDATA[Get tickets to Reticulatus, Midwinter, The Final Seconds of Suffering, For Absent Friends, Gates of Sheol at Foundry on Saturday, September 7, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/reticulatus-midwinter-the-final-seconds-of-suffering-for-absent-friends-gates-of-sheol/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/reticulatus-midwinter-the-final-seconds-of-suffering-for-absent-friends-gates-of-sheol/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/reticulatus-midwinter-the-final-seconds-of-suffering-for-absent-friends-gates-of-sheol/</guid>
+            <pubDate>Sat, 07 Sep 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bay Faction at Foundry]]></title>
             <description><![CDATA[Get tickets to Bay Faction at Foundry on Tuesday, September 10, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/bay-faction/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/bay-faction/</link>
@@ -686,8 +686,8 @@
             <pubDate>Thu, 19 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Julien-K, Tomorrows Ghosts at Foundry]]></title>
-            <description><![CDATA[Get tickets to Julien-K, Tomorrows Ghosts at Foundry on Friday, September 20, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/]]></description>
+            <title><![CDATA[Julien-K, Reign of Z, Tomorrows Ghosts at Foundry]]></title>
+            <description><![CDATA[Get tickets to Julien-K, Reign of Z, Tomorrows Ghosts at Foundry on Friday, September 20, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/</guid>
             <pubDate>Fri, 20 Sep 2024 19:00:00 GMT</pubDate>
@@ -712,6 +712,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/</guid>
             <pubDate>Thu, 26 Sep 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Numb: The Nu Metal Band at Foundry]]></title>
+            <description><![CDATA[Get tickets to Numb: The Nu Metal Band at Foundry on Monday, September 30, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/numb-the-nu-metal-band/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/numb-the-nu-metal-band/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/numb-the-nu-metal-band/</guid>
+            <pubDate>Mon, 30 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flake, Lemonbar, Leisure Hour, Moosecreek Park at Foundry]]></title>
@@ -768,6 +775,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/deadlands-renesans-ovtlier/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/deadlands-renesans-ovtlier/</guid>
             <pubDate>Sun, 27 Oct 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scab Hag, Throne, Assimilator, Rustfed, Gouted Corpse at Foundry]]></title>
+            <description><![CDATA[Get tickets to Scab Hag, Throne, Assimilator, Rustfed, Gouted Corpse at Foundry on Thursday, November 7, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/scab-hag-throne-assimilator-rustfed-gouted-corpse/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/scab-hag-throne-assimilator-rustfed-gouted-corpse/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/scab-hag-throne-assimilator-rustfed-gouted-corpse/</guid>
+            <pubDate>Thu, 07 Nov 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Felix Martin, Catbamboo at Foundry]]></title>
@@ -1288,13 +1302,6 @@
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gimme Sugar: A Tribute To The Rolling Stones at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Gimme Sugar: A Tribute To The Rolling Stones at House of Blues on Friday, August 16, 2024, 07:00 PM: https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF]]></description>
-            <link>https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/gimme-sugar-a-tribute-to-the-cleveland-ohio-08-16-2024/event/050060B11C157AFF</guid>
-            <pubDate>Fri, 16 Aug 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Black Pistol Fire at House of Blues]]></title>
             <description><![CDATA[Get tickets to Black Pistol Fire at House of Blues on Friday, August 23, 2024, 07:00 PM: https://concerts.livenation.com/black-pistol-fire-cleveland-ohio-08-23-2024/event/050060B6EE226150]]></description>
             <link>https://concerts.livenation.com/black-pistol-fire-cleveland-ohio-08-23-2024/event/050060B6EE226150</link>
@@ -1426,13 +1433,6 @@
             <link>https://concerts.livenation.com/point-north-cleveland-ohio-09-27-2024/event/050060D6BCBB8488</link>
             <guid isPermaLink="true">https://concerts.livenation.com/point-north-cleveland-ohio-09-27-2024/event/050060D6BCBB8488</guid>
             <pubDate>Fri, 27 Sep 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loveless: I LOVE IT WHEN IT TOURS TOUR at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Loveless: I LOVE IT WHEN IT TOURS TOUR at House of Blues on Friday, September 27, 2024, 06:30 PM: https://concerts.livenation.com/loveless-i-love-it-when-it-cleveland-ohio-09-27-2024/event/05006091F9FC6684]]></description>
-            <link>https://concerts.livenation.com/loveless-i-love-it-when-it-cleveland-ohio-09-27-2024/event/05006091F9FC6684</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/loveless-i-love-it-when-it-cleveland-ohio-09-27-2024/event/05006091F9FC6684</guid>
-            <pubDate>Fri, 27 Sep 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Social Distortion at House of Blues]]></title>
@@ -1622,6 +1622,20 @@
             <link>https://concerts.livenation.com/syleena-johnson-cleveland-ohio-10-27-2024/event/050060F2E6DF6A97</link>
             <guid isPermaLink="true">https://concerts.livenation.com/syleena-johnson-cleveland-ohio-10-27-2024/event/050060F2E6DF6A97</guid>
             <pubDate>Sun, 27 Oct 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Streetlight Manifesto at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Streetlight Manifesto at House of Blues on Friday, November 1, 2024, 06:30 PM: https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B]]></description>
+            <link>https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/streetlight-manifesto-cleveland-ohio-11-01-2024/event/050060A6029A4C3B</guid>
+            <pubDate>Fri, 01 Nov 2024 18:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Redwood Christian Ministries Presents: Beyond the Walls at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Redwood Christian Ministries Presents: Beyond the Walls at House of Blues on Saturday, November 2, 2024, 06:00 PM: https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF]]></description>
+            <link>https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF</guid>
+            <pubDate>Sat, 02 Nov 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dweezil Zappa at Agora]]></title>
@@ -2044,11 +2058,32 @@
             <pubDate>Sun, 26 Jan 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post Saga, Frida And The Mann, The Ice Cream Militia at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Post Saga, Frida And The Mann, The Ice Cream Militia at Grog Shop on Friday, August 16, 2024, 08:30 PM: https://grogshop.gs/event-details/13720353/post-saga-frida-and-the-mann-the-ice-cream-militia]]></description>
-            <link>https://grogshop.gs/event-details/13720353/post-saga-frida-and-the-mann-the-ice-cream-militia</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13720353/post-saga-frida-and-the-mann-the-ice-cream-militia</guid>
-            <pubDate>Fri, 16 Aug 2024 20:30:00 GMT</pubDate>
+            <title><![CDATA[Travis at Agora]]></title>
+            <description><![CDATA[Get tickets to Travis at Agora on Tuesday, February 11, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/587232]]></description>
+            <link>https://www.agoracleveland.com/events/detail/587232</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/587232</guid>
+            <pubDate>Tue, 11 Feb 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mersiv & INZO, OPIUO, Zen Selekta , Daggz , Seth David at Agora]]></title>
+            <description><![CDATA[Get tickets to Mersiv & INZO, OPIUO, Zen Selekta , Daggz , Seth David at Agora on Saturday, February 22, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/650174]]></description>
+            <link>https://www.agoracleveland.com/events/detail/650174</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/650174</guid>
+            <pubDate>Sat, 22 Feb 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bright Eyes at Agora]]></title>
+            <description><![CDATA[Get tickets to Bright Eyes at Agora on Wednesday, April 9, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/647250]]></description>
+            <link>https://www.agoracleveland.com/events/detail/647250</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/647250</guid>
+            <pubDate>Wed, 09 Apr 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dean Lewis at Agora]]></title>
+            <description><![CDATA[Get tickets to Dean Lewis at Agora on Thursday, April 17, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/587201]]></description>
+            <link>https://www.agoracleveland.com/events/detail/587201</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/587201</guid>
+            <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[B Side Summer Series: Melted Strawberry at Grog Shop]]></title>
@@ -2275,10 +2310,10 @@
             <pubDate>Sat, 14 Sep 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Local H at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Local H at Grog Shop on Sunday, September 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13830913/local-h]]></description>
-            <link>https://grogshop.gs/event-details/13830913/local-h</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13830913/local-h</guid>
+            <title><![CDATA[Local H, Radkey at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Local H, Radkey at Grog Shop on Sunday, September 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13830913/local-h-radkey]]></description>
+            <link>https://grogshop.gs/event-details/13830913/local-h-radkey</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13830913/local-h-radkey</guid>
             <pubDate>Sun, 15 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2408,8 +2443,8 @@
             <pubDate>Tue, 08 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Polish Ambassador at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Polish Ambassador at Grog Shop on Wednesday, October 9, 2024, 08:00 PM: https://grogshop.gs/event-details/13790453/the-polish-ambassador]]></description>
+            <title><![CDATA[The Polish Ambassador, Otterbahn, Haydees, Derek Post at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Polish Ambassador, Otterbahn, Haydees, Derek Post at Grog Shop on Wednesday, October 9, 2024, 08:00 PM: https://grogshop.gs/event-details/13790453/the-polish-ambassador]]></description>
             <link>https://grogshop.gs/event-details/13790453/the-polish-ambassador</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13790453/the-polish-ambassador</guid>
             <pubDate>Wed, 09 Oct 2024 20:00:00 GMT</pubDate>
@@ -2583,13 +2618,6 @@
             <pubDate>Wed, 09 Apr 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The 12th Annual International Ohio Burlesque Festival 2024 at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to The 12th Annual International Ohio Burlesque Festival 2024 at Beachland Ballroom on Thursday, August 15, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13498724/the-12th-annual-international-ohio-burlesque-festival-2024]]></description>
-            <link>https://www.beachlandballroom.com/e/13498724/the-12th-annual-international-ohio-burlesque-festival-2024</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13498724/the-12th-annual-international-ohio-burlesque-festival-2024</guid>
-            <pubDate>Thu, 15 Aug 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Krallice, Vedic Dread at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Krallice, Vedic Dread at Beachland Tavern on Friday, August 16, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13477364/krallice-vedic-dread]]></description>
             <link>https://www.beachlandballroom.com/e/13477364/krallice-vedic-dread</link>
@@ -2758,10 +2786,10 @@
             <pubDate>Fri, 30 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BigBabyGucci, MDMA, Illest Villains, CarterClouud, Public Chase, DJ Sleazus Christ at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to BigBabyGucci, MDMA, Illest Villains, CarterClouud, Public Chase, DJ Sleazus Christ at Beachland Tavern on Saturday, August 31, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13790293/bigbabygucci-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ]]></description>
-            <link>https://www.beachlandballroom.com/e/13790293/bigbabygucci-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13790293/bigbabygucci-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ</guid>
+            <title><![CDATA[BigBabyGucci, WhiteRoseMoxie, MDMA, Illest Villains, CarterClouud, Public Chase, DJ Sleazus Christ at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to BigBabyGucci, WhiteRoseMoxie, MDMA, Illest Villains, CarterClouud, Public Chase, DJ Sleazus Christ at Beachland Tavern on Saturday, August 31, 2024, 08:30 PM: https://www.beachlandballroom.com/e/13790293/bigbabygucci-whiterosemoxie-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ]]></description>
+            <link>https://www.beachlandballroom.com/e/13790293/bigbabygucci-whiterosemoxie-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13790293/bigbabygucci-whiterosemoxie-mdma-illest-villains-carterclouud-public-chase-dj-sleazus-christ</guid>
             <pubDate>Sat, 31 Aug 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2818,6 +2846,13 @@
             <description><![CDATA[Get tickets to American Aquarium, Darrin Bradbury at Beachland Ballroom on Sunday, September 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury]]></description>
             <link>https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury</guid>
+            <pubDate>Sun, 08 Sep 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carter Vail at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Carter Vail at Beachland Tavern on Sunday, September 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13856503/carter-vail]]></description>
+            <link>https://www.beachlandballroom.com/e/13856503/carter-vail</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13856503/carter-vail</guid>
             <pubDate>Sun, 08 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2975,10 +3010,10 @@
             <pubDate>Sun, 29 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Victoria Canal at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Victoria Canal at Beachland Tavern on Sunday, September 29, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13671733/victoria-canal]]></description>
-            <link>https://www.beachlandballroom.com/e/13671733/victoria-canal</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13671733/victoria-canal</guid>
+            <title><![CDATA[Victoria Canal, Lucy Clearwater at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Victoria Canal, Lucy Clearwater at Beachland Tavern on Sunday, September 29, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13671733/victoria-canal-lucy-clearwater]]></description>
+            <link>https://www.beachlandballroom.com/e/13671733/victoria-canal-lucy-clearwater</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13671733/victoria-canal-lucy-clearwater</guid>
             <pubDate>Sun, 29 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2989,10 +3024,10 @@
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mike Viola, L.A. Exes at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Mike Viola, L.A. Exes at Beachland Tavern on Wednesday, October 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes]]></description>
-            <link>https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes</guid>
+            <title><![CDATA[Mike Viola, L.A. Exes, Jack & the Optimists at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Mike Viola, L.A. Exes, Jack & the Optimists at Beachland Tavern on Wednesday, October 2, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes-jack-the-optimists]]></description>
+            <link>https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes-jack-the-optimists</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13392184/mike-viola-l-a-exes-jack-the-optimists</guid>
             <pubDate>Wed, 02 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3311,20 +3346,6 @@
             <pubDate>Tue, 22 Apr 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tyler Hilton at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Tyler Hilton at Mahall’s on Friday, August 16, 2024, 10:30 PM: https://link.dice.fm/T8245297ed8a?dice_id=T8245297ed8a]]></description>
-            <link>https://link.dice.fm/T8245297ed8a?dice_id=T8245297ed8a</link>
-            <guid isPermaLink="true">https://link.dice.fm/T8245297ed8a?dice_id=T8245297ed8a</guid>
-            <pubDate>Fri, 16 Aug 2024 22:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FOB vs. Paramore: an all fob and paramore emo night at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to FOB vs. Paramore: an all fob and paramore emo night at Mahall’s on Saturday, August 17, 2024, 02:00 AM: https://link.dice.fm/L78b7caca0c8?dice_id=L78b7caca0c8]]></description>
-            <link>https://link.dice.fm/L78b7caca0c8?dice_id=L78b7caca0c8</link>
-            <guid isPermaLink="true">https://link.dice.fm/L78b7caca0c8?dice_id=L78b7caca0c8</guid>
-            <pubDate>Sat, 17 Aug 2024 02:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[club classixcx: a charli party at Mahall’s]]></title>
             <description><![CDATA[Get tickets to club classixcx: a charli party at Mahall’s on Sunday, August 18, 2024, 01:00 AM: https://link.dice.fm/xa3cb99fae62?dice_id=xa3cb99fae62]]></description>
             <link>https://link.dice.fm/xa3cb99fae62?dice_id=xa3cb99fae62</link>
@@ -3584,17 +3605,17 @@
             <pubDate>Sun, 06 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Red Pears at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to The Red Pears at Mahall’s on Monday, October 7, 2024, 11:00 PM: https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f]]></description>
-            <link>https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</link>
-            <guid isPermaLink="true">https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</guid>
-            <pubDate>Mon, 07 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Duster at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Duster at The Roxy at Mahall’s on Monday, October 7, 2024, 11:00 PM: https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1]]></description>
             <link>https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1</link>
             <guid isPermaLink="true">https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1</guid>
+            <pubDate>Mon, 07 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Red Pears at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to The Red Pears at Mahall’s on Monday, October 7, 2024, 11:00 PM: https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f]]></description>
+            <link>https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</link>
+            <guid isPermaLink="true">https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f</guid>
             <pubDate>Mon, 07 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3612,13 +3633,6 @@
             <pubDate>Thu, 10 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Many Eyes at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
-            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
-            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
-            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7]]></description>
             <link>https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</link>
@@ -3626,17 +3640,24 @@
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lady Lamb at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
-            <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
-            <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
-            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+            <title><![CDATA[Many Eyes at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
+            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
+            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
+            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
             <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
             <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
+            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lady Lamb at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
+            <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
+            <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
             <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
@@ -3680,6 +3701,13 @@
             <link>https://link.dice.fm/Z10550960166?dice_id=Z10550960166</link>
             <guid isPermaLink="true">https://link.dice.fm/Z10550960166?dice_id=Z10550960166</guid>
             <pubDate>Sun, 20 Oct 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GRLwood at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to GRLwood at Mahall’s on Tuesday, October 22, 2024, 11:00 PM: https://link.dice.fm/zffbf5b26db8?dice_id=zffbf5b26db8]]></description>
+            <link>https://link.dice.fm/zffbf5b26db8?dice_id=zffbf5b26db8</link>
+            <guid isPermaLink="true">https://link.dice.fm/zffbf5b26db8?dice_id=zffbf5b26db8</guid>
+            <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tank and the Bangas and Jamila Woods at The Roxy at Mahall’s]]></title>

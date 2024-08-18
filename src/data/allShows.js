@@ -485,12 +485,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Emo Kids, Lake Erie Emo Club'],
-    link: 'https://www.foundryconcertclub.com/tm-event/emo-kids-lake-erie-emo-club/',
-    date: '2024-08-17T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Ekko Astral, Tetchy, Pretty Pretty Awful'],
     link: 'https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/',
     date: '2024-08-18T20:00:00',
@@ -1434,12 +1428,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Dweezil Zappa'],
-    link: 'https://www.agoracleveland.com/events/detail/535550',
-    date: '2024-08-17T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Iron & Wine, Sunny War'],
     link: 'https://www.agoracleveland.com/events/detail/529331',
     date: '2024-08-20T18:00:00',
@@ -1822,18 +1810,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['B Side Summer Series: Melted Strawberry'],
-    link: 'https://grogshop.gs/event-details/13561414/b-side-summer-series-melted-strawberry',
-    date: '2024-08-17T19:00:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Angie McMahon', 'Mimi Gilbert', 'Wish Queen'],
-    link: 'https://grogshop.gs/event-details/13465824/angie-mcmahon',
-    date: '2024-08-17T20:30:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -2360,30 +2336,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Krallice', 'Vedic Dread'],
-    link: 'https://www.beachlandballroom.com/e/13477364/krallice-vedic-dread',
-    date: '2024-08-16T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['The 12th Annual International Ohio Burlesque Festival 2024'],
-    link: 'https://www.beachlandballroom.com/e/13498734/the-12th-annual-international-ohio-burlesque-festival-2024',
-    date: '2024-08-16T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['The 12th Annual International Ohio Burlesque Festival 2024'],
-    link: 'https://www.beachlandballroom.com/e/13498754/the-12th-annual-international-ohio-burlesque-festival-2024',
-    date: '2024-08-17T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['6 Turning 4 Burning'],
-    link: 'https://www.beachlandballroom.com/e/13753543/6-turning-4-burning',
-    date: '2024-08-17T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Beachland Brunch', 'DJ Zoe Bunny'],
@@ -3027,12 +2979,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['club classixcx: a charli party'],
-    link: 'https://link.dice.fm/xa3cb99fae62?dice_id=xa3cb99fae62',
-    date: '2024-08-17T21:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Chris Gethard and Eddie Pepitone'],

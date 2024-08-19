@@ -687,12 +687,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['FREE BAR SHOW'],
-    link: 'https://www.foundryconcertclub.com/tm-event/free-bar-show-2/',
-    date: '2024-11-17T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Lowspot single release w/ Ace of Wands, Fawx, House of Wills'],
     link: 'https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737',
     date: '2024-03-02T21:00:00',
@@ -1812,14 +1806,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: [
-      "Protest The Hero (10th Anniversary of Volition) , '68 and Greyhaven",
-    ],
-    link: 'https://grogshop.gs/event-details/13555064/protest-the-hero-10th-anniversary-of-volition-w-68-and-greyhaven',
-    date: '2024-08-18T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13754353/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-08-19T20:00:00',
@@ -2336,12 +2322,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Beachland Brunch', 'DJ Zoe Bunny'],
-    link: 'https://www.beachlandballroom.com/e/13830323/beachland-brunch-dj-zoe-bunny',
-    date: '2024-08-18T11:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Vandoliers', 'Mya Byrne'],
@@ -2981,18 +2961,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Chris Gethard and Eddie Pepitone'],
-    link: 'https://link.dice.fm/da57149caf06?dice_id=da57149caf06',
-    date: '2024-08-18T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Team Awesome'],
-    link: 'https://link.dice.fm/L50ba1d08e1e?dice_id=L50ba1d08e1e',
-    date: '2024-08-18T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Laur Elle & Lyncs'],
     link: 'https://link.dice.fm/Bc4efb1ed694?dice_id=Bc4efb1ed694',
     date: '2024-08-20T19:00:00-04:00',
@@ -3221,21 +3189,15 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
-    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Many Eyes'],
     link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Balance & Composure'],
-    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
-    date: '2024-10-12T18:30:00-04:00',
+    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
+    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
+    date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
@@ -3243,6 +3205,12 @@ export const allShows = [
     link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Balance & Composure'],
+    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['JW Francis x Jaguar Sun'],

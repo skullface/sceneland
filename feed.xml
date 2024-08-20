@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Aug 2024 09:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 09:06:53 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GOLDEN GIRLS - The Laughs Continue at Playhouse Square]]></title>
@@ -560,20 +560,6 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ekko Astral, Tetchy, Pretty Pretty Awful at Foundry]]></title>
-            <description><![CDATA[Get tickets to Ekko Astral, Tetchy, Pretty Pretty Awful at Foundry on Sunday, August 18, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/</guid>
-            <pubDate>Sun, 18 Aug 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, August 19, 2024, 05:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/</guid>
-            <pubDate>Mon, 19 Aug 2024 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain at Foundry]]></title>
             <description><![CDATA[Get tickets to A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain at Foundry on Tuesday, August 20, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/</link>
@@ -656,6 +642,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/bay-faction/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/bay-faction/</guid>
             <pubDate>Tue, 10 Sep 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Goth Homecoming at Foundry]]></title>
+            <description><![CDATA[Get tickets to Goth Homecoming at Foundry on Saturday, September 14, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/goth-homecoming/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/goth-homecoming/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/goth-homecoming/</guid>
+            <pubDate>Sat, 14 Sep 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AA Williams at Foundry]]></title>
@@ -782,6 +775,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/</guid>
             <pubDate>Wed, 13 Nov 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FREE BAR SHOW at Foundry]]></title>
+            <description><![CDATA[Get tickets to FREE BAR SHOW at Foundry on Sunday, November 17, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/free-bar-show-2/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/free-bar-show-2/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/free-bar-show-2/</guid>
+            <pubDate>Sun, 17 Nov 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lowspot single release w/ Ace of Wands, Fawx, House of Wills at Happy Dog]]></title>
@@ -1694,13 +1694,6 @@
             <pubDate>Wed, 18 Sep 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite at Agora]]></title>
-            <description><![CDATA[Get tickets to Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite at Agora on Thursday, September 19, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/560540]]></description>
-            <link>https://www.agoracleveland.com/events/detail/560540</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/560540</guid>
-            <pubDate>Thu, 19 Sep 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The California Honeydrops at Agora]]></title>
             <description><![CDATA[Get tickets to The California Honeydrops at Agora on Friday, September 20, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/560004]]></description>
             <link>https://www.agoracleveland.com/events/detail/560004</link>
@@ -2051,6 +2044,13 @@
             <pubDate>Sat, 22 Feb 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite at Agora]]></title>
+            <description><![CDATA[Get tickets to Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite at Agora on Saturday, April 5, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/560540]]></description>
+            <link>https://www.agoracleveland.com/events/detail/560540</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/560540</guid>
+            <pubDate>Sat, 05 Apr 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bright Eyes at Agora]]></title>
             <description><![CDATA[Get tickets to Bright Eyes at Agora on Wednesday, April 9, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/647250]]></description>
             <link>https://www.agoracleveland.com/events/detail/647250</link>
@@ -2058,18 +2058,18 @@
             <pubDate>Wed, 09 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gavin Adcock at Agora]]></title>
+            <description><![CDATA[Get tickets to Gavin Adcock at Agora on Thursday, April 10, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/656668]]></description>
+            <link>https://www.agoracleveland.com/events/detail/656668</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/656668</guid>
+            <pubDate>Thu, 10 Apr 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dean Lewis at Agora]]></title>
             <description><![CDATA[Get tickets to Dean Lewis at Agora on Thursday, April 17, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/587201]]></description>
             <link>https://www.agoracleveland.com/events/detail/587201</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/587201</guid>
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, August 19, 2024, 08:00 PM: https://grogshop.gs/event-details/13754353/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
-            <link>https://grogshop.gs/event-details/13754353/make-em-laugh-mondays-hosted-by-kevin-ford</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13754353/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
-            <pubDate>Mon, 19 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grog Shop Presents- Iron & Wine: Light Verse 2024 at Grog Shop]]></title>
@@ -2142,17 +2142,17 @@
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
-            <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
-            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
             <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
+            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
+            <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
             <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2527,6 +2527,13 @@
             <pubDate>Wed, 06 Nov 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cameron Esposito at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Cameron Esposito at Grog Shop on Friday, November 8, 2024, 07:30 PM: https://grogshop.gs/event-details/13852933/cameron-esposito]]></description>
+            <link>https://grogshop.gs/event-details/13852933/cameron-esposito</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13852933/cameron-esposito</guid>
+            <pubDate>Fri, 08 Nov 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Michigander, Cece Coakley at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Michigander, Cece Coakley at Grog Shop on Saturday, November 9, 2024, 08:30 PM: https://grogshop.gs/event-details/13709143/michigander]]></description>
             <link>https://grogshop.gs/event-details/13709143/michigander</link>
@@ -2574,13 +2581,6 @@
             <link>https://grogshop.gs/event-details/13809123/bright-eyes</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13809123/bright-eyes</guid>
             <pubDate>Wed, 09 Apr 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vandoliers, Mya Byrne at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Vandoliers, Mya Byrne at Beachland Tavern on Sunday, August 18, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13560864/vandoliers-mya-byrne]]></description>
-            <link>https://www.beachlandballroom.com/e/13560864/vandoliers-mya-byrne</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13560864/vandoliers-mya-byrne</guid>
-            <pubDate>Sun, 18 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pub Choir at Beachland Ballroom]]></title>

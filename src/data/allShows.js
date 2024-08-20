@@ -485,18 +485,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Ekko Astral, Tetchy, Pretty Pretty Awful'],
-    link: 'https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/',
-    date: '2024-08-18T20:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/',
-    date: '2024-08-19T17:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain'],
     link: 'https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/',
     date: '2024-08-20T19:00:00',
@@ -570,6 +558,12 @@ export const allShows = [
     artist: ['Bay Faction'],
     link: 'https://www.foundryconcertclub.com/tm-event/bay-faction/',
     date: '2024-09-10T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Goth Homecoming'],
+    link: 'https://www.foundryconcertclub.com/tm-event/goth-homecoming/',
+    date: '2024-09-14T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -684,6 +678,12 @@ export const allShows = [
     artist: ['Felix Martin, Catbamboo'],
     link: 'https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/',
     date: '2024-11-13T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['FREE BAR SHOW'],
+    link: 'https://www.foundryconcertclub.com/tm-event/free-bar-show-2/',
+    date: '2024-11-17T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1482,14 +1482,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: [
-      'Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite',
-    ],
-    link: 'https://www.agoracleveland.com/events/detail/560540',
-    date: '2024-09-19T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['The California Honeydrops'],
     link: 'https://www.agoracleveland.com/events/detail/560004',
     date: '2024-09-20T18:00:00',
@@ -1794,9 +1786,23 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: [
+      'Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite',
+    ],
+    link: 'https://www.agoracleveland.com/events/detail/560540',
+    date: '2025-04-05T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Bright Eyes'],
     link: 'https://www.agoracleveland.com/events/detail/647250',
     date: '2025-04-09T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Gavin Adcock'],
+    link: 'https://www.agoracleveland.com/events/detail/656668',
+    date: '2025-04-10T18:00:00',
     venue: 'Agora',
   },
   {
@@ -1804,12 +1810,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
-    link: 'https://grogshop.gs/event-details/13754353/make-em-laugh-mondays-hosted-by-kevin-ford',
-    date: '2024-08-19T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['The Grog Shop Presents- Iron & Wine: Light Verse 2024'],
@@ -1891,14 +1891,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -2282,6 +2282,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Cameron Esposito'],
+    link: 'https://grogshop.gs/event-details/13852933/cameron-esposito',
+    date: '2024-11-08T19:30:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Michigander', 'Cece Coakley'],
     link: 'https://grogshop.gs/event-details/13709143/michigander',
     date: '2024-11-09T20:30:00',
@@ -2322,12 +2328,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Vandoliers', 'Mya Byrne'],
-    link: 'https://www.beachlandballroom.com/e/13560864/vandoliers-mya-byrne',
-    date: '2024-08-18T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Pub Choir'],

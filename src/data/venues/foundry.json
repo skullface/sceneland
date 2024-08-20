@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Ekko Astral, Tetchy, Pretty Pretty Awful"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/ekko-astral-tetchy-pretty-pretty-awful/",
-    "date": "2024-08-18T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-2/",
-    "date": "2024-08-19T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/",
@@ -109,6 +93,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/bay-faction/",
     "date": "2024-09-10T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Goth Homecoming"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/goth-homecoming/",
+    "date": "2024-09-14T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -253,6 +245,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/",
     "date": "2024-11-13T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "FREE BAR SHOW"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show-2/",
+    "date": "2024-11-17T19:00:00",
     "venue": "Foundry"
   }
 ]

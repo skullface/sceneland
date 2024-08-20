@@ -81,14 +81,6 @@
   },
   {
     "artist": [
-      "Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/560540",
-    "date": "2024-09-19T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "The California Honeydrops"
     ],
     "link": "https://www.agoracleveland.com/events/detail/560004",
@@ -489,10 +481,26 @@
   },
   {
     "artist": [
+      "Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/560540",
+    "date": "2025-04-05T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Bright Eyes"
     ],
     "link": "https://www.agoracleveland.com/events/detail/647250",
     "date": "2025-04-09T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Gavin Adcock"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/656668",
+    "date": "2025-04-10T18:00:00",
     "venue": "Agora"
   },
   {

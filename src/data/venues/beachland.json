@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Pub Choir"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13512884/pub-choir",
-    "sold_out": true,
-    "date": "2024-08-19T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Willi Carlisle",
       "Anna Tivel"
     ],
@@ -176,6 +167,14 @@
   },
   {
     "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13868113/beachland-brunch",
+    "date": "2024-09-01T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "The Rumours",
       "Fear of Dancing",
       "Dave Bone & the Trouble Makers"
@@ -186,10 +185,9 @@
   },
   {
     "artist": [
-      "The Linda Lindas",
-      "Bacchae"
+      "The Linda Lindas"
     ],
-    "link": "https://www.beachlandballroom.com/e/13668743/the-linda-lindas-bacchae",
+    "link": "https://www.beachlandballroom.com/e/13668743/the-linda-lindas",
     "date": "2024-09-03T19:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -539,10 +537,9 @@
   },
   {
     "artist": [
-      "Robert Ellis",
-      "Walker Lukens"
+      "Robert Ellis"
     ],
-    "link": "https://www.beachlandballroom.com/e/13676093/robert-ellis-walker-lukens",
+    "link": "https://www.beachlandballroom.com/e/13676093/robert-ellis",
     "date": "2024-10-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -571,6 +568,14 @@
     "link": "https://www.beachlandballroom.com/e/13391764/clem-snide-rye-valley",
     "date": "2024-10-10T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Magic Beans"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13867443/magic-beans",
+    "date": "2024-10-10T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -871,6 +876,14 @@
     "link": "https://www.beachlandballroom.com/e/13683313/surfer-girl-coyote-island-beach-fly",
     "date": "2024-12-07T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Ron Pope"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13783353/ron-pope",
+    "date": "2025-02-26T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

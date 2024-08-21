@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Laur Elle & Lyncs"
-    ],
-    "link": "https://link.dice.fm/Bc4efb1ed694?dice_id=Bc4efb1ed694",
-    "date": "2024-08-20T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Gates of Sheol"
     ],
     "link": "https://link.dice.fm/g7c5c6ccd907?dice_id=g7c5c6ccd907",
@@ -193,6 +185,14 @@
   },
   {
     "artist": [
+      "Chromarama"
+    ],
+    "link": "https://link.dice.fm/sf08b744bb8d?dice_id=sf08b744bb8d",
+    "date": "2024-09-22T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Summer Salt"
     ],
     "link": "https://link.dice.fm/A56578521e09?dice_id=A56578521e09",
@@ -305,19 +305,19 @@
   },
   {
     "artist": [
-      "Many Eyes"
-    ],
-    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
     "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
     "date": "2024-10-11T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Many Eyes"
+    ],
+    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -353,19 +353,19 @@
   },
   {
     "artist": [
-      "Demon Hunter"
-    ],
-    "link": "https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06",
-    "date": "2024-10-17T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Friday Pilots Club: The Nowhere Tour"
     ],
     "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
     "date": "2024-10-17T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Demon Hunter"
+    ],
+    "link": "https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06",
+    "date": "2024-10-17T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -393,19 +393,19 @@
   },
   {
     "artist": [
-      "Tank and the Bangas and Jamila Woods"
-    ],
-    "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
-    "date": "2024-10-23T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Rav and Kill Bill: The Rapper"
     ],
     "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
     "date": "2024-10-23T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Tank and the Bangas and Jamila Woods"
+    ],
+    "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
+    "date": "2024-10-23T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -481,6 +481,14 @@
   },
   {
     "artist": [
+      "Earth Crisis"
+    ],
+    "link": "https://link.dice.fm/Hcbbc337daa8?dice_id=Hcbbc337daa8",
+    "date": "2024-11-03T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "ZERO 9:36"
     ],
     "link": "https://link.dice.fm/c4bf8bfbfbc6?dice_id=c4bf8bfbfbc6",
@@ -549,6 +557,22 @@
     ],
     "link": "https://link.dice.fm/y76353c15861?dice_id=y76353c15861",
     "date": "2024-12-08T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Sungazer"
+    ],
+    "link": "https://link.dice.fm/ab33ed6c11e6?dice_id=ab33ed6c11e6",
+    "date": "2025-01-22T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Ax and the Hatchetmen"
+    ],
+    "link": "https://link.dice.fm/Y47c8c6d640f?dice_id=Y47c8c6d640f",
+    "date": "2025-02-17T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   }
 ]

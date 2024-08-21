@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Iron & Wine, Sunny War"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/529331",
-    "date": "2024-08-20T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "New Found Glory, Sincere Engineer"
     ],
     "link": "https://www.agoracleveland.com/events/detail/535127",
@@ -333,6 +325,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/633703",
     "date": "2024-11-06T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jessie Murph"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/654707",
+    "date": "2024-11-08T18:00:00",
     "venue": "Agora"
   },
   {

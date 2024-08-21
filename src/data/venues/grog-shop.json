@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Grog Shop Presents- Iron & Wine: Light Verse 2024"
-    ],
-    "link": "https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024",
-    "date": "2024-08-20T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Yo Pastel & Friends ft. Easton Evans",
       "Easton Evans"
     ],
@@ -100,17 +92,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -158,6 +150,7 @@
   {
     "artist": [
       "Groga Palooza: Night 3: Stalker Jane Screening and Special Performance",
+      "Gas Station Boner Pills",
       "Flourish",
       "Dotia",
       "Noshows"
@@ -172,6 +165,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13787643/extinction-ad-assault-amassa-cleansing-humanity",
     "date": "2024-09-02T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Whiffler, Stonebridge, Cats Eat Dogs, Huntmere"
+    ],
+    "link": "https://grogshop.gs/event-details/13870723/whiffler-stonebridge-cats-eat-dogs-huntmere",
+    "date": "2024-09-03T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -232,6 +233,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13444074/the-suicide-machines-with-hey-smith-kill-lincoln-bad-operation",
     "date": "2024-09-08T19:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford",
+    "date": "2024-09-09T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -344,6 +353,14 @@
   },
   {
     "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/event-details/13868663/make-em-laugh-mondays-hosted-by-kevin-ford",
+    "date": "2024-09-23T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "The Juliana Hatfield Three",
       "Xanny Stars"
     ],
@@ -369,7 +386,8 @@
   },
   {
     "artist": [
-      "The War And Treaty"
+      "The War And Treaty",
+      "The Kentucky Gentlemen"
     ],
     "link": "https://grogshop.gs/event-details/13532404/the-war-and-treaty",
     "date": "2024-09-28T20:00:00",
@@ -381,6 +399,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13794563/black-sabbitch",
     "date": "2024-09-28T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/event-details/13868653/make-em-laugh-mondays-hosted-by-kevin-ford",
+    "date": "2024-09-30T20:00:00",
     "venue": "Grog Shop"
   },
   {

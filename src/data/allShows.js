@@ -198,7 +198,10 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Nicki Minaj', 'Pink Friday 2 World Tour'],
+    artist: [
+      'Nicki Minaj: Pink Friday 2 World Tour',
+      'Special Guests Tyga, Bia and Skillibeng',
+    ],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/nicki-minaj-240913',
     date: '2024-09-13',
     venue: 'Rocket Mortgage FieldHouse',
@@ -547,6 +550,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['MySpace Music vs. Horny Metal'],
+    link: 'https://www.foundryconcertclub.com/tm-event/myspace-music-vs-horny-metal/',
+    date: '2024-09-06T21:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: [
       'Reticulatus, Midwinter, The Final Seconds of Suffering, For Absent Friends, Gates of Sheol',
     ],
@@ -561,9 +570,9 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Goth Homecoming'],
-    link: 'https://www.foundryconcertclub.com/tm-event/goth-homecoming/',
-    date: '2024-09-14T21:00:00',
+    artist: ['Anime / K-Pop Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night/',
+    date: '2024-09-13T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -684,6 +693,14 @@ export const allShows = [
     artist: ['FREE BAR SHOW'],
     link: 'https://www.foundryconcertclub.com/tm-event/free-bar-show-2/',
     date: '2024-11-17T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: [
+      'Down Rodeo: A Rage Against the Machine Tribute Band, Stone Tribute Pilots: A Stone Temple Pilots Tribute Band',
+    ],
+    link: 'https://www.foundryconcertclub.com/tm-event/down-rodeo-a-rage-against-the-machine-tribute-band-stone-tribute-pilots-a-stone-temple-pilots-tribute-band/',
+    date: '2024-12-06T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1422,12 +1439,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Iron & Wine, Sunny War'],
-    link: 'https://www.agoracleveland.com/events/detail/529331',
-    date: '2024-08-20T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['New Found Glory, Sincere Engineer'],
     link: 'https://www.agoracleveland.com/events/detail/535127',
     date: '2024-08-29T18:00:00',
@@ -1678,6 +1689,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Jessie Murph'],
+    link: 'https://www.agoracleveland.com/events/detail/654707',
+    date: '2024-11-08T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Mitchell Tenpenny, Dylan Schneider'],
     link: 'https://www.agoracleveland.com/events/detail/625961',
     date: '2024-11-14T18:00:00',
@@ -1812,12 +1829,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['The Grog Shop Presents- Iron & Wine: Light Verse 2024'],
-    link: 'https://grogshop.gs/event-details/13519273/the-grog-shop-presents-iron-wine-light-verse-2024',
-    date: '2024-08-20T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Yo Pastel & Friends ft. Easton Evans', 'Easton Evans'],
     link: 'https://grogshop.gs/event-details/13843883/yo-pastel-friends-ft-easton-evans',
     date: '2024-08-21T20:00:00',
@@ -1891,14 +1902,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -1943,6 +1954,7 @@ export const allShows = [
   {
     artist: [
       'Groga Palooza: Night 3: Stalker Jane Screening and Special Performance',
+      'Gas Station Boner Pills',
       'Flourish',
       'Dotia',
       'Noshows',
@@ -1955,6 +1967,12 @@ export const allShows = [
     artist: ['Extinction AD, Assault, Amassa, Cleansing Humanity'],
     link: 'https://grogshop.gs/event-details/13787643/extinction-ad-assault-amassa-cleansing-humanity',
     date: '2024-09-02T19:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Whiffler, Stonebridge, Cats Eat Dogs, Huntmere'],
+    link: 'https://grogshop.gs/event-details/13870723/whiffler-stonebridge-cats-eat-dogs-huntmere',
+    date: '2024-09-03T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2007,6 +2025,12 @@ export const allShows = [
     ],
     link: 'https://grogshop.gs/event-details/13444074/the-suicide-machines-with-hey-smith-kill-lincoln-bad-operation',
     date: '2024-09-08T19:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-09-09T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2086,6 +2110,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13868663/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-09-23T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['The Juliana Hatfield Three', 'Xanny Stars'],
     link: 'https://grogshop.gs/event-details/13564334/the-juliana-hatfield-three',
     date: '2024-09-25T20:00:00',
@@ -2106,7 +2136,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['The War And Treaty'],
+    artist: ['The War And Treaty', 'The Kentucky Gentlemen'],
     link: 'https://grogshop.gs/event-details/13532404/the-war-and-treaty',
     date: '2024-09-28T20:00:00',
     venue: 'Grog Shop',
@@ -2115,6 +2145,12 @@ export const allShows = [
     artist: ['Black Sabbitch'],
     link: 'https://grogshop.gs/event-details/13794563/black-sabbitch',
     date: '2024-09-28T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
+    link: 'https://grogshop.gs/event-details/13868653/make-em-laugh-mondays-hosted-by-kevin-ford',
+    date: '2024-09-30T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2330,13 +2366,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Pub Choir'],
-    link: 'https://www.beachlandballroom.com/e/13512884/pub-choir',
-    sold_out: true,
-    date: '2024-08-19T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['Willi Carlisle', 'Anna Tivel'],
     link: 'https://www.beachlandballroom.com/e/13541174/willi-carlisle-anna-tivel',
     date: '2024-08-20T20:00:00',
@@ -2457,6 +2486,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Beachland Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13868113/beachland-brunch',
+    date: '2024-09-01T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: [
       'The Rumours',
       'Fear of Dancing',
@@ -2467,8 +2502,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['The Linda Lindas', 'Bacchae'],
-    link: 'https://www.beachlandballroom.com/e/13668743/the-linda-lindas-bacchae',
+    artist: ['The Linda Lindas'],
+    link: 'https://www.beachlandballroom.com/e/13668743/the-linda-lindas',
     date: '2024-09-03T19:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2717,8 +2752,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Robert Ellis', 'Walker Lukens'],
-    link: 'https://www.beachlandballroom.com/e/13676093/robert-ellis-walker-lukens',
+    artist: ['Robert Ellis'],
+    link: 'https://www.beachlandballroom.com/e/13676093/robert-ellis',
     date: '2024-10-08T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2739,6 +2774,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13391764/clem-snide-rye-valley',
     date: '2024-10-10T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Magic Beans'],
+    link: 'https://www.beachlandballroom.com/e/13867443/magic-beans',
+    date: '2024-10-10T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['LaMP'],
@@ -2955,16 +2996,16 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Ron Pope'],
+    link: 'https://www.beachlandballroom.com/e/13783353/ron-pope',
+    date: '2025-02-26T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Ty Segall Solo Acoustic'],
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Laur Elle & Lyncs'],
-    link: 'https://link.dice.fm/Bc4efb1ed694?dice_id=Bc4efb1ed694',
-    date: '2024-08-20T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Gates of Sheol'],
@@ -3105,6 +3146,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Chromarama'],
+    link: 'https://link.dice.fm/sf08b744bb8d?dice_id=sf08b744bb8d',
+    date: '2024-09-22T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Summer Salt'],
     link: 'https://link.dice.fm/A56578521e09?dice_id=A56578521e09',
     date: '2024-09-24T19:00:00-04:00',
@@ -3189,16 +3236,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Many Eyes'],
-    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
     link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Many Eyes'],
+    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Lady Lamb'],
@@ -3225,16 +3272,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Demon Hunter'],
-    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
-    date: '2024-10-17T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Friday Pilots Club: The Nowhere Tour'],
     link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
     date: '2024-10-17T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Demon Hunter'],
+    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
+    date: '2024-10-17T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Cloud Nothings'],
@@ -3255,16 +3302,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Tank and the Bangas and Jamila Woods'],
-    link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
-    date: '2024-10-23T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Rav and Kill Bill: The Rapper'],
     link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
     date: '2024-10-23T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Tank and the Bangas and Jamila Woods'],
+    link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
+    date: '2024-10-23T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Undeath'],
@@ -3321,6 +3368,12 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['Earth Crisis'],
+    link: 'https://link.dice.fm/Hcbbc337daa8?dice_id=Hcbbc337daa8',
+    date: '2024-11-03T18:30:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['ZERO 9:36'],
     link: 'https://link.dice.fm/c4bf8bfbfbc6?dice_id=c4bf8bfbfbc6',
     date: '2024-11-04T19:00:00-05:00',
@@ -3372,6 +3425,18 @@ export const allShows = [
     artist: ['Tiny Moving Parts'],
     link: 'https://link.dice.fm/y76353c15861?dice_id=y76353c15861',
     date: '2024-12-08T18:30:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Sungazer'],
+    link: 'https://link.dice.fm/ab33ed6c11e6?dice_id=ab33ed6c11e6',
+    date: '2025-01-22T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Ax and the Hatchetmen'],
+    link: 'https://link.dice.fm/Y47c8c6d640f?dice_id=Y47c8c6d640f',
+    date: '2025-02-17T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
 ]

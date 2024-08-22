@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Gates of Sheol"
-    ],
-    "link": "https://link.dice.fm/g7c5c6ccd907?dice_id=g7c5c6ccd907",
-    "date": "2024-08-21T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Emo Night Brooklyn Presents: Super American"
     ],
     "link": "https://link.dice.fm/V2783c0929aa?dice_id=V2783c0929aa",
@@ -169,14 +161,6 @@
   },
   {
     "artist": [
-      "The Armed and H09909"
-    ],
-    "link": "https://link.dice.fm/Cab123510986?dice_id=Cab123510986",
-    "date": "2024-09-20T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Caskets"
     ],
     "link": "https://link.dice.fm/w9a4a693134a?dice_id=w9a4a693134a",
@@ -229,6 +213,14 @@
     ],
     "link": "https://link.dice.fm/ld400190f900?dice_id=ld400190f900",
     "date": "2024-09-29T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Snooper"
+    ],
+    "link": "https://link.dice.fm/R520d3abcc4b?dice_id=R520d3abcc4b",
+    "date": "2024-10-01T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -321,19 +313,19 @@
   },
   {
     "artist": [
-      "Lady Lamb"
-    ],
-    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
-    "date": "2024-10-12T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Balance & Composure"
     ],
     "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
     "date": "2024-10-12T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Lady Lamb"
+    ],
+    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
+    "date": "2024-10-12T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -393,19 +385,19 @@
   },
   {
     "artist": [
-      "Rav and Kill Bill: The Rapper"
-    ],
-    "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
-    "date": "2024-10-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Tank and the Bangas and Jamila Woods"
     ],
     "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
     "date": "2024-10-23T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rav and Kill Bill: The Rapper"
+    ],
+    "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
+    "date": "2024-10-23T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/",
-    "date": "2024-08-20T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Worthy Of The Crown, The Dead Don\u2019t Sleep, Midwinter, Only The Lucky Ones Die, Unconditional Hatred"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/worthy-of-the-crown-the-dead-dont-sleep-only-the-lucky-ones-die/",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night/",
     "date": "2024-09-13T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Goth Homecoming"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/goth-homecoming/",
+    "date": "2024-09-14T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -253,6 +253,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/",
     "date": "2024-11-13T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "FREE BAR SHOW"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show-2/",
+    "date": "2024-11-17T19:00:00",
     "venue": "Foundry"
   },
   {

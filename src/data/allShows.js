@@ -458,12 +458,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Bug Hunter & The Narcissist Cookbook'],
-    link: 'https://www.ticketweb.com/event/bug-hunter-the-narcissist-cookbook-musica-tickets/13400384',
-    date: '2024-08-21T19:00:00',
-    venue: 'Musica Akron',
-  },
-  {
     artist: ['Cole Chaney: Legends & Verse 2024, Tony Logue and The 184'],
     link: 'https://www.ticketweb.com/event/cole-chaney-legends-verse-musica-tickets/13506764',
     date: '2024-09-06T21:00:00',
@@ -486,12 +480,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['A Skylit Drive, Vrsty, Ovtlier, Audience Of Rain'],
-    link: 'https://www.foundryconcertclub.com/tm-event/a-skylit-drive-vrsty-ovtlier/',
-    date: '2024-08-20T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: [
@@ -573,6 +561,12 @@ export const allShows = [
     artist: ['Anime / K-Pop Night'],
     link: 'https://www.foundryconcertclub.com/tm-event/anime-k-pop-night/',
     date: '2024-09-13T21:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Goth Homecoming'],
+    link: 'https://www.foundryconcertclub.com/tm-event/goth-homecoming/',
+    date: '2024-09-14T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -687,6 +681,12 @@ export const allShows = [
     artist: ['Felix Martin, Catbamboo'],
     link: 'https://www.foundryconcertclub.com/tm-event/felix-martin-catbamboo/',
     date: '2024-11-13T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['FREE BAR SHOW'],
+    link: 'https://www.foundryconcertclub.com/tm-event/free-bar-show-2/',
+    date: '2024-11-17T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1059,12 +1059,6 @@ export const allShows = [
     link: 'https://www.ticketmaster.com/couples-therapy-cleveland-ohio-10-19-2024/event/05006042A39E61EF',
     date: '2024-10-19T20:00:00',
     venue: 'Masonic Temple',
-  },
-  {
-    artist: ['Human Musical Group Sensations GLASS ANIMALS: TOUR OF EARTH'],
-    link: 'https://concerts.livenation.com/human-musical-group-sensations-glass-animals-cuyahoga-falls-ohio-08-21-2024/event/05006082D88A5F19',
-    date: '2024-08-21T19:45:00',
-    venue: 'Blossom',
   },
   {
     artist: ['The Doobie Brothers 2024'],
@@ -1829,12 +1823,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Yo Pastel & Friends ft. Easton Evans', 'Easton Evans'],
-    link: 'https://grogshop.gs/event-details/13843883/yo-pastel-friends-ft-easton-evans',
-    date: '2024-08-21T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Mad Caddies', 'The Iron Roses', "Hogan's Last Smash"],
     link: 'https://grogshop.gs/event-details/13465284/mad-caddies-w-the-iron-roses-hogan-s-last-smash',
     date: '2024-08-22T20:00:00',
@@ -1902,14 +1890,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -2366,18 +2354,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Willi Carlisle', 'Anna Tivel'],
-    link: 'https://www.beachlandballroom.com/e/13541174/willi-carlisle-anna-tivel',
-    date: '2024-08-20T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ["The Legal Aid Society's Jam for Justice"],
-    link: 'https://www.beachlandballroom.com/e/13481964/the-legal-aid-society-s-jam-for-justice',
-    date: '2024-08-21T17:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['Silverada', 'Jason Scott & the High Heat'],
     link: 'https://www.beachlandballroom.com/e/13491234/silverada-jason-scott-the-high-heat',
     date: '2024-08-22T20:00:00',
@@ -2396,8 +2372,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['The Whips', 'Miki Fiki'],
-    link: 'https://www.beachlandballroom.com/e/13679903/the-whips-miki-fiki',
+    artist: ['The Whips', 'Miki Fiki', 'Jake Conder'],
+    link: 'https://www.beachlandballroom.com/e/13679903/the-whips-miki-fiki-jake-conder',
     date: '2024-08-23T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2414,8 +2390,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Beachland Brunch'],
-    link: 'https://www.beachlandballroom.com/e/13847193/beachland-brunch',
+    artist: ['Beachland Brunch', 'DJ Nicholas Guido'],
+    link: 'https://www.beachlandballroom.com/e/13847193/beachland-brunch-dj-nicholas-guido',
     date: '2024-08-25T11:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2440,7 +2416,7 @@ export const allShows = [
   {
     artist: ['Pre/Post Party with DJ Cardigan Enthusiast'],
     link: 'https://www.beachlandballroom.com/e/13762263/pre-post-party-with-dj-cardigan-enthusiast',
-    date: '2024-08-28T18:00:00',
+    date: '2024-08-28T17:30:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -2486,8 +2462,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Beachland Brunch'],
-    link: 'https://www.beachlandballroom.com/e/13868113/beachland-brunch',
+    artist: ['Beachland Brunch', 'DJ Adam Tully'],
+    link: 'https://www.beachlandballroom.com/e/13868113/beachland-brunch-dj-adam-tully',
     date: '2024-09-01T11:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2518,6 +2494,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13780083/figgmunity-live-podcast',
     date: '2024-09-04T20:30:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Team Awesome', 'Hard Hat', 'Rent For Cheryl'],
+    link: 'https://www.beachlandballroom.com/e/13872343/team-awesome-hard-hat-rent-for-cheryl',
+    date: '2024-09-05T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Brothertiger', 'Evan Crouse'],
@@ -2608,6 +2590,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Pre/Post Party', 'Sugar Mules'],
+    link: 'https://www.beachlandballroom.com/e/13872433/pre-post-party-sugar-mules',
+    date: '2024-09-18T18:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Sierra Hull', 'Stephanie Lambring'],
     link: 'https://www.beachlandballroom.com/e/13505944/sierra-hull-stephanie-lambring',
     date: '2024-09-18T20:00:00',
@@ -2680,8 +2668,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['The War and Treaty'],
-    link: 'https://www.beachlandballroom.com/e/13530574/the-war-and-treaty',
+    artist: ['The War and Treaty', 'The Kentucky Gentlemen'],
+    link: 'https://www.beachlandballroom.com/e/13530574/the-war-and-treaty-the-kentucky-gentlemen',
     date: '2024-09-28T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2900,6 +2888,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Into The Blue'],
+    link: 'https://www.beachlandballroom.com/e/13873553/into-the-blue',
+    date: '2024-10-31T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Shwayze', 'SensaMotion', 'Cloud9 Vibes'],
     link: 'https://www.beachlandballroom.com/e/13669003/shwayze-sensamotion-cloud9-vibes',
     date: '2024-11-01T20:00:00',
@@ -2972,6 +2966,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Eric Slick x Twen'],
+    link: 'https://www.beachlandballroom.com/e/13860833/eric-slick-x-twen',
+    date: '2024-11-18T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Alisa Amador'],
     link: 'https://www.beachlandballroom.com/e/13687043/alisa-amador',
     date: '2024-11-23T20:00:00',
@@ -2996,6 +2996,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Bearly Dead: A Tribute To The Grateful Dead'],
+    link: 'https://www.beachlandballroom.com/e/13860813/bearly-dead-a-tribute-to-the-grateful-dead',
+    date: '2024-12-13T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Ron Pope'],
     link: 'https://www.beachlandballroom.com/e/13783353/ron-pope',
     date: '2025-02-26T20:00:00',
@@ -3006,12 +3012,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Gates of Sheol'],
-    link: 'https://link.dice.fm/g7c5c6ccd907?dice_id=g7c5c6ccd907',
-    date: '2024-08-21T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Emo Night Brooklyn Presents: Super American'],
@@ -3134,12 +3134,6 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['The Armed and H09909'],
-    link: 'https://link.dice.fm/Cab123510986?dice_id=Cab123510986',
-    date: '2024-09-20T18:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Caskets'],
     link: 'https://link.dice.fm/w9a4a693134a?dice_id=w9a4a693134a',
     date: '2024-09-20T19:00:00-04:00',
@@ -3179,6 +3173,12 @@ export const allShows = [
     artist: ['Creeper'],
     link: 'https://link.dice.fm/ld400190f900?dice_id=ld400190f900',
     date: '2024-09-29T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Snooper'],
+    link: 'https://link.dice.fm/R520d3abcc4b?dice_id=R520d3abcc4b',
+    date: '2024-10-01T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -3248,16 +3248,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Lady Lamb'],
-    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
-    date: '2024-10-12T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Balance & Composure'],
     link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Lady Lamb'],
+    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['JW Francis x Jaguar Sun'],
@@ -3302,16 +3302,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Rav and Kill Bill: The Rapper'],
-    link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
-    date: '2024-10-23T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Tank and the Bangas and Jamila Woods'],
     link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
     date: '2024-10-23T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Rav and Kill Bill: The Rapper'],
+    link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
+    date: '2024-10-23T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Undeath'],

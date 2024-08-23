@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Silverada",
-      "Jason Scott & the High Heat"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13491234/silverada-jason-scott-the-high-heat",
-    "date": "2024-08-22T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Owen",
-      "Jeremy Boyle"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13499163/owen-jeremy-boyle",
-    "date": "2024-08-22T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Ike Reilly",
       "Don't Turn Your Back on Friday Night (Film)"
     ],
@@ -171,9 +153,10 @@
   },
   {
     "artist": [
-      "The Linda Lindas"
+      "The Linda Lindas",
+      "Rodeo Boys"
     ],
-    "link": "https://www.beachlandballroom.com/e/13668743/the-linda-lindas",
+    "link": "https://www.beachlandballroom.com/e/13668743/the-linda-lindas-rodeo-boys",
     "date": "2024-09-03T19:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -866,9 +849,10 @@
   },
   {
     "artist": [
-      "Alisa Amador"
+      "Alisa Amador",
+      "Beane"
     ],
-    "link": "https://www.beachlandballroom.com/e/13687043/alisa-amador",
+    "link": "https://www.beachlandballroom.com/e/13687043/alisa-amador-beane",
     "date": "2024-11-23T20:00:00",
     "venue": "Beachland Tavern"
   },

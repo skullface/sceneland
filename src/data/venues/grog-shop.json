@@ -1,20 +1,6 @@
 [
   {
     "artist": [
-      "Somewhere In Ohio",
-      "Will Cherry",
-      "N'shai Iman",
-      "Trav Hen",
-      "Sierra Delaine",
-      "Kellevators",
-      "TJ \"Peachcurls\" Maclin"
-    ],
-    "link": "https://grogshop.gs/event-details/13826783/somewhere-in-ohio",
-    "date": "2024-08-23T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Mojoflo",
       "Da Land Brass Band and Hyperius Blake and The Sound Experiment",
       "MOJOFLO",
@@ -375,7 +361,8 @@
   },
   {
     "artist": [
-      "Black Sabbitch"
+      "Black Sabbitch",
+      "Pale Grey Lore"
     ],
     "link": "https://grogshop.gs/event-details/13794563/black-sabbitch",
     "date": "2024-09-28T20:30:00",
@@ -526,20 +513,20 @@
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Brooke Candy",
       "Namasenda",
       "Tash Blake"
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "date": "2024-10-19T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
+    ],
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
@@ -657,7 +644,8 @@
   },
   {
     "artist": [
-      "Cris Jacobs"
+      "Cris Jacobs",
+      "The Way Down Wanderers"
     ],
     "link": "https://grogshop.gs/event-details/13555344/cris-jacobs",
     "date": "2024-11-15T21:00:00",

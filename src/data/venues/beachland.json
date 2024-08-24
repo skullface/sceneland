@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "Ike Reilly",
-      "Don't Turn Your Back on Friday Night (Film)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13702703/ike-reilly-don-t-turn-your-back-on-friday-night-film-",
-    "date": "2024-08-23T19:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "The Whips",
-      "Miki Fiki",
-      "Jake Conder"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13679903/the-whips-miki-fiki-jake-conder",
-    "date": "2024-08-23T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Baldassarre Rock Orchestra"
     ],
     "link": "https://www.beachlandballroom.com/e/13694903/baldassarre-rock-orchestra",
@@ -39,9 +20,9 @@
   {
     "artist": [
       "Beachland Brunch",
-      "DJ Nicholas Guido"
+      "DJ Nicolas Guido"
     ],
-    "link": "https://www.beachlandballroom.com/e/13847193/beachland-brunch-dj-nicholas-guido",
+    "link": "https://www.beachlandballroom.com/e/13847193/beachland-brunch-dj-nicolas-guido",
     "date": "2024-08-25T11:00:00",
     "venue": "Beachland Tavern"
   },
@@ -250,9 +231,10 @@
   {
     "artist": [
       "Dogpark",
-      "Juniper"
+      "Juniper",
+      "Who Saved Who"
     ],
-    "link": "https://www.beachlandballroom.com/e/13702943/dogpark-juniper",
+    "link": "https://www.beachlandballroom.com/e/13702943/dogpark-juniper-who-saved-who",
     "date": "2024-09-10T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -285,9 +267,10 @@
   },
   {
     "artist": [
-      "Dorian Electra"
+      "Dorian Electra",
+      "Chayla Hope"
     ],
-    "link": "https://www.beachlandballroom.com/e/13716563/dorian-electra",
+    "link": "https://www.beachlandballroom.com/e/13716563/dorian-electra-chayla-hope",
     "date": "2024-09-12T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -366,6 +349,15 @@
     "link": "https://www.beachlandballroom.com/e/13706503/fog-lake-foxes-in-fiction",
     "date": "2024-09-23T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Max Axton and Bad Moon",
+      "Country Honk"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13880143/max-axton-and-bad-moon-country-honk",
+    "date": "2024-09-23T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -510,6 +502,16 @@
   },
   {
     "artist": [
+      "Hello! 3D",
+      "Grateful for Biggie",
+      "Brood X"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13876703/hello-3d-grateful-for-biggie-brood-x",
+    "date": "2024-10-05T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Gong"
     ],
     "link": "https://www.beachlandballroom.com/e/13398804/gong",
@@ -518,9 +520,10 @@
   },
   {
     "artist": [
-      "The Lemon Twigs"
+      "The Lemon Twigs",
+      "SLUGBUG"
     ],
-    "link": "https://www.beachlandballroom.com/e/13455694/the-lemon-twigs",
+    "link": "https://www.beachlandballroom.com/e/13455694/the-lemon-twigs-slugbug",
     "date": "2024-10-07T20:00:00",
     "venue": "Beachland Ballroom"
   },

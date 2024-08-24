@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Black Pistol Fire"
-    ],
-    "link": "https://concerts.livenation.com/black-pistol-fire-cleveland-ohio-08-23-2024/event/050060B6EE226150",
-    "date": "2024-08-23T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Magic Men Australia"
     ],
     "link": "https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/redwood-christian-ministries-presents-beyond-the-cleveland-ohio-11-02-2024/event/0500610222E2C9FF",
     "date": "2024-11-02T18:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Livingston: A Hometown Odyssey Tour: Part 2"
+    ],
+    "link": "https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71",
+    "date": "2024-11-06T19:00:00",
     "venue": "House of Blues"
   }
 ]

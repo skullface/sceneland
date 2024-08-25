@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "Mojoflo",
-      "Da Land Brass Band and Hyperius Blake and The Sound Experiment",
-      "MOJOFLO",
-      "Da Land Brass Band",
-      "Hyperius Blake and The Sound Experiment"
-    ],
-    "link": "https://grogshop.gs/event-details/13740093/mojoflo-w-da-land-brass-band-and-hyperius-blake-and-the-sound-experiment",
-    "date": "2024-08-24T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "BATTLEGROUND: Fight for Ohio"
     ],
     "link": "https://grogshop.gs/event-details/13768083/battleground-fight-for-ohio",
@@ -34,6 +22,7 @@
       "Rich Mattson and the Northstars"
     ],
     "link": "https://grogshop.gs/event-details/13380944/built-to-spill-there-s-nothing-wrong-with-love-30th-anniversary-tour",
+    "sold_out": true,
     "date": "2024-08-28T19:30:00",
     "venue": "Grog Shop"
   },
@@ -58,17 +47,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -513,20 +502,20 @@
   },
   {
     "artist": [
-      "Brooke Candy",
-      "Namasenda",
-      "Tash Blake"
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
     ],
-    "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
+      "Brooke Candy",
+      "Namasenda",
+      "Tash Blake"
     ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
+    "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },

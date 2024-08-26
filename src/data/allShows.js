@@ -1,17 +1,5 @@
 export const allShows = [
   {
-    artist: ['GOLDEN GIRLS - The Laughs Continue'],
-    link: 'https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls',
-    date: '2024-08-06',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['Brett Goldstein'],
-    link: 'https://www.playhousesquare.org/events/detail/brett-goldstein',
-    date: '2024-08-24',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Andrew Schulz: The Life Tour'],
     link: 'https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour',
     date: '2024-09-20',
@@ -468,12 +456,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Conquer Divide, Enmy, Heartsick, Death & Exhale'],
-    link: 'https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/',
-    date: '2024-08-25T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Fundraiser'],
@@ -1785,12 +1767,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['BATTLEGROUND: Fight for Ohio'],
-    link: 'https://grogshop.gs/event-details/13768083/battleground-fight-for-ohio',
-    date: '2024-08-25T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Apes of the State, Rent Strike, The House of Wills'],
     link: 'https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills',
     date: '2024-08-26T20:00:00',
@@ -2288,18 +2264,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Beachland Brunch', 'DJ Nicolas Guido'],
-    link: 'https://www.beachlandballroom.com/e/13847193/beachland-brunch-dj-nicolas-guido',
-    date: '2024-08-25T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['John P. Thompson: Memorial & Celebration of Life'],
-    link: 'https://www.beachlandballroom.com/e/13802883/john-p-thompson-memorial-celebration-of-life',
-    date: '2024-08-25T13:30:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Aggie Miller', 'Surgeon General', 'Clare Feorene'],
@@ -2926,12 +2890,6 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Fungits'],
-    link: 'https://link.dice.fm/c5f650c72e24?dice_id=c5f650c72e24',
-    date: '2024-08-25T18:30:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Emo Bingo'],
     link: 'https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3',
     date: '2024-08-27T18:00:00-04:00',
@@ -3064,6 +3022,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Boy Band Homecoming dance'],
+    link: 'https://link.dice.fm/T940c17e440e?dice_id=T940c17e440e',
+    date: '2024-09-28T20:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Creeper'],
     link: 'https://link.dice.fm/ld400190f900?dice_id=ld400190f900',
     date: '2024-09-29T18:30:00-04:00',
@@ -3130,16 +3094,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
-    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Many Eyes'],
     link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
+    link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Balance & Composure'],

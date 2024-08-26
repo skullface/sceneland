@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Fungits"
-    ],
-    "link": "https://link.dice.fm/c5f650c72e24?dice_id=c5f650c72e24",
-    "date": "2024-08-25T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Emo Bingo"
     ],
     "link": "https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3",
@@ -185,6 +177,14 @@
   },
   {
     "artist": [
+      "Boy Band Homecoming dance"
+    ],
+    "link": "https://link.dice.fm/T940c17e440e?dice_id=T940c17e440e",
+    "date": "2024-09-28T20:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Creeper"
     ],
     "link": "https://link.dice.fm/ld400190f900?dice_id=ld400190f900",
@@ -273,19 +273,19 @@
   },
   {
     "artist": [
-      "Ginger Root\u2019s SHINBANGUMI Tour"
-    ],
-    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Many Eyes"
     ],
     "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
     "date": "2024-10-11T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Ginger Root\u2019s SHINBANGUMI Tour"
+    ],
+    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

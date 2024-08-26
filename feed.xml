@@ -4,22 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Aug 2024 09:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 09:05:44 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[GOLDEN GIRLS - The Laughs Continue at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to GOLDEN GIRLS - The Laughs Continue at Playhouse Square on Tuesday, August 6, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls]]></description>
-            <link>https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/murray-peter-present-golden-girls</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brett Goldstein at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Brett Goldstein at Playhouse Square on Saturday, August 24, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/brett-goldstein]]></description>
-            <link>https://www.playhousesquare.org/events/detail/brett-goldstein</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/brett-goldstein</guid>
-            <pubDate>Sat, 24 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Andrew Schulz: The Life Tour at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour]]></description>
@@ -537,13 +523,6 @@
             <link>https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334</guid>
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conquer Divide, Enmy, Heartsick, Death & Exhale at Foundry]]></title>
-            <description><![CDATA[Get tickets to Conquer Divide, Enmy, Heartsick, Death & Exhale at Foundry on Sunday, August 25, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/conquer-divide-enmy/</guid>
-            <pubDate>Sun, 25 Aug 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fundraiser at Foundry]]></title>
@@ -2037,13 +2016,6 @@
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BATTLEGROUND: Fight for Ohio at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to BATTLEGROUND: Fight for Ohio at Grog Shop on Sunday, August 25, 2024, 08:00 PM: https://grogshop.gs/event-details/13768083/battleground-fight-for-ohio]]></description>
-            <link>https://grogshop.gs/event-details/13768083/battleground-fight-for-ohio</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13768083/battleground-fight-for-ohio</guid>
-            <pubDate>Sun, 25 Aug 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Apes of the State, Rent Strike, The House of Wills at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Apes of the State, Rent Strike, The House of Wills at Grog Shop on Monday, August 26, 2024, 08:00 PM: https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills]]></description>
             <link>https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills</link>
@@ -2546,20 +2518,6 @@
             <link>https://grogshop.gs/event-details/13809123/bright-eyes</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13809123/bright-eyes</guid>
             <pubDate>Wed, 09 Apr 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Brunch, DJ Nicolas Guido at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, DJ Nicolas Guido at Beachland Tavern on Sunday, August 25, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13847193/beachland-brunch-dj-nicolas-guido]]></description>
-            <link>https://www.beachlandballroom.com/e/13847193/beachland-brunch-dj-nicolas-guido</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13847193/beachland-brunch-dj-nicolas-guido</guid>
-            <pubDate>Sun, 25 Aug 2024 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John P. Thompson: Memorial & Celebration of Life at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to John P. Thompson: Memorial & Celebration of Life at Beachland Tavern on Sunday, August 25, 2024, 01:30 PM: https://www.beachlandballroom.com/e/13802883/john-p-thompson-memorial-celebration-of-life]]></description>
-            <link>https://www.beachlandballroom.com/e/13802883/john-p-thompson-memorial-celebration-of-life</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13802883/john-p-thompson-memorial-celebration-of-life</guid>
-            <pubDate>Sun, 25 Aug 2024 13:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Aggie Miller, Surgeon General, Clare Feorene at Beachland Tavern]]></title>
@@ -3241,13 +3199,6 @@
             <pubDate>Tue, 22 Apr 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fungits at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Fungits at Mahall’s on Sunday, August 25, 2024, 10:30 PM: https://link.dice.fm/c5f650c72e24?dice_id=c5f650c72e24]]></description>
-            <link>https://link.dice.fm/c5f650c72e24?dice_id=c5f650c72e24</link>
-            <guid isPermaLink="true">https://link.dice.fm/c5f650c72e24?dice_id=c5f650c72e24</guid>
-            <pubDate>Sun, 25 Aug 2024 22:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emo Bingo at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Emo Bingo at Mahall’s on Tuesday, August 27, 2024, 10:00 PM: https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3]]></description>
             <link>https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3</link>
@@ -3402,6 +3353,13 @@
             <pubDate>Sat, 28 Sep 2024 02:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Boy Band Homecoming dance at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Boy Band Homecoming dance at Mahall’s on Sunday, September 29, 2024, 12:00 AM: https://link.dice.fm/T940c17e440e?dice_id=T940c17e440e]]></description>
+            <link>https://link.dice.fm/T940c17e440e?dice_id=T940c17e440e</link>
+            <guid isPermaLink="true">https://link.dice.fm/T940c17e440e?dice_id=T940c17e440e</guid>
+            <pubDate>Sun, 29 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Creeper at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Creeper at Mahall’s on Sunday, September 29, 2024, 10:30 PM: https://link.dice.fm/ld400190f900?dice_id=ld400190f900]]></description>
             <link>https://link.dice.fm/ld400190f900?dice_id=ld400190f900</link>
@@ -3479,17 +3437,17 @@
             <pubDate>Thu, 10 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7]]></description>
-            <link>https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</link>
-            <guid isPermaLink="true">https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</guid>
-            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Many Eyes at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
             <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
             <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
+            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7]]></description>
+            <link>https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</link>
+            <guid isPermaLink="true">https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</guid>
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>

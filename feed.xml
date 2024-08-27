@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Aug 2024 09:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 09:05:25 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
@@ -525,13 +525,6 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fundraiser at Foundry]]></title>
-            <description><![CDATA[Get tickets to Fundraiser at Foundry on Monday, August 26, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/fundraiser/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/fundraiser/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/fundraiser/</guid>
-            <pubDate>Mon, 26 Aug 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sad Dad Happy Hour at Foundry]]></title>
             <description><![CDATA[Get tickets to Sad Dad Happy Hour at Foundry on Thursday, August 29, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/sad-dad-happy-hour/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/sad-dad-happy-hour/</link>
@@ -637,6 +630,13 @@
             <pubDate>Sat, 21 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Baby Bugs, Solya at Foundry]]></title>
+            <description><![CDATA[Get tickets to Baby Bugs, Solya at Foundry on Saturday, September 21, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/</guid>
+            <pubDate>Sat, 21 Sep 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sam Lachow at Foundry]]></title>
             <description><![CDATA[Get tickets to Sam Lachow at Foundry on Sunday, September 22, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/sam-lachow/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/sam-lachow/</link>
@@ -684,6 +684,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/jj-wilde/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/jj-wilde/</guid>
             <pubDate>Sat, 05 Oct 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green Jelly, The Convalescence, ignominious, Voraath, The Behest Of Serpants at Foundry]]></title>
+            <description><![CDATA[Get tickets to Green Jelly, The Convalescence, ignominious, Voraath, The Behest Of Serpants at Foundry on Sunday, October 6, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/green-jelly-the-convalescence-ignominious-voraath-the-behest-of-serpants/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/green-jelly-the-convalescence-ignominious-voraath-the-behest-of-serpants/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/green-jelly-the-convalescence-ignominious-voraath-the-behest-of-serpants/</guid>
+            <pubDate>Sun, 06 Oct 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nanowar of Steel, Tragedy: All Metal Tribute to the Bee Gees & Beyond at Foundry]]></title>
@@ -1274,13 +1281,6 @@
             <pubDate>Sun, 08 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CupcakKe at House of Blues]]></title>
-            <description><![CDATA[Get tickets to CupcakKe at House of Blues on Tuesday, September 10, 2024, 07:00 PM: https://concerts.livenation.com/cupcakke-cleveland-ohio-09-10-2024/event/050060E8EEE86017]]></description>
-            <link>https://concerts.livenation.com/cupcakke-cleveland-ohio-09-10-2024/event/050060E8EEE86017</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/cupcakke-cleveland-ohio-09-10-2024/event/050060E8EEE86017</guid>
-            <pubDate>Tue, 10 Sep 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Baldassarre Rock Orchestra: A Whole Lotta Zeppelin at House of Blues]]></title>
             <description><![CDATA[Get tickets to Baldassarre Rock Orchestra: A Whole Lotta Zeppelin at House of Blues on Friday, September 13, 2024, 06:30 PM: https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5]]></description>
             <link>https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5</link>
@@ -1566,6 +1566,13 @@
             <link>https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71</link>
             <guid isPermaLink="true">https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71</guid>
             <pubDate>Wed, 06 Nov 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[42 Dugg at House of Blues]]></title>
+            <description><![CDATA[Get tickets to 42 Dugg at House of Blues on Friday, November 8, 2024, 07:00 PM: https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE]]></description>
+            <link>https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE</guid>
+            <pubDate>Fri, 08 Nov 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Found Glory, Sincere Engineer at Agora]]></title>
@@ -2014,13 +2021,6 @@
             <link>https://www.agoracleveland.com/events/detail/587201</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/587201</guid>
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apes of the State, Rent Strike, The House of Wills at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Apes of the State, Rent Strike, The House of Wills at Grog Shop on Monday, August 26, 2024, 08:00 PM: https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills]]></description>
-            <link>https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills</guid>
-            <pubDate>Mon, 26 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Built To Spill: There’s Nothing Wrong With Love 30th Anniversary Tour, Floating Witch’s Head, Rich Mattson and the Northstars at Grog Shop]]></title>
@@ -2520,10 +2520,10 @@
             <pubDate>Wed, 09 Apr 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aggie Miller, Surgeon General, Clare Feorene at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Aggie Miller, Surgeon General, Clare Feorene at Beachland Tavern on Monday, August 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene]]></description>
-            <link>https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene</guid>
+            <title><![CDATA[Aggie Miller, Surgeon General, Tessas at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Aggie Miller, Surgeon General, Tessas at Beachland Tavern on Monday, August 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas]]></description>
+            <link>https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas</guid>
             <pubDate>Mon, 26 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2548,10 +2548,10 @@
             <pubDate>Wed, 28 Aug 2024 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Service, Wrong Places at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Service, Wrong Places at Beachland Tavern on Thursday, August 29, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13680333/service-wrong-places]]></description>
-            <link>https://www.beachlandballroom.com/e/13680333/service-wrong-places</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13680333/service-wrong-places</guid>
+            <title><![CDATA[S-E-R-V-I-C-E, Wrong Places at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to S-E-R-V-I-C-E, Wrong Places at Beachland Tavern on Thursday, August 29, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13680333/s-e-r-v-i-c-e-wrong-places]]></description>
+            <link>https://www.beachlandballroom.com/e/13680333/s-e-r-v-i-c-e-wrong-places</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13680333/s-e-r-v-i-c-e-wrong-places</guid>
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2639,6 +2639,13 @@
             <pubDate>Sat, 07 Sep 2024 17:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beachland Brunch, DJ Bob Hughes at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Beachland Brunch, DJ Bob Hughes at Beachland Tavern on Sunday, September 8, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13882653/beachland-brunch-dj-bob-hughes]]></description>
+            <link>https://www.beachlandballroom.com/e/13882653/beachland-brunch-dj-bob-hughes</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13882653/beachland-brunch-dj-bob-hughes</guid>
+            <pubDate>Sun, 08 Sep 2024 11:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[American Aquarium, Darrin Bradbury at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to American Aquarium, Darrin Bradbury at Beachland Ballroom on Sunday, September 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury]]></description>
             <link>https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury</link>
@@ -2723,10 +2730,10 @@
             <pubDate>Wed, 18 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Giant Dog at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to A Giant Dog at Beachland Tavern on Thursday, September 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13721303/a-giant-dog]]></description>
-            <link>https://www.beachlandballroom.com/e/13721303/a-giant-dog</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13721303/a-giant-dog</guid>
+            <title><![CDATA[A Giant Dog, Slug Fest, Skwerm at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to A Giant Dog, Slug Fest, Skwerm at Beachland Tavern on Thursday, September 19, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest-skwerm]]></description>
+            <link>https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest-skwerm</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest-skwerm</guid>
             <pubDate>Thu, 19 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2758,15 +2765,15 @@
             <pubDate>Mon, 23 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Max Axton and Bad Moon, Country Honk at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Max Axton and Bad Moon, Country Honk at Beachland Ballroom on Monday, September 23, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13880143/max-axton-and-bad-moon-country-honk]]></description>
-            <link>https://www.beachlandballroom.com/e/13880143/max-axton-and-bad-moon-country-honk</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13880143/max-axton-and-bad-moon-country-honk</guid>
+            <title><![CDATA[Matt Axton and Bad Moon, Country Honk at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Matt Axton and Bad Moon, Country Honk at Beachland Ballroom on Monday, September 23, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13880143/matt-axton-and-bad-moon-country-honk]]></description>
+            <link>https://www.beachlandballroom.com/e/13880143/matt-axton-and-bad-moon-country-honk</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13880143/matt-axton-and-bad-moon-country-honk</guid>
             <pubDate>Mon, 23 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[William Elliott Whitmore, Sug Daniels at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to William Elliott Whitmore, Sug Daniels at Beachland Ballroom on Tuesday, September 24, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13474834/william-elliott-whitmore-sug-daniels]]></description>
+            <title><![CDATA[William Elliott Whitmore, Sug Daniels at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to William Elliott Whitmore, Sug Daniels at Beachland Tavern on Tuesday, September 24, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13474834/william-elliott-whitmore-sug-daniels]]></description>
             <link>https://www.beachlandballroom.com/e/13474834/william-elliott-whitmore-sug-daniels</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13474834/william-elliott-whitmore-sug-daniels</guid>
             <pubDate>Tue, 24 Sep 2024 20:00:00 GMT</pubDate>
@@ -2870,10 +2877,10 @@
             <pubDate>Fri, 04 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sarah Shook & The Disarmers at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Sarah Shook & The Disarmers at Beachland Ballroom on Friday, October 4, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers]]></description>
-            <link>https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers</guid>
+            <title><![CDATA[Sarah Shook & The Disarmers, Half Gringa at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Sarah Shook & The Disarmers, Half Gringa at Beachland Ballroom on Friday, October 4, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa]]></description>
+            <link>https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa</guid>
             <pubDate>Fri, 04 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3094,6 +3101,13 @@
             <pubDate>Fri, 08 Nov 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dead Letter Office, Disintegration: A Tribute to the Cure at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Dead Letter Office, Disintegration: A Tribute to the Cure at Beachland Ballroom on Friday, November 8, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13873413/dead-letter-office-disintegration-a-tribute-to-the-cure]]></description>
+            <link>https://www.beachlandballroom.com/e/13873413/dead-letter-office-disintegration-a-tribute-to-the-cure</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13873413/dead-letter-office-disintegration-a-tribute-to-the-cure</guid>
+            <pubDate>Fri, 08 Nov 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Town Mountain, John R. Miller at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Town Mountain, John R. Miller at Beachland Ballroom on Saturday, November 9, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13826903/town-mountain-john-r-miller]]></description>
             <link>https://www.beachlandballroom.com/e/13826903/town-mountain-john-r-miller</link>
@@ -3162,6 +3176,13 @@
             <link>https://www.beachlandballroom.com/e/13852203/the-stolen-faces</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13852203/the-stolen-faces</guid>
             <pubDate>Sat, 23 Nov 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red Leather at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Red Leather at Beachland Tavern on Thursday, December 5, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13880543/red-leather]]></description>
+            <link>https://www.beachlandballroom.com/e/13880543/red-leather</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13880543/red-leather</guid>
+            <pubDate>Thu, 05 Dec 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Illiterate Light, Palmyra at Beachland Tavern]]></title>
@@ -3582,6 +3603,13 @@
             <link>https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560</link>
             <guid isPermaLink="true">https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560</guid>
             <pubDate>Fri, 01 Nov 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bailey Spinn at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Bailey Spinn at Mahall’s on Friday, November 1, 2024, 11:00 PM: https://link.dice.fm/G6d45b11587b?dice_id=G6d45b11587b]]></description>
+            <link>https://link.dice.fm/G6d45b11587b?dice_id=G6d45b11587b</link>
+            <guid isPermaLink="true">https://link.dice.fm/G6d45b11587b?dice_id=G6d45b11587b</guid>
+            <pubDate>Fri, 01 Nov 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Four Year Strong at The Roxy at Mahall’s]]></title>

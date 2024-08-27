@@ -458,12 +458,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Fundraiser'],
-    link: 'https://www.foundryconcertclub.com/tm-event/fundraiser/',
-    date: '2024-08-26T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Sad Dad Happy Hour'],
     link: 'https://www.foundryconcertclub.com/tm-event/sad-dad-happy-hour/',
     date: '2024-08-29T18:00:00',
@@ -556,6 +550,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Baby Bugs, Solya'],
+    link: 'https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/',
+    date: '2024-09-21T20:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Sam Lachow'],
     link: 'https://www.foundryconcertclub.com/tm-event/sam-lachow/',
     date: '2024-09-22T20:00:00',
@@ -597,6 +597,14 @@ export const allShows = [
     artist: ['JJ Wilde'],
     link: 'https://www.foundryconcertclub.com/tm-event/jj-wilde/',
     date: '2024-10-05T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: [
+      'Green Jelly, The Convalescence, ignominious, Voraath, The Behest Of Serpants',
+    ],
+    link: 'https://www.foundryconcertclub.com/tm-event/green-jelly-the-convalescence-ignominious-voraath-the-behest-of-serpants/',
+    date: '2024-10-06T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1125,12 +1133,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['CupcakKe'],
-    link: 'https://concerts.livenation.com/cupcakke-cleveland-ohio-09-10-2024/event/050060E8EEE86017',
-    date: '2024-09-10T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Baldassarre Rock Orchestra: A Whole Lotta Zeppelin'],
     link: 'https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5',
     date: '2024-09-13T18:30:00',
@@ -1374,6 +1376,12 @@ export const allShows = [
     artist: ['Livingston: A Hometown Odyssey Tour: Part 2'],
     link: 'https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71',
     date: '2024-11-06T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['42 Dugg'],
+    link: 'https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE',
+    date: '2024-11-08T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1765,12 +1773,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Apes of the State, Rent Strike, The House of Wills'],
-    link: 'https://grogshop.gs/event-details/13443294/apes-of-the-state-rent-strike-the-house-of-wills',
-    date: '2024-08-26T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -2266,8 +2268,8 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Aggie Miller', 'Surgeon General', 'Clare Feorene'],
-    link: 'https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene',
+    artist: ['Aggie Miller', 'Surgeon General', 'Tessas'],
+    link: 'https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas',
     date: '2024-08-26T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2294,8 +2296,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Service', 'Wrong Places'],
-    link: 'https://www.beachlandballroom.com/e/13680333/service-wrong-places',
+    artist: ['S-E-R-V-I-C-E', 'Wrong Places'],
+    link: 'https://www.beachlandballroom.com/e/13680333/s-e-r-v-i-c-e-wrong-places',
     date: '2024-08-29T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2394,6 +2396,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Beachland Brunch', 'DJ Bob Hughes'],
+    link: 'https://www.beachlandballroom.com/e/13882653/beachland-brunch-dj-bob-hughes',
+    date: '2024-09-08T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['American Aquarium', 'Darrin Bradbury'],
     link: 'https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury',
     date: '2024-09-08T20:00:00',
@@ -2466,8 +2474,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['A Giant Dog'],
-    link: 'https://www.beachlandballroom.com/e/13721303/a-giant-dog',
+    artist: ['A Giant Dog', 'Slug Fest', 'Skwerm'],
+    link: 'https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest-skwerm',
     date: '2024-09-19T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2496,8 +2504,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Max Axton and Bad Moon', 'Country Honk'],
-    link: 'https://www.beachlandballroom.com/e/13880143/max-axton-and-bad-moon-country-honk',
+    artist: ['Matt Axton and Bad Moon', 'Country Honk'],
+    link: 'https://www.beachlandballroom.com/e/13880143/matt-axton-and-bad-moon-country-honk',
     date: '2024-09-23T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2505,7 +2513,7 @@ export const allShows = [
     artist: ['William Elliott Whitmore', 'Sug Daniels'],
     link: 'https://www.beachlandballroom.com/e/13474834/william-elliott-whitmore-sug-daniels',
     date: '2024-09-24T20:00:00',
-    venue: 'Beachland Ballroom',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Why Bonnie', 'Wish Queen'],
@@ -2592,8 +2600,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Sarah Shook & The Disarmers'],
-    link: 'https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers',
+    artist: ['Sarah Shook & The Disarmers', 'Half Gringa'],
+    link: 'https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa',
     date: '2024-10-04T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2800,6 +2808,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Dead Letter Office', 'Disintegration: A Tribute to the Cure'],
+    link: 'https://www.beachlandballroom.com/e/13873413/dead-letter-office-disintegration-a-tribute-to-the-cure',
+    date: '2024-11-08T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Town Mountain', 'John R. Miller'],
     link: 'https://www.beachlandballroom.com/e/13826903/town-mountain-john-r-miller',
     date: '2024-11-09T20:00:00',
@@ -2858,6 +2872,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13852203/the-stolen-faces',
     date: '2024-11-23T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Red Leather'],
+    link: 'https://www.beachlandballroom.com/e/13880543/red-leather',
+    date: '2024-12-05T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Illiterate Light', 'Palmyra'],
@@ -3218,6 +3238,12 @@ export const allShows = [
     link: 'https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560',
     date: '2024-11-01T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Bailey Spinn'],
+    link: 'https://link.dice.fm/G6d45b11587b?dice_id=G6d45b11587b',
+    date: '2024-11-01T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Four Year Strong'],

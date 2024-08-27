@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Fundraiser"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/fundraiser/",
-    "date": "2024-08-26T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Sad Dad Happy Hour"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/sad-dad-happy-hour/",
@@ -129,6 +121,14 @@
   },
   {
     "artist": [
+      "Baby Bugs, Solya"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/",
+    "date": "2024-09-21T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Sam Lachow"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/sam-lachow/",
@@ -181,6 +181,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/jj-wilde/",
     "date": "2024-10-05T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Green Jelly, The Convalescence, ignominious, Voraath, The Behest Of Serpants"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/green-jelly-the-convalescence-ignominious-voraath-the-behest-of-serpants/",
+    "date": "2024-10-06T19:00:00",
     "venue": "Foundry"
   },
   {

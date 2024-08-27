@@ -49,14 +49,6 @@
   },
   {
     "artist": [
-      "CupcakKe"
-    ],
-    "link": "https://concerts.livenation.com/cupcakke-cleveland-ohio-09-10-2024/event/050060E8EEE86017",
-    "date": "2024-09-10T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Baldassarre Rock Orchestra: A Whole Lotta Zeppelin"
     ],
     "link": "https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/livingston-a-hometown-odyssey-tour-part-cleveland-ohio-11-06-2024/event/050060F0C5213D71",
     "date": "2024-11-06T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "42 Dugg"
+    ],
+    "link": "https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE",
+    "date": "2024-11-08T19:00:00",
     "venue": "House of Blues"
   }
 ]

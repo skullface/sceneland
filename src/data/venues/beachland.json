@@ -3,9 +3,9 @@
     "artist": [
       "Aggie Miller",
       "Surgeon General",
-      "Clare Feorene"
+      "Tessas"
     ],
-    "link": "https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-clare-feorene",
+    "link": "https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas",
     "date": "2024-08-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -39,10 +39,10 @@
   },
   {
     "artist": [
-      "Service",
+      "S-E-R-V-I-C-E",
       "Wrong Places"
     ],
-    "link": "https://www.beachlandballroom.com/e/13680333/service-wrong-places",
+    "link": "https://www.beachlandballroom.com/e/13680333/s-e-r-v-i-c-e-wrong-places",
     "date": "2024-08-29T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -168,6 +168,15 @@
   },
   {
     "artist": [
+      "Beachland Brunch",
+      "DJ Bob Hughes"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13882653/beachland-brunch-dj-bob-hughes",
+    "date": "2024-09-08T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "American Aquarium",
       "Darrin Bradbury"
     ],
@@ -276,9 +285,11 @@
   },
   {
     "artist": [
-      "A Giant Dog"
+      "A Giant Dog",
+      "Slug Fest",
+      "Skwerm"
     ],
-    "link": "https://www.beachlandballroom.com/e/13721303/a-giant-dog",
+    "link": "https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest-skwerm",
     "date": "2024-09-19T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -317,10 +328,10 @@
   },
   {
     "artist": [
-      "Max Axton and Bad Moon",
+      "Matt Axton and Bad Moon",
       "Country Honk"
     ],
-    "link": "https://www.beachlandballroom.com/e/13880143/max-axton-and-bad-moon-country-honk",
+    "link": "https://www.beachlandballroom.com/e/13880143/matt-axton-and-bad-moon-country-honk",
     "date": "2024-09-23T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -331,7 +342,7 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13474834/william-elliott-whitmore-sug-daniels",
     "date": "2024-09-24T20:00:00",
-    "venue": "Beachland Ballroom"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -459,9 +470,10 @@
   },
   {
     "artist": [
-      "Sarah Shook & The Disarmers"
+      "Sarah Shook & The Disarmers",
+      "Half Gringa"
     ],
-    "link": "https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers",
+    "link": "https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa",
     "date": "2024-10-04T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -745,6 +757,15 @@
   },
   {
     "artist": [
+      "Dead Letter Office",
+      "Disintegration: A Tribute to the Cure"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13873413/dead-letter-office-disintegration-a-tribute-to-the-cure",
+    "date": "2024-11-08T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Town Mountain",
       "John R. Miller"
     ],
@@ -831,6 +852,14 @@
     "link": "https://www.beachlandballroom.com/e/13852203/the-stolen-faces",
     "date": "2024-11-23T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Red Leather"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13880543/red-leather",
+    "date": "2024-12-05T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

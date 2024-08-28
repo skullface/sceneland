@@ -31,17 +31,17 @@
   },
   {
     "artist": [
-      "Groga Palooza: 3 Night Pass"
+      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
-    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
+    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
+      "Groga Palooza: 3 Night Pass"
     ],
-    "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
+    "link": "https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass",
     "date": "2024-08-30T18:00:00",
     "venue": "Grog Shop"
   },
@@ -486,20 +486,20 @@
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Brooke Candy",
       "Namasenda",
       "Tash Blake"
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "date": "2024-10-19T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
+    ],
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
@@ -622,6 +622,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13555344/cris-jacobs",
     "date": "2024-11-15T21:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Anthony Raneri: The Everyday Royalty Tour",
+      "Nate Bergman"
+    ],
+    "link": "https://grogshop.gs/event-details/13853173/anthony-raneri-the-everyday-royalty-tour",
+    "date": "2024-11-20T20:00:00",
     "venue": "Grog Shop"
   },
   {

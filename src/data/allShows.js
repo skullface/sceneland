@@ -520,6 +520,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Gulche, Wexford, Calico'],
+    link: 'https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/',
+    date: '2024-09-15T19:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['AA Williams'],
     link: 'https://www.foundryconcertclub.com/tm-event/aa-williams/',
     date: '2024-09-16T20:00:00',
@@ -550,12 +556,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Baby Bugs, Solya'],
-    link: 'https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/',
-    date: '2024-09-21T20:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Sam Lachow'],
     link: 'https://www.foundryconcertclub.com/tm-event/sam-lachow/',
     date: '2024-09-22T20:00:00',
@@ -565,6 +565,18 @@ export const allShows = [
     artist: ['Folk Around and Find Out'],
     link: 'https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/',
     date: '2024-09-26T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['GRVE, The Mummy Cats, The Reveal, Prithee'],
+    link: 'https://www.foundryconcertclub.com/tm-event/grve-the-mummy-cats-the-reveal-prithee/',
+    date: '2024-09-27T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['The Last Reign, Druparia, Pagan Impaler, Morir Es Vivir'],
+    link: 'https://www.foundryconcertclub.com/tm-event/the-last-reign-druparia-pagan-impaler-morir-es-vivir/',
+    date: '2024-09-29T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1093,12 +1105,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Magic Men Australia'],
-    link: 'https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0',
-    date: '2024-08-27T18:30:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Strangelove: The Depeche Mode Experience'],
     link: 'https://concerts.livenation.com/strangelove-the-depeche-mode-experience-cleveland-ohio-08-30-2024/event/050060E9B8C427D4',
     date: '2024-08-30T19:00:00',
@@ -1382,6 +1388,12 @@ export const allShows = [
     artist: ['42 Dugg'],
     link: 'https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE',
     date: '2024-11-08T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Lyfe Jennings'],
+    link: 'https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8',
+    date: '2024-11-09T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1798,14 +1810,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: 3 Night Pass'],
-    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
+    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
+    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Groga Palooza: Night 1: Rock, Soul, RnB, Dance'],
-    link: 'https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance',
+    artist: ['Groga Palooza: 3 Night Pass'],
+    link: 'https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass',
     date: '2024-08-30T18:00:00',
     venue: 'Grog Shop',
   },
@@ -2146,14 +2158,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
-    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
+    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
+    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
-    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
+    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
+    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
@@ -2250,6 +2262,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Anthony Raneri: The Everyday Royalty Tour', 'Nate Bergman'],
+    link: 'https://grogshop.gs/event-details/13853173/anthony-raneri-the-everyday-royalty-tour',
+    date: '2024-11-20T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Forest Blakk'],
     link: 'https://grogshop.gs/event-details/13544804/forest-blakk',
     date: '2024-11-30T20:30:00',
@@ -2266,12 +2284,6 @@ export const allShows = [
     link: 'https://grogshop.gs/event-details/13809123/bright-eyes',
     date: '2025-04-09T19:30:00',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['Aggie Miller', 'Surgeon General', 'Tessas'],
-    link: 'https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas',
-    date: '2024-08-26T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Dogs on Shady Lane', 'Wished Bone', 'honeybee'],
@@ -2462,6 +2474,17 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: [
+      'Waterloo Arts Fest 2024',
+      'The Rumble featuring Chief Joseph Boudreaux Jr.',
+      'Big Hoke',
+      'Sugar Mules',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules',
+    date: '2024-09-14T12:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Pre/Post Party', 'Sugar Mules'],
     link: 'https://www.beachlandballroom.com/e/13872433/pre-post-party-sugar-mules',
     date: '2024-09-18T18:00:00',
@@ -2594,8 +2617,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['The Dead Tongues'],
-    link: 'https://www.beachlandballroom.com/e/13435894/the-dead-tongues',
+    artist: ['The Dead Tongues', 'Libby Rodenbough'],
+    link: 'https://www.beachlandballroom.com/e/13435894/the-dead-tongues-libby-rodenbough',
     date: '2024-10-04T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2616,6 +2639,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13398804/gong',
     date: '2024-10-06T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Jeremy Short'],
+    link: 'https://www.beachlandballroom.com/e/13876113/jeremy-short',
+    date: '2024-10-06T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['The Lemon Twigs', 'SLUGBUG'],
@@ -2862,6 +2891,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['TAUK'],
+    link: 'https://www.beachlandballroom.com/e/13876153/tauk',
+    date: '2024-11-22T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Alisa Amador', 'Beane'],
     link: 'https://www.beachlandballroom.com/e/13687043/alisa-amador-beane',
     date: '2024-11-23T20:00:00',
@@ -2892,6 +2927,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['John Moreland', 'Joelton Mayfield'],
+    link: 'https://www.beachlandballroom.com/e/13873043/john-moreland-joelton-mayfield',
+    date: '2024-12-07T20:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Bearly Dead: A Tribute To The Grateful Dead'],
     link: 'https://www.beachlandballroom.com/e/13860813/bearly-dead-a-tribute-to-the-grateful-dead',
     date: '2024-12-13T20:00:00',
@@ -2908,12 +2949,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Emo Bingo'],
-    link: 'https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3',
-    date: '2024-08-27T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Girl Cologne'],

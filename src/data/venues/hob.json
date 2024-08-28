@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Magic Men Australia"
-    ],
-    "link": "https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0",
-    "date": "2024-08-27T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Strangelove: The Depeche Mode Experience"
     ],
     "link": "https://concerts.livenation.com/strangelove-the-depeche-mode-experience-cleveland-ohio-08-30-2024/event/050060E9B8C427D4",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE",
     "date": "2024-11-08T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Lyfe Jennings"
+    ],
+    "link": "https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8",
+    "date": "2024-11-09T19:00:00",
     "venue": "House of Blues"
   }
 ]

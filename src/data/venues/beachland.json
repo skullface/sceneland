@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Aggie Miller",
-      "Surgeon General",
-      "Tessas"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas",
-    "date": "2024-08-26T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Dogs on Shady Lane",
       "Wished Bone",
       "honeybee"
@@ -267,6 +257,17 @@
   },
   {
     "artist": [
+      "Waterloo Arts Fest 2024",
+      "The Rumble featuring Chief Joseph Boudreaux Jr.",
+      "Big Hoke",
+      "Sugar Mules"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules",
+    "date": "2024-09-14T12:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Pre/Post Party",
       "Sugar Mules"
     ],
@@ -462,9 +463,10 @@
   },
   {
     "artist": [
-      "The Dead Tongues"
+      "The Dead Tongues",
+      "Libby Rodenbough"
     ],
-    "link": "https://www.beachlandballroom.com/e/13435894/the-dead-tongues",
+    "link": "https://www.beachlandballroom.com/e/13435894/the-dead-tongues-libby-rodenbough",
     "date": "2024-10-04T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -494,6 +496,14 @@
     "link": "https://www.beachlandballroom.com/e/13398804/gong",
     "date": "2024-10-06T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jeremy Short"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13876113/jeremy-short",
+    "date": "2024-10-06T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -838,6 +848,14 @@
   },
   {
     "artist": [
+      "TAUK"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13876153/tauk",
+    "date": "2024-11-22T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Alisa Amador",
       "Beane"
     ],
@@ -879,6 +897,15 @@
     "link": "https://www.beachlandballroom.com/e/13683313/surfer-girl-coyote-island-beach-fly",
     "date": "2024-12-07T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "John Moreland",
+      "Joelton Mayfield"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13873043/john-moreland-joelton-mayfield",
+    "date": "2024-12-07T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Aug 2024 09:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 09:05:45 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
@@ -595,6 +595,13 @@
             <pubDate>Sat, 14 Sep 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gulche, Wexford, Calico at Foundry]]></title>
+            <description><![CDATA[Get tickets to Gulche, Wexford, Calico at Foundry on Sunday, September 15, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/</guid>
+            <pubDate>Sun, 15 Sep 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[AA Williams at Foundry]]></title>
             <description><![CDATA[Get tickets to AA Williams at Foundry on Monday, September 16, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/aa-williams/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/aa-williams/</link>
@@ -630,13 +637,6 @@
             <pubDate>Sat, 21 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Baby Bugs, Solya at Foundry]]></title>
-            <description><![CDATA[Get tickets to Baby Bugs, Solya at Foundry on Saturday, September 21, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/</guid>
-            <pubDate>Sat, 21 Sep 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sam Lachow at Foundry]]></title>
             <description><![CDATA[Get tickets to Sam Lachow at Foundry on Sunday, September 22, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/sam-lachow/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/sam-lachow/</link>
@@ -649,6 +649,20 @@
             <link>https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/</guid>
             <pubDate>Thu, 26 Sep 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GRVE, The Mummy Cats, The Reveal, Prithee at Foundry]]></title>
+            <description><![CDATA[Get tickets to GRVE, The Mummy Cats, The Reveal, Prithee at Foundry on Friday, September 27, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/grve-the-mummy-cats-the-reveal-prithee/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/grve-the-mummy-cats-the-reveal-prithee/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/grve-the-mummy-cats-the-reveal-prithee/</guid>
+            <pubDate>Fri, 27 Sep 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Last Reign, Druparia, Pagan Impaler, Morir Es Vivir at Foundry]]></title>
+            <description><![CDATA[Get tickets to The Last Reign, Druparia, Pagan Impaler, Morir Es Vivir at Foundry on Sunday, September 29, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/the-last-reign-druparia-pagan-impaler-morir-es-vivir/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/the-last-reign-druparia-pagan-impaler-morir-es-vivir/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-last-reign-druparia-pagan-impaler-morir-es-vivir/</guid>
+            <pubDate>Sun, 29 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Numb: The Nu Metal Band at Foundry]]></title>
@@ -1239,13 +1253,6 @@
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magic Men Australia at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Magic Men Australia at House of Blues on Tuesday, August 27, 2024, 06:30 PM: https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0]]></description>
-            <link>https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/magic-men-australia-cleveland-ohio-08-27-2024/event/05005F27C29D3AC0</guid>
-            <pubDate>Tue, 27 Aug 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Strangelove: The Depeche Mode Experience at House of Blues]]></title>
             <description><![CDATA[Get tickets to Strangelove: The Depeche Mode Experience at House of Blues on Friday, August 30, 2024, 07:00 PM: https://concerts.livenation.com/strangelove-the-depeche-mode-experience-cleveland-ohio-08-30-2024/event/050060E9B8C427D4]]></description>
             <link>https://concerts.livenation.com/strangelove-the-depeche-mode-experience-cleveland-ohio-08-30-2024/event/050060E9B8C427D4</link>
@@ -1573,6 +1580,13 @@
             <link>https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE</link>
             <guid isPermaLink="true">https://concerts.livenation.com/42-dugg-cleveland-ohio-11-08-2024/event/05006107C2B236EE</guid>
             <pubDate>Fri, 08 Nov 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyfe Jennings at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Lyfe Jennings at House of Blues on Saturday, November 9, 2024, 07:00 PM: https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8]]></description>
+            <link>https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/lyfe-jennings-cleveland-ohio-11-09-2024/event/050060EC979923C8</guid>
+            <pubDate>Sat, 09 Nov 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Found Glory, Sincere Engineer at Agora]]></title>
@@ -2044,17 +2058,17 @@
             <pubDate>Thu, 29 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
-            <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
-            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Groga Palooza: Night 1: Rock, Soul, RnB, Dance at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance]]></description>
             <link>https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance</guid>
+            <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Groga Palooza: 3 Night Pass at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Groga Palooza: 3 Night Pass at Grog Shop on Friday, August 30, 2024, 06:00 PM: https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass]]></description>
+            <link>https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13672613/groga-palooza-3-night-pass</guid>
             <pubDate>Fri, 30 Aug 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2387,17 +2401,17 @@
             <pubDate>Fri, 18 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour]]></description>
-            <link>https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</guid>
-            <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brooke Candy, Namasenda, Tash Blake at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Brooke Candy, Namasenda, Tash Blake at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13731993/brooke-candy]]></description>
             <link>https://grogshop.gs/event-details/13731993/brooke-candy</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13731993/brooke-candy</guid>
+            <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour]]></description>
+            <link>https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</guid>
             <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2499,6 +2513,13 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Anthony Raneri: The Everyday Royalty Tour, Nate Bergman at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Anthony Raneri: The Everyday Royalty Tour, Nate Bergman at Grog Shop on Wednesday, November 20, 2024, 08:00 PM: https://grogshop.gs/event-details/13853173/anthony-raneri-the-everyday-royalty-tour]]></description>
+            <link>https://grogshop.gs/event-details/13853173/anthony-raneri-the-everyday-royalty-tour</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13853173/anthony-raneri-the-everyday-royalty-tour</guid>
+            <pubDate>Wed, 20 Nov 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Forest Blakk at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Forest Blakk at Grog Shop on Saturday, November 30, 2024, 08:30 PM: https://grogshop.gs/event-details/13544804/forest-blakk]]></description>
             <link>https://grogshop.gs/event-details/13544804/forest-blakk</link>
@@ -2518,13 +2539,6 @@
             <link>https://grogshop.gs/event-details/13809123/bright-eyes</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13809123/bright-eyes</guid>
             <pubDate>Wed, 09 Apr 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aggie Miller, Surgeon General, Tessas at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Aggie Miller, Surgeon General, Tessas at Beachland Tavern on Monday, August 26, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas]]></description>
-            <link>https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13796593/aggie-miller-surgeon-general-tessas</guid>
-            <pubDate>Mon, 26 Aug 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dogs on Shady Lane, Wished Bone, honeybee at Beachland Tavern]]></title>
@@ -2716,6 +2730,13 @@
             <pubDate>Fri, 13 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Waterloo Arts Fest 2024, The Rumble featuring Chief Joseph Boudreaux Jr., Big Hoke, Sugar Mules at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Waterloo Arts Fest 2024, The Rumble featuring Chief Joseph Boudreaux Jr., Big Hoke, Sugar Mules at Beachland Ballroom on Saturday, September 14, 2024, 12:00 PM: https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules]]></description>
+            <link>https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules</guid>
+            <pubDate>Sat, 14 Sep 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pre/Post Party, Sugar Mules at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Pre/Post Party, Sugar Mules at Beachland Tavern on Wednesday, September 18, 2024, 06:00 PM: https://www.beachlandballroom.com/e/13872433/pre-post-party-sugar-mules]]></description>
             <link>https://www.beachlandballroom.com/e/13872433/pre-post-party-sugar-mules</link>
@@ -2870,10 +2891,10 @@
             <pubDate>Thu, 03 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Dead Tongues at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to The Dead Tongues at Beachland Tavern on Friday, October 4, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13435894/the-dead-tongues]]></description>
-            <link>https://www.beachlandballroom.com/e/13435894/the-dead-tongues</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13435894/the-dead-tongues</guid>
+            <title><![CDATA[The Dead Tongues, Libby Rodenbough at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Dead Tongues, Libby Rodenbough at Beachland Tavern on Friday, October 4, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13435894/the-dead-tongues-libby-rodenbough]]></description>
+            <link>https://www.beachlandballroom.com/e/13435894/the-dead-tongues-libby-rodenbough</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13435894/the-dead-tongues-libby-rodenbough</guid>
             <pubDate>Fri, 04 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2895,6 +2916,13 @@
             <description><![CDATA[Get tickets to Gong at Beachland Ballroom on Sunday, October 6, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13398804/gong]]></description>
             <link>https://www.beachlandballroom.com/e/13398804/gong</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13398804/gong</guid>
+            <pubDate>Sun, 06 Oct 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Short at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Jeremy Short at Beachland Tavern on Sunday, October 6, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13876113/jeremy-short]]></description>
+            <link>https://www.beachlandballroom.com/e/13876113/jeremy-short</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13876113/jeremy-short</guid>
             <pubDate>Sun, 06 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3164,6 +3192,13 @@
             <pubDate>Mon, 18 Nov 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[TAUK at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to TAUK at Beachland Ballroom on Friday, November 22, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13876153/tauk]]></description>
+            <link>https://www.beachlandballroom.com/e/13876153/tauk</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13876153/tauk</guid>
+            <pubDate>Fri, 22 Nov 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Alisa Amador, Beane at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Alisa Amador, Beane at Beachland Tavern on Saturday, November 23, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13687043/alisa-amador-beane]]></description>
             <link>https://www.beachlandballroom.com/e/13687043/alisa-amador-beane</link>
@@ -3199,6 +3234,13 @@
             <pubDate>Sat, 07 Dec 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[John Moreland, Joelton Mayfield at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to John Moreland, Joelton Mayfield at Beachland Ballroom on Saturday, December 7, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13873043/john-moreland-joelton-mayfield]]></description>
+            <link>https://www.beachlandballroom.com/e/13873043/john-moreland-joelton-mayfield</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13873043/john-moreland-joelton-mayfield</guid>
+            <pubDate>Sat, 07 Dec 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bearly Dead: A Tribute To The Grateful Dead at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Bearly Dead: A Tribute To The Grateful Dead at Beachland Ballroom on Friday, December 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13860813/bearly-dead-a-tribute-to-the-grateful-dead]]></description>
             <link>https://www.beachlandballroom.com/e/13860813/bearly-dead-a-tribute-to-the-grateful-dead</link>
@@ -3218,13 +3260,6 @@
             <link>https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic</guid>
             <pubDate>Tue, 22 Apr 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emo Bingo at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Emo Bingo at Mahall’s on Tuesday, August 27, 2024, 10:00 PM: https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3]]></description>
-            <link>https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3</link>
-            <guid isPermaLink="true">https://link.dice.fm/u07a3eeb73b3?dice_id=u07a3eeb73b3</guid>
-            <pubDate>Tue, 27 Aug 2024 22:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Girl Cologne at Mahall’s]]></title>

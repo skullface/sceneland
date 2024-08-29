@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "Built To Spill: There\u2019s Nothing Wrong With Love 30th Anniversary Tour",
-      "Floating Witch\u2019s Head",
-      "Rich Mattson and the Northstars"
-    ],
-    "link": "https://grogshop.gs/event-details/13380944/built-to-spill-there-s-nothing-wrong-with-love-30th-anniversary-tour",
-    "sold_out": true,
-    "date": "2024-08-28T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "King Buzzo & Trevor Dunn",
-      "JD Pinkus"
-    ],
-    "link": "https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn",
-    "date": "2024-08-28T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Teenage Bottlerocket",
       "The Last Gang",
       "The Vumms"
@@ -343,6 +323,16 @@
   },
   {
     "artist": [
+      "Telekinetic Yeti",
+      "Bonginator",
+      "Black Spirit Crown"
+    ],
+    "link": "https://grogshop.gs/event-details/13887463/telekinetic-yeti-bonginator-black-spirit-crown",
+    "date": "2024-09-29T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Make Em Laugh Mondays Hosted By Kevin Ford"
     ],
     "link": "https://grogshop.gs/event-details/13868653/make-em-laugh-mondays-hosted-by-kevin-ford",
@@ -481,7 +471,17 @@
       "Brendan Walter"
     ],
     "link": "https://grogshop.gs/event-details/13381834/evan-honer-north-america-2024-nowhere-fast-tour",
+    "sold_out": true,
     "date": "2024-10-18T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
+    ],
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
+    "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
   {
@@ -491,15 +491,6 @@
       "Tash Blake"
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },

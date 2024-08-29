@@ -550,12 +550,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Baby Bugs, Solya'],
-    link: 'https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/',
-    date: '2024-09-21T20:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Sam Lachow'],
     link: 'https://www.foundryconcertclub.com/tm-event/sam-lachow/',
     date: '2024-09-22T20:00:00',
@@ -1031,12 +1025,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Rob Zombie and Alice Cooper: Freaks on Parade 2024 Tour'],
-    link: 'https://concerts.livenation.com/rob-zombie-and-alice-cooper-freaks-cuyahoga-falls-ohio-08-28-2024/event/0500602A348A58D5',
-    date: '2024-08-28T18:00:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['Pitbull: Party After Dark Tour'],
     link: 'https://concerts.livenation.com/pitbull-party-after-dark-tour-cuyahoga-falls-ohio-08-29-2024/event/05006093E2A96834',
     date: '2024-08-29T20:00:00',
@@ -1403,7 +1391,7 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Glen Hansard, Trousdale'],
+    artist: ['Glen Hansard, Josh O\u2019Keefe'],
     link: 'https://www.agoracleveland.com/events/detail/536634',
     date: '2024-09-01T18:00:00',
     venue: 'Agora',
@@ -1787,23 +1775,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: [
-      'Built To Spill: There\u2019s Nothing Wrong With Love 30th Anniversary Tour',
-      'Floating Witch\u2019s Head',
-      'Rich Mattson and the Northstars',
-    ],
-    link: 'https://grogshop.gs/event-details/13380944/built-to-spill-there-s-nothing-wrong-with-love-30th-anniversary-tour',
-    sold_out: true,
-    date: '2024-08-28T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['King Buzzo & Trevor Dunn', 'JD Pinkus'],
-    link: 'https://grogshop.gs/event-details/13443893/king-buzzo-trevor-dunn',
-    date: '2024-08-28T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Teenage Bottlerocket', 'The Last Gang', 'The Vumms'],
     link: 'https://grogshop.gs/event-details/13703853/teenage-bottlerocket-the-last-gang-the-vumms',
     date: '2024-08-29T20:00:00',
@@ -2056,6 +2027,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Telekinetic Yeti', 'Bonginator', 'Black Spirit Crown'],
+    link: 'https://grogshop.gs/event-details/13887463/telekinetic-yeti-bonginator-black-spirit-crown',
+    date: '2024-09-29T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13868653/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-09-30T20:00:00',
@@ -2154,18 +2131,19 @@ export const allShows = [
       'Brendan Walter',
     ],
     link: 'https://grogshop.gs/event-details/13381834/evan-honer-north-america-2024-nowhere-fast-tour',
+    sold_out: true,
     date: '2024-10-18T20:30:00',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
-    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
-    date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
   {
     artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
     link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
+    date: '2024-10-19T20:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
+    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
@@ -2286,28 +2264,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Dogs on Shady Lane', 'Wished Bone', 'honeybee'],
-    link: 'https://www.beachlandballroom.com/e/13758523/dogs-on-shady-lane-wished-bone-honeybee',
-    date: '2024-08-27T19:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Pre/Post Party with DJ Cardigan Enthusiast'],
-    link: 'https://www.beachlandballroom.com/e/13762263/pre-post-party-with-dj-cardigan-enthusiast',
-    date: '2024-08-28T17:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: [
-      'Built To Spill',
-      "Floating Witch's Head",
-      'Rich Mattson and the Northstars',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13381284/built-to-spill-floating-witch-s-head-rich-mattson-and-the-northstars',
-    date: '2024-08-28T19:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['S-E-R-V-I-C-E', 'Wrong Places'],
     link: 'https://www.beachlandballroom.com/e/13680333/s-e-r-v-i-c-e-wrong-places',
     date: '2024-08-29T20:00:00',
@@ -2368,6 +2324,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['A Benefit for Solon', 'Two Mile Moon', 'Huntmere'],
+    link: 'https://www.beachlandballroom.com/e/13890893/a-benefit-for-solon-two-mile-moon-huntmere',
+    date: '2024-09-04T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['FIGGMUNITY Live Podcast'],
     link: 'https://www.beachlandballroom.com/e/13780083/figgmunity-live-podcast',
     date: '2024-09-04T20:30:00',
@@ -2420,8 +2382,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Carter Vail'],
-    link: 'https://www.beachlandballroom.com/e/13856503/carter-vail',
+    artist: ['Carter Vail', 'Colin Miller'],
+    link: 'https://www.beachlandballroom.com/e/13856503/carter-vail-colin-miller',
     date: '2024-09-08T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2512,6 +2474,12 @@ export const allShows = [
     artist: ['DEVOtional 2024'],
     link: 'https://www.beachlandballroom.com/e/13505864/devotional-2024',
     date: '2024-09-20T19:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['The Alarm Clocks', 'Thee Isolaters'],
+    link: 'https://www.beachlandballroom.com/e/13890383/the-alarm-clocks-thee-isolaters',
+    date: '2024-09-20T20:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -2641,8 +2609,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Jeremy Short'],
-    link: 'https://www.beachlandballroom.com/e/13876113/jeremy-short',
+    artist: ['Jeremy Short', 'Fox Ears'],
+    link: 'https://www.beachlandballroom.com/e/13876113/jeremy-short-fox-ears',
     date: '2024-10-06T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -3269,16 +3237,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Bailey Spinn'],
+    link: 'https://link.dice.fm/G6d45b11587b?dice_id=G6d45b11587b',
+    date: '2024-11-01T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['FEVER 333'],
     link: 'https://link.dice.fm/T8653a90d560?dice_id=T8653a90d560',
     date: '2024-11-01T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Bailey Spinn'],
-    link: 'https://link.dice.fm/G6d45b11587b?dice_id=G6d45b11587b',
-    date: '2024-11-01T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Four Year Strong'],

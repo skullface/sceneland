@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "S-E-R-V-I-C-E",
-      "Wrong Places"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13680333/s-e-r-v-i-c-e-wrong-places",
-    "date": "2024-08-29T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Elefante"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13727543/elefante",
-    "date": "2024-08-29T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Grant",
       "Berry Box",
       "Guiche"
@@ -438,9 +421,10 @@
   },
   {
     "artist": [
-      "The Sheepdogs"
+      "The Sheepdogs",
+      "Shane Guerrette"
     ],
-    "link": "https://www.beachlandballroom.com/e/13564114/the-sheepdogs",
+    "link": "https://www.beachlandballroom.com/e/13564114/the-sheepdogs-shane-guerrette",
     "date": "2024-10-03T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -805,6 +789,14 @@
   },
   {
     "artist": [
+      "Native Sun"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13894123/native-sun",
+    "date": "2024-11-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Ballyhoo!",
       "Keep Flying"
     ],
@@ -838,6 +830,16 @@
     "link": "https://www.beachlandballroom.com/e/13860833/eric-slick-x-twen",
     "date": "2024-11-18T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "back to BACK TO BLACK: the AMY WINEHOUSE celebration",
+      "Post Saga",
+      "Mikey Silas (Apostle Jones)"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13736693/back-to-back-to-black-the-amy-winehouse-celebration-post-saga-mikey-silas-apostle-jones-",
+    "date": "2024-11-21T19:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

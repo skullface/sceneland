@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Teenage Bottlerocket",
-      "The Last Gang",
-      "The Vumms"
-    ],
-    "link": "https://grogshop.gs/event-details/13703853/teenage-bottlerocket-the-last-gang-the-vumms",
-    "date": "2024-08-29T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Groga Palooza: Night 1: Rock, Soul, RnB, Dance"
     ],
     "link": "https://grogshop.gs/event-details/13680013/groga-palooza-night-1-rock-soul-rnb-dance",
@@ -254,7 +244,8 @@
   },
   {
     "artist": [
-      "Foxing"
+      "Foxing",
+      "From Indian Lakes"
     ],
     "link": "https://grogshop.gs/event-details/13755673/foxing",
     "date": "2024-09-21T20:30:00",
@@ -500,7 +491,8 @@
       "Kamakazi Kenji.",
       "Dj Scottradamus",
       "Jay Casso",
-      "DJ Cooley High"
+      "DJ Cooley High",
+      "Swank"
     ],
     "link": "https://grogshop.gs/event-details/13844083/devin-the-dude",
     "date": "2024-10-20T20:00:00",
@@ -520,6 +512,19 @@
     ],
     "link": "https://grogshop.gs/event-details/13835463/babylon-beautiful-memories-1st-usa-tour",
     "date": "2024-10-24T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Halloween Havoc ft. Willy J. Peso",
+      "Nuke Franklin",
+      "CTUCK",
+      "Armand Rashad",
+      "Big Boss Dev",
+      "DJ Cooley High"
+    ],
+    "link": "https://grogshop.gs/event-details/13895123/halloween-havoc-ft-willy-j-peso",
+    "date": "2024-10-25T21:00:00",
     "venue": "Grog Shop"
   },
   {

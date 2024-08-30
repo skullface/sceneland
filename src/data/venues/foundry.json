@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sad Dad Happy Hour"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/sad-dad-happy-hour/",
-    "date": "2024-08-29T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Polkadot Cadaver, Beneath the Hollow , Irewyrm"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/polkadot-cadaver/",
@@ -117,6 +109,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/julien-k-tomorrows-ghosts/",
     "date": "2024-09-20T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Baby Bugs, Solya"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/baby-bugs-solya/",
+    "date": "2024-09-21T20:00:00",
     "venue": "Foundry"
   },
   {
@@ -233,6 +233,22 @@
   },
   {
     "artist": [
+      "Like Murder: A Tribute To Acid Bath, 10,000 Rambos, Infalling"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/like-murder-a-tribute-to-acid-bath-10000-rambos-infalling/",
+    "date": "2024-11-01T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Attaxe, Dark Secret, Ego"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/attaxe-dark-secret-ego/",
+    "date": "2024-11-03T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Scab Hag, Throne, Assimilator, Rustfed, Gouted Corpse"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/scab-hag-throne-assimilator-rustfed-gouted-corpse/",
@@ -253,6 +269,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/free-bar-show-2/",
     "date": "2024-11-17T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "SHE1HIM2, 2 FORKS, I, ELECTRONIC, MELTER"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/she1him2-2-forks-i-electronic-melter/",
+    "date": "2024-11-30T19:00:00",
     "venue": "Foundry"
   },
   {

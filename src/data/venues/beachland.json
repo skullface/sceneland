@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Grant",
-      "Berry Box",
-      "Guiche"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13720303/grant-berry-box-guiche",
-    "date": "2024-08-30T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "BigBabyGucci",
       "WhiteRoseMoxie",
       "MDMA",
@@ -68,14 +58,6 @@
     "link": "https://www.beachlandballroom.com/e/13890893/a-benefit-for-solon-two-mile-moon-huntmere",
     "date": "2024-09-04T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "FIGGMUNITY Live Podcast"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13780083/figgmunity-live-podcast",
-    "date": "2024-09-04T20:30:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -142,9 +124,9 @@
   {
     "artist": [
       "Carter Vail",
-      "Colin Miller"
+      "Collin Miller"
     ],
-    "link": "https://www.beachlandballroom.com/e/13856503/carter-vail-colin-miller",
+    "link": "https://www.beachlandballroom.com/e/13856503/carter-vail-collin-miller",
     "date": "2024-09-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -262,9 +244,10 @@
   },
   {
     "artist": [
-      "Crawlers"
+      "Crawlers",
+      "TRUSS"
     ],
-    "link": "https://www.beachlandballroom.com/e/13848013/crawlers",
+    "link": "https://www.beachlandballroom.com/e/13848013/crawlers-truss",
     "date": "2024-09-19T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -873,6 +856,14 @@
     "link": "https://www.beachlandballroom.com/e/13880543/red-leather",
     "date": "2024-12-05T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Whitey Morgan & the 78s"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s",
+    "date": "2024-12-05T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

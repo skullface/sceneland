@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sad Girl Summer: Lana vs. Billie"
-    ],
-    "link": "https://link.dice.fm/H087f1c8c5ea?dice_id=H087f1c8c5ea",
-    "date": "2024-08-31T21:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Strawberry Girls"
     ],
     "link": "https://link.dice.fm/P2d121b53431?dice_id=P2d121b53431",
@@ -217,19 +209,19 @@
   },
   {
     "artist": [
-      "The Red Pears"
-    ],
-    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
-    "date": "2024-10-07T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Duster"
     ],
     "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
     "date": "2024-10-07T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Red Pears"
+    ],
+    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
+    "date": "2024-10-07T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

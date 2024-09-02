@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Gasolina: Reggaeton Party (18+ Only)"
-    ],
-    "link": "https://concerts.livenation.com/gasolina-reggaeton-party-18-only-cleveland-ohio-08-31-2024/event/050060C7CC205FF6",
-    "date": "2024-08-31T21:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Club 90s Presents Pink Pony Club: Chappell Roan Night (18+ Only)"
     ],
     "link": "https://concerts.livenation.com/club-90s-presents-pink-pony-club-cleveland-ohio-09-06-2024/event/050061024649D224",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/peezy-icewear-vezzo-cleveland-ohio-11-14-2024/event/05006102E2049A31",
     "date": "2024-11-14T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Fit for an Autopsy"
+    ],
+    "link": "https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309",
+    "date": "2024-11-15T17:30:00",
     "venue": "House of Blues"
   }
 ]

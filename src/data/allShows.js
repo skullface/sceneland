@@ -478,6 +478,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/',
+    date: '2024-09-09T18:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Bay Faction'],
     link: 'https://www.foundryconcertclub.com/tm-event/bay-faction/',
     date: '2024-09-10T20:00:00',
@@ -532,7 +538,7 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Sam Lachow'],
+    artist: ['Sam Lachow, Y.A.Y.A., ALLTHEHIPE, Jinari Kemet'],
     link: 'https://www.foundryconcertclub.com/tm-event/sam-lachow/',
     date: '2024-09-22T20:00:00',
     venue: 'Foundry',
@@ -547,6 +553,12 @@ export const allShows = [
     artist: ['GRVE, The Mummy Cats, The Reveal, Prithee'],
     link: 'https://www.foundryconcertclub.com/tm-event/grve-the-mummy-cats-the-reveal-prithee/',
     date: '2024-09-27T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Lake Erie Emo Club'],
+    link: 'https://www.foundryconcertclub.com/tm-event/lake-erie-emo-club/',
+    date: '2024-09-28T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -568,14 +580,14 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Marc Rizzo, Offensive, Ametropia'],
+    artist: ['Marc Rizzo, Offensive, Ametropia, High Early'],
     link: 'https://www.foundryconcertclub.com/tm-event/marc-rizzo-offensive-ametropia/',
     date: '2024-10-03T19:00:00',
     venue: 'Foundry',
   },
   {
     artist: [
-      'What Lies Below, Two Sides Of Me, A Sense Of Purpose, Unhealthy While Unhinged',
+      'What Lies Below, Two Sides Of Me, A Sense Of Purpose, Unhealthy While Unhinged, Freedom in Chains',
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/what-lies-below-two-sides-of-me-a-sense-of-purpose-unhealthy-while-unhinged/',
     date: '2024-10-04T19:00:00',
@@ -1745,24 +1757,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Gavin Adcock'],
-    link: 'https://www.agoracleveland.com/events/detail/656668',
-    date: '2025-04-10T18:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Dean Lewis'],
-    link: 'https://www.agoracleveland.com/events/detail/587201',
-    date: '2025-04-17T18:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Whiffler, Stonebridge, Cats Eat Dogs, Huntmere'],
-    link: 'https://grogshop.gs/event-details/13870723/whiffler-stonebridge-cats-eat-dogs-huntmere',
-    date: '2024-09-03T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Midnight Rental presents Secret Movie Night'],
     link: 'https://grogshop.gs/event-details/13838243/midnight-rental-presents-secret-movie-night',
     date: '2024-09-04T20:00:00',
@@ -1775,18 +1769,15 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Stephen Wilson Jr.'],
-    link: 'https://grogshop.gs/event-details/13748743/stephen-wilson-jr-',
+    artist: ['Stephen Wilson Jr. SON OF DAD TOUR 2024', 'Bre Kennedy'],
+    link: 'https://grogshop.gs/event-details/13748743/stephen-wilson-jr-son-of-dad-tour-2024',
     sold_out: true,
     date: '2024-09-05T20:00:00',
     venue: 'Grog Shop',
   },
   {
-    artist: [
-      'B Side Summer Patio Series: Brent Kirby and Clare Feorene',
-      'Clare Feorene',
-    ],
-    link: 'https://grogshop.gs/event-details/13561444/b-side-summer-patio-series-brent-kirby-and-clare-feorene',
+    artist: ['B Side Patio Grand Reopening with Brent Kirby and Clare Feorene'],
+    link: 'https://grogshop.gs/event-details/13561444/b-side-patio-grand-reopening-with-brent-kirby-and-clare-feorene',
     date: '2024-09-06T19:00:00',
     venue: 'Grog Shop',
   },
@@ -1900,6 +1891,12 @@ export const allShows = [
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13868663/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-09-23T20:00:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Salad Days: A Decade of Punk in Washington DC (1980-1990)'],
+    link: 'https://grogshop.gs/event-details/13902243/salad-days-a-decade-of-punk-in-washington-dc-1980-1990-',
+    date: '2024-09-24T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -2044,14 +2041,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
-    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
+    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
+    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
-    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
+    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
+    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
@@ -2186,12 +2183,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['The Linda Lindas', 'Rodeo Boys'],
-    link: 'https://www.beachlandballroom.com/e/13668743/the-linda-lindas-rodeo-boys',
-    date: '2024-09-03T19:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['Ladrones'],
     link: 'https://www.beachlandballroom.com/e/13698783/ladrones',
     date: '2024-09-03T21:00:00',
@@ -2313,6 +2304,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules',
     date: '2024-09-14T12:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Beachland Brunch', 'DJ Hadley Connor'],
+    link: 'https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor',
+    date: '2024-09-15T11:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Pre/Post Party', 'Sugar Mules'],
@@ -2715,6 +2712,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['David Graham & The Eskimo Brothers'],
+    link: 'https://www.beachlandballroom.com/e/13891163/david-graham-the-eskimo-brothers',
+    date: '2024-11-15T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Hackensaw Boys', 'Cory Grinder and the Playboy Scouts'],
     link: 'https://www.beachlandballroom.com/e/13758263/hackensaw-boys-cory-grinder-and-the-playboy-scouts',
     date: '2024-11-16T20:00:00',
@@ -2807,12 +2810,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13740913/ty-segall-solo-acoustic',
     date: '2025-04-22T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Strawberry Girls'],
-    link: 'https://link.dice.fm/P2d121b53431?dice_id=P2d121b53431',
-    date: '2024-09-03T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['The Kilograms'],

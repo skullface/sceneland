@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Linda Lindas",
-      "Rodeo Boys"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13668743/the-linda-lindas-rodeo-boys",
-    "date": "2024-09-03T19:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Ladrones"
     ],
     "link": "https://www.beachlandballroom.com/e/13698783/ladrones",
@@ -180,6 +171,15 @@
     "link": "https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules",
     "date": "2024-09-14T12:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Brunch",
+      "DJ Hadley Connor"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor",
+    "date": "2024-09-15T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -753,6 +753,14 @@
     "link": "https://www.beachlandballroom.com/e/13827083/ballyhoo-keep-flying",
     "date": "2024-11-15T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "David Graham & The Eskimo Brothers"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13891163/david-graham-the-eskimo-brothers",
+    "date": "2024-11-15T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Whiffler, Stonebridge, Cats Eat Dogs, Huntmere"
-    ],
-    "link": "https://grogshop.gs/event-details/13870723/whiffler-stonebridge-cats-eat-dogs-huntmere",
-    "date": "2024-09-03T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Midnight Rental presents Secret Movie Night"
     ],
     "link": "https://grogshop.gs/event-details/13838243/midnight-rental-presents-secret-movie-night",
@@ -25,19 +17,19 @@
   },
   {
     "artist": [
-      "Stephen Wilson Jr."
+      "Stephen Wilson Jr. SON OF DAD TOUR 2024",
+      "Bre Kennedy"
     ],
-    "link": "https://grogshop.gs/event-details/13748743/stephen-wilson-jr-",
+    "link": "https://grogshop.gs/event-details/13748743/stephen-wilson-jr-son-of-dad-tour-2024",
     "sold_out": true,
     "date": "2024-09-05T20:00:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "B Side Summer Patio Series: Brent Kirby and Clare Feorene",
-      "Clare Feorene"
+      "B Side Patio Grand Reopening with Brent Kirby and Clare Feorene"
     ],
-    "link": "https://grogshop.gs/event-details/13561444/b-side-summer-patio-series-brent-kirby-and-clare-feorene",
+    "link": "https://grogshop.gs/event-details/13561444/b-side-patio-grand-reopening-with-brent-kirby-and-clare-feorene",
     "date": "2024-09-06T19:00:00",
     "venue": "Grog Shop"
   },
@@ -191,6 +183,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13868663/make-em-laugh-mondays-hosted-by-kevin-ford",
     "date": "2024-09-23T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Salad Days: A Decade of Punk in Washington DC (1980-1990)"
+    ],
+    "link": "https://grogshop.gs/event-details/13902243/salad-days-a-decade-of-punk-in-washington-dc-1980-1990-",
+    "date": "2024-09-24T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -392,20 +392,20 @@
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Brooke Candy",
       "Namasenda",
       "Tash Blake"
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "date": "2024-10-19T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
+    ],
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },

@@ -33,6 +33,14 @@
   },
   {
     "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/",
+    "date": "2024-09-09T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Bay Faction"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/bay-faction/",
@@ -105,7 +113,7 @@
   },
   {
     "artist": [
-      "Sam Lachow"
+      "Sam Lachow, Y.A.Y.A., ALLTHEHIPE, Jinari Kemet"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/sam-lachow/",
     "date": "2024-09-22T20:00:00",
@@ -125,6 +133,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/grve-the-mummy-cats-the-reveal-prithee/",
     "date": "2024-09-27T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Lake Erie Emo Club"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/lake-erie-emo-club/",
+    "date": "2024-09-28T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -153,7 +169,7 @@
   },
   {
     "artist": [
-      "Marc Rizzo, Offensive, Ametropia"
+      "Marc Rizzo, Offensive, Ametropia, High Early"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/marc-rizzo-offensive-ametropia/",
     "date": "2024-10-03T19:00:00",
@@ -161,7 +177,7 @@
   },
   {
     "artist": [
-      "What Lies Below, Two Sides Of Me, A Sense Of Purpose, Unhealthy While Unhinged"
+      "What Lies Below, Two Sides Of Me, A Sense Of Purpose, Unhealthy While Unhinged, Freedom in Chains"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/what-lies-below-two-sides-of-me-a-sense-of-purpose-unhealthy-while-unhinged/",
     "date": "2024-10-04T19:00:00",

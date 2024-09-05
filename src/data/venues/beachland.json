@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Ladrones"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13698783/ladrones",
-    "date": "2024-09-03T21:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "A Benefit for Solon",
-      "Two Mile Moon",
-      "Huntmere"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13890893/a-benefit-for-solon-two-mile-moon-huntmere",
-    "date": "2024-09-04T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Team Awesome",
       "Hard Hat",
       "Rent For Cheryl"
@@ -92,9 +74,10 @@
     "artist": [
       "Birthday Girl",
       "High.",
-      "cool party"
+      "cool party",
+      "abel"
     ],
-    "link": "https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party",
+    "link": "https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party-abel",
     "date": "2024-09-09T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -166,9 +149,10 @@
       "Waterloo Arts Fest 2024",
       "The Rumble featuring Chief Joseph Boudreaux Jr.",
       "Big Hoke",
-      "Sugar Mules"
+      "Sugar Mules",
+      "The Buffalo Ryders"
     ],
-    "link": "https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules",
+    "link": "https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules-the-buffalo-ryders",
     "date": "2024-09-14T12:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -180,6 +164,15 @@
     "link": "https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor",
     "date": "2024-09-15T11:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Ojos Brillantes",
+      "Neva Dinova"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13907053/ojos-brillantes-neva-dinova",
+    "date": "2024-09-15T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -211,18 +204,20 @@
   },
   {
     "artist": [
-      "Crawlers",
-      "TRUSS"
+      "Crawlers"
     ],
-    "link": "https://www.beachlandballroom.com/e/13848013/crawlers-truss",
+    "link": "https://www.beachlandballroom.com/e/13848013/crawlers",
     "date": "2024-09-19T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
     "artist": [
-      "DEVOtional 2024"
+      "DEVOtional 2024",
+      "Off Leash (formerly known as Detention)",
+      "Massive Hotdog Recall",
+      "Akronauts"
     ],
-    "link": "https://www.beachlandballroom.com/e/13505864/devotional-2024",
+    "link": "https://www.beachlandballroom.com/e/13505864/devotional-2024-off-leash-formerly-known-as-detention-massive-hotdog-recall-akronauts",
     "date": "2024-09-20T19:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -720,6 +715,14 @@
   },
   {
     "artist": [
+      "HARBOUR"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13896193/harbour",
+    "date": "2024-11-10T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "BigXthaPlug",
       "Ro$ama",
       "Yung Hood"
@@ -874,6 +877,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13860813/bearly-dead-a-tribute-to-the-grateful-dead",
     "date": "2024-12-13T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "CLE MOSH"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13571384/cle-mosh",
+    "date": "2024-12-14T16:00:00",
     "venue": "Beachland Ballroom"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Of Virtue, The Static Wake, Like Tyrants, Earth & Elsewhere"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/of-virtue-the-static-wake/",
-    "date": "2024-09-03T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Hoods, Southpaw, Unvow, Disobedient Crew"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/",
@@ -117,6 +109,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/sam-lachow/",
     "date": "2024-09-22T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Jhariah"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/jhariah/",
+    "date": "2024-09-25T19:00:00",
     "venue": "Foundry"
   },
   {

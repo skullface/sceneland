@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
-    ],
-    "link": "https://grogshop.gs/event-details/13838243/midnight-rental-presents-secret-movie-night",
-    "date": "2024-09-04T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "FIGGMUNITY Live Podcast"
-    ],
-    "link": "https://grogshop.gs/event-details/13777833/figgmunity-live-podcast",
-    "date": "2024-09-04T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Stephen Wilson Jr. SON OF DAD TOUR 2024",
       "Bre Kennedy"
     ],
@@ -392,20 +376,20 @@
   },
   {
     "artist": [
-      "Brooke Candy",
-      "Namasenda",
-      "Tash Blake"
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
     ],
-    "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
+      "Brooke Candy",
+      "Namasenda",
+      "Tash Blake"
     ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
+    "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
@@ -428,6 +412,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13487344/hinds",
     "date": "2024-10-22T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Midnight Rental Presents Secret Movie Night",
+      "Ghoulish Gary Pullen"
+    ],
+    "link": "https://grogshop.gs/event-details/13573154/midnight-rental-presents-secret-movie-night",
+    "date": "2024-10-23T20:00:00",
     "venue": "Grog Shop"
   },
   {

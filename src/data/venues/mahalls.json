@@ -1,19 +1,20 @@
 [
   {
     "artist": [
-      "The Kilograms"
-    ],
-    "link": "https://link.dice.fm/Of5ac7d72fd7?dice_id=Of5ac7d72fd7",
-    "date": "2024-09-04T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "@"
     ],
     "link": "https://link.dice.fm/V2d5e7459e34?dice_id=V2d5e7459e34",
     "date": "2024-09-05T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Hot Mulligan and The Wonder Years"
+    ],
+    "link": "https://link.dice.fm/Kde6aa9afadd?dice_id=Kde6aa9afadd",
+    "sold_out": true,
+    "date": "2024-09-06T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -85,6 +86,14 @@
     ],
     "link": "https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d",
     "date": "2024-09-15T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Emo Bingo"
+    ],
+    "link": "https://link.dice.fm/Hf718d504a74?dice_id=Hf718d504a74",
+    "date": "2024-09-17T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -225,6 +234,14 @@
   },
   {
     "artist": [
+      "Emo Bingo"
+    ],
+    "link": "https://link.dice.fm/nb0b78206462?dice_id=nb0b78206462",
+    "date": "2024-10-08T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Stop Light Observations"
     ],
     "link": "https://link.dice.fm/Ifb101337d3b?dice_id=Ifb101337d3b",
@@ -241,6 +258,14 @@
   },
   {
     "artist": [
+      "Many Eyes"
+    ],
+    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
     "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
@@ -249,10 +274,10 @@
   },
   {
     "artist": [
-      "Many Eyes"
+      "Lady Lamb"
     ],
-    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
-    "date": "2024-10-11T19:00:00-04:00",
+    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
+    "date": "2024-10-12T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -265,10 +290,10 @@
   },
   {
     "artist": [
-      "Lady Lamb"
+      "The Smiths vs. The Cure dance party"
     ],
-    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
-    "date": "2024-10-12T18:30:00-04:00",
+    "link": "https://link.dice.fm/jb29c40c0362?dice_id=jb29c40c0362",
+    "date": "2024-10-12T22:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -366,6 +391,14 @@
     "link": "https://link.dice.fm/R1297df25d1c?dice_id=R1297df25d1c",
     "date": "2024-10-25T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Spooky Jukey: Halloween Emo Night"
+    ],
+    "link": "https://link.dice.fm/Yf987aa4391b?dice_id=Yf987aa4391b",
+    "date": "2024-10-25T22:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

@@ -62,13 +62,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Stephen Wilson Jr. SON OF DAD TOUR 2024', 'Bre Kennedy'],
-    link: 'https://grogshop.gs/event-details/13748743/stephen-wilson-jr-son-of-dad-tour-2024',
-    sold_out: true,
-    date: '2024-09-05T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['B Side Patio Grand Reopening with Brent Kirby and Clare Feorene'],
     link: 'https://grogshop.gs/event-details/13561444/b-side-patio-grand-reopening-with-brent-kirby-and-clare-feorene',
     date: '2024-09-06T19:00:00',
@@ -730,9 +723,9 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['@'],
-    link: 'https://link.dice.fm/V2d5e7459e34?dice_id=V2d5e7459e34',
-    date: '2024-09-05T19:00:00-04:00',
+    artist: ['Kultures album release show'],
+    link: 'https://link.dice.fm/P2b989eb0cb9?dice_id=P2b989eb0cb9',
+    date: '2024-09-06T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -741,12 +734,6 @@ export const allShows = [
     sold_out: true,
     date: '2024-09-06T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Kultures album release show'],
-    link: 'https://link.dice.fm/P2b989eb0cb9?dice_id=P2b989eb0cb9',
-    date: '2024-09-06T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Defend Pop Punk - Emo Night CLE'],
@@ -812,6 +799,12 @@ export const allShows = [
     artist: ['Caskets'],
     link: 'https://link.dice.fm/w9a4a693134a?dice_id=w9a4a693134a',
     date: '2024-09-20T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ["Time to Pretend: 2000's to now indie dance party"],
+    link: 'https://link.dice.fm/k81f2fe40e23?dice_id=k81f2fe40e23',
+    date: '2024-09-21T21:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -923,16 +916,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Many Eyes'],
-    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
     link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Many Eyes'],
+    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Lady Lamb'],
@@ -965,16 +958,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Demon Hunter'],
-    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
-    date: '2024-10-17T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Friday Pilots Club: The Nowhere Tour'],
     link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
     date: '2024-10-17T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Demon Hunter'],
+    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
+    date: '2024-10-17T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Cloud Nothings'],
@@ -1101,6 +1094,12 @@ export const allShows = [
     link: 'https://link.dice.fm/N9d6fd766b15?dice_id=N9d6fd766b15',
     date: '2024-11-11T18:30:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Tall Heights'],
+    link: 'https://link.dice.fm/f656217ef1f2?dice_id=f656217ef1f2',
+    date: '2024-11-15T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['BIG D AND THE KIDS TABLE + WE ARE THE UNION'],
@@ -1325,6 +1324,12 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
+    artist: ['Hippies & Cowboys: Fork in the Road Tour'],
+    link: 'https://www.ticketweb.com/event/hippies-cowboys-fork-in-musica-tickets/13575034',
+    date: '2024-10-20T19:00:00',
+    venue: 'Musica Akron',
+  },
+  {
     artist: ['The Menzingers'],
     link: 'https://www.ticketweb.com/event/the-menzingers-musica-tickets/13698403',
     date: '2024-11-03T19:00:00',
@@ -1335,12 +1340,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Hoods, Southpaw, Unvow, Disobedient Crew'],
-    link: 'https://www.foundryconcertclub.com/tm-event/hoods-southpaw-unvow-disobedient-crew/',
-    date: '2024-09-05T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['MySpace Music vs. Horny Metal'],
@@ -1506,6 +1505,12 @@ export const allShows = [
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/the-static-wake-dread-engine-titans-in-time-if-i-fall-asleep-constellations/',
     date: '2024-10-19T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Off With Their Heads, Nightmarathons'],
+    link: 'https://www.foundryconcertclub.com/tm-event/off-with-their-heads-nightmarathons/',
+    date: '2024-10-25T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -2301,7 +2306,7 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['SOFI TUKKER'],
+    artist: ['SOFI TUKKER, Carola'],
     link: 'https://www.agoracleveland.com/events/detail/558994',
     date: '2024-09-30T18:00:00',
     venue: 'Agora',
@@ -2464,6 +2469,12 @@ export const allShows = [
     artist: ['Jessie Murph'],
     link: 'https://www.agoracleveland.com/events/detail/654707',
     date: '2024-11-08T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ["Chayla Hope & CYO's Low-Fi Mix Tape"],
+    link: 'https://www.agoracleveland.com/events/detail/670779',
+    date: '2024-11-09T18:00:00',
     venue: 'Agora',
   },
   {
@@ -2743,8 +2754,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Crawlers'],
-    link: 'https://www.beachlandballroom.com/e/13848013/crawlers',
+    artist: ['Crawlers', 'Sonder Bombs'],
+    link: 'https://www.beachlandballroom.com/e/13848013/crawlers-sonder-bombs',
     date: '2024-09-19T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2763,7 +2774,7 @@ export const allShows = [
     artist: ['The Alarm Clocks', 'Thee Isolaters'],
     link: 'https://www.beachlandballroom.com/e/13890383/the-alarm-clocks-thee-isolaters',
     date: '2024-09-20T20:00:00',
-    venue: 'Beachland Ballroom',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['DEVOtional 2024'],
@@ -3008,6 +3019,12 @@ export const allShows = [
     sold_out: true,
     date: '2024-10-20T20:30:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Minka', 'Post Saga', 'Rellick', 'Lee Miller Matsos'],
+    link: 'https://www.beachlandballroom.com/e/13575164/minka-post-saga-rellick-lee-miller-matsos',
+    date: '2024-10-23T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Jessica Lea Mayfield', 'Goodmorning Valentine'],

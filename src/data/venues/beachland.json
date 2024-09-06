@@ -204,9 +204,10 @@
   },
   {
     "artist": [
-      "Crawlers"
+      "Crawlers",
+      "Sonder Bombs"
     ],
-    "link": "https://www.beachlandballroom.com/e/13848013/crawlers",
+    "link": "https://www.beachlandballroom.com/e/13848013/crawlers-sonder-bombs",
     "date": "2024-09-19T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -228,7 +229,7 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13890383/the-alarm-clocks-thee-isolaters",
     "date": "2024-09-20T20:00:00",
-    "venue": "Beachland Ballroom"
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -574,6 +575,17 @@
     "sold_out": true,
     "date": "2024-10-20T20:30:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Minka",
+      "Post Saga",
+      "Rellick",
+      "Lee Miller Matsos"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13575164/minka-post-saga-rellick-lee-miller-matsos",
+    "date": "2024-10-23T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "B Side Patio Grand Reopening with Brent Kirby and Clare Feorene"
-    ],
-    "link": "https://grogshop.gs/event-details/13561444/b-side-patio-grand-reopening-with-brent-kirby-and-clare-feorene",
-    "date": "2024-09-06T19:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: Die",
-      "Nasty: A Tribute to the 80s",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13484284/glamgore-die-nasty-a-tribute-to-the-80s",
-    "date": "2024-09-06T21:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Deicide, Krisiun, Inferi, Cloak"
     ],
     "link": "https://grogshop.gs/event-details/13727193/deicide-krisiun-inferi-cloak",
@@ -366,20 +348,20 @@
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Brooke Candy",
       "Namasenda",
       "Tash Blake"
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "date": "2024-10-19T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
+    ],
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },

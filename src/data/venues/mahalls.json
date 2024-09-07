@@ -1,31 +1,6 @@
 [
   {
     "artist": [
-      "Kultures album release show"
-    ],
-    "link": "https://link.dice.fm/P2b989eb0cb9?dice_id=P2b989eb0cb9",
-    "date": "2024-09-06T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Hot Mulligan and The Wonder Years"
-    ],
-    "link": "https://link.dice.fm/Kde6aa9afadd?dice_id=Kde6aa9afadd",
-    "sold_out": true,
-    "date": "2024-09-06T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Defend Pop Punk - Emo Night CLE"
-    ],
-    "link": "https://link.dice.fm/Nf2f3f5c8b17?dice_id=Nf2f3f5c8b17",
-    "date": "2024-09-06T23:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "CG5"
     ],
     "link": "https://link.dice.fm/m21fd14b4163?dice_id=m21fd14b4163",
@@ -218,19 +193,19 @@
   },
   {
     "artist": [
-      "Duster"
-    ],
-    "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
-    "date": "2024-10-07T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Red Pears"
     ],
     "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
     "date": "2024-10-07T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Duster"
+    ],
+    "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
+    "date": "2024-10-07T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -258,14 +233,6 @@
   },
   {
     "artist": [
-      "Ginger Root\u2019s SHINBANGUMI Tour"
-    ],
-    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Many Eyes"
     ],
     "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
@@ -274,11 +241,11 @@
   },
   {
     "artist": [
-      "Lady Lamb"
+      "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
-    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
-    "date": "2024-10-12T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -287,6 +254,14 @@
     "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
     "date": "2024-10-12T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Lady Lamb"
+    ],
+    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
+    "date": "2024-10-12T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -314,19 +289,19 @@
   },
   {
     "artist": [
-      "Friday Pilots Club: The Nowhere Tour"
-    ],
-    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
-    "date": "2024-10-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Demon Hunter"
     ],
     "link": "https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06",
     "date": "2024-10-17T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Friday Pilots Club: The Nowhere Tour"
+    ],
+    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
+    "date": "2024-10-17T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -354,19 +329,19 @@
   },
   {
     "artist": [
-      "Tank and the Bangas and Jamila Woods"
-    ],
-    "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
-    "date": "2024-10-23T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Rav and Kill Bill: The Rapper"
     ],
     "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
     "date": "2024-10-23T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Tank and the Bangas and Jamila Woods"
+    ],
+    "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
+    "date": "2024-10-23T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -510,6 +485,14 @@
     ],
     "link": "https://link.dice.fm/Da661b551e2f?dice_id=Da661b551e2f",
     "date": "2024-11-17T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Games We Play"
+    ],
+    "link": "https://link.dice.fm/t45b820beab4?dice_id=t45b820beab4",
+    "date": "2024-11-21T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

@@ -1,34 +1,6 @@
 [
   {
     "artist": [
-      "Team Awesome",
-      "Hard Hat",
-      "Rent For Cheryl"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13872343/team-awesome-hard-hat-rent-for-cheryl",
-    "date": "2024-09-05T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Brothertiger",
-      "Evan Crouse"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13514054/brothertiger-evan-crouse",
-    "date": "2024-09-06T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "The Clarks",
-      "Falling Stars"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13688153/the-clarks-falling-stars",
-    "date": "2024-09-06T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Trash Bash",
       "After The Apocalypse",
       "Hams",
@@ -225,9 +197,9 @@
   {
     "artist": [
       "The Alarm Clocks",
-      "Thee Isolaters"
+      "Thee Isolators"
     ],
-    "link": "https://www.beachlandballroom.com/e/13890383/the-alarm-clocks-thee-isolaters",
+    "link": "https://www.beachlandballroom.com/e/13890383/the-alarm-clocks-thee-isolators",
     "date": "2024-09-20T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -701,10 +673,10 @@
   },
   {
     "artist": [
-      "Dead Letter Office",
+      "Dead Letter Office: A Tribute to R.E.M.",
       "Disintegration: A Tribute to the Cure"
     ],
-    "link": "https://www.beachlandballroom.com/e/13873413/dead-letter-office-disintegration-a-tribute-to-the-cure",
+    "link": "https://www.beachlandballroom.com/e/13873413/dead-letter-office-a-tribute-to-r-e-m-disintegration-a-tribute-to-the-cure",
     "date": "2024-11-08T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -898,6 +870,14 @@
     "link": "https://www.beachlandballroom.com/e/13571384/cle-mosh",
     "date": "2024-12-14T16:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Eric Johanson"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13578184/eric-johanson",
+    "date": "2024-12-15T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

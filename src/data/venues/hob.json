@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Club 90s Presents Pink Pony Club: Chappell Roan Night (18+ Only)"
-    ],
-    "link": "https://concerts.livenation.com/club-90s-presents-pink-pony-club-cleveland-ohio-09-06-2024/event/050061024649D224",
-    "date": "2024-09-06T20:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Mr. Speed: A Tribute to Kiss"
     ],
     "link": "https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/fit-for-an-autopsy-cleveland-ohio-11-15-2024/event/050060EC286D9309",
     "date": "2024-11-15T17:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Allie X"
+    ],
+    "link": "https://concerts.livenation.com/allie-x-cleveland-ohio-11-16-2024/event/05006118C7DE23C7",
+    "date": "2024-11-16T19:00:00",
     "venue": "House of Blues"
   }
 ]

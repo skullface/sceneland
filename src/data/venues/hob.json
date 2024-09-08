@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mr. Speed: A Tribute to Kiss"
-    ],
-    "link": "https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2",
-    "date": "2024-09-07T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The 502s: Great American Road Trip with Special Guest Oliver Hazard"
     ],
     "link": "https://concerts.livenation.com/the-502s-great-american-road-trip-cleveland-ohio-09-08-2024/event/050060BF2FE89790",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/allie-x-cleveland-ohio-11-16-2024/event/05006118C7DE23C7",
     "date": "2024-11-16T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Animals As Leaders: Joy Of Motion X Tour"
+    ],
+    "link": "https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18",
+    "date": "2024-11-20T19:00:00",
     "venue": "House of Blues"
   }
 ]

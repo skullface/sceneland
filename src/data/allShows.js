@@ -56,12 +56,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Deicide, Krisiun, Inferi, Cloak'],
-    link: 'https://grogshop.gs/event-details/13727193/deicide-krisiun-inferi-cloak',
-    date: '2024-09-07T20:00:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'THE SUICIDE MACHINES with Hey Smith + Kill Lincoln + Bad Operation',
     ],
@@ -305,14 +299,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
-    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
+    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
+    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
-    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
+    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
+    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
@@ -701,12 +695,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['CG5'],
-    link: 'https://link.dice.fm/m21fd14b4163?dice_id=m21fd14b4163',
-    date: '2024-09-07T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Sad Park'],
     link: 'https://link.dice.fm/Od04579a4ffc?dice_id=Od04579a4ffc',
     date: '2024-09-08T18:00:00-04:00',
@@ -887,16 +875,16 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Balance & Composure'],
-    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
-    date: '2024-10-12T18:30:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Lady Lamb'],
     link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Balance & Composure'],
+    link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['The Smiths vs. The Cure dance party'],
@@ -917,16 +905,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Demon Hunter'],
-    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
-    date: '2024-10-17T19:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Friday Pilots Club: The Nowhere Tour'],
     link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
     date: '2024-10-17T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Demon Hunter'],
+    link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
+    date: '2024-10-17T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Cloud Nothings'],
@@ -1205,12 +1193,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ['Hot Wheels Monster Trucks Live', 'Glow Party'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/hot-wheels-live-090724',
-    date: '2024-09-07',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
     artist: [
       'Nicki Minaj: Pink Friday 2 World Tour',
       'Special Guests Tyga, Bia and Skillibeng',
@@ -1305,14 +1287,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: [
-      'Reticulatus, Midwinter, The Final Seconds of Suffering, For Absent Friends, Gates of Sheol',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/reticulatus-midwinter-the-final-seconds-of-suffering-for-absent-friends-gates-of-sheol/',
-    date: '2024-09-07T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['MOVIE NIGHT MONDAY'],
@@ -1699,12 +1673,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ["RuPaul's Drag Race All Stars LIVE"],
-    link: 'https://www.playhousesquare.org/events/detail/rupauls-drag-race-all-stars-live',
-    date: '2024-09-07',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Spider-Man: Across The Spider-Verse'],
     link: 'https://www.playhousesquare.org/events/detail/spider-man-across-the-spider-verse',
     date: '2024-09-13',
@@ -1893,12 +1861,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207',
     date: '2024-03-17T16:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['Mr. Speed: A Tribute to Kiss'],
-    link: 'https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2',
-    date: '2024-09-07T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: [
@@ -2182,6 +2144,12 @@ export const allShows = [
     artist: ['Allie X'],
     link: 'https://concerts.livenation.com/allie-x-cleveland-ohio-11-16-2024/event/05006118C7DE23C7',
     date: '2024-11-16T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Animals As Leaders: Joy Of Motion X Tour'],
+    link: 'https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18',
+    date: '2024-11-20T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -2567,22 +2535,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: [
-      'Trash Bash',
-      'After The Apocalypse',
-      'Hams',
-      'Beast Killer',
-      'Bittersweet Revenge',
-      'Inducing Panic',
-      'Voices of the Damned',
-      'Nosewig',
-      'Psycho Plantation',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13777693/trash-bash-after-the-apocalypse-hams-beast-killer-bittersweet-revenge-inducing-panic-voices-of-the-damned-nosewig-psycho-plantation',
-    date: '2024-09-07T17:30:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Beachland Brunch', 'DJ Bob Hughes'],

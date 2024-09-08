@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Sep 2024 09:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 09:05:07 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Cage The Elephant: Neon Pill Tour at Blossom]]></title>
@@ -68,13 +68,6 @@
             <link>https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</link>
             <guid isPermaLink="true">https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</guid>
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deicide, Krisiun, Inferi, Cloak at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Deicide, Krisiun, Inferi, Cloak at Grog Shop on Saturday, September 7, 2024, 08:00 PM: https://grogshop.gs/event-details/13727193/deicide-krisiun-inferi-cloak]]></description>
-            <link>https://grogshop.gs/event-details/13727193/deicide-krisiun-inferi-cloak</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13727193/deicide-krisiun-inferi-cloak</guid>
-            <pubDate>Sat, 07 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[THE SUICIDE MACHINES with Hey Smith + Kill Lincoln + Bad Operation at Grog Shop]]></title>
@@ -343,17 +336,17 @@
             <pubDate>Fri, 18 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brooke Candy, Namasenda, Tash Blake at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Brooke Candy, Namasenda, Tash Blake at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13731993/brooke-candy]]></description>
-            <link>https://grogshop.gs/event-details/13731993/brooke-candy</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13731993/brooke-candy</guid>
-            <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop]]></title>
             <description><![CDATA[Get tickets to HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour]]></description>
             <link>https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</guid>
+            <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brooke Candy, Namasenda, Tash Blake at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Brooke Candy, Namasenda, Tash Blake at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13731993/brooke-candy]]></description>
+            <link>https://grogshop.gs/event-details/13731993/brooke-candy</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13731993/brooke-candy</guid>
             <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -777,13 +770,6 @@
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CG5 at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to CG5 at Mahall’s on Saturday, September 7, 2024, 11:00 PM: https://link.dice.fm/m21fd14b4163?dice_id=m21fd14b4163]]></description>
-            <link>https://link.dice.fm/m21fd14b4163?dice_id=m21fd14b4163</link>
-            <guid isPermaLink="true">https://link.dice.fm/m21fd14b4163?dice_id=m21fd14b4163</guid>
-            <pubDate>Sat, 07 Sep 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sad Park at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Sad Park at Mahall’s on Sunday, September 8, 2024, 10:00 PM: https://link.dice.fm/Od04579a4ffc?dice_id=Od04579a4ffc]]></description>
             <link>https://link.dice.fm/Od04579a4ffc?dice_id=Od04579a4ffc</link>
@@ -994,17 +980,17 @@
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
-            <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
-            <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
-            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lady Lamb at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Lady Lamb at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d]]></description>
             <link>https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</link>
             <guid isPermaLink="true">https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d</guid>
+            <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balance & Composure at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Balance & Composure at The Roxy at Mahall’s on Saturday, October 12, 2024, 10:30 PM: https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf]]></description>
+            <link>https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</link>
+            <guid isPermaLink="true">https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf</guid>
             <pubDate>Sat, 12 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1029,17 +1015,17 @@
             <pubDate>Wed, 16 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Demon Hunter at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Demon Hunter at The Roxy at Mahall’s on Thursday, October 17, 2024, 11:00 PM: https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06]]></description>
-            <link>https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06</link>
-            <guid isPermaLink="true">https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06</guid>
-            <pubDate>Thu, 17 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Friday Pilots Club: The Nowhere Tour at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Friday Pilots Club: The Nowhere Tour at Mahall’s on Thursday, October 17, 2024, 11:00 PM: https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc]]></description>
             <link>https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc</link>
             <guid isPermaLink="true">https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc</guid>
+            <pubDate>Thu, 17 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Demon Hunter at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Demon Hunter at The Roxy at Mahall’s on Thursday, October 17, 2024, 11:00 PM: https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06]]></description>
+            <link>https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06</link>
+            <guid isPermaLink="true">https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06</guid>
             <pubDate>Thu, 17 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1365,13 +1351,6 @@
             <pubDate>Sat, 21 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hot Wheels Monster Trucks Live, Glow Party at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Hot Wheels Monster Trucks Live, Glow Party at Rocket Mortgage FieldHouse on Saturday, September 7, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/hot-wheels-live-090724]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/hot-wheels-live-090724</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/hot-wheels-live-090724</guid>
-            <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nicki Minaj: Pink Friday 2 World Tour, Special Guests Tyga, Bia and Skillibeng at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to Nicki Minaj: Pink Friday 2 World Tour, Special Guests Tyga, Bia and Skillibeng at Rocket Mortgage FieldHouse on Friday, September 13, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/nicki-minaj-240913]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/nicki-minaj-240913</link>
@@ -1468,13 +1447,6 @@
             <link>https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334</guid>
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reticulatus, Midwinter, The Final Seconds of Suffering, For Absent Friends, Gates of Sheol at Foundry]]></title>
-            <description><![CDATA[Get tickets to Reticulatus, Midwinter, The Final Seconds of Suffering, For Absent Friends, Gates of Sheol at Foundry on Saturday, September 7, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/reticulatus-midwinter-the-final-seconds-of-suffering-for-absent-friends-gates-of-sheol/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/reticulatus-midwinter-the-final-seconds-of-suffering-for-absent-friends-gates-of-sheol/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/reticulatus-midwinter-the-final-seconds-of-suffering-for-absent-friends-gates-of-sheol/</guid>
-            <pubDate>Sat, 07 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
@@ -1911,13 +1883,6 @@
             <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RuPaul's Drag Race All Stars LIVE at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to RuPaul's Drag Race All Stars LIVE at Playhouse Square on Saturday, September 7, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/rupauls-drag-race-all-stars-live]]></description>
-            <link>https://www.playhousesquare.org/events/detail/rupauls-drag-race-all-stars-live</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/rupauls-drag-race-all-stars-live</guid>
-            <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Spider-Man: Across The Spider-Verse at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Spider-Man: Across The Spider-Verse at Playhouse Square on Friday, September 13, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/spider-man-across-the-spider-verse]]></description>
             <link>https://www.playhousesquare.org/events/detail/spider-man-across-the-spider-verse</link>
@@ -2133,13 +2098,6 @@
             <link>https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207</guid>
             <pubDate>Sun, 17 Mar 2024 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mr. Speed: A Tribute to Kiss at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Mr. Speed: A Tribute to Kiss at House of Blues on Saturday, September 7, 2024, 07:00 PM: https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2]]></description>
-            <link>https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/mr-speed-a-tribute-to-kiss-cleveland-ohio-09-07-2024/event/050060A9B07065A2</guid>
-            <pubDate>Sat, 07 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The 502s: Great American Road Trip with Special Guest Oliver Hazard at House of Blues]]></title>
@@ -2469,6 +2427,13 @@
             <link>https://concerts.livenation.com/allie-x-cleveland-ohio-11-16-2024/event/05006118C7DE23C7</link>
             <guid isPermaLink="true">https://concerts.livenation.com/allie-x-cleveland-ohio-11-16-2024/event/05006118C7DE23C7</guid>
             <pubDate>Sat, 16 Nov 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Animals As Leaders: Joy Of Motion X Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Animals As Leaders: Joy Of Motion X Tour at House of Blues on Wednesday, November 20, 2024, 07:00 PM: https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18]]></description>
+            <link>https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18</guid>
+            <pubDate>Wed, 20 Nov 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Front 242, Nitzer Ebb, Kanga at Agora]]></title>
@@ -2910,13 +2875,6 @@
             <link>https://www.agoracleveland.com/events/detail/587201</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/587201</guid>
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trash Bash, After The Apocalypse, Hams, Beast Killer, Bittersweet Revenge, Inducing Panic, Voices of the Damned, Nosewig, Psycho Plantation at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Trash Bash, After The Apocalypse, Hams, Beast Killer, Bittersweet Revenge, Inducing Panic, Voices of the Damned, Nosewig, Psycho Plantation at Beachland Ballroom on Saturday, September 7, 2024, 05:30 PM: https://www.beachlandballroom.com/e/13777693/trash-bash-after-the-apocalypse-hams-beast-killer-bittersweet-revenge-inducing-panic-voices-of-the-damned-nosewig-psycho-plantation]]></description>
-            <link>https://www.beachlandballroom.com/e/13777693/trash-bash-after-the-apocalypse-hams-beast-killer-bittersweet-revenge-inducing-panic-voices-of-the-damned-nosewig-psycho-plantation</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13777693/trash-bash-after-the-apocalypse-hams-beast-killer-bittersweet-revenge-inducing-panic-voices-of-the-damned-nosewig-psycho-plantation</guid>
-            <pubDate>Sat, 07 Sep 2024 17:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beachland Brunch, DJ Bob Hughes at Beachland Tavern]]></title>

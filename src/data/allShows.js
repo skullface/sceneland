@@ -56,14 +56,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: [
-      'THE SUICIDE MACHINES with Hey Smith + Kill Lincoln + Bad Operation',
-    ],
-    link: 'https://grogshop.gs/event-details/13444074/the-suicide-machines-with-hey-smith-kill-lincoln-bad-operation',
-    date: '2024-09-08T19:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
     link: 'https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford',
     date: '2024-09-09T20:00:00',
@@ -695,12 +687,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Sad Park'],
-    link: 'https://link.dice.fm/Od04579a4ffc?dice_id=Od04579a4ffc',
-    date: '2024-09-08T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ian McConnell'],
     link: 'https://link.dice.fm/O481bb2b5c20?dice_id=O481bb2b5c20',
     date: '2024-09-10T19:00:00-04:00',
@@ -863,21 +849,15 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Many Eyes'],
-    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
     link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
-    artist: ['Lady Lamb'],
-    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
-    date: '2024-10-12T18:30:00-04:00',
+    artist: ['Many Eyes'],
+    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
+    date: '2024-10-11T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -885,6 +865,12 @@ export const allShows = [
     link: 'https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf',
     date: '2024-10-12T18:30:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Lady Lamb'],
+    link: 'https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d',
+    date: '2024-10-12T18:30:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['The Smiths vs. The Cure dance party'],
@@ -1863,14 +1849,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: [
-      'The 502s: Great American Road Trip with Special Guest Oliver Hazard',
-    ],
-    link: 'https://concerts.livenation.com/the-502s-great-american-road-trip-cleveland-ohio-09-08-2024/event/050060BF2FE89790',
-    date: '2024-09-08T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Baldassarre Rock Orchestra: A Whole Lotta Zeppelin'],
     link: 'https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5',
     date: '2024-09-13T18:30:00',
@@ -2153,10 +2131,10 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Front 242, Nitzer Ebb, Kanga'],
-    link: 'https://www.agoracleveland.com/events/detail/533396',
-    date: '2024-09-08T18:00:00',
-    venue: 'Agora',
+    artist: ['Senses Fail / Saves The Day: New Jersey vs. The World'],
+    link: 'https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223',
+    date: '2024-11-23T18:30:00',
+    venue: 'House of Blues',
   },
   {
     artist: ['Descendents & Circle Jerks, Surfbort'],
@@ -2535,24 +2513,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Beachland Brunch', 'DJ Bob Hughes'],
-    link: 'https://www.beachlandballroom.com/e/13882653/beachland-brunch-dj-bob-hughes',
-    date: '2024-09-08T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['American Aquarium', 'Darrin Bradbury'],
-    link: 'https://www.beachlandballroom.com/e/13465314/american-aquarium-darrin-bradbury',
-    date: '2024-09-08T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Carter Vail', 'Collin Miller'],
-    link: 'https://www.beachlandballroom.com/e/13856503/carter-vail-collin-miller',
-    date: '2024-09-08T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Birthday Girl', 'High.', 'cool party', 'abel'],

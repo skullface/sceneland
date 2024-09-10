@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Cage The Elephant: Neon Pill Tour'],
-    link: 'https://concerts.livenation.com/cage-the-elephant-neon-pill-tour-cuyahoga-falls-ohio-09-09-2024/event/0500605CCE4153EF',
-    date: '2024-09-09T18:30:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ['Stone Temple Pilots & +LIVE+: The Jubilee Tour'],
     link: 'https://concerts.livenation.com/stone-temple-pilots-live-the-jubilee-cuyahoga-falls-ohio-09-10-2024/event/0500606D07396904',
     date: '2024-09-10T19:00:00',
@@ -54,12 +48,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3',
     date: '2024-10-01T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Make Em Laugh Mondays Hosted By Kevin Ford'],
-    link: 'https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford',
-    date: '2024-09-09T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Joe Brown Band, Jack Lutz, Hannah Tramonte, Ty Bogikes'],
@@ -291,14 +279,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
-    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
+    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
+    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Brooke Candy', 'Namasenda', 'Tash Blake'],
-    link: 'https://grogshop.gs/event-details/13731993/brooke-candy',
+    artist: ['HULDER "WINDS OF AUTUMNAL SORROW" TOUR', 'One of Nine'],
+    link: 'https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour',
     date: '2024-10-19T20:30:00',
     venue: 'Grog Shop',
   },
@@ -1043,6 +1031,7 @@ export const allShows = [
   {
     artist: ['Games We Play'],
     link: 'https://link.dice.fm/t45b820beab4?dice_id=t45b820beab4',
+    sold_out: true,
     date: '2024-11-21T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
@@ -1275,12 +1264,6 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['MOVIE NIGHT MONDAY'],
-    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/',
-    date: '2024-09-09T18:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Bay Faction'],
     link: 'https://www.foundryconcertclub.com/tm-event/bay-faction/',
     date: '2024-09-10T20:00:00',
@@ -1338,6 +1321,12 @@ export const allShows = [
     artist: ['Sam Lachow, Y.A.Y.A., ALLTHEHIPE, Jinari Kemet'],
     link: 'https://www.foundryconcertclub.com/tm-event/sam-lachow/',
     date: '2024-09-22T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MOVIE NIGHT MONDAY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/',
+    date: '2024-09-23T18:00:00',
     venue: 'Foundry',
   },
   {
@@ -1575,14 +1564,14 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ['Andrew Schulz: The Life Tour'],
-    link: 'https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour',
+    artist: ['Ralph Barbosa'],
+    link: 'https://www.playhousesquare.org/events/detail/ralph-barbosa',
     date: '2024-09-20',
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Ralph Barbosa'],
-    link: 'https://www.playhousesquare.org/events/detail/ralph-barbosa',
+    artist: ['Andrew Schulz: The Life Tour'],
+    link: 'https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour',
     date: '2024-09-20',
     venue: 'Playhouse Square',
   },
@@ -2411,6 +2400,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['girl in red'],
+    link: 'https://www.agoracleveland.com/events/detail/653954',
+    date: '2024-12-04T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ["In This Moment, Kim Dracula, Nathan James, Mike's Dead"],
     link: 'https://www.agoracleveland.com/events/detail/648863',
     date: '2024-12-05T18:00:00',
@@ -2515,12 +2510,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Birthday Girl', 'High.', 'cool party', 'abel'],
-    link: 'https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party-abel',
-    date: '2024-09-09T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['Dogpark', 'Juniper', 'Who Saved Who'],
     link: 'https://www.beachlandballroom.com/e/13702943/dogpark-juniper-who-saved-who',
     date: '2024-09-10T20:00:00',
@@ -2575,8 +2564,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Beachland Brunch', 'DJ Hadley Connor'],
-    link: 'https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor',
+    artist: ['Beachland Brunch', 'DJ Mittenclips'],
+    link: 'https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips',
     date: '2024-09-15T11:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2631,6 +2620,18 @@ export const allShows = [
     artist: ['DEVOtional 2024'],
     link: 'https://www.beachlandballroom.com/e/13505844/devotional-2024',
     date: '2024-09-21T15:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Beachland Brunch'],
+    link: 'https://www.beachlandballroom.com/e/13581164/beachland-brunch',
+    date: '2024-09-22T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['School of Rock'],
+    link: 'https://www.beachlandballroom.com/e/13581234/school-of-rock',
+    date: '2024-09-22T11:00:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -2740,6 +2741,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa',
     date: '2024-10-04T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['The Whiskey Daredevils', 'The Legendary Hucklebucks'],
+    link: 'https://www.beachlandballroom.com/e/13581704/the-whiskey-daredevils-the-legendary-hucklebucks',
+    date: '2024-10-05T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Hello! 3D', 'Grateful for Biggie', 'Brood X'],
@@ -2914,6 +2921,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Dreamstreet'],
+    link: 'https://www.beachlandballroom.com/e/13581934/dreamstreet',
+    date: '2024-10-30T19:30:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Brother Elsey'],
     link: 'https://www.beachlandballroom.com/e/13691463/brother-elsey',
     date: '2024-10-31T20:00:00',
@@ -3065,8 +3078,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Whitey Morgan & the 78s'],
-    link: 'https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s',
+    artist: ['Whitey Morgan & the 78s', 'Erin Viancourt'],
+    link: 'https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s-erin-viancourt',
     date: '2024-12-05T20:00:00',
     venue: 'Beachland Ballroom',
   },

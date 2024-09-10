@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
-    ],
-    "link": "https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-09-09T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Joe Brown Band, Jack Lutz, Hannah Tramonte, Ty Bogikes"
     ],
     "link": "https://grogshop.gs/event-details/13827593/joe-brown-band-jack-lutz-hannah-tramonte-ty-bogikes",
@@ -332,20 +324,20 @@
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Brooke Candy",
       "Namasenda",
       "Tash Blake"
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "date": "2024-10-19T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
+    ],
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },

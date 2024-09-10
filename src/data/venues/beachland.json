@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Birthday Girl",
-      "High.",
-      "cool party",
-      "abel"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party-abel",
-    "date": "2024-09-09T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Dogpark",
       "Juniper",
       "Who Saved Who"
@@ -88,9 +77,9 @@
   {
     "artist": [
       "Beachland Brunch",
-      "DJ Hadley Connor"
+      "DJ Mittenclips"
     ],
-    "link": "https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor",
+    "link": "https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips",
     "date": "2024-09-15T11:00:00",
     "venue": "Beachland Tavern"
   },
@@ -166,6 +155,22 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13505844/devotional-2024",
     "date": "2024-09-21T15:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Brunch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13581164/beachland-brunch",
+    "date": "2024-09-22T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "School of Rock"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13581234/school-of-rock",
+    "date": "2024-09-22T11:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -329,6 +334,15 @@
     "link": "https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa",
     "date": "2024-10-04T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "The Whiskey Daredevils",
+      "The Legendary Hucklebucks"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13581704/the-whiskey-daredevils-the-legendary-hucklebucks",
+    "date": "2024-10-05T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -570,6 +584,14 @@
   },
   {
     "artist": [
+      "Dreamstreet"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13581934/dreamstreet",
+    "date": "2024-10-30T19:30:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Brother Elsey"
     ],
     "link": "https://www.beachlandballroom.com/e/13691463/brother-elsey",
@@ -778,9 +800,10 @@
   },
   {
     "artist": [
-      "Whitey Morgan & the 78s"
+      "Whitey Morgan & the 78s",
+      "Erin Viancourt"
     ],
-    "link": "https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s",
+    "link": "https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s-erin-viancourt",
     "date": "2024-12-05T20:00:00",
     "venue": "Beachland Ballroom"
   },

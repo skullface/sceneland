@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MOVIE NIGHT MONDAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/",
-    "date": "2024-09-09T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Bay Faction"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/bay-faction/",
@@ -85,6 +77,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/sam-lachow/",
     "date": "2024-09-22T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "MOVIE NIGHT MONDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/",
+    "date": "2024-09-23T18:00:00",
     "venue": "Foundry"
   },
   {

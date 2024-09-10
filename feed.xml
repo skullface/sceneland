@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Sep 2024 09:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 09:05:29 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cage The Elephant: Neon Pill Tour at Blossom]]></title>
-            <description><![CDATA[Get tickets to Cage The Elephant: Neon Pill Tour at Blossom on Monday, September 9, 2024, 06:30 PM: https://concerts.livenation.com/cage-the-elephant-neon-pill-tour-cuyahoga-falls-ohio-09-09-2024/event/0500605CCE4153EF]]></description>
-            <link>https://concerts.livenation.com/cage-the-elephant-neon-pill-tour-cuyahoga-falls-ohio-09-09-2024/event/0500605CCE4153EF</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/cage-the-elephant-neon-pill-tour-cuyahoga-falls-ohio-09-09-2024/event/0500605CCE4153EF</guid>
-            <pubDate>Mon, 09 Sep 2024 18:30:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Stone Temple Pilots & +LIVE+: The Jubilee Tour at Blossom]]></title>
             <description><![CDATA[Get tickets to Stone Temple Pilots & +LIVE+: The Jubilee Tour at Blossom on Tuesday, September 10, 2024, 07:00 PM: https://concerts.livenation.com/stone-temple-pilots-live-the-jubilee-cuyahoga-falls-ohio-09-10-2024/event/0500606D07396904]]></description>
@@ -68,13 +61,6 @@
             <link>https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</link>
             <guid isPermaLink="true">https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</guid>
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, September 9, 2024, 08:00 PM: https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford]]></description>
-            <link>https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13868643/make-em-laugh-mondays-hosted-by-kevin-ford</guid>
-            <pubDate>Mon, 09 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Joe Brown Band, Jack Lutz, Hannah Tramonte, Ty Bogikes at Grog Shop]]></title>
@@ -329,17 +315,17 @@
             <pubDate>Fri, 18 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour]]></description>
-            <link>https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</guid>
-            <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brooke Candy, Namasenda, Tash Blake at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Brooke Candy, Namasenda, Tash Blake at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13731993/brooke-candy]]></description>
             <link>https://grogshop.gs/event-details/13731993/brooke-candy</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13731993/brooke-candy</guid>
+            <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to HULDER "WINDS OF AUTUMNAL SORROW" TOUR, One of Nine at Grog Shop on Saturday, October 19, 2024, 08:30 PM: https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour]]></description>
+            <link>https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour</guid>
             <pubDate>Sat, 19 Oct 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
@@ -1435,13 +1421,6 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, September 9, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-3/</guid>
-            <pubDate>Mon, 09 Sep 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bay Faction at Foundry]]></title>
             <description><![CDATA[Get tickets to Bay Faction at Foundry on Tuesday, September 10, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/bay-faction/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/bay-faction/</link>
@@ -1510,6 +1489,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/sam-lachow/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/sam-lachow/</guid>
             <pubDate>Sun, 22 Sep 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MOVIE NIGHT MONDAY at Foundry]]></title>
+            <description><![CDATA[Get tickets to MOVIE NIGHT MONDAY at Foundry on Monday, September 23, 2024, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night-monday-4/</guid>
+            <pubDate>Mon, 23 Sep 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jhariah at Foundry]]></title>
@@ -1771,17 +1757,17 @@
             <pubDate>Tue, 03 Sep 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Andrew Schulz: The Life Tour at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour]]></description>
-            <link>https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ralph Barbosa at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Ralph Barbosa at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/ralph-barbosa]]></description>
             <link>https://www.playhousesquare.org/events/detail/ralph-barbosa</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/ralph-barbosa</guid>
+            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Schulz: The Life Tour at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Andrew Schulz: The Life Tour at Playhouse Square on Friday, September 20, 2024, 12:00 AM: https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour]]></description>
+            <link>https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/andrew-schulz-the-life-tour</guid>
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2737,6 +2723,13 @@
             <pubDate>Sat, 30 Nov 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[girl in red at Agora]]></title>
+            <description><![CDATA[Get tickets to girl in red at Agora on Wednesday, December 4, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/653954]]></description>
+            <link>https://www.agoracleveland.com/events/detail/653954</link>
+            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/653954</guid>
+            <pubDate>Wed, 04 Dec 2024 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[In This Moment, Kim Dracula, Nathan James, Mike's Dead at Agora]]></title>
             <description><![CDATA[Get tickets to In This Moment, Kim Dracula, Nathan James, Mike's Dead at Agora on Thursday, December 5, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/648863]]></description>
             <link>https://www.agoracleveland.com/events/detail/648863</link>
@@ -2856,13 +2849,6 @@
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Birthday Girl, High., cool party, abel at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Birthday Girl, High., cool party, abel at Beachland Tavern on Monday, September 9, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party-abel]]></description>
-            <link>https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party-abel</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13811333/birthday-girl-high-cool-party-abel</guid>
-            <pubDate>Mon, 09 Sep 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Dogpark, Juniper, Who Saved Who at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Dogpark, Juniper, Who Saved Who at Beachland Tavern on Tuesday, September 10, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13702943/dogpark-juniper-who-saved-who]]></description>
             <link>https://www.beachlandballroom.com/e/13702943/dogpark-juniper-who-saved-who</link>
@@ -2919,10 +2905,10 @@
             <pubDate>Sat, 14 Sep 2024 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beachland Brunch, DJ Hadley Connor at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, DJ Hadley Connor at Beachland Tavern on Sunday, September 15, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor]]></description>
-            <link>https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-hadley-connor</guid>
+            <title><![CDATA[Beachland Brunch, DJ Mittenclips at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Beachland Brunch, DJ Mittenclips at Beachland Tavern on Sunday, September 15, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips]]></description>
+            <link>https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips</guid>
             <pubDate>Sun, 15 Sep 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2980,6 +2966,20 @@
             <link>https://www.beachlandballroom.com/e/13505844/devotional-2024</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13505844/devotional-2024</guid>
             <pubDate>Sat, 21 Sep 2024 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beachland Brunch at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Beachland Brunch at Beachland Tavern on Sunday, September 22, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13581164/beachland-brunch]]></description>
+            <link>https://www.beachlandballroom.com/e/13581164/beachland-brunch</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13581164/beachland-brunch</guid>
+            <pubDate>Sun, 22 Sep 2024 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[School of Rock at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to School of Rock at Beachland Ballroom on Sunday, September 22, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13581234/school-of-rock]]></description>
+            <link>https://www.beachlandballroom.com/e/13581234/school-of-rock</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13581234/school-of-rock</guid>
+            <pubDate>Sun, 22 Sep 2024 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fog Lake, Foxes In Fiction at Beachland Tavern]]></title>
@@ -3106,6 +3106,13 @@
             <link>https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13539704/sarah-shook-the-disarmers-half-gringa</guid>
             <pubDate>Fri, 04 Oct 2024 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Whiskey Daredevils, The Legendary Hucklebucks at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to The Whiskey Daredevils, The Legendary Hucklebucks at Beachland Tavern on Saturday, October 5, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13581704/the-whiskey-daredevils-the-legendary-hucklebucks]]></description>
+            <link>https://www.beachlandballroom.com/e/13581704/the-whiskey-daredevils-the-legendary-hucklebucks</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13581704/the-whiskey-daredevils-the-legendary-hucklebucks</guid>
+            <pubDate>Sat, 05 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hello! 3D, Grateful for Biggie, Brood X at Beachland Ballroom]]></title>
@@ -3290,6 +3297,13 @@
             <pubDate>Tue, 29 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dreamstreet at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Dreamstreet at Beachland Tavern on Wednesday, October 30, 2024, 07:30 PM: https://www.beachlandballroom.com/e/13581934/dreamstreet]]></description>
+            <link>https://www.beachlandballroom.com/e/13581934/dreamstreet</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13581934/dreamstreet</guid>
+            <pubDate>Wed, 30 Oct 2024 19:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brother Elsey at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Brother Elsey at Beachland Tavern on Thursday, October 31, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13691463/brother-elsey]]></description>
             <link>https://www.beachlandballroom.com/e/13691463/brother-elsey</link>
@@ -3458,10 +3472,10 @@
             <pubDate>Thu, 05 Dec 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Whitey Morgan & the 78s at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Whitey Morgan & the 78s at Beachland Ballroom on Thursday, December 5, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s]]></description>
-            <link>https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s</guid>
+            <title><![CDATA[Whitey Morgan & the 78s, Erin Viancourt at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Whitey Morgan & the 78s, Erin Viancourt at Beachland Ballroom on Thursday, December 5, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s-erin-viancourt]]></description>
+            <link>https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s-erin-viancourt</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13890493/whitey-morgan-the-78s-erin-viancourt</guid>
             <pubDate>Thu, 05 Dec 2024 20:00:00 GMT</pubDate>
         </item>
         <item>

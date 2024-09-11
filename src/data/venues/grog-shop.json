@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Joe Brown Band, Jack Lutz, Hannah Tramonte, Ty Bogikes"
-    ],
-    "link": "https://grogshop.gs/event-details/13827593/joe-brown-band-jack-lutz-hannah-tramonte-ty-bogikes",
-    "date": "2024-09-10T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Zombie: Composer's Cut by Fabio Frizzi"
     ],
     "link": "https://grogshop.gs/event-details/13708313/zombie-composer-s-cut-by-fabio-frizzi",
@@ -268,6 +260,14 @@
   },
   {
     "artist": [
+      "Carlos Jones (+)"
+    ],
+    "link": "https://grogshop.gs/event-details/13585474/carlos-jones-",
+    "date": "2024-10-12T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "6arelyhuman: The Sassy Scene Tour"
     ],
     "link": "https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour",
@@ -429,7 +429,26 @@
   },
   {
     "artist": [
-      "Blitzen Trapper"
+      "Vibe in Horror 3",
+      "Sugar Nova",
+      "Vibe & Direct",
+      "Wanyama",
+      "Rubix Groove",
+      "AllTheHipe",
+      "Astral Housefly",
+      "Golden Marmoset",
+      "Gooru",
+      "Ziggy D",
+      "Alter Ethos"
+    ],
+    "link": "https://grogshop.gs/event-details/13585294/vibe-in-horror-3",
+    "date": "2024-11-02T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Blitzen Trapper",
+      "Louisa Stancioff"
     ],
     "link": "https://grogshop.gs/event-details/13777373/blitzen-trapper",
     "date": "2024-11-04T20:00:00",
@@ -441,6 +460,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13827043/lauren-sanderson-girl-from-the-internet-tour",
     "date": "2024-11-06T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Oxlade: Oxlade From Africa Tour"
+    ],
+    "link": "https://grogshop.gs/event-details/13583034/oxlade-oxlade-from-africa-tour",
+    "date": "2024-11-07T20:00:00",
     "venue": "Grog Shop"
   },
   {
@@ -473,6 +500,16 @@
       "Peezy & IceWear Vezzo"
     ],
     "link": "https://grogshop.gs/event-details/13834873/peezy-icewear-vezzo",
+    "date": "2024-11-14T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Baby Kia",
+      "MAF Teeski"
+    ],
+    "link": "https://grogshop.gs/event-details/13584814/baby-kia",
+    "sold_out": true,
     "date": "2024-11-14T20:00:00",
     "venue": "Grog Shop"
   },

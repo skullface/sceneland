@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Ian McConnell"
-    ],
-    "link": "https://link.dice.fm/O481bb2b5c20?dice_id=O481bb2b5c20",
-    "date": "2024-09-10T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pillow Queens"
     ],
     "link": "https://link.dice.fm/rc470220a0b2?dice_id=rc470220a0b2",
@@ -177,19 +169,19 @@
   },
   {
     "artist": [
-      "The Red Pears"
-    ],
-    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
-    "date": "2024-10-07T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Duster"
     ],
     "link": "https://link.dice.fm/Sf0c15ae2ec1?dice_id=Sf0c15ae2ec1",
     "date": "2024-10-07T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Red Pears"
+    ],
+    "link": "https://link.dice.fm/n1999a3b2e1f?dice_id=n1999a3b2e1f",
+    "date": "2024-10-07T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -217,19 +209,19 @@
   },
   {
     "artist": [
-      "Ginger Root\u2019s SHINBANGUMI Tour"
-    ],
-    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Many Eyes"
     ],
     "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
     "date": "2024-10-11T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Ginger Root\u2019s SHINBANGUMI Tour"
+    ],
+    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -460,6 +452,7 @@
       "Tall Heights"
     ],
     "link": "https://link.dice.fm/f656217ef1f2?dice_id=f656217ef1f2",
+    "sold_out": true,
     "date": "2024-11-15T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Dogpark",
-      "Juniper",
-      "Who Saved Who"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13702943/dogpark-juniper-who-saved-who",
-    "date": "2024-09-10T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Joey Harkum",
       "Joint Operation"
     ],
@@ -468,6 +458,14 @@
   },
   {
     "artist": [
+      "Jane Getter Premonition"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13585464/jane-getter-premonition",
+    "date": "2024-10-15T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "John Douglas",
       "Lauren Calve"
     ],
@@ -576,9 +574,10 @@
   },
   {
     "artist": [
-      "Amy Rigby"
+      "Amy Rigby",
+      "Maura Rogers Duo"
     ],
-    "link": "https://www.beachlandballroom.com/e/13841043/amy-rigby",
+    "link": "https://www.beachlandballroom.com/e/13841043/amy-rigby-maura-rogers-duo",
     "date": "2024-10-29T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -670,9 +669,10 @@
   },
   {
     "artist": [
-      "Wild Pink"
+      "Wild Pink",
+      "Friendship"
     ],
-    "link": "https://www.beachlandballroom.com/e/13758773/wild-pink",
+    "link": "https://www.beachlandballroom.com/e/13758773/wild-pink-friendship",
     "date": "2024-11-10T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -789,6 +789,14 @@
     "link": "https://www.beachlandballroom.com/e/13852203/the-stolen-faces",
     "date": "2024-11-23T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Letdown."
+    ],
+    "link": "https://www.beachlandballroom.com/e/13898043/letdown-",
+    "date": "2024-12-01T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

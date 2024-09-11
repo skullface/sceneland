@@ -19,7 +19,15 @@
     "artist": [
       "Buzzcocks"
     ],
-    "link": "https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/050060BFBC9269A2",
+    "link": "https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA",
+    "date": "2024-09-15T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Buzzcocks: MOVED TO THE CAMBRIDGE ROOM"
+    ],
+    "link": "https://concerts.livenation.com/buzzcocks-moved-to-the-cambridge-room-cleveland-ohio-09-15-2024/event/050060BFBC9269A2",
     "date": "2024-09-15T18:30:00",
     "venue": "House of Blues"
   },
@@ -373,14 +381,6 @@
     ],
     "link": "https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18",
     "date": "2024-11-20T19:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Senses Fail / Saves The Day: New Jersey vs. The World"
-    ],
-    "link": "https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223",
-    "date": "2024-11-23T18:30:00",
     "venue": "House of Blues"
   }
 ]

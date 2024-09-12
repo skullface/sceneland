@@ -4,7 +4,7 @@ export const allShows = [
       'Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival',
     ],
     link: 'https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937',
-    date: '2024-09-12T17:30:00',
+    date: '2024-09-12T17:00:00',
     venue: 'Blossom',
   },
   {
@@ -42,12 +42,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3',
     date: '2024-10-01T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ["Zombie: Composer's Cut by Fabio Frizzi"],
-    link: 'https://grogshop.gs/event-details/13708313/zombie-composer-s-cut-by-fabio-frizzi',
-    date: '2024-09-11T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Thumpasaurus', 'Total Downer', 'Sammy Slims'],
@@ -140,7 +134,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Pansy Division with Bev Rage & the Drinks'],
+    artist: ['Pansy Division with Bev Rage & the Drinks', 'Slug Fest'],
     link: 'https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks',
     date: '2024-09-27T20:30:00',
     venue: 'Grog Shop',
@@ -420,7 +414,6 @@ export const allShows = [
   {
     artist: ['Baby Kia', 'MAF Teeski'],
     link: 'https://grogshop.gs/event-details/13584814/baby-kia',
-    sold_out: true,
     date: '2024-11-14T20:00:00',
     venue: 'Grog Shop',
   },
@@ -446,6 +439,12 @@ export const allShows = [
     artist: ['GlamGore: Hairy', 'Scary', '& Feral', 'Anhedonia Delight'],
     link: 'https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral',
     date: '2024-12-13T21:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Lunar Vacation'],
+    link: 'https://grogshop.gs/event-details/13582664/lunar-vacation',
+    date: '2025-02-08T20:30:00',
     venue: 'Grog Shop',
   },
   {
@@ -700,12 +699,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Pillow Queens'],
-    link: 'https://link.dice.fm/rc470220a0b2?dice_id=rc470220a0b2',
-    date: '2024-09-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ["Club 2K: an all out 2010's dance party"],
     link: 'https://link.dice.fm/J57e12881f1f?dice_id=J57e12881f1f',
     date: '2024-09-13T20:00:00-04:00',
@@ -898,16 +891,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Friday Pilots Club: The Nowhere Tour'],
-    link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
-    date: '2024-10-17T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Demon Hunter'],
     link: 'https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06',
     date: '2024-10-17T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Friday Pilots Club: The Nowhere Tour'],
+    link: 'https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc',
+    date: '2024-10-17T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Cloud Nothings'],
@@ -928,16 +921,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Rav and Kill Bill: The Rapper'],
-    link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
-    date: '2024-10-23T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Tank and the Bangas and Jamila Woods'],
     link: 'https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135',
     date: '2024-10-23T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Rav and Kill Bill: The Rapper'],
+    link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
+    date: '2024-10-23T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Undeath'],
@@ -2530,18 +2523,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Joey Harkum', 'Joint Operation'],
-    link: 'https://www.beachlandballroom.com/e/13665563/joey-harkum-joint-operation',
-    date: '2024-09-11T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Jolie Holland', 'Vicki Chew'],
-    link: 'https://www.beachlandballroom.com/e/13721333/jolie-holland-vicki-chew',
-    date: '2024-09-11T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
     artist: ['My Brightest Diamond', 'NOIA'],
     link: 'https://www.beachlandballroom.com/e/13374244/my-brightest-diamond-noia',
     date: '2024-09-12T20:00:00',
@@ -2581,6 +2562,12 @@ export const allShows = [
     artist: ['Beachland Brunch', 'DJ Mittenclips'],
     link: 'https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips',
     date: '2024-09-15T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Pre/Post Party with DJ Scottify (Scott Heisel of WCSB)'],
+    link: 'https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-',
+    date: '2024-09-15T18:00:00',
     venue: 'Beachland Tavern',
   },
   {
@@ -2971,8 +2958,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['Deer Tick'],
-    link: 'https://www.beachlandballroom.com/e/13763743/deer-tick',
+    artist: ['Deer Tick', 'Justin & The Cosmics'],
+    link: 'https://www.beachlandballroom.com/e/13763743/deer-tick-justin-the-cosmics',
     date: '2024-11-03T20:00:00',
     venue: 'Beachland Ballroom',
   },

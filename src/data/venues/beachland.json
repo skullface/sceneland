@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Joey Harkum",
-      "Joint Operation"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13665563/joey-harkum-joint-operation",
-    "date": "2024-09-11T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Jolie Holland",
-      "Vicki Chew"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13721333/jolie-holland-vicki-chew",
-    "date": "2024-09-11T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "My Brightest Diamond",
       "NOIA"
     ],
@@ -71,6 +53,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips",
     "date": "2024-09-15T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Pre/Post Party with DJ Scottify (Scott Heisel of WCSB)"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-",
+    "date": "2024-09-15T18:00:00",
     "venue": "Beachland Tavern"
   },
   {
@@ -627,9 +617,10 @@
   },
   {
     "artist": [
-      "Deer Tick"
+      "Deer Tick",
+      "Justin & The Cosmics"
     ],
-    "link": "https://www.beachlandballroom.com/e/13763743/deer-tick",
+    "link": "https://www.beachlandballroom.com/e/13763743/deer-tick-justin-the-cosmics",
     "date": "2024-11-03T20:00:00",
     "venue": "Beachland Ballroom"
   },

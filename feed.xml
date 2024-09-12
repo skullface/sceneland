@@ -4,14 +4,14 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Sep 2024 09:05:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 09:05:28 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival at Blossom]]></title>
-            <description><![CDATA[Get tickets to Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival at Blossom on Thursday, September 12, 2024, 05:30 PM: https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937]]></description>
+            <description><![CDATA[Get tickets to Willie Nelson, Bob Dylan, John Mellencamp: Outlaw Music Festival at Blossom on Thursday, September 12, 2024, 05:00 PM: https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937]]></description>
             <link>https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937</link>
             <guid isPermaLink="true">https://concerts.livenation.com/willie-nelson-bob-dylan-john-mellencamp-cuyahoga-falls-ohio-09-12-2024/event/05006046FEED4937</guid>
-            <pubDate>Thu, 12 Sep 2024 17:30:00 GMT</pubDate>
+            <pubDate>Thu, 12 Sep 2024 17:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parker McCollum: Burn It Down Tour at Blossom]]></title>
@@ -54,13 +54,6 @@
             <link>https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</link>
             <guid isPermaLink="true">https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</guid>
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zombie: Composer's Cut by Fabio Frizzi at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Zombie: Composer's Cut by Fabio Frizzi at Grog Shop on Wednesday, September 11, 2024, 08:00 PM: https://grogshop.gs/event-details/13708313/zombie-composer-s-cut-by-fabio-frizzi]]></description>
-            <link>https://grogshop.gs/event-details/13708313/zombie-composer-s-cut-by-fabio-frizzi</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13708313/zombie-composer-s-cut-by-fabio-frizzi</guid>
-            <pubDate>Wed, 11 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thumpasaurus, Total Downer, Sammy Slims at Grog Shop]]></title>
@@ -161,8 +154,8 @@
             <pubDate>Thu, 26 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pansy Division with Bev Rage & the Drinks at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Pansy Division with Bev Rage & the Drinks at Grog Shop on Friday, September 27, 2024, 08:30 PM: https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks]]></description>
+            <title><![CDATA[Pansy Division with Bev Rage & the Drinks, Slug Fest at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Pansy Division with Bev Rage & the Drinks, Slug Fest at Grog Shop on Friday, September 27, 2024, 08:30 PM: https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks]]></description>
             <link>https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks</link>
             <guid isPermaLink="true">https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks</guid>
             <pubDate>Fri, 27 Sep 2024 20:30:00 GMT</pubDate>
@@ -476,6 +469,13 @@
             <pubDate>Fri, 13 Dec 2024 21:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lunar Vacation at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Lunar Vacation at Grog Shop on Saturday, February 8, 2025, 08:30 PM: https://grogshop.gs/event-details/13582664/lunar-vacation]]></description>
+            <link>https://grogshop.gs/event-details/13582664/lunar-vacation</link>
+            <guid isPermaLink="true">https://grogshop.gs/event-details/13582664/lunar-vacation</guid>
+            <pubDate>Sat, 08 Feb 2025 20:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bright Eyes at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Bright Eyes at Grog Shop on Wednesday, April 9, 2025, 07:30 PM: https://grogshop.gs/event-details/13809123/bright-eyes]]></description>
             <link>https://grogshop.gs/event-details/13809123/bright-eyes</link>
@@ -763,13 +763,6 @@
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pillow Queens at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Pillow Queens at Mahall’s on Wednesday, September 11, 2024, 11:00 PM: https://link.dice.fm/rc470220a0b2?dice_id=rc470220a0b2]]></description>
-            <link>https://link.dice.fm/rc470220a0b2?dice_id=rc470220a0b2</link>
-            <guid isPermaLink="true">https://link.dice.fm/rc470220a0b2?dice_id=rc470220a0b2</guid>
-            <pubDate>Wed, 11 Sep 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Club 2K: an all out 2010's dance party at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Club 2K: an all out 2010's dance party at Mahall’s on Saturday, September 14, 2024, 12:00 AM: https://link.dice.fm/J57e12881f1f?dice_id=J57e12881f1f]]></description>
             <link>https://link.dice.fm/J57e12881f1f?dice_id=J57e12881f1f</link>
@@ -994,17 +987,17 @@
             <pubDate>Wed, 16 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Friday Pilots Club: The Nowhere Tour at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Friday Pilots Club: The Nowhere Tour at Mahall’s on Thursday, October 17, 2024, 11:00 PM: https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc]]></description>
-            <link>https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc</link>
-            <guid isPermaLink="true">https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc</guid>
-            <pubDate>Thu, 17 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Demon Hunter at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Demon Hunter at The Roxy at Mahall’s on Thursday, October 17, 2024, 11:00 PM: https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06]]></description>
             <link>https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06</link>
             <guid isPermaLink="true">https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06</guid>
+            <pubDate>Thu, 17 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friday Pilots Club: The Nowhere Tour at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Friday Pilots Club: The Nowhere Tour at Mahall’s on Thursday, October 17, 2024, 11:00 PM: https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc]]></description>
+            <link>https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc</link>
+            <guid isPermaLink="true">https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc</guid>
             <pubDate>Thu, 17 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1029,17 +1022,17 @@
             <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rav and Kill Bill: The Rapper at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Rav and Kill Bill: The Rapper at Mahall’s on Wednesday, October 23, 2024, 11:00 PM: https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5]]></description>
-            <link>https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</link>
-            <guid isPermaLink="true">https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</guid>
-            <pubDate>Wed, 23 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tank and the Bangas and Jamila Woods at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Tank and the Bangas and Jamila Woods at The Roxy at Mahall’s on Wednesday, October 23, 2024, 11:00 PM: https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135]]></description>
             <link>https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135</link>
             <guid isPermaLink="true">https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135</guid>
+            <pubDate>Wed, 23 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rav and Kill Bill: The Rapper at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Rav and Kill Bill: The Rapper at Mahall’s on Wednesday, October 23, 2024, 11:00 PM: https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5]]></description>
+            <link>https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</link>
+            <guid isPermaLink="true">https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</guid>
             <pubDate>Wed, 23 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2856,20 +2849,6 @@
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Joey Harkum, Joint Operation at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Joey Harkum, Joint Operation at Beachland Ballroom on Wednesday, September 11, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13665563/joey-harkum-joint-operation]]></description>
-            <link>https://www.beachlandballroom.com/e/13665563/joey-harkum-joint-operation</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13665563/joey-harkum-joint-operation</guid>
-            <pubDate>Wed, 11 Sep 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jolie Holland, Vicki Chew at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Jolie Holland, Vicki Chew at Beachland Tavern on Wednesday, September 11, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13721333/jolie-holland-vicki-chew]]></description>
-            <link>https://www.beachlandballroom.com/e/13721333/jolie-holland-vicki-chew</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13721333/jolie-holland-vicki-chew</guid>
-            <pubDate>Wed, 11 Sep 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[My Brightest Diamond, NOIA at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to My Brightest Diamond, NOIA at Beachland Tavern on Thursday, September 12, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13374244/my-brightest-diamond-noia]]></description>
             <link>https://www.beachlandballroom.com/e/13374244/my-brightest-diamond-noia</link>
@@ -2910,6 +2889,13 @@
             <link>https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips</guid>
             <pubDate>Sun, 15 Sep 2024 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pre/Post Party with DJ Scottify (Scott Heisel of WCSB) at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Pre/Post Party with DJ Scottify (Scott Heisel of WCSB) at Beachland Tavern on Sunday, September 15, 2024, 06:00 PM: https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-]]></description>
+            <link>https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-</guid>
+            <pubDate>Sun, 15 Sep 2024 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ojos Brillantes, Neva Dinova at Beachland Ballroom]]></title>
@@ -3339,10 +3325,10 @@
             <pubDate>Sat, 02 Nov 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deer Tick at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Deer Tick at Beachland Ballroom on Sunday, November 3, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13763743/deer-tick]]></description>
-            <link>https://www.beachlandballroom.com/e/13763743/deer-tick</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13763743/deer-tick</guid>
+            <title><![CDATA[Deer Tick, Justin & The Cosmics at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Deer Tick, Justin & The Cosmics at Beachland Ballroom on Sunday, November 3, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13763743/deer-tick-justin-the-cosmics]]></description>
+            <link>https://www.beachlandballroom.com/e/13763743/deer-tick-justin-the-cosmics</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13763743/deer-tick-justin-the-cosmics</guid>
             <pubDate>Sun, 03 Nov 2024 20:00:00 GMT</pubDate>
         </item>
         <item>

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Thumpasaurus",
-      "Total Downer",
-      "Sammy Slims"
-    ],
-    "link": "https://grogshop.gs/event-details/13790273/thumpasaurus-total-downer-sammy-slims",
-    "date": "2024-09-12T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Boys From County Hell , Dave Rich and his Enablers"
     ],
     "link": "https://grogshop.gs/event-details/13794913/the-boys-from-county-hell-w-dave-rich-and-his-enablers",
@@ -67,7 +57,8 @@
   {
     "artist": [
       "Joe P",
-      "Anna Shoemaker"
+      "Anna Shoemaker",
+      "Temple Brothers"
     ],
     "link": "https://grogshop.gs/event-details/13564274/joe-p",
     "date": "2024-09-20T20:00:00",
@@ -317,20 +308,20 @@
   },
   {
     "artist": [
-      "Brooke Candy",
-      "Namasenda",
-      "Tash Blake"
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
     ],
-    "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
+      "Brooke Candy",
+      "Namasenda",
+      "Tash Blake"
     ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
+    "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },

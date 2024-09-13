@@ -93,21 +93,12 @@
   {
     "artist": [
       "A Giant Dog",
-      "Slug Fest",
-      "Skwerm"
+      "Crawlers",
+      "Slug Fest"
     ],
-    "link": "https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest-skwerm",
+    "link": "https://www.beachlandballroom.com/e/13721303/a-giant-dog-crawlers-slug-fest",
     "date": "2024-09-19T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Crawlers",
-      "Sonder Bombs"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13848013/crawlers-sonder-bombs",
-    "date": "2024-09-19T20:00:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -192,10 +183,9 @@
   {
     "artist": [
       "Divine Sweater",
-      "Ben\u00e9t",
       "Claire Ozmun"
     ],
-    "link": "https://www.beachlandballroom.com/e/13737003/divine-sweater-ben-t-claire-ozmun",
+    "link": "https://www.beachlandballroom.com/e/13737003/divine-sweater-claire-ozmun",
     "date": "2024-09-26T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -553,6 +543,14 @@
     "link": "https://www.beachlandballroom.com/e/13857403/scream-queens",
     "date": "2024-10-27T19:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Strawberry Launch"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13592454/strawberry-launch",
+    "date": "2024-10-27T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

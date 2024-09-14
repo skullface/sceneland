@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Club 2K: an all out 2010's dance party"
-    ],
-    "link": "https://link.dice.fm/J57e12881f1f?dice_id=J57e12881f1f",
-    "date": "2024-09-13T20:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Horse Jumper of Love"
     ],
     "link": "https://link.dice.fm/R4084e320ea0?dice_id=R4084e320ea0",
@@ -209,14 +201,6 @@
   },
   {
     "artist": [
-      "Ginger Root\u2019s SHINBANGUMI Tour"
-    ],
-    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Many Eyes"
     ],
     "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
@@ -225,11 +209,11 @@
   },
   {
     "artist": [
-      "Lady Lamb"
+      "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
-    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
-    "date": "2024-10-12T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
+    "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -238,6 +222,14 @@
     "link": "https://link.dice.fm/k28ead001adf?dice_id=k28ead001adf",
     "date": "2024-10-12T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Lady Lamb"
+    ],
+    "link": "https://link.dice.fm/Lcf9f358867d?dice_id=Lcf9f358867d",
+    "date": "2024-10-12T18:30:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -265,19 +257,19 @@
   },
   {
     "artist": [
-      "Friday Pilots Club: The Nowhere Tour"
-    ],
-    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
-    "date": "2024-10-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Demon Hunter"
     ],
     "link": "https://link.dice.fm/k84dee6b7c06?dice_id=k84dee6b7c06",
     "date": "2024-10-17T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Friday Pilots Club: The Nowhere Tour"
+    ],
+    "link": "https://link.dice.fm/Kff40f7d00bc?dice_id=Kff40f7d00bc",
+    "date": "2024-10-17T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -305,19 +297,19 @@
   },
   {
     "artist": [
-      "Rav and Kill Bill: The Rapper"
-    ],
-    "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
-    "date": "2024-10-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Tank and the Bangas and Jamila Woods"
     ],
     "link": "https://link.dice.fm/zebe0aa9d135?dice_id=zebe0aa9d135",
     "date": "2024-10-23T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rav and Kill Bill: The Rapper"
+    ],
+    "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
+    "date": "2024-10-23T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -452,7 +444,6 @@
       "Tall Heights"
     ],
     "link": "https://link.dice.fm/f656217ef1f2?dice_id=f656217ef1f2",
-    "sold_out": true,
     "date": "2024-11-15T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
@@ -469,7 +460,6 @@
       "Games We Play"
     ],
     "link": "https://link.dice.fm/t45b820beab4?dice_id=t45b820beab4",
-    "sold_out": true,
     "date": "2024-11-21T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },

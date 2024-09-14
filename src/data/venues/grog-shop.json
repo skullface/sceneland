@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Boys From County Hell , Dave Rich and his Enablers"
-    ],
-    "link": "https://grogshop.gs/event-details/13794913/the-boys-from-county-hell-w-dave-rich-and-his-enablers",
-    "date": "2024-09-13T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Joey Valence & Brae"
     ],
     "link": "https://grogshop.gs/event-details/13530894/joey-valence-brae",
@@ -308,20 +300,20 @@
   },
   {
     "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Brooke Candy",
       "Namasenda",
       "Tash Blake"
     ],
     "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
+    "date": "2024-10-19T20:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
+      "One of Nine"
+    ],
+    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
     "date": "2024-10-19T20:30:00",
     "venue": "Grog Shop"
   },
@@ -340,7 +332,8 @@
   },
   {
     "artist": [
-      "Hinds"
+      "Hinds",
+      "The Happy Return"
     ],
     "link": "https://grogshop.gs/event-details/13487344/hinds",
     "date": "2024-10-22T20:00:00",
@@ -512,6 +505,14 @@
     ],
     "link": "https://grogshop.gs/event-details/13853173/anthony-raneri-the-everyday-royalty-tour",
     "date": "2024-11-20T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "ACO: A Tribute to Rob Williams"
+    ],
+    "link": "https://grogshop.gs/event-details/13592294/aco-a-tribute-to-rob-williams",
+    "date": "2024-11-26T20:00:00",
     "venue": "Grog Shop"
   },
   {

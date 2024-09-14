@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Baldassarre Rock Orchestra: A Whole Lotta Zeppelin"
-    ],
-    "link": "https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5",
-    "date": "2024-09-13T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "FLESHGOD APOCALYPSE & SHADOW OF INTENT: THE BLACK OPERA 2024"
     ],
     "link": "https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18",
     "date": "2024-11-20T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Luke Grimes"
+    ],
+    "link": "https://concerts.livenation.com/luke-grimes-cleveland-ohio-11-21-2024/event/0500611CA7051BC1",
+    "date": "2024-11-21T19:00:00",
     "venue": "House of Blues"
   }
 ]

@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "My Brightest Diamond",
-      "NOIA"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13374244/my-brightest-diamond-noia",
-    "date": "2024-09-12T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Dorian Electra",
-      "Chayla Hope"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13716563/dorian-electra-chayla-hope",
-    "date": "2024-09-12T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Sam Burchfield and the Scoundrels",
       "Greyson Jenkins"
     ],
@@ -538,6 +520,22 @@
   },
   {
     "artist": [
+      "WCSB's Halloween Ball",
+      "Mephiskapheles",
+      "Noun (Marissa Paternoster)",
+      "Chris Farren",
+      "Pal",
+      "Autopolitan",
+      "Brood X",
+      "Jinari Kemet",
+      "OONGOW!!!"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13595584/wcsb-s-halloween-ball-mephiskapheles-noun-marissa-paternoster-chris-farren-pal-autopolitan-brood-x-jinari-kemet-oongow-",
+    "date": "2024-10-26T18:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Scream Queens"
     ],
     "link": "https://www.beachlandballroom.com/e/13857403/scream-queens",
@@ -746,6 +744,14 @@
   },
   {
     "artist": [
+      "Ace Monroe"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13582444/ace-monroe",
+    "date": "2024-11-19T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "back to BACK TO BLACK: the AMY WINEHOUSE celebration",
       "Post Saga",
       "Mikey Silas (Apostle Jones)"
@@ -781,9 +787,10 @@
   },
   {
     "artist": [
-      "Letdown."
+      "Letdown.",
+      "Harmless Habit"
     ],
-    "link": "https://www.beachlandballroom.com/e/13898043/letdown-",
+    "link": "https://www.beachlandballroom.com/e/13898043/letdown-harmless-habit",
     "date": "2024-12-01T20:00:00",
     "venue": "Beachland Tavern"
   },

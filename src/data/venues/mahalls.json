@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Horse Jumper of Love"
-    ],
-    "link": "https://link.dice.fm/R4084e320ea0?dice_id=R4084e320ea0",
-    "date": "2024-09-14T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Earthplane"
     ],
     "link": "https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d",
@@ -201,19 +193,19 @@
   },
   {
     "artist": [
-      "Many Eyes"
-    ],
-    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
-    "date": "2024-10-11T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Ginger Root\u2019s SHINBANGUMI Tour"
     ],
     "link": "https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7",
     "date": "2024-10-11T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Many Eyes"
+    ],
+    "link": "https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a",
+    "date": "2024-10-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -310,6 +302,14 @@
     "link": "https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5",
     "date": "2024-10-23T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "House of BurlesCLE: Rocky Horror"
+    ],
+    "link": "https://link.dice.fm/x10599fa1816?dice_id=x10599fa1816",
+    "date": "2024-10-24T18:30:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

@@ -30,13 +30,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Joey Valence & Brae'],
-    link: 'https://grogshop.gs/event-details/13530894/joey-valence-brae',
-    sold_out: true,
-    date: '2024-09-14T20:30:00',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Local H', 'Radkey'],
     link: 'https://grogshop.gs/event-details/13830913/local-h-radkey',
     date: '2024-09-15T20:00:00',
@@ -679,12 +672,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Horse Jumper of Love'],
-    link: 'https://link.dice.fm/R4084e320ea0?dice_id=R4084e320ea0',
-    date: '2024-09-14T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Earthplane'],
     link: 'https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d',
     date: '2024-09-15T19:00:00-04:00',
@@ -829,16 +816,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Many Eyes'],
-    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
-    date: '2024-10-11T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Ginger Root\u2019s SHINBANGUMI Tour'],
     link: 'https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7',
     date: '2024-10-11T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Many Eyes'],
+    link: 'https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a',
+    date: '2024-10-11T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Balance & Composure'],
@@ -911,6 +898,12 @@ export const allShows = [
     link: 'https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5',
     date: '2024-10-23T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['House of BurlesCLE: Rocky Horror'],
+    link: 'https://link.dice.fm/x10599fa1816?dice_id=x10599fa1816',
+    date: '2024-10-24T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Undeath'],
@@ -1165,12 +1158,6 @@ export const allShows = [
     venue: 'No Class',
   },
   {
-    artist: ["Jeff Lynne's ELO: THE OVER AND OUT TOUR", 'Rooney'],
-    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/elo-240914',
-    date: '2024-09-14',
-    venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
     artist: ['Tom Segura', 'Come Together'],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/tom-segura-come-together-240926',
     date: '2024-09-26',
@@ -1250,12 +1237,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['Goth Homecoming'],
-    link: 'https://www.foundryconcertclub.com/tm-event/goth-homecoming/',
-    date: '2024-09-14T21:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['Gulche, Wexford, Calico'],
@@ -1814,12 +1795,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['FLESHGOD APOCALYPSE & SHADOW OF INTENT: THE BLACK OPERA 2024'],
-    link: 'https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB',
-    date: '2024-09-14T17:30:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Buzzcocks'],
     link: 'https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA',
     date: '2024-09-15T18:30:00',
@@ -2102,10 +2077,10 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Trap Karaoke: Cleveland'],
-    link: 'https://www.agoracleveland.com/events/detail/579105',
-    date: '2024-09-14T18:00:00',
-    venue: 'Agora',
+    artist: ['Senses Fail / Saves The Day: New Jersey vs. The World'],
+    link: 'https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223',
+    date: '2024-11-23T18:30:00',
+    venue: 'House of Blues',
   },
   {
     artist: ['Sierra Ferrell, Meredith Axelrod'],
@@ -2490,30 +2465,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Sam Burchfield and the Scoundrels', 'Greyson Jenkins'],
-    link: 'https://www.beachlandballroom.com/e/13438474/sam-burchfield-and-the-scoundrels-greyson-jenkins',
-    date: '2024-09-13T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Drag Pride Showcase'],
-    link: 'https://www.beachlandballroom.com/e/13796653/drag-pride-showcase',
-    date: '2024-09-13T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: [
-      'Waterloo Arts Fest 2024',
-      'The Rumble featuring Chief Joseph Boudreaux Jr.',
-      'Big Hoke',
-      'Sugar Mules',
-      'The Buffalo Ryders',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules-the-buffalo-ryders',
-    date: '2024-09-14T12:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Beachland Brunch', 'DJ Mittenclips'],

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "FLESHGOD APOCALYPSE & SHADOW OF INTENT: THE BLACK OPERA 2024"
-    ],
-    "link": "https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB",
-    "date": "2024-09-14T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Buzzcocks"
     ],
     "link": "https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA",
@@ -381,6 +373,14 @@
     ],
     "link": "https://concerts.livenation.com/luke-grimes-cleveland-ohio-11-21-2024/event/0500611CA7051BC1",
     "date": "2024-11-21T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Senses Fail / Saves The Day: New Jersey vs. The World"
+    ],
+    "link": "https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223",
+    "date": "2024-11-23T18:30:00",
     "venue": "House of Blues"
   }
 ]

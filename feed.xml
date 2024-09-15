@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Sep 2024 09:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 09:05:36 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sum 41: Tour of the Setting Sum at Blossom]]></title>
@@ -40,13 +40,6 @@
             <link>https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</link>
             <guid isPermaLink="true">https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</guid>
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joey Valence & Brae at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Joey Valence & Brae at Grog Shop on Saturday, September 14, 2024, 08:30 PM: https://grogshop.gs/event-details/13530894/joey-valence-brae]]></description>
-            <link>https://grogshop.gs/event-details/13530894/joey-valence-brae</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13530894/joey-valence-brae</guid>
-            <pubDate>Sat, 14 Sep 2024 20:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Local H, Radkey at Grog Shop]]></title>
@@ -742,13 +735,6 @@
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Horse Jumper of Love at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Horse Jumper of Love at Mahall’s on Saturday, September 14, 2024, 11:00 PM: https://link.dice.fm/R4084e320ea0?dice_id=R4084e320ea0]]></description>
-            <link>https://link.dice.fm/R4084e320ea0?dice_id=R4084e320ea0</link>
-            <guid isPermaLink="true">https://link.dice.fm/R4084e320ea0?dice_id=R4084e320ea0</guid>
-            <pubDate>Sat, 14 Sep 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Earthplane at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Earthplane at Mahall’s on Sunday, September 15, 2024, 11:00 PM: https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d]]></description>
             <link>https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d</link>
@@ -917,17 +903,17 @@
             <pubDate>Thu, 10 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Many Eyes at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
-            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
-            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
-            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Ginger Root’s SHINBANGUMI Tour at The Roxy at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7]]></description>
             <link>https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</link>
             <guid isPermaLink="true">https://link.dice.fm/y302ca9bd0c7?dice_id=y302ca9bd0c7</guid>
+            <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Many Eyes at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Many Eyes at Mahall’s on Friday, October 11, 2024, 11:00 PM: https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a]]></description>
+            <link>https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</link>
+            <guid isPermaLink="true">https://link.dice.fm/vd81008a7e9a?dice_id=vd81008a7e9a</guid>
             <pubDate>Fri, 11 Oct 2024 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1013,6 +999,13 @@
             <link>https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</link>
             <guid isPermaLink="true">https://link.dice.fm/Kb0862f8aad5?dice_id=Kb0862f8aad5</guid>
             <pubDate>Wed, 23 Oct 2024 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[House of BurlesCLE: Rocky Horror at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to House of BurlesCLE: Rocky Horror at The Roxy at Mahall’s on Thursday, October 24, 2024, 10:30 PM: https://link.dice.fm/x10599fa1816?dice_id=x10599fa1816]]></description>
+            <link>https://link.dice.fm/x10599fa1816?dice_id=x10599fa1816</link>
+            <guid isPermaLink="true">https://link.dice.fm/x10599fa1816?dice_id=x10599fa1816</guid>
+            <pubDate>Thu, 24 Oct 2024 22:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Undeath at Mahall’s]]></title>
@@ -1309,13 +1302,6 @@
             <pubDate>Sat, 21 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jeff Lynne's ELO: THE OVER AND OUT TOUR, Rooney at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Jeff Lynne's ELO: THE OVER AND OUT TOUR, Rooney at Rocket Mortgage FieldHouse on Saturday, September 14, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/elo-240914]]></description>
-            <link>https://www.rocketmortgagefieldhouse.com/events/detail/elo-240914</link>
-            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/elo-240914</guid>
-            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tom Segura, Come Together at Rocket Mortgage FieldHouse]]></title>
             <description><![CDATA[Get tickets to Tom Segura, Come Together at Rocket Mortgage FieldHouse on Thursday, September 26, 2024, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/tom-segura-come-together-240926]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/tom-segura-come-together-240926</link>
@@ -1398,13 +1384,6 @@
             <link>https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334</guid>
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goth Homecoming at Foundry]]></title>
-            <description><![CDATA[Get tickets to Goth Homecoming at Foundry on Saturday, September 14, 2024, 09:00 PM: https://www.foundryconcertclub.com/tm-event/goth-homecoming/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/goth-homecoming/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/goth-homecoming/</guid>
-            <pubDate>Sat, 14 Sep 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gulche, Wexford, Calico at Foundry]]></title>
@@ -2037,13 +2016,6 @@
             <pubDate>Sun, 17 Mar 2024 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FLESHGOD APOCALYPSE & SHADOW OF INTENT: THE BLACK OPERA 2024 at House of Blues]]></title>
-            <description><![CDATA[Get tickets to FLESHGOD APOCALYPSE & SHADOW OF INTENT: THE BLACK OPERA 2024 at House of Blues on Saturday, September 14, 2024, 05:30 PM: https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB]]></description>
-            <link>https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB</guid>
-            <pubDate>Sat, 14 Sep 2024 17:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Buzzcocks at House of Blues]]></title>
             <description><![CDATA[Get tickets to Buzzcocks at House of Blues on Sunday, September 15, 2024, 06:30 PM: https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA]]></description>
             <link>https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA</link>
@@ -2373,11 +2345,11 @@
             <pubDate>Thu, 21 Nov 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trap Karaoke: Cleveland at Agora]]></title>
-            <description><![CDATA[Get tickets to Trap Karaoke: Cleveland at Agora on Saturday, September 14, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/579105]]></description>
-            <link>https://www.agoracleveland.com/events/detail/579105</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/579105</guid>
-            <pubDate>Sat, 14 Sep 2024 18:00:00 GMT</pubDate>
+            <title><![CDATA[Senses Fail / Saves The Day: New Jersey vs. The World at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Senses Fail / Saves The Day: New Jersey vs. The World at House of Blues on Saturday, November 23, 2024, 06:30 PM: https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223]]></description>
+            <link>https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223</guid>
+            <pubDate>Sat, 23 Nov 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sierra Ferrell, Meredith Axelrod at Agora]]></title>
@@ -2819,27 +2791,6 @@
             <link>https://www.agoracleveland.com/events/detail/587201</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/587201</guid>
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sam Burchfield and the Scoundrels, Greyson Jenkins at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Sam Burchfield and the Scoundrels, Greyson Jenkins at Beachland Tavern on Friday, September 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13438474/sam-burchfield-and-the-scoundrels-greyson-jenkins]]></description>
-            <link>https://www.beachlandballroom.com/e/13438474/sam-burchfield-and-the-scoundrels-greyson-jenkins</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13438474/sam-burchfield-and-the-scoundrels-greyson-jenkins</guid>
-            <pubDate>Fri, 13 Sep 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drag Pride Showcase at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Drag Pride Showcase at Beachland Ballroom on Friday, September 13, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13796653/drag-pride-showcase]]></description>
-            <link>https://www.beachlandballroom.com/e/13796653/drag-pride-showcase</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13796653/drag-pride-showcase</guid>
-            <pubDate>Fri, 13 Sep 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Waterloo Arts Fest 2024, The Rumble featuring Chief Joseph Boudreaux Jr., Big Hoke, Sugar Mules, The Buffalo Ryders at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Waterloo Arts Fest 2024, The Rumble featuring Chief Joseph Boudreaux Jr., Big Hoke, Sugar Mules, The Buffalo Ryders at Beachland Ballroom on Saturday, September 14, 2024, 12:00 PM: https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules-the-buffalo-ryders]]></description>
-            <link>https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules-the-buffalo-ryders</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13887563/waterloo-arts-fest-2024-the-rumble-featuring-chief-joseph-boudreaux-jr-big-hoke-sugar-mules-the-buffalo-ryders</guid>
-            <pubDate>Sat, 14 Sep 2024 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beachland Brunch, DJ Mittenclips at Beachland Tavern]]></title>

@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Sum 41: Tour of the Setting Sum'],
-    link: 'https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22',
-    date: '2024-09-15T19:00:00',
-    venue: 'Blossom',
-  },
-  {
     artist: ["Vampire Weekend: 'Only God Was Above Us' Tour"],
     link: 'https://concerts.livenation.com/vampire-weekend-only-god-was-above-cuyahoga-falls-ohio-09-19-2024/event/05006048EE755385',
     date: '2024-09-19T19:00:00',
@@ -28,12 +22,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3',
     date: '2024-10-01T20:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Local H', 'Radkey'],
-    link: 'https://grogshop.gs/event-details/13830913/local-h-radkey',
-    date: '2024-09-15T20:00:00',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Scream', 'Soulside', 'Whatever...', 'Whatever'],
@@ -672,12 +660,6 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
-    artist: ['Earthplane'],
-    link: 'https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d',
-    date: '2024-09-15T19:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Emo Bingo'],
     link: 'https://link.dice.fm/Hf718d504a74?dice_id=Hf718d504a74',
     date: '2024-09-17T18:00:00-04:00',
@@ -1239,15 +1221,9 @@ export const allShows = [
     venue: 'Musica Akron',
   },
   {
-    artist: ['Gulche, Wexford, Calico'],
-    link: 'https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/',
-    date: '2024-09-15T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['AA Williams'],
     link: 'https://www.foundryconcertclub.com/tm-event/aa-williams/',
-    date: '2024-09-16T20:00:00',
+    date: '2024-09-16T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1795,18 +1771,6 @@ export const allShows = [
     venue: 'Happy Dog',
   },
   {
-    artist: ['Buzzcocks'],
-    link: 'https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA',
-    date: '2024-09-15T18:30:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ['Buzzcocks: MOVED TO THE CAMBRIDGE ROOM'],
-    link: 'https://concerts.livenation.com/buzzcocks-moved-to-the-cambridge-room-cleveland-ohio-09-15-2024/event/050060BFBC9269A2',
-    date: '2024-09-15T18:30:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['The Hives'],
     link: 'https://concerts.livenation.com/the-hives-cleveland-ohio-09-17-2024/event/050060738EC81489',
     date: '2024-09-17T19:00:00',
@@ -2083,10 +2047,16 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['Sierra Ferrell, Meredith Axelrod'],
-    link: 'https://www.agoracleveland.com/events/detail/544141',
-    date: '2024-09-15T18:00:00',
-    venue: 'Agora',
+    artist: ['Welshly Arms'],
+    link: 'https://concerts.livenation.com/welshly-arms-cleveland-ohio-11-29-2024/event/050060B6D65551D5',
+    date: '2024-11-29T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Ekoostik Hookah'],
+    link: 'https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-30-2024/event/050060E398B51AA1',
+    date: '2024-11-30T18:30:00',
+    venue: 'House of Blues',
   },
   {
     artist: ['The Warning, Holy Wars'],
@@ -2465,24 +2435,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/587201',
     date: '2025-04-17T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Beachland Brunch', 'DJ Mittenclips'],
-    link: 'https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips',
-    date: '2024-09-15T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Pre/Post Party with DJ Scottify (Scott Heisel of WCSB)'],
-    link: 'https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-',
-    date: '2024-09-15T18:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Ojos Brillantes', 'Neva Dinova'],
-    link: 'https://www.beachlandballroom.com/e/13907053/ojos-brillantes-neva-dinova',
-    date: '2024-09-15T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Pre/Post Party', 'Sugar Mules'],

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Buzzcocks"
-    ],
-    "link": "https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA",
-    "date": "2024-09-15T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Buzzcocks: MOVED TO THE CAMBRIDGE ROOM"
-    ],
-    "link": "https://concerts.livenation.com/buzzcocks-moved-to-the-cambridge-room-cleveland-ohio-09-15-2024/event/050060BFBC9269A2",
-    "date": "2024-09-15T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Hives"
     ],
     "link": "https://concerts.livenation.com/the-hives-cleveland-ohio-09-17-2024/event/050060738EC81489",
@@ -381,6 +365,22 @@
     ],
     "link": "https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223",
     "date": "2024-11-23T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Welshly Arms"
+    ],
+    "link": "https://concerts.livenation.com/welshly-arms-cleveland-ohio-11-29-2024/event/050060B6D65551D5",
+    "date": "2024-11-29T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Ekoostik Hookah"
+    ],
+    "link": "https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-30-2024/event/050060E398B51AA1",
+    "date": "2024-11-30T18:30:00",
     "venue": "House of Blues"
   }
 ]

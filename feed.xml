@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Sep 2024 09:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 09:06:11 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Sum 41: Tour of the Setting Sum at Blossom]]></title>
-            <description><![CDATA[Get tickets to Sum 41: Tour of the Setting Sum at Blossom on Sunday, September 15, 2024, 07:00 PM: https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22]]></description>
-            <link>https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/sum-41-tour-of-the-setting-cuyahoga-falls-ohio-09-15-2024/event/05005F87D0293A22</guid>
-            <pubDate>Sun, 15 Sep 2024 19:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Vampire Weekend: 'Only God Was Above Us' Tour at Blossom]]></title>
             <description><![CDATA[Get tickets to Vampire Weekend: 'Only God Was Above Us' Tour at Blossom on Thursday, September 19, 2024, 07:00 PM: https://concerts.livenation.com/vampire-weekend-only-god-was-above-cuyahoga-falls-ohio-09-19-2024/event/05006048EE755385]]></description>
@@ -40,13 +33,6 @@
             <link>https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</link>
             <guid isPermaLink="true">https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3</guid>
             <pubDate>Tue, 01 Oct 2024 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Local H, Radkey at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Local H, Radkey at Grog Shop on Sunday, September 15, 2024, 08:00 PM: https://grogshop.gs/event-details/13830913/local-h-radkey]]></description>
-            <link>https://grogshop.gs/event-details/13830913/local-h-radkey</link>
-            <guid isPermaLink="true">https://grogshop.gs/event-details/13830913/local-h-radkey</guid>
-            <pubDate>Sun, 15 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Scream, Soulside, Whatever..., Whatever at Grog Shop]]></title>
@@ -735,13 +721,6 @@
             <pubDate>Sat, 19 Oct 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Earthplane at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Earthplane at Mahall’s on Sunday, September 15, 2024, 11:00 PM: https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d]]></description>
-            <link>https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d</link>
-            <guid isPermaLink="true">https://link.dice.fm/b1e4fea81f6d?dice_id=b1e4fea81f6d</guid>
-            <pubDate>Sun, 15 Sep 2024 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Emo Bingo at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Emo Bingo at Mahall’s on Tuesday, September 17, 2024, 10:00 PM: https://link.dice.fm/Hf718d504a74?dice_id=Hf718d504a74]]></description>
             <link>https://link.dice.fm/Hf718d504a74?dice_id=Hf718d504a74</link>
@@ -1386,18 +1365,11 @@
             <pubDate>Fri, 15 Nov 2024 21:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Gulche, Wexford, Calico at Foundry]]></title>
-            <description><![CDATA[Get tickets to Gulche, Wexford, Calico at Foundry on Sunday, September 15, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/</guid>
-            <pubDate>Sun, 15 Sep 2024 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[AA Williams at Foundry]]></title>
-            <description><![CDATA[Get tickets to AA Williams at Foundry on Monday, September 16, 2024, 08:00 PM: https://www.foundryconcertclub.com/tm-event/aa-williams/]]></description>
+            <description><![CDATA[Get tickets to AA Williams at Foundry on Monday, September 16, 2024, 07:00 PM: https://www.foundryconcertclub.com/tm-event/aa-williams/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/aa-williams/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/aa-williams/</guid>
-            <pubDate>Mon, 16 Sep 2024 20:00:00 GMT</pubDate>
+            <pubDate>Mon, 16 Sep 2024 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ODDITIES BINGO at Foundry]]></title>
@@ -2016,20 +1988,6 @@
             <pubDate>Sun, 17 Mar 2024 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Buzzcocks at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Buzzcocks at House of Blues on Sunday, September 15, 2024, 06:30 PM: https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA]]></description>
-            <link>https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA</guid>
-            <pubDate>Sun, 15 Sep 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buzzcocks: MOVED TO THE CAMBRIDGE ROOM at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Buzzcocks: MOVED TO THE CAMBRIDGE ROOM at House of Blues on Sunday, September 15, 2024, 06:30 PM: https://concerts.livenation.com/buzzcocks-moved-to-the-cambridge-room-cleveland-ohio-09-15-2024/event/050060BFBC9269A2]]></description>
-            <link>https://concerts.livenation.com/buzzcocks-moved-to-the-cambridge-room-cleveland-ohio-09-15-2024/event/050060BFBC9269A2</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/buzzcocks-moved-to-the-cambridge-room-cleveland-ohio-09-15-2024/event/050060BFBC9269A2</guid>
-            <pubDate>Sun, 15 Sep 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Hives at House of Blues]]></title>
             <description><![CDATA[Get tickets to The Hives at House of Blues on Tuesday, September 17, 2024, 07:00 PM: https://concerts.livenation.com/the-hives-cleveland-ohio-09-17-2024/event/050060738EC81489]]></description>
             <link>https://concerts.livenation.com/the-hives-cleveland-ohio-09-17-2024/event/050060738EC81489</link>
@@ -2352,11 +2310,18 @@
             <pubDate>Sat, 23 Nov 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sierra Ferrell, Meredith Axelrod at Agora]]></title>
-            <description><![CDATA[Get tickets to Sierra Ferrell, Meredith Axelrod at Agora on Sunday, September 15, 2024, 06:00 PM: https://www.agoracleveland.com/events/detail/544141]]></description>
-            <link>https://www.agoracleveland.com/events/detail/544141</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/544141</guid>
-            <pubDate>Sun, 15 Sep 2024 18:00:00 GMT</pubDate>
+            <title><![CDATA[Welshly Arms at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Welshly Arms at House of Blues on Friday, November 29, 2024, 07:00 PM: https://concerts.livenation.com/welshly-arms-cleveland-ohio-11-29-2024/event/050060B6D65551D5]]></description>
+            <link>https://concerts.livenation.com/welshly-arms-cleveland-ohio-11-29-2024/event/050060B6D65551D5</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/welshly-arms-cleveland-ohio-11-29-2024/event/050060B6D65551D5</guid>
+            <pubDate>Fri, 29 Nov 2024 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ekoostik Hookah at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Ekoostik Hookah at House of Blues on Saturday, November 30, 2024, 06:30 PM: https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-30-2024/event/050060E398B51AA1]]></description>
+            <link>https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-30-2024/event/050060E398B51AA1</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-30-2024/event/050060E398B51AA1</guid>
+            <pubDate>Sat, 30 Nov 2024 18:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Warning, Holy Wars at Agora]]></title>
@@ -2791,27 +2756,6 @@
             <link>https://www.agoracleveland.com/events/detail/587201</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/587201</guid>
             <pubDate>Thu, 17 Apr 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Brunch, DJ Mittenclips at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, DJ Mittenclips at Beachland Tavern on Sunday, September 15, 2024, 11:00 AM: https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips]]></description>
-            <link>https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13906593/beachland-brunch-dj-mittenclips</guid>
-            <pubDate>Sun, 15 Sep 2024 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pre/Post Party with DJ Scottify (Scott Heisel of WCSB) at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Pre/Post Party with DJ Scottify (Scott Heisel of WCSB) at Beachland Tavern on Sunday, September 15, 2024, 06:00 PM: https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-]]></description>
-            <link>https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13588704/pre-post-party-with-dj-scottify-scott-heisel-of-wcsb-</guid>
-            <pubDate>Sun, 15 Sep 2024 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ojos Brillantes, Neva Dinova at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Ojos Brillantes, Neva Dinova at Beachland Ballroom on Sunday, September 15, 2024, 08:00 PM: https://www.beachlandballroom.com/e/13907053/ojos-brillantes-neva-dinova]]></description>
-            <link>https://www.beachlandballroom.com/e/13907053/ojos-brillantes-neva-dinova</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13907053/ojos-brillantes-neva-dinova</guid>
-            <pubDate>Sun, 15 Sep 2024 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pre/Post Party, Sugar Mules at Beachland Tavern]]></title>

@@ -8,7 +8,7 @@ export const allShows = [
   {
     artist: ['The National and The War On Drugs with Special Guest Lucius'],
     link: 'https://concerts.livenation.com/the-national-and-the-war-on-cuyahoga-falls-ohio-09-21-2024/event/05006047092C606D',
-    date: '2024-09-21T18:45:00',
+    date: '2024-09-21T18:30:00',
     venue: 'Blossom',
   },
   {
@@ -21,6 +21,12 @@ export const allShows = [
     artist: ['Post Malone: F-1 Trillion Tour'],
     link: 'https://concerts.livenation.com/post-malone-f1-trillion-tour-cuyahoga-falls-ohio-10-01-2024/event/050060D5A4C268E3',
     date: '2024-10-01T20:00:00',
+    venue: 'Blossom',
+  },
+  {
+    artist: ['Sessanta V 2.0: Primus, Puscifer, A Perfect Circle'],
+    link: 'https://concerts.livenation.com/sessanta-v-20-primus-puscifer-a-cuyahoga-falls-ohio-05-25-2025/event/0500612DB4914AAF',
+    date: '2025-05-25T20:00:00',
     venue: 'Blossom',
   },
   {
@@ -125,7 +131,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Saosin'],
+    artist: ['Saosin', 'HOSTA'],
     link: 'https://grogshop.gs/event-details/13808513/saosin',
     date: '2024-10-03T20:00:00',
     venue: 'Grog Shop',
@@ -179,7 +185,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['6arelyhuman: The Sassy Scene Tour'],
+    artist: ['6arelyhuman: The Sassy Scene Tour', 'That Kid'],
     link: 'https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour',
     date: '2024-10-13T20:00:00',
     venue: 'Grog Shop',
@@ -400,6 +406,12 @@ export const allShows = [
     artist: ['GlamGore: Hairy', 'Scary', '& Feral', 'Anhedonia Delight'],
     link: 'https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral',
     date: '2024-12-13T21:30:00',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
+    link: 'https://grogshop.gs/event-details/13586114/tim-heidecker-slipping-away-tour',
+    date: '2025-02-05T20:00:00',
     venue: 'Grog Shop',
   },
   {
@@ -1197,14 +1209,20 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
+    artist: ['Harlem Globetrotters', '2025 World Tour'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/harlem-globetrotters-241229',
+    date: '2024-12-29',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
     artist: ['Jon Spencer, The Sueves'],
     link: 'https://www.ticketweb.com/event/jon-spencer-the-sueves-musica-tickets/13389354',
     date: '2024-09-24T20:00:00',
     venue: 'Musica Akron',
   },
   {
-    artist: ['Hippies & Cowboys: Fork in the Road Tour'],
-    link: 'https://www.ticketweb.com/event/hippies-cowboys-fork-in-musica-tickets/13575034',
+    artist: ['Hippies & Cowboys, Revelry & Cassidy Daniels'],
+    link: 'https://www.ticketweb.com/event/hippies-cowboys-revelry-cassidy-musica-tickets/13575034',
     date: '2024-10-20T19:00:00',
     venue: 'Musica Akron',
   },
@@ -1219,12 +1237,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334',
     date: '2024-11-15T21:00:00',
     venue: 'Musica Akron',
-  },
-  {
-    artist: ['AA Williams'],
-    link: 'https://www.foundryconcertclub.com/tm-event/aa-williams/',
-    date: '2024-09-16T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['ODDITIES BINGO'],
@@ -1644,6 +1656,12 @@ export const allShows = [
     artist: ['Straight No Chaser - Top Shelf Tour'],
     link: 'https://www.playhousesquare.org/events/detail/straight-no-chaser-top-shelf-tour',
     date: '2024-12-21',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ['The 2nd Annual Legendary Soul Jam'],
+    link: 'https://www.playhousesquare.org/events/detail/the-2nd-annual-legendary-soul-jam',
+    date: '2024-12-28',
     venue: 'Playhouse Square',
   },
   {
@@ -2425,18 +2443,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Gavin Adcock'],
-    link: 'https://www.agoracleveland.com/events/detail/656668',
-    date: '2025-04-10T18:00:00',
-    venue: 'Agora',
-  },
-  {
-    artist: ['Dean Lewis'],
-    link: 'https://www.agoracleveland.com/events/detail/587201',
-    date: '2025-04-17T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Pre/Post Party', 'Sugar Mules'],
     link: 'https://www.beachlandballroom.com/e/13872433/pre-post-party-sugar-mules',
     date: '2024-09-18T18:00:00',
@@ -2449,8 +2455,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['A Giant Dog', 'Crawlers', 'Slug Fest'],
-    link: 'https://www.beachlandballroom.com/e/13721303/a-giant-dog-crawlers-slug-fest',
+    artist: ['A Giant Dog', 'Slug Fest'],
+    link: 'https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest',
     date: '2024-09-19T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -2542,6 +2548,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13530574/the-war-and-treaty-the-kentucky-gentlemen',
     date: '2024-09-28T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Beachland Brunch', "DJ Rockin' Ed"],
+    link: 'https://www.beachlandballroom.com/e/13598144/beachland-brunch-dj-rockin-ed',
+    date: '2024-09-29T11:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['Catpack'],
@@ -2682,6 +2694,22 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: [
+      'A Benefit for CLEAN HOUSE',
+      'Alex Bevan',
+      'Flowers Love Being Kurt',
+      'Primal Rhythm',
+      'No Bad Daze featuring Ghani',
+      'JR Blessington',
+      'Jah Messengers',
+      'Shake Ground',
+      'Sammy DeLeon',
+    ],
+    link: 'https://www.beachlandballroom.com/e/13599604/a-benefit-for-clean-house-alex-bevan-flowers-love-being-kurt-primal-rhythm-no-bad-daze-featuring-ghani-jr-blessington-jah-messengers-shake-ground-sammy-deleon',
+    date: '2024-10-13T18:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
     artist: ['Jason Eady', 'Sophie Gault'],
     link: 'https://www.beachlandballroom.com/e/13675063/jason-eady-sophie-gault',
     date: '2024-10-13T20:00:00',
@@ -2804,8 +2832,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Dreamstreet'],
-    link: 'https://www.beachlandballroom.com/e/13581934/dreamstreet',
+    artist: ['Dreamstreet', 'Craig Martini'],
+    link: 'https://www.beachlandballroom.com/e/13581934/dreamstreet-craig-martini',
     date: '2024-10-30T19:30:00',
     venue: 'Beachland Tavern',
   },
@@ -2846,8 +2874,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Atta Boy'],
-    link: 'https://www.beachlandballroom.com/e/13531324/atta-boy',
+    artist: ['Atta Boy', 'Me Like Bees'],
+    link: 'https://www.beachlandballroom.com/e/13531324/atta-boy-me-like-bees',
     date: '2024-11-08T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -3013,6 +3041,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13578184/eric-johanson',
     date: '2024-12-15T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Tim Heidecker', 'Neil Hamburger'],
+    link: 'https://www.beachlandballroom.com/e/13588564/tim-heidecker-neil-hamburger',
+    date: '2025-02-05T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Ron Pope'],

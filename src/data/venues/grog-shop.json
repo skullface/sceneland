@@ -146,7 +146,8 @@
   },
   {
     "artist": [
-      "Saosin"
+      "Saosin",
+      "HOSTA"
     ],
     "link": "https://grogshop.gs/event-details/13808513/saosin",
     "date": "2024-10-03T20:00:00",
@@ -226,7 +227,8 @@
   },
   {
     "artist": [
-      "6arelyhuman: The Sassy Scene Tour"
+      "6arelyhuman: The Sassy Scene Tour",
+      "That Kid"
     ],
     "link": "https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour",
     "date": "2024-10-13T20:00:00",
@@ -514,6 +516,15 @@
     ],
     "link": "https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral",
     "date": "2024-12-13T21:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Tim Heidecker: Slipping Away Tour",
+      "Neil Hamburger"
+    ],
+    "link": "https://grogshop.gs/event-details/13586114/tim-heidecker-slipping-away-tour",
+    "date": "2025-02-05T20:00:00",
     "venue": "Grog Shop"
   },
   {

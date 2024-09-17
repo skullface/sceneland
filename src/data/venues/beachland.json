@@ -20,10 +20,9 @@
   {
     "artist": [
       "A Giant Dog",
-      "Crawlers",
       "Slug Fest"
     ],
-    "link": "https://www.beachlandballroom.com/e/13721303/a-giant-dog-crawlers-slug-fest",
+    "link": "https://www.beachlandballroom.com/e/13721303/a-giant-dog-slug-fest",
     "date": "2024-09-19T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -151,6 +150,15 @@
     "link": "https://www.beachlandballroom.com/e/13530574/the-war-and-treaty-the-kentucky-gentlemen",
     "date": "2024-09-28T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Brunch",
+      "DJ Rockin' Ed"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13598144/beachland-brunch-dj-rockin-ed",
+    "date": "2024-09-29T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -347,6 +355,22 @@
   },
   {
     "artist": [
+      "A Benefit for CLEAN HOUSE",
+      "Alex Bevan",
+      "Flowers Love Being Kurt",
+      "Primal Rhythm",
+      "No Bad Daze featuring Ghani",
+      "JR Blessington",
+      "Jah Messengers",
+      "Shake Ground",
+      "Sammy DeLeon"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13599604/a-benefit-for-clean-house-alex-bevan-flowers-love-being-kurt-primal-rhythm-no-bad-daze-featuring-ghani-jr-blessington-jah-messengers-shake-ground-sammy-deleon",
+    "date": "2024-10-13T18:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Jason Eady",
       "Sophie Gault"
     ],
@@ -514,9 +538,10 @@
   },
   {
     "artist": [
-      "Dreamstreet"
+      "Dreamstreet",
+      "Craig Martini"
     ],
-    "link": "https://www.beachlandballroom.com/e/13581934/dreamstreet",
+    "link": "https://www.beachlandballroom.com/e/13581934/dreamstreet-craig-martini",
     "date": "2024-10-30T19:30:00",
     "venue": "Beachland Tavern"
   },
@@ -575,9 +600,10 @@
   },
   {
     "artist": [
-      "Atta Boy"
+      "Atta Boy",
+      "Me Like Bees"
     ],
-    "link": "https://www.beachlandballroom.com/e/13531324/atta-boy",
+    "link": "https://www.beachlandballroom.com/e/13531324/atta-boy-me-like-bees",
     "date": "2024-11-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -807,6 +833,15 @@
     "link": "https://www.beachlandballroom.com/e/13578184/eric-johanson",
     "date": "2024-12-15T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Tim Heidecker",
+      "Neil Hamburger"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13588564/tim-heidecker-neil-hamburger",
+    "date": "2025-02-05T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Baldassarre Rock Orchestra: A Whole Lotta Zeppelin"
-    ],
-    "link": "https://concerts.livenation.com/baldassarre-rock-orchestra-a-whole-lotta-cleveland-ohio-09-13-2024/event/050060C4D0CE48B5",
-    "date": "2024-09-13T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "FLESHGOD APOCALYPSE & SHADOW OF INTENT: THE BLACK OPERA 2024"
-    ],
-    "link": "https://concerts.livenation.com/fleshgod-apocalypse-shadow-of-intent-the-cleveland-ohio-09-14-2024/event/050060D0FE9584EB",
-    "date": "2024-09-14T17:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Buzzcocks"
-    ],
-    "link": "https://concerts.livenation.com/buzzcocks-cleveland-ohio-09-15-2024/event/0500612ABB5A27FA",
-    "date": "2024-09-15T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Buzzcocks: MOVED TO THE CAMBRIDGE ROOM"
-    ],
-    "link": "https://concerts.livenation.com/buzzcocks-moved-to-the-cambridge-room-cleveland-ohio-09-15-2024/event/050060BFBC9269A2",
-    "date": "2024-09-15T18:30:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "The Hives"
     ],
     "link": "https://concerts.livenation.com/the-hives-cleveland-ohio-09-17-2024/event/050060738EC81489",
@@ -381,6 +349,38 @@
     ],
     "link": "https://concerts.livenation.com/animals-as-leaders-joy-of-motion-cleveland-ohio-11-20-2024/event/05006093CE5E5F18",
     "date": "2024-11-20T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Luke Grimes"
+    ],
+    "link": "https://concerts.livenation.com/luke-grimes-cleveland-ohio-11-21-2024/event/0500611CA7051BC1",
+    "date": "2024-11-21T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Senses Fail / Saves The Day: New Jersey vs. The World"
+    ],
+    "link": "https://concerts.livenation.com/senses-fail-saves-the-day-new-cleveland-ohio-11-23-2024/event/050060AAFA987223",
+    "date": "2024-11-23T18:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Welshly Arms"
+    ],
+    "link": "https://concerts.livenation.com/welshly-arms-cleveland-ohio-11-29-2024/event/050060B6D65551D5",
+    "date": "2024-11-29T19:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "Ekoostik Hookah"
+    ],
+    "link": "https://concerts.livenation.com/ekoostik-hookah-cleveland-ohio-11-30-2024/event/050060E398B51AA1",
+    "date": "2024-11-30T18:30:00",
     "venue": "House of Blues"
   }
 ]

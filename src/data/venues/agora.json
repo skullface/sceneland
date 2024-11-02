@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Descendents & Circle Jerks, Surfbort"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/542673",
-    "date": "2024-09-13T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Trap Karaoke: Cleveland"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/579105",
-    "date": "2024-09-14T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Sierra Ferrell, Meredith Axelrod"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/544141",
-    "date": "2024-09-15T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "The Warning, Holy Wars"
     ],
     "link": "https://www.agoracleveland.com/events/detail/570352",
@@ -81,7 +57,7 @@
   },
   {
     "artist": [
-      "SOFI TUKKER, Carola"
+      "SOFI TUKKER, Confidence Man, Carola"
     ],
     "link": "https://www.agoracleveland.com/events/detail/558994",
     "date": "2024-09-30T18:00:00",
@@ -213,6 +189,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/564788",
     "date": "2024-10-20T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "DJ Rodge"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/681957",
+    "date": "2024-10-22T18:00:00",
     "venue": "Agora"
   },
   {
@@ -493,22 +477,6 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/647250",
     "date": "2025-04-09T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Gavin Adcock"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/656668",
-    "date": "2025-04-10T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Dean Lewis"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/587201",
-    "date": "2025-04-17T18:00:00",
     "venue": "Agora"
   }
 ]

@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Nicki Minaj: Pink Friday 2 World Tour",
-      "Special Guests Tyga, Bia and Skillibeng"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/nicki-minaj-240913",
-    "date": "2024-09-13",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
-      "Jeff Lynne's ELO: THE OVER AND OUT TOUR",
-      "Rooney"
-    ],
-    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/elo-240914",
-    "date": "2024-09-14",
-    "venue": "Rocket Mortgage FieldHouse"
-  },
-  {
-    "artist": [
       "Tom Segura",
       "Come Together"
     ],
@@ -85,6 +67,15 @@
     ],
     "link": "https://www.rocketmortgagefieldhouse.com/events/detail/creed-241122",
     "date": "2024-11-22",
+    "venue": "Rocket Mortgage FieldHouse"
+  },
+  {
+    "artist": [
+      "Harlem Globetrotters",
+      "2025 World Tour"
+    ],
+    "link": "https://www.rocketmortgagefieldhouse.com/events/detail/harlem-globetrotters-241229",
+    "date": "2024-12-29",
     "venue": "Rocket Mortgage FieldHouse"
   }
 ]

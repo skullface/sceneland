@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Anime / K-Pop Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-k-pop-night/",
-    "date": "2024-09-13T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Goth Homecoming"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/goth-homecoming/",
-    "date": "2024-09-14T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Gulche, Wexford, Calico"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/gulche-wexford-calico/",
-    "date": "2024-09-15T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "AA Williams"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/aa-williams/",
-    "date": "2024-09-16T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "ODDITIES BINGO"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/oddities-bingo-2/",
@@ -165,6 +133,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nanowar-of-steel-tragedy-all-metal-tribute-to-the-bee-gees-beyond/",
     "date": "2024-10-08T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Silent Theory, Discrepancies, Dizasterpiece"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/silent-theory-discrepancies-dizasterpiece/",
+    "date": "2024-10-17T19:00:00",
     "venue": "Foundry"
   },
   {

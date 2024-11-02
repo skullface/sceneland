@@ -1,50 +1,6 @@
 [
   {
     "artist": [
-      "Zombie: Composer's Cut by Fabio Frizzi"
-    ],
-    "link": "https://grogshop.gs/event-details/13708313/zombie-composer-s-cut-by-fabio-frizzi",
-    "date": "2024-09-11T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Thumpasaurus",
-      "Total Downer",
-      "Sammy Slims"
-    ],
-    "link": "https://grogshop.gs/event-details/13790273/thumpasaurus-total-downer-sammy-slims",
-    "date": "2024-09-12T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Boys From County Hell , Dave Rich and his Enablers"
-    ],
-    "link": "https://grogshop.gs/event-details/13794913/the-boys-from-county-hell-w-dave-rich-and-his-enablers",
-    "date": "2024-09-13T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Joey Valence & Brae"
-    ],
-    "link": "https://grogshop.gs/event-details/13530894/joey-valence-brae",
-    "sold_out": true,
-    "date": "2024-09-14T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Local H",
-      "Radkey"
-    ],
-    "link": "https://grogshop.gs/event-details/13830913/local-h-radkey",
-    "date": "2024-09-15T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Scream",
       "Soulside",
       "Whatever...",
@@ -75,7 +31,8 @@
   {
     "artist": [
       "Joe P",
-      "Anna Shoemaker"
+      "Anna Shoemaker",
+      "Temple Brothers"
     ],
     "link": "https://grogshop.gs/event-details/13564274/joe-p",
     "date": "2024-09-20T20:00:00",
@@ -136,7 +93,8 @@
   },
   {
     "artist": [
-      "Pansy Division with Bev Rage & the Drinks"
+      "Pansy Division with Bev Rage & the Drinks",
+      "Slug Fest"
     ],
     "link": "https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks",
     "date": "2024-09-27T20:30:00",
@@ -188,7 +146,8 @@
   },
   {
     "artist": [
-      "Saosin"
+      "Saosin",
+      "HOSTA"
     ],
     "link": "https://grogshop.gs/event-details/13808513/saosin",
     "date": "2024-10-03T20:00:00",
@@ -268,7 +227,8 @@
   },
   {
     "artist": [
-      "6arelyhuman: The Sassy Scene Tour"
+      "6arelyhuman: The Sassy Scene Tour",
+      "That Kid"
     ],
     "link": "https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour",
     "date": "2024-10-13T20:00:00",
@@ -356,7 +316,8 @@
   },
   {
     "artist": [
-      "Hinds"
+      "Hinds",
+      "The Happy Return"
     ],
     "link": "https://grogshop.gs/event-details/13487344/hinds",
     "date": "2024-10-22T20:00:00",
@@ -509,7 +470,6 @@
       "MAF Teeski"
     ],
     "link": "https://grogshop.gs/event-details/13584814/baby-kia",
-    "sold_out": true,
     "date": "2024-11-14T20:00:00",
     "venue": "Grog Shop"
   },
@@ -533,6 +493,14 @@
   },
   {
     "artist": [
+      "ACO: A Tribute to Rob Williams"
+    ],
+    "link": "https://grogshop.gs/event-details/13592294/aco-a-tribute-to-rob-williams",
+    "date": "2024-11-26T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Forest Blakk"
     ],
     "link": "https://grogshop.gs/event-details/13544804/forest-blakk",
@@ -548,6 +516,23 @@
     ],
     "link": "https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral",
     "date": "2024-12-13T21:30:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Tim Heidecker: Slipping Away Tour",
+      "Neil Hamburger"
+    ],
+    "link": "https://grogshop.gs/event-details/13586114/tim-heidecker-slipping-away-tour",
+    "date": "2025-02-05T20:00:00",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Lunar Vacation"
+    ],
+    "link": "https://grogshop.gs/event-details/13582664/lunar-vacation",
+    "date": "2025-02-08T20:30:00",
     "venue": "Grog Shop"
   },
   {

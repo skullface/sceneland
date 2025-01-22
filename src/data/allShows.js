@@ -678,434 +678,10 @@ export const allShows = [
   },
   {
     "artist": [
-      "The Warning, Holy Wars"
+      "Me'shell Ndeg\u00e9ocello"
     ],
-    "link": "https://www.agoracleveland.com/events/detail/570352",
-    "date": "2024-09-18T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "The California Honeydrops"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/560004",
-    "date": "2024-09-20T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Nate Jackson"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/598164",
-    "date": "2024-09-21T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Ghost Files Live!"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/631058",
-    "date": "2024-09-23T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Nothing More, Set It Off, From Ashes to New, Post Profit"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/566471",
-    "date": "2024-09-24T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "The Beaches, Charlie Houston"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/550689",
-    "date": "2024-09-25T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Skillet, Tim Montana, Royale Lynn"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/639419",
-    "date": "2024-09-26T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "SOFI TUKKER, Confidence Man, Carola"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/558994",
-    "date": "2024-09-30T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Testament & Kreator, Possessed"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/551671",
-    "date": "2024-10-01T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Hatebreed, Carcass, Harms Way, Crypta"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/536208",
-    "date": "2024-10-02T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "The Black Dahlia Murder & Dying Fetus, Spite, Angelmaker, Vomit Forth"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/604413",
-    "date": "2024-10-03T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Marianas Trench, Cassadee Pope, PIAO"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/576616",
-    "date": "2024-10-04T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Carly Pearce, Karley Scott Collins"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/646114",
-    "date": "2024-10-05T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Witch Perfect"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/581049",
-    "date": "2024-10-06T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Jim Henson's Labyrinth: In Concert"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/596120",
-    "date": "2024-10-07T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Sepultura, Obituary, Agnostic Front, Claustrofobia"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/581148",
-    "date": "2024-10-08T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Dayseeker, Alpha Wolf, Catch Your Breath, Kingdom of Giants"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/575307",
-    "date": "2024-10-09T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Andrew Santino"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/605159",
-    "date": "2024-10-10T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "COIN, Aidan Bissett"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/590934",
-    "date": "2024-10-11T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Opeth, Tribulation"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/547237",
-    "date": "2024-10-12T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "DISPATCH, Lizzie No"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/534083",
-    "date": "2024-10-15T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "One Dark Night"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/633687",
-    "date": "2024-10-18T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Die Antwoord"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/604440",
-    "date": "2024-10-19T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Rise Against, Microwave, Spiritual Cramp"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/564788",
-    "date": "2024-10-20T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "DJ Rodge"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/681957",
-    "date": "2024-10-22T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Lorna Shore, Whitechapel, Kublai Khan TX, Sanguisugabogg"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/562631",
-    "date": "2024-10-24T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "BEAT - Belew/Vai/Levin/Carey play 80s King Crimson"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/539117",
-    "date": "2024-10-25T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Mushroomhead, Upon a Burning Body, There Is No Us, Mind Incision, Bittersweet Revenge, Psycho Plantation"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/551126",
-    "date": "2024-10-26T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "KMFDM, Morlocks"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/598174",
-    "date": "2024-10-29T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "TVBOO"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/644361",
-    "date": "2024-10-31T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "GWAR, Dark Funeral, Squid Pisser"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/596178",
-    "date": "2024-11-01T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "The Genesis Show"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/602775",
-    "date": "2024-11-02T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Craig Ferguson"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/579465",
-    "date": "2024-11-03T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "King Diamond, Overkill, Night Demon"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/633703",
-    "date": "2024-11-06T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Jessie Murph"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/654707",
-    "date": "2024-11-08T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Chayla Hope & CYO's Low-Fi Mix Tape"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/670779",
-    "date": "2024-11-09T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Mitchell Tenpenny, Dylan Schneider"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/625961",
-    "date": "2024-11-14T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Urban Trivia Live"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/550272",
-    "date": "2024-11-15T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Wyatt Flores, Noeline Hofmann"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/626937",
-    "date": "2024-11-16T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "W.A.S.P., Armored Saint"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/577559",
-    "date": "2024-11-19T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Tropidelic, Kash'd Out, The Quasi Kings, TobyRaps"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/646948",
-    "date": "2024-11-23T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "State Champs, Knuckle Puck, Meet Me @ The Altar, Daisy Grenade"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/648162",
-    "date": "2024-11-24T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Underoath, Static Dress"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/542253",
-    "date": "2024-11-30T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "girl in red"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/653954",
-    "date": "2024-12-04T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "In This Moment, Kim Dracula, Nathan James, Mike's Dead"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/648863",
-    "date": "2024-12-05T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Suki Waterhouse, Bully"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/560960",
-    "date": "2024-12-06T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "O Christmas Tea: A British Comedy"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/638940",
-    "date": "2024-12-07T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "The Ghost Inside, Gideon, VOID OF VISION, OF VIRTUE"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/618882",
-    "date": "2024-12-11T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Trampled By Turtles, The Last Revel"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/677487",
-    "date": "2024-12-12T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Baldassarre Rock Orchestra"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/534223",
-    "date": "2024-12-13T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Ali Siddiq"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/564740",
-    "date": "2024-12-14T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Countess Luann de Lesseps"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/649582",
-    "date": "2024-12-21T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Wish You Were Here"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/674693",
-    "date": "2025-01-03T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "Wish You Were Here"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/674728",
-    "date": "2025-01-04T18:00:00",
+    "link": "https://www.agoracleveland.com/events/detail/752782",
+    "date": "2025-01-22T18:00:00",
     "venue": "Agora"
   },
   {
@@ -1118,10 +694,42 @@ export const allShows = [
   },
   {
     "artist": [
+      "ATLiens, LAYZ, Gorilla T, Automhate"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/718244",
+    "date": "2025-01-25T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Guster"
     ],
     "link": "https://www.agoracleveland.com/events/detail/649630",
     "date": "2025-01-26T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Destroy Lonely, Lil88"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/736179",
+    "date": "2025-02-05T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Charles Wesley Godwin, Caleb Caudle"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/757045",
+    "date": "2025-02-06T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Sullivan King, YOOKiE, Grabbitz, RZRKT"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/707333",
+    "date": "2025-02-10T18:00:00",
     "venue": "Agora"
   },
   {
@@ -1134,6 +742,22 @@ export const allShows = [
   },
   {
     "artist": [
+      "And That\u2019s Why We Drink"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/781408",
+    "date": "2025-02-14T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jessica Kirson"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/777421",
+    "date": "2025-02-21T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Mersiv & INZO, OPIUO, Zen Selekta , Daggz , Seth David"
     ],
     "link": "https://www.agoracleveland.com/events/detail/650174",
@@ -1142,7 +766,135 @@ export const allShows = [
   },
   {
     "artist": [
-      "Coal Chamber, Fear Factory, Twiztid, Wednesday 13, Black Satellite"
+      "Whitney Cummings"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/782696",
+    "date": "2025-02-28T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "TRIBAL SEEDS, Kabaka Pyramid and Sensamotion"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/752478",
+    "date": "2025-03-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "#IMOMSOHARD"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/751940",
+    "date": "2025-03-02T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Faye Webster, Mei Ehara"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/707543",
+    "date": "2025-03-07T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Imminence, Landmvrks, Jiluka"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/710780",
+    "date": "2025-03-11T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Morgan Wade"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/706642",
+    "date": "2025-03-12T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Becky Robinson"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/752280",
+    "date": "2025-03-13T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Becky Robinson"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/690034",
+    "date": "2025-03-14T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Y2K Meets 90s Tour"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/787274",
+    "date": "2025-03-15T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jeremy Piven"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/764320",
+    "date": "2025-03-20T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "JoJo, Emmy Meli"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/765254",
+    "date": "2025-03-21T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Sam Barber, Avery Anna"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/783487",
+    "date": "2025-03-27T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "ISMO"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/688103",
+    "date": "2025-03-28T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Stereophonics"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/776036",
+    "date": "2025-03-29T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Magnetic Fields"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/738725",
+    "date": "2025-04-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Magnetic Fields"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/738726",
+    "date": "2025-04-02T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Coal Chamber, Fear Factory, Black Satellite, Bittersweet Revenge"
     ],
     "link": "https://www.agoracleveland.com/events/detail/560540",
     "date": "2025-04-05T18:00:00",
@@ -1150,10 +902,138 @@ export const allShows = [
   },
   {
     "artist": [
-      "Bright Eyes"
+      "Connor Price, Graham"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/776148",
+    "date": "2025-04-06T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "MAOLI"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/757051",
+    "date": "2025-04-08T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Bright Eyes, Cursive"
     ],
     "link": "https://www.agoracleveland.com/events/detail/647250",
     "date": "2025-04-09T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Gavin Adcock"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/656668",
+    "date": "2025-04-10T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Sammy Rae & The Friends"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/786777",
+    "date": "2025-04-13T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jack White"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/758882",
+    "date": "2025-04-16T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Dean Lewis"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/587201",
+    "date": "2025-04-17T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Remi Wolf, Dana and Alden"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/730312",
+    "date": "2025-04-19T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Danae Hays"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/707529",
+    "date": "2025-04-25T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "OK Go"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/822704",
+    "date": "2025-04-27T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "BoyWithUke, Ethan Bortnick"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/764323",
+    "date": "2025-04-28T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Alyssa Edwards"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/783062",
+    "date": "2025-05-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "JON ANDERSON And The Band Geeks"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/819510",
+    "date": "2025-05-02T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Fontaines D.C."
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/754557",
+    "date": "2025-05-08T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Ichiko Aoba"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/754616",
+    "date": "2025-05-10T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Amyl and The Sniffers, Sheer Mag"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/737422",
+    "date": "2025-05-13T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Smino, Samara Cyn"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/783532",
+    "date": "2025-06-17T18:00:00",
     "venue": "Agora"
   },
   {
@@ -1302,34 +1182,10 @@ export const allShows = [
   },
   {
     "artist": [
-      "Jon Spencer, The Sueves"
+      "Emo Night Karaoke!"
     ],
-    "link": "https://www.ticketweb.com/event/jon-spencer-the-sueves-musica-tickets/13389354",
-    "date": "2024-09-24T20:00:00",
-    "venue": "Musica Akron"
-  },
-  {
-    "artist": [
-      "Hippies & Cowboys, Revelry & Cassidy Daniels"
-    ],
-    "link": "https://www.ticketweb.com/event/hippies-cowboys-revelry-cassidy-musica-tickets/13575034",
-    "date": "2024-10-20T19:00:00",
-    "venue": "Musica Akron"
-  },
-  {
-    "artist": [
-      "The Menzingers"
-    ],
-    "link": "https://www.ticketweb.com/event/the-menzingers-musica-tickets/13698403",
-    "date": "2024-11-03T19:00:00",
-    "venue": "Musica Akron"
-  },
-  {
-    "artist": [
-      "Will Hoge, Jon Tyler Wiley"
-    ],
-    "link": "https://www.ticketweb.com/event/will-hoge-jon-tyler-wiley-musica-tickets/13530334",
-    "date": "2024-11-15T21:00:00",
+    "link": "https://www.ticketweb.com/event/emo-night-karaoke-musica-tickets/14168663",
+    "date": "2025-02-07T20:00:00",
     "venue": "Musica Akron"
   },
   {
@@ -3083,521 +2939,141 @@ export const allShows = [
   },
   {
     "artist": [
-      "Scream",
-      "Soulside",
-      "Whatever...",
-      "Whatever"
+      "Mushu",
+      "Eli Moon",
+      "Clechay",
+      "Air MC",
+      "CLEchay"
     ],
-    "link": "https://grogshop.gs/event-details/13551334/scream-soulside-whatever-",
-    "date": "2024-09-17T20:00:00",
+    "link": "https://grogshop.gs/tm-event/mushu-eli-moon-clechay-air-mc/",
+    "date": "2025-01-22",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "The Lemonheads: It\u2019s a Shame About C\u2019mon Feel Tour",
-      "John David Kent"
+      "Black Spirit Crown",
+      "Black Tar Superstar",
+      "Pathless"
     ],
-    "link": "https://grogshop.gs/event-details/13709343/the-lemonheads-it-s-a-shame-about-c-mon-feel-tour",
-    "date": "2024-09-18T20:00:00",
+    "link": "https://grogshop.gs/tm-event/black-spirit-crown-black-tar-superstar-pathless/",
+    "date": "2025-01-23",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "An Evening with Smoke Screen",
-      "DJ ESO"
+      "Pile",
+      "Hunden",
+      "Owney The Postal Dog"
     ],
-    "link": "https://grogshop.gs/event-details/13741883/an-evening-with-smoke-screen",
-    "date": "2024-09-19T20:00:00",
+    "link": "https://grogshop.gs/tm-event/pile/",
+    "date": "2025-01-24",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Joe P",
-      "Anna Shoemaker",
-      "Temple Brothers"
+      "Heights High Plays The Grog Shop Fundraiser"
     ],
-    "link": "https://grogshop.gs/event-details/13564274/joe-p",
-    "date": "2024-09-20T20:00:00",
+    "link": "https://grogshop.gs/tm-event/heights-high-plays-the-grog-shop-fundraiser/",
+    "date": "2025-01-25",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Foxing",
-      "From Indian Lakes",
-      "Molly O'Malley"
+      "Honeyland",
+      "Leadfoot Granny",
+      "The Super Babes"
     ],
-    "link": "https://grogshop.gs/event-details/13755673/foxing",
-    "date": "2024-09-21T20:30:00",
+    "link": "https://grogshop.gs/tm-event/honeyland-w-leadfoot-granny-the-super-babes/",
+    "date": "2025-01-25",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Tropical Fuck Storm",
-      "Michael Beach",
-      "Powers/Rolin Duo"
+      "Miguel Cafe",
+      "Guiche",
+      "Guy Snowden & The Citizens",
+      "Another Dead Rockstar"
     ],
-    "link": "https://grogshop.gs/event-details/13755883/tropical-fuck-storm",
-    "date": "2024-09-22T20:00:00",
+    "link": "https://grogshop.gs/tm-event/miguel-cafe-guiche-guy-snowden-the-citizens-another-dead-rockstar/",
+    "date": "2025-01-26",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
+      "End The War on Black America",
+      "Caesar Rio",
+      "Los P",
+      "Full 90"
     ],
-    "link": "https://grogshop.gs/event-details/13868663/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-09-23T20:00:00",
+    "link": "https://grogshop.gs/tm-event/end-the-war-on-black-america/",
+    "date": "2025-01-27",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Salad Days: A Decade of Punk in Washington DC (1980-1990)"
+      "Donny Bene\u0301t",
+      "Radderall",
+      "Slag Genie"
     ],
-    "link": "https://grogshop.gs/event-details/13902243/salad-days-a-decade-of-punk-in-washington-dc-1980-1990-",
-    "date": "2024-09-24T20:00:00",
+    "link": "https://grogshop.gs/tm-event/donny-benet/",
+    "date": "2025-01-28",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "The Juliana Hatfield Three",
-      "Xanny Stars"
+      "Flippant",
+      "Model Martel",
+      "DESKIR"
     ],
-    "link": "https://grogshop.gs/event-details/13564334/the-juliana-hatfield-three",
-    "date": "2024-09-25T20:00:00",
+    "link": "https://grogshop.gs/tm-event/flippant-model-martel/",
+    "date": "2025-01-30",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Mustard Plug with Special Guests Authority Zero and Something To Do"
+      "Mourning [A] BLKstar 10th Anniversary Celebration with Special Guests",
+      "Uno Lady",
+      "Nature Nvoke",
+      "Messiah In Glytch"
     ],
-    "link": "https://grogshop.gs/event-details/13432604/mustard-plug-with-special-guests-authority-zero-and-something-to-do",
-    "date": "2024-09-26T20:00:00",
+    "link": "https://grogshop.gs/tm-event/mourning-a-blkstar-10th-anniversary-celebration-with-special-guests/",
+    "date": "2025-01-31",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Pansy Division with Bev Rage & the Drinks",
-      "Slug Fest"
+      "Hello!3D",
+      "Community Shoe"
     ],
-    "link": "https://grogshop.gs/event-details/13487774/pansy-division-with-bev-rage-the-drinks",
-    "date": "2024-09-27T20:30:00",
+    "link": "https://grogshop.gs/tm-event/hello3d-community-shoe/",
+    "date": "2025-02-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "The War And Treaty",
-      "The Kentucky Gentlemen"
+      "Jae Skeese: Ground Level Tour '25",
+      "MC Tae",
+      "Player K",
+      "Aphiniti"
     ],
-    "link": "https://grogshop.gs/event-details/13532404/the-war-and-treaty",
-    "date": "2024-09-28T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Black Sabbitch",
-      "Pale Grey Lore"
-    ],
-    "link": "https://grogshop.gs/event-details/13794563/black-sabbitch",
-    "date": "2024-09-28T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Telekinetic Yeti",
-      "Bonginator",
-      "Black Spirit Crown"
-    ],
-    "link": "https://grogshop.gs/event-details/13887463/telekinetic-yeti-bonginator-black-spirit-crown",
-    "date": "2024-09-29T20:00:00",
+    "link": "https://grogshop.gs/tm-event/jae-skeese-ground-level-tour-25/",
+    "date": "2025-02-02",
     "venue": "Grog Shop"
   },
   {
     "artist": [
       "Make Em Laugh Mondays Hosted By Kevin Ford"
     ],
-    "link": "https://grogshop.gs/event-details/13868653/make-em-laugh-mondays-hosted-by-kevin-ford",
-    "date": "2024-09-30T20:00:00",
+    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford/",
+    "date": "2025-02-03",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "John Early: The Album Tour"
+      "Midnight Rental presents Secret Movie Night"
     ],
-    "link": "https://grogshop.gs/event-details/13564974/john-early-the-album-tour",
-    "date": "2024-10-02T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Saosin",
-      "HOSTA"
-    ],
-    "link": "https://grogshop.gs/event-details/13808513/saosin",
-    "date": "2024-10-03T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: Haunted Hoedown",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13484314/glamgore-haunted-hoedown",
-    "date": "2024-10-04T21:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Yard Act",
-      "Omni"
-    ],
-    "link": "https://grogshop.gs/event-details/13487493/yard-act",
-    "date": "2024-10-05T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Nil\u00fcfer Yanya",
-      "Angelica Garcia",
-      "Lutalo"
-    ],
-    "link": "https://grogshop.gs/event-details/13503104/nil-fer-yanya",
-    "date": "2024-10-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Blu DeTiger \"All I Ever Want Is...\" Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13756003/blu-detiger-all-i-ever-want-is-tour",
-    "date": "2024-10-07T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "AUGUSTANA SOMETHING BEAUTIFUL TOUR",
-      "verygently"
-    ],
-    "link": "https://grogshop.gs/event-details/13827183/augustana-something-beautiful-tour",
-    "date": "2024-10-08T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Polish Ambassador",
-      "Otterbahn",
-      "Haydees",
-      "Derek Post"
-    ],
-    "link": "https://grogshop.gs/event-details/13790453/the-polish-ambassador",
-    "date": "2024-10-09T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Phantom Planet"
-    ],
-    "link": "https://grogshop.gs/event-details/13834683/phantom-planet",
-    "date": "2024-10-10T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Carlos Jones (+)"
-    ],
-    "link": "https://grogshop.gs/event-details/13585474/carlos-jones-",
-    "date": "2024-10-12T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "6arelyhuman: The Sassy Scene Tour",
-      "That Kid"
-    ],
-    "link": "https://grogshop.gs/event-details/13563964/6arelyhuman-the-sassy-scene-tour",
-    "date": "2024-10-13T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Kishi Bashi",
-      "Sweet Loretta"
-    ],
-    "link": "https://grogshop.gs/event-details/13505064/kishi-bashi",
-    "date": "2024-10-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Acid Mothers Temple",
-      "Spirit Mother"
-    ],
-    "link": "https://grogshop.gs/event-details/13474624/acid-mothers-temple",
-    "date": "2024-10-16T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Gel",
-      "MSPAINT",
-      "Destiny Bond",
-      "The Mall"
-    ],
-    "link": "https://grogshop.gs/event-details/13826513/gel",
-    "date": "2024-10-17T19:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Boris \u201cAmplifier Worship Service\u201d: performing Amplifier Worship in its entirety",
-      "Starcrawler"
-    ],
-    "link": "https://grogshop.gs/event-details/13443644/boris-amplifier-worship-service-performing-amplifier-worship-in-its-entirety",
-    "date": "2024-10-17T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Evan Honer: North America 2024: Nowhere Fast Tour",
-      "Brendan Walter"
-    ],
-    "link": "https://grogshop.gs/event-details/13381834/evan-honer-north-america-2024-nowhere-fast-tour",
-    "sold_out": true,
-    "date": "2024-10-18T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Brooke Candy",
-      "Namasenda",
-      "Tash Blake"
-    ],
-    "link": "https://grogshop.gs/event-details/13731993/brooke-candy",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "HULDER \"WINDS OF AUTUMNAL SORROW\" TOUR",
-      "One of Nine"
-    ],
-    "link": "https://grogshop.gs/event-details/13870143/hulder-winds-of-autumnal-sorrow-tour",
-    "date": "2024-10-19T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Devin The Dude",
-      "Kamakazi Kenji.",
-      "Dj Scottradamus",
-      "Jay Casso",
-      "DJ Cooley High",
-      "Swank"
-    ],
-    "link": "https://grogshop.gs/event-details/13844083/devin-the-dude",
-    "date": "2024-10-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Hinds",
-      "The Happy Return"
-    ],
-    "link": "https://grogshop.gs/event-details/13487344/hinds",
-    "date": "2024-10-22T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Midnight Rental Presents Secret Movie Night",
-      "Ghoulish Gary Pullen"
-    ],
-    "link": "https://grogshop.gs/event-details/13573154/midnight-rental-presents-secret-movie-night",
-    "date": "2024-10-23T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Babylon: Beautiful Memories 1st USA Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13835463/babylon-beautiful-memories-1st-usa-tour",
-    "date": "2024-10-24T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Halloween Havoc ft. Willy J. Peso",
-      "Nuke Franklin",
-      "CTUCK",
-      "Armand Rashad",
-      "Big Boss Dev",
-      "DJ Cooley High"
-    ],
-    "link": "https://grogshop.gs/event-details/13895123/halloween-havoc-ft-willy-j-peso",
-    "date": "2024-10-25T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Pop Punk Halloween with TRUSS (Paramore), Grant (Weezer), & Tall Grass (Green Day)"
-    ],
-    "link": "https://grogshop.gs/event-details/13835653/pop-punk-halloween-with-truss-paramore-grant-weezer-tall-grass-green-day-",
-    "date": "2024-10-26T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Daniel Nunnelee: June",
-      "Baby Fall Tour",
-      "Hana Eid"
-    ],
-    "link": "https://grogshop.gs/event-details/13550214/daniel-nunnelee-june-baby-fall-tour",
-    "date": "2024-10-27T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Brother Elsey: A Jar Full of Lighting Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13691333/brother-elsey-a-jar-full-of-lighting-tour",
-    "date": "2024-10-31T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: The Villain Eras Tour",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13484354/glamgore-the-villain-eras-tour",
-    "date": "2024-11-01T21:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Vibe in Horror 3",
-      "Sugar Nova",
-      "Vibe & Direct",
-      "Wanyama",
-      "Rubix Groove",
-      "AllTheHipe",
-      "Astral Housefly",
-      "Golden Marmoset",
-      "Gooru",
-      "Ziggy D",
-      "Alter Ethos"
-    ],
-    "link": "https://grogshop.gs/event-details/13585294/vibe-in-horror-3",
-    "date": "2024-11-02T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Blitzen Trapper",
-      "Louisa Stancioff"
-    ],
-    "link": "https://grogshop.gs/event-details/13777373/blitzen-trapper",
-    "date": "2024-11-04T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Lauren Sanderson: Girl From The Internet Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13827043/lauren-sanderson-girl-from-the-internet-tour",
-    "date": "2024-11-06T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Oxlade: Oxlade From Africa Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13583034/oxlade-oxlade-from-africa-tour",
-    "date": "2024-11-07T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Cameron Esposito"
-    ],
-    "link": "https://grogshop.gs/event-details/13852933/cameron-esposito",
-    "date": "2024-11-08T19:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Michigander",
-      "Cece Coakley"
-    ],
-    "link": "https://grogshop.gs/event-details/13709143/michigander",
-    "date": "2024-11-09T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "03 Greedo: The Life I Deserve Tour"
-    ],
-    "link": "https://grogshop.gs/event-details/13754913/03-greedo-the-life-i-deserve-tour",
-    "date": "2024-11-12T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Peezy & IceWear Vezzo"
-    ],
-    "link": "https://grogshop.gs/event-details/13834873/peezy-icewear-vezzo",
-    "date": "2024-11-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Baby Kia",
-      "MAF Teeski"
-    ],
-    "link": "https://grogshop.gs/event-details/13584814/baby-kia",
-    "date": "2024-11-14T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Cris Jacobs",
-      "The Way Down Wanderers"
-    ],
-    "link": "https://grogshop.gs/event-details/13555344/cris-jacobs",
-    "date": "2024-11-15T21:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Anthony Raneri: The Everyday Royalty Tour",
-      "Nate Bergman"
-    ],
-    "link": "https://grogshop.gs/event-details/13853173/anthony-raneri-the-everyday-royalty-tour",
-    "date": "2024-11-20T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "ACO: A Tribute to Rob Williams"
-    ],
-    "link": "https://grogshop.gs/event-details/13592294/aco-a-tribute-to-rob-williams",
-    "date": "2024-11-26T20:00:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Forest Blakk"
-    ],
-    "link": "https://grogshop.gs/event-details/13544804/forest-blakk",
-    "date": "2024-11-30T20:30:00",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: Hairy",
-      "Scary",
-      "& Feral",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/event-details/13484334/glamgore-hairy-scary-feral",
-    "date": "2024-12-13T21:30:00",
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
+    "date": "2025-02-05",
     "venue": "Grog Shop"
   },
   {
@@ -3605,24 +3081,499 @@ export const allShows = [
       "Tim Heidecker: Slipping Away Tour",
       "Neil Hamburger"
     ],
-    "link": "https://grogshop.gs/event-details/13586114/tim-heidecker-slipping-away-tour",
-    "date": "2025-02-05T20:00:00",
+    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
+    "date": "2025-02-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Lunar Vacation"
+      "Wig Doubt",
+      "Honeybee",
+      "funeral commercial"
     ],
-    "link": "https://grogshop.gs/event-details/13582664/lunar-vacation",
-    "date": "2025-02-08T20:30:00",
+    "link": "https://grogshop.gs/tm-event/wig-doubt-honeybee/",
+    "date": "2025-02-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: xX Cupid's Rejects Xx",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/tm-event/glamgore-2/",
+    "date": "2025-02-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Lunar Vacation",
+      "Tasha"
+    ],
+    "link": "https://grogshop.gs/tm-event/lunar-vacation/",
+    "date": "2025-02-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Pop Out Concert with Trappy",
+      "Catherine dannille",
+      "Tizzy mak",
+      "Loko the d3mon",
+      "F.A.C.T.S",
+      "Payso"
+    ],
+    "link": "https://grogshop.gs/tm-event/pop-out-concert-with-trappy/",
+    "date": "2025-02-09",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Willow Avalon",
+      "Zandi Holup",
+      "Darryl Rahn"
+    ],
+    "link": "https://grogshop.gs/tm-event/willow-avalon/",
+    "date": "2025-02-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Jarv: Rap 101 Tour",
+      "King Green",
+      "Damn Skippy"
+    ],
+    "link": "https://grogshop.gs/tm-event/jarv-rap-101-tour/",
+    "date": "2025-02-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Faith & Whiskey"
+    ],
+    "link": "https://grogshop.gs/tm-event/faith-whiskey/",
+    "date": "2025-02-15",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Cabin Fever Family Friendly Fundraiser"
+    ],
+    "link": "https://grogshop.gs/tm-event/cabin-fever-family-friendly-fundraiser/",
+    "date": "2025-02-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Skinny Lister",
+      "Jared Hart",
+      "Sick City"
+    ],
+    "link": "https://grogshop.gs/tm-event/skinny-lister/",
+    "date": "2025-02-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-2/",
+    "date": "2025-02-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Get Up Kids: 25 Years of Something To Write Home About",
+      "The Anniversary"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-get-up-kids-25-years-of-something-to-write-home-about/",
+    "date": "2025-02-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Rust County Revival",
+      "Mudhouse Gang",
+      "Rachel Shortt"
+    ],
+    "link": "https://grogshop.gs/tm-event/rust-county-revival-mudhouse-gang-rachel-shortt/",
+    "date": "2025-02-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Suitor",
+      "FUSS",
+      "Posture",
+      "Regas-McDonald"
+    ],
+    "link": "https://grogshop.gs/tm-event/suitor-posture-regas-mcdonald/",
+    "date": "2025-02-21",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Maiden Voyage",
+      "Rip Ryde"
+    ],
+    "link": "https://grogshop.gs/tm-event/maiden-voyage-rip-ryde/",
+    "date": "2025-02-22",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "COCHISE",
+      "TisaKorean"
+    ],
+    "link": "https://grogshop.gs/tm-event/cochise/",
+    "date": "2025-02-23",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "ACO: A Tribute to Rob Williams"
+    ],
+    "link": "https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/",
+    "date": "2025-02-25",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "death's dynamic shroud",
+      "Powers",
+      "Rolin Duo",
+      "Moth Cock"
+    ],
+    "link": "https://grogshop.gs/tm-event/deaths-dynamic-shroud-powers-rolin-duo-moth-cock/",
+    "date": "2025-02-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Joe Samba",
+      "Dale and the Z Dubs"
+    ],
+    "link": "https://grogshop.gs/tm-event/joe-samba/",
+    "date": "2025-02-27",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Rustbelt Ripperfest III: Day Two"
+    ],
+    "link": "https://grogshop.gs/tm-event/rustbelt-ripperfest-iii/",
+    "date": "2025-02-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "::TWO-DAY PASS:: LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!"
+    ],
+    "link": "https://grogshop.gs/tm-event/two-day-pass-live-on-stage-jonathan-richman-featuring-tommy-larkins-on-the-drums/",
+    "date": "2025-02-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!"
+    ],
+    "link": "https://grogshop.gs/tm-event/live-on-stage-jonathan-richman-featuring-tommy-larkins-on-the-drums/",
+    "date": "2025-02-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "RIPPERFEST FLEA MARKET!"
+    ],
+    "link": "https://grogshop.gs/tm-event/ripper-flea-market/",
+    "date": "2025-03-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Rustbelt Ripperfest III: Day Three"
+    ],
+    "link": "https://grogshop.gs/tm-event/rustbelt-ripperfest-iii-2/",
+    "date": "2025-03-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!"
+    ],
+    "link": "https://grogshop.gs/tm-event/live-on-stage-jonathan-richman-featuring-tommy-larkins-on-the-drums-2/",
+    "date": "2025-03-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Ted Leo and the Pharmacists: Shake The Sheets 20th Anniversary",
+      "Shonali"
+    ],
+    "link": "https://grogshop.gs/tm-event/ted-leo-and-the-pharmacists-shake-the-sheets-20th-anniversary/",
+    "date": "2025-03-02",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: American Horror Story",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/tm-event/glamgore-american-horror-story/",
+    "date": "2025-03-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "James Begin and Friends",
+      "Rubix Groove",
+      "Jinari Kemet",
+      "AllTheHipe",
+      "Astral Housefly",
+      "Ciix"
+    ],
+    "link": "https://grogshop.gs/tm-event/james-begin-and-friends/",
+    "date": "2025-03-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Catch 22",
+      "Rude Staff Checkers"
+    ],
+    "link": "https://grogshop.gs/tm-event/catch-22-with-special-guests/",
+    "date": "2025-03-09",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Grandvie",
+      "Hanging Johnny",
+      "Ryan Hetrick & The Electric"
+    ],
+    "link": "https://grogshop.gs/tm-event/grandview-hanging-johnny-ryan-hetrick-the-electric/",
+    "date": "2025-03-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sk8rt Art Show & Benefit Concert for Rainbow Babies & Children's Hospital",
+      "Muzzle",
+      "Mikey Machine",
+      "Pill Time",
+      "Pig Rides",
+      "Kill The Hippies",
+      "T.A.C.K.",
+      "The Kilroys"
+    ],
+    "link": "https://grogshop.gs/tm-event/sk8rt-art-show-benefit-concert-for-rainbow-babies-childrens-hospital/",
+    "date": "2025-03-15",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Lesser Care"
+    ],
+    "link": "https://grogshop.gs/tm-event/lesser-care/",
+    "date": "2025-03-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Ally The Piper: Spring Tour 2025"
+    ],
+    "link": "https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/",
+    "date": "2025-03-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Skating Polly",
+      "Gully Boys",
+      "The Super Babes"
+    ],
+    "link": "https://grogshop.gs/tm-event/skating-polly-gully-boys/",
+    "date": "2025-03-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Slum Village",
+      "Vice Souletric",
+      "Will Cherry",
+      "and Eman Jones",
+      "Mynameisbravo",
+      "DJ Walk"
+    ],
+    "link": "https://grogshop.gs/tm-event/slum-village-w-vice-souletric-and-will-cherry/",
+    "date": "2025-03-21",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Reggie Watts Live"
+    ],
+    "link": "https://grogshop.gs/tm-event/reggie-watts-live/",
+    "date": "2025-04-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Starset"
+    ],
+    "link": "https://grogshop.gs/tm-event/starset/",
+    "date": "2025-04-08",
     "venue": "Grog Shop"
   },
   {
     "artist": [
       "Bright Eyes"
     ],
-    "link": "https://grogshop.gs/event-details/13809123/bright-eyes",
-    "date": "2025-04-09T19:30:00",
+    "link": "https://grogshop.gs/tm-event/bright-eyes/",
+    "date": "2025-04-09",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: The Witch Ball",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/tm-event/glamgore-the-witch-ball/",
+    "date": "2025-04-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sawyer Hill"
+    ],
+    "link": "https://grogshop.gs/tm-event/sawyer-hill/",
+    "date": "2025-04-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Slackfest Cleveland: Two Night Pass"
+    ],
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
+    "date": "2025-04-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Slackfest Cleveland: Night 1"
+    ],
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
+    "date": "2025-04-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Slackfest Cleveland: Night 2"
+    ],
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-2/",
+    "date": "2025-04-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Ben Kweller: Cover The Mirrors Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/ben-kweller-cover-the-mirrors-tour/",
+    "date": "2025-04-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "OK Go"
+    ],
+    "link": "https://grogshop.gs/tm-event/ok-go/",
+    "date": "2025-04-27",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Bob Mould Band: Here We Go Crazy"
+    ],
+    "link": "https://grogshop.gs/tm-event/bob-mould-band-here-we-go-crazy/",
+    "date": "2025-04-29",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Michigan Rattlers"
+    ],
+    "link": "https://grogshop.gs/tm-event/michigan-rattlers/",
+    "date": "2025-04-30",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Nada Surf: Moon Mirror Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/nada-surf-moon-mirror-tour/",
+    "date": "2025-05-02",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Youth Lagoon: Rarely Do I Dream Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/youth-lagoon-rarely-do-i-dream-tour/",
+    "date": "2025-05-03",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: Everybody Hates Anhedonia",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/tm-event/glamgore-everybody-hates-anhedonia/",
+    "date": "2025-05-09",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Napalm Death and Melvins: Savage Imperial Death March Part II",
+      "Titan To Tachyons",
+      "Dark Sky Burial"
+    ],
+    "link": "https://grogshop.gs/tm-event/napalm-death-and-melvins-savage-imperial-death-march-part-ii/",
+    "date": "2025-05-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "A Place To Bury Strangers",
+      "The Serfs",
+      "The Mall"
+    ],
+    "link": "https://grogshop.gs/tm-event/a-place-to-bury-strangers/",
+    "date": "2025-05-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "MIKE"
+    ],
+    "link": "https://grogshop.gs/tm-event/mike/",
+    "date": "2025-05-27",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Wedding Present: Bizarro 35th Anniversary Tour",
+      "The Tubs"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-wedding-present-bizarro-35th-anniversary-tour/",
+    "date": "2025-05-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: 7th Annual Pride on the East Side",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/tm-event/glamgore-7th-annual-pride-on-the-east-side/",
+    "date": "2025-06-06",
     "venue": "Grog Shop"
   },
   {

@@ -17,9 +17,11 @@ for show in shows:
   artist = show.find('h3', class_='css-1ptng6s')
   link = show.find('a', class_='css-1q2nroc')
   date = show.find('time')
-  if artist.text.strip() == '2024 Season Tickets':
+  if artist.text.strip() == '2025 Season Tickets':
     ...
-  elif artist.text.strip() == '2024 Premium Season Tickets':
+  elif artist.text.strip() == '2025 Premium Season Tickets':
+    ...
+  elif artist.text.strip() == '2025 Premium Season Tickets Wait List':
     ...
   else:
     all_shows_data['artist'] = [artist.text.strip().replace(' - ', ': ')]

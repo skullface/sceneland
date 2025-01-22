@@ -17,9 +17,13 @@ for show in shows:
   all_shows_data = {} 
   
   headliner = show.find('div', class_='tw-name')
-  opener = show.find('div', class_='tw-opening-act')
+  opener = show.find('div', class_='tw-attractions')
   headlinerz = headliner.text.strip().replace('w / ', ', ').replace('w/ ', ', ').replace(' / / ', ', ').replace(' // ', ', ').replace(' / ', ', ').replace(' - ', ': ').replace(' – ', ': ')
-  artists_with_openers = [headlinerz + ', ' + opener.text.strip().replace('w/ ', '').replace(' / ', ', ')]
+
+  if opener and opener.text.strip():  # This checks both if opener exists and has non-empty text
+      artists_with_openers = [headlinerz + ', ' + opener.text.strip().replace('w/ ', '').replace(' / ', ', ')]
+  else:
+      artists_with_openers = [headlinerz]
 
   # Create an ordered dictionary to store unique artist names
   unique_artists_dict = OrderedDict()
@@ -35,10 +39,7 @@ for show in shows:
   # Convert the ordered dictionary keys back to a list
   artists_with_openers_clean = list(unique_artists_dict.keys())
 
-  if opener.text.strip() == '':
-    all_shows_data['artist'] = [headlinerz]
-  else:
-    all_shows_data['artist'] = artists_with_openers_clean
+  all_shows_data['artist'] = artists_with_openers_clean
 
   for link_element in show.findAll('a'):
     if link_element.parent == headliner:
@@ -49,7 +50,6 @@ for show in shows:
     all_shows_data['sold_out'] = True
 
   date = show.find('span', class_='tw-event-date').text.strip()
-  time = show.find('span', class_='tw-event-time').text.strip()
   weekday, month, day = date.split()
   month_number = datetime.strptime(month, '%b').month
 
@@ -63,8 +63,7 @@ for show in shows:
 
   date = date + ' ' + str(year)
   date = datetime.strptime(date, '%a, %b %d %Y')
-  time = datetime.strptime(time, '%I:%M %p').time()
-  all_shows_data['date'] = str(date).split(' ', 1)[0] + 'T' + str(time)
+  all_shows_data['date'] = str(date).split(' ', 1)[0]
 
   all_shows_data['venue'] = 'Grog Shop'
   all_shows_list.append(all_shows_data)

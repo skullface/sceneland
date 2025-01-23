@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sungazer"
-    ],
-    "link": "https://link.dice.fm/ab33ed6c11e6?dice_id=ab33ed6c11e6",
-    "date": "2025-01-22T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "LILIEAE"
     ],
     "link": "https://link.dice.fm/P2dd1319d9b7?dice_id=P2dd1319d9b7",
@@ -145,19 +137,19 @@
   },
   {
     "artist": [
-      "Twiztid"
-    ],
-    "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
-    "date": "2025-02-15T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Matt Corman and Ollie Joseph"
     ],
     "link": "https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d",
     "date": "2025-02-15T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Twiztid"
+    ],
+    "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
+    "date": "2025-02-15T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -207,14 +199,6 @@
     "link": "https://link.dice.fm/h55903ed92c9?dice_id=h55903ed92c9",
     "date": "2025-02-21T20:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Max Frost"
-    ],
-    "link": "https://link.dice.fm/Mf611a422460?dice_id=Mf611a422460",
-    "date": "2025-02-22T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

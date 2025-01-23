@@ -49,10 +49,26 @@
   },
   {
     "artist": [
+      "GRAND RE-OPENING PARTY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/grand-re-opening-party/",
+    "date": "2025-02-14T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "ANTI-VALENTINES DAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anti-valentines-day/",
     "date": "2025-02-15T17:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Personality Crisis: Cle Punk Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night/",
+    "date": "2025-02-18T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -89,6 +105,14 @@
   },
   {
     "artist": [
+      "Personality Crisis: Cle Punk Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-2/",
+    "date": "2025-02-25T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Earthside"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/earthside/",
@@ -121,10 +145,18 @@
   },
   {
     "artist": [
-      "Oxjaw"
+      "Personality Crisis: Cle Punk Night"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/oxjaw/",
-    "date": "2025-03-08T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-3/",
+    "date": "2025-03-04T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Personality Crisis: Cle Punk Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-4/",
+    "date": "2025-03-11T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -133,6 +165,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/",
     "date": "2025-03-15T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Personality Crisis: Cle Punk Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/",
+    "date": "2025-03-18T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -165,6 +205,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/mosquito-bitten-bastards-irewyrm-clouds-over-midgar-deviationists/",
     "date": "2025-05-17T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "The Flying Grey Suns, Free Drew, Guiche, Exhale"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/",
+    "date": "2025-05-30T19:00:00",
     "venue": "Foundry"
   }
 ]

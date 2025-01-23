@@ -98,12 +98,6 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ["Me'shell Ndeg\u00e9ocello"],
-    link: 'https://www.agoracleveland.com/events/detail/752782',
-    date: '2025-01-22T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Nile & Six Feet Under, Psycroptic, Embryonic Autopsy'],
     link: 'https://www.agoracleveland.com/events/detail/621460',
     date: '2025-01-23T18:00:00',
@@ -454,6 +448,12 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
+    artist: ['The Joe Brown Band'],
+    link: 'https://www.ticketweb.com/event/the-joe-brown-band-the-winchester-tickets/14212423',
+    date: '2025-02-09T20:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
     artist: ['Valentine\u2019s Paint & Sip'],
     link: 'https://www.ticketweb.com/event/valentines-paint-sip-the-winchester-tickets/14165263',
     date: '2025-02-13T18:30:00',
@@ -528,7 +528,7 @@ export const allShows = [
   {
     artist: ['Have Mercy'],
     link: 'https://www.ticketweb.com/event/have-mercy-the-winchester-tickets/13997443',
-    date: '2025-03-11T20:00:00',
+    date: '2025-03-11T19:30:00',
     venue: 'Winchester Tavern',
   },
   {
@@ -590,12 +590,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793',
     date: '2025-05-16T20:00:00',
     venue: 'Winchester Tavern',
-  },
-  {
-    artist: ['Sungazer'],
-    link: 'https://link.dice.fm/ab33ed6c11e6?dice_id=ab33ed6c11e6',
-    date: '2025-01-22T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['LILIEAE'],
@@ -700,16 +694,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Twiztid'],
-    link: 'https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7',
-    date: '2025-02-15T19:00:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Matt Corman and Ollie Joseph'],
     link: 'https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d',
     date: '2025-02-15T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Twiztid'],
+    link: 'https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7',
+    date: '2025-02-15T19:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Love Club: an all out 2010\u2019s night'],
@@ -747,12 +741,6 @@ export const allShows = [
     link: 'https://link.dice.fm/h55903ed92c9?dice_id=h55903ed92c9',
     date: '2025-02-21T20:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Max Frost'],
-    link: 'https://link.dice.fm/Mf611a422460?dice_id=Mf611a422460',
-    date: '2025-02-22T18:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Make Them Suffer'],
@@ -1149,10 +1137,10 @@ export const allShows = [
       'Blues for DC Carnes',
       'The Madison Crawl',
       'Ball and Chain',
-      'The Beamers featuring Jack Charlton',
+      'The Beameros featuring Jack Charlton',
       "Austin Walkin' Cane",
     ],
-    link: 'https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beamers-featuring-jack-charlton-austin-walkin-cane',
+    link: 'https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-austin-walkin-cane',
     date: '2025-02-20T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1193,8 +1181,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['Saxsquatch'],
-    link: 'https://www.beachlandballroom.com/e/13966093/saxsquatch',
+    artist: ['Saxsquatch', 'Uncle Gnarly'],
+    link: 'https://www.beachlandballroom.com/e/13966093/saxsquatch-uncle-gnarly',
     date: '2025-02-25T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1263,16 +1251,16 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Into The Blue'],
+    link: 'https://www.beachlandballroom.com/e/14208973/into-the-blue',
+    date: '2025-03-07T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Andy Frasco & The U.N.', 'Melt'],
     link: 'https://www.beachlandballroom.com/e/13992363/andy-frasco-the-u-n-melt',
     date: '2025-03-08T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Satsang', 'Sierra Marin'],
-    link: 'https://www.beachlandballroom.com/e/14008003/satsang-sierra-marin',
-    date: '2025-03-08T20:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ["Daniel Donato's Cosmic Country"],
@@ -1324,12 +1312,6 @@ export const allShows = [
   {
     artist: ['Mike Farris'],
     link: 'https://www.beachlandballroom.com/e/14124443/mike-farris',
-    date: '2025-03-17T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Into The Blue'],
-    link: 'https://www.beachlandballroom.com/e/14208973/into-the-blue',
     date: '2025-03-17T20:00:00',
     venue: 'Beachland Tavern',
   },
@@ -1471,6 +1453,12 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
+    artist: ['Circuit Des Yeux', 'LEYA'],
+    link: 'https://www.beachlandballroom.com/e/14159403/circuit-des-yeux-leya',
+    date: '2025-04-18T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['The Wonderlands', 'Loconti'],
     link: 'https://www.beachlandballroom.com/e/14056123/the-wonderlands-loconti',
     date: '2025-04-19T20:00:00',
@@ -1576,13 +1564,12 @@ export const allShows = [
       'The Moray',
       "Robber's Roost",
       'Bryan Raymond',
-      'Noble Hobo',
       'Gold String Valley',
       'Iris Marlowe',
       'House of Wills',
       'Fuckin\u2019 Nothin\u2019',
     ],
-    link: 'https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-noble-hobo-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-',
+    link: 'https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-',
     date: '2025-05-04T13:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -1615,12 +1602,6 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/14137353/diesel-boy-nerf-herder-keep-flying-the-a-10s',
     date: '2025-05-25T20:00:00',
     venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Joy Oladokun: The Blackbird Tour'],
-    link: 'https://concerts.livenation.com/joy-oladokun-the-blackbird-tour-cleveland-ohio-01-22-2025/event/0500613BA8B25742',
-    date: '2025-01-22T19:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ["The Mega 80's"],
@@ -1770,6 +1751,24 @@ export const allShows = [
     artist: ['Cold'],
     link: 'https://concerts.livenation.com/cold-cleveland-ohio-04-03-2025/event/05006222DF7A2AF1',
     date: '2025-04-03T18:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Bayside: 25th Anniversary: The Errors Tour: 2 Day Ticket'],
+    link: 'https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A87F1B30',
+    date: '2025-04-04T00:00:01',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Bayside: 25th Anniversary: The Errors Tour'],
+    link: 'https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A7581AFE',
+    date: '2025-04-04T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Bayside: 25th Anniversary: The Errors Tour'],
+    link: 'https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-05-2025/event/05006229A7D11B20',
+    date: '2025-04-05T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -2151,9 +2150,21 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['GRAND RE-OPENING PARTY'],
+    link: 'https://www.foundryconcertclub.com/tm-event/grand-re-opening-party/',
+    date: '2025-02-14T17:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['ANTI-VALENTINES DAY'],
     link: 'https://www.foundryconcertclub.com/tm-event/anti-valentines-day/',
     date: '2025-02-15T17:30:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Personality Crisis: Cle Punk Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night/',
+    date: '2025-02-18T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -2181,6 +2192,12 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Personality Crisis: Cle Punk Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-2/',
+    date: '2025-02-25T21:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Earthside'],
     link: 'https://www.foundryconcertclub.com/tm-event/earthside/',
     date: '2025-02-26T19:00:00',
@@ -2205,15 +2222,27 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Oxjaw'],
-    link: 'https://www.foundryconcertclub.com/tm-event/oxjaw/',
-    date: '2025-03-08T19:00:00',
+    artist: ['Personality Crisis: Cle Punk Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-3/',
+    date: '2025-03-04T21:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Personality Crisis: Cle Punk Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-4/',
+    date: '2025-03-11T21:00:00',
     venue: 'Foundry',
   },
   {
     artist: ['Heart to Gold, Enumclaw, Oolong'],
     link: 'https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/',
     date: '2025-03-15T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Personality Crisis: Cle Punk Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/',
+    date: '2025-03-18T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -2240,6 +2269,12 @@ export const allShows = [
     ],
     link: 'https://www.foundryconcertclub.com/tm-event/mosquito-bitten-bastards-irewyrm-clouds-over-midgar-deviationists/',
     date: '2025-05-17T19:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['The Flying Grey Suns, Free Drew, Guiche, Exhale'],
+    link: 'https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/',
+    date: '2025-05-30T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -2596,6 +2631,12 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
+    artist: ['Nine Inch Nails \u2013 Peel It Back Tour 2025'],
+    link: 'https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831',
+    date: '2025-08-31',
+    venue: 'Rocket Mortgage FieldHouse',
+  },
+  {
     artist: ['N69 FEST'],
     link: 'https://www.eventbrite.com/e/n69-fest-tickets-788633583277',
     date: '2024-03-09T16:00:00',
@@ -2802,12 +2843,6 @@ export const allShows = [
     link: 'https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207',
     date: '2024-03-17T16:00:00',
     venue: 'Happy Dog',
-  },
-  {
-    artist: ['Mushu', 'Eli Moon', 'Clechay', 'Air MC', 'CLEchay'],
-    link: 'https://grogshop.gs/tm-event/mushu-eli-moon-clechay-air-mc/',
-    date: '2025-01-22',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Black Spirit Crown', 'Black Tar Superstar', 'Pathless'],
@@ -2816,7 +2851,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Pile', 'Hunden', 'Owney The Postal Dog'],
+    artist: ['Pile', 'Owney The Postal Dog', 'Hunden'],
     link: 'https://grogshop.gs/tm-event/pile/',
     date: '2025-01-24',
     venue: 'Grog Shop',
@@ -2897,14 +2932,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
+    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
+    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
-    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
@@ -3115,6 +3150,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Aaron Smith & RDAA', 'Smokeface'],
+    link: 'https://grogshop.gs/tm-event/aaron-smith-rdaa-smokeface/',
+    date: '2025-03-14',
+    venue: 'Grog Shop',
+  },
+  {
     artist: [
       "Sk8rt Art Show & Benefit Concert for Rainbow Babies & Children's Hospital",
       'Muzzle',
@@ -3158,6 +3199,12 @@ export const allShows = [
     ],
     link: 'https://grogshop.gs/tm-event/slum-village-w-vice-souletric-and-will-cherry/',
     date: '2025-03-21',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Sonido Gallo Negro'],
+    link: 'https://grogshop.gs/tm-event/sonido-gallo-negro/',
+    date: '2025-03-25',
     venue: 'Grog Shop',
   },
   {

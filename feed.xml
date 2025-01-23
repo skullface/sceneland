@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jan 2025 09:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 09:05:38 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Emo Night Karaoke! at Musica Akron]]></title>
@@ -117,13 +117,6 @@
             <link>/events/detail?event_id=525985</link>
             <guid isPermaLink="true">/events/detail?event_id=525985</guid>
             <pubDate>Tue, 03 Sep 2024 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Me'shell Ndegéocello at Agora]]></title>
-            <description><![CDATA[Get tickets to Me'shell Ndegéocello at Agora on Wednesday, January 22, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/752782]]></description>
-            <link>https://www.agoracleveland.com/events/detail/752782</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/752782</guid>
-            <pubDate>Wed, 22 Jan 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nile & Six Feet Under, Psycroptic, Embryonic Autopsy at Agora]]></title>
@@ -532,6 +525,13 @@
             <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Joe Brown Band at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to The Joe Brown Band at Winchester Tavern on Sunday, February 9, 2025, 08:00 PM: https://www.ticketweb.com/event/the-joe-brown-band-the-winchester-tickets/14212423]]></description>
+            <link>https://www.ticketweb.com/event/the-joe-brown-band-the-winchester-tickets/14212423</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/the-joe-brown-band-the-winchester-tickets/14212423</guid>
+            <pubDate>Sun, 09 Feb 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Valentine’s Paint & Sip at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to Valentine’s Paint & Sip at Winchester Tavern on Thursday, February 13, 2025, 06:30 PM: https://www.ticketweb.com/event/valentines-paint-sip-the-winchester-tickets/14165263]]></description>
             <link>https://www.ticketweb.com/event/valentines-paint-sip-the-winchester-tickets/14165263</link>
@@ -617,10 +617,10 @@
         </item>
         <item>
             <title><![CDATA[Have Mercy at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Have Mercy at Winchester Tavern on Tuesday, March 11, 2025, 08:00 PM: https://www.ticketweb.com/event/have-mercy-the-winchester-tickets/13997443]]></description>
+            <description><![CDATA[Get tickets to Have Mercy at Winchester Tavern on Tuesday, March 11, 2025, 07:30 PM: https://www.ticketweb.com/event/have-mercy-the-winchester-tickets/13997443]]></description>
             <link>https://www.ticketweb.com/event/have-mercy-the-winchester-tickets/13997443</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/have-mercy-the-winchester-tickets/13997443</guid>
-            <pubDate>Tue, 11 Mar 2025 20:00:00 GMT</pubDate>
+            <pubDate>Tue, 11 Mar 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BUZZN at Winchester Tavern]]></title>
@@ -691,13 +691,6 @@
             <link>https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793</guid>
             <pubDate>Fri, 16 May 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sungazer at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Sungazer at Mahall’s on Thursday, January 23, 2025, 12:00 AM: https://link.dice.fm/ab33ed6c11e6?dice_id=ab33ed6c11e6]]></description>
-            <link>https://link.dice.fm/ab33ed6c11e6?dice_id=ab33ed6c11e6</link>
-            <guid isPermaLink="true">https://link.dice.fm/ab33ed6c11e6?dice_id=ab33ed6c11e6</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LILIEAE at Mahall’s]]></title>
@@ -819,17 +812,17 @@
             <pubDate>Sat, 15 Feb 2025 03:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Twiztid at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Twiztid at The Roxy at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7]]></description>
-            <link>https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</link>
-            <guid isPermaLink="true">https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</guid>
-            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matt Corman and Ollie Joseph at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Matt Corman and Ollie Joseph at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d]]></description>
             <link>https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</link>
             <guid isPermaLink="true">https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</guid>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twiztid at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Twiztid at The Roxy at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7]]></description>
+            <link>https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</link>
+            <guid isPermaLink="true">https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</guid>
             <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -873,13 +866,6 @@
             <link>https://link.dice.fm/h55903ed92c9?dice_id=h55903ed92c9</link>
             <guid isPermaLink="true">https://link.dice.fm/h55903ed92c9?dice_id=h55903ed92c9</guid>
             <pubDate>Sat, 22 Feb 2025 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Max Frost at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Max Frost at Mahall’s on Saturday, February 22, 2025, 11:00 PM: https://link.dice.fm/Mf611a422460?dice_id=Mf611a422460]]></description>
-            <link>https://link.dice.fm/Mf611a422460?dice_id=Mf611a422460</link>
-            <guid isPermaLink="true">https://link.dice.fm/Mf611a422460?dice_id=Mf611a422460</guid>
-            <pubDate>Sat, 22 Feb 2025 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Make Them Suffer at The Roxy at Mahall’s]]></title>
@@ -1316,10 +1302,10 @@
             <pubDate>Wed, 19 Feb 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Blues for DC Carnes, The Madison Crawl, Ball and Chain, The Beamers featuring Jack Charlton, Austin Walkin' Cane at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Blues for DC Carnes, The Madison Crawl, Ball and Chain, The Beamers featuring Jack Charlton, Austin Walkin' Cane at Beachland Ballroom on Thursday, February 20, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beamers-featuring-jack-charlton-austin-walkin-cane]]></description>
-            <link>https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beamers-featuring-jack-charlton-austin-walkin-cane</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beamers-featuring-jack-charlton-austin-walkin-cane</guid>
+            <title><![CDATA[Blues for DC Carnes, The Madison Crawl, Ball and Chain, The Beameros featuring Jack Charlton, Austin Walkin' Cane at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Blues for DC Carnes, The Madison Crawl, Ball and Chain, The Beameros featuring Jack Charlton, Austin Walkin' Cane at Beachland Ballroom on Thursday, February 20, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-austin-walkin-cane]]></description>
+            <link>https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-austin-walkin-cane</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-austin-walkin-cane</guid>
             <pubDate>Thu, 20 Feb 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1365,10 +1351,10 @@
             <pubDate>Tue, 25 Feb 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Saxsquatch at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Saxsquatch at Beachland Ballroom on Tuesday, February 25, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13966093/saxsquatch]]></description>
-            <link>https://www.beachlandballroom.com/e/13966093/saxsquatch</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13966093/saxsquatch</guid>
+            <title><![CDATA[Saxsquatch, Uncle Gnarly at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Saxsquatch, Uncle Gnarly at Beachland Ballroom on Tuesday, February 25, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13966093/saxsquatch-uncle-gnarly]]></description>
+            <link>https://www.beachlandballroom.com/e/13966093/saxsquatch-uncle-gnarly</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13966093/saxsquatch-uncle-gnarly</guid>
             <pubDate>Tue, 25 Feb 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1442,17 +1428,17 @@
             <pubDate>Fri, 07 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Into The Blue at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Into The Blue at Beachland Tavern on Friday, March 7, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14208973/into-the-blue]]></description>
+            <link>https://www.beachlandballroom.com/e/14208973/into-the-blue</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14208973/into-the-blue</guid>
+            <pubDate>Fri, 07 Mar 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Andy Frasco & The U.N., Melt at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to Andy Frasco & The U.N., Melt at Beachland Ballroom on Saturday, March 8, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13992363/andy-frasco-the-u-n-melt]]></description>
             <link>https://www.beachlandballroom.com/e/13992363/andy-frasco-the-u-n-melt</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13992363/andy-frasco-the-u-n-melt</guid>
-            <pubDate>Sat, 08 Mar 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Satsang, Sierra Marin at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Satsang, Sierra Marin at Beachland Tavern on Saturday, March 8, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14008003/satsang-sierra-marin]]></description>
-            <link>https://www.beachlandballroom.com/e/14008003/satsang-sierra-marin</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14008003/satsang-sierra-marin</guid>
             <pubDate>Sat, 08 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1509,13 +1495,6 @@
             <description><![CDATA[Get tickets to Mike Farris at Beachland Tavern on Monday, March 17, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14124443/mike-farris]]></description>
             <link>https://www.beachlandballroom.com/e/14124443/mike-farris</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/14124443/mike-farris</guid>
-            <pubDate>Mon, 17 Mar 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Into The Blue at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Into The Blue at Beachland Tavern on Monday, March 17, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14208973/into-the-blue]]></description>
-            <link>https://www.beachlandballroom.com/e/14208973/into-the-blue</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14208973/into-the-blue</guid>
             <pubDate>Mon, 17 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1673,6 +1652,13 @@
             <pubDate>Wed, 16 Apr 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Circuit Des Yeux, LEYA at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Circuit Des Yeux, LEYA at Beachland Tavern on Friday, April 18, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14159403/circuit-des-yeux-leya]]></description>
+            <link>https://www.beachlandballroom.com/e/14159403/circuit-des-yeux-leya</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14159403/circuit-des-yeux-leya</guid>
+            <pubDate>Fri, 18 Apr 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Wonderlands, Loconti at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to The Wonderlands, Loconti at Beachland Tavern on Saturday, April 19, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14056123/the-wonderlands-loconti]]></description>
             <link>https://www.beachlandballroom.com/e/14056123/the-wonderlands-loconti</link>
@@ -1743,10 +1729,10 @@
             <pubDate>Sat, 03 May 2025 13:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Moon Runners Music Festival, Tejon Street Corner Thieves, Grifters and Shills, Carrie Nation and the Speakeasy, Lonewolf OMB, Fishgutzzz and the Lost n Found Orchestra, The Moray, Robber's Roost, Bryan Raymond, Noble Hobo, Gold String Valley, Iris Marlowe, House of Wills, Fuckin’ Nothin’ at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Moon Runners Music Festival, Tejon Street Corner Thieves, Grifters and Shills, Carrie Nation and the Speakeasy, Lonewolf OMB, Fishgutzzz and the Lost n Found Orchestra, The Moray, Robber's Roost, Bryan Raymond, Noble Hobo, Gold String Valley, Iris Marlowe, House of Wills, Fuckin’ Nothin’ at Beachland Ballroom on Sunday, May 4, 2025, 01:00 PM: https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-noble-hobo-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-]]></description>
-            <link>https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-noble-hobo-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-noble-hobo-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-</guid>
+            <title><![CDATA[Moon Runners Music Festival, Tejon Street Corner Thieves, Grifters and Shills, Carrie Nation and the Speakeasy, Lonewolf OMB, Fishgutzzz and the Lost n Found Orchestra, The Moray, Robber's Roost, Bryan Raymond, Gold String Valley, Iris Marlowe, House of Wills, Fuckin’ Nothin’ at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Moon Runners Music Festival, Tejon Street Corner Thieves, Grifters and Shills, Carrie Nation and the Speakeasy, Lonewolf OMB, Fishgutzzz and the Lost n Found Orchestra, The Moray, Robber's Roost, Bryan Raymond, Gold String Valley, Iris Marlowe, House of Wills, Fuckin’ Nothin’ at Beachland Ballroom on Sunday, May 4, 2025, 01:00 PM: https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-]]></description>
+            <link>https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-</guid>
             <pubDate>Sun, 04 May 2025 13:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1783,13 +1769,6 @@
             <link>https://www.beachlandballroom.com/e/14137353/diesel-boy-nerf-herder-keep-flying-the-a-10s</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/14137353/diesel-boy-nerf-herder-keep-flying-the-a-10s</guid>
             <pubDate>Sun, 25 May 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joy Oladokun: The Blackbird Tour at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Joy Oladokun: The Blackbird Tour at House of Blues on Wednesday, January 22, 2025, 07:00 PM: https://concerts.livenation.com/joy-oladokun-the-blackbird-tour-cleveland-ohio-01-22-2025/event/0500613BA8B25742]]></description>
-            <link>https://concerts.livenation.com/joy-oladokun-the-blackbird-tour-cleveland-ohio-01-22-2025/event/0500613BA8B25742</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/joy-oladokun-the-blackbird-tour-cleveland-ohio-01-22-2025/event/0500613BA8B25742</guid>
-            <pubDate>Wed, 22 Jan 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Mega 80's at House of Blues]]></title>
@@ -1965,6 +1944,27 @@
             <link>https://concerts.livenation.com/cold-cleveland-ohio-04-03-2025/event/05006222DF7A2AF1</link>
             <guid isPermaLink="true">https://concerts.livenation.com/cold-cleveland-ohio-04-03-2025/event/05006222DF7A2AF1</guid>
             <pubDate>Thu, 03 Apr 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayside: 25th Anniversary: The Errors Tour: 2 Day Ticket at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Bayside: 25th Anniversary: The Errors Tour: 2 Day Ticket at House of Blues on Friday, April 4, 2025, 12:00 AM: https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A87F1B30]]></description>
+            <link>https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A87F1B30</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A87F1B30</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayside: 25th Anniversary: The Errors Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Bayside: 25th Anniversary: The Errors Tour at House of Blues on Friday, April 4, 2025, 07:00 PM: https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A7581AFE]]></description>
+            <link>https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A7581AFE</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A7581AFE</guid>
+            <pubDate>Fri, 04 Apr 2025 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayside: 25th Anniversary: The Errors Tour at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Bayside: 25th Anniversary: The Errors Tour at House of Blues on Saturday, April 5, 2025, 07:00 PM: https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-05-2025/event/05006229A7D11B20]]></description>
+            <link>https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-05-2025/event/05006229A7D11B20</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-05-2025/event/05006229A7D11B20</guid>
+            <pubDate>Sat, 05 Apr 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Judah & the Lion: The Process Tour at House of Blues]]></title>
@@ -2401,11 +2401,25 @@
             <pubDate>Tue, 28 Jan 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GRAND RE-OPENING PARTY at Foundry]]></title>
+            <description><![CDATA[Get tickets to GRAND RE-OPENING PARTY at Foundry on Friday, February 14, 2025, 05:00 PM: https://www.foundryconcertclub.com/tm-event/grand-re-opening-party/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/grand-re-opening-party/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/grand-re-opening-party/</guid>
+            <pubDate>Fri, 14 Feb 2025 17:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ANTI-VALENTINES DAY at Foundry]]></title>
             <description><![CDATA[Get tickets to ANTI-VALENTINES DAY at Foundry on Saturday, February 15, 2025, 05:30 PM: https://www.foundryconcertclub.com/tm-event/anti-valentines-day/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/anti-valentines-day/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/anti-valentines-day/</guid>
             <pubDate>Sat, 15 Feb 2025 17:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
+            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, February 18, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night/</guid>
+            <pubDate>Tue, 18 Feb 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skarhead, Dizasterpiece, The DRP, Last Gasp at Foundry]]></title>
@@ -2436,6 +2450,13 @@
             <pubDate>Sun, 23 Feb 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
+            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, February 25, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-2/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-2/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-2/</guid>
+            <pubDate>Tue, 25 Feb 2025 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Earthside at Foundry]]></title>
             <description><![CDATA[Get tickets to Earthside at Foundry on Wednesday, February 26, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/earthside/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/earthside/</link>
@@ -2464,11 +2485,18 @@
             <pubDate>Sun, 02 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oxjaw at Foundry]]></title>
-            <description><![CDATA[Get tickets to Oxjaw at Foundry on Saturday, March 8, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/oxjaw/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/oxjaw/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/oxjaw/</guid>
-            <pubDate>Sat, 08 Mar 2025 19:00:00 GMT</pubDate>
+            <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
+            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, March 4, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-3/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-3/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-3/</guid>
+            <pubDate>Tue, 04 Mar 2025 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
+            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, March 11, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-4/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-4/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-4/</guid>
+            <pubDate>Tue, 11 Mar 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heart to Gold, Enumclaw, Oolong at Foundry]]></title>
@@ -2476,6 +2504,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/</guid>
             <pubDate>Sat, 15 Mar 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
+            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, March 18, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/</guid>
+            <pubDate>Tue, 18 Mar 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MONSTER MASH PT III at Foundry]]></title>
@@ -2504,6 +2539,13 @@
             <link>https://www.foundryconcertclub.com/tm-event/mosquito-bitten-bastards-irewyrm-clouds-over-midgar-deviationists/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/mosquito-bitten-bastards-irewyrm-clouds-over-midgar-deviationists/</guid>
             <pubDate>Sat, 17 May 2025 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Flying Grey Suns, Free Drew, Guiche, Exhale at Foundry]]></title>
+            <description><![CDATA[Get tickets to The Flying Grey Suns, Free Drew, Guiche, Exhale at Foundry on Friday, May 30, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/</guid>
+            <pubDate>Fri, 30 May 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gideon at Masonic Temple]]></title>
@@ -2891,6 +2933,13 @@
             <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nine Inch Nails – Peel It Back Tour 2025 at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to Nine Inch Nails – Peel It Back Tour 2025 at Rocket Mortgage FieldHouse on Sunday, August 31, 2025, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831]]></description>
+            <link>https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</link>
+            <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</guid>
+            <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[N69 FEST at No Class]]></title>
             <description><![CDATA[Get tickets to N69 FEST at No Class on Saturday, March 9, 2024, 04:00 PM: https://www.eventbrite.com/e/n69-fest-tickets-788633583277]]></description>
             <link>https://www.eventbrite.com/e/n69-fest-tickets-788633583277</link>
@@ -3127,13 +3176,6 @@
             <link>https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207</link>
             <guid isPermaLink="true">https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207</guid>
             <pubDate>Sun, 17 Mar 2024 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mushu, Eli Moon, Clechay, Air MC, CLEchay at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Mushu, Eli Moon, Clechay, Air MC, CLEchay at Grog Shop on Wednesday, January 22, 2025, 12:00 AM: https://grogshop.gs/tm-event/mushu-eli-moon-clechay-air-mc/]]></description>
-            <link>https://grogshop.gs/tm-event/mushu-eli-moon-clechay-air-mc/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/mushu-eli-moon-clechay-air-mc/</guid>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Black Spirit Crown, Black Tar Superstar, Pathless at Grog Shop]]></title>
@@ -3143,8 +3185,8 @@
             <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pile, Hunden, Owney The Postal Dog at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Pile, Hunden, Owney The Postal Dog at Grog Shop on Friday, January 24, 2025, 12:00 AM: https://grogshop.gs/tm-event/pile/]]></description>
+            <title><![CDATA[Pile, Owney The Postal Dog, Hunden at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Pile, Owney The Postal Dog, Hunden at Grog Shop on Friday, January 24, 2025, 12:00 AM: https://grogshop.gs/tm-event/pile/]]></description>
             <link>https://grogshop.gs/tm-event/pile/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/pile/</guid>
             <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
@@ -3220,17 +3262,17 @@
             <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/]]></description>
-            <link>https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</guid>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/]]></description>
             <link>https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</guid>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/]]></description>
+            <link>https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</guid>
             <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -3444,6 +3486,13 @@
             <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Aaron Smith & RDAA, Smokeface at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Aaron Smith & RDAA, Smokeface at Grog Shop on Friday, March 14, 2025, 12:00 AM: https://grogshop.gs/tm-event/aaron-smith-rdaa-smokeface/]]></description>
+            <link>https://grogshop.gs/tm-event/aaron-smith-rdaa-smokeface/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/aaron-smith-rdaa-smokeface/</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sk8rt Art Show & Benefit Concert for Rainbow Babies & Children's Hospital, Muzzle, Mikey Machine, Pill Time, Pig Rides, Kill The Hippies, T.A.C.K., The Kilroys at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Sk8rt Art Show & Benefit Concert for Rainbow Babies & Children's Hospital, Muzzle, Mikey Machine, Pill Time, Pig Rides, Kill The Hippies, T.A.C.K., The Kilroys at Grog Shop on Saturday, March 15, 2025, 12:00 AM: https://grogshop.gs/tm-event/sk8rt-art-show-benefit-concert-for-rainbow-babies-childrens-hospital/]]></description>
             <link>https://grogshop.gs/tm-event/sk8rt-art-show-benefit-concert-for-rainbow-babies-childrens-hospital/</link>
@@ -3477,6 +3526,13 @@
             <link>https://grogshop.gs/tm-event/slum-village-w-vice-souletric-and-will-cherry/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/slum-village-w-vice-souletric-and-will-cherry/</guid>
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sonido Gallo Negro at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Sonido Gallo Negro at Grog Shop on Tuesday, March 25, 2025, 12:00 AM: https://grogshop.gs/tm-event/sonido-gallo-negro/]]></description>
+            <link>https://grogshop.gs/tm-event/sonido-gallo-negro/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/sonido-gallo-negro/</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reggie Watts Live at Grog Shop]]></title>

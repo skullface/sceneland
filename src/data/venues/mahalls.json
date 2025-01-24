@@ -33,6 +33,14 @@
   },
   {
     "artist": [
+      "Apres Ski Night"
+    ],
+    "link": "https://link.dice.fm/U3f2c58cd6d5?dice_id=U3f2c58cd6d5",
+    "date": "2025-01-30T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Formerly Candice"
     ],
     "link": "https://link.dice.fm/Hbba589046d5?dice_id=Hbba589046d5",
@@ -137,19 +145,19 @@
   },
   {
     "artist": [
-      "Matt Corman and Ollie Joseph"
-    ],
-    "link": "https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d",
-    "date": "2025-02-15T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Twiztid"
     ],
     "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
     "date": "2025-02-15T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Matt Corman and Ollie Joseph"
+    ],
+    "link": "https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d",
+    "date": "2025-02-15T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -231,6 +239,14 @@
     "link": "https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301",
     "date": "2025-03-06T18:30:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Little Ditties"
+    ],
+    "link": "https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31",
+    "date": "2025-03-06T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -426,19 +442,19 @@
   },
   {
     "artist": [
-      "Magnolia Park"
-    ],
-    "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
-    "date": "2025-05-03T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Boston Manor"
     ],
     "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
     "date": "2025-05-03T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Magnolia Park"
+    ],
+    "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
+    "date": "2025-05-03T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

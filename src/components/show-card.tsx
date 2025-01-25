@@ -12,7 +12,7 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
       <li key={i}>
         <a
           href={show.link}
-          className='group flex h-full min-h-[180px] flex-col justify-between gap-y-4 rounded border border-zinc-200 bg-white p-4 leading-snug shadow-sm transition hover:!border-zinc-300 hover:!shadow-black/10 focus:outline-none focus:ring focus:ring-lime-500/50 dark:border-zinc-800 dark:bg-zinc-900 dark:shadow-md hover:dark:!border-zinc-700 lg:[:nth-child(6n)_&]:border-zinc-400/30 lg:[:nth-child(6n)_&]:bg-zinc-50/50 dark:lg:[:nth-child(6n)_&]:border-zinc-800/60 dark:lg:[:nth-child(6n)_&]:bg-zinc-900/60 lg:[:nth-child(6n_-_1)_&]:border-zinc-400/30 lg:[:nth-child(6n_-_1)_&]:bg-zinc-50/50 dark:lg:[:nth-child(6n_-_1)_&]:border-zinc-800/60 dark:lg:[:nth-child(6n_-_1)_&]:bg-zinc-900/60 lg:[:nth-child(6n_-_2)_&]:border-zinc-400/30 lg:[:nth-child(6n_-_2)_&]:bg-zinc-50/50 dark:lg:[:nth-child(6n_-_2)_&]:border-zinc-800/60 dark:lg:[:nth-child(6n_-_2)_&]:bg-zinc-900/60 max-md:[:nth-of-type(even)_&]:border-zinc-400/30 max-md:[:nth-of-type(even)_&]:bg-zinc-50/50 dark:max-md:[:nth-of-type(even)_&]:bg-zinc-900/60'
+          className='group flex h-full min-h-[180px] flex-col justify-between gap-y-4 rounded border border-zinc-200 bg-white p-4 leading-snug  decoration-zinc-200 shadow-sm transition hover:!border-zinc-300 hover:underline hover:shadow-md hover:!shadow-black/5 focus:outline-none focus:ring focus:ring-lime-500/50 dark:border-zinc-800 dark:bg-zinc-900 dark:decoration-zinc-600 dark:shadow-md hover:dark:!border-zinc-700'
         >
           <div className='flex flex-col gap-y-2'>
             <h3 className='order-2 text-lg font-medium text-zinc-800 dark:text-zinc-300'>
@@ -38,7 +38,7 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
               })}
             </time>
             <p className='order-1 flex flex-row items-center gap-x-2'>
-              @ {show.venue}
+              {show.venue}
               <img
                 src={`/images/venues/${show.venue.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.png`}
                 alt=''

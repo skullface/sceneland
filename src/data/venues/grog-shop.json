@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "Mushu",
-      "Eli Moon",
-      "Clechay",
-      "Air MC",
-      "CLEchay"
-    ],
-    "link": "https://grogshop.gs/tm-event/mushu-eli-moon-clechay-air-mc/",
-    "date": "2025-01-22",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Black Spirit Crown",
       "Black Tar Superstar",
       "Pathless"
@@ -24,8 +12,8 @@
   {
     "artist": [
       "Pile",
-      "Hunden",
-      "Owney The Postal Dog"
+      "Owney The Postal Dog",
+      "Hunden"
     ],
     "link": "https://grogshop.gs/tm-event/pile/",
     "date": "2025-01-24",
@@ -132,18 +120,18 @@
   },
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
+      "Tim Heidecker: Slipping Away Tour",
+      "Neil Hamburger"
     ],
-    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
+    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Tim Heidecker: Slipping Away Tour",
-      "Neil Hamburger"
+      "Midnight Rental presents Secret Movie Night"
     ],
-    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
@@ -240,6 +228,17 @@
     ],
     "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-2/",
     "date": "2025-02-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Black & Blue",
+      "Planet Ben",
+      "Whippet",
+      "Glenfinan"
+    ],
+    "link": "https://grogshop.gs/tm-event/black-blue-planet-ben-whippet-glenfinan/",
+    "date": "2025-02-19",
     "venue": "Grog Shop"
   },
   {
@@ -408,12 +407,29 @@
   },
   {
     "artist": [
+      "Midnight Rental presents Secret Movie Night"
+    ],
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-6/",
+    "date": "2025-03-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Grandvie",
       "Hanging Johnny",
       "Ryan Hetrick & The Electric"
     ],
     "link": "https://grogshop.gs/tm-event/grandview-hanging-johnny-ryan-hetrick-the-electric/",
     "date": "2025-03-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Aaron Smith & RDAA",
+      "Smokeface"
+    ],
+    "link": "https://grogshop.gs/tm-event/aaron-smith-rdaa-smokeface/",
+    "date": "2025-03-14",
     "venue": "Grog Shop"
   },
   {
@@ -468,6 +484,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/slum-village-w-vice-souletric-and-will-cherry/",
     "date": "2025-03-21",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sonido Gallo Negro"
+    ],
+    "link": "https://grogshop.gs/tm-event/sonido-gallo-negro/",
+    "date": "2025-03-25",
     "venue": "Grog Shop"
   },
   {

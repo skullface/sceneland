@@ -21,7 +21,7 @@ for show in shows:
   all_shows_data['link'] = 'https://noclasscle.com' + link
 
   date = show.find('time')
-  all_shows_data['date'] = date.get('datetime')
+  all_shows_data['date'] = date.get('datetime') + 'T00:00:01'
 
   all_shows_data['venue'] = 'No Class'
   all_shows_list.append(all_shows_data)

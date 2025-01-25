@@ -30,7 +30,7 @@ for show in shows:
   date_part = date_text.split()[1]
   date_str = datetime.strptime(f"{date_part}/2025", "%m/%d/%Y")
   date = date_str.strftime("%Y-%m-%d")
-  all_shows_data['date'] = date
+  all_shows_data['date'] = date + 'T00:00:01'
 
   all_shows_data['venue'] = 'Masonic Temple'
   all_shows_list.append(all_shows_data)

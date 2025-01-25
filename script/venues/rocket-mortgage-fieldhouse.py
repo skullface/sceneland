@@ -53,7 +53,7 @@ for show in shows:
     else:
       date = datetime.strptime(date, '%B %d %Y')
 
-      all_shows_data['date'] = date.strftime('%Y-%m-%d') 
+      all_shows_data['date'] = date.strftime('%Y-%m-%d') + 'T00:00:01'
 
       all_shows_data['venue'] = 'Rocket Mortgage FieldHouse'
       all_shows_list.append(all_shows_data)

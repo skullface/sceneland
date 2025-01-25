@@ -3,14 +3,16 @@ from selenium.webdriver import FirefoxOptions
 from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup 
 import json
+import time
 from datetime import datetime
 
-url = 'https://www.jacobspavilion.com/calendar'
+url = 'https://www.jacobspavilion.com/calendar/'
 options = FirefoxOptions()
 options.add_argument('--headless')
 browser = webdriver.Firefox(options=options)
 browser.implicitly_wait(15)
 browser.get(url)
+time.sleep(1)
 
 soup = BeautifulSoup(browser.page_source, 'html.parser')
 calendar = soup.find('div', class_='c-axs-events')
@@ -28,14 +30,12 @@ for show in shows:
   else:
     all_shows_data['artist'] = [headliner.text.strip() + ', ' + opener.text.strip().replace('with special guest ', '')]
 
-  all_shows_data['link'] = show['href']
+  all_shows_data['link'] = 'https://www.jacobspavilion.com' + show['href']
 
   date = show.find('span', class_='date').text.strip()
-  time = show.find('span', class_='door').text.strip()
 
   date = datetime.strptime(date, '%b %d, %Y')
-  time = datetime.strptime(time, '%I:%M %p').time()
-  all_shows_data['date'] = str(date).split(' ', 1)[0] + 'T' + str(time)
+  all_shows_data['date'] = str(date).split(' ', 1)[0] + 'T00:00:01'
   
   all_shows_data['venue'] = 'Jacobs Pavilion at Nautica'
 

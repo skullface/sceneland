@@ -225,9 +225,10 @@
   {
     "artist": [
       "Carlos Jones & The PLUS Band",
-      "Special Guests"
+      "Ms. BBC & the Queens",
+      "Hue People"
     ],
-    "link": "https://www.beachlandballroom.com/e/14136723/carlos-jones-the-plus-band-special-guests",
+    "link": "https://www.beachlandballroom.com/e/14136723/carlos-jones-the-plus-band-ms-bbc-the-queens-hue-people",
     "date": "2025-02-16T15:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -543,6 +544,14 @@
   },
   {
     "artist": [
+      "Beachland Flea"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14205363/beachland-flea",
+    "date": "2025-03-23T10:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Miki Fiki",
       "Amelia Day",
       "Liam Brock"
@@ -712,6 +721,14 @@
     "link": "https://www.beachlandballroom.com/e/14159403/circuit-des-yeux-leya",
     "date": "2025-04-18T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Octave Cat"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14186683/octave-cat",
+    "date": "2025-04-18T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -894,5 +911,13 @@
     "link": "https://www.beachlandballroom.com/e/14137353/diesel-boy-nerf-herder-keep-flying-the-a-10s",
     "date": "2025-05-25T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Kyle Smith"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14176533/kyle-smith",
+    "date": "2025-06-12T20:00:00",
+    "venue": "Beachland Tavern"
   }
 ]

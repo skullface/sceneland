@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Black Spirit Crown",
-      "Black Tar Superstar",
-      "Pathless"
-    ],
-    "link": "https://grogshop.gs/tm-event/black-spirit-crown-black-tar-superstar-pathless/",
-    "date": "2025-01-23",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Pile",
       "Owney The Postal Dog",
       "Hunden"
@@ -120,18 +110,18 @@
   },
   {
     "artist": [
-      "Tim Heidecker: Slipping Away Tour",
-      "Neil Hamburger"
+      "Midnight Rental presents Secret Movie Night"
     ],
-    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
+      "Tim Heidecker: Slipping Away Tour",
+      "Neil Hamburger"
     ],
-    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
+    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
@@ -624,6 +614,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/napalm-death-and-melvins-savage-imperial-death-march-part-ii/",
     "date": "2025-05-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "MICO"
+    ],
+    "link": "https://grogshop.gs/tm-event/mico/",
+    "date": "2025-05-13",
     "venue": "Grog Shop"
   },
   {

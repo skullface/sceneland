@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "LILIEAE"
-    ],
-    "link": "https://link.dice.fm/P2dd1319d9b7?dice_id=P2dd1319d9b7",
-    "date": "2025-01-24T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Atomic Witch"
     ],
     "link": "https://link.dice.fm/O21d282e6e56?dice_id=O21d282e6e56",
@@ -198,6 +190,14 @@
     ],
     "link": "https://link.dice.fm/h7f6471c8817?dice_id=h7f6471c8817",
     "date": "2025-02-19T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Emo Bingo"
+    ],
+    "link": "https://link.dice.fm/N892a0c5d2eb?dice_id=N892a0c5d2eb",
+    "date": "2025-02-20T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -442,19 +442,19 @@
   },
   {
     "artist": [
-      "Boston Manor"
-    ],
-    "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
-    "date": "2025-05-03T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Magnolia Park"
     ],
     "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
     "date": "2025-05-03T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Boston Manor"
+    ],
+    "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
+    "date": "2025-05-03T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

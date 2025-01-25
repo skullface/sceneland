@@ -1249,14 +1249,6 @@ export const allShows = [
   },
   {
     "artist": [
-      "Emo Night Karaoke!"
-    ],
-    "link": "https://www.ticketweb.com/event/emo-night-karaoke-musica-tickets/14168663",
-    "date": "2025-02-07T20:00:00",
-    "venue": "Musica Akron"
-  },
-  {
-    "artist": [
       "Breaking Benjamin & Staind: Awaken The Fallen Tour"
     ],
     "link": "https://concerts.livenation.com/breaking-benjamin-staind-awaken-the-fallen-cuyahoga-falls-ohio-05-19-2025/event/0500617DEA668206",

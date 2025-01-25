@@ -993,146 +993,258 @@ export const allShows = [
   },
   {
     "artist": [
-      "Lowspot single release w/ Ace of Wands, Fawx, House of Wills"
+      "Konstanza, Sammy Slims, ME:YOU"
     ],
-    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737",
-    "date": "2024-03-02T21:00:00",
+    "link": "https://app.opendate.io/e/konstanza-sammy-slims-me-you-january-24-2025-568970",
+    "date": "2025-01-24T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Happy Dog Takes on Everything"
+      "Mezclado, Napsack, Xanny Stars, PAL"
     ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927",
-    "date": "2024-03-06T19:30:00",
+    "link": "https://app.opendate.io/e/mezclado-napsack-xanny-stars-pal-january-25-2025-568971",
+    "date": "2025-01-25T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Omni, This Is Lorelei, Suitor"
+      "Monday Night Trivia!"
     ],
-    "link": "https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607",
-    "date": "2024-03-08T21:00:00",
+    "link": "https://app.opendate.io/e/monday-night-trivia-january-27-2025-568961",
+    "date": "2025-01-27T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Bristoltooth, Total Downer, Crumbling Creatures"
+      "Swisher, Star House, Anteater - a release show from unifactor"
     ],
-    "link": "https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387",
-    "date": "2024-03-09T21:00:00",
+    "link": "https://app.opendate.io/e/swisher-star-house-anteater-a-release-show-from-unifactor-january-31-2025-568972",
+    "date": "2025-01-31T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Shadow Show, Marty Brass & The Lavender Jets, Perfect Pals, The Vumms"
+      "Brother Wolf, The Magnavox's, Blanket Party"
     ],
-    "link": "https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937",
-    "date": "2024-03-10T21:00:00",
+    "link": "https://app.opendate.io/e/brother-wolf-the-magnavox-s-blanket-party-february-01-2025-568973",
+    "date": "2025-02-01T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "John Condit, Songs from an Unknown God, The Magnavox's"
+      "Monday Night Trivia!"
     ],
-    "link": "https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377",
-    "date": "2024-03-12T21:00:00",
+    "link": "https://app.opendate.io/e/monday-night-trivia-february-03-2025-568962",
+    "date": "2025-02-03T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Wild Shape, Kill the Hippies, Patchke"
+      "City Club of Cleveland presents: Happy Dog Takes on Everything"
     ],
-    "link": "https://www.eventbrite.com/e/wild-shape-kill-the-hippies-patchke-tickets-837970390997",
-    "date": "2024-03-15T21:00:00",
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-february-05-2025-571720",
+    "date": "2025-02-05T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Samuel SC, Wrong Places, Xeroform"
+      "Kid.Tigrrr Record Release w/ Ghost Days, Mulberry Moon"
     ],
-    "link": "https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137",
-    "date": "2024-03-16T21:00:00",
+    "link": "https://app.opendate.io/e/kid-tigrrr-record-release-w-ghost-days-mulberry-moon-february-07-2025-569134",
+    "date": "2025-02-07T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Full 90: a Free St. Patrick's Day of Irish Music!"
+      "Lowspot, Exhale, So Nectar"
     ],
-    "link": "https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207",
-    "date": "2024-03-17T16:00:00",
+    "link": "https://app.opendate.io/e/lowspot-exhale-so-nectar-february-08-2025-569135",
+    "date": "2025-02-08T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Lowspot single release w/ Ace of Wands, Fawx, House of Wills"
+      "Monday Night Trivia!"
     ],
-    "link": "https://www.eventbrite.com/e/lowspot-single-release-w-ace-of-wands-fawx-house-of-wills-tickets-825979104737",
-    "date": "2024-03-02T21:00:00",
+    "link": "https://app.opendate.io/e/monday-night-trivia-february-10-2025-568963",
+    "date": "2025-02-10T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Happy Dog Takes on Everything"
+      "My Cuzin Funny - Comedy Night in the Underdog!"
     ],
-    "link": "https://www.eventbrite.com/e/happy-dog-takes-on-everything-tickets-817678005927",
-    "date": "2024-03-06T19:30:00",
+    "link": "https://app.opendate.io/e/my-cuzin-funny-comedy-night-in-the-underdog-february-13-2025-571721",
+    "date": "2025-02-13T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Omni, This Is Lorelei, Suitor"
+      "Valentine's Day w/ Flackside, Liquid Images, DJs Mateo Manic & City Rick - FREE!"
     ],
-    "link": "https://www.eventbrite.com/e/omni-this-is-lorelei-suitor-tickets-753608933607",
-    "date": "2024-03-08T21:00:00",
+    "link": "https://app.opendate.io/e/valentine-s-day-w-flackside-liquid-images-djs-mateo-manic-city-rick-free-february-14-2025-571719",
+    "date": "2025-02-14T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Bristoltooth, Total Downer, Crumbling Creatures"
+      "The Boys from County Hell - winter warmup!"
     ],
-    "link": "https://www.eventbrite.com/e/bristoltooth-total-downer-crumbling-creatures-tickets-835290505387",
-    "date": "2024-03-09T21:00:00",
+    "link": "https://app.opendate.io/e/the-boys-from-county-hell-winter-warmup-february-15-2025-570359",
+    "date": "2025-02-15T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Shadow Show, Marty Brass & The Lavender Jets, Perfect Pals, The Vumms"
+      "Fereal Housecats, Oongow!!!, Jackie the Dogwolf & The Big Bads, Dr. Fang & The Bats"
     ],
-    "link": "https://www.eventbrite.com/e/shadow-show-marty-brass-the-lavender-jets-perfect-pals-the-vumms-tickets-835291357937",
-    "date": "2024-03-10T21:00:00",
+    "link": "https://app.opendate.io/e/fereal-housecats-oongow-jackie-the-dogwolf-the-big-bads-dr-fang-the-bats-february-16-2025-569136",
+    "date": "2025-02-16T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "John Condit, Songs from an Unknown God, The Magnavox's"
+      "Monday Night Trivia!"
     ],
-    "link": "https://www.eventbrite.com/e/john-condit-songs-from-an-unknown-god-the-magnavoxs-tickets-835326944377",
-    "date": "2024-03-12T21:00:00",
+    "link": "https://app.opendate.io/e/monday-night-trivia-february-17-2025-568964",
+    "date": "2025-02-17T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Wild Shape, Kill the Hippies, Patchke"
+      "Shed Dwellers, Branagan, rrrriot, Wednesday Demonstration - a benefit for HEAL Palestine & TransOhio"
     ],
-    "link": "https://www.eventbrite.com/e/wild-shape-kill-the-hippies-patchke-tickets-837970390997",
-    "date": "2024-03-15T21:00:00",
+    "link": "https://app.opendate.io/e/shed-dwellers-branagan-rrrriot-wednesday-demonstration-a-benefit-for-heal-palestine-transohio-february-22-2025-570720",
+    "date": "2025-02-22T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Samuel SC, Wrong Places, Xeroform"
+      "Touchdown Jesus, The Vumms, Inpatient"
     ],
-    "link": "https://www.eventbrite.com/e/samuel-sc-wrong-places-xeroform-tickets-811963985137",
-    "date": "2024-03-16T21:00:00",
+    "link": "https://app.opendate.io/e/touchdown-jesus-the-vumms-inpatient-february-23-2025-562687",
+    "date": "2025-02-23T00:00:01",
     "venue": "Happy Dog"
   },
   {
     "artist": [
-      "Full 90: a Free St. Patrick's Day of Irish Music!"
+      "Monday Night Trivia!"
     ],
-    "link": "https://www.eventbrite.com/e/full-90-a-free-st-patricks-day-of-irish-music-tickets-835328559207",
-    "date": "2024-03-17T16:00:00",
+    "link": "https://app.opendate.io/e/monday-night-trivia-february-24-2025-568965",
+    "date": "2025-02-24T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Lara Ruggles, Sugardeer, Dana Perry"
+    ],
+    "link": "https://app.opendate.io/e/lara-ruggles-sugardeer-dana-perry-february-27-2025-571722",
+    "date": "2025-02-27T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Stix Quintet, Post Saga, Abstract Sounds"
+    ],
+    "link": "https://app.opendate.io/e/the-stix-quintet-post-saga-abstract-sounds-february-28-2025-570723",
+    "date": "2025-02-28T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Breathe in Stereo Release show w/ Tall Grass, False Teeth"
+    ],
+    "link": "https://app.opendate.io/e/breathe-in-stereo-release-show-w-tall-grass-false-teeth-march-01-2025-571724",
+    "date": "2025-03-01T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "RUSTBELT RIPPERFEST III"
+    ],
+    "link": "https://app.opendate.io/e/rustbelt-ripperfest-iii-march-02-2025-570724",
+    "date": "2025-03-02T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Monday Night Trivia!"
+    ],
+    "link": "https://app.opendate.io/e/monday-night-trivia-march-03-2025-568966",
+    "date": "2025-03-03T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Bevis Frond, Dave Swanson's Mystery Airship"
+    ],
+    "link": "https://app.opendate.io/e/the-bevis-frond-dave-swanson-s-mystery-airship-march-04-2025-562752",
+    "date": "2025-03-04T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-march-05-2025-571725",
+    "date": "2025-03-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Kitty Hell, Shed Dwellers, Team*Awesome"
+    ],
+    "link": "https://app.opendate.io/e/kitty-hell-shed-dwellers-team-awesome-march-12-2025-571727",
+    "date": "2025-03-12T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Bashford, Fuss, Wasted Society"
+    ],
+    "link": "https://app.opendate.io/e/bashford-fuss-wasted-society-march-13-2025-571728",
+    "date": "2025-03-13T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Lake Philly, Kid Primitive, Warren Village"
+    ],
+    "link": "https://app.opendate.io/e/lake-philly-kid-primitive-warren-village-march-15-2025-570848",
+    "date": "2025-03-15T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "PONS, Factual Brains, Solon, False Teeth"
+    ],
+    "link": "https://app.opendate.io/e/pons-factual-brains-solon-false-teeth-march-16-2025-570849",
+    "date": "2025-03-16T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Jeffrey Lewis & The Voltage, Grasping Straws"
+    ],
+    "link": "https://app.opendate.io/e/jeffrey-lewis-the-voltage-grasping-straws-march-22-2025-569099",
+    "date": "2025-03-22T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Hit Like a Girl, Madska, Crown Shy, Lowspot"
+    ],
+    "link": "https://app.opendate.io/e/hit-like-a-girl-madska-crown-shy-lowspot-april-03-2025-571731",
+    "date": "2025-04-03T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Winged Wheel"
+    ],
+    "link": "https://app.opendate.io/e/winged-wheel-may-09-2025-570087",
+    "date": "2025-05-09T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -1241,122 +1353,34 @@ export const allShows = [
   },
   {
     "artist": [
-      "Chris Young, Bryan Martin"
+      "Teddy Swims"
     ],
-    "link": "/events/detail?event_id=524789",
-    "date": "2024-05-10T18:30:00",
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=693759",
+    "date": "2025-05-20T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   },
   {
     "artist": [
-      "Omarion Presents: VBZ on VBZ Tour, Vedo, WanMor, Jastin Martin"
+      "Wallows, Porches"
     ],
-    "link": "/events/detail?event_id=532826",
-    "date": "2024-05-12T18:00:00",
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=816185",
+    "date": "2025-06-01T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   },
   {
     "artist": [
-      "Brit Floyd"
+      "Megan Moroney"
     ],
-    "link": "/events/detail?event_id=521837",
-    "date": "2024-05-19T19:00:00",
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=677576",
+    "date": "2025-06-14T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   },
   {
     "artist": [
-      "Gary Clark Jr."
+      "Alison Krauss & Union Station, Willie Watson"
     ],
-    "link": "/events/detail?event_id=528423",
-    "date": "2024-05-24T19:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Khruangbin, John Carroll Kirby"
-    ],
-    "link": "/events/detail?event_id=528300",
-    "date": "2024-05-29T19:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Jacob Collier, Emily King"
-    ],
-    "link": "/events/detail?event_id=472801",
-    "date": "2024-06-12T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Goose"
-    ],
-    "link": "/events/detail?event_id=529807",
-    "date": "2024-06-16T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Brothers Osborne, Stephen Wilson Jr."
-    ],
-    "link": "/events/detail?event_id=516497",
-    "date": "2024-06-29T19:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Sad Summer Festival 2024, Mayday Parade, The Maine, The Wonder Years, We the Kings, Real Friends, Knuckle Puck, Daisy Grenade, Hot Milk"
-    ],
-    "link": "/events/detail?event_id=533386",
-    "date": "2024-07-29T13:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Lamb Of God & Mastodon, Kerry King; Unearth"
-    ],
-    "link": "/events/detail?event_id=529663",
-    "date": "2024-08-09T17:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Bush, Jerry Cantrell and Candlebox"
-    ],
-    "link": "/events/detail?event_id=526378",
-    "date": "2024-08-13T17:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "The Avett Brothers, Sammy Rae & The Friends"
-    ],
-    "link": "/events/detail?event_id=517863",
-    "date": "2024-08-23T18:30:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "King Gizzard & the Lizard Wizard, Geese"
-    ],
-    "link": "/events/detail?event_id=509500",
-    "date": "2024-08-24T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "O.A.R., Fitz and The Tantrums"
-    ],
-    "link": "/events/detail?event_id=510138",
-    "date": "2024-08-25T18:00:00",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
-      "Mitski, Lamp"
-    ],
-    "link": "/events/detail?event_id=525985",
-    "date": "2024-09-03T18:30:00",
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=754627",
+    "date": "2025-09-07T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   },
   {

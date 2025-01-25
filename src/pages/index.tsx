@@ -188,7 +188,7 @@ export default function Page({ shows }: PageProps) {
           <section key={weekStartDate.toISOString()} className='show-grouping'>
             <h2>
               {groupPrefix && (
-                <span className='font-mono text-sm font-medium uppercase md:text-lg'>
+                <span className='text-sm font-medium uppercase md:text-lg'>
                   {groupPrefix}&nbsp;
                 </span>
               )}
@@ -231,21 +231,7 @@ export default function Page({ shows }: PageProps) {
               : 'mt-0.5 opacity-100 md:mt-1'
           }`}
         >
-          <h1 className='inline'>Upcoming shows in CLE</h1>
-          {process.env.NEXT_PUBLIC_LAST_UPDATED_AT &&
-            isValidDate(process.env.NEXT_PUBLIC_LAST_UPDATED_AT.trim()) && (
-              <span>
-                {' '}
-                · Last updated{' '}
-                <time dateTime={dateObj.toISOString()}>
-                  {dateObj.toLocaleString('en-US', {
-                    timeZone: 'America/New_York',
-                    month: 'short',
-                    day: 'numeric',
-                  })}
-                </time>
-              </span>
-            )}
+          <h1>Upcoming shows in Cleveland</h1>
         </div>
       </header>
 

@@ -51,7 +51,7 @@ for url_page in url_pages:
       year = datetime.strptime(year, '%Y').year
 
       date = f'{year:02d}-{month_number:02d}-{day:02d}'
-      all_shows_data['date'] = date 
+      all_shows_data['date'] = date + 'T00:00:01'
 
       all_shows_data['venue'] = 'Playhouse Square'
       all_shows_list.append(all_shows_data)

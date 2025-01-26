@@ -4,21 +4,21 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jan 2025 09:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 09:05:24 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to Flanagan's Wake at Playhouse Square on Friday, January 3, 2025, 12:00 AM: https://www.playhousesquare.org/events/detail/flanagans-wake-3]]></description>
-            <link>https://www.playhousesquare.org/events/detail/flanagans-wake-3</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-3</guid>
-            <pubDate>Fri, 03 Jan 2025 00:00:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Josh Johnson: The Flowers Tour at Playhouse Square]]></title>
             <description><![CDATA[Get tickets to Josh Johnson: The Flowers Tour at Playhouse Square on Friday, January 31, 2025, 12:00 AM: https://www.playhousesquare.org/events/detail/josh-johnson-the-flowers-tour]]></description>
             <link>https://www.playhousesquare.org/events/detail/josh-johnson-the-flowers-tour</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/josh-johnson-the-flowers-tour</guid>
             <pubDate>Fri, 31 Jan 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flanagan's Wake at Playhouse Square]]></title>
+            <description><![CDATA[Get tickets to Flanagan's Wake at Playhouse Square on Friday, January 3, 2025, 12:00 AM: https://www.playhousesquare.org/events/detail/flanagans-wake-3]]></description>
+            <link>https://www.playhousesquare.org/events/detail/flanagans-wake-3</link>
+            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/flanagans-wake-3</guid>
+            <pubDate>Fri, 03 Jan 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Iliza: The Get Ready Tour at Playhouse Square]]></title>
@@ -103,13 +103,6 @@
             <link>https://www.playhousesquare.org/events/detail/jimmy-carr-laughs-funny</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/jimmy-carr-laughs-funny</guid>
             <pubDate>Sat, 11 Oct 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CANCELLED -- John Ruffin Presents "LIVING ALL ALONE" at Playhouse Square]]></title>
-            <description><![CDATA[Get tickets to CANCELLED -- John Ruffin Presents "LIVING ALL ALONE" at Playhouse Square on Saturday, January 25, 2025, 12:00 AM: https://www.playhousesquare.org/events/detail/john-ruffin-presents-living-all-alone]]></description>
-            <link>https://www.playhousesquare.org/events/detail/john-ruffin-presents-living-all-alone</link>
-            <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/john-ruffin-presents-living-all-alone</guid>
-            <pubDate>Sat, 25 Jan 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cleveland's Valentine Love Jam at Playhouse Square]]></title>
@@ -201,13 +194,6 @@
             <link>https://www.playhousesquare.org/events/detail/adam-ray-is-dr-phil-live</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/adam-ray-is-dr-phil-live</guid>
             <pubDate>Fri, 06 Jun 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ATLiens, LAYZ, Gorilla T, Automhate at Agora]]></title>
-            <description><![CDATA[Get tickets to ATLiens, LAYZ, Gorilla T, Automhate at Agora on Saturday, January 25, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/718244]]></description>
-            <link>https://www.agoracleveland.com/events/detail/718244</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/718244</guid>
-            <pubDate>Sat, 25 Jan 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Guster at Agora]]></title>
@@ -504,13 +490,6 @@
             <pubDate>Tue, 17 Jun 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Into The Blue: A Tribute To ELO at House of Blues]]></title>
-            <description><![CDATA[Get tickets to Into The Blue: A Tribute To ELO at House of Blues on Saturday, January 25, 2025, 07:00 PM: https://concerts.livenation.com/into-the-blue-a-tribute-to-cleveland-ohio-01-25-2025/event/0500617E24657FE2]]></description>
-            <link>https://concerts.livenation.com/into-the-blue-a-tribute-to-cleveland-ohio-01-25-2025/event/0500617E24657FE2</link>
-            <guid isPermaLink="true">https://concerts.livenation.com/into-the-blue-a-tribute-to-cleveland-ohio-01-25-2025/event/0500617E24657FE2</guid>
-            <pubDate>Sat, 25 Jan 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Kerry King at House of Blues]]></title>
             <description><![CDATA[Get tickets to Kerry King at House of Blues on Friday, January 31, 2025, 06:00 PM: https://concerts.livenation.com/kerry-king-cleveland-ohio-01-31-2025/event/0500613A1667611E]]></description>
             <link>https://concerts.livenation.com/kerry-king-cleveland-ohio-01-31-2025/event/0500613A1667611E</link>
@@ -805,13 +784,6 @@
             <pubDate>Tue, 14 Oct 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A NIGHT OF FRIENDS FOR DOUBLE N JENN at Foundry]]></title>
-            <description><![CDATA[Get tickets to A NIGHT OF FRIENDS FOR DOUBLE N JENN at Foundry on Friday, January 24, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/a-night-of-friends-for-double-n-jenn/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/a-night-of-friends-for-double-n-jenn/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/a-night-of-friends-for-double-n-jenn/</guid>
-            <pubDate>Fri, 24 Jan 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[RENESANS & NAILED SHUT MA at Foundry]]></title>
             <description><![CDATA[Get tickets to RENESANS & NAILED SHUT MA at Foundry on Saturday, January 25, 2025, 06:30 PM: https://www.foundryconcertclub.com/tm-event/renesans-nailed-shut-ma/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/renesans-nailed-shut-ma/</link>
@@ -945,11 +917,18 @@
             <pubDate>Tue, 11 Mar 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Heart to Gold, Enumclaw, Oolong at Foundry]]></title>
+            <description><![CDATA[Get tickets to Heart to Gold, Enumclaw, Oolong at Foundry on Saturday, March 15, 2025, 08:00 PM: https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/</guid>
+            <pubDate>Sat, 15 Mar 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
-            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, March 18, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/</guid>
-            <pubDate>Tue, 18 Mar 2025 21:00:00 GMT</pubDate>
+            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, March 25, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-6/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-6/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-6/</guid>
+            <pubDate>Tue, 25 Mar 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MONSTER MASH PT III at Foundry]]></title>
@@ -985,13 +964,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/</guid>
             <pubDate>Fri, 30 May 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mezclado, Napsack, Xanny Stars, PAL at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Mezclado, Napsack, Xanny Stars, PAL at Happy Dog on Saturday, January 25, 2025, 12:00 AM: https://app.opendate.io/e/mezclado-napsack-xanny-stars-pal-january-25-2025-568971]]></description>
-            <link>https://app.opendate.io/e/mezclado-napsack-xanny-stars-pal-january-25-2025-568971</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/mezclado-napsack-xanny-stars-pal-january-25-2025-568971</guid>
-            <pubDate>Sat, 25 Jan 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Monday Night Trivia! at Happy Dog]]></title>
@@ -1568,27 +1540,6 @@
             <pubDate>Tue, 07 Oct 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pile, Owney The Postal Dog, Hunden at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Pile, Owney The Postal Dog, Hunden at Grog Shop on Friday, January 24, 2025, 12:00 AM: https://grogshop.gs/tm-event/pile/]]></description>
-            <link>https://grogshop.gs/tm-event/pile/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/pile/</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heights High Plays The Grog Shop Fundraiser at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Heights High Plays The Grog Shop Fundraiser at Grog Shop on Saturday, January 25, 2025, 12:00 AM: https://grogshop.gs/tm-event/heights-high-plays-the-grog-shop-fundraiser/]]></description>
-            <link>https://grogshop.gs/tm-event/heights-high-plays-the-grog-shop-fundraiser/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/heights-high-plays-the-grog-shop-fundraiser/</guid>
-            <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Honeyland, Leadfoot Granny, The Super Babes at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Honeyland, Leadfoot Granny, The Super Babes at Grog Shop on Saturday, January 25, 2025, 12:00 AM: https://grogshop.gs/tm-event/honeyland-w-leadfoot-granny-the-super-babes/]]></description>
-            <link>https://grogshop.gs/tm-event/honeyland-w-leadfoot-granny-the-super-babes/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/honeyland-w-leadfoot-granny-the-super-babes/</guid>
-            <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Miguel Cafe, Guiche, Guy Snowden & The Citizens, Another Dead Rockstar at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Miguel Cafe, Guiche, Guy Snowden & The Citizens, Another Dead Rockstar at Grog Shop on Sunday, January 26, 2025, 12:00 AM: https://grogshop.gs/tm-event/miguel-cafe-guiche-guy-snowden-the-citizens-another-dead-rockstar/]]></description>
             <link>https://grogshop.gs/tm-event/miguel-cafe-guiche-guy-snowden-the-citizens-another-dead-rockstar/</link>
@@ -1645,17 +1596,17 @@
             <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/]]></description>
-            <link>https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</guid>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/]]></description>
             <link>https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</guid>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/]]></description>
+            <link>https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</guid>
             <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2072,20 +2023,6 @@
             <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Persian Night w/ DJ Pooyan at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Persian Night w/ DJ Pooyan at Winchester Tavern on Friday, January 24, 2025, 08:00 PM: https://www.ticketweb.com/event/persian-night-w-dj-pooyan-the-winchester-tickets/14165243]]></description>
-            <link>https://www.ticketweb.com/event/persian-night-w-dj-pooyan-the-winchester-tickets/14165243</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/persian-night-w-dj-pooyan-the-winchester-tickets/14165243</guid>
-            <pubDate>Fri, 24 Jan 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Winter Lazy Daisy at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Winter Lazy Daisy at Winchester Tavern on Saturday, January 25, 2025, 08:00 PM: https://www.ticketweb.com/event/winter-lazy-daisy-the-winchester-tickets/14043683]]></description>
-            <link>https://www.ticketweb.com/event/winter-lazy-daisy-the-winchester-tickets/14043683</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/winter-lazy-daisy-the-winchester-tickets/14043683</guid>
-            <pubDate>Sat, 25 Jan 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[BOOZY BRUNCH (RAGE AGAINST THE MACHINE) at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to BOOZY BRUNCH (RAGE AGAINST THE MACHINE) at Winchester Tavern on Sunday, January 26, 2025, 11:00 AM: https://www.ticketweb.com/event/boozy-brunch-rage-against-the-the-winchester-tickets/14205063]]></description>
             <link>https://www.ticketweb.com/event/boozy-brunch-rage-against-the-the-winchester-tickets/14205063</link>
@@ -2210,6 +2147,20 @@
             <link>https://www.ticketweb.com/event/thrown-the-winchester-tickets/14168123</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/thrown-the-winchester-tickets/14168123</guid>
             <pubDate>Thu, 27 Feb 2025 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Warped Band – The Ultimate Tribute to Warped Tour at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to The Warped Band – The Ultimate Tribute to Warped Tour at Winchester Tavern on Friday, February 28, 2025, 08:00 PM: https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13970823]]></description>
+            <link>https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13970823</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13970823</guid>
+            <pubDate>Fri, 28 Feb 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BLOCKHEAD presents "MORTALITY IS LIT" TOUR at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to BLOCKHEAD presents "MORTALITY IS LIT" TOUR at Winchester Tavern on Saturday, March 1, 2025, 08:00 PM: https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153]]></description>
+            <link>https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153</guid>
+            <pubDate>Sat, 01 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BLOCKHEAD presents "MORTALITY IS LIT" TOUR at Winchester Tavern]]></title>
@@ -2338,13 +2289,6 @@
             <pubDate>Fri, 16 May 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Atomic Witch at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Atomic Witch at Mahall’s on Saturday, January 25, 2025, 11:00 PM: https://link.dice.fm/O21d282e6e56?dice_id=O21d282e6e56]]></description>
-            <link>https://link.dice.fm/O21d282e6e56?dice_id=O21d282e6e56</link>
-            <guid isPermaLink="true">https://link.dice.fm/O21d282e6e56?dice_id=O21d282e6e56</guid>
-            <pubDate>Sat, 25 Jan 2025 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Brianna Bell at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Brianna Bell at Mahall’s on Sunday, January 26, 2025, 10:00 PM: https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b]]></description>
             <link>https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b</link>
@@ -2457,17 +2401,17 @@
             <pubDate>Sat, 15 Feb 2025 03:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Twiztid at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Twiztid at The Roxy at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7]]></description>
-            <link>https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</link>
-            <guid isPermaLink="true">https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</guid>
-            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Matt Corman and Ollie Joseph at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Matt Corman and Ollie Joseph at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d]]></description>
             <link>https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</link>
             <guid isPermaLink="true">https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</guid>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twiztid at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Twiztid at The Roxy at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7]]></description>
+            <link>https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</link>
+            <guid isPermaLink="true">https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</guid>
             <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2541,17 +2485,17 @@
             <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Intervals at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Intervals at The Roxy at Mahall’s on Thursday, March 6, 2025, 11:30 PM: https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301]]></description>
-            <link>https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301</link>
-            <guid isPermaLink="true">https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301</guid>
-            <pubDate>Thu, 06 Mar 2025 23:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Little Ditties at Mahall’s]]></title>
             <description><![CDATA[Get tickets to The Little Ditties at Mahall’s on Thursday, March 6, 2025, 11:30 PM: https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31]]></description>
             <link>https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31</link>
             <guid isPermaLink="true">https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31</guid>
+            <pubDate>Thu, 06 Mar 2025 23:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intervals at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Intervals at The Roxy at Mahall’s on Thursday, March 6, 2025, 11:30 PM: https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301]]></description>
+            <link>https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301</link>
+            <guid isPermaLink="true">https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301</guid>
             <pubDate>Thu, 06 Mar 2025 23:30:00 GMT</pubDate>
         </item>
         <item>
@@ -2994,13 +2938,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</guid>
             <pubDate>Sun, 31 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School of Rock: Highland Heights at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to School of Rock: Highland Heights at Beachland Tavern on Saturday, January 25, 2025, 12:00 PM: https://www.beachlandballroom.com/e/14172363/school-of-rock-highland-heights]]></description>
-            <link>https://www.beachlandballroom.com/e/14172363/school-of-rock-highland-heights</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14172363/school-of-rock-highland-heights</guid>
-            <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Myth & Company, Navingale, Dan McCoy at Beachland Tavern]]></title>

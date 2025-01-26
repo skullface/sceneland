@@ -1,14 +1,14 @@
 export const allShows = [
   {
-    artist: ["Flanagan's Wake"],
-    link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-3',
-    date: '2025-01-03T00:00:01',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ['Josh Johnson: The Flowers Tour'],
     link: 'https://www.playhousesquare.org/events/detail/josh-johnson-the-flowers-tour',
     date: '2025-01-31T00:00:01',
+    venue: 'Playhouse Square',
+  },
+  {
+    artist: ["Flanagan's Wake"],
+    link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-3',
+    date: '2025-01-03T00:00:01',
     venue: 'Playhouse Square',
   },
   {
@@ -81,12 +81,6 @@ export const allShows = [
     artist: ['Jimmy Carr: Laughs Funny'],
     link: 'https://www.playhousesquare.org/events/detail/jimmy-carr-laughs-funny',
     date: '2025-10-11T00:00:01',
-    venue: 'Playhouse Square',
-  },
-  {
-    artist: ['CANCELLED -- John Ruffin Presents "LIVING ALL ALONE"'],
-    link: 'https://www.playhousesquare.org/events/detail/john-ruffin-presents-living-all-alone',
-    date: '2025-01-25T00:00:01',
     venue: 'Playhouse Square',
   },
   {
@@ -166,12 +160,6 @@ export const allShows = [
     link: 'https://www.playhousesquare.org/events/detail/adam-ray-is-dr-phil-live',
     date: '2025-06-06T00:00:01',
     venue: 'Playhouse Square',
-  },
-  {
-    artist: ['ATLiens, LAYZ, Gorilla T, Automhate'],
-    link: 'https://www.agoracleveland.com/events/detail/718244',
-    date: '2025-01-25T18:00:00',
-    venue: 'Agora',
   },
   {
     artist: ['Guster'],
@@ -428,12 +416,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Into The Blue: A Tribute To ELO'],
-    link: 'https://concerts.livenation.com/into-the-blue-a-tribute-to-cleveland-ohio-01-25-2025/event/0500617E24657FE2',
-    date: '2025-01-25T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['Kerry King'],
     link: 'https://concerts.livenation.com/kerry-king-cleveland-ohio-01-31-2025/event/0500613A1667611E',
     date: '2025-01-31T18:00:00',
@@ -686,12 +668,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['A NIGHT OF FRIENDS FOR DOUBLE N JENN'],
-    link: 'https://www.foundryconcertclub.com/tm-event/a-night-of-friends-for-double-n-jenn/',
-    date: '2025-01-24T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['RENESANS & NAILED SHUT MA'],
     link: 'https://www.foundryconcertclub.com/tm-event/renesans-nailed-shut-ma/',
     date: '2025-01-25T18:30:00',
@@ -808,9 +784,15 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
+    artist: ['Heart to Gold, Enumclaw, Oolong'],
+    link: 'https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/',
+    date: '2025-03-15T20:00:00',
+    venue: 'Foundry',
+  },
+  {
     artist: ['Personality Crisis: Cle Punk Night'],
-    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/',
-    date: '2025-03-18T21:00:00',
+    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-6/',
+    date: '2025-03-25T21:00:00',
     venue: 'Foundry',
   },
   {
@@ -844,12 +826,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/',
     date: '2025-05-30T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Mezclado, Napsack, Xanny Stars, PAL'],
-    link: 'https://app.opendate.io/e/mezclado-napsack-xanny-stars-pal-january-25-2025-568971',
-    date: '2025-01-25T00:00:01',
-    venue: 'Happy Dog',
   },
   {
     artist: ['Monday Night Trivia!'],
@@ -1354,24 +1330,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Pile', 'Owney The Postal Dog', 'Hunden'],
-    link: 'https://grogshop.gs/tm-event/pile/',
-    date: '2025-01-24',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Heights High Plays The Grog Shop Fundraiser'],
-    link: 'https://grogshop.gs/tm-event/heights-high-plays-the-grog-shop-fundraiser/',
-    date: '2025-01-25',
-    venue: 'Grog Shop',
-  },
-  {
-    artist: ['Honeyland', 'Leadfoot Granny', 'The Super Babes'],
-    link: 'https://grogshop.gs/tm-event/honeyland-w-leadfoot-granny-the-super-babes/',
-    date: '2025-01-25',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Miguel Cafe',
       'Guiche',
@@ -1435,14 +1393,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
+    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
+    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
-    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
@@ -1850,18 +1808,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Persian Night w/ DJ Pooyan'],
-    link: 'https://www.ticketweb.com/event/persian-night-w-dj-pooyan-the-winchester-tickets/14165243',
-    date: '2025-01-24T20:00:00',
-    venue: 'Winchester Tavern',
-  },
-  {
-    artist: ['Winter Lazy Daisy'],
-    link: 'https://www.ticketweb.com/event/winter-lazy-daisy-the-winchester-tickets/14043683',
-    date: '2025-01-25T20:00:00',
-    venue: 'Winchester Tavern',
-  },
-  {
     artist: ['BOOZY BRUNCH (RAGE AGAINST THE MACHINE)'],
     link: 'https://www.ticketweb.com/event/boozy-brunch-rage-against-the-the-winchester-tickets/14205063',
     date: '2025-01-26T11:00:00',
@@ -1967,6 +1913,18 @@ export const allShows = [
     artist: ['Thrown'],
     link: 'https://www.ticketweb.com/event/thrown-the-winchester-tickets/14168123',
     date: '2025-02-27T19:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
+    artist: ['The Warped Band \u2013 The Ultimate Tribute to Warped Tour'],
+    link: 'https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13970823',
+    date: '2025-02-28T20:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
+    artist: ['BLOCKHEAD presents "MORTALITY IS LIT" TOUR'],
+    link: 'https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153',
+    date: '2025-03-01T20:00:00',
     venue: 'Winchester Tavern',
   },
   {
@@ -2078,12 +2036,6 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
-    artist: ['Atomic Witch'],
-    link: 'https://link.dice.fm/O21d282e6e56?dice_id=O21d282e6e56',
-    date: '2025-01-25T18:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Brianna Bell'],
     link: 'https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b',
     date: '2025-01-26T17:00:00-05:00',
@@ -2180,16 +2132,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Twiztid'],
-    link: 'https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7',
-    date: '2025-02-15T19:00:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Matt Corman and Ollie Joseph'],
     link: 'https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d',
     date: '2025-02-15T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Twiztid'],
+    link: 'https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7',
+    date: '2025-02-15T19:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Love Club: an all out 2010\u2019s night'],
@@ -2253,16 +2205,16 @@ export const allShows = [
     venue: 'Mahall\u2019s Apartment',
   },
   {
-    artist: ['Intervals'],
-    link: 'https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301',
-    date: '2025-03-06T18:30:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['The Little Ditties'],
     link: 'https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31',
     date: '2025-03-06T18:30:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Intervals'],
+    link: 'https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301',
+    date: '2025-03-06T18:30:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Driveways'],
@@ -2661,12 +2613,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831',
     date: '2025-08-31T00:00:01',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['School of Rock: Highland Heights'],
-    link: 'https://www.beachlandballroom.com/e/14172363/school-of-rock-highland-heights',
-    date: '2025-01-25T12:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Myth & Company', 'Navingale', 'Dan McCoy'],

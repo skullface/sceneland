@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Flanagan's Wake"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-3",
-    "date": "2025-01-03T00:00:01",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
       "Josh Johnson: The Flowers Tour"
     ],
     "link": "https://www.playhousesquare.org/events/detail/josh-johnson-the-flowers-tour",
     "date": "2025-01-31T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Flanagan's Wake"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-3",
+    "date": "2025-01-03T00:00:01",
     "venue": "Playhouse Square"
   },
   {
@@ -109,14 +109,6 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/jimmy-carr-laughs-funny",
     "date": "2025-10-11T00:00:01",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "CANCELLED -- John Ruffin Presents \"LIVING ALL ALONE\""
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/john-ruffin-presents-living-all-alone",
-    "date": "2025-01-25T00:00:01",
     "venue": "Playhouse Square"
   },
   {

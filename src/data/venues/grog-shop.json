@@ -1,34 +1,6 @@
 [
   {
     "artist": [
-      "Pile",
-      "Owney The Postal Dog",
-      "Hunden"
-    ],
-    "link": "https://grogshop.gs/tm-event/pile/",
-    "date": "2025-01-24",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Heights High Plays The Grog Shop Fundraiser"
-    ],
-    "link": "https://grogshop.gs/tm-event/heights-high-plays-the-grog-shop-fundraiser/",
-    "date": "2025-01-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Honeyland",
-      "Leadfoot Granny",
-      "The Super Babes"
-    ],
-    "link": "https://grogshop.gs/tm-event/honeyland-w-leadfoot-granny-the-super-babes/",
-    "date": "2025-01-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Miguel Cafe",
       "Guiche",
       "Guy Snowden & The Citizens",
@@ -110,18 +82,18 @@
   },
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
+      "Tim Heidecker: Slipping Away Tour",
+      "Neil Hamburger"
     ],
-    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
+    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Tim Heidecker: Slipping Away Tour",
-      "Neil Hamburger"
+      "Midnight Rental presents Secret Movie Night"
     ],
-    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Atomic Witch"
-    ],
-    "link": "https://link.dice.fm/O21d282e6e56?dice_id=O21d282e6e56",
-    "date": "2025-01-25T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Brianna Bell"
     ],
     "link": "https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b",
@@ -137,19 +129,19 @@
   },
   {
     "artist": [
-      "Twiztid"
-    ],
-    "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
-    "date": "2025-02-15T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Matt Corman and Ollie Joseph"
     ],
     "link": "https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d",
     "date": "2025-02-15T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Twiztid"
+    ],
+    "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
+    "date": "2025-02-15T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -234,19 +226,19 @@
   },
   {
     "artist": [
-      "Intervals"
-    ],
-    "link": "https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301",
-    "date": "2025-03-06T18:30:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Little Ditties"
     ],
     "link": "https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31",
     "date": "2025-03-06T18:30:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Intervals"
+    ],
+    "link": "https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301",
+    "date": "2025-03-06T18:30:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

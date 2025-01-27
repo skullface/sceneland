@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jan 2025 09:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 09:06:22 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Josh Johnson: The Flowers Tour at Playhouse Square]]></title>
@@ -194,13 +194,6 @@
             <link>https://www.playhousesquare.org/events/detail/adam-ray-is-dr-phil-live</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/adam-ray-is-dr-phil-live</guid>
             <pubDate>Fri, 06 Jun 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guster at Agora]]></title>
-            <description><![CDATA[Get tickets to Guster at Agora on Sunday, January 26, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/649630]]></description>
-            <link>https://www.agoracleveland.com/events/detail/649630</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/649630</guid>
-            <pubDate>Sun, 26 Jan 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Destroy Lonely, Lil88 at Agora]]></title>
@@ -784,27 +777,6 @@
             <pubDate>Tue, 14 Oct 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RENESANS & NAILED SHUT MA at Foundry]]></title>
-            <description><![CDATA[Get tickets to RENESANS & NAILED SHUT MA at Foundry on Saturday, January 25, 2025, 06:30 PM: https://www.foundryconcertclub.com/tm-event/renesans-nailed-shut-ma/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/renesans-nailed-shut-ma/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/renesans-nailed-shut-ma/</guid>
-            <pubDate>Sat, 25 Jan 2025 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Priscilla, Billy Morris and the Sunset Strip, Lilieae, Craig Martini at Foundry]]></title>
-            <description><![CDATA[Get tickets to Priscilla, Billy Morris and the Sunset Strip, Lilieae, Craig Martini at Foundry on Sunday, January 26, 2025, 06:00 PM: https://www.foundryconcertclub.com/tm-event/priscilla-billy-morris-and-the-sunset-strip-lilieae-craig-martini/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/priscilla-billy-morris-and-the-sunset-strip-lilieae-craig-martini/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/priscilla-billy-morris-and-the-sunset-strip-lilieae-craig-martini/</guid>
-            <pubDate>Sun, 26 Jan 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CLOSED FOR A PRIVATE EVENT at Foundry]]></title>
-            <description><![CDATA[Get tickets to CLOSED FOR A PRIVATE EVENT at Foundry on Monday, January 27, 2025, 12:00 AM: https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event-2/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event-2/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event-2/</guid>
-            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ONE FINAL SHOW IN LAKEWOOD at Foundry]]></title>
             <description><![CDATA[Get tickets to ONE FINAL SHOW IN LAKEWOOD at Foundry on Tuesday, January 28, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/one-final-show-in-lakewood/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/one-final-show-in-lakewood/</link>
@@ -922,6 +894,20 @@
             <link>https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/</guid>
             <pubDate>Sat, 15 Mar 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
+            <description><![CDATA[Get tickets to Personality Crisis: Cle Punk Night at Foundry on Tuesday, March 18, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/</guid>
+            <pubDate>Tue, 18 Mar 2025 21:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MONSTER MASH PT III at Foundry]]></title>
+            <description><![CDATA[Get tickets to MONSTER MASH PT III at Foundry on Friday, March 28, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/monster-mash-pt-iii/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/monster-mash-pt-iii/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/monster-mash-pt-iii/</guid>
+            <pubDate>Fri, 28 Mar 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Personality Crisis: Cle Punk Night at Foundry]]></title>
@@ -1202,34 +1188,6 @@
             <link>https://www.jacobspavilion.com/events/detail?event_id=754627</link>
             <guid isPermaLink="true">https://www.jacobspavilion.com/events/detail?event_id=754627</guid>
             <pubDate>Sun, 07 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DRAG ME TO THE MIC at No Class]]></title>
-            <description><![CDATA[Get tickets to DRAG ME TO THE MIC at No Class on Thursday, January 23, 2025, 12:00 AM: https://noclasscle.com/events/drag-me-to-the-mic]]></description>
-            <link>https://noclasscle.com/events/drag-me-to-the-mic</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/drag-me-to-the-mic</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERN'S BDAY SHOW at No Class]]></title>
-            <description><![CDATA[Get tickets to VERN'S BDAY SHOW at No Class on Friday, January 24, 2025, 12:00 AM: https://noclasscle.com/events/verns-bday-show]]></description>
-            <link>https://noclasscle.com/events/verns-bday-show</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/verns-bday-show</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PLANT SALE TO BENEFIT PLANNED PARENTHOOD at No Class]]></title>
-            <description><![CDATA[Get tickets to PLANT SALE TO BENEFIT PLANNED PARENTHOOD at No Class on Saturday, January 25, 2025, 12:00 AM: https://noclasscle.com/events/plant-sale-to-benefit-planned-parenthood]]></description>
-            <link>https://noclasscle.com/events/plant-sale-to-benefit-planned-parenthood</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/plant-sale-to-benefit-planned-parenthood</guid>
-            <pubDate>Sat, 25 Jan 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WIFISFUNERAL at No Class]]></title>
-            <description><![CDATA[Get tickets to WIFISFUNERAL at No Class on Saturday, January 25, 2025, 12:00 AM: https://noclasscle.com/events/wifisfuneral]]></description>
-            <link>https://noclasscle.com/events/wifisfuneral</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/wifisfuneral</guid>
-            <pubDate>Sat, 25 Jan 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HORROR TRIVIA at No Class]]></title>
@@ -2163,13 +2121,6 @@
             <pubDate>Sat, 01 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BLOCKHEAD presents "MORTALITY IS LIT" TOUR at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to BLOCKHEAD presents "MORTALITY IS LIT" TOUR at Winchester Tavern on Saturday, March 1, 2025, 08:00 PM: https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153]]></description>
-            <link>https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153</guid>
-            <pubDate>Sat, 01 Mar 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Leslie Mendelson at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to Leslie Mendelson at Winchester Tavern on Tuesday, March 4, 2025, 08:00 PM: https://www.ticketweb.com/event/leslie-mendelson-the-winchester-tickets/14156543]]></description>
             <link>https://www.ticketweb.com/event/leslie-mendelson-the-winchester-tickets/14156543</link>
@@ -2289,13 +2240,6 @@
             <pubDate>Fri, 16 May 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Brianna Bell at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Brianna Bell at Mahall’s on Sunday, January 26, 2025, 10:00 PM: https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b]]></description>
-            <link>https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b</link>
-            <guid isPermaLink="true">https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b</guid>
-            <pubDate>Sun, 26 Jan 2025 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bay Ledges at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Bay Ledges at Mahall’s on Thursday, January 30, 2025, 12:00 AM: https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71]]></description>
             <link>https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71</link>
@@ -2401,17 +2345,17 @@
             <pubDate>Sat, 15 Feb 2025 03:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Matt Corman and Ollie Joseph at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Matt Corman and Ollie Joseph at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d]]></description>
-            <link>https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</link>
-            <guid isPermaLink="true">https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</guid>
-            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Twiztid at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Twiztid at The Roxy at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7]]></description>
             <link>https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</link>
             <guid isPermaLink="true">https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7</guid>
+            <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matt Corman and Ollie Joseph at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Matt Corman and Ollie Joseph at Mahall’s on Sunday, February 16, 2025, 12:00 AM: https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d]]></description>
+            <link>https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</link>
+            <guid isPermaLink="true">https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d</guid>
             <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2667,17 +2611,17 @@
             <pubDate>Thu, 01 May 2025 23:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magnolia Park at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Magnolia Park at The Roxy at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204]]></description>
-            <link>https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</link>
-            <guid isPermaLink="true">https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</guid>
-            <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boston Manor at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Boston Manor at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c]]></description>
             <link>https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</link>
             <guid isPermaLink="true">https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</guid>
+            <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magnolia Park at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Magnolia Park at The Roxy at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204]]></description>
+            <link>https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</link>
+            <guid isPermaLink="true">https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</guid>
             <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2938,34 +2882,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</guid>
             <pubDate>Sun, 31 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myth & Company, Navingale, Dan McCoy at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Myth & Company, Navingale, Dan McCoy at Beachland Tavern on Saturday, January 25, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13982393/myth-company-navingale-dan-mccoy]]></description>
-            <link>https://www.beachlandballroom.com/e/13982393/myth-company-navingale-dan-mccoy</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13982393/myth-company-navingale-dan-mccoy</guid>
-            <pubDate>Sat, 25 Jan 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The FM Project (Steely Dan Tribute Band) at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to The FM Project (Steely Dan Tribute Band) at Beachland Ballroom on Saturday, January 25, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14065943/the-fm-project-steely-dan-tribute-band-]]></description>
-            <link>https://www.beachlandballroom.com/e/14065943/the-fm-project-steely-dan-tribute-band-</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14065943/the-fm-project-steely-dan-tribute-band-</guid>
-            <pubDate>Sat, 25 Jan 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Brunch, DJ David McNally & DJ Mark Galauner at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, DJ David McNally & DJ Mark Galauner at Beachland Tavern on Sunday, January 26, 2025, 11:00 AM: https://www.beachlandballroom.com/e/14166543/beachland-brunch-dj-david-mcnally-dj-mark-galauner]]></description>
-            <link>https://www.beachlandballroom.com/e/14166543/beachland-brunch-dj-david-mcnally-dj-mark-galauner</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14166543/beachland-brunch-dj-david-mcnally-dj-mark-galauner</guid>
-            <pubDate>Sun, 26 Jan 2025 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[School of Rock: Highland Heights at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to School of Rock: Highland Heights at Beachland Tavern on Sunday, January 26, 2025, 11:00 AM: https://www.beachlandballroom.com/e/14172373/school-of-rock-highland-heights]]></description>
-            <link>https://www.beachlandballroom.com/e/14172373/school-of-rock-highland-heights</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14172373/school-of-rock-highland-heights</guid>
-            <pubDate>Sun, 26 Jan 2025 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jax Hollow, Taylor Lamborn at Beachland Tavern]]></title>

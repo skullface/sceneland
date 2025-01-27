@@ -162,12 +162,6 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
-    artist: ['Guster'],
-    link: 'https://www.agoracleveland.com/events/detail/649630',
-    date: '2025-01-26T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Destroy Lonely, Lil88'],
     link: 'https://www.agoracleveland.com/events/detail/736179',
     date: '2025-02-05T18:00:00',
@@ -668,26 +662,6 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
-    artist: ['RENESANS & NAILED SHUT MA'],
-    link: 'https://www.foundryconcertclub.com/tm-event/renesans-nailed-shut-ma/',
-    date: '2025-01-25T18:30:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: [
-      'Priscilla, Billy Morris and the Sunset Strip, Lilieae, Craig Martini',
-    ],
-    link: 'https://www.foundryconcertclub.com/tm-event/priscilla-billy-morris-and-the-sunset-strip-lilieae-craig-martini/',
-    date: '2025-01-26T18:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['CLOSED FOR A PRIVATE EVENT'],
-    link: 'https://www.foundryconcertclub.com/tm-event/closed-for-a-private-event-2/',
-    date: '2025-01-27T00:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['ONE FINAL SHOW IN LAKEWOOD'],
     link: 'https://www.foundryconcertclub.com/tm-event/one-final-show-in-lakewood/',
     date: '2025-01-28T19:00:00',
@@ -787,6 +761,18 @@ export const allShows = [
     artist: ['Heart to Gold, Enumclaw, Oolong'],
     link: 'https://www.foundryconcertclub.com/tm-event/heart-to-gold-enumclaw-oolong/',
     date: '2025-03-15T20:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['Personality Crisis: Cle Punk Night'],
+    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-5/',
+    date: '2025-03-18T21:00:00',
+    venue: 'Foundry',
+  },
+  {
+    artist: ['MONSTER MASH PT III'],
+    link: 'https://www.foundryconcertclub.com/tm-event/monster-mash-pt-iii/',
+    date: '2025-03-28T19:00:00',
     venue: 'Foundry',
   },
   {
@@ -1036,30 +1022,6 @@ export const allShows = [
     link: 'https://www.jacobspavilion.com/events/detail?event_id=754627',
     date: '2025-09-07T00:00:01',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['DRAG ME TO THE MIC'],
-    link: 'https://noclasscle.com/events/drag-me-to-the-mic',
-    date: '2025-01-23T00:00:01',
-    venue: 'No Class',
-  },
-  {
-    artist: ["VERN'S BDAY SHOW"],
-    link: 'https://noclasscle.com/events/verns-bday-show',
-    date: '2025-01-24T00:00:01',
-    venue: 'No Class',
-  },
-  {
-    artist: ['PLANT SALE TO BENEFIT PLANNED PARENTHOOD'],
-    link: 'https://noclasscle.com/events/plant-sale-to-benefit-planned-parenthood',
-    date: '2025-01-25T00:00:01',
-    venue: 'No Class',
-  },
-  {
-    artist: ['WIFISFUNERAL'],
-    link: 'https://noclasscle.com/events/wifisfuneral',
-    date: '2025-01-25T00:00:01',
-    venue: 'No Class',
   },
   {
     artist: ['HORROR TRIVIA'],
@@ -1928,12 +1890,6 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
-    artist: ['BLOCKHEAD presents "MORTALITY IS LIT" TOUR'],
-    link: 'https://www.ticketweb.com/event/blockhead-presents-mortality-is-lit-the-winchester-tickets/14045153',
-    date: '2025-03-01T20:00:00',
-    venue: 'Winchester Tavern',
-  },
-  {
     artist: ['Leslie Mendelson'],
     link: 'https://www.ticketweb.com/event/leslie-mendelson-the-winchester-tickets/14156543',
     date: '2025-03-04T20:00:00',
@@ -2036,12 +1992,6 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
-    artist: ['Brianna Bell'],
-    link: 'https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b',
-    date: '2025-01-26T17:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Bay Ledges'],
     link: 'https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71',
     date: '2025-01-29T19:00:00-05:00',
@@ -2132,16 +2082,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Matt Corman and Ollie Joseph'],
-    link: 'https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d',
-    date: '2025-02-15T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Twiztid'],
     link: 'https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7',
     date: '2025-02-15T19:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Matt Corman and Ollie Joseph'],
+    link: 'https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d',
+    date: '2025-02-15T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Love Club: an all out 2010\u2019s night'],
@@ -2183,6 +2133,7 @@ export const allShows = [
   {
     artist: ['Emo Night CLE 10 year birthday party feat. 3OH!3'],
     link: 'https://link.dice.fm/h55903ed92c9?dice_id=h55903ed92c9',
+    sold_out: true,
     date: '2025-02-21T20:00:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
@@ -2361,16 +2312,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Magnolia Park'],
-    link: 'https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204',
-    date: '2025-05-03T18:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Boston Manor'],
     link: 'https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c',
     date: '2025-05-03T18:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Magnolia Park'],
+    link: 'https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204',
+    date: '2025-05-03T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['George Clanton'],
@@ -2613,30 +2564,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831',
     date: '2025-08-31T00:00:01',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Myth & Company', 'Navingale', 'Dan McCoy'],
-    link: 'https://www.beachlandballroom.com/e/13982393/myth-company-navingale-dan-mccoy',
-    date: '2025-01-25T20:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['The FM Project (Steely Dan Tribute Band)'],
-    link: 'https://www.beachlandballroom.com/e/14065943/the-fm-project-steely-dan-tribute-band-',
-    date: '2025-01-25T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Beachland Brunch', 'DJ David McNally & DJ Mark Galauner'],
-    link: 'https://www.beachlandballroom.com/e/14166543/beachland-brunch-dj-david-mcnally-dj-mark-galauner',
-    date: '2025-01-26T11:00:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['School of Rock: Highland Heights'],
-    link: 'https://www.beachlandballroom.com/e/14172373/school-of-rock-highland-heights',
-    date: '2025-01-26T11:00:00',
-    venue: 'Beachland Tavern',
   },
   {
     artist: ['Jax Hollow', 'Taylor Lamborn'],

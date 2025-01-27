@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Brianna Bell"
-    ],
-    "link": "https://link.dice.fm/R9aed74f0c5b?dice_id=R9aed74f0c5b",
-    "date": "2025-01-26T17:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Bay Ledges"
     ],
     "link": "https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71",
@@ -129,19 +121,19 @@
   },
   {
     "artist": [
-      "Matt Corman and Ollie Joseph"
-    ],
-    "link": "https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d",
-    "date": "2025-02-15T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Twiztid"
     ],
     "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
     "date": "2025-02-15T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Matt Corman and Ollie Joseph"
+    ],
+    "link": "https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d",
+    "date": "2025-02-15T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -197,6 +189,7 @@
       "Emo Night CLE 10 year birthday party feat. 3OH!3"
     ],
     "link": "https://link.dice.fm/h55903ed92c9?dice_id=h55903ed92c9",
+    "sold_out": true,
     "date": "2025-02-21T20:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
@@ -434,19 +427,19 @@
   },
   {
     "artist": [
-      "Magnolia Park"
-    ],
-    "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
-    "date": "2025-05-03T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Boston Manor"
     ],
     "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
     "date": "2025-05-03T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Magnolia Park"
+    ],
+    "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
+    "date": "2025-05-03T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

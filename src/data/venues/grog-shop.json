@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Miguel Cafe",
-      "Guiche",
-      "Guy Snowden & The Citizens",
-      "Another Dead Rockstar"
-    ],
-    "link": "https://grogshop.gs/tm-event/miguel-cafe-guiche-guy-snowden-the-citizens-another-dead-rockstar/",
-    "date": "2025-01-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "End The War on Black America",
       "Caesar Rio",
       "Los P",
@@ -156,6 +145,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/jarv-rap-101-tour/",
     "date": "2025-02-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Valentines Day In The Heights",
+      "ItsLiL"
+    ],
+    "link": "https://grogshop.gs/tm-event/valentines-day-in-the-heights/",
+    "date": "2025-02-14",
     "venue": "Grog Shop"
   },
   {
@@ -450,6 +448,14 @@
   },
   {
     "artist": [
+      "An Evening With Yo La Tengo"
+    ],
+    "link": "https://grogshop.gs/tm-event/an-evening-with-yo-la-tengo/",
+    "date": "2025-03-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Sonido Gallo Negro"
     ],
     "link": "https://grogshop.gs/tm-event/sonido-gallo-negro/",
@@ -519,6 +525,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-2/",
     "date": "2025-04-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sofia Isella"
+    ],
+    "link": "https://grogshop.gs/tm-event/sofia-isella/",
+    "date": "2025-04-23",
     "venue": "Grog Shop"
   },
   {

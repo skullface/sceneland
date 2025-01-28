@@ -234,7 +234,7 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Morgan Wade'],
+    artist: ['Morgan Wade, Elizabeth Cook'],
     link: 'https://www.agoracleveland.com/events/detail/706642',
     date: '2025-03-12T18:00:00',
     venue: 'Agora',
@@ -410,6 +410,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ["Jack's Mannequin"],
+    link: 'https://www.agoracleveland.com/events/detail/830075',
+    date: '2025-11-08T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Kerry King'],
     link: 'https://concerts.livenation.com/kerry-king-cleveland-ohio-01-31-2025/event/0500613A1667611E',
     date: '2025-01-31T18:00:00',
@@ -503,6 +509,12 @@ export const allShows = [
     artist: ['Dixon Dallas'],
     link: 'https://concerts.livenation.com/dixon-dallas-cleveland-ohio-03-11-2025/event/0500618DC3352FB0',
     date: '2025-03-11T18:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Buckethead'],
+    link: 'https://concerts.livenation.com/buckethead-cleveland-ohio-03-18-2025/event/05006235DF573A6E',
+    date: '2025-03-18T18:30:00',
     venue: 'House of Blues',
   },
   {
@@ -776,18 +788,6 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Personality Crisis: Cle Punk Night'],
-    link: 'https://www.foundryconcertclub.com/tm-event/personality-crisis-cle-punk-night-6/',
-    date: '2025-03-25T21:00:00',
-    venue: 'Foundry',
-  },
-  {
-    artist: ['MONSTER MASH PT III'],
-    link: 'https://www.foundryconcertclub.com/tm-event/monster-mash-pt-iii/',
-    date: '2025-03-28T19:00:00',
-    venue: 'Foundry',
-  },
-  {
     artist: ['Dead Boys, The Yowl, American Werewolves, Hams'],
     link: 'https://www.foundryconcertclub.com/tm-event/dead-boys-blacklist-union-american-werewolves-hams/',
     date: '2025-04-12T19:00:00',
@@ -812,12 +812,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/',
     date: '2025-05-30T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Monday Night Trivia!'],
-    link: 'https://app.opendate.io/e/monday-night-trivia-january-27-2025-568961',
-    date: '2025-01-27T00:00:01',
-    venue: 'Happy Dog',
   },
   {
     artist: ['Swisher, Star House, Anteater - a release show from unifactor'],
@@ -1018,28 +1012,22 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
+    artist: ['Goose'],
+    link: 'https://www.jacobspavilion.com/events/detail?event_id=828562',
+    date: '2025-06-19T00:00:01',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
+    artist: ['Goose'],
+    link: 'https://www.jacobspavilion.com/events/detail?event_id=828563',
+    date: '2025-06-20T00:00:01',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
     artist: ['Alison Krauss & Union Station, Willie Watson'],
     link: 'https://www.jacobspavilion.com/events/detail?event_id=754627',
     date: '2025-09-07T00:00:01',
     venue: 'Jacobs Pavilion at Nautica',
-  },
-  {
-    artist: ['HORROR TRIVIA'],
-    link: 'https://noclasscle.com/events/horror-trivia-1-26',
-    date: '2025-01-26T00:00:01',
-    venue: 'No Class',
-  },
-  {
-    artist: ['DIVORCED DRAG ROCK'],
-    link: 'https://noclasscle.com/events/divorced-drag-rock',
-    date: '2025-01-26T00:00:01',
-    venue: 'No Class',
-  },
-  {
-    artist: ['DEATH CAFE'],
-    link: 'https://noclasscle.com/events/death-cafe-1-27',
-    date: '2025-01-27T00:00:01',
-    venue: 'No Class',
   },
   {
     artist: ['THE METEORS'],
@@ -1252,6 +1240,12 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: ['Luke Bryan: Country Song Came On Tour'],
+    link: 'https://concerts.livenation.com/luke-bryan-country-song-came-on-cuyahoga-falls-ohio-07-11-2025/event/05006238D88D55DF',
+    date: '2025-07-11T19:00:00',
+    venue: 'Blossom',
+  },
+  {
     artist: [
       'Nelly with Ja Rule, Eve and Special Guests: Where The Party At Tour',
     ],
@@ -1290,17 +1284,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/tyler-childers-on-the-road-cuyahoga-falls-ohio-10-07-2025/event/05006167C0B828F4',
     date: '2025-10-07T19:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: [
-      'Miguel Cafe',
-      'Guiche',
-      'Guy Snowden & The Citizens',
-      'Another Dead Rockstar',
-    ],
-    link: 'https://grogshop.gs/tm-event/miguel-cafe-guiche-guy-snowden-the-citizens-another-dead-rockstar/',
-    date: '2025-01-26',
-    venue: 'Grog Shop',
   },
   {
     artist: ['End The War on Black America', 'Caesar Rio', 'Los P', 'Full 90'],
@@ -1407,6 +1390,12 @@ export const allShows = [
     artist: ['Jarv: Rap 101 Tour', 'King Green', 'Damn Skippy'],
     link: 'https://grogshop.gs/tm-event/jarv-rap-101-tour/',
     date: '2025-02-13',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Valentines Day In The Heights', 'ItsLiL'],
+    link: 'https://grogshop.gs/tm-event/valentines-day-in-the-heights/',
+    date: '2025-02-14',
     venue: 'Grog Shop',
   },
   {
@@ -1631,6 +1620,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['An Evening With Yo La Tengo'],
+    link: 'https://grogshop.gs/tm-event/an-evening-with-yo-la-tengo/',
+    date: '2025-03-24',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Sonido Gallo Negro'],
     link: 'https://grogshop.gs/tm-event/sonido-gallo-negro/',
     date: '2025-03-25',
@@ -1682,6 +1677,12 @@ export const allShows = [
     artist: ['Slackfest Cleveland: Night 2'],
     link: 'https://grogshop.gs/tm-event/slackfest-cleveland-night-2/',
     date: '2025-04-19',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Sofia Isella'],
+    link: 'https://grogshop.gs/tm-event/sofia-isella/',
+    date: '2025-04-23',
     venue: 'Grog Shop',
   },
   {
@@ -1770,18 +1771,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['BOOZY BRUNCH (RAGE AGAINST THE MACHINE)'],
-    link: 'https://www.ticketweb.com/event/boozy-brunch-rage-against-the-the-winchester-tickets/14205063',
-    date: '2025-01-26T11:00:00',
-    venue: 'Winchester Tavern',
-  },
-  {
-    artist: ['Lynch Mob \u2013 The Final Ride, Paralandra'],
-    link: 'https://www.ticketweb.com/event/lynch-mob-the-the-winchester-tickets/13853243',
-    date: '2025-01-26T19:00:00',
-    venue: 'Winchester Tavern',
-  },
-  {
     artist: ['RA \u2013 THE LAST HUR-RA TOUR'],
     link: 'https://www.ticketweb.com/event/ra-the-last-the-winchester-tickets/14029413',
     date: '2025-01-28T19:00:00',
@@ -1845,6 +1834,12 @@ export const allShows = [
     artist: ['Valentine\u2019s Dance Party: A Night of Indie Lovesongs'],
     link: 'https://www.ticketweb.com/event/valentines-dance-party-a-night-the-winchester-tickets/14223283',
     date: '2025-02-14T21:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
+    artist: ['Dark Wave Dance Cave (CURE NIGHT)'],
+    link: 'https://www.ticketweb.com/event/dark-wave-dance-cave-cure-the-winchester-tickets/14231493',
+    date: '2025-02-15T21:00:00',
     venue: 'Winchester Tavern',
   },
   {
@@ -2018,7 +2013,7 @@ export const allShows = [
   {
     artist: ['The Backfires'],
     link: 'https://link.dice.fm/fd990a00ca1c?dice_id=fd990a00ca1c',
-    date: '2025-02-01T19:00:00-05:00',
+    date: '2025-02-01T18:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2228,10 +2223,22 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Absolute Intense Wrestling: Barely Lethal'],
+    link: 'https://link.dice.fm/c1079043818b?dice_id=c1079043818b',
+    date: '2025-03-28T18:30:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
     artist: ['While She Sleeps '],
     link: 'https://link.dice.fm/o73260c5a4aa?dice_id=o73260c5a4aa',
     date: '2025-04-02T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Honestav'],
+    link: 'https://link.dice.fm/p6dae1233c19?dice_id=p6dae1233c19',
+    date: '2025-04-04T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Anxious'],
@@ -2334,6 +2341,12 @@ export const allShows = [
     link: 'https://link.dice.fm/gf04d58e5130?dice_id=gf04d58e5130',
     date: '2025-05-24T19:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['The Wonder Years'],
+    link: 'https://link.dice.fm/if6aca52bc99?dice_id=if6aca52bc99',
+    date: '2025-05-31T19:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Annie DiRusso'],
@@ -2660,6 +2673,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['Beachland Brunch', 'DJ Jeff Hagen'],
+    link: 'https://www.beachlandballroom.com/e/14230733/beachland-brunch-dj-jeff-hagen',
+    date: '2025-02-09T11:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ["Rickshaw Billie's Burger Patrol", 'Lip Critic'],
     link: 'https://www.beachlandballroom.com/e/13949953/rickshaw-billie-s-burger-patrol-lip-critic',
     date: '2025-02-12T20:00:00',
@@ -2798,8 +2817,8 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
-    artist: ['The New Mastersounds'],
-    link: 'https://www.beachlandballroom.com/e/14107883/the-new-mastersounds',
+    artist: ['The New Mastersounds', 'Organ Fairchild'],
+    link: 'https://www.beachlandballroom.com/e/14107883/the-new-mastersounds-organ-fairchild',
     date: '2025-02-28T20:00:00',
     venue: 'Beachland Ballroom',
   },
@@ -2824,6 +2843,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/13944443/augie-meyers-the-bandoleros-tall-paul-and-western-drawl',
     date: '2025-03-04T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Jesse Roper'],
+    link: 'https://www.beachlandballroom.com/e/14231983/jesse-roper',
+    date: '2025-03-04T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['The Surfrajettes', 'OONGOW!!!'],
@@ -2930,6 +2955,12 @@ export const allShows = [
     artist: ['Beachland Flea'],
     link: 'https://www.beachlandballroom.com/e/14205363/beachland-flea',
     date: '2025-03-23T10:00:00',
+    venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Yo La Tengo'],
+    link: 'https://www.beachlandballroom.com/e/14222303/yo-la-tengo',
+    date: '2025-03-24T19:30:00',
     venue: 'Beachland Ballroom',
   },
   {
@@ -3044,6 +3075,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/14055203/sam-blasucci-julia-civic',
     date: '2025-04-15T20:00:00',
     venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Matt Hansen'],
+    link: 'https://www.beachlandballroom.com/e/14216143/matt-hansen',
+    date: '2025-04-15T20:00:00',
+    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Sawyer Hill'],
@@ -3180,8 +3217,8 @@ export const allShows = [
     venue: 'Beachland Ballroom',
   },
   {
-    artist: ['The Arcadian Wild'],
-    link: 'https://www.beachlandballroom.com/e/13937283/the-arcadian-wild',
+    artist: ['The Arcadian Wild', 'River & Rail'],
+    link: 'https://www.beachlandballroom.com/e/13937283/the-arcadian-wild-river-rail',
     date: '2025-05-09T20:00:00',
     venue: 'Beachland Tavern',
   },

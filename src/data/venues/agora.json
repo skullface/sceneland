@@ -97,7 +97,7 @@
   },
   {
     "artist": [
-      "Morgan Wade"
+      "Morgan Wade, Elizabeth Cook"
     ],
     "link": "https://www.agoracleveland.com/events/detail/706642",
     "date": "2025-03-12T18:00:00",
@@ -325,6 +325,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/783532",
     "date": "2025-06-17T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jack's Mannequin"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/830075",
+    "date": "2025-11-08T18:00:00",
     "venue": "Agora"
   }
 ]

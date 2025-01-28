@@ -130,6 +130,15 @@
   },
   {
     "artist": [
+      "Beachland Brunch",
+      "DJ Jeff Hagen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14230733/beachland-brunch-dj-jeff-hagen",
+    "date": "2025-02-09T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Rickshaw Billie's Burger Patrol",
       "Lip Critic"
     ],
@@ -321,9 +330,10 @@
   },
   {
     "artist": [
-      "The New Mastersounds"
+      "The New Mastersounds",
+      "Organ Fairchild"
     ],
-    "link": "https://www.beachlandballroom.com/e/14107883/the-new-mastersounds",
+    "link": "https://www.beachlandballroom.com/e/14107883/the-new-mastersounds-organ-fairchild",
     "date": "2025-02-28T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -355,6 +365,14 @@
     "link": "https://www.beachlandballroom.com/e/13944443/augie-meyers-the-bandoleros-tall-paul-and-western-drawl",
     "date": "2025-03-04T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jesse Roper"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14231983/jesse-roper",
+    "date": "2025-03-04T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -505,6 +523,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/14205363/beachland-flea",
     "date": "2025-03-23T10:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Yo La Tengo"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14222303/yo-la-tengo",
+    "date": "2025-03-24T19:30:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -661,6 +687,14 @@
     "link": "https://www.beachlandballroom.com/e/14055203/sam-blasucci-julia-civic",
     "date": "2025-04-15T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Matt Hansen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14216143/matt-hansen",
+    "date": "2025-04-15T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -825,9 +859,10 @@
   },
   {
     "artist": [
-      "The Arcadian Wild"
+      "The Arcadian Wild",
+      "River & Rail"
     ],
-    "link": "https://www.beachlandballroom.com/e/13937283/the-arcadian-wild",
+    "link": "https://www.beachlandballroom.com/e/13937283/the-arcadian-wild-river-rail",
     "date": "2025-05-09T20:00:00",
     "venue": "Beachland Tavern"
   },

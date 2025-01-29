@@ -36,6 +36,12 @@ export const allShows = [
     venue: 'Playhouse Square',
   },
   {
+    artist: ['Michael Yo'],
+    link: 'https://www.playhousesquare.org/events/detail/michael-yo',
+    date: '2025-04-11T00:00:01',
+    venue: 'Playhouse Square',
+  },
+  {
     artist: ['Fortune Feimster'],
     link: 'https://www.playhousesquare.org/events/detail/fortune-feimster-takin-care-of-biscuits-tour',
     date: '2025-04-18T00:00:01',
@@ -300,17 +306,15 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: [
-      'Coal Chamber, Fear Factory, Black Satellite, Bittersweet Revenge',
-    ],
-    link: 'https://www.agoracleveland.com/events/detail/560540',
-    date: '2025-04-05T18:00:00',
-    venue: 'Agora',
-  },
-  {
     artist: ['Connor Price, Graham'],
     link: 'https://www.agoracleveland.com/events/detail/776148',
     date: '2025-04-06T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['Dom Kennedy, Casey Veggies'],
+    link: 'https://www.agoracleveland.com/events/detail/833709',
+    date: '2025-04-07T18:00:00',
     venue: 'Agora',
   },
   {
@@ -359,6 +363,12 @@ export const allShows = [
     artist: ['Danae Hays'],
     link: 'https://www.agoracleveland.com/events/detail/707529',
     date: '2025-04-25T18:00:00',
+    venue: 'Agora',
+  },
+  {
+    artist: ['The Bouncing Souls, H2O, Dave Hause & The Mermaid, School Drugs'],
+    link: 'https://www.agoracleveland.com/events/detail/833125',
+    date: '2025-04-26T18:00:00',
     venue: 'Agora',
   },
   {
@@ -560,6 +570,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Maddie Zahm: The Sad & Sexy Tour'],
+    link: 'https://concerts.livenation.com/maddie-zahm-the-sad-sexy-tour-cleveland-ohio-04-03-2025/event/05006192E5484ADE',
+    date: '2025-04-03T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Bayside: 25th Anniversary: The Errors Tour: 2 Day Ticket'],
     link: 'https://concerts.livenation.com/bayside-25th-anniversary-the-errors-tour-cleveland-ohio-04-04-2025/event/05006229A87F1B30',
     date: '2025-04-04T00:00:01',
@@ -668,16 +684,16 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['Yacht Rock Revue: Yacht Rock Forever Presented by CANN'],
+    link: 'https://concerts.livenation.com/yacht-rock-revue-yacht-rock-forever-cleveland-ohio-09-13-2025/event/05006235FFB9451F',
+    date: '2025-09-13T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Lawrence: The Family Business Tour'],
     link: 'https://concerts.livenation.com/lawrence-the-family-business-tour-cleveland-ohio-10-14-2025/event/050061751D047740',
     date: '2025-10-14T19:00:00',
     venue: 'House of Blues',
-  },
-  {
-    artist: ['ONE FINAL SHOW IN LAKEWOOD'],
-    link: 'https://www.foundryconcertclub.com/tm-event/one-final-show-in-lakewood/',
-    date: '2025-01-28T19:00:00',
-    venue: 'Foundry',
   },
   {
     artist: ['GRAND RE-OPENING PARTY'],
@@ -728,7 +744,7 @@ export const allShows = [
     venue: 'Foundry',
   },
   {
-    artist: ['Earthside'],
+    artist: ['Earthside, Som'],
     link: 'https://www.foundryconcertclub.com/tm-event/earthside/',
     date: '2025-02-26T19:00:00',
     venue: 'Foundry',
@@ -1222,6 +1238,12 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: ['Dave Matthews Band'],
+    link: 'https://concerts.livenation.com/dave-matthews-band-cuyahoga-falls-ohio-05-30-2025/event/0500618BBDA525C4',
+    date: '2025-05-30T19:30:00',
+    venue: 'Blossom',
+  },
+  {
     artist: ["Pierce The Veil: I Can't Hear You World Tour"],
     link: 'https://concerts.livenation.com/pierce-the-veil-i-cant-hear-cuyahoga-falls-ohio-06-03-2025/event/0500617BCDDE339C',
     date: '2025-06-03T19:00:00',
@@ -1284,12 +1306,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/tyler-childers-on-the-road-cuyahoga-falls-ohio-10-07-2025/event/05006167C0B828F4',
     date: '2025-10-07T19:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['End The War on Black America', 'Caesar Rio', 'Los P', 'Full 90'],
-    link: 'https://grogshop.gs/tm-event/end-the-war-on-black-america/',
-    date: '2025-01-27',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Donny Bene\u0301t', 'Radderall', 'Slag Genie'],
@@ -1423,7 +1439,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Black & Blue', 'Planet Ben', 'Whippet', 'Glenfinan'],
+    artist: ['Black & Blue', 'Planet Ben', 'Whippet', 'The Lothians'],
     link: 'https://grogshop.gs/tm-event/black-blue-planet-ben-whippet-glenfinan/',
     date: '2025-02-19',
     venue: 'Grog Shop',
@@ -1692,6 +1708,17 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: [
+      'THE BOUNCING SOULS EAST COAST! F#CK YOU! TOUR',
+      'H2O',
+      'Dave Hause & The Mermaid',
+      'School Drugs',
+    ],
+    link: 'https://grogshop.gs/tm-event/the-bouncing-souls-east-coast-fck-you-tour/',
+    date: '2025-04-26',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['OK Go'],
     link: 'https://grogshop.gs/tm-event/ok-go/',
     date: '2025-04-27',
@@ -1891,12 +1918,6 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
-    artist: ['Liliac wsg Amber Wild'],
-    link: 'https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494',
-    date: '2025-03-06T19:00:00',
-    venue: 'Winchester Tavern',
-  },
-  {
     artist: ['Chest Fever Presents \u2013 The Best of The Band'],
     link: 'https://www.ticketweb.com/event/chest-fever-presents-the-winchester-tickets/13978613',
     date: '2025-03-07T20:00:00',
@@ -2077,16 +2098,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Twiztid'],
-    link: 'https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7',
-    date: '2025-02-15T19:00:00-05:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Matt Corman and Ollie Joseph'],
     link: 'https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d',
     date: '2025-02-15T19:00:00-05:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Twiztid'],
+    link: 'https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7',
+    date: '2025-02-15T19:00:00-05:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['Love Club: an all out 2010\u2019s night'],
@@ -2145,22 +2166,28 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Pop Rock Princess dance party'],
+    link: 'https://link.dice.fm/t21ee8666c6a?dice_id=t21ee8666c6a',
+    date: '2025-02-28T20:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Zack Keim/Mikey Carnevale (The Frights) *Acoustic*'],
     link: 'https://link.dice.fm/Ma0b313aaac4?dice_id=Ma0b313aaac4',
     date: '2025-03-05T19:00:00-05:00',
     venue: 'Mahall\u2019s Apartment',
   },
   {
-    artist: ['The Little Ditties'],
-    link: 'https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31',
-    date: '2025-03-06T18:30:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Intervals'],
     link: 'https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301',
     date: '2025-03-06T18:30:00-05:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['The Little Ditties'],
+    link: 'https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31',
+    date: '2025-03-06T18:30:00-05:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Driveways'],
@@ -2253,6 +2280,12 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['La Luz'],
+    link: 'https://link.dice.fm/lc7cd704713e?dice_id=lc7cd704713e',
+    date: '2025-04-10T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Your Neighbors '],
     link: 'https://link.dice.fm/Gf449c3cd285?dice_id=Gf449c3cd285',
     date: '2025-04-11T18:00:00-04:00',
@@ -2319,6 +2352,12 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
+    artist: ['Thornhill'],
+    link: 'https://link.dice.fm/L69f6a3fc0c1?dice_id=L69f6a3fc0c1',
+    date: '2025-05-02T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Boston Manor'],
     link: 'https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c',
     date: '2025-05-03T18:00:00-04:00',
@@ -2328,6 +2367,12 @@ export const allShows = [
     artist: ['Magnolia Park'],
     link: 'https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204',
     date: '2025-05-03T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['The Blue Stones'],
+    link: 'https://link.dice.fm/ce9dcb195b9a?dice_id=ce9dcb195b9a',
+    date: '2025-05-04T19:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
@@ -2435,8 +2480,14 @@ export const allShows = [
     venue: 'Masonic Temple',
   },
   {
+    artist: ['America: The Encore Tour 2025'],
+    link: 'https://www.templelive.com/tm-event/america-the-encore-tour-2025/',
+    date: '2025-04-12T00:00:01',
+    venue: 'Masonic Temple',
+  },
+  {
     artist: ['Geoff Tate\u2019s Operation: Mindcrime \u2013 The Final Chapter'],
-    link: 'https://www.templelive.com/tm-event/geoff-tates-operation-mindcrime-the-final-chapter-3/',
+    link: 'https://www.templelive.com/tm-event/geoff-tates-operation-mindcrime-the-final-chapter/',
     date: '2025-04-15T00:00:01',
     venue: 'Masonic Temple',
   },
@@ -2456,6 +2507,12 @@ export const allShows = [
     artist: ['Psychostick'],
     link: 'https://www.templelive.com/tm-event/psychostick/',
     date: '2025-05-14T00:00:01',
+    venue: 'Masonic Temple',
+  },
+  {
+    artist: ['Modest Mouse'],
+    link: 'https://www.templelive.com/tm-event/modest-mouse/',
+    date: '2025-06-20T00:00:01',
     venue: 'Masonic Temple',
   },
   {
@@ -2485,7 +2542,7 @@ export const allShows = [
   {
     artist: [
       'Rod Wave: Last Lap Tour',
-      'Special Guests: Moneybagg Yo, Toosii, Lil Poppa, Dess Dior and EELmatic',
+      'Special Guests: Moneybagg Yo, Toosii, Lil Poppa and Dess Dior',
     ],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/rod-wave-250220',
     date: '2025-02-20T00:00:01',
@@ -2750,11 +2807,18 @@ export const allShows = [
       'The Madison Crawl',
       'Ball and Chain',
       'The Beameros featuring Jack Charlton',
+      'Bob Frank',
       "Austin Walkin' Cane",
     ],
-    link: 'https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-austin-walkin-cane',
+    link: 'https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-bob-frank-austin-walkin-cane',
     date: '2025-02-20T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['The Tune Up with Unc D & Thin Thicket'],
+    link: 'https://www.beachlandballroom.com/e/14237313/the-tune-up-with-unc-d-thin-thicket',
+    date: '2025-02-20T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['The Guillotines', 'The Strains', 'Lords Of The Highway'],
@@ -2952,6 +3016,12 @@ export const allShows = [
     venue: 'Beachland Tavern',
   },
   {
+    artist: ['The Rosies x PAL', 'Hosta'],
+    link: 'https://www.beachlandballroom.com/e/14232243/the-rosies-x-pal-hosta',
+    date: '2025-03-22T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
     artist: ['Beachland Flea'],
     link: 'https://www.beachlandballroom.com/e/14205363/beachland-flea',
     date: '2025-03-23T10:00:00',
@@ -3022,6 +3092,17 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/14177233/pink-talking-fish',
     date: '2025-04-04T20:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: [
+      'Bassel & The Supernaturals',
+      'Nathan-Paul & The Admirals',
+      'Lt Headtrip',
+      'U4U',
+    ],
+    link: 'https://www.beachlandballroom.com/e/14220363/bassel-the-supernaturals-nathan-paul-the-admirals-lt-headtrip-u4u',
+    date: '2025-04-04T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: [

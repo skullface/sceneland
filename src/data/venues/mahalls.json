@@ -121,19 +121,19 @@
   },
   {
     "artist": [
-      "Twiztid"
-    ],
-    "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
-    "date": "2025-02-15T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Matt Corman and Ollie Joseph"
     ],
     "link": "https://link.dice.fm/J495ca3e012d?dice_id=J495ca3e012d",
     "date": "2025-02-15T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Twiztid"
+    ],
+    "link": "https://link.dice.fm/y10a77b1cbc7?dice_id=y10a77b1cbc7",
+    "date": "2025-02-15T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -211,6 +211,14 @@
   },
   {
     "artist": [
+      "Pop Rock Princess dance party"
+    ],
+    "link": "https://link.dice.fm/t21ee8666c6a?dice_id=t21ee8666c6a",
+    "date": "2025-02-28T20:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Zack Keim/Mikey Carnevale (The Frights) *Acoustic*"
     ],
     "link": "https://link.dice.fm/Ma0b313aaac4?dice_id=Ma0b313aaac4",
@@ -219,19 +227,19 @@
   },
   {
     "artist": [
-      "The Little Ditties"
-    ],
-    "link": "https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31",
-    "date": "2025-03-06T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Intervals"
     ],
     "link": "https://link.dice.fm/v9a64d78e301?dice_id=v9a64d78e301",
     "date": "2025-03-06T18:30:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Little Ditties"
+    ],
+    "link": "https://link.dice.fm/i2b3f9771d31?dice_id=i2b3f9771d31",
+    "date": "2025-03-06T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -355,6 +363,14 @@
   },
   {
     "artist": [
+      "La Luz"
+    ],
+    "link": "https://link.dice.fm/lc7cd704713e?dice_id=lc7cd704713e",
+    "date": "2025-04-10T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Your Neighbors "
     ],
     "link": "https://link.dice.fm/Gf449c3cd285?dice_id=Gf449c3cd285",
@@ -443,6 +459,14 @@
   },
   {
     "artist": [
+      "Thornhill"
+    ],
+    "link": "https://link.dice.fm/L69f6a3fc0c1?dice_id=L69f6a3fc0c1",
+    "date": "2025-05-02T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Boston Manor"
     ],
     "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
@@ -455,6 +479,14 @@
     ],
     "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
     "date": "2025-05-03T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Blue Stones"
+    ],
+    "link": "https://link.dice.fm/ce9dcb195b9a?dice_id=ce9dcb195b9a",
+    "date": "2025-05-04T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {

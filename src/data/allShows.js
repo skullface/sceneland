@@ -522,6 +522,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['One: A Celebration of U2'],
+    link: 'https://concerts.livenation.com/one-a-celebration-of-u2-cleveland-ohio-03-15-2025/event/05006238FC2A60C5',
+    date: '2025-03-15T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Buckethead'],
     link: 'https://concerts.livenation.com/buckethead-cleveland-ohio-03-18-2025/event/05006235DF573A6E',
     date: '2025-03-18T18:30:00',
@@ -555,6 +561,12 @@ export const allShows = [
     artist: ['Corey Kent: The Black Bandana Tour'],
     link: 'https://concerts.livenation.com/corey-kent-the-black-bandana-tour-cleveland-ohio-03-29-2025/event/0500616EDF565B4B',
     date: '2025-03-29T19:00:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['Nettspend'],
+    link: 'https://concerts.livenation.com/nettspend-cleveland-ohio-03-30-2025/event/05006239F30F6003',
+    date: '2025-03-30T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -1016,6 +1028,12 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
+    artist: ['October London, Tamar Braxton and Ro James'],
+    link: 'https://www.jacobspavilion.com/events/detail?event_id=826673',
+    date: '2025-05-24T00:00:01',
+    venue: 'Jacobs Pavilion at Nautica',
+  },
+  {
     artist: ['Wallows, Porches'],
     link: 'https://www.jacobspavilion.com/events/detail?event_id=816185',
     date: '2025-06-01T00:00:01',
@@ -1308,12 +1326,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Donny Bene\u0301t', 'Radderall', 'Slag Genie'],
-    link: 'https://grogshop.gs/tm-event/donny-benet/',
-    date: '2025-01-28',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['Flippant', 'Model Martel', 'DESKIR'],
     link: 'https://grogshop.gs/tm-event/flippant-model-martel/',
     date: '2025-01-30',
@@ -1472,12 +1484,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['COCHISE', 'TisaKorean'],
-    link: 'https://grogshop.gs/tm-event/cochise/',
-    date: '2025-02-23',
-    venue: 'Grog Shop',
-  },
-  {
     artist: ['ACO: A Tribute to Rob Williams'],
     link: 'https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/',
     date: '2025-02-25',
@@ -1611,7 +1617,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Ally The Piper: Spring Tour 2025'],
+    artist: ['Ally The Piper: Spring Tour 2025', 'David Michael Frank'],
     link: 'https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/',
     date: '2025-03-19',
     venue: 'Grog Shop',
@@ -1654,6 +1660,12 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Dom Kennedy', 'Casey Veggies'],
+    link: 'https://grogshop.gs/tm-event/dom-kennedy-casey-veggies/',
+    date: '2025-04-07',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Starset'],
     link: 'https://grogshop.gs/tm-event/starset/',
     date: '2025-04-08',
@@ -1678,14 +1690,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Slackfest Cleveland: Two Night Pass'],
-    link: 'https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/',
+    artist: ['Slackfest Cleveland: Night 1'],
+    link: 'https://grogshop.gs/tm-event/slackfest-cleveland-night-1/',
     date: '2025-04-18',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Slackfest Cleveland: Night 1'],
-    link: 'https://grogshop.gs/tm-event/slackfest-cleveland-night-1/',
+    artist: ['Slackfest Cleveland: Two Night Pass'],
+    link: 'https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/',
     date: '2025-04-18',
     venue: 'Grog Shop',
   },
@@ -1696,7 +1708,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Sofia Isella'],
+    artist: ['SOFIA ISELLA'],
     link: 'https://grogshop.gs/tm-event/sofia-isella/',
     date: '2025-04-23',
     venue: 'Grog Shop',
@@ -1798,10 +1810,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['RA \u2013 THE LAST HUR-RA TOUR'],
-    link: 'https://www.ticketweb.com/event/ra-the-last-the-winchester-tickets/14029413',
-    date: '2025-01-28T19:00:00',
-    venue: 'Winchester Tavern',
+    artist: [
+      'Horse the Band: 20th Anniversary of The Mechanical Hand',
+      'Sweet//Spine',
+      'Melted Bodies',
+    ],
+    link: 'https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/',
+    date: '2025-06-14',
+    venue: 'Grog Shop',
   },
   {
     artist: ['January Plant Bingo!'],
@@ -1870,6 +1886,12 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
+    artist: ['Sassy Sascha\u2019s Sunday Funday Disco Drag Brunch!'],
+    link: 'https://www.ticketweb.com/event/sassy-saschas-sunday-funday-disco-the-winchester-tickets/14240453',
+    date: '2025-02-16T12:30:00',
+    venue: 'Winchester Tavern',
+  },
+  {
     artist: ['R&B Tribute Night'],
     link: 'https://www.ticketweb.com/event/rb-tribute-night-the-winchester-tickets/14144653',
     date: '2025-02-21T20:00:00',
@@ -1912,9 +1934,21 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
+    artist: ['Bluegrass Brunch W Whiskey Drinks & Hunter Skeens'],
+    link: 'https://www.ticketweb.com/event/bluegrass-brunch-w-whiskey-drinks-the-winchester-tickets/14241173',
+    date: '2025-03-02T12:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
     artist: ['Leslie Mendelson'],
     link: 'https://www.ticketweb.com/event/leslie-mendelson-the-winchester-tickets/14156543',
     date: '2025-03-04T20:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
+    artist: ['Liliac wsg Amber Wild'],
+    link: 'https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494',
+    date: '2025-03-06T19:00:00',
     venue: 'Winchester Tavern',
   },
   {
@@ -1933,6 +1967,12 @@ export const allShows = [
     artist: ['Keith Harkin'],
     link: 'https://www.ticketweb.com/event/keith-harkin-the-winchester-tickets/14043593',
     date: '2025-03-09T19:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
+    artist: ['Brianna Bell \u2013 In The Tavern'],
+    link: 'https://www.ticketweb.com/event/brianna-bell-in-the-winchester-tickets/14240293',
+    date: '2025-03-10T20:00:00',
     venue: 'Winchester Tavern',
   },
   {
@@ -1984,6 +2024,12 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
+    artist: ['Four Times Louder, Stay Gone, & Messmaker'],
+    link: 'https://www.ticketweb.com/event/four-times-louder-stay-gone-the-winchester-tickets/14240413',
+    date: '2025-04-18T20:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
     artist: ['Angel \u2013 50th Anniversary Tour'],
     link: 'https://www.ticketweb.com/event/angel-50th-anniversary-the-winchester-tickets/14172093',
     date: '2025-04-22T19:00:00',
@@ -2006,12 +2052,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793',
     date: '2025-05-16T20:00:00',
     venue: 'Winchester Tavern',
-  },
-  {
-    artist: ['Bay Ledges'],
-    link: 'https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71',
-    date: '2025-01-29T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Apres Ski Night'],
@@ -2358,16 +2398,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Boston Manor'],
-    link: 'https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c',
-    date: '2025-05-03T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Magnolia Park'],
     link: 'https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204',
     date: '2025-05-03T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Boston Manor'],
+    link: 'https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c',
+    date: '2025-05-03T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['The Blue Stones'],
@@ -2634,18 +2674,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831',
     date: '2025-08-31T00:00:01',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Jax Hollow', 'Taylor Lamborn'],
-    link: 'https://www.beachlandballroom.com/e/13931543/jax-hollow-taylor-lamborn',
-    date: '2025-01-28T19:30:00',
-    venue: 'Beachland Tavern',
-  },
-  {
-    artist: ['Natalie Jane', 'Chandler Leighton'],
-    link: 'https://www.beachlandballroom.com/e/13591744/natalie-jane-chandler-leighton',
-    date: '2025-01-28T20:00:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Bertha: Grateful Drag', 'Host Queen: Dr. Lady J'],

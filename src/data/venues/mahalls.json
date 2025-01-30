@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bay Ledges"
-    ],
-    "link": "https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71",
-    "date": "2025-01-29T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Apres Ski Night"
     ],
     "link": "https://link.dice.fm/U3f2c58cd6d5?dice_id=U3f2c58cd6d5",
@@ -467,19 +459,19 @@
   },
   {
     "artist": [
-      "Boston Manor"
-    ],
-    "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
-    "date": "2025-05-03T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Magnolia Park"
     ],
     "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
     "date": "2025-05-03T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Boston Manor"
+    ],
+    "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
+    "date": "2025-05-03T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

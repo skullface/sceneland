@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Donny Bene\u0301t",
-      "Radderall",
-      "Slag Genie"
-    ],
-    "link": "https://grogshop.gs/tm-event/donny-benet/",
-    "date": "2025-01-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Flippant",
       "Model Martel",
       "DESKIR"
@@ -231,15 +221,6 @@
   },
   {
     "artist": [
-      "COCHISE",
-      "TisaKorean"
-    ],
-    "link": "https://grogshop.gs/tm-event/cochise/",
-    "date": "2025-02-23",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "ACO: A Tribute to Rob Williams"
     ],
     "link": "https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/",
@@ -406,7 +387,8 @@
   },
   {
     "artist": [
-      "Ally The Piper: Spring Tour 2025"
+      "Ally The Piper: Spring Tour 2025",
+      "David Michael Frank"
     ],
     "link": "https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/",
     "date": "2025-03-19",
@@ -461,6 +443,15 @@
   },
   {
     "artist": [
+      "Dom Kennedy",
+      "Casey Veggies"
+    ],
+    "link": "https://grogshop.gs/tm-event/dom-kennedy-casey-veggies/",
+    "date": "2025-04-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Starset"
     ],
     "link": "https://grogshop.gs/tm-event/starset/",
@@ -494,17 +485,17 @@
   },
   {
     "artist": [
-      "Slackfest Cleveland: Two Night Pass"
+      "Slackfest Cleveland: Night 1"
     ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
     "date": "2025-04-18",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Slackfest Cleveland: Night 1"
+      "Slackfest Cleveland: Two Night Pass"
     ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
     "date": "2025-04-18",
     "venue": "Grog Shop"
   },
@@ -518,7 +509,7 @@
   },
   {
     "artist": [
-      "Sofia Isella"
+      "SOFIA ISELLA"
     ],
     "link": "https://grogshop.gs/tm-event/sofia-isella/",
     "date": "2025-04-23",
@@ -644,6 +635,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/glamgore-7th-annual-pride-on-the-east-side/",
     "date": "2025-06-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Horse the Band: 20th Anniversary of The Mechanical Hand",
+      "Sweet//Spine",
+      "Melted Bodies"
+    ],
+    "link": "https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/",
+    "date": "2025-06-14",
     "venue": "Grog Shop"
   }
 ]

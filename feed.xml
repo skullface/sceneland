@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jan 2025 09:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 09:05:44 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Josh Johnson: The Flowers Tour at Playhouse Square]]></title>
@@ -616,6 +616,13 @@
             <pubDate>Tue, 11 Mar 2025 18:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[One: A Celebration of U2 at House of Blues]]></title>
+            <description><![CDATA[Get tickets to One: A Celebration of U2 at House of Blues on Saturday, March 15, 2025, 07:00 PM: https://concerts.livenation.com/one-a-celebration-of-u2-cleveland-ohio-03-15-2025/event/05006238FC2A60C5]]></description>
+            <link>https://concerts.livenation.com/one-a-celebration-of-u2-cleveland-ohio-03-15-2025/event/05006238FC2A60C5</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/one-a-celebration-of-u2-cleveland-ohio-03-15-2025/event/05006238FC2A60C5</guid>
+            <pubDate>Sat, 15 Mar 2025 19:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Buckethead at House of Blues]]></title>
             <description><![CDATA[Get tickets to Buckethead at House of Blues on Tuesday, March 18, 2025, 06:30 PM: https://concerts.livenation.com/buckethead-cleveland-ohio-03-18-2025/event/05006235DF573A6E]]></description>
             <link>https://concerts.livenation.com/buckethead-cleveland-ohio-03-18-2025/event/05006235DF573A6E</link>
@@ -656,6 +663,13 @@
             <link>https://concerts.livenation.com/corey-kent-the-black-bandana-tour-cleveland-ohio-03-29-2025/event/0500616EDF565B4B</link>
             <guid isPermaLink="true">https://concerts.livenation.com/corey-kent-the-black-bandana-tour-cleveland-ohio-03-29-2025/event/0500616EDF565B4B</guid>
             <pubDate>Sat, 29 Mar 2025 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nettspend at House of Blues]]></title>
+            <description><![CDATA[Get tickets to Nettspend at House of Blues on Sunday, March 30, 2025, 07:00 PM: https://concerts.livenation.com/nettspend-cleveland-ohio-03-30-2025/event/05006239F30F6003]]></description>
+            <link>https://concerts.livenation.com/nettspend-cleveland-ohio-03-30-2025/event/05006239F30F6003</link>
+            <guid isPermaLink="true">https://concerts.livenation.com/nettspend-cleveland-ohio-03-30-2025/event/05006239F30F6003</guid>
+            <pubDate>Sun, 30 Mar 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Josiah Queen: My Promised Land Tour at House of Blues]]></title>
@@ -1183,6 +1197,13 @@
             <pubDate>Tue, 20 May 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[October London, Tamar Braxton and Ro James at Jacobs Pavilion at Nautica]]></title>
+            <description><![CDATA[Get tickets to October London, Tamar Braxton and Ro James at Jacobs Pavilion at Nautica on Saturday, May 24, 2025, 12:00 AM: https://www.jacobspavilion.com/events/detail?event_id=826673]]></description>
+            <link>https://www.jacobspavilion.com/events/detail?event_id=826673</link>
+            <guid isPermaLink="true">https://www.jacobspavilion.com/events/detail?event_id=826673</guid>
+            <pubDate>Sat, 24 May 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wallows, Porches at Jacobs Pavilion at Nautica]]></title>
             <description><![CDATA[Get tickets to Wallows, Porches at Jacobs Pavilion at Nautica on Sunday, June 1, 2025, 12:00 AM: https://www.jacobspavilion.com/events/detail?event_id=816185]]></description>
             <link>https://www.jacobspavilion.com/events/detail?event_id=816185</link>
@@ -1519,13 +1540,6 @@
             <pubDate>Tue, 07 Oct 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Donny Benét, Radderall, Slag Genie at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Donny Benét, Radderall, Slag Genie at Grog Shop on Tuesday, January 28, 2025, 12:00 AM: https://grogshop.gs/tm-event/donny-benet/]]></description>
-            <link>https://grogshop.gs/tm-event/donny-benet/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/donny-benet/</guid>
-            <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Flippant, Model Martel, DESKIR at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Flippant, Model Martel, DESKIR at Grog Shop on Thursday, January 30, 2025, 12:00 AM: https://grogshop.gs/tm-event/flippant-model-martel/]]></description>
             <link>https://grogshop.gs/tm-event/flippant-model-martel/</link>
@@ -1687,13 +1701,6 @@
             <pubDate>Sat, 22 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COCHISE, TisaKorean at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to COCHISE, TisaKorean at Grog Shop on Sunday, February 23, 2025, 12:00 AM: https://grogshop.gs/tm-event/cochise/]]></description>
-            <link>https://grogshop.gs/tm-event/cochise/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/cochise/</guid>
-            <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[ACO: A Tribute to Rob Williams at Grog Shop]]></title>
             <description><![CDATA[Get tickets to ACO: A Tribute to Rob Williams at Grog Shop on Tuesday, February 25, 2025, 12:00 AM: https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/]]></description>
             <link>https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/</link>
@@ -1820,8 +1827,8 @@
             <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ally The Piper: Spring Tour 2025 at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Ally The Piper: Spring Tour 2025 at Grog Shop on Wednesday, March 19, 2025, 12:00 AM: https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/]]></description>
+            <title><![CDATA[Ally The Piper: Spring Tour 2025, David Michael Frank at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Ally The Piper: Spring Tour 2025, David Michael Frank at Grog Shop on Wednesday, March 19, 2025, 12:00 AM: https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/]]></description>
             <link>https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/</guid>
             <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
@@ -1862,6 +1869,13 @@
             <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dom Kennedy, Casey Veggies at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Dom Kennedy, Casey Veggies at Grog Shop on Monday, April 7, 2025, 12:00 AM: https://grogshop.gs/tm-event/dom-kennedy-casey-veggies/]]></description>
+            <link>https://grogshop.gs/tm-event/dom-kennedy-casey-veggies/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/dom-kennedy-casey-veggies/</guid>
+            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Starset at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Starset at Grog Shop on Tuesday, April 8, 2025, 12:00 AM: https://grogshop.gs/tm-event/starset/]]></description>
             <link>https://grogshop.gs/tm-event/starset/</link>
@@ -1890,17 +1904,17 @@
             <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slackfest Cleveland: Two Night Pass at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Slackfest Cleveland: Two Night Pass at Grog Shop on Friday, April 18, 2025, 12:00 AM: https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/]]></description>
-            <link>https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Slackfest Cleveland: Night 1 at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Slackfest Cleveland: Night 1 at Grog Shop on Friday, April 18, 2025, 12:00 AM: https://grogshop.gs/tm-event/slackfest-cleveland-night-1/]]></description>
             <link>https://grogshop.gs/tm-event/slackfest-cleveland-night-1/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/slackfest-cleveland-night-1/</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slackfest Cleveland: Two Night Pass at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Slackfest Cleveland: Two Night Pass at Grog Shop on Friday, April 18, 2025, 12:00 AM: https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/]]></description>
+            <link>https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/</guid>
             <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1911,8 +1925,8 @@
             <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sofia Isella at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Sofia Isella at Grog Shop on Wednesday, April 23, 2025, 12:00 AM: https://grogshop.gs/tm-event/sofia-isella/]]></description>
+            <title><![CDATA[SOFIA ISELLA at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to SOFIA ISELLA at Grog Shop on Wednesday, April 23, 2025, 12:00 AM: https://grogshop.gs/tm-event/sofia-isella/]]></description>
             <link>https://grogshop.gs/tm-event/sofia-isella/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/sofia-isella/</guid>
             <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
@@ -2016,11 +2030,11 @@
             <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[RA – THE LAST HUR-RA TOUR at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to RA – THE LAST HUR-RA TOUR at Winchester Tavern on Tuesday, January 28, 2025, 07:00 PM: https://www.ticketweb.com/event/ra-the-last-the-winchester-tickets/14029413]]></description>
-            <link>https://www.ticketweb.com/event/ra-the-last-the-winchester-tickets/14029413</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/ra-the-last-the-winchester-tickets/14029413</guid>
-            <pubDate>Tue, 28 Jan 2025 19:00:00 GMT</pubDate>
+            <title><![CDATA[Horse the Band: 20th Anniversary of The Mechanical Hand, Sweet//Spine, Melted Bodies at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Horse the Band: 20th Anniversary of The Mechanical Hand, Sweet//Spine, Melted Bodies at Grog Shop on Saturday, June 14, 2025, 12:00 AM: https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/]]></description>
+            <link>https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/</guid>
+            <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[January Plant Bingo! at Winchester Tavern]]></title>
@@ -2100,6 +2114,13 @@
             <pubDate>Sat, 15 Feb 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Sassy Sascha’s Sunday Funday Disco Drag Brunch! at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to Sassy Sascha’s Sunday Funday Disco Drag Brunch! at Winchester Tavern on Sunday, February 16, 2025, 12:30 PM: https://www.ticketweb.com/event/sassy-saschas-sunday-funday-disco-the-winchester-tickets/14240453]]></description>
+            <link>https://www.ticketweb.com/event/sassy-saschas-sunday-funday-disco-the-winchester-tickets/14240453</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/sassy-saschas-sunday-funday-disco-the-winchester-tickets/14240453</guid>
+            <pubDate>Sun, 16 Feb 2025 12:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[R&B Tribute Night at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to R&B Tribute Night at Winchester Tavern on Friday, February 21, 2025, 08:00 PM: https://www.ticketweb.com/event/rb-tribute-night-the-winchester-tickets/14144653]]></description>
             <link>https://www.ticketweb.com/event/rb-tribute-night-the-winchester-tickets/14144653</link>
@@ -2149,11 +2170,25 @@
             <pubDate>Sat, 01 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bluegrass Brunch W Whiskey Drinks & Hunter Skeens at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to Bluegrass Brunch W Whiskey Drinks & Hunter Skeens at Winchester Tavern on Sunday, March 2, 2025, 12:00 PM: https://www.ticketweb.com/event/bluegrass-brunch-w-whiskey-drinks-the-winchester-tickets/14241173]]></description>
+            <link>https://www.ticketweb.com/event/bluegrass-brunch-w-whiskey-drinks-the-winchester-tickets/14241173</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/bluegrass-brunch-w-whiskey-drinks-the-winchester-tickets/14241173</guid>
+            <pubDate>Sun, 02 Mar 2025 12:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Leslie Mendelson at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to Leslie Mendelson at Winchester Tavern on Tuesday, March 4, 2025, 08:00 PM: https://www.ticketweb.com/event/leslie-mendelson-the-winchester-tickets/14156543]]></description>
             <link>https://www.ticketweb.com/event/leslie-mendelson-the-winchester-tickets/14156543</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/leslie-mendelson-the-winchester-tickets/14156543</guid>
             <pubDate>Tue, 04 Mar 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liliac wsg Amber Wild at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to Liliac wsg Amber Wild at Winchester Tavern on Thursday, March 6, 2025, 07:00 PM: https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494]]></description>
+            <link>https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494</guid>
+            <pubDate>Thu, 06 Mar 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chest Fever Presents – The Best of The Band at Winchester Tavern]]></title>
@@ -2175,6 +2210,13 @@
             <link>https://www.ticketweb.com/event/keith-harkin-the-winchester-tickets/14043593</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/keith-harkin-the-winchester-tickets/14043593</guid>
             <pubDate>Sun, 09 Mar 2025 19:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brianna Bell – In The Tavern at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to Brianna Bell – In The Tavern at Winchester Tavern on Monday, March 10, 2025, 08:00 PM: https://www.ticketweb.com/event/brianna-bell-in-the-winchester-tickets/14240293]]></description>
+            <link>https://www.ticketweb.com/event/brianna-bell-in-the-winchester-tickets/14240293</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/brianna-bell-in-the-winchester-tickets/14240293</guid>
+            <pubDate>Mon, 10 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Have Mercy at Winchester Tavern]]></title>
@@ -2233,6 +2275,13 @@
             <pubDate>Fri, 04 Apr 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Four Times Louder, Stay Gone, & Messmaker at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to Four Times Louder, Stay Gone, & Messmaker at Winchester Tavern on Friday, April 18, 2025, 08:00 PM: https://www.ticketweb.com/event/four-times-louder-stay-gone-the-winchester-tickets/14240413]]></description>
+            <link>https://www.ticketweb.com/event/four-times-louder-stay-gone-the-winchester-tickets/14240413</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/four-times-louder-stay-gone-the-winchester-tickets/14240413</guid>
+            <pubDate>Fri, 18 Apr 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Angel – 50th Anniversary Tour at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to Angel – 50th Anniversary Tour at Winchester Tavern on Tuesday, April 22, 2025, 07:00 PM: https://www.ticketweb.com/event/angel-50th-anniversary-the-winchester-tickets/14172093]]></description>
             <link>https://www.ticketweb.com/event/angel-50th-anniversary-the-winchester-tickets/14172093</link>
@@ -2259,13 +2308,6 @@
             <link>https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793</guid>
             <pubDate>Fri, 16 May 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bay Ledges at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Bay Ledges at Mahall’s on Thursday, January 30, 2025, 12:00 AM: https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71]]></description>
-            <link>https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71</link>
-            <guid isPermaLink="true">https://link.dice.fm/i3010f560e71?dice_id=i3010f560e71</guid>
-            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apres Ski Night at Mahall’s]]></title>
@@ -2667,17 +2709,17 @@
             <pubDate>Fri, 02 May 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Boston Manor at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Boston Manor at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c]]></description>
-            <link>https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</link>
-            <guid isPermaLink="true">https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</guid>
-            <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Magnolia Park at The Roxy at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Magnolia Park at The Roxy at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204]]></description>
             <link>https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</link>
             <guid isPermaLink="true">https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</guid>
+            <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boston Manor at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Boston Manor at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c]]></description>
+            <link>https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</link>
+            <guid isPermaLink="true">https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</guid>
             <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2966,20 +3008,6 @@
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831</guid>
             <pubDate>Sun, 31 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jax Hollow, Taylor Lamborn at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Jax Hollow, Taylor Lamborn at Beachland Tavern on Tuesday, January 28, 2025, 07:30 PM: https://www.beachlandballroom.com/e/13931543/jax-hollow-taylor-lamborn]]></description>
-            <link>https://www.beachlandballroom.com/e/13931543/jax-hollow-taylor-lamborn</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13931543/jax-hollow-taylor-lamborn</guid>
-            <pubDate>Tue, 28 Jan 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Natalie Jane, Chandler Leighton at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Natalie Jane, Chandler Leighton at Beachland Ballroom on Tuesday, January 28, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13591744/natalie-jane-chandler-leighton]]></description>
-            <link>https://www.beachlandballroom.com/e/13591744/natalie-jane-chandler-leighton</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13591744/natalie-jane-chandler-leighton</guid>
-            <pubDate>Tue, 28 Jan 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bertha: Grateful Drag, Host Queen: Dr. Lady J at Beachland Ballroom]]></title>

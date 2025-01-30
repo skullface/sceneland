@@ -1,49 +1,6 @@
 [
   {
     "artist": [
-      "School of Rock: Highland Heights"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14172363/school-of-rock-highland-heights",
-    "date": "2025-01-25T12:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Myth & Company",
-      "Navingale",
-      "Dan McCoy"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13982393/myth-company-navingale-dan-mccoy",
-    "date": "2025-01-25T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "The FM Project (Steely Dan Tribute Band)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14065943/the-fm-project-steely-dan-tribute-band-",
-    "date": "2025-01-25T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Beachland Brunch",
-      "DJ David McNally & DJ Mark Galauner"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14166543/beachland-brunch-dj-david-mcnally-dj-mark-galauner",
-    "date": "2025-01-26T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "School of Rock: Highland Heights"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14172373/school-of-rock-highland-heights",
-    "date": "2025-01-26T11:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Jax Hollow",
       "Taylor Lamborn"
     ],
@@ -173,6 +130,15 @@
   },
   {
     "artist": [
+      "Beachland Brunch",
+      "DJ Jeff Hagen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14230733/beachland-brunch-dj-jeff-hagen",
+    "date": "2025-02-09T11:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Rickshaw Billie's Burger Patrol",
       "Lip Critic"
     ],
@@ -225,9 +191,10 @@
   {
     "artist": [
       "Carlos Jones & The PLUS Band",
-      "Special Guests"
+      "Ms. BBC & the Queens",
+      "Hue People"
     ],
-    "link": "https://www.beachlandballroom.com/e/14136723/carlos-jones-the-plus-band-special-guests",
+    "link": "https://www.beachlandballroom.com/e/14136723/carlos-jones-the-plus-band-ms-bbc-the-queens-hue-people",
     "date": "2025-02-16T15:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -263,11 +230,20 @@
       "The Madison Crawl",
       "Ball and Chain",
       "The Beameros featuring Jack Charlton",
+      "Bob Frank",
       "Austin Walkin' Cane"
     ],
-    "link": "https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-austin-walkin-cane",
+    "link": "https://www.beachlandballroom.com/e/14209393/blues-for-dc-carnes-the-madison-crawl-ball-and-chain-the-beameros-featuring-jack-charlton-bob-frank-austin-walkin-cane",
     "date": "2025-02-20T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "The Tune Up with Unc D & Thin Thicket"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14237313/the-tune-up-with-unc-d-thin-thicket",
+    "date": "2025-02-20T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -363,9 +339,10 @@
   },
   {
     "artist": [
-      "The New Mastersounds"
+      "The New Mastersounds",
+      "Organ Fairchild"
     ],
-    "link": "https://www.beachlandballroom.com/e/14107883/the-new-mastersounds",
+    "link": "https://www.beachlandballroom.com/e/14107883/the-new-mastersounds-organ-fairchild",
     "date": "2025-02-28T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -397,6 +374,14 @@
     "link": "https://www.beachlandballroom.com/e/13944443/augie-meyers-the-bandoleros-tall-paul-and-western-drawl",
     "date": "2025-03-04T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jesse Roper"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14231983/jesse-roper",
+    "date": "2025-03-04T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -543,6 +528,31 @@
   },
   {
     "artist": [
+      "The Rosies x PAL",
+      "Hosta"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14232243/the-rosies-x-pal-hosta",
+    "date": "2025-03-22T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Beachland Flea"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14205363/beachland-flea",
+    "date": "2025-03-23T10:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Yo La Tengo"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14222303/yo-la-tengo",
+    "date": "2025-03-24T19:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Miki Fiki",
       "Amelia Day",
       "Liam Brock"
@@ -628,6 +638,17 @@
   },
   {
     "artist": [
+      "Bassel & The Supernaturals",
+      "Nathan-Paul & The Admirals",
+      "Lt Headtrip",
+      "U4U"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14220363/bassel-the-supernaturals-nathan-paul-the-admirals-lt-headtrip-u4u",
+    "date": "2025-04-04T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "One Last Saturday Night: An All-Star Lineup",
       "Dupree's Dead Band",
       "Sunshine Daydream",
@@ -698,6 +719,14 @@
   },
   {
     "artist": [
+      "Matt Hansen"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14216143/matt-hansen",
+    "date": "2025-04-15T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Sawyer Hill"
     ],
     "link": "https://www.beachlandballroom.com/e/14159263/sawyer-hill",
@@ -712,6 +741,14 @@
     "link": "https://www.beachlandballroom.com/e/14159403/circuit-des-yeux-leya",
     "date": "2025-04-18T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Octave Cat"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14186683/octave-cat",
+    "date": "2025-04-18T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -851,9 +888,10 @@
   },
   {
     "artist": [
-      "The Arcadian Wild"
+      "The Arcadian Wild",
+      "River & Rail"
     ],
-    "link": "https://www.beachlandballroom.com/e/13937283/the-arcadian-wild",
+    "link": "https://www.beachlandballroom.com/e/13937283/the-arcadian-wild-river-rail",
     "date": "2025-05-09T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -894,5 +932,13 @@
     "link": "https://www.beachlandballroom.com/e/14137353/diesel-boy-nerf-herder-keep-flying-the-a-10s",
     "date": "2025-05-25T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Kyle Smith"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14176533/kyle-smith",
+    "date": "2025-06-12T20:00:00",
+    "venue": "Beachland Tavern"
   }
 ]

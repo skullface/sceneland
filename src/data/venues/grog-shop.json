@@ -1,66 +1,6 @@
 [
   {
     "artist": [
-      "Black Spirit Crown",
-      "Black Tar Superstar",
-      "Pathless"
-    ],
-    "link": "https://grogshop.gs/tm-event/black-spirit-crown-black-tar-superstar-pathless/",
-    "date": "2025-01-23",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Pile",
-      "Owney The Postal Dog",
-      "Hunden"
-    ],
-    "link": "https://grogshop.gs/tm-event/pile/",
-    "date": "2025-01-24",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Heights High Plays The Grog Shop Fundraiser"
-    ],
-    "link": "https://grogshop.gs/tm-event/heights-high-plays-the-grog-shop-fundraiser/",
-    "date": "2025-01-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Honeyland",
-      "Leadfoot Granny",
-      "The Super Babes"
-    ],
-    "link": "https://grogshop.gs/tm-event/honeyland-w-leadfoot-granny-the-super-babes/",
-    "date": "2025-01-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Miguel Cafe",
-      "Guiche",
-      "Guy Snowden & The Citizens",
-      "Another Dead Rockstar"
-    ],
-    "link": "https://grogshop.gs/tm-event/miguel-cafe-guiche-guy-snowden-the-citizens-another-dead-rockstar/",
-    "date": "2025-01-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "End The War on Black America",
-      "Caesar Rio",
-      "Los P",
-      "Full 90"
-    ],
-    "link": "https://grogshop.gs/tm-event/end-the-war-on-black-america/",
-    "date": "2025-01-27",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Donny Bene\u0301t",
       "Radderall",
       "Slag Genie"
@@ -198,6 +138,15 @@
   },
   {
     "artist": [
+      "Valentines Day In The Heights",
+      "ItsLiL"
+    ],
+    "link": "https://grogshop.gs/tm-event/valentines-day-in-the-heights/",
+    "date": "2025-02-14",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Faith & Whiskey"
     ],
     "link": "https://grogshop.gs/tm-event/faith-whiskey/",
@@ -235,7 +184,7 @@
       "Black & Blue",
       "Planet Ben",
       "Whippet",
-      "Glenfinan"
+      "The Lothians"
     ],
     "link": "https://grogshop.gs/tm-event/black-blue-planet-ben-whippet-glenfinan/",
     "date": "2025-02-19",
@@ -488,6 +437,14 @@
   },
   {
     "artist": [
+      "An Evening With Yo La Tengo"
+    ],
+    "link": "https://grogshop.gs/tm-event/an-evening-with-yo-la-tengo/",
+    "date": "2025-03-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Sonido Gallo Negro"
     ],
     "link": "https://grogshop.gs/tm-event/sonido-gallo-negro/",
@@ -561,10 +518,29 @@
   },
   {
     "artist": [
+      "Sofia Isella"
+    ],
+    "link": "https://grogshop.gs/tm-event/sofia-isella/",
+    "date": "2025-04-23",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Ben Kweller: Cover The Mirrors Tour"
     ],
     "link": "https://grogshop.gs/tm-event/ben-kweller-cover-the-mirrors-tour/",
     "date": "2025-04-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "THE BOUNCING SOULS EAST COAST! F#CK YOU! TOUR",
+      "H2O",
+      "Dave Hause & The Mermaid",
+      "School Drugs"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-bouncing-souls-east-coast-fck-you-tour/",
+    "date": "2025-04-26",
     "venue": "Grog Shop"
   },
   {
@@ -624,6 +600,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/napalm-death-and-melvins-savage-imperial-death-march-part-ii/",
     "date": "2025-05-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "MICO"
+    ],
+    "link": "https://grogshop.gs/tm-event/mico/",
+    "date": "2025-05-13",
     "venue": "Grog Shop"
   },
   {

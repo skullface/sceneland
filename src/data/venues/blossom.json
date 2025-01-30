@@ -25,6 +25,14 @@
   },
   {
     "artist": [
+      "Dave Matthews Band"
+    ],
+    "link": "https://concerts.livenation.com/dave-matthews-band-cuyahoga-falls-ohio-05-30-2025/event/0500618BBDA525C4",
+    "date": "2025-05-30T19:30:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
       "Pierce The Veil: I Can't Hear You World Tour"
     ],
     "link": "https://concerts.livenation.com/pierce-the-veil-i-cant-hear-cuyahoga-falls-ohio-06-03-2025/event/0500617BCDDE339C",
@@ -45,6 +53,14 @@
     ],
     "link": "https://concerts.livenation.com/keith-urban-high-and-alive-world-cuyahoga-falls-ohio-06-27-2025/event/0500616E251489DC",
     "date": "2025-06-27T19:00:00",
+    "venue": "Blossom"
+  },
+  {
+    "artist": [
+      "Luke Bryan: Country Song Came On Tour"
+    ],
+    "link": "https://concerts.livenation.com/luke-bryan-country-song-came-on-cuyahoga-falls-ohio-07-11-2025/event/05006238D88D55DF",
+    "date": "2025-07-11T19:00:00",
     "venue": "Blossom"
   },
   {

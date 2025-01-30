@@ -97,9 +97,17 @@
   },
   {
     "artist": [
+      "America: The Encore Tour 2025"
+    ],
+    "link": "https://www.templelive.com/tm-event/america-the-encore-tour-2025/",
+    "date": "2025-04-12T00:00:01",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
       "Geoff Tate\u2019s Operation: Mindcrime \u2013 The Final Chapter"
     ],
-    "link": "https://www.templelive.com/tm-event/geoff-tates-operation-mindcrime-the-final-chapter-3/",
+    "link": "https://www.templelive.com/tm-event/geoff-tates-operation-mindcrime-the-final-chapter/",
     "date": "2025-04-15T00:00:01",
     "venue": "Masonic Temple"
   },
@@ -125,6 +133,14 @@
     ],
     "link": "https://www.templelive.com/tm-event/psychostick/",
     "date": "2025-05-14T00:00:01",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "Modest Mouse"
+    ],
+    "link": "https://www.templelive.com/tm-event/modest-mouse/",
+    "date": "2025-06-20T00:00:01",
     "venue": "Masonic Temple"
   },
   {

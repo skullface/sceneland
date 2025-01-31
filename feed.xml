@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jan 2025 09:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 09:05:44 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Josh Johnson: The Flowers Tour at Playhouse Square]]></title>
@@ -1239,13 +1239,6 @@
             <pubDate>Sun, 07 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[THE METEORS at No Class]]></title>
-            <description><![CDATA[Get tickets to THE METEORS at No Class on Thursday, January 30, 2025, 12:00 AM: https://noclasscle.com/events/the-meteors]]></description>
-            <link>https://noclasscle.com/events/the-meteors</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/the-meteors</guid>
-            <pubDate>Thu, 30 Jan 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MX JUNETEENTH 2025 KICKOFF FUNDRAISER at No Class]]></title>
             <description><![CDATA[Get tickets to MX JUNETEENTH 2025 KICKOFF FUNDRAISER at No Class on Friday, January 31, 2025, 12:00 AM: https://noclasscle.com/events/mx-juneteenth-2025-kickoff-fundraiser]]></description>
             <link>https://noclasscle.com/events/mx-juneteenth-2025-kickoff-fundraiser</link>
@@ -1386,11 +1379,53 @@
             <pubDate>Thu, 27 Feb 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MEN'S MENTAL HEALTH NIGHT at No Class]]></title>
+            <description><![CDATA[Get tickets to MEN'S MENTAL HEALTH NIGHT at No Class on Tuesday, March 4, 2025, 12:00 AM: https://noclasscle.com/events/mens-mental-health-night]]></description>
+            <link>https://noclasscle.com/events/mens-mental-health-night</link>
+            <guid isPermaLink="true">https://noclasscle.com/events/mens-mental-health-night</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[CHUNK at No Class]]></title>
             <description><![CDATA[Get tickets to CHUNK at No Class on Friday, March 7, 2025, 12:00 AM: https://noclasscle.com/events/chunk-westside-productions]]></description>
             <link>https://noclasscle.com/events/chunk-westside-productions</link>
             <guid isPermaLink="true">https://noclasscle.com/events/chunk-westside-productions</guid>
             <pubDate>Fri, 07 Mar 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CORONER at No Class]]></title>
+            <description><![CDATA[Get tickets to CORONER at No Class on Thursday, March 13, 2025, 12:00 AM: https://noclasscle.com/events/coroner]]></description>
+            <link>https://noclasscle.com/events/coroner</link>
+            <guid isPermaLink="true">https://noclasscle.com/events/coroner</guid>
+            <pubDate>Thu, 13 Mar 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOTH YOGA at No Class]]></title>
+            <description><![CDATA[Get tickets to GOTH YOGA at No Class on Sunday, March 16, 2025, 12:00 AM: https://noclasscle.com/events/goth-yoga-3-16-25]]></description>
+            <link>https://noclasscle.com/events/goth-yoga-3-16-25</link>
+            <guid isPermaLink="true">https://noclasscle.com/events/goth-yoga-3-16-25</guid>
+            <pubDate>Sun, 16 Mar 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOST at No Class]]></title>
+            <description><![CDATA[Get tickets to GOST at No Class on Sunday, March 16, 2025, 12:00 AM: https://noclasscle.com/events/gost]]></description>
+            <link>https://noclasscle.com/events/gost</link>
+            <guid isPermaLink="true">https://noclasscle.com/events/gost</guid>
+            <pubDate>Sun, 16 Mar 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FREE DARK SYNTH RAVE at No Class]]></title>
+            <description><![CDATA[Get tickets to FREE DARK SYNTH RAVE at No Class on Friday, March 21, 2025, 12:00 AM: https://noclasscle.com/events/dark-synth-rave-free]]></description>
+            <link>https://noclasscle.com/events/dark-synth-rave-free</link>
+            <guid isPermaLink="true">https://noclasscle.com/events/dark-synth-rave-free</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[(216) at No Class]]></title>
+            <description><![CDATA[Get tickets to (216) at No Class on Sunday, March 23, 2025, 12:00 AM: https://noclasscle.com/events/216-ringworm-bittersweet-revenge]]></description>
+            <link>https://noclasscle.com/events/216-ringworm-bittersweet-revenge</link>
+            <guid isPermaLink="true">https://noclasscle.com/events/216-ringworm-bittersweet-revenge</guid>
+            <pubDate>Sun, 23 Mar 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MALOMAN at No Class]]></title>
@@ -1426,6 +1461,13 @@
             <link>https://noclasscle.com/events/night-at-the-classbury</link>
             <guid isPermaLink="true">https://noclasscle.com/events/night-at-the-classbury</guid>
             <pubDate>Fri, 04 Apr 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SOVEREIGN at No Class]]></title>
+            <description><![CDATA[Get tickets to SOVEREIGN at No Class on Tuesday, April 15, 2025, 12:00 AM: https://noclasscle.com/events/sovereign-stress-angel]]></description>
+            <link>https://noclasscle.com/events/sovereign-stress-angel</link>
+            <guid isPermaLink="true">https://noclasscle.com/events/sovereign-stress-angel</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WITCHRUNE at No Class]]></title>
@@ -1540,13 +1582,6 @@
             <pubDate>Tue, 07 Oct 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Flippant, Model Martel, DESKIR at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Flippant, Model Martel, DESKIR at Grog Shop on Thursday, January 30, 2025, 12:00 AM: https://grogshop.gs/tm-event/flippant-model-martel/]]></description>
-            <link>https://grogshop.gs/tm-event/flippant-model-martel/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/flippant-model-martel/</guid>
-            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mourning [A] BLKstar 10th Anniversary Celebration with Special Guests, Uno Lady, Nature Nvoke, Messiah In Glytch at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Mourning [A] BLKstar 10th Anniversary Celebration with Special Guests, Uno Lady, Nature Nvoke, Messiah In Glytch at Grog Shop on Friday, January 31, 2025, 12:00 AM: https://grogshop.gs/tm-event/mourning-a-blkstar-10th-anniversary-celebration-with-special-guests/]]></description>
             <link>https://grogshop.gs/tm-event/mourning-a-blkstar-10th-anniversary-celebration-with-special-guests/</link>
@@ -1575,17 +1610,17 @@
             <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/]]></description>
-            <link>https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</guid>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/]]></description>
             <link>https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/</guid>
+            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Tim Heidecker: Slipping Away Tour, Neil Hamburger at Grog Shop on Wednesday, February 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/]]></description>
+            <link>https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/</guid>
             <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1603,8 +1638,8 @@
             <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lunar Vacation, Tasha at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Lunar Vacation, Tasha at Grog Shop on Saturday, February 8, 2025, 12:00 AM: https://grogshop.gs/tm-event/lunar-vacation/]]></description>
+            <title><![CDATA[Lunar Vacation, Tasha, tessas at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Lunar Vacation, Tasha, tessas at Grog Shop on Saturday, February 8, 2025, 12:00 AM: https://grogshop.gs/tm-event/lunar-vacation/]]></description>
             <link>https://grogshop.gs/tm-event/lunar-vacation/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/lunar-vacation/</guid>
             <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
@@ -1715,8 +1750,8 @@
             <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Joe Samba, Dale and the Z Dubs at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Joe Samba, Dale and the Z Dubs at Grog Shop on Thursday, February 27, 2025, 12:00 AM: https://grogshop.gs/tm-event/joe-samba/]]></description>
+            <title><![CDATA[Joe Samba, Dale and the Z Dubs, ZuP at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Joe Samba, Dale and the Z Dubs, ZuP at Grog Shop on Thursday, February 27, 2025, 12:00 AM: https://grogshop.gs/tm-event/joe-samba/]]></description>
             <link>https://grogshop.gs/tm-event/joe-samba/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/joe-samba/</guid>
             <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
@@ -1897,6 +1932,20 @@
             <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Carlos Jones (+) at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Carlos Jones (+) at Grog Shop on Saturday, April 12, 2025, 12:00 AM: https://grogshop.gs/tm-event/carlos-jones/]]></description>
+            <link>https://grogshop.gs/tm-event/carlos-jones/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/carlos-jones/</guid>
+            <pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Koffin Kats, Flatfoot 56 at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Koffin Kats, Flatfoot 56 at Grog Shop on Sunday, April 13, 2025, 12:00 AM: https://grogshop.gs/tm-event/koffin-kats-flatfoot-56/]]></description>
+            <link>https://grogshop.gs/tm-event/koffin-kats-flatfoot-56/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/koffin-kats-flatfoot-56/</guid>
+            <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sawyer Hill at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Sawyer Hill at Grog Shop on Wednesday, April 16, 2025, 12:00 AM: https://grogshop.gs/tm-event/sawyer-hill/]]></description>
             <link>https://grogshop.gs/tm-event/sawyer-hill/</link>
@@ -1911,15 +1960,15 @@
             <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slackfest Cleveland: Two Night Pass at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Slackfest Cleveland: Two Night Pass at Grog Shop on Friday, April 18, 2025, 12:00 AM: https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/]]></description>
+            <title><![CDATA[Slackfest Cleveland: Two Night Pass, Tobyraps, The Operators at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Slackfest Cleveland: Two Night Pass, Tobyraps, The Operators at Grog Shop on Friday, April 18, 2025, 12:00 AM: https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/]]></description>
             <link>https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/</guid>
             <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Slackfest Cleveland: Night 2 at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Slackfest Cleveland: Night 2 at Grog Shop on Saturday, April 19, 2025, 12:00 AM: https://grogshop.gs/tm-event/slackfest-cleveland-night-2/]]></description>
+            <title><![CDATA[Slackfest Cleveland: Night 2, The Abruptors, Thicarus at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Slackfest Cleveland: Night 2, The Abruptors, Thicarus at Grog Shop on Saturday, April 19, 2025, 12:00 AM: https://grogshop.gs/tm-event/slackfest-cleveland-night-2/]]></description>
             <link>https://grogshop.gs/tm-event/slackfest-cleveland-night-2/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/slackfest-cleveland-night-2/</guid>
             <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
@@ -2035,13 +2084,6 @@
             <link>https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/</guid>
             <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[January Plant Bingo! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to January Plant Bingo! at Winchester Tavern on Wednesday, January 29, 2025, 07:00 PM: https://www.ticketweb.com/event/january-plant-bingo-the-winchester-tickets/14142803]]></description>
-            <link>https://www.ticketweb.com/event/january-plant-bingo-the-winchester-tickets/14142803</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/january-plant-bingo-the-winchester-tickets/14142803</guid>
-            <pubDate>Wed, 29 Jan 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Platinum Moon at Winchester Tavern]]></title>
@@ -2184,10 +2226,10 @@
             <pubDate>Tue, 04 Mar 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liliac wsg Amber Wild at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Liliac wsg Amber Wild at Winchester Tavern on Thursday, March 6, 2025, 07:00 PM: https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494]]></description>
-            <link>https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494</guid>
+            <title><![CDATA[Liliac wsg Platinum Moon at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to Liliac wsg Platinum Moon at Winchester Tavern on Thursday, March 6, 2025, 07:00 PM: https://www.ticketweb.com/event/liliac-wsg-platinum-moon-the-winchester-tickets/13581494]]></description>
+            <link>https://www.ticketweb.com/event/liliac-wsg-platinum-moon-the-winchester-tickets/13581494</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/liliac-wsg-platinum-moon-the-winchester-tickets/13581494</guid>
             <pubDate>Thu, 06 Mar 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2308,13 +2350,6 @@
             <link>https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793</guid>
             <pubDate>Fri, 16 May 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apres Ski Night at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Apres Ski Night at Mahall’s on Friday, January 31, 2025, 12:00 AM: https://link.dice.fm/U3f2c58cd6d5?dice_id=U3f2c58cd6d5]]></description>
-            <link>https://link.dice.fm/U3f2c58cd6d5?dice_id=U3f2c58cd6d5</link>
-            <guid isPermaLink="true">https://link.dice.fm/U3f2c58cd6d5?dice_id=U3f2c58cd6d5</guid>
-            <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Formerly Candice at Mahall’s]]></title>
@@ -2709,17 +2744,17 @@
             <pubDate>Fri, 02 May 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Magnolia Park at The Roxy at Mahall’s]]></title>
-            <description><![CDATA[Get tickets to Magnolia Park at The Roxy at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204]]></description>
-            <link>https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</link>
-            <guid isPermaLink="true">https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</guid>
-            <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Boston Manor at Mahall’s]]></title>
             <description><![CDATA[Get tickets to Boston Manor at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c]]></description>
             <link>https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</link>
             <guid isPermaLink="true">https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c</guid>
+            <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magnolia Park at The Roxy at Mahall’s]]></title>
+            <description><![CDATA[Get tickets to Magnolia Park at The Roxy at Mahall’s on Saturday, May 3, 2025, 10:00 PM: https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204]]></description>
+            <link>https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</link>
+            <guid isPermaLink="true">https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204</guid>
             <pubDate>Sat, 03 May 2025 22:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2919,8 +2954,8 @@
             <pubDate>Fri, 07 Feb 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rod Wave: Last Lap Tour, Special Guests: Moneybagg Yo, Toosii, Lil Poppa and Dess Dior at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Rod Wave: Last Lap Tour, Special Guests: Moneybagg Yo, Toosii, Lil Poppa and Dess Dior at Rocket Mortgage FieldHouse on Thursday, February 20, 2025, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/rod-wave-250220]]></description>
+            <title><![CDATA[CANCELED: Rod Wave: Last Lap Tour, Special Guests: Moneybagg Yo, Toosii, Lil Poppa and Dess Dior at Rocket Mortgage FieldHouse]]></title>
+            <description><![CDATA[Get tickets to CANCELED: Rod Wave: Last Lap Tour, Special Guests: Moneybagg Yo, Toosii, Lil Poppa and Dess Dior at Rocket Mortgage FieldHouse on Thursday, February 20, 2025, 12:00 AM: https://www.rocketmortgagefieldhouse.com/events/detail/rod-wave-250220]]></description>
             <link>https://www.rocketmortgagefieldhouse.com/events/detail/rod-wave-250220</link>
             <guid isPermaLink="true">https://www.rocketmortgagefieldhouse.com/events/detail/rod-wave-250220</guid>
             <pubDate>Thu, 20 Feb 2025 00:00:01 GMT</pubDate>
@@ -3031,10 +3066,10 @@
             <pubDate>Sat, 01 Feb 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shotgun Bowl 3, Olathia, Doctor Smoke, Cyadine, The Great Iron Snake, Kurnugia, Tundra, Radiatrix, Sabon at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Shotgun Bowl 3, Olathia, Doctor Smoke, Cyadine, The Great Iron Snake, Kurnugia, Tundra, Radiatrix, Sabon at Beachland Ballroom on Sunday, February 2, 2025, 01:45 PM: https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-kurnugia-tundra-radiatrix-sabon]]></description>
-            <link>https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-kurnugia-tundra-radiatrix-sabon</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-kurnugia-tundra-radiatrix-sabon</guid>
+            <title><![CDATA[Shotgun Bowl 3, Olathia, Doctor Smoke, Cyadine, The Great Iron Snake, Tundra, Radiatrix, Sabon at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Shotgun Bowl 3, Olathia, Doctor Smoke, Cyadine, The Great Iron Snake, Tundra, Radiatrix, Sabon at Beachland Ballroom on Sunday, February 2, 2025, 01:45 PM: https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-tundra-radiatrix-sabon]]></description>
+            <link>https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-tundra-radiatrix-sabon</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-tundra-radiatrix-sabon</guid>
             <pubDate>Sun, 02 Feb 2025 13:45:00 GMT</pubDate>
         </item>
         <item>
@@ -3652,6 +3687,13 @@
             <link>https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-sick-city-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-sick-city-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-</guid>
             <pubDate>Sun, 04 May 2025 13:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mac Sabbath, The Dickies, Flummox! at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Mac Sabbath, The Dickies, Flummox! at Beachland Tavern on Wednesday, May 7, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14243213/mac-sabbath-the-dickies-flummox-]]></description>
+            <link>https://www.beachlandballroom.com/e/14243213/mac-sabbath-the-dickies-flummox-</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14243213/mac-sabbath-the-dickies-flummox-</guid>
+            <pubDate>Wed, 07 May 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Arcadian Wild, River & Rail at Beachland Tavern]]></title>

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "THE METEORS"
-    ],
-    "link": "https://noclasscle.com/events/the-meteors",
-    "date": "2025-01-30T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MX JUNETEENTH 2025 KICKOFF FUNDRAISER"
     ],
     "link": "https://noclasscle.com/events/mx-juneteenth-2025-kickoff-fundraiser",
@@ -169,10 +161,58 @@
   },
   {
     "artist": [
+      "MEN'S MENTAL HEALTH NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/mens-mental-health-night",
+    "date": "2025-03-04T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "CHUNK"
     ],
     "link": "https://noclasscle.com/events/chunk-westside-productions",
     "date": "2025-03-07T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CORONER"
+    ],
+    "link": "https://noclasscle.com/events/coroner",
+    "date": "2025-03-13T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GOTH YOGA"
+    ],
+    "link": "https://noclasscle.com/events/goth-yoga-3-16-25",
+    "date": "2025-03-16T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GOST"
+    ],
+    "link": "https://noclasscle.com/events/gost",
+    "date": "2025-03-16T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FREE DARK SYNTH RAVE"
+    ],
+    "link": "https://noclasscle.com/events/dark-synth-rave-free",
+    "date": "2025-03-21T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "(216)"
+    ],
+    "link": "https://noclasscle.com/events/216-ringworm-bittersweet-revenge",
+    "date": "2025-03-23T00:00:01",
     "venue": "No Class"
   },
   {
@@ -213,6 +253,14 @@
     ],
     "link": "https://noclasscle.com/events/night-at-the-classbury",
     "date": "2025-04-04T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SOVEREIGN"
+    ],
+    "link": "https://noclasscle.com/events/sovereign-stress-angel",
+    "date": "2025-04-15T00:00:01",
     "venue": "No Class"
   },
   {

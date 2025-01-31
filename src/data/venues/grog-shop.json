@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Flippant",
-      "Model Martel",
-      "DESKIR"
-    ],
-    "link": "https://grogshop.gs/tm-event/flippant-model-martel/",
-    "date": "2025-01-30",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Mourning [A] BLKstar 10th Anniversary Celebration with Special Guests",
       "Uno Lady",
       "Nature Nvoke",
@@ -50,18 +40,18 @@
   },
   {
     "artist": [
-      "Tim Heidecker: Slipping Away Tour",
-      "Neil Hamburger"
+      "Midnight Rental presents Secret Movie Night"
     ],
-    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
+      "Tim Heidecker: Slipping Away Tour",
+      "Neil Hamburger"
     ],
-    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
+    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
@@ -87,7 +77,8 @@
   {
     "artist": [
       "Lunar Vacation",
-      "Tasha"
+      "Tasha",
+      "tessas"
     ],
     "link": "https://grogshop.gs/tm-event/lunar-vacation/",
     "date": "2025-02-08",
@@ -241,7 +232,8 @@
   {
     "artist": [
       "Joe Samba",
-      "Dale and the Z Dubs"
+      "Dale and the Z Dubs",
+      "ZuP"
     ],
     "link": "https://grogshop.gs/tm-event/joe-samba/",
     "date": "2025-02-27",
@@ -477,6 +469,23 @@
   },
   {
     "artist": [
+      "Carlos Jones (+)"
+    ],
+    "link": "https://grogshop.gs/tm-event/carlos-jones/",
+    "date": "2025-04-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Koffin Kats",
+      "Flatfoot 56"
+    ],
+    "link": "https://grogshop.gs/tm-event/koffin-kats-flatfoot-56/",
+    "date": "2025-04-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Sawyer Hill"
     ],
     "link": "https://grogshop.gs/tm-event/sawyer-hill/",
@@ -493,7 +502,9 @@
   },
   {
     "artist": [
-      "Slackfest Cleveland: Two Night Pass"
+      "Slackfest Cleveland: Two Night Pass",
+      "Tobyraps",
+      "The Operators"
     ],
     "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
     "date": "2025-04-18",
@@ -501,7 +512,9 @@
   },
   {
     "artist": [
-      "Slackfest Cleveland: Night 2"
+      "Slackfest Cleveland: Night 2",
+      "The Abruptors",
+      "Thicarus"
     ],
     "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-2/",
     "date": "2025-04-19",

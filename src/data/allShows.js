@@ -1064,12 +1064,6 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ['THE METEORS'],
-    link: 'https://noclasscle.com/events/the-meteors',
-    date: '2025-01-30T00:00:01',
-    venue: 'No Class',
-  },
-  {
     artist: ['MX JUNETEENTH 2025 KICKOFF FUNDRAISER'],
     link: 'https://noclasscle.com/events/mx-juneteenth-2025-kickoff-fundraiser',
     date: '2025-01-31T00:00:01',
@@ -1190,9 +1184,45 @@ export const allShows = [
     venue: 'No Class',
   },
   {
+    artist: ["MEN'S MENTAL HEALTH NIGHT"],
+    link: 'https://noclasscle.com/events/mens-mental-health-night',
+    date: '2025-03-04T00:00:01',
+    venue: 'No Class',
+  },
+  {
     artist: ['CHUNK'],
     link: 'https://noclasscle.com/events/chunk-westside-productions',
     date: '2025-03-07T00:00:01',
+    venue: 'No Class',
+  },
+  {
+    artist: ['CORONER'],
+    link: 'https://noclasscle.com/events/coroner',
+    date: '2025-03-13T00:00:01',
+    venue: 'No Class',
+  },
+  {
+    artist: ['GOTH YOGA'],
+    link: 'https://noclasscle.com/events/goth-yoga-3-16-25',
+    date: '2025-03-16T00:00:01',
+    venue: 'No Class',
+  },
+  {
+    artist: ['GOST'],
+    link: 'https://noclasscle.com/events/gost',
+    date: '2025-03-16T00:00:01',
+    venue: 'No Class',
+  },
+  {
+    artist: ['FREE DARK SYNTH RAVE'],
+    link: 'https://noclasscle.com/events/dark-synth-rave-free',
+    date: '2025-03-21T00:00:01',
+    venue: 'No Class',
+  },
+  {
+    artist: ['(216)'],
+    link: 'https://noclasscle.com/events/216-ringworm-bittersweet-revenge',
+    date: '2025-03-23T00:00:01',
     venue: 'No Class',
   },
   {
@@ -1223,6 +1253,12 @@ export const allShows = [
     artist: ['NIGHT AT THE CLASSBURY'],
     link: 'https://noclasscle.com/events/night-at-the-classbury',
     date: '2025-04-04T00:00:01',
+    venue: 'No Class',
+  },
+  {
+    artist: ['SOVEREIGN'],
+    link: 'https://noclasscle.com/events/sovereign-stress-angel',
+    date: '2025-04-15T00:00:01',
     venue: 'No Class',
   },
   {
@@ -1326,12 +1362,6 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
-    artist: ['Flippant', 'Model Martel', 'DESKIR'],
-    link: 'https://grogshop.gs/tm-event/flippant-model-martel/',
-    date: '2025-01-30',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Mourning [A] BLKstar 10th Anniversary Celebration with Special Guests',
       'Uno Lady',
@@ -1366,14 +1396,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
-    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
+    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
+    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
@@ -1390,7 +1420,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Lunar Vacation', 'Tasha'],
+    artist: ['Lunar Vacation', 'Tasha', 'tessas'],
     link: 'https://grogshop.gs/tm-event/lunar-vacation/',
     date: '2025-02-08',
     venue: 'Grog Shop',
@@ -1496,7 +1526,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Joe Samba', 'Dale and the Z Dubs'],
+    artist: ['Joe Samba', 'Dale and the Z Dubs', 'ZuP'],
     link: 'https://grogshop.gs/tm-event/joe-samba/',
     date: '2025-02-27',
     venue: 'Grog Shop',
@@ -1684,6 +1714,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
+    artist: ['Carlos Jones (+)'],
+    link: 'https://grogshop.gs/tm-event/carlos-jones/',
+    date: '2025-04-12',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Koffin Kats', 'Flatfoot 56'],
+    link: 'https://grogshop.gs/tm-event/koffin-kats-flatfoot-56/',
+    date: '2025-04-13',
+    venue: 'Grog Shop',
+  },
+  {
     artist: ['Sawyer Hill'],
     link: 'https://grogshop.gs/tm-event/sawyer-hill/',
     date: '2025-04-16',
@@ -1696,13 +1738,17 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Slackfest Cleveland: Two Night Pass'],
+    artist: [
+      'Slackfest Cleveland: Two Night Pass',
+      'Tobyraps',
+      'The Operators',
+    ],
     link: 'https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/',
     date: '2025-04-18',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Slackfest Cleveland: Night 2'],
+    artist: ['Slackfest Cleveland: Night 2', 'The Abruptors', 'Thicarus'],
     link: 'https://grogshop.gs/tm-event/slackfest-cleveland-night-2/',
     date: '2025-04-19',
     venue: 'Grog Shop',
@@ -1818,12 +1864,6 @@ export const allShows = [
     link: 'https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/',
     date: '2025-06-14',
     venue: 'Grog Shop',
-  },
-  {
-    artist: ['January Plant Bingo!'],
-    link: 'https://www.ticketweb.com/event/january-plant-bingo-the-winchester-tickets/14142803',
-    date: '2025-01-29T19:00:00',
-    venue: 'Winchester Tavern',
   },
   {
     artist: ['Platinum Moon'],
@@ -1946,8 +1986,8 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
-    artist: ['Liliac wsg Amber Wild'],
-    link: 'https://www.ticketweb.com/event/liliac-wsg-amber-wild-the-winchester-tickets/13581494',
+    artist: ['Liliac wsg Platinum Moon'],
+    link: 'https://www.ticketweb.com/event/liliac-wsg-platinum-moon-the-winchester-tickets/13581494',
     date: '2025-03-06T19:00:00',
     venue: 'Winchester Tavern',
   },
@@ -2052,12 +2092,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793',
     date: '2025-05-16T20:00:00',
     venue: 'Winchester Tavern',
-  },
-  {
-    artist: ['Apres Ski Night'],
-    link: 'https://link.dice.fm/U3f2c58cd6d5?dice_id=U3f2c58cd6d5',
-    date: '2025-01-30T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Formerly Candice'],
@@ -2398,16 +2432,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Magnolia Park'],
-    link: 'https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204',
-    date: '2025-05-03T18:00:00-04:00',
-    venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
     artist: ['Boston Manor'],
     link: 'https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c',
     date: '2025-05-03T18:00:00-04:00',
     venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Magnolia Park'],
+    link: 'https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204',
+    date: '2025-05-03T18:00:00-04:00',
+    venue: 'The Roxy at Mahall\u2019s',
   },
   {
     artist: ['The Blue Stones'],
@@ -2581,7 +2615,7 @@ export const allShows = [
   },
   {
     artist: [
-      'Rod Wave: Last Lap Tour',
+      'CANCELED: Rod Wave: Last Lap Tour',
       'Special Guests: Moneybagg Yo, Toosii, Lil Poppa and Dess Dior',
     ],
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/rod-wave-250220',
@@ -2700,12 +2734,11 @@ export const allShows = [
       'Doctor Smoke',
       'Cyadine',
       'The Great Iron Snake',
-      'Kurnugia',
       'Tundra',
       'Radiatrix',
       'Sabon',
     ],
-    link: 'https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-kurnugia-tundra-radiatrix-sabon',
+    link: 'https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-tundra-radiatrix-sabon',
     date: '2025-02-02T13:45:00',
     venue: 'Beachland Ballroom',
   },
@@ -3324,6 +3357,12 @@ export const allShows = [
     link: 'https://www.beachlandballroom.com/e/14186983/moon-runners-music-festival-tejon-street-corner-thieves-grifters-and-shills-carrie-nation-and-the-speakeasy-lonewolf-omb-fishgutzzz-and-the-lost-n-found-orchestra-the-moray-robber-s-roost-bryan-raymond-sick-city-gold-string-valley-iris-marlowe-house-of-wills-fuckin-nothin-',
     date: '2025-05-04T13:00:00',
     venue: 'Beachland Ballroom',
+  },
+  {
+    artist: ['Mac Sabbath', 'The Dickies', 'Flummox!'],
+    link: 'https://www.beachlandballroom.com/e/14243213/mac-sabbath-the-dickies-flummox-',
+    date: '2025-05-07T20:00:00',
+    venue: 'Beachland Tavern',
   },
   {
     artist: ['The Arcadian Wild', 'River & Rail'],

@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Mourning [A] BLKstar 10th Anniversary Celebration with Special Guests",
-      "Uno Lady",
-      "Nature Nvoke",
-      "Messiah In Glytch"
-    ],
-    "link": "https://grogshop.gs/tm-event/mourning-a-blkstar-10th-anniversary-celebration-with-special-guests/",
-    "date": "2025-01-31",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Hello!3D",
       "Community Shoe"
     ],
@@ -40,18 +29,18 @@
   },
   {
     "artist": [
-      "Midnight Rental presents Secret Movie Night"
+      "Tim Heidecker: Slipping Away Tour",
+      "Neil Hamburger"
     ],
-    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
+    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Tim Heidecker: Slipping Away Tour",
-      "Neil Hamburger"
+      "Midnight Rental presents Secret Movie Night"
     ],
-    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
     "date": "2025-02-05",
     "venue": "Grog Shop"
   },
@@ -208,6 +197,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/maiden-voyage-rip-ryde/",
     "date": "2025-02-22",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Love Show : The Real Polaris",
+      "Nick Samps"
+    ],
+    "link": "https://grogshop.gs/tm-event/love-show-the-real-polaris/",
+    "date": "2025-02-23",
     "venue": "Grog Shop"
   },
   {
@@ -494,19 +492,19 @@
   },
   {
     "artist": [
-      "Slackfest Cleveland: Night 1"
-    ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
-    "date": "2025-04-18",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Slackfest Cleveland: Two Night Pass",
       "Tobyraps",
       "The Operators"
     ],
     "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
+    "date": "2025-04-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Slackfest Cleveland: Night 1"
+    ],
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
     "date": "2025-04-18",
     "venue": "Grog Shop"
   },
@@ -626,7 +624,9 @@
   },
   {
     "artist": [
-      "MIKE"
+      "MIKE",
+      "Navy Blue",
+      "12k Gotti"
     ],
     "link": "https://grogshop.gs/tm-event/mike/",
     "date": "2025-05-27",
@@ -658,6 +658,24 @@
     ],
     "link": "https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/",
     "date": "2025-06-14",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Murder By Death: Farewell Tour",
+      "Laura Jane Grace"
+    ],
+    "link": "https://grogshop.gs/tm-event/murder-by-death-farewell-tour/",
+    "date": "2025-07-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Murder By Death: Farewell Tour",
+      "Laura Jane Grace"
+    ],
+    "link": "https://grogshop.gs/tm-event/murder-by-death-farewell-tour-2/",
+    "date": "2025-07-02",
     "venue": "Grog Shop"
   }
 ]

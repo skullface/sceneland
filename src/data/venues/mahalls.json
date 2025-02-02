@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Formerly Candice"
-    ],
-    "link": "https://link.dice.fm/Hbba589046d5?dice_id=Hbba589046d5",
-    "date": "2025-01-31T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Jukebox Breakdown aka Emo Night CLE"
-    ],
-    "link": "https://link.dice.fm/P9e844d8e57d?dice_id=P9e844d8e57d",
-    "date": "2025-01-31T22:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Backfires"
-    ],
-    "link": "https://link.dice.fm/fd990a00ca1c?dice_id=fd990a00ca1c",
-    "date": "2025-02-01T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Gimme Gimme Disco"
-    ],
-    "link": "https://link.dice.fm/Of3ea3ba78cb?dice_id=Of3ea3ba78cb",
-    "date": "2025-02-01T22:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Stix Quintet"
     ],
     "link": "https://link.dice.fm/Ffb74674a2d1?dice_id=Ffb74674a2d1",
@@ -187,6 +155,14 @@
   },
   {
     "artist": [
+      "Moon Cactus"
+    ],
+    "link": "https://link.dice.fm/B057a14157c9?dice_id=B057a14157c9",
+    "date": "2025-02-23T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Comeback Kid \"Wake The Dead\" 20 Year Anniversary Show"
     ],
     "link": "https://link.dice.fm/Uc3fd2b540f0?dice_id=Uc3fd2b540f0",
@@ -231,6 +207,14 @@
     ],
     "link": "https://link.dice.fm/Kfb496bdec89?dice_id=Kfb496bdec89",
     "date": "2025-03-07T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Cousin Simple"
+    ],
+    "link": "https://link.dice.fm/U6197ca4c7d0?dice_id=U6197ca4c7d0",
+    "date": "2025-03-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -326,6 +310,7 @@
       "Honestav"
     ],
     "link": "https://link.dice.fm/p6dae1233c19?dice_id=p6dae1233c19",
+    "sold_out": true,
     "date": "2025-04-04T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -480,6 +465,14 @@
     "link": "https://link.dice.fm/Tf8145cb6b0a?dice_id=Tf8145cb6b0a",
     "date": "2025-05-07T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Remember Sports"
+    ],
+    "link": "https://link.dice.fm/A9119110821c?dice_id=A9119110821c",
+    "date": "2025-05-09T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

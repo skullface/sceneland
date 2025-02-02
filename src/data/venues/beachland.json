@@ -1,30 +1,12 @@
 [
   {
     "artist": [
-      "Bertha: Grateful Drag",
-      "Host Queen: Dr. Lady J"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13646674/bertha-grateful-drag-host-queen-dr-lady-j",
-    "date": "2025-01-30T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Bumpin Uglies",
-      "Joey Harkum",
-      "Derek McBryde"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13646504/bumpin-uglies-joey-harkum-derek-mcbryde",
-    "date": "2025-01-31T19:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Bumpin Uglies",
       "Joint Operation",
       "TobyRaps"
     ],
     "link": "https://www.beachlandballroom.com/e/13646544/bumpin-uglies-joint-operation-tobyraps",
+    "sold_out": true,
     "date": "2025-02-01T19:30:00",
     "venue": "Beachland Ballroom"
   },
@@ -875,6 +857,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/14243213/mac-sabbath-the-dickies-flummox-",
     "date": "2025-05-07T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Nefresh Mountain"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13675734/nefresh-mountain",
+    "date": "2025-05-08T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

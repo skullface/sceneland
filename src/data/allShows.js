@@ -1,11 +1,5 @@
 export const allShows = [
   {
-    artist: ['Josh Johnson: The Flowers Tour'],
-    link: 'https://www.playhousesquare.org/events/detail/josh-johnson-the-flowers-tour',
-    date: '2025-01-31T00:00:01',
-    venue: 'Playhouse Square',
-  },
-  {
     artist: ["Flanagan's Wake"],
     link: 'https://www.playhousesquare.org/events/detail/flanagans-wake-3',
     date: '2025-01-03T00:00:01',
@@ -228,6 +222,12 @@ export const allShows = [
     venue: 'Agora',
   },
   {
+    artist: ['Sexy Black Genius'],
+    link: 'https://www.agoracleveland.com/events/detail/825413',
+    date: '2025-03-06T18:00:00',
+    venue: 'Agora',
+  },
+  {
     artist: ['Faye Webster, Mei Ehara'],
     link: 'https://www.agoracleveland.com/events/detail/707543',
     date: '2025-03-07T18:00:00',
@@ -424,18 +424,6 @@ export const allShows = [
     link: 'https://www.agoracleveland.com/events/detail/830075',
     date: '2025-11-08T18:00:00',
     venue: 'Agora',
-  },
-  {
-    artist: ['Kerry King'],
-    link: 'https://concerts.livenation.com/kerry-king-cleveland-ohio-01-31-2025/event/0500613A1667611E',
-    date: '2025-01-31T18:00:00',
-    venue: 'House of Blues',
-  },
-  {
-    artist: ["Saved By The 90's"],
-    link: 'https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-02-01-2025/event/05006179BE9E2533',
-    date: '2025-02-01T20:00:00',
-    venue: 'House of Blues',
   },
   {
     artist: ['Billy F. Gibbons'],
@@ -636,6 +624,12 @@ export const allShows = [
     venue: 'House of Blues',
   },
   {
+    artist: ['United We Dance: The Ultimate Rave Experience'],
+    link: 'https://concerts.livenation.com/united-we-dance-the-ultimate-rave-cleveland-ohio-04-25-2025/event/0500623DFB435B0F',
+    date: '2025-04-25T21:00:00',
+    venue: 'House of Blues',
+  },
+  {
     artist: ['Between The Buried And Me'],
     link: 'https://concerts.livenation.com/between-the-buried-and-me-cleveland-ohio-04-30-2025/event/05006231E28F5600',
     date: '2025-04-30T18:30:00',
@@ -663,6 +657,12 @@ export const allShows = [
     artist: ['The Devil Makes Three Tour 2025'],
     link: 'https://concerts.livenation.com/the-devil-makes-three-tour-2025-cleveland-ohio-05-13-2025/event/05006152BC312B23',
     date: '2025-05-13T19:30:00',
+    venue: 'House of Blues',
+  },
+  {
+    artist: ['G-Eazy: Helium Tour'],
+    link: 'https://concerts.livenation.com/geazy-helium-tour-cleveland-ohio-05-14-2025/event/05006239E8CD5E32',
+    date: '2025-05-14T19:00:00',
     venue: 'House of Blues',
   },
   {
@@ -840,18 +840,6 @@ export const allShows = [
     link: 'https://www.foundryconcertclub.com/tm-event/the-flying-grey-suns-free-drew-guiche-exhale/',
     date: '2025-05-30T19:00:00',
     venue: 'Foundry',
-  },
-  {
-    artist: ['Swisher, Star House, Anteater - a release show from unifactor'],
-    link: 'https://app.opendate.io/e/swisher-star-house-anteater-a-release-show-from-unifactor-january-31-2025-568972',
-    date: '2025-01-31T00:00:01',
-    venue: 'Happy Dog',
-  },
-  {
-    artist: ["Brother Wolf, The Magnavox's, Blanket Party"],
-    link: 'https://app.opendate.io/e/brother-wolf-the-magnavox-s-blanket-party-february-01-2025-568973',
-    date: '2025-02-01T00:00:01',
-    venue: 'Happy Dog',
   },
   {
     artist: ['Monday Night Trivia!'],
@@ -1166,6 +1154,12 @@ export const allShows = [
     venue: 'No Class',
   },
   {
+    artist: ['HWUT THE HELL?!'],
+    link: 'https://noclasscle.com/events/hwut-the-hell-2-honk-honk-productions',
+    date: '2025-02-20T00:00:01',
+    venue: 'No Class',
+  },
+  {
     artist: ['WESTSIDE LIVE'],
     link: 'https://noclasscle.com/events/westside-live',
     date: '2025-02-21T00:00:01',
@@ -1274,6 +1268,12 @@ export const allShows = [
     venue: 'No Class',
   },
   {
+    artist: ['THE GO FOR BROKE TOUR'],
+    link: 'https://noclasscle.com/events/the-go-for-broke-tour',
+    date: '2025-06-11T00:00:01',
+    venue: 'No Class',
+  },
+  {
     artist: ['Breaking Benjamin & Staind: Awaken The Fallen Tour'],
     link: 'https://concerts.livenation.com/breaking-benjamin-staind-awaken-the-fallen-cuyahoga-falls-ohio-05-19-2025/event/0500617DEA668206',
     date: '2025-05-19T17:45:00',
@@ -1356,21 +1356,16 @@ export const allShows = [
     venue: 'Blossom',
   },
   {
+    artist: ['Lainey Wilson: Whirlwind World Tour'],
+    link: 'https://concerts.livenation.com/lainey-wilson-whirlwind-world-tour-cuyahoga-falls-ohio-10-04-2025/event/0500623EA93B4836',
+    date: '2025-10-04T19:00:00',
+    venue: 'Blossom',
+  },
+  {
     artist: ['Tyler Childers: On The Road'],
     link: 'https://concerts.livenation.com/tyler-childers-on-the-road-cuyahoga-falls-ohio-10-07-2025/event/05006167C0B828F4',
     date: '2025-10-07T19:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: [
-      'Mourning [A] BLKstar 10th Anniversary Celebration with Special Guests',
-      'Uno Lady',
-      'Nature Nvoke',
-      'Messiah In Glytch',
-    ],
-    link: 'https://grogshop.gs/tm-event/mourning-a-blkstar-10th-anniversary-celebration-with-special-guests/',
-    date: '2025-01-31',
-    venue: 'Grog Shop',
   },
   {
     artist: ['Hello!3D', 'Community Shoe'],
@@ -1396,14 +1391,14 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Midnight Rental presents Secret Movie Night'],
-    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
+    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
+    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
   {
-    artist: ['Tim Heidecker: Slipping Away Tour', 'Neil Hamburger'],
-    link: 'https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/',
+    artist: ['Midnight Rental presents Secret Movie Night'],
+    link: 'https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/',
     date: '2025-02-05',
     venue: 'Grog Shop',
   },
@@ -1511,6 +1506,12 @@ export const allShows = [
     artist: ['Maiden Voyage', 'Rip Ryde'],
     link: 'https://grogshop.gs/tm-event/maiden-voyage-rip-ryde/',
     date: '2025-02-22',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Love Show : The Real Polaris', 'Nick Samps'],
+    link: 'https://grogshop.gs/tm-event/love-show-the-real-polaris/',
+    date: '2025-02-23',
     venue: 'Grog Shop',
   },
   {
@@ -1732,18 +1733,18 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Slackfest Cleveland: Night 1'],
-    link: 'https://grogshop.gs/tm-event/slackfest-cleveland-night-1/',
-    date: '2025-04-18',
-    venue: 'Grog Shop',
-  },
-  {
     artist: [
       'Slackfest Cleveland: Two Night Pass',
       'Tobyraps',
       'The Operators',
     ],
     link: 'https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/',
+    date: '2025-04-18',
+    venue: 'Grog Shop',
+  },
+  {
+    artist: ['Slackfest Cleveland: Night 1'],
+    link: 'https://grogshop.gs/tm-event/slackfest-cleveland-night-1/',
     date: '2025-04-18',
     venue: 'Grog Shop',
   },
@@ -1835,7 +1836,7 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['MIKE'],
+    artist: ['MIKE', 'Navy Blue', '12k Gotti'],
     link: 'https://grogshop.gs/tm-event/mike/',
     date: '2025-05-27',
     venue: 'Grog Shop',
@@ -1866,16 +1867,16 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Platinum Moon'],
-    link: 'https://www.ticketweb.com/event/platinum-moon-the-winchester-tickets/13950663',
-    date: '2025-01-30T19:00:00',
-    venue: 'Winchester Tavern',
+    artist: ['Murder By Death: Farewell Tour', 'Laura Jane Grace'],
+    link: 'https://grogshop.gs/tm-event/murder-by-death-farewell-tour/',
+    date: '2025-07-01',
+    venue: 'Grog Shop',
   },
   {
-    artist: ['Tomorrows Ghosts \u2013 Presents Ghosts of Xmas III'],
-    link: 'https://www.ticketweb.com/event/tomorrows-ghosts-presents-the-winchester-tickets/14005543',
-    date: '2025-01-31T20:00:00',
-    venue: 'Winchester Tavern',
+    artist: ['Murder By Death: Farewell Tour', 'Laura Jane Grace'],
+    link: 'https://grogshop.gs/tm-event/murder-by-death-farewell-tour-2/',
+    date: '2025-07-02',
+    venue: 'Grog Shop',
   },
   {
     artist: ['Marty Friedman, Nikki Stringfield & Patrick Kennison'],
@@ -2094,30 +2095,6 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
-    artist: ['Formerly Candice'],
-    link: 'https://link.dice.fm/Hbba589046d5?dice_id=Hbba589046d5',
-    date: '2025-01-31T18:30:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Jukebox Breakdown aka Emo Night CLE'],
-    link: 'https://link.dice.fm/P9e844d8e57d?dice_id=P9e844d8e57d',
-    date: '2025-01-31T22:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['The Backfires'],
-    link: 'https://link.dice.fm/fd990a00ca1c?dice_id=fd990a00ca1c',
-    date: '2025-02-01T18:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
-    artist: ['Gimme Gimme Disco'],
-    link: 'https://link.dice.fm/Of3ea3ba78cb?dice_id=Of3ea3ba78cb',
-    date: '2025-02-01T22:00:00-05:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['The Stix Quintet'],
     link: 'https://link.dice.fm/Ffb74674a2d1?dice_id=Ffb74674a2d1',
     date: '2025-02-02T19:00:00-05:00',
@@ -2234,6 +2211,12 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['Moon Cactus'],
+    link: 'https://link.dice.fm/B057a14157c9?dice_id=B057a14157c9',
+    date: '2025-02-23T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Comeback Kid "Wake The Dead" 20 Year Anniversary Show'],
     link: 'https://link.dice.fm/Uc3fd2b540f0?dice_id=Uc3fd2b540f0',
     date: '2025-02-26T18:00:00-05:00',
@@ -2267,6 +2250,12 @@ export const allShows = [
     artist: ['Driveways'],
     link: 'https://link.dice.fm/Kfb496bdec89?dice_id=Kfb496bdec89',
     date: '2025-03-07T19:00:00-05:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
+    artist: ['Cousin Simple'],
+    link: 'https://link.dice.fm/U6197ca4c7d0?dice_id=U6197ca4c7d0',
+    date: '2025-03-08T19:00:00-05:00',
     venue: 'Mahall\u2019s',
   },
   {
@@ -2338,6 +2327,7 @@ export const allShows = [
   {
     artist: ['Honestav'],
     link: 'https://link.dice.fm/p6dae1233c19?dice_id=p6dae1233c19',
+    sold_out: true,
     date: '2025-04-04T19:00:00-04:00',
     venue: 'Mahall\u2019s',
   },
@@ -2456,6 +2446,12 @@ export const allShows = [
     venue: 'The Roxy at Mahall\u2019s',
   },
   {
+    artist: ['Remember Sports'],
+    link: 'https://link.dice.fm/A9119110821c?dice_id=A9119110821c',
+    date: '2025-05-09T19:00:00-04:00',
+    venue: 'Mahall\u2019s',
+  },
+  {
     artist: ['Smoking Popes and Off With Their Heads'],
     link: 'https://link.dice.fm/gf04d58e5130?dice_id=gf04d58e5130',
     date: '2025-05-24T19:00:00-04:00',
@@ -2478,12 +2474,6 @@ export const allShows = [
     link: 'https://link.dice.fm/d734741b7ce5?dice_id=d734741b7ce5',
     date: '2025-06-11T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
-  },
-  {
-    artist: ['Breakaway Presents \u2013 Level Up'],
-    link: 'https://www.templelive.com/tm-event/breakaway-presents-level-up/',
-    date: '2025-02-01T00:00:01',
-    venue: 'Masonic Temple',
   },
   {
     artist: ['Z107.9 & 93.1 WZAK Presents 216 Day'],
@@ -2710,20 +2700,9 @@ export const allShows = [
     venue: 'Rocket Mortgage FieldHouse',
   },
   {
-    artist: ['Bertha: Grateful Drag', 'Host Queen: Dr. Lady J'],
-    link: 'https://www.beachlandballroom.com/e/13646674/bertha-grateful-drag-host-queen-dr-lady-j',
-    date: '2025-01-30T20:00:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: ['Bumpin Uglies', 'Joey Harkum', 'Derek McBryde'],
-    link: 'https://www.beachlandballroom.com/e/13646504/bumpin-uglies-joey-harkum-derek-mcbryde',
-    date: '2025-01-31T19:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
     artist: ['Bumpin Uglies', 'Joint Operation', 'TobyRaps'],
     link: 'https://www.beachlandballroom.com/e/13646544/bumpin-uglies-joint-operation-tobyraps',
+    sold_out: true,
     date: '2025-02-01T19:30:00',
     venue: 'Beachland Ballroom',
   },
@@ -3362,6 +3341,12 @@ export const allShows = [
     artist: ['Mac Sabbath', 'The Dickies', 'Flummox!'],
     link: 'https://www.beachlandballroom.com/e/14243213/mac-sabbath-the-dickies-flummox-',
     date: '2025-05-07T20:00:00',
+    venue: 'Beachland Tavern',
+  },
+  {
+    artist: ['Nefresh Mountain'],
+    link: 'https://www.beachlandballroom.com/e/13675734/nefresh-mountain',
+    date: '2025-05-08T20:00:00',
     venue: 'Beachland Tavern',
   },
   {

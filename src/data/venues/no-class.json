@@ -137,6 +137,14 @@
   },
   {
     "artist": [
+      "HWUT THE HELL?!"
+    ],
+    "link": "https://noclasscle.com/events/hwut-the-hell-2-honk-honk-productions",
+    "date": "2025-02-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "WESTSIDE LIVE"
     ],
     "link": "https://noclasscle.com/events/westside-live",
@@ -277,6 +285,14 @@
     ],
     "link": "https://noclasscle.com/events/niis",
     "date": "2025-04-26T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "THE GO FOR BROKE TOUR"
+    ],
+    "link": "https://noclasscle.com/events/the-go-for-broke-tour",
+    "date": "2025-06-11T00:00:01",
     "venue": "No Class"
   }
 ]

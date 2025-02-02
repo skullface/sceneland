@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Kerry King"
-    ],
-    "link": "https://concerts.livenation.com/kerry-king-cleveland-ohio-01-31-2025/event/0500613A1667611E",
-    "date": "2025-01-31T18:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
-      "Saved By The 90's"
-    ],
-    "link": "https://concerts.livenation.com/saved-by-the-90s-cleveland-ohio-02-01-2025/event/05006179BE9E2533",
-    "date": "2025-02-01T20:00:00",
-    "venue": "House of Blues"
-  },
-  {
-    "artist": [
       "Billy F. Gibbons"
     ],
     "link": "https://concerts.livenation.com/billy-f-gibbons-cleveland-ohio-02-02-2025/event/0500614B9E1D1CF9",
@@ -281,6 +265,14 @@
   },
   {
     "artist": [
+      "United We Dance: The Ultimate Rave Experience"
+    ],
+    "link": "https://concerts.livenation.com/united-we-dance-the-ultimate-rave-cleveland-ohio-04-25-2025/event/0500623DFB435B0F",
+    "date": "2025-04-25T21:00:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
       "Between The Buried And Me"
     ],
     "link": "https://concerts.livenation.com/between-the-buried-and-me-cleveland-ohio-04-30-2025/event/05006231E28F5600",
@@ -317,6 +309,14 @@
     ],
     "link": "https://concerts.livenation.com/the-devil-makes-three-tour-2025-cleveland-ohio-05-13-2025/event/05006152BC312B23",
     "date": "2025-05-13T19:30:00",
+    "venue": "House of Blues"
+  },
+  {
+    "artist": [
+      "G-Eazy: Helium Tour"
+    ],
+    "link": "https://concerts.livenation.com/geazy-helium-tour-cleveland-ohio-05-14-2025/event/05006239E8CD5E32",
+    "date": "2025-05-14T19:00:00",
     "venue": "House of Blues"
   },
   {

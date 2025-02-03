@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Stix Quintet"
-    ],
-    "link": "https://link.dice.fm/Ffb74674a2d1?dice_id=Ffb74674a2d1",
-    "date": "2025-02-02T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Thou"
     ],
     "link": "https://link.dice.fm/b85ac39961a6?dice_id=b85ac39961a6",
@@ -436,19 +428,19 @@
   },
   {
     "artist": [
-      "Boston Manor"
-    ],
-    "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
-    "date": "2025-05-03T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Magnolia Park"
     ],
     "link": "https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204",
     "date": "2025-05-03T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Boston Manor"
+    ],
+    "link": "https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c",
+    "date": "2025-05-03T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

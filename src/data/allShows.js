@@ -426,12 +426,6 @@ export const allShows = [
     venue: 'Agora',
   },
   {
-    artist: ['Billy F. Gibbons'],
-    link: 'https://concerts.livenation.com/billy-f-gibbons-cleveland-ohio-02-02-2025/event/0500614B9E1D1CF9',
-    date: '2025-02-02T19:00:00',
-    venue: 'House of Blues',
-  },
-  {
     artist: ['BABYFACE RAY: Wavy Navy University Tour'],
     link: 'https://concerts.livenation.com/babyface-ray-wavy-navy-university-tour-cleveland-ohio-02-06-2025/event/0500613AE69E453B',
     date: '2025-02-06T19:00:00',
@@ -1052,24 +1046,6 @@ export const allShows = [
     venue: 'Jacobs Pavilion at Nautica',
   },
   {
-    artist: ['MX JUNETEENTH 2025 KICKOFF FUNDRAISER'],
-    link: 'https://noclasscle.com/events/mx-juneteenth-2025-kickoff-fundraiser',
-    date: '2025-01-31T00:00:01',
-    venue: 'No Class',
-  },
-  {
-    artist: ['TIM CAPPELLO'],
-    link: 'https://noclasscle.com/events/tim-cappello-lost-boys-domino-dancing-alan-klump',
-    date: '2025-02-01T00:00:01',
-    venue: 'No Class',
-  },
-  {
-    artist: ['NON-MONOGAMY SPEED DATING'],
-    link: 'https://noclasscle.com/events/non-monogamy-speed-dating',
-    date: '2025-02-02T00:00:01',
-    venue: 'No Class',
-  },
-  {
     artist: ["Y'ALLTERNATIVE - COUNTRY KARAOKE"],
     link: 'https://noclasscle.com/events/yallternative-country-karaoke',
     date: '2025-02-02T00:00:01',
@@ -1366,12 +1342,6 @@ export const allShows = [
     link: 'https://concerts.livenation.com/tyler-childers-on-the-road-cuyahoga-falls-ohio-10-07-2025/event/05006167C0B828F4',
     date: '2025-10-07T19:00:00',
     venue: 'Blossom',
-  },
-  {
-    artist: ['Hello!3D', 'Community Shoe'],
-    link: 'https://grogshop.gs/tm-event/hello3d-community-shoe/',
-    date: '2025-02-01',
-    venue: 'Grog Shop',
   },
   {
     artist: [
@@ -1879,12 +1849,6 @@ export const allShows = [
     venue: 'Grog Shop',
   },
   {
-    artist: ['Marty Friedman, Nikki Stringfield & Patrick Kennison'],
-    link: 'https://www.ticketweb.com/event/marty-friedman-w-nikki-stringfield-the-winchester-tickets/13805353',
-    date: '2025-02-02T20:00:00',
-    venue: 'Winchester Tavern',
-  },
-  {
     artist: ['Bury The Pines, With Mourning Dove, and Calico'],
     link: 'https://www.ticketweb.com/event/bury-the-pines-with-mourning-the-winchester-tickets/14122553',
     date: '2025-02-06T19:30:00',
@@ -2005,6 +1969,12 @@ export const allShows = [
     venue: 'Winchester Tavern',
   },
   {
+    artist: ['Strutter \u2013 America\u2019s #1 Kiss Tribute'],
+    link: 'https://www.ticketweb.com/event/strutter-americas-1-the-winchester-tickets/14122573',
+    date: '2025-03-08T20:00:00',
+    venue: 'Winchester Tavern',
+  },
+  {
     artist: ['Keith Harkin'],
     link: 'https://www.ticketweb.com/event/keith-harkin-the-winchester-tickets/14043593',
     date: '2025-03-09T19:00:00',
@@ -2093,12 +2063,6 @@ export const allShows = [
     link: 'https://www.ticketweb.com/event/disciple-of-the-garden-the-winchester-tickets/14161793',
     date: '2025-05-16T20:00:00',
     venue: 'Winchester Tavern',
-  },
-  {
-    artist: ['The Stix Quintet'],
-    link: 'https://link.dice.fm/Ffb74674a2d1?dice_id=Ffb74674a2d1',
-    date: '2025-02-02T19:00:00-05:00',
-    venue: 'Mahall\u2019s',
   },
   {
     artist: ['Thou'],
@@ -2422,16 +2386,16 @@ export const allShows = [
     venue: 'Mahall\u2019s',
   },
   {
-    artist: ['Boston Manor'],
-    link: 'https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c',
-    date: '2025-05-03T18:00:00-04:00',
-    venue: 'Mahall\u2019s',
-  },
-  {
     artist: ['Magnolia Park'],
     link: 'https://link.dice.fm/jfc0169c7204?dice_id=jfc0169c7204',
     date: '2025-05-03T18:00:00-04:00',
     venue: 'The Roxy at Mahall\u2019s',
+  },
+  {
+    artist: ['Boston Manor'],
+    link: 'https://link.dice.fm/p7f65d8a2c3c?dice_id=p7f65d8a2c3c',
+    date: '2025-05-03T18:00:00-04:00',
+    venue: 'Mahall\u2019s',
   },
   {
     artist: ['The Blue Stones'],
@@ -2698,28 +2662,6 @@ export const allShows = [
     link: 'https://www.rocketmortgagefieldhouse.com/events/detail/nine-inch-nails-250831',
     date: '2025-08-31T00:00:01',
     venue: 'Rocket Mortgage FieldHouse',
-  },
-  {
-    artist: ['Bumpin Uglies', 'Joint Operation', 'TobyRaps'],
-    link: 'https://www.beachlandballroom.com/e/13646544/bumpin-uglies-joint-operation-tobyraps',
-    sold_out: true,
-    date: '2025-02-01T19:30:00',
-    venue: 'Beachland Ballroom',
-  },
-  {
-    artist: [
-      'Shotgun Bowl 3',
-      'Olathia',
-      'Doctor Smoke',
-      'Cyadine',
-      'The Great Iron Snake',
-      'Tundra',
-      'Radiatrix',
-      'Sabon',
-    ],
-    link: 'https://www.beachlandballroom.com/e/13949163/shotgun-bowl-3-olathia-doctor-smoke-cyadine-the-great-iron-snake-tundra-radiatrix-sabon',
-    date: '2025-02-02T13:45:00',
-    venue: 'Beachland Ballroom',
   },
   {
     artist: ['Matt Pond PA', 'Anya Marina', 'Bathtub Cig'],

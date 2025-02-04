@@ -49,7 +49,7 @@
   },
   {
     "artist": [
-      "Category 7"
+      "CANCELLED:  Category 7"
     ],
     "link": "https://www.templelive.com/tm-event/category-7/",
     "date": "2025-03-12T00:00:01",
@@ -133,6 +133,14 @@
     ],
     "link": "https://www.templelive.com/tm-event/modest-mouse/",
     "date": "2025-06-20T00:00:01",
+    "venue": "Masonic Temple"
+  },
+  {
+    "artist": [
+      "The Australian Pink Floyd Show: Wish You Were Here 50th Anniversary"
+    ],
+    "link": "https://www.templelive.com/tm-event/the-australian-pink-floyd-show-wish-you-were-here-50th-anniversary/",
+    "date": "2025-09-11T00:00:01",
     "venue": "Masonic Temple"
   },
   {

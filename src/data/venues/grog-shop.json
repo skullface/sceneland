@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Jae Skeese: Ground Level Tour '25",
-      "MC Tae",
-      "Player K",
-      "Aphiniti"
-    ],
-    "link": "https://grogshop.gs/tm-event/jae-skeese-ground-level-tour-25/",
-    "date": "2025-02-02",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Make Em Laugh Mondays Hosted By Kevin Ford"
     ],
     "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford/",
@@ -360,7 +349,8 @@
   },
   {
     "artist": [
-      "Lesser Care"
+      "Lesser Care",
+      "Dogs Run Free"
     ],
     "link": "https://grogshop.gs/tm-event/lesser-care/",
     "date": "2025-03-19",
@@ -483,19 +473,19 @@
   },
   {
     "artist": [
-      "Slackfest Cleveland: Two Night Pass",
-      "Tobyraps",
-      "The Operators"
+      "Slackfest Cleveland: Night 1"
     ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
     "date": "2025-04-18",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Slackfest Cleveland: Night 1"
+      "Slackfest Cleveland: Two Night Pass",
+      "Tobyraps",
+      "The Operators"
     ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
+    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
     "date": "2025-04-18",
     "venue": "Grog Shop"
   },
@@ -558,6 +548,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/michigan-rattlers/",
     "date": "2025-04-30",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "STEPHEN STANLEY \u201cTRUSTFALL\u201d TOUR",
+      "Jake & Shelby"
+    ],
+    "link": "https://grogshop.gs/tm-event/stephen-stanley-trustfall-tour/",
+    "date": "2025-05-01",
     "venue": "Grog Shop"
   },
   {

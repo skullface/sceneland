@@ -68,18 +68,19 @@
   {
     "artist": [
       "Beachland Brunch",
-      "DJ Jeff Hagen"
+      "DJ Jeff Hagan"
     ],
-    "link": "https://www.beachlandballroom.com/e/14230733/beachland-brunch-dj-jeff-hagen",
+    "link": "https://www.beachlandballroom.com/e/14230733/beachland-brunch-dj-jeff-hagan",
     "date": "2025-02-09T11:00:00",
     "venue": "Beachland Tavern"
   },
   {
     "artist": [
       "Rickshaw Billie's Burger Patrol",
-      "Lip Critic"
+      "Lip Critic",
+      "FUSS"
     ],
-    "link": "https://www.beachlandballroom.com/e/13949953/rickshaw-billie-s-burger-patrol-lip-critic",
+    "link": "https://www.beachlandballroom.com/e/13949953/rickshaw-billie-s-burger-patrol-lip-critic-fuss",
     "date": "2025-02-12T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -124,6 +125,15 @@
     "link": "https://www.beachlandballroom.com/e/14154883/14th-annual-sweetheart-showcase",
     "date": "2025-02-15T20:30:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Beachland Brunch",
+      "DJ Andy Hart spinning Soul 45s"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13681324/beachland-brunch-dj-andy-hart-spinning-soul-45s",
+    "date": "2025-02-16T11:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -384,6 +394,14 @@
   },
   {
     "artist": [
+      "Northeast Ohio Drum & Music Jam"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13681684/northeast-ohio-drum-music-jam",
+    "date": "2025-03-13T21:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Marshall Crenshaw",
       "James Mastro"
     ],
@@ -398,6 +416,17 @@
     ],
     "link": "https://www.beachlandballroom.com/e/14147483/the-whiskey-daredevils-hillbilly-casino",
     "date": "2025-03-14T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Fruitfly",
+      "Dravin and the Ravens",
+      "Rellick",
+      "Guiche"
+    ],
+    "link": "https://www.beachlandballroom.com/e/13682094/fruitfly-dravin-and-the-ravens-rellick-guiche",
+    "date": "2025-03-15T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

@@ -1,17 +1,10 @@
 [
   {
     "artist": [
-      "Thou"
-    ],
-    "link": "https://link.dice.fm/b85ac39961a6?dice_id=b85ac39961a6",
-    "date": "2025-02-03T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "TX2"
     ],
     "link": "https://link.dice.fm/Rae737d561cf?dice_id=Rae737d561cf",
+    "sold_out": true,
     "date": "2025-02-05T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
@@ -139,6 +132,22 @@
   },
   {
     "artist": [
+      "Emo Flea Market + Emo Brunch"
+    ],
+    "link": "https://link.dice.fm/K5278e4e4cef?dice_id=K5278e4e4cef",
+    "date": "2025-02-22T12:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Emo Night CLE 10 year bday party night 2 w/ Derek Sanders of Mayday Parade"
+    ],
+    "link": "https://link.dice.fm/f766d1331138?dice_id=f766d1331138",
+    "date": "2025-02-22T20:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Make Them Suffer"
     ],
     "link": "https://link.dice.fm/Df69aa425355?dice_id=Df69aa425355",
@@ -167,6 +176,14 @@
     ],
     "link": "https://link.dice.fm/t21ee8666c6a?dice_id=t21ee8666c6a",
     "date": "2025-02-28T20:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Hosta \"falling out\" EP release show"
+    ],
+    "link": "https://link.dice.fm/Lb44f9c12c0b?dice_id=Lb44f9c12c0b",
+    "date": "2025-03-05T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -235,6 +252,14 @@
   },
   {
     "artist": [
+      "Kestrels"
+    ],
+    "link": "https://link.dice.fm/b2951b8d6994?dice_id=b2951b8d6994",
+    "date": "2025-03-13T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Altons and Thee Sinseers: Club Heartache Tour"
     ],
     "link": "https://link.dice.fm/M167ee4ad5a5?dice_id=M167ee4ad5a5",
@@ -264,6 +289,14 @@
     "link": "https://link.dice.fm/Adc611c36318?dice_id=Adc611c36318",
     "date": "2025-03-21T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mayhem: a Lady Gaga dance party"
+    ],
+    "link": "https://link.dice.fm/O4997c4a0e68?dice_id=O4997c4a0e68",
+    "date": "2025-03-22T22:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

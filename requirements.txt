@@ -3,7 +3,7 @@ beautifulsoup4==4.12.2
 certifi==2024.7.4
 charset-normalizer==3.2.0
 exceptiongroup==1.1.2
-h11==0.14.0
+h11==0.16.0
 idna==3.7
 numpy==1.25.2
 outcome==1.2.0

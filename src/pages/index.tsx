@@ -2,9 +2,7 @@ import { useEffect, useState } from 'react'
 import { GetStaticProps } from 'next'
 import { ShowProps } from '~/utils/types'
 
-import generateRssFeed from '~/utils/generate-feed'
-
-import { allShows } from '~/data/allShows'
+import { getVenueFiles, getVenueData } from '~/utils/get-venues'
 
 import { SiteMeta } from '~/components/meta'
 import { VenueFilter } from '~/components/venue-filter'
@@ -24,7 +22,14 @@ type PageProps = {
 }
 
 export const getStaticProps: GetStaticProps<PageProps> = async () => {
-  generateRssFeed()
+  // Get all venue JSON files
+  const venueFiles = getVenueFiles()
+
+  // Load and combine all venue data
+  const allShows = venueFiles.reduce<ShowProps[]>((acc, venueFile) => {
+    const venueData = getVenueData(venueFile)
+    return [...acc, ...venueData]
+  }, [])
 
   return {
     props: {

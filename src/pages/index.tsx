@@ -5,6 +5,7 @@ import { ShowProps } from '~/utils/types'
 import generateRssFeed from '~/utils/generate-feed'
 
 import { getVenueFiles, getVenueData } from '~/utils/get-venues'
+import venueMetadata from '~/data/venue-metadata.json'
 
 import { SiteMeta } from '~/components/meta'
 import { VenueFilter } from '~/components/venue-filter'
@@ -70,8 +71,29 @@ export default function Page({ shows }: PageProps) {
     new Set(shows.map((show) => venueMapping[show.venue] || show.venue)),
   )
 
-  // Initialize state for selected venues
-  const [selectedVenues, setSelectedVenues] = useState<string[]>(allVenues)
+  // Helper function to check if a venue should be initially selected
+  const shouldInitiallySelectVenue = (venueName: string): boolean => {
+    // Check if the venue is tagged with youngstown or akron
+    for (const [venue, tags] of Object.entries(venueMetadata)) {
+      if (
+        venue === venueName &&
+        tags &&
+        Array.isArray(tags) &&
+        tags.length > 0
+      ) {
+        const tag = tags[0]
+        if (tag === 'youngstown' || tag === 'akron') {
+          return false // Don't select venues from these areas by default
+        }
+      }
+    }
+    return true // Select all other venues by default
+  }
+
+  // Initialize state for selected venues (excluding youngstown and akron)
+  const [selectedVenues, setSelectedVenues] = useState<string[]>(
+    allVenues.filter((venue) => shouldInitiallySelectVenue(venue)),
+  )
 
   const handleVenueToggle = (venue: string) => {
     const mappedVenue = venueMapping[venue] || venue

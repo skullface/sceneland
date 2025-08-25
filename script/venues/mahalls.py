@@ -20,20 +20,26 @@ data = response.json()
 
 all_shows_list = []
 
-for show in data['sections'][0]['events']:
-  all_shows_data = {} 
-  all_shows_data['artist'] = [show['name'].replace(" at Mahall's", '').replace(' at Mahalls', '')]
-  all_shows_data['link'] = show['social_links']['event_share']
-  if show['status'] == 'sold-out':
-    all_shows_data['sold_out'] = True
-  all_shows_data['date'] = show['dates']['event_start_date']
-  if show['venues'][0]['name'] == "Mahall's Apartment":
-    all_shows_data['venue'] = 'Mahall’s Apartment'
-  elif show['venues'][0]['name'] == "The Roxy at Mahall's":
-    all_shows_data['venue'] = 'The Roxy at Mahall’s'
-  else:
-      all_shows_data['venue'] = 'Mahall’s'
-  all_shows_list.append(all_shows_data)
+# Find the "Upcoming events" section
+for section in data.get('sections', []):
+    if section.get('title') == 'Upcoming events':
+        for item in section.get('items', []):
+            if item.get('type') == 'event':
+                event = item.get('event', {})
+                all_shows_data = {} 
+                all_shows_data['artist'] = [event.get('name', '').replace(" at Mahall's", '').replace(' at Mahalls', '')]
+                all_shows_data['link'] = f"https://dice.fm/event/{event.get('id', '')}"
+                if event.get('status') == 'sold-out':
+                    all_shows_data['sold_out'] = True
+                all_shows_data['date'] = event.get('dates', {}).get('event_start_date', '')
+                if event.get('venues', [{}])[0].get('name') == "Mahall's Apartment":
+                    all_shows_data['venue'] = 'Mahall\'s Apartment'
+                elif event.get('venues', [{}])[0].get('name') == "The Roxy at Mahall's":
+                    all_shows_data['venue'] = 'The Roxy at Mahall\'s'
+                else:
+                    all_shows_data['venue'] = 'Mahall\'s'
+                all_shows_list.append(all_shows_data)
+        break
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 
 print(all_shows_json)

@@ -9,6 +9,7 @@ import venueMetadata from '~/data/venue-metadata.json'
 
 import { SiteMeta } from '~/components/meta'
 import { VenueFilter } from '~/components/venue-filter'
+import { VenueSidebar } from '~/components/venue-sidebar'
 import { ShowCard } from '~/components/show-card'
 
 type ShowsByWeekProps = {
@@ -217,7 +218,7 @@ export default function Page({ shows }: PageProps) {
 
         return (
           <section key={weekStartDate.toISOString()} className='show-grouping'>
-            <h2>
+            <h2 className='md:sticky md:top-16'>
               {groupPrefix && (
                 <span className='text-sm font-medium uppercase md:text-lg'>
                   {groupPrefix}&nbsp;
@@ -262,12 +263,13 @@ export default function Page({ shows }: PageProps) {
               : 'mt-0.5 opacity-100 md:mt-1'
           }`}
         >
-          <h1>Upcoming shows in Cleveland</h1>
+          <h1>Upcoming shows in Cleveland, OH</h1>
         </div>
       </header>
 
+      {/* Mobile: Dropdown filter */}
       <div
-        className={`dropdown-container ${
+        className={`dropdown-container block md:hidden ${
           animateOnScroll
             ? 'translate-y-0'
             : 'translate-y-[1.25em] md:translate-y-[2em]'
@@ -283,7 +285,20 @@ export default function Page({ shows }: PageProps) {
         />
       </div>
 
-      <main className='main'>{renderGroupedShows()}</main>
+      {/* Desktop: Sidebar layout */}
+      <div className='hidden md:flex'>
+        <VenueSidebar
+          venues={allVenues}
+          selectedVenues={selectedVenues}
+          onVenueToggle={handleVenueToggle}
+          onSelectAll={handleSelectAll}
+          onDeselectAll={handleDeselectAll}
+        />
+        <main className='ml-6 flex-1'>{renderGroupedShows()}</main>
+      </div>
+
+      {/* Mobile: Main content */}
+      <main className='main md:hidden'>{renderGroupedShows()}</main>
 
       <footer>
         <p>

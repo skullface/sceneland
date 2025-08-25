@@ -1,308 +1,607 @@
 [
   {
     "artist": [
-      "Make Em Laugh Mondays Hosted By Kevin Ford"
+      "School of Rock: Grad Program"
     ],
-    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford/",
-    "date": "2025-02-03",
+    "link": "https://grogshop.gs/tm-event/school-of-rock-grad-program/",
+    "date": "2025-08-24",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Tim Heidecker: Slipping Away Tour",
-      "Neil Hamburger"
+      "Eclectic Soul B-Day Celebration for Esther Fitz with",
+      "Ruby Rose Weston",
+      "Jeffrey Cruz"
     ],
-    "link": "https://grogshop.gs/tm-event/tim-heidecker-slipping-away-tour/",
-    "date": "2025-02-05",
+    "link": "https://grogshop.gs/tm-event/eclectic-soul-b-day-celebration-for-esther-fitz-with-ruby-rose-weston-jeffrey-cruz/",
+    "date": "2025-08-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-3/",
+    "date": "2025-08-25",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Tetchy",
+      "Cool Party",
+      "Thrapple"
+    ],
+    "link": "https://grogshop.gs/tm-event/tetchy/",
+    "date": "2025-08-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Rebirth Brass Band",
+      "Quenton Rubin & QRB"
+    ],
+    "link": "https://grogshop.gs/tm-event/rebirth-brass-band/",
+    "date": "2025-08-27",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Vindicator",
+      "Graveripper",
+      "Pagan Impaler",
+      "Iron Bitch"
+    ],
+    "link": "https://grogshop.gs/tm-event/vindicator-graveripper-pagan-impaler-iron-bitch/",
+    "date": "2025-08-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "OFF-LEASH",
+      "Dimwit",
+      "Nosedive",
+      "Cat Stanley"
+    ],
+    "link": "https://grogshop.gs/tm-event/off-leash-dimwit-nosedive-cat-stanley/",
+    "date": "2025-08-29",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Lemur Fest 2025 ft. Nicx & Damnagedkids",
+      "Curly Chuck",
+      "QDAJUICE",
+      "Shawn Poe",
+      "E.side4 & Pico The Guy Though",
+      "Nick Samps",
+      "High Tolerance",
+      "Big Duka",
+      "otwjay3x",
+      "Rude Rebel"
+    ],
+    "link": "https://grogshop.gs/tm-event/lemur-fest-2025-ft-nicx-damagedkids/",
+    "date": "2025-08-30",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Boy Jr.",
+      "KOPPS",
+      "HummusVacuum",
+      "Jetstar"
+    ],
+    "link": "https://grogshop.gs/tm-event/boy-jr-kopps/",
+    "date": "2025-08-31",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Modern Kollective",
+      "Lady In Candescent",
+      "Something for Saturday"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-modern-kollective-lady-in-candescent-just-water/",
+    "date": "2025-09-03",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Audible Jones",
+      "Jack Mclaughlin",
+      "TBA",
+      "Jack McLaughlin"
+    ],
+    "link": "https://grogshop.gs/tm-event/audible-jones-jack-mclaughlin-tba/",
+    "date": "2025-09-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: Oddly Vaudely",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/tm-event/glamgore-4/",
+    "date": "2025-09-05",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Unwound: 30 Years of  'The Future Of What\u2019",
+      "Harriet The Spy",
+      "Deep Essence"
+    ],
+    "link": "https://grogshop.gs/tm-event/unwound-30-years-of-the-future-of-what/",
+    "date": "2025-09-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "La Dispute",
+      "Glitterer",
+      "Tummyache"
+    ],
+    "link": "https://grogshop.gs/tm-event/la-dispute/",
+    "date": "2025-09-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-4/",
+    "date": "2025-09-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Midnight Rental Secret Movie Night"
+    ],
+    "link": "https://grogshop.gs/tm-event/midnight-rental-secret-movie-night/",
+    "date": "2025-09-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Momma: Welcome To My Blue Sky Tour",
+      "villagerrr"
+    ],
+    "link": "https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/",
+    "date": "2025-09-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Fu Manchu",
+      "Year of the Cobra"
+    ],
+    "link": "https://grogshop.gs/tm-event/fu-manchu/",
+    "date": "2025-09-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "LoConti",
+      "Public Water Supply"
+    ],
+    "link": "https://grogshop.gs/tm-event/loconti-public-water-supply/",
+    "date": "2025-09-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Hunx and His Punx",
+      "Tchotchke",
+      "Xanny Stars"
+    ],
+    "link": "https://grogshop.gs/tm-event/hunx-and-his-punx/",
+    "date": "2025-09-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Baths",
+      "Marottes",
+      "Angelgirl EVA"
+    ],
+    "link": "https://grogshop.gs/tm-event/baths/",
+    "date": "2025-09-14",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Brian Jonestown Massacre"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
+    "date": "2025-09-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Saving Abel",
+      "Dead Sugar",
+      "Lilieae",
+      "The Daze"
+    ],
+    "link": "https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/",
+    "date": "2025-09-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Superchunk",
+      "Tee Vee Repairmann"
+    ],
+    "link": "https://grogshop.gs/tm-event/superchunk/",
+    "date": "2025-09-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Cro-Mags",
+      "Pig Rides",
+      "Self Interest"
+    ],
+    "link": "https://grogshop.gs/tm-event/cro-mags-pig-rides-self-interest/",
+    "date": "2025-09-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "mehro",
+      "Evie Irie"
+    ],
+    "link": "https://grogshop.gs/tm-event/mehro/",
+    "date": "2025-09-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Quintron and Miss Pussycat",
+      "Brood X",
+      "Drunks with Guns",
+      "DJ Aaron Dilloway",
+      "Drunks With Guns"
+    ],
+    "link": "https://grogshop.gs/tm-event/quintron-and-miss-pussycat-broodx-drunks-with-guns-dj-aaron-dilloway/",
+    "date": "2025-09-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Kid Congo & The Pink Monkey Birds",
+      "Human Eye",
+      "OONGOW!!!"
+    ],
+    "link": "https://grogshop.gs/tm-event/kid-congo-powers-the-pink-monkey-birds/",
+    "date": "2025-09-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-12/",
+    "date": "2025-09-22",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Hot Milk: Loud And Fast In The USA",
+      "Save Face",
+      "Elbow Room"
+    ],
+    "link": "https://grogshop.gs/tm-event/hot-milk-loud-and-fast-in-the-usa/",
+    "date": "2025-09-23",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Asssscat!"
+    ],
+    "link": "https://grogshop.gs/tm-event/asssscat/",
+    "date": "2025-09-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Mustard Plug",
+      "The Planet Smashers",
+      "The Kilograms",
+      "The Write-Ups"
+    ],
+    "link": "https://grogshop.gs/tm-event/mustard-plug-the-planet-smashers-the-kilograms-the-write-ups/",
+    "date": "2025-09-25",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Dry Cleaning",
+      "Infinity Knives + Brian Ennals"
+    ],
+    "link": "https://grogshop.gs/tm-event/dry-cleaning-infinity-knives-brian-ennals/",
+    "date": "2025-09-25",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Boldy James",
+      "Peter Blvnco",
+      "NNS"
+    ],
+    "link": "https://grogshop.gs/tm-event/boldy-james-peter-blvnco-nns/",
+    "date": "2025-09-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Godspeed You! Black Emperor"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "empire! empire! (i was a lonely estate) Reunion",
+      "Emperor X",
+      "Runaway Brother",
+      "Wig Doubt"
+    ],
+    "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Give Me a Tour! Starring Maris and Caroline Kingsbury",
+      "Maris"
+    ],
+    "link": "https://grogshop.gs/tm-event/give-me-a-tour-starring-maris-and-caroline-kingsbury/",
+    "date": "2025-09-30",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Brent Cobb: THE AIN\u2019T ROCKED IN A WHILE TOUR",
+      "Gold Star"
+    ],
+    "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
+    "date": "2025-10-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Shonen Knife: Everyone Happy U.S. Tour 2025",
+      "The Pack A.D."
+    ],
+    "link": "https://grogshop.gs/tm-event/shonen-knife-everyone-happy-u-s-tour-2025/",
+    "date": "2025-10-02",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GlamGore: Haunted Horrors",
+      "Anhedonia Delight"
+    ],
+    "link": "https://grogshop.gs/tm-event/glamgore-5/",
+    "date": "2025-10-03",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Frankie And The Witch Fingers",
+      "Population II"
+    ],
+    "link": "https://grogshop.gs/tm-event/frankie-and-the-witch-fingers/",
+    "date": "2025-10-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "WILLIS",
+      "almost a.m.",
+      "Rent For Cheryl"
+    ],
+    "link": "https://grogshop.gs/tm-event/willis-almost-a-m/",
+    "date": "2025-10-05",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Make Em Laugh Mondays Hosted By Kevin Ford"
+    ],
+    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-5/",
+    "date": "2025-10-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Destroyer: Dan\u2019s Boogie Tour",
+      "Jennifer Castle"
+    ],
+    "link": "https://grogshop.gs/tm-event/destroyer-dans-boogie-tour/",
+    "date": "2025-10-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Heavy//Hitter",
+      "Half Me",
+      "Demsfightinwords"
+    ],
+    "link": "https://grogshop.gs/tm-event/heavy-hitter-half-me-demsfightinwords/",
+    "date": "2025-10-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Sword",
+      "Rickshaw Billie's Burger Patrol",
+      "Pink Fuzz"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-sword-rickshaw-billies-burger-patrol-pink-fuzz/",
+    "date": "2025-10-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Desire",
+      "Johnny Jewel"
+    ],
+    "link": "https://grogshop.gs/tm-event/desire-johnny-jewel/",
+    "date": "2025-10-09",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Signals Midwest",
+      "84 Tigers",
+      "Five Hundred Bucks",
+      "Model Martel"
+    ],
+    "link": "https://grogshop.gs/tm-event/signals-midwest-84-tigers-five-hundred-bucks-model-martel/",
+    "date": "2025-10-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Yin Yin"
+    ],
+    "link": "https://grogshop.gs/tm-event/yin-yin/",
+    "date": "2025-10-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Skuff Micksun & TobyRaps Sell Out The Grog Shop wsg Two Mile Moon",
+      "Two Mile Moon"
+    ],
+    "link": "https://grogshop.gs/tm-event/skuff-micksun-tobyraps-sell-out-the-grog-shop-wsg-two-mile-moon/",
+    "date": "2025-10-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Frog",
+      "Sure",
+      "Machine"
+    ],
+    "link": "https://grogshop.gs/tm-event/frog-sure-machine/",
+    "date": "2025-10-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Shaki Tavi with Kid Tigrrr and Honeybee",
+      "Kid Tigrrr",
+      "Honeybee"
+    ],
+    "link": "https://grogshop.gs/tm-event/shaki-tavi-with-kid-tigrrr/",
+    "date": "2025-10-21",
     "venue": "Grog Shop"
   },
   {
     "artist": [
       "Midnight Rental presents Secret Movie Night"
     ],
-    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-5/",
-    "date": "2025-02-05",
+    "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night/",
+    "date": "2025-10-22",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Wig Doubt",
-      "Honeybee",
-      "funeral commercial"
+      "Carlos Jones & the P.L.U.S. Band",
+      "The Stix Quartet"
     ],
-    "link": "https://grogshop.gs/tm-event/wig-doubt-honeybee/",
-    "date": "2025-02-06",
+    "link": "https://grogshop.gs/tm-event/carlos-jones-the-p-l-u-s-band/",
+    "date": "2025-10-24",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "GlamGore: xX Cupid's Rejects Xx",
-      "Anhedonia Delight"
+      "GORILLA BISCUITS",
+      "RINGWORM",
+      "SLUG",
+      "LAST GASP",
+      "Ringworm",
+      "Last Gasp"
     ],
-    "link": "https://grogshop.gs/tm-event/glamgore-2/",
-    "date": "2025-02-07",
+    "link": "https://grogshop.gs/tm-event/gorilla-biscuits-ringworm-slug-last-gasp/",
+    "date": "2025-10-25",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Lunar Vacation",
-      "Tasha",
-      "tessas"
+      "(Not-so) Spooky Halloween Party with Jesse Jukebox!",
+      "DJ Terkey Sandwich"
     ],
-    "link": "https://grogshop.gs/tm-event/lunar-vacation/",
-    "date": "2025-02-08",
+    "link": "https://grogshop.gs/tm-event/not-so-spooky-halloween-party-with-jesse-jukebox/",
+    "date": "2025-10-26",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Pop Out Concert with Trappy",
-      "Catherine dannille",
-      "Tizzy mak",
-      "Loko the d3mon",
-      "F.A.C.T.S",
-      "Payso"
+      "The Perched Nerds Band",
+      "Factual Brains",
+      "Sweepyheads"
     ],
-    "link": "https://grogshop.gs/tm-event/pop-out-concert-with-trappy/",
-    "date": "2025-02-09",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Willow Avalon",
-      "Zandi Holup",
-      "Darryl Rahn"
-    ],
-    "link": "https://grogshop.gs/tm-event/willow-avalon/",
-    "date": "2025-02-12",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Jarv: Rap 101 Tour",
-      "King Green",
-      "Damn Skippy"
-    ],
-    "link": "https://grogshop.gs/tm-event/jarv-rap-101-tour/",
-    "date": "2025-02-13",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Valentines Day In The Heights",
-      "ItsLiL"
-    ],
-    "link": "https://grogshop.gs/tm-event/valentines-day-in-the-heights/",
-    "date": "2025-02-14",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Faith & Whiskey"
-    ],
-    "link": "https://grogshop.gs/tm-event/faith-whiskey/",
-    "date": "2025-02-15",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Cabin Fever Family Friendly Fundraiser"
-    ],
-    "link": "https://grogshop.gs/tm-event/cabin-fever-family-friendly-fundraiser/",
-    "date": "2025-02-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Skinny Lister",
-      "Jared Hart",
-      "Sick City"
-    ],
-    "link": "https://grogshop.gs/tm-event/skinny-lister/",
-    "date": "2025-02-16",
+    "link": "https://grogshop.gs/tm-event/the-perched-nerds-band-factual-brains-sweepyheads/",
+    "date": "2025-10-26",
     "venue": "Grog Shop"
   },
   {
     "artist": [
       "Make Em Laugh Mondays Hosted By Kevin Ford"
     ],
-    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-2/",
-    "date": "2025-02-17",
+    "link": "https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-6/",
+    "date": "2025-10-27",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Black & Blue",
-      "Planet Ben",
-      "Whippet",
-      "The Lothians"
+      "HOBO JOHNSON AND THE LOVEMAKERS",
+      "Budman."
     ],
-    "link": "https://grogshop.gs/tm-event/black-blue-planet-ben-whippet-glenfinan/",
-    "date": "2025-02-19",
+    "link": "https://grogshop.gs/tm-event/hobo-johnson-and-the-lovemakers/",
+    "date": "2025-10-28",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "The Get Up Kids: 25 Years of Something To Write Home About",
-      "The Anniversary"
+      "GBH",
+      "Slaughterhouse",
+      "The Mainliners"
     ],
-    "link": "https://grogshop.gs/tm-event/the-get-up-kids-25-years-of-something-to-write-home-about/",
-    "date": "2025-02-19",
+    "link": "https://grogshop.gs/tm-event/gbh-slaughterhouse-the-mainliners/",
+    "date": "2025-11-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Rust County Revival",
-      "Mudhouse Gang",
-      "Rachel Shortt"
+      "Hot Water Music",
+      "BANE"
     ],
-    "link": "https://grogshop.gs/tm-event/rust-county-revival-mudhouse-gang-rachel-shortt/",
-    "date": "2025-02-20",
+    "link": "https://grogshop.gs/tm-event/hot-water-music-bane/",
+    "date": "2025-11-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Suitor",
-      "FUSS",
-      "Posture",
-      "Regas-McDonald"
-    ],
-    "link": "https://grogshop.gs/tm-event/suitor-posture-regas-mcdonald/",
-    "date": "2025-02-21",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Maiden Voyage",
-      "Rip Ryde"
-    ],
-    "link": "https://grogshop.gs/tm-event/maiden-voyage-rip-ryde/",
-    "date": "2025-02-22",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Love Show : The Real Polaris",
-      "Nick Samps"
-    ],
-    "link": "https://grogshop.gs/tm-event/love-show-the-real-polaris/",
-    "date": "2025-02-23",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "ACO: A Tribute to Rob Williams"
-    ],
-    "link": "https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/",
-    "date": "2025-02-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "death's dynamic shroud",
-      "Powers",
-      "Rolin Duo",
-      "Moth Cock"
-    ],
-    "link": "https://grogshop.gs/tm-event/deaths-dynamic-shroud-powers-rolin-duo-moth-cock/",
-    "date": "2025-02-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Joe Samba",
-      "Dale and the Z Dubs",
-      "ZuP"
-    ],
-    "link": "https://grogshop.gs/tm-event/joe-samba/",
-    "date": "2025-02-27",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Rustbelt Ripperfest III: Day Two"
-    ],
-    "link": "https://grogshop.gs/tm-event/rustbelt-ripperfest-iii/",
-    "date": "2025-02-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "::TWO-DAY PASS:: LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!"
-    ],
-    "link": "https://grogshop.gs/tm-event/two-day-pass-live-on-stage-jonathan-richman-featuring-tommy-larkins-on-the-drums/",
-    "date": "2025-02-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!"
-    ],
-    "link": "https://grogshop.gs/tm-event/live-on-stage-jonathan-richman-featuring-tommy-larkins-on-the-drums/",
-    "date": "2025-02-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "RIPPERFEST FLEA MARKET!"
-    ],
-    "link": "https://grogshop.gs/tm-event/ripper-flea-market/",
-    "date": "2025-03-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Rustbelt Ripperfest III: Day Three"
-    ],
-    "link": "https://grogshop.gs/tm-event/rustbelt-ripperfest-iii-2/",
-    "date": "2025-03-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!"
-    ],
-    "link": "https://grogshop.gs/tm-event/live-on-stage-jonathan-richman-featuring-tommy-larkins-on-the-drums-2/",
-    "date": "2025-03-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Ted Leo and the Pharmacists: Shake The Sheets 20th Anniversary",
-      "Shonali"
-    ],
-    "link": "https://grogshop.gs/tm-event/ted-leo-and-the-pharmacists-shake-the-sheets-20th-anniversary/",
-    "date": "2025-03-02",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: American Horror Story",
+      "GlamGore: The Tarantino & Burton Ball",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/tm-event/glamgore-american-horror-story/",
-    "date": "2025-03-07",
+    "link": "https://grogshop.gs/tm-event/glamgore-3/",
+    "date": "2025-11-07",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "James Begin and Friends",
-      "Rubix Groove",
-      "Jinari Kemet",
-      "AllTheHipe",
-      "Astral Housefly",
-      "Ciix"
+      "Weakened Friends",
+      "Rodeo Boys",
+      "Cool Party"
     ],
-    "link": "https://grogshop.gs/tm-event/james-begin-and-friends/",
-    "date": "2025-03-08",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Catch 22",
-      "Rude Staff Checkers"
-    ],
-    "link": "https://grogshop.gs/tm-event/catch-22-with-special-guests/",
-    "date": "2025-03-09",
+    "link": "https://grogshop.gs/tm-event/weakened-friends-feels-like-hell-tour/",
+    "date": "2025-11-08",
     "venue": "Grog Shop"
   },
   {
@@ -310,362 +609,101 @@
       "Midnight Rental presents Secret Movie Night"
     ],
     "link": "https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-6/",
-    "date": "2025-03-12",
+    "date": "2025-11-12",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Grandvie",
-      "Hanging Johnny",
-      "Ryan Hetrick & The Electric"
+      "Universe of Battle Tour: Nick Shoulders",
+      "Clover-Lynn"
     ],
-    "link": "https://grogshop.gs/tm-event/grandview-hanging-johnny-ryan-hetrick-the-electric/",
-    "date": "2025-03-13",
+    "link": "https://grogshop.gs/tm-event/universe-of-battle-tour-nick-shoulders/",
+    "date": "2025-11-20",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Aaron Smith & RDAA",
-      "Smokeface"
+      "WINE LIPS",
+      "Mr. Phylzzz",
+      "The Rosies"
     ],
-    "link": "https://grogshop.gs/tm-event/aaron-smith-rdaa-smokeface/",
-    "date": "2025-03-14",
+    "link": "https://grogshop.gs/tm-event/wine-lips-mr-phylzzz-the-rosies/",
+    "date": "2025-11-22",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Sk8rt Art Show & Benefit Concert for Rainbow Babies & Children's Hospital",
-      "Muzzle",
-      "Mikey Machine",
-      "Pill Time",
-      "Pig Rides",
-      "Kill The Hippies",
-      "T.A.C.K.",
-      "The Kilroys"
+      "BAND OF SKULLS: COLD FAME TOUR",
+      "Tom Hamilton Jr."
     ],
-    "link": "https://grogshop.gs/tm-event/sk8rt-art-show-benefit-concert-for-rainbow-babies-childrens-hospital/",
-    "date": "2025-03-15",
+    "link": "https://grogshop.gs/tm-event/band-of-skulls-cold-fame-tour/",
+    "date": "2025-11-28",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Lesser Care",
-      "Dogs Run Free"
-    ],
-    "link": "https://grogshop.gs/tm-event/lesser-care/",
-    "date": "2025-03-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Ally The Piper: Spring Tour 2025",
-      "David Michael Frank"
-    ],
-    "link": "https://grogshop.gs/tm-event/ally-the-piper-spring-tour-2025/",
-    "date": "2025-03-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Skating Polly",
-      "Gully Boys",
-      "The Super Babes"
-    ],
-    "link": "https://grogshop.gs/tm-event/skating-polly-gully-boys/",
-    "date": "2025-03-20",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Slum Village",
-      "Vice Souletric",
-      "Will Cherry",
-      "and Eman Jones",
-      "Mynameisbravo",
-      "DJ Walk"
-    ],
-    "link": "https://grogshop.gs/tm-event/slum-village-w-vice-souletric-and-will-cherry/",
-    "date": "2025-03-21",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "An Evening With Yo La Tengo"
-    ],
-    "link": "https://grogshop.gs/tm-event/an-evening-with-yo-la-tengo/",
-    "date": "2025-03-24",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Sonido Gallo Negro"
-    ],
-    "link": "https://grogshop.gs/tm-event/sonido-gallo-negro/",
-    "date": "2025-03-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Reggie Watts Live"
-    ],
-    "link": "https://grogshop.gs/tm-event/reggie-watts-live/",
-    "date": "2025-04-04",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Dom Kennedy",
-      "Casey Veggies"
-    ],
-    "link": "https://grogshop.gs/tm-event/dom-kennedy-casey-veggies/",
-    "date": "2025-04-07",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Starset"
-    ],
-    "link": "https://grogshop.gs/tm-event/starset/",
-    "date": "2025-04-08",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Bright Eyes"
-    ],
-    "link": "https://grogshop.gs/tm-event/bright-eyes/",
-    "date": "2025-04-09",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: The Witch Ball",
+      "GlamGore: A Titillating Haus of Tits Takeover",
       "Anhedonia Delight"
     ],
-    "link": "https://grogshop.gs/tm-event/glamgore-the-witch-ball/",
-    "date": "2025-04-11",
+    "link": "https://grogshop.gs/tm-event/glamgore-6/",
+    "date": "2025-12-05",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Carlos Jones (+)"
+      "Conner O\u2019Malley: Comedic Humor Tour"
     ],
-    "link": "https://grogshop.gs/tm-event/carlos-jones/",
-    "date": "2025-04-12",
+    "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour/",
+    "date": "2025-12-12",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Koffin Kats",
-      "Flatfoot 56"
+      "Conner O\u2019Malley: Comedic Humor Tour"
     ],
-    "link": "https://grogshop.gs/tm-event/koffin-kats-flatfoot-56/",
-    "date": "2025-04-13",
+    "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour-3/",
+    "date": "2025-12-12",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Sawyer Hill"
+      "Conner O\u2019Malley: Comedic Humor Tour"
     ],
-    "link": "https://grogshop.gs/tm-event/sawyer-hill/",
-    "date": "2025-04-16",
+    "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour-2/",
+    "date": "2025-12-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Slackfest Cleveland: Night 1"
+      "Conner O\u2019Malley: Comedic Humor Tour"
     ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-1/",
-    "date": "2025-04-18",
+    "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour-4/",
+    "date": "2025-12-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Slackfest Cleveland: Two Night Pass",
-      "Tobyraps",
-      "The Operators"
+      "Ghost-Note"
     ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-two-night-pass/",
-    "date": "2025-04-18",
+    "link": "https://grogshop.gs/tm-event/ghost-note/",
+    "date": "2025-12-14",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Slackfest Cleveland: Night 2",
-      "The Abruptors",
-      "Thicarus"
+      "Shai Hulud",
+      "Holder"
     ],
-    "link": "https://grogshop.gs/tm-event/slackfest-cleveland-night-2/",
-    "date": "2025-04-19",
+    "link": "https://grogshop.gs/tm-event/shai-hulud-holder/",
+    "date": "2025-12-17",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "SOFIA ISELLA"
+      "Spiritual Cramp"
     ],
-    "link": "https://grogshop.gs/tm-event/sofia-isella/",
-    "date": "2025-04-23",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Ben Kweller: Cover The Mirrors Tour"
-    ],
-    "link": "https://grogshop.gs/tm-event/ben-kweller-cover-the-mirrors-tour/",
-    "date": "2025-04-24",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "THE BOUNCING SOULS EAST COAST! F#CK YOU! TOUR",
-      "H2O",
-      "Dave Hause & The Mermaid",
-      "School Drugs"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-bouncing-souls-east-coast-fck-you-tour/",
-    "date": "2025-04-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "OK Go"
-    ],
-    "link": "https://grogshop.gs/tm-event/ok-go/",
-    "date": "2025-04-27",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Bob Mould Band: Here We Go Crazy"
-    ],
-    "link": "https://grogshop.gs/tm-event/bob-mould-band-here-we-go-crazy/",
-    "date": "2025-04-29",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Michigan Rattlers"
-    ],
-    "link": "https://grogshop.gs/tm-event/michigan-rattlers/",
-    "date": "2025-04-30",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "STEPHEN STANLEY \u201cTRUSTFALL\u201d TOUR",
-      "Jake & Shelby"
-    ],
-    "link": "https://grogshop.gs/tm-event/stephen-stanley-trustfall-tour/",
-    "date": "2025-05-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Nada Surf: Moon Mirror Tour"
-    ],
-    "link": "https://grogshop.gs/tm-event/nada-surf-moon-mirror-tour/",
-    "date": "2025-05-02",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Youth Lagoon: Rarely Do I Dream Tour"
-    ],
-    "link": "https://grogshop.gs/tm-event/youth-lagoon-rarely-do-i-dream-tour/",
-    "date": "2025-05-03",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: Everybody Hates Anhedonia",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/tm-event/glamgore-everybody-hates-anhedonia/",
-    "date": "2025-05-09",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Napalm Death and Melvins: Savage Imperial Death March Part II",
-      "Titan To Tachyons",
-      "Dark Sky Burial"
-    ],
-    "link": "https://grogshop.gs/tm-event/napalm-death-and-melvins-savage-imperial-death-march-part-ii/",
-    "date": "2025-05-11",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "MICO"
-    ],
-    "link": "https://grogshop.gs/tm-event/mico/",
-    "date": "2025-05-13",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "A Place To Bury Strangers",
-      "The Serfs",
-      "The Mall"
-    ],
-    "link": "https://grogshop.gs/tm-event/a-place-to-bury-strangers/",
-    "date": "2025-05-18",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "MIKE",
-      "Navy Blue",
-      "12k Gotti"
-    ],
-    "link": "https://grogshop.gs/tm-event/mike/",
-    "date": "2025-05-27",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Wedding Present: Bizarro 35th Anniversary Tour",
-      "The Tubs"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-wedding-present-bizarro-35th-anniversary-tour/",
-    "date": "2025-05-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "GlamGore: 7th Annual Pride on the East Side",
-      "Anhedonia Delight"
-    ],
-    "link": "https://grogshop.gs/tm-event/glamgore-7th-annual-pride-on-the-east-side/",
-    "date": "2025-06-06",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Horse the Band: 20th Anniversary of The Mechanical Hand",
-      "Sweet//Spine",
-      "Melted Bodies"
-    ],
-    "link": "https://grogshop.gs/tm-event/horse-the-band-20th-anniversary-of-the-mechanical-hand/",
-    "date": "2025-06-14",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Murder By Death: Farewell Tour",
-      "Laura Jane Grace"
-    ],
-    "link": "https://grogshop.gs/tm-event/murder-by-death-farewell-tour/",
-    "date": "2025-07-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Murder By Death: Farewell Tour",
-      "Laura Jane Grace"
-    ],
-    "link": "https://grogshop.gs/tm-event/murder-by-death-farewell-tour-2/",
-    "date": "2025-07-02",
+    "link": "https://grogshop.gs/tm-event/spiritual-cramp/",
+    "date": "2026-03-07",
     "venue": "Grog Shop"
   }
 ]

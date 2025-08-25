@@ -1,96 +1,72 @@
 [
   {
-    "artist": [
-      "Gabriel Rutledge"
-    ],
+    "artist": ["Gabriel Rutledge"],
     "link": "https://www.playhousesquare.org/events/detail/gabriel-rutledge",
     "date": "2025-09-12T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Kurtis Conner: The Goodfellow World Tour"
-    ],
+    "artist": ["Kurtis Conner: The Goodfellow World Tour"],
     "link": "https://www.playhousesquare.org/events/detail/kurtis-conner-the-goodfellow-world-tour",
     "date": "2025-09-21T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Sheng Wang"
-    ],
+    "artist": ["Sheng Wang"],
     "link": "https://www.playhousesquare.org/events/detail/shen-wang",
     "date": "2025-09-26T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Jimmy Carr: Laughs Funny"
-    ],
+    "artist": ["Jimmy Carr: Laughs Funny"],
     "link": "https://www.playhousesquare.org/events/detail/jimmy-carr-laughs-funny",
     "date": "2025-10-11T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "John Crist: Jokes for Humans"
-    ],
+    "artist": ["John Crist: Jokes for Humans"],
     "link": "https://www.playhousesquare.org/events/detail/john-crist-jokes-for-humans",
     "date": "2025-10-18T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "John Mulaney: Mister Whatever"
-    ],
+    "artist": ["John Mulaney: Mister Whatever"],
     "link": "https://www.playhousesquare.org/events/detail/john-mulaney-mister-whatever",
     "date": "2025-10-24T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "HYPROV"
-    ],
+    "artist": ["HYPROV"],
     "link": "https://www.playhousesquare.org/events/detail/hyprov",
     "date": "2025-11-07T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Alex Edelman"
-    ],
+    "artist": ["Alex Edelman"],
     "link": "https://www.playhousesquare.org/events/detail/alex-edelman",
     "date": "2025-11-13T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "The Uncle Louie Variety Show"
-    ],
+    "artist": ["The Uncle Louie Variety Show"],
     "link": "https://www.playhousesquare.org/events/detail/the-uncle-louie-variety-show",
     "date": "2025-11-15T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "The American Misfits Comedy Tour"
-    ],
+    "artist": ["The American Misfits Comedy Tour"],
     "link": "https://www.playhousesquare.org/events/detail/the-american-misfits-comedy-tour",
     "date": "2025-12-19T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Trevor Wallace: The Alpha Beta Male"
-    ],
+    "artist": ["Trevor Wallace: The Alpha Beta Male"],
     "link": "https://www.playhousesquare.org/events/detail/trevor-wallace-the-alpha-beta-male",
     "date": "2026-01-10T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Shining Star CLE 2025"
-    ],
+    "artist": ["Shining Star CLE 2025"],
     "link": "https://www.playhousesquare.org/events/detail/shining-star-cle-2025",
     "date": "2025-09-07T00:00:01",
     "venue": "Playhouse Square"
@@ -104,137 +80,103 @@
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "The Lightfoot Band"
-    ],
+    "artist": ["The Lightfoot Band"],
     "link": "https://www.playhousesquare.org/events/detail/the-lightfoot-band",
     "date": "2025-10-02T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Haunted Objects Live!"
-    ],
+    "artist": ["Haunted Objects Live!"],
     "link": "https://www.playhousesquare.org/events/detail/haunted-objects-live",
     "date": "2025-10-08T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Cleveland Bollywood Show!"
-    ],
+    "artist": ["Cleveland Bollywood Show!"],
     "link": "https://www.playhousesquare.org/events/detail/cleveland-bollywood-show",
     "date": "2025-10-12T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Disney\u2019s Moana Live-To-Film Concert"
-    ],
+    "artist": ["Disney\u2019s Moana Live-To-Film Concert"],
     "link": "https://www.playhousesquare.org/events/detail/disneys-moana-live-to-film-concert",
     "date": "2025-10-16T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "An Evening with Fran Lebowitz"
-    ],
+    "artist": ["An Evening with Fran Lebowitz"],
     "link": "https://www.playhousesquare.org/events/detail/an-evening-with-fran-lebowitz-1",
     "date": "2025-10-21T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Frankie Valli & the Four Seasons: The Last Encores"
-    ],
+    "artist": ["Frankie Valli & the Four Seasons: The Last Encores"],
     "link": "https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons-the-last-encores",
     "date": "2025-11-02T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "PlayStation The Concert"
-    ],
+    "artist": ["PlayStation The Concert"],
     "link": "https://www.playhousesquare.org/events/detail/playstation-the-concert",
     "date": "2025-11-05T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Keb'Mo'"
-    ],
+    "artist": ["Keb'Mo'"],
     "link": "https://www.playhousesquare.org/events/detail/kebmo",
     "date": "2025-11-12T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Alex Edelman"
-    ],
+    "artist": ["Alex Edelman"],
     "link": "https://www.playhousesquare.org/events/detail/alex-edelman",
     "date": "2025-11-13T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Champions Of Magic"
-    ],
+    "artist": ["Champions Of Magic"],
     "link": "https://www.playhousesquare.org/events/detail/champions-of-magic-2",
     "date": "2025-11-14T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Black Violin: Full Circle Tour"
-    ],
+    "artist": ["Black Violin: Full Circle Tour"],
     "link": "https://www.playhousesquare.org/events/detail/black-violin-3",
     "date": "2025-11-15T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Twilight in Concert"
-    ],
+    "artist": ["Twilight in Concert"],
     "link": "https://www.playhousesquare.org/events/detail/twilight-in-concert",
     "date": "2025-11-29T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Jingle Bell Jamboree with the POPS"
-    ],
+    "artist": ["Jingle Bell Jamboree with the POPS"],
     "link": "https://www.playhousesquare.org/events/detail/jingle-bell-jamboree-with-the-pops",
     "date": "2025-11-30T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Rain"
-    ],
+    "artist": ["Rain"],
     "link": "https://www.playhousesquare.org/events/detail/rain",
     "date": "2025-12-04T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "The Jinkx & DeLa Holiday Show"
-    ],
+    "artist": ["The Jinkx & DeLa Holiday Show"],
     "link": "https://www.playhousesquare.org/events/detail/jinkx-dela-holiday-show",
     "date": "2025-12-05T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Straight No Chaser - Holiday Road Tour"
-    ],
+    "artist": ["Straight No Chaser - Holiday Road Tour"],
     "link": "https://www.playhousesquare.org/events/detail/straight-no-chaser-holiday-road-tour",
     "date": "2025-12-18T00:00:01",
     "venue": "Playhouse Square"
   },
   {
-    "artist": [
-      "Lords of The Sound"
-    ],
+    "artist": ["Lords of The Sound"],
     "link": "https://www.playhousesquare.org/events/detail/the-music-of-hans-zimmer-performed-by-lords-of-the-sound",
     "date": "2026-03-14T00:00:01",
     "venue": "Playhouse Square"

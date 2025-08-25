@@ -47,11 +47,6 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
             </time>
             <p className='order-1 flex flex-row items-center gap-x-2'>
               {show.venue}
-              <img
-                src={`/images/venues/${show.venue.toLowerCase().replace(/[^a-z0-9]+/g, '-')}.png`}
-                alt=''
-                className='h-4 w-4 rounded-full border border-zinc-400 dark:border-zinc-600'
-              />
             </p>
           </div>
         </a>

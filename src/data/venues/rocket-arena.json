@@ -1,21 +1,30 @@
 [
   {
-    "artist": ["Benson Boone: American Heart World Tour", "Elliot James Reay"],
+    "artist": [
+      "Benson Boone: American Heart World Tour",
+      "Elliot James Reay"
+    ],
     "link": "https://www.rocketarena.com/events/detail/benson-boone-250826",
     "date": "2025-08-26T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
-    "artist": ["Tate McRae: Miss Possessive Tour", "Zara Larsson"],
+    "artist": [
+      "Tate McRae: Miss Possessive Tour",
+      "Zara Larsson"
+    ],
     "link": "https://www.rocketarena.com/events/detail/tate-mcrae-250829",
     "date": "2025-08-29T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
-    "artist": ["Nine Inch Nails: Peel It Back Tour 2025", "Boys Noize"],
+    "artist": [
+      "Nine Inch Nails: Peel It Back Tour 2025",
+      "Boys Noize"
+    ],
     "link": "https://www.rocketarena.com/events/detail/nine-inch-nails-250831",
     "date": "2025-08-31T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -24,13 +33,16 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/deftones-250910",
     "date": "2025-09-10T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
-    "artist": ["Eric Clapton", "The Wallflowers"],
+    "artist": [
+      "Eric Clapton",
+      "The Wallflowers"
+    ],
     "link": "https://www.rocketarena.com/events/detail/eric-clapton-250911",
     "date": "2025-09-11T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -39,13 +51,16 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/summer-jam-250912",
     "date": "2025-09-12T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
-    "artist": ["Sleep Token: Even In Arcadia", "Special Guests Thornhill"],
+    "artist": [
+      "Sleep Token: Even In Arcadia",
+      "Special Guests Thornhill"
+    ],
     "link": "https://www.rocketarena.com/events/detail/sleep-token-250927",
     "date": "2025-09-27T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -54,19 +69,25 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/thequeens-251005",
     "date": "2025-10-05T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
-    "artist": ["Ice Cube: Truth To Power", "Four Decades of Attitude"],
+    "artist": [
+      "Ice Cube: Truth To Power",
+      "Four Decades of Attitude"
+    ],
     "link": "https://www.rocketarena.com/events/detail/ice-cube-251008",
     "date": "2025-10-08T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
-    "artist": ["Eric Church: Free the Machine Tour", "Marcus King Band"],
+    "artist": [
+      "Eric Church: Free the Machine Tour",
+      "Marcus King Band"
+    ],
     "link": "https://www.rocketarena.com/events/detail/eric-church251011",
     "date": "2025-10-11T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -75,7 +96,7 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/adam-sandler-251015",
     "date": "2025-10-13T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -84,7 +105,7 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/bryan-adams-20251101",
     "date": "2025-11-01T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -93,7 +114,7 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/usa-canada251106",
     "date": "2025-11-06T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -102,13 +123,16 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/jonas-brothers-251111",
     "date": "2025-11-11T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
-    "artist": ["Maroon 5: LOVE IS LIKE Tour", "Claire Rosinkranz"],
+    "artist": [
+      "Maroon 5: LOVE IS LIKE Tour",
+      "Claire Rosinkranz"
+    ],
     "link": "https://www.rocketarena.com/events/detail/maroon-5-251124",
     "date": "2025-11-24T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   },
   {
     "artist": [
@@ -117,6 +141,6 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/hoops-showdown-251213",
     "date": "2025-12-13T00:00:01",
-    "venue": "Rocket Mortgage FieldHouse"
+    "venue": "Rocket Arena"
   }
 ]

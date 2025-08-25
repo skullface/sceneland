@@ -5,7 +5,7 @@ import json
 import time
 from datetime import datetime, timedelta
 
-url = 'https://www.rocketmortgagefieldhouse.com/events'
+url = 'https://www.rocketarena.com/events'
 options = FirefoxOptions()
 options.add_argument('--headless')
 browser = webdriver.Firefox(options=options)
@@ -55,7 +55,7 @@ for show in shows:
 
       all_shows_data['date'] = date.strftime('%Y-%m-%d') + 'T00:00:01'
 
-      all_shows_data['venue'] = 'Rocket Mortgage FieldHouse'
+      all_shows_data['venue'] = 'Rocket Arena'
       all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2)

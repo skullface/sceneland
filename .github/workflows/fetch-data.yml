@@ -32,8 +32,13 @@ jobs:
             venue_name=$(basename "$input_file" .py)
             output_file="${output_directory}/${venue_name}.json"
             
-            python "$input_file" > "$output_file"
-            echo "✅ ${venue_name}.json"
+            if python "$input_file" > "$output_file" 2>/dev/null; then
+              echo "✅ ${venue_name}.json"
+            else
+              echo "❌ ${venue_name}.json (error - skipping)"
+              # Remove the failed output file if it was created
+              rm -f "$output_file"
+            fi
           done
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4

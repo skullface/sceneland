@@ -36,6 +36,10 @@ for script in json_ld_scripts:
             if any(skip_term in name.lower() for skip_term in ['season ticket', 'priority list', 'wait list']):
                 continue
             
+            # Skip events with specific titles
+            if any(skip_title in name for skip_title in ['Dance Party', '18+', '21+', 'Electric Feels', 'R&B ONLY LIVE', '80s Vs. 90s']):
+                continue
+            
             # Extract show data
             all_shows_data = {}
             

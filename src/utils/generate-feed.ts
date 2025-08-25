@@ -1,7 +1,7 @@
 import fs from 'fs'
 import RSS from 'rss'
-import { allShows } from '~/data/allShows'
 import { ShowProps } from '~/utils/types'
+import { getVenueFiles, getVenueData } from './get-venues'
 
 export default async function generateRssFeed() {
   const site_url = 'https://216.show'
@@ -15,6 +15,13 @@ export default async function generateRssFeed() {
   }
 
   const feed = new RSS(feedOptions)
+
+  // Get all venue files and combine their data
+  const venueFiles = getVenueFiles()
+  const allShows = venueFiles.reduce<ShowProps[]>((acc, venueFile) => {
+    const venueData = getVenueData(venueFile)
+    return [...acc, ...venueData]
+  }, [])
 
   allShows.forEach((show: ShowProps) => {
     show.artist &&

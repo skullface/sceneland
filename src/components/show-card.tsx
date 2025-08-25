@@ -7,6 +7,14 @@ type ShowCardProps = {
 }
 
 export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
+  const formatArtistNames = (artist: string[] | undefined): string => {
+    if (!artist || !Array.isArray(artist)) {
+      return 'Unknown Artist'
+    }
+
+    return artist.join(', ')
+  }
+
   return (
     show.artist && (
       <li key={i}>
@@ -16,7 +24,7 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
         >
           <div className='flex flex-col gap-y-2'>
             <h3 className='order-2 text-lg font-medium text-zinc-800 dark:text-zinc-300'>
-              {show.artist.join(', ')}
+              {formatArtistNames(show.artist)}
             </h3>
             {show.sold_out && (
               <p className='order-3 mt-1 self-start whitespace-nowrap rounded-full border border-red-700 bg-red-600 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white transition [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] dark:border-red-900/75 dark:bg-red-950 dark:text-red-500 group-hover:dark:border-red-900'>

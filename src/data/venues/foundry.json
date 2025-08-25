@@ -1,86 +1,42 @@
 [
   {
-    "artist": ["Yoga with Caitlan Alyssa"],
-    "link": "https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-11/",
-    "date": "2025-08-25T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["NERD NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/nerd-night-6/",
-    "date": "2025-08-25T20:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Plush, Truss, MORNING IN MAY"],
+    "artist": [
+      "Plush, Truss, MORNING IN MAY"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/plush/",
     "date": "2025-08-26T19:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-22/",
-    "date": "2025-08-26T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-20/",
-    "date": "2025-08-27T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["ODDITIES BINGO"],
-    "link": "https://www.foundryconcertclub.com/tm-event/oddities-bingo/",
-    "date": "2025-08-28T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Oxjaw, Irewyrm, Blood Shift, DJ YELIAD"],
+    "artist": [
+      "Oxjaw, Irewyrm, Blood Shift, DJ YELIAD"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/oxjaw-irewyrm-blood-shift-dj-yeliad/",
     "date": "2025-08-29T19:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["Luicidal, Terminally Ill, The Hajj"],
+    "artist": [
+      "Luicidal, Terminally Ill, The Hajj"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/luicidal-terminally-ill-the-hajj/",
     "date": "2025-08-30T19:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["Yoga with Caitlan Alyssa"],
-    "link": "https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-13/",
-    "date": "2025-08-31T14:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["CLOSED FOR LABOR DAY"],
-    "link": "https://www.foundryconcertclub.com/tm-event/closed-for-labor-day/",
-    "date": "2025-09-01T00:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-23/",
-    "date": "2025-09-02T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-21/",
-    "date": "2025-09-03T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Movie Night"],
-    "link": "https://www.foundryconcertclub.com/tm-event/movie-night/",
-    "date": "2025-09-04T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Wavelength, Flying Free, Laid Low, Hosta, The Daze"],
+    "artist": [
+      "Wavelength, Flying Free, Laid Low, Hosta, The Daze"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/wavelength-flying-free-laid-low-hosta-the-daze/",
     "date": "2025-09-05T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Mall Goth Metal: A Nu Metal Dance Party"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/mall-goth-metal-a-nu-metal-dance-party/",
+    "date": "2025-09-06T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -92,18 +48,6 @@
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-24/",
-    "date": "2025-09-09T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-22/",
-    "date": "2025-09-10T19:30:00",
-    "venue": "Foundry"
-  },
-  {
     "artist": [
       "A Skylit Drive, Avarice, Terra Vista, Counting Gravestones, Turning Tydes"
     ],
@@ -112,19 +56,25 @@
     "venue": "Foundry"
   },
   {
-    "artist": ["Nocturnal"],
+    "artist": [
+      "Nocturnal"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
     "date": "2025-09-13T21:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["Snuffed On Sight, Lie In Wait, Curbed"],
+    "artist": [
+      "Snuffed On Sight, Lie In Wait, Curbed"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/snuffed-on-sight-lie-in-wait-curbed/",
     "date": "2025-09-16T18:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["Stoneburner"],
+    "artist": [
+      "Stoneburner"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/stoneburner/",
     "date": "2025-09-17T19:00:00",
     "venue": "Foundry"
@@ -138,37 +88,41 @@
     "venue": "Foundry"
   },
   {
-    "artist": ["Lagrimas"],
+    "artist": [
+      "Lagrimas"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/lagrimas/",
     "date": "2025-09-19T19:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["Wargasm, Dropout Kings, Tomorrows Ghosts"],
+    "artist": [
+      "Wargasm, Dropout Kings, Tomorrows Ghosts"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/wargasm/",
     "date": "2025-09-20T18:30:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-26/",
-    "date": "2025-09-23T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Stick To Your Guns, Big Ass Truck, Soulkeeper, 6Deep"],
+    "artist": [
+      "Stick To Your Guns, Big Ass Truck, Soulkeeper, 6Deep"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/stick-to-your-guns-big-ass-truck-soulkeeper-6deep/",
     "date": "2025-09-24T18:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["Modem, Clear Channel"],
+    "artist": [
+      "Modem, Clear Channel"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/modem-clear-channel/",
     "date": "2025-09-25T20:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["SHE1HIM2, Marottes, I, ELECTRONIC, 2 FORKS"],
+    "artist": [
+      "SHE1HIM2, Marottes, I, ELECTRONIC, 2 FORKS"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/she1him2-marottes-i-electronic-2-forks/",
     "date": "2025-09-27T19:00:00",
     "venue": "Foundry"
@@ -182,25 +136,17 @@
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-27/",
-    "date": "2025-09-30T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Mind's Eye, Hot Flash Heat Wave, Sad Park"],
+    "artist": [
+      "Mind's Eye, Hot Flash Heat Wave, Sad Park"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/",
     "date": "2025-10-01T19:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-25/",
-    "date": "2025-10-01T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Cultus Black"],
+    "artist": [
+      "Cultus Black"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/cultus-black/",
     "date": "2025-10-04T19:00:00",
     "venue": "Foundry"
@@ -214,27 +160,11 @@
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-28/",
-    "date": "2025-10-07T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-26/",
-    "date": "2025-10-08T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Silent Theory, Ovtlier, Major Moment"],
+    "artist": [
+      "Silent Theory, Ovtlier, Major Moment"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/silent-theory-ovtlier-major-moment/",
     "date": "2025-10-11T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-29/",
-    "date": "2025-10-14T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -246,99 +176,51 @@
     "venue": "Foundry"
   },
   {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-27/",
-    "date": "2025-10-15T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["HALLOWEEN FREAKSHOW 2025"],
+    "artist": [
+      "HALLOWEEN FREAKSHOW 2025"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/",
     "date": "2025-10-18T14:30:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-30/",
-    "date": "2025-10-21T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-28/",
-    "date": "2025-10-22T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Off With Their Heads, SMUG, Pippsy Pinwheel, NMA"],
+    "artist": [
+      "Off With Their Heads, SMUG, Pippsy Pinwheel, NMA"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/off-with-their-heads-smug-pippsy-pinwheel/",
     "date": "2025-10-24T19:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["Keratoma, Summore, Oxjaw, City Of The Dead"],
+    "artist": [
+      "Keratoma, Summore, Oxjaw, City Of The Dead"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/keratoma-summore-oxjaw-city-of-the-dead/",
     "date": "2025-10-25T19:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-31/",
-    "date": "2025-10-28T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-29/",
-    "date": "2025-10-29T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Rittz"],
+    "artist": [
+      "Rittz"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/rittz/",
     "date": "2025-11-01T18:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-32/",
-    "date": "2025-11-04T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-30/",
-    "date": "2025-11-05T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["Krisiun, Abysmal Dawn, Pyrexia, Gorgatron"],
+    "artist": [
+      "Krisiun, Abysmal Dawn, Pyrexia, Gorgatron"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/krisiun-abysmal-dawn-pyrexia-gorgatron/",
     "date": "2025-11-25T18:00:00",
     "venue": "Foundry"
   },
   {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-35/",
-    "date": "2025-11-25T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["TRIVIA NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/trivia-night-33/",
-    "date": "2025-11-26T19:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["HARDCORE AGAINST EPILEPSY"],
+    "artist": [
+      "HARDCORE AGAINST EPILEPSY"
+    ],
     "link": "https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/",
     "date": "2025-11-29T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": ["PERSONALITY CRISIS AKA CLE PUNK NIGHT"],
-    "link": "https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-36/",
-    "date": "2025-12-02T21:00:00",
     "venue": "Foundry"
   }
 ]

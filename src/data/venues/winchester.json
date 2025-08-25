@@ -1,362 +1,186 @@
 [
   {
-    "artist": ["BOOZY BRUNCH (AC/DC)"],
-    "link": "https://www.ticketweb.com/event/boozy-brunch-acdc-the-winchester-tickets/13914254",
-    "date": "2025-08-03T11:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["BOOZY BRUNCH (TAYLOR SWIFT)"],
-    "link": "https://www.ticketweb.com/event/boozy-brunch-taylor-swift-the-winchester-tickets/13961064",
-    "date": "2025-08-24T11:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Cleveland Clothing Swap"],
-    "link": "https://www.ticketweb.com/event/cleveland-clothing-swap-the-winchester-tickets/13895054",
-    "date": "2025-08-24T12:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Benign Impact, Wig Doubt, & So Nectar"],
+    "artist": [
+      "Benign Impact, Wig Doubt, & So Nectar"
+    ],
     "link": "https://www.ticketweb.com/event/benign-impact-wig-doubt-the-winchester-tickets/13912214",
     "date": "2025-08-24T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895114",
-    "date": "2025-08-26T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Secret Society Comedy Presents: One More Joke"],
-    "link": "https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896354",
-    "date": "2025-08-26T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["The Warped Band"],
+    "artist": [
+      "The Warped Band"
+    ],
     "link": "https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13786994",
     "date": "2025-08-28T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895684",
-    "date": "2025-08-28T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["The Powerful Pills \u2013 A Tribute to Phish"],
+    "artist": [
+      "The Powerful Pills \u2013 A Tribute to Phish"
+    ],
     "link": "https://www.ticketweb.com/event/the-powerful-pills-the-winchester-tickets/13874244",
     "date": "2025-08-29T21:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["The Crystal Method"],
+    "artist": [
+      "The Crystal Method"
+    ],
     "link": "https://www.ticketweb.com/event/the-crystal-method-the-winchester-tickets/13932054",
     "date": "2025-08-30T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["LOCALS ONLY"],
+    "artist": [
+      "LOCALS ONLY"
+    ],
     "link": "https://www.ticketweb.com/event/locals-only-the-winchester-tickets/13931274",
     "date": "2025-09-01T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895164",
-    "date": "2025-09-02T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Secret Society Comedy Presents: One More Joke"],
-    "link": "https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896364",
-    "date": "2025-09-02T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895704",
-    "date": "2025-09-04T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["gooseberry, FAWX & WHIFFLER"],
+    "artist": [
+      "gooseberry, FAWX & WHIFFLER"
+    ],
     "link": "https://www.ticketweb.com/event/gooseberry-w-fawx-whiffler-the-winchester-tickets/13908794",
     "date": "2025-09-04T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["KENDALL STREET COMPANY"],
+    "artist": [
+      "KENDALL STREET COMPANY"
+    ],
     "link": "https://www.ticketweb.com/event/kendall-street-company-the-winchester-tickets/13930884",
     "date": "2025-09-05T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Nookie \u2013 A Limp Bizkit Tribute"],
+    "artist": [
+      "Nookie \u2013 A Limp Bizkit Tribute"
+    ],
     "link": "https://www.ticketweb.com/event/nookie-a-limp-the-winchester-tickets/14498663",
     "date": "2025-09-06T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Richard Lloyd of TELEVISION"],
+    "artist": [
+      "Richard Lloyd of TELEVISION"
+    ],
     "link": "https://www.ticketweb.com/event/richard-lloyd-of-television-the-winchester-tickets/13799114",
     "date": "2025-09-08T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895154",
-    "date": "2025-09-09T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896044",
-    "date": "2025-09-11T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["JIM FLORENTINE, DON JAMIESON + JOE HOWARD"],
+    "artist": [
+      "JIM FLORENTINE, DON JAMIESON + JOE HOWARD"
+    ],
     "link": "https://www.ticketweb.com/event/jim-florentine-w-don-jamieson-the-winchester-tickets/13911914",
     "date": "2025-09-12T21:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["INTO THE BLUE \u2013 GRATEFUL DEAD REVIVAL"],
+    "artist": [
+      "INTO THE BLUE \u2013 GRATEFUL DEAD REVIVAL"
+    ],
     "link": "https://www.ticketweb.com/event/into-the-blue-the-winchester-tickets/14512523",
     "date": "2025-09-13T21:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895124",
-    "date": "2025-09-16T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Secret Society Comedy Presents: One More Joke"],
-    "link": "https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896374",
-    "date": "2025-09-16T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895664",
-    "date": "2025-09-18T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Bluphoria, The Revel"],
+    "artist": [
+      "Bluphoria, The Revel"
+    ],
     "link": "https://www.ticketweb.com/event/bluphoria-w-the-revel-the-winchester-tickets/13904814",
     "date": "2025-09-18T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Smells Like Nirvana \u2013 Nirvana Tribute"],
+    "artist": [
+      "Smells Like Nirvana \u2013 Nirvana Tribute"
+    ],
     "link": "https://www.ticketweb.com/event/smells-like-nirvana-the-winchester-tickets/14498593",
     "date": "2025-09-19T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895104",
-    "date": "2025-09-23T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["SMILE EMPTY SOUL"],
+    "artist": [
+      "SMILE EMPTY SOUL"
+    ],
     "link": "https://www.ticketweb.com/event/smile-empty-soul-the-winchester-tickets/14512493",
     "date": "2025-09-23T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896134",
-    "date": "2025-09-25T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["LIFE OF AGONY \u2013 30 Years of Ugly"],
+    "artist": [
+      "LIFE OF AGONY \u2013 30 Years of Ugly"
+    ],
     "link": "https://www.ticketweb.com/event/life-of-agony-the-winchester-tickets/14417173",
     "date": "2025-09-26T19:30:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Higher CREED Tribute + Drown Smashing Pumpkins Tribute"],
+    "artist": [
+      "Higher CREED Tribute + Drown Smashing Pumpkins Tribute"
+    ],
     "link": "https://www.ticketweb.com/event/higher-creed-tribute-drown-the-winchester-tickets/13821934",
     "date": "2025-09-27T20:30:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Bluegrass Brucn W Whiskey Drinks & Sweaty Already String Band"],
+    "artist": [
+      "Bluegrass Brucn W Whiskey Drinks & Sweaty Already String Band"
+    ],
     "link": "https://www.ticketweb.com/event/bluegrass-brucn-w-whiskey-drinks-the-winchester-tickets/13926444",
     "date": "2025-09-28T12:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895474",
-    "date": "2025-09-30T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Secret Society Comedy Presents: One More Joke"],
-    "link": "https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513433",
-    "date": "2025-09-30T21:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895914",
-    "date": "2025-10-02T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Motley 2 \u2013 A Tribute to Motley Crue"],
+    "artist": [
+      "Motley 2 \u2013 A Tribute to Motley Crue"
+    ],
     "link": "https://www.ticketweb.com/event/motley-2-a-the-winchester-tickets/13876644",
     "date": "2025-10-03T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["The Chewy Center Farewell Show"],
+    "artist": [
+      "The Chewy Center Farewell Show"
+    ],
     "link": "https://www.ticketweb.com/event/the-chewy-center-farewell-show-the-winchester-tickets/13906034",
     "date": "2025-10-04T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895214",
-    "date": "2025-10-07T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Secret Society Comedy Presents: One More Joke"],
-    "link": "https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513443",
-    "date": "2025-10-07T21:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895784",
-    "date": "2025-10-09T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["LOWER 13 \u2013 OWEEN 2"],
+    "artist": [
+      "LOWER 13 \u2013 OWEEN 2"
+    ],
     "link": "https://www.ticketweb.com/event/lower-13-oween-the-winchester-tickets/13958714",
     "date": "2025-10-11T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895204",
-    "date": "2025-10-14T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895924",
-    "date": "2025-10-16T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895174",
-    "date": "2025-10-21T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Secret Society Comedy Presents: One More Joke"],
-    "link": "https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513453",
-    "date": "2025-10-21T21:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895694",
-    "date": "2025-10-23T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Texas Hippie Coalition"],
+    "artist": [
+      "Texas Hippie Coalition"
+    ],
     "link": "https://www.ticketweb.com/event/texas-hippie-coalition-the-winchester-tickets/13837434",
     "date": "2025-10-26T18:30:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895494",
-    "date": "2025-10-28T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896064",
-    "date": "2025-10-30T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895344",
-    "date": "2025-11-04T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895794",
-    "date": "2025-11-06T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895524",
-    "date": "2025-11-11T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["The Brokes: The Strokes Experience"],
+    "artist": [
+      "The Brokes: The Strokes Experience"
+    ],
     "link": "https://www.ticketweb.com/event/the-brokes-the-strokes-experience-the-winchester-tickets/13884204",
     "date": "2025-11-11T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895714",
-    "date": "2025-11-13T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895184",
-    "date": "2025-11-18T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895754",
-    "date": "2025-11-20T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["EMBLEM3 \u2013 The Fever Dream Tour"],
+    "artist": [
+      "EMBLEM3 \u2013 The Fever Dream Tour"
+    ],
     "link": "https://www.ticketweb.com/event/emblem3-the-fever-the-winchester-tickets/13949184",
     "date": "2025-11-21T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Turntable Tuesdays at The Winchester"],
-    "link": "https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895234",
-    "date": "2025-11-25T17:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": ["Trivia Night \u2013 Every Thursday!"],
-    "link": "https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896054",
-    "date": "2025-11-27T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

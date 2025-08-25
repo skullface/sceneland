@@ -9,6 +9,17 @@ url_base = 'https://thewinchestermusictavern.com/page/'
 
 url_pages = [1, 2, 3]
 
+# Words to filter out from event titles/artists
+filter_words = ['Brunch', 'Turntable Tuesdays', 'Trivia', 'Clothing Swap', 'Comedy']
+
+def should_filter_event(artist_text):
+    """Check if event should be filtered out based on filter words"""
+    artist_lower = artist_text.lower()
+    for word in filter_words:
+        if word.lower() in artist_lower:
+            return True
+    return False
+
 all_shows_list = []
 
 for url_page in url_pages:
@@ -24,7 +35,13 @@ for url_page in url_pages:
     all_shows_data = {} 
     
     artist = show.find('div', class_='tw-name')
-    all_shows_data['artist'] = [artist.text.strip().replace(' W/ ', ', ')]
+    artist_text = artist.text.strip().replace(' W/ ', ', ')
+    
+    # Skip events that contain filter words
+    if should_filter_event(artist_text):
+        continue
+        
+    all_shows_data['artist'] = [artist_text]
 
     for link_element in show.findAll('a'):
         all_shows_data['link'] = link_element['href'.split('?', 1)[0]]

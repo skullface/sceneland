@@ -6,6 +6,25 @@ from datetime import datetime
 url_base = 'https://www.foundryconcertclub.com/page/'
 url_pages = [1, 2, 3]
 
+def should_skip_event(event_title):
+    """Filter out events with specific keywords in the title"""
+    skip_keywords = [
+        'Yoga',
+        'Nerd Night',
+        'Trivia',
+        'Punk Night',
+        'Bingo',
+        'Comedy',
+        'Closed',
+        'Movie'
+    ]
+    
+    event_title_lower = event_title.lower()
+    for keyword in skip_keywords:
+        if keyword.lower() in event_title_lower:
+            return True
+    return False
+
 all_shows_list = []
  
 for url_page in url_pages:
@@ -16,18 +35,15 @@ for url_page in url_pages:
   calendar = soup.find("div", class_="tw-plugin-upcoming-event-list")
   shows = calendar.find_all("div", class_="tw-section")
 
-  def should_skip_artist(artist_text):
-    excluded_keywords = ['Last Call Trivia', 'Taco Tuesday', 'Burger', 'Pop-Up', 'POP UP', 'Dance Party']
-    return any(keyword in artist_text for keyword in excluded_keywords)
-
   for show in shows:
-    all_shows_data = {} 
-    
-    artist = show.find("div", class_="tw-name").text.strip()
-    if should_skip_artist(artist):
+    # Get the event title first and check if we should skip it
+    event_title = show.find("div", class_="tw-name").text.strip()
+    if should_skip_event(event_title):
       continue
-    else:
-      all_shows_data['artist'] = [artist]
+    
+    # If we get here, the event is not filtered out, so process it
+    all_shows_data = {} 
+    all_shows_data['artist'] = [event_title]
       
     link = show.find("a")
     all_shows_data['link'] = link.get('href').split("?", 1)[0]

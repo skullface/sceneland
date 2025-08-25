@@ -39,7 +39,24 @@ for show in shows:
   # Convert the ordered dictionary keys back to a list
   artists_with_openers_clean = list(unique_artists_dict.keys())
 
-  all_shows_data['artist'] = artists_with_openers_clean
+  # Filter out events/artists with specific words
+  filtered_artists = []
+  excluded_words = ['Laugh Mondays', 'GlamGore', 'Midnight Rental', 'Trivia', 'Comedy']
+  
+  for artist in artists_with_openers_clean:
+      should_exclude = False
+      for word in excluded_words:
+          if word.lower() in artist.lower():
+              should_exclude = True
+              break
+      if not should_exclude:
+          filtered_artists.append(artist)
+  
+  # Skip this show if all artists were filtered out
+  if not filtered_artists:
+      continue
+
+  all_shows_data['artist'] = filtered_artists
 
   for link_element in show.findAll('a'):
     if link_element.parent == headliner:

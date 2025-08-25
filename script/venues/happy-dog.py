@@ -15,7 +15,13 @@ all_shows_list = []
 for show in shows:
   all_shows_data = {} 
   artist = show.find('a')
-  all_shows_data['artist'] = [artist.text.strip().replace(' / ', ', ')]
+  artist_name = artist.text.strip().replace(' / ', ', ')
+  
+  # Filter out events with "Trivia" or "Comedy" in the artist name
+  if any(word.lower() in artist_name.lower() for word in ['trivia', 'comedy']):
+    continue
+    
+  all_shows_data['artist'] = [artist_name]
 
   all_shows_data['link'] = artist.get('href')
 

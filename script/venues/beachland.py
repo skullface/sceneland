@@ -29,11 +29,29 @@ for show in shows:
     # Get the DOM elements containing artists
     artist_elements = show.find_all('span', class_='tw-artist')
     artists_list = []
-    # Loop through all the artists, add them to the object
+    
+    # Check if any artist is "Beachland Brunch" - if so, skip this entire event
+    has_brunch = False
     for artist in artist_elements:
-      artists_list.append(artist.text.strip().replace(' - ', ': '))
-      if not artist.text.strip() == 'This Way Out':
-        all_shows_data['artist'] = artists_list
+      artist_name = artist.text.strip().replace(' - ', ': ')
+      if artist_name == 'Beachland Brunch':
+        has_brunch = True
+        break
+    
+    # Skip this event if it has "Beachland Brunch"
+    if has_brunch:
+      continue
+    
+    # Loop through all the artists, filter out unwanted ones, add them to the object
+    for artist in artist_elements:
+      artist_name = artist.text.strip().replace(' - ', ': ')
+      # Filter out "This Way Out"
+      if artist_name != 'This Way Out':
+        artists_list.append(artist_name)
+    
+    # Only add the show if there are valid artists after filtering
+    if artists_list:
+      all_shows_data['artist'] = artists_list
 
     # Get all links in the show container element
     for link_element in show.findAll('a'):

@@ -26,7 +26,7 @@ for show in shows:
   all_shows_data = {}
 
   link_element = show.find('h3').find('a')
-  all_shows_data['artist'] = link_element.text.strip().replace('/', ', ')
+  all_shows_data['artist'] = [link_element.text.strip().replace('/', ', ')]
   all_shows_data['link'] = link_element.get('href')
   
   # Extract date from the calendar date structure

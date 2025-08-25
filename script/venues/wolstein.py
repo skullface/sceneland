@@ -26,7 +26,7 @@ for show in shows:
 
   # Find the anchor element within the show
   link_element = show.find('a')
-  all_shows_data['artist'] = link_element.text.strip()
+  all_shows_data['artist'] = [link_element.text.strip()]
   all_shows_data['link'] = link_element.get('href')
 
   date = show.find('time').text.strip()

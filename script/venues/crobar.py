@@ -35,7 +35,7 @@ for show in shows:
   # Split by newlines and filter out empty strings, then join with commas
   artists = ', '.join([artist.strip() for artist in artists_raw.split('\n') if artist.strip()])
   
-  all_shows_data['artist'] = show_name + ': ' + artists
+  all_shows_data['artist'] = [show_name + ': ' + artists]
   
   all_shows_data['link'] = show.find('a')['href']
 

@@ -4,7 +4,7 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Aug 2025 00:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 01:07:36 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[d4vd, LAUNDRY DAY at Agora]]></title>
@@ -315,13 +315,6 @@
             <pubDate>Sun, 23 Aug 2026 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Beachland Brunch, DJ Mark Mrazek at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, DJ Mark Mrazek at Beachland Tavern on Sunday, August 24, 2025, 11:00 AM: https://www.beachlandballroom.com/e/13944344/beachland-brunch-dj-mark-mrazek]]></description>
-            <link>https://www.beachlandballroom.com/e/13944344/beachland-brunch-dj-mark-mrazek</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13944344/beachland-brunch-dj-mark-mrazek</guid>
-            <pubDate>Sun, 24 Aug 2025 11:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Joey Harkum, Skuff Micksun at Beachland Tavern]]></title>
             <description><![CDATA[Get tickets to Joey Harkum, Skuff Micksun at Beachland Tavern on Wednesday, August 27, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13817704/joey-harkum-skuff-micksun]]></description>
             <link>https://www.beachlandballroom.com/e/13817704/joey-harkum-skuff-micksun</link>
@@ -355,13 +348,6 @@
             <link>https://www.beachlandballroom.com/e/14394703/aj-the-woods-johnny-hart-and-the-mess-sophia-fisher</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/14394703/aj-the-woods-johnny-hart-and-the-mess-sophia-fisher</guid>
             <pubDate>Sat, 30 Aug 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachland Brunch, DJ Parx Parker Ansel at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Beachland Brunch, DJ Parx Parker Ansel at Beachland Tavern on Sunday, August 31, 2025, 11:00 AM: https://www.beachlandballroom.com/e/13961264/beachland-brunch-dj-parx-parker-ansel]]></description>
-            <link>https://www.beachlandballroom.com/e/13961264/beachland-brunch-dj-parx-parker-ansel</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13961264/beachland-brunch-dj-parx-parker-ansel</guid>
-            <pubDate>Sun, 31 Aug 2025 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Banshee, Lyell, Kanner at Beachland Tavern]]></title>
@@ -1015,46 +1001,11 @@
             <pubDate>Sun, 22 Mar 2026 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yoga with Caitlan Alyssa at Foundry]]></title>
-            <description><![CDATA[Get tickets to Yoga with Caitlan Alyssa at Foundry on Monday, August 25, 2025, 06:30 PM: https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-11/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-11/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-11/</guid>
-            <pubDate>Mon, 25 Aug 2025 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NERD NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to NERD NIGHT at Foundry on Monday, August 25, 2025, 08:00 PM: https://www.foundryconcertclub.com/tm-event/nerd-night-6/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/nerd-night-6/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nerd-night-6/</guid>
-            <pubDate>Mon, 25 Aug 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Plush, Truss, MORNING IN MAY at Foundry]]></title>
             <description><![CDATA[Get tickets to Plush, Truss, MORNING IN MAY at Foundry on Tuesday, August 26, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/plush/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/plush/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/plush/</guid>
             <pubDate>Tue, 26 Aug 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, August 26, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-22/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-22/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-22/</guid>
-            <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, August 27, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-20/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-20/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-20/</guid>
-            <pubDate>Wed, 27 Aug 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ODDITIES BINGO at Foundry]]></title>
-            <description><![CDATA[Get tickets to ODDITIES BINGO at Foundry on Thursday, August 28, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/oddities-bingo/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/oddities-bingo/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/oddities-bingo/</guid>
-            <pubDate>Thu, 28 Aug 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oxjaw, Irewyrm, Blood Shift, DJ YELIAD at Foundry]]></title>
@@ -1071,41 +1022,6 @@
             <pubDate>Sat, 30 Aug 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Yoga with Caitlan Alyssa at Foundry]]></title>
-            <description><![CDATA[Get tickets to Yoga with Caitlan Alyssa at Foundry on Sunday, August 31, 2025, 02:00 PM: https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-13/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-13/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/yoga-with-caitlan-alyssa-13/</guid>
-            <pubDate>Sun, 31 Aug 2025 14:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CLOSED FOR LABOR DAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to CLOSED FOR LABOR DAY at Foundry on Monday, September 1, 2025, 12:00 AM: https://www.foundryconcertclub.com/tm-event/closed-for-labor-day/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/closed-for-labor-day/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/closed-for-labor-day/</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, September 2, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-23/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-23/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-23/</guid>
-            <pubDate>Tue, 02 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, September 3, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-21/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-21/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-21/</guid>
-            <pubDate>Wed, 03 Sep 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Movie Night at Foundry]]></title>
-            <description><![CDATA[Get tickets to Movie Night at Foundry on Thursday, September 4, 2025, 06:00 PM: https://www.foundryconcertclub.com/tm-event/movie-night/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/movie-night/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/movie-night/</guid>
-            <pubDate>Thu, 04 Sep 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Wavelength, Flying Free, Laid Low, Hosta, The Daze at Foundry]]></title>
             <description><![CDATA[Get tickets to Wavelength, Flying Free, Laid Low, Hosta, The Daze at Foundry on Friday, September 5, 2025, 06:30 PM: https://www.foundryconcertclub.com/tm-event/wavelength-flying-free-laid-low-hosta-the-daze/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/wavelength-flying-free-laid-low-hosta-the-daze/</link>
@@ -1113,25 +1029,18 @@
             <pubDate>Fri, 05 Sep 2025 18:30:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Mall Goth Metal: A Nu Metal Dance Party at Foundry]]></title>
+            <description><![CDATA[Get tickets to Mall Goth Metal: A Nu Metal Dance Party at Foundry on Saturday, September 6, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/mall-goth-metal-a-nu-metal-dance-party/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/mall-goth-metal-a-nu-metal-dance-party/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/mall-goth-metal-a-nu-metal-dance-party/</guid>
+            <pubDate>Sat, 06 Sep 2025 21:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Narcotic Wasteland, Divine Threat, Voices Of The Damned, Unconditional Hatred at Foundry]]></title>
             <description><![CDATA[Get tickets to Narcotic Wasteland, Divine Threat, Voices Of The Damned, Unconditional Hatred at Foundry on Sunday, September 7, 2025, 06:00 PM: https://www.foundryconcertclub.com/tm-event/narcotic-wasteland-divine-threat-voices-of-the-damned-unconditional-hatred/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/narcotic-wasteland-divine-threat-voices-of-the-damned-unconditional-hatred/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/narcotic-wasteland-divine-threat-voices-of-the-damned-unconditional-hatred/</guid>
             <pubDate>Sun, 07 Sep 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, September 9, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-24/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-24/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-24/</guid>
-            <pubDate>Tue, 09 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, September 10, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-22/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-22/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-22/</guid>
-            <pubDate>Wed, 10 Sep 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Skylit Drive, Avarice, Terra Vista, Counting Gravestones, Turning Tydes at Foundry]]></title>
@@ -1183,13 +1092,6 @@
             <pubDate>Sat, 20 Sep 2025 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, September 23, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-26/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-26/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-26/</guid>
-            <pubDate>Tue, 23 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stick To Your Guns, Big Ass Truck, Soulkeeper, 6Deep at Foundry]]></title>
             <description><![CDATA[Get tickets to Stick To Your Guns, Big Ass Truck, Soulkeeper, 6Deep at Foundry on Wednesday, September 24, 2025, 06:00 PM: https://www.foundryconcertclub.com/tm-event/stick-to-your-guns-big-ass-truck-soulkeeper-6deep/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/stick-to-your-guns-big-ass-truck-soulkeeper-6deep/</link>
@@ -1218,25 +1120,11 @@
             <pubDate>Sun, 28 Sep 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, September 30, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-27/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-27/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-27/</guid>
-            <pubDate>Tue, 30 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Mind's Eye, Hot Flash Heat Wave, Sad Park at Foundry]]></title>
             <description><![CDATA[Get tickets to Mind's Eye, Hot Flash Heat Wave, Sad Park at Foundry on Wednesday, October 1, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/</guid>
             <pubDate>Wed, 01 Oct 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, October 1, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-25/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-25/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-25/</guid>
-            <pubDate>Wed, 01 Oct 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cultus Black at Foundry]]></title>
@@ -1253,32 +1141,11 @@
             <pubDate>Tue, 07 Oct 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, October 7, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-28/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-28/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-28/</guid>
-            <pubDate>Tue, 07 Oct 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, October 8, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-26/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-26/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-26/</guid>
-            <pubDate>Wed, 08 Oct 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Silent Theory, Ovtlier, Major Moment at Foundry]]></title>
             <description><![CDATA[Get tickets to Silent Theory, Ovtlier, Major Moment at Foundry on Saturday, October 11, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/silent-theory-ovtlier-major-moment/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/silent-theory-ovtlier-major-moment/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/silent-theory-ovtlier-major-moment/</guid>
             <pubDate>Sat, 11 Oct 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, October 14, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-29/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-29/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-29/</guid>
-            <pubDate>Tue, 14 Oct 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brokencyde, Dot Dot Curve, From This Day Forward, Zombie Fashion Show, MORNING IN MAY, Thrapple, Novela at Foundry]]></title>
@@ -1288,32 +1155,11 @@
             <pubDate>Wed, 15 Oct 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, October 15, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-27/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-27/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-27/</guid>
-            <pubDate>Wed, 15 Oct 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[HALLOWEEN FREAKSHOW 2025 at Foundry]]></title>
             <description><![CDATA[Get tickets to HALLOWEEN FREAKSHOW 2025 at Foundry on Saturday, October 18, 2025, 02:30 PM: https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/</guid>
             <pubDate>Sat, 18 Oct 2025 14:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, October 21, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-30/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-30/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-30/</guid>
-            <pubDate>Tue, 21 Oct 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, October 22, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-28/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-28/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-28/</guid>
-            <pubDate>Wed, 22 Oct 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Off With Their Heads, SMUG, Pippsy Pinwheel, NMA at Foundry]]></title>
@@ -1330,39 +1176,11 @@
             <pubDate>Sat, 25 Oct 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, October 28, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-31/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-31/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-31/</guid>
-            <pubDate>Tue, 28 Oct 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, October 29, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-29/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-29/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-29/</guid>
-            <pubDate>Wed, 29 Oct 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rittz at Foundry]]></title>
             <description><![CDATA[Get tickets to Rittz at Foundry on Saturday, November 1, 2025, 06:00 PM: https://www.foundryconcertclub.com/tm-event/rittz/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/rittz/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/rittz/</guid>
             <pubDate>Sat, 01 Nov 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, November 4, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-32/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-32/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-32/</guid>
-            <pubDate>Tue, 04 Nov 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, November 5, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-30/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-30/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-30/</guid>
-            <pubDate>Wed, 05 Nov 2025 19:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Krisiun, Abysmal Dawn, Pyrexia, Gorgatron at Foundry]]></title>
@@ -1372,32 +1190,11 @@
             <pubDate>Tue, 25 Nov 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, November 25, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-35/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-35/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-35/</guid>
-            <pubDate>Tue, 25 Nov 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TRIVIA NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to TRIVIA NIGHT at Foundry on Wednesday, November 26, 2025, 07:30 PM: https://www.foundryconcertclub.com/tm-event/trivia-night-33/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/trivia-night-33/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/trivia-night-33/</guid>
-            <pubDate>Wed, 26 Nov 2025 19:30:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[HARDCORE AGAINST EPILEPSY at Foundry]]></title>
             <description><![CDATA[Get tickets to HARDCORE AGAINST EPILEPSY at Foundry on Saturday, November 29, 2025, 05:00 PM: https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/</guid>
             <pubDate>Sat, 29 Nov 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry]]></title>
-            <description><![CDATA[Get tickets to PERSONALITY CRISIS AKA CLE PUNK NIGHT at Foundry on Tuesday, December 2, 2025, 09:00 PM: https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-36/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-36/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/personality-crisis-aka-cle-punk-night-36/</guid>
-            <pubDate>Tue, 02 Dec 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[School of Rock: Grad Program at Grog Shop]]></title>
@@ -1412,13 +1209,6 @@
             <link>https://grogshop.gs/tm-event/eclectic-soul-b-day-celebration-for-esther-fitz-with-ruby-rose-weston-jeffrey-cruz/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/eclectic-soul-b-day-celebration-for-esther-fitz-with-ruby-rose-weston-jeffrey-cruz/</guid>
             <pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, August 25, 2025, 12:00 AM: https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-3/]]></description>
-            <link>https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-3/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-3/</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tetchy, Cool Party, Thrapple at Grog Shop]]></title>
@@ -1477,8 +1267,8 @@
             <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GlamGore: Oddly Vaudely, Anhedonia Delight at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to GlamGore: Oddly Vaudely, Anhedonia Delight at Grog Shop on Friday, September 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-4/]]></description>
+            <title><![CDATA[Anhedonia Delight at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Anhedonia Delight at Grog Shop on Friday, September 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-4/]]></description>
             <link>https://grogshop.gs/tm-event/glamgore-4/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/glamgore-4/</guid>
             <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
@@ -1496,20 +1286,6 @@
             <link>https://grogshop.gs/tm-event/la-dispute/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/la-dispute/</guid>
             <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, September 8, 2025, 12:00 AM: https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-4/]]></description>
-            <link>https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-4/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-4/</guid>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight Rental Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental Secret Movie Night at Grog Shop on Wednesday, September 10, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-secret-movie-night/]]></description>
-            <link>https://grogshop.gs/tm-event/midnight-rental-secret-movie-night/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-secret-movie-night/</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Momma: Welcome To My Blue Sky Tour, villagerrr at Grog Shop]]></title>
@@ -1596,13 +1372,6 @@
             <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, September 22, 2025, 12:00 AM: https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-12/]]></description>
-            <link>https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-12/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-12/</guid>
-            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hot Milk: Loud And Fast In The USA, Save Face, Elbow Room at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Hot Milk: Loud And Fast In The USA, Save Face, Elbow Room at Grog Shop on Tuesday, September 23, 2025, 12:00 AM: https://grogshop.gs/tm-event/hot-milk-loud-and-fast-in-the-usa/]]></description>
             <link>https://grogshop.gs/tm-event/hot-milk-loud-and-fast-in-the-usa/</link>
@@ -1673,8 +1442,8 @@
             <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GlamGore: Haunted Horrors, Anhedonia Delight at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to GlamGore: Haunted Horrors, Anhedonia Delight at Grog Shop on Friday, October 3, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-5/]]></description>
+            <title><![CDATA[Anhedonia Delight at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Anhedonia Delight at Grog Shop on Friday, October 3, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-5/]]></description>
             <link>https://grogshop.gs/tm-event/glamgore-5/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/glamgore-5/</guid>
             <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
@@ -1692,13 +1461,6 @@
             <link>https://grogshop.gs/tm-event/willis-almost-a-m/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/willis-almost-a-m/</guid>
             <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, October 6, 2025, 12:00 AM: https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-5/]]></description>
-            <link>https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-5/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-5/</guid>
-            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Destroyer: Dan’s Boogie Tour, Jennifer Castle at Grog Shop]]></title>
@@ -1764,13 +1526,6 @@
             <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, October 22, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night/]]></description>
-            <link>https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night/</guid>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Carlos Jones & the P.L.U.S. Band, The Stix Quartet at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Carlos Jones & the P.L.U.S. Band, The Stix Quartet at Grog Shop on Friday, October 24, 2025, 12:00 AM: https://grogshop.gs/tm-event/carlos-jones-the-p-l-u-s-band/]]></description>
             <link>https://grogshop.gs/tm-event/carlos-jones-the-p-l-u-s-band/</link>
@@ -1799,13 +1554,6 @@
             <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Make Em Laugh Mondays Hosted By Kevin Ford at Grog Shop on Monday, October 27, 2025, 12:00 AM: https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-6/]]></description>
-            <link>https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-6/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/make-em-laugh-mondays-hosted-by-kevin-ford-6/</guid>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[HOBO JOHNSON AND THE LOVEMAKERS, Budman. at Grog Shop]]></title>
             <description><![CDATA[Get tickets to HOBO JOHNSON AND THE LOVEMAKERS, Budman. at Grog Shop on Tuesday, October 28, 2025, 12:00 AM: https://grogshop.gs/tm-event/hobo-johnson-and-the-lovemakers/]]></description>
             <link>https://grogshop.gs/tm-event/hobo-johnson-and-the-lovemakers/</link>
@@ -1827,8 +1575,8 @@
             <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GlamGore: The Tarantino & Burton Ball, Anhedonia Delight at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to GlamGore: The Tarantino & Burton Ball, Anhedonia Delight at Grog Shop on Friday, November 7, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-3/]]></description>
+            <title><![CDATA[Anhedonia Delight at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Anhedonia Delight at Grog Shop on Friday, November 7, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-3/]]></description>
             <link>https://grogshop.gs/tm-event/glamgore-3/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/glamgore-3/</guid>
             <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
@@ -1839,13 +1587,6 @@
             <link>https://grogshop.gs/tm-event/weakened-friends-feels-like-hell-tour/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/weakened-friends-feels-like-hell-tour/</guid>
             <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midnight Rental presents Secret Movie Night at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Midnight Rental presents Secret Movie Night at Grog Shop on Wednesday, November 12, 2025, 12:00 AM: https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-6/]]></description>
-            <link>https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-6/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/midnight-rental-presents-secret-movie-night-6/</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Universe of Battle Tour: Nick Shoulders, Clover-Lynn at Grog Shop]]></title>
@@ -1869,8 +1610,8 @@
             <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GlamGore: A Titillating Haus of Tits Takeover, Anhedonia Delight at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to GlamGore: A Titillating Haus of Tits Takeover, Anhedonia Delight at Grog Shop on Friday, December 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-6/]]></description>
+            <title><![CDATA[Anhedonia Delight at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Anhedonia Delight at Grog Shop on Friday, December 5, 2025, 12:00 AM: https://grogshop.gs/tm-event/glamgore-6/]]></description>
             <link>https://grogshop.gs/tm-event/glamgore-6/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/glamgore-6/</guid>
             <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
@@ -1932,13 +1673,6 @@
             <pubDate>Sun, 24 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monday Night Trivia! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Monday Night Trivia! at Happy Dog on Monday, August 25, 2025, 12:00 AM: https://app.opendate.io/e/monday-night-trivia-august-25-2025-610689]]></description>
-            <link>https://app.opendate.io/e/monday-night-trivia-august-25-2025-610689</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/monday-night-trivia-august-25-2025-610689</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Future of Cleveland Media: Finding community in a post-media world at Happy Dog]]></title>
             <description><![CDATA[Get tickets to The Future of Cleveland Media: Finding community in a post-media world at Happy Dog on Tuesday, August 26, 2025, 12:00 AM: https://app.opendate.io/e/the-future-of-cleveland-media-finding-community-in-a-post-media-world-august-26-2025-622627]]></description>
             <link>https://app.opendate.io/e/the-future-of-cleveland-media-finding-community-in-a-post-media-world-august-26-2025-622627</link>
@@ -1974,13 +1708,6 @@
             <pubDate>Sat, 30 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monday Night Trivia! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Monday Night Trivia! at Happy Dog on Monday, September 1, 2025, 12:00 AM: https://app.opendate.io/e/monday-night-trivia-september-01-2025-610705]]></description>
-            <link>https://app.opendate.io/e/monday-night-trivia-september-01-2025-610705</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/monday-night-trivia-september-01-2025-610705</guid>
-            <pubDate>Mon, 01 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tear Dungeon, South Reach, Fuss at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Tear Dungeon, South Reach, Fuss at Happy Dog on Tuesday, September 2, 2025, 12:00 AM: https://app.opendate.io/e/tear-dungeon-south-reach-fuss-september-02-2025-610704]]></description>
             <link>https://app.opendate.io/e/tear-dungeon-south-reach-fuss-september-02-2025-610704</link>
@@ -1995,25 +1722,11 @@
             <pubDate>Fri, 05 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Browns Trivia in the Underdog! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Browns Trivia in the Underdog! at Happy Dog on Saturday, September 6, 2025, 12:00 AM: https://app.opendate.io/e/browns-trivia-in-the-underdog-september-06-2025-613897]]></description>
-            <link>https://app.opendate.io/e/browns-trivia-in-the-underdog-september-06-2025-613897</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/browns-trivia-in-the-underdog-september-06-2025-613897</guid>
-            <pubDate>Sat, 06 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Model Martel Album Release show w/ Lowspot, Dead End Days at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Model Martel Album Release show w/ Lowspot, Dead End Days at Happy Dog on Saturday, September 6, 2025, 12:00 AM: https://app.opendate.io/e/model-martel-album-release-show-w-lowspot-dead-end-days-september-06-2025-605760]]></description>
             <link>https://app.opendate.io/e/model-martel-album-release-show-w-lowspot-dead-end-days-september-06-2025-605760</link>
             <guid isPermaLink="true">https://app.opendate.io/e/model-martel-album-release-show-w-lowspot-dead-end-days-september-06-2025-605760</guid>
             <pubDate>Sat, 06 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monday Night Trivia! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Monday Night Trivia! at Happy Dog on Monday, September 8, 2025, 12:00 AM: https://app.opendate.io/e/monday-night-trivia-september-08-2025-619369]]></description>
-            <link>https://app.opendate.io/e/monday-night-trivia-september-08-2025-619369</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/monday-night-trivia-september-08-2025-619369</guid>
-            <pubDate>Mon, 08 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PONS, Unrecovery at Happy Dog]]></title>
@@ -2051,25 +1764,11 @@
             <pubDate>Sun, 14 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Monday Night Trivia! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Monday Night Trivia! at Happy Dog on Monday, September 15, 2025, 12:00 AM: https://app.opendate.io/e/monday-night-trivia-september-15-2025-619370]]></description>
-            <link>https://app.opendate.io/e/monday-night-trivia-september-15-2025-619370</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/monday-night-trivia-september-15-2025-619370</guid>
-            <pubDate>Mon, 15 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Signal Cle presents: Classical Revolution! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Signal Cle presents: Classical Revolution! at Happy Dog on Wednesday, September 17, 2025, 12:00 AM: https://app.opendate.io/e/signal-cle-presents-classical-revolution-september-17-2025-619375]]></description>
             <link>https://app.opendate.io/e/signal-cle-presents-classical-revolution-september-17-2025-619375</link>
             <guid isPermaLink="true">https://app.opendate.io/e/signal-cle-presents-classical-revolution-september-17-2025-619375</guid>
             <pubDate>Wed, 17 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Cuzin Funny - Comedy Night in the Underdog! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to My Cuzin Funny - Comedy Night in the Underdog! at Happy Dog on Thursday, September 18, 2025, 12:00 AM: https://app.opendate.io/e/my-cuzin-funny-comedy-night-in-the-underdog-september-18-2025-619371]]></description>
-            <link>https://app.opendate.io/e/my-cuzin-funny-comedy-night-in-the-underdog-september-18-2025-619371</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/my-cuzin-funny-comedy-night-in-the-underdog-september-18-2025-619371</guid>
-            <pubDate>Thu, 18 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Factual Brains single release w/ Slugg, Flipcoin at Happy Dog]]></title>
@@ -2084,13 +1783,6 @@
             <link>https://app.opendate.io/e/motherfuckers-jmb-co-powers-rolin-duo-swisher-september-20-2025-621429</link>
             <guid isPermaLink="true">https://app.opendate.io/e/motherfuckers-jmb-co-powers-rolin-duo-swisher-september-20-2025-621429</guid>
             <pubDate>Sat, 20 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monday Night Trivia! at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to Monday Night Trivia! at Happy Dog on Monday, September 22, 2025, 12:00 AM: https://app.opendate.io/e/monday-night-trivia-september-22-2025-621431]]></description>
-            <link>https://app.opendate.io/e/monday-night-trivia-september-22-2025-621431</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/monday-night-trivia-september-22-2025-621431</guid>
-            <pubDate>Mon, 22 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mud Whale, Pretty Pretty Awful, Trollop, Girl in the Shade - A benefit for the Cleveland Trans Collective at Happy Dog]]></title>
@@ -2373,34 +2065,6 @@
             <pubDate>Sat, 23 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ERIS'S BIRTHDAY BASH at No Class]]></title>
-            <description><![CDATA[Get tickets to ERIS'S BIRTHDAY BASH at No Class on Sunday, August 24, 2025, 12:00 AM: https://noclasscle.com/events/eriss-birthday-bash]]></description>
-            <link>https://noclasscle.com/events/eriss-birthday-bash</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/eriss-birthday-bash</guid>
-            <pubDate>Sun, 24 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KARAOKE at No Class]]></title>
-            <description><![CDATA[Get tickets to KARAOKE at No Class on Monday, August 25, 2025, 12:00 AM: https://noclasscle.com/events/karaoke-8-25]]></description>
-            <link>https://noclasscle.com/events/karaoke-8-25</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/karaoke-8-25</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CLOSED at No Class]]></title>
-            <description><![CDATA[Get tickets to CLOSED at No Class on Tuesday, August 26, 2025, 12:00 AM: https://noclasscle.com/events/closed-8-5-25-yb9ds]]></description>
-            <link>https://noclasscle.com/events/closed-8-5-25-yb9ds</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/closed-8-5-25-yb9ds</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QUEERS OF COMEDY at No Class]]></title>
-            <description><![CDATA[Get tickets to QUEERS OF COMEDY at No Class on Wednesday, August 27, 2025, 12:00 AM: https://noclasscle.com/events/queers-of-comedy-8-27]]></description>
-            <link>https://noclasscle.com/events/queers-of-comedy-8-27</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/queers-of-comedy-8-27</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SATAN at No Class]]></title>
             <description><![CDATA[Get tickets to SATAN at No Class on Thursday, August 28, 2025, 12:00 AM: https://noclasscle.com/events/satan-mercifix]]></description>
             <link>https://noclasscle.com/events/satan-mercifix</link>
@@ -2443,13 +2107,6 @@
             <pubDate>Tue, 02 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[NON-BINARY PEER SUPPORT GROUP at No Class]]></title>
-            <description><![CDATA[Get tickets to NON-BINARY PEER SUPPORT GROUP at No Class on Wednesday, September 3, 2025, 12:00 AM: https://noclasscle.com/events/non-binary-peer-support-group-9-3]]></description>
-            <link>https://noclasscle.com/events/non-binary-peer-support-group-9-3</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/non-binary-peer-support-group-9-3</guid>
-            <pubDate>Wed, 03 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[MARQUIS GAYLORD'S ODDITORIUM at No Class]]></title>
             <description><![CDATA[Get tickets to MARQUIS GAYLORD'S ODDITORIUM at No Class on Thursday, September 4, 2025, 12:00 AM: https://noclasscle.com/events/marquis-gaylords-odditorium-spellbound]]></description>
             <link>https://noclasscle.com/events/marquis-gaylords-odditorium-spellbound</link>
@@ -2471,60 +2128,11 @@
             <pubDate>Sat, 06 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DEFTONES PRE/POST GAME PARTY at No Class]]></title>
-            <description><![CDATA[Get tickets to DEFTONES PRE/POST GAME PARTY at No Class on Wednesday, September 10, 2025, 12:00 AM: https://noclasscle.com/events/deftones-pre-post-game-party]]></description>
-            <link>https://noclasscle.com/events/deftones-pre-post-game-party</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/deftones-pre-post-game-party</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SAPPHIC NIGHT at No Class]]></title>
-            <description><![CDATA[Get tickets to SAPPHIC NIGHT at No Class on Saturday, September 13, 2025, 12:00 AM: https://noclasscle.com/events/sapphic-night-9-13-25]]></description>
-            <link>https://noclasscle.com/events/sapphic-night-9-13-25</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/sapphic-night-9-13-25</guid>
-            <pubDate>Sat, 13 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GOTH YOGA at No Class]]></title>
-            <description><![CDATA[Get tickets to GOTH YOGA at No Class on Sunday, September 14, 2025, 12:00 AM: https://noclasscle.com/events/goth-yoga-9-14-25]]></description>
-            <link>https://noclasscle.com/events/goth-yoga-9-14-25</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/goth-yoga-9-14-25</guid>
-            <pubDate>Sun, 14 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BRAM STROKE-HER'S BDAY BASH at No Class]]></title>
-            <description><![CDATA[Get tickets to BRAM STROKE-HER'S BDAY BASH at No Class on Sunday, September 14, 2025, 12:00 AM: https://noclasscle.com/events/bram-stroke-hers-bday-bash]]></description>
-            <link>https://noclasscle.com/events/bram-stroke-hers-bday-bash</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/bram-stroke-hers-bday-bash</guid>
-            <pubDate>Sun, 14 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JAZZ RATS at No Class]]></title>
-            <description><![CDATA[Get tickets to JAZZ RATS at No Class on Wednesday, September 17, 2025, 12:00 AM: https://noclasscle.com/events/jazz-rats-9-17-25]]></description>
-            <link>https://noclasscle.com/events/jazz-rats-9-17-25</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/jazz-rats-9-17-25</guid>
-            <pubDate>Wed, 17 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DRAG ME TO THE MIC at No Class]]></title>
-            <description><![CDATA[Get tickets to DRAG ME TO THE MIC at No Class on Thursday, September 18, 2025, 12:00 AM: https://noclasscle.com/events/drag-me-to-the-mic-2]]></description>
-            <link>https://noclasscle.com/events/drag-me-to-the-mic-2</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/drag-me-to-the-mic-2</guid>
-            <pubDate>Thu, 18 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[PANZERFAUST at No Class]]></title>
             <description><![CDATA[Get tickets to PANZERFAUST at No Class on Friday, September 19, 2025, 12:00 AM: https://noclasscle.com/events/panzerfaust-groza]]></description>
             <link>https://noclasscle.com/events/panzerfaust-groza</link>
             <guid isPermaLink="true">https://noclasscle.com/events/panzerfaust-groza</guid>
             <pubDate>Fri, 19 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DARK SYNTH RAVE at No Class]]></title>
-            <description><![CDATA[Get tickets to DARK SYNTH RAVE at No Class on Saturday, September 20, 2025, 12:00 AM: https://noclasscle.com/events/dark-synth-rave-9-20]]></description>
-            <link>https://noclasscle.com/events/dark-synth-rave-9-20</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/dark-synth-rave-9-20</guid>
-            <pubDate>Sat, 20 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HEART & LUNG at No Class]]></title>
@@ -2539,20 +2147,6 @@
             <link>https://noclasscle.com/events/high-tolerance</link>
             <guid isPermaLink="true">https://noclasscle.com/events/high-tolerance</guid>
             <pubDate>Fri, 26 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DIVORCED DRAG ROCK 2 at No Class]]></title>
-            <description><![CDATA[Get tickets to DIVORCED DRAG ROCK 2 at No Class on Sunday, September 28, 2025, 12:00 AM: https://noclasscle.com/events/divorced-drag-rock-2]]></description>
-            <link>https://noclasscle.com/events/divorced-drag-rock-2</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/divorced-drag-rock-2</guid>
-            <pubDate>Sun, 28 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PLEXUS YOUNG PROFESSIONALS HAPPY HOUR at No Class]]></title>
-            <description><![CDATA[Get tickets to PLEXUS YOUNG PROFESSIONALS HAPPY HOUR at No Class on Friday, October 3, 2025, 12:00 AM: https://noclasscle.com/events/plexus-young-professionals-happy-hour]]></description>
-            <link>https://noclasscle.com/events/plexus-young-professionals-happy-hour</link>
-            <guid isPermaLink="true">https://noclasscle.com/events/plexus-young-professionals-happy-hour</guid>
-            <pubDate>Fri, 03 Oct 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SINISTER at No Class]]></title>
@@ -2807,137 +2401,116 @@
             <pubDate>Sat, 14 Mar 2026 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Benson Boone: American Heart World Tour, Elliot James Reay at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Benson Boone: American Heart World Tour, Elliot James Reay at Rocket Mortgage FieldHouse on Tuesday, August 26, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/benson-boone-250826]]></description>
+            <title><![CDATA[Benson Boone: American Heart World Tour, Elliot James Reay at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Benson Boone: American Heart World Tour, Elliot James Reay at Rocket Arena on Tuesday, August 26, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/benson-boone-250826]]></description>
             <link>https://www.rocketarena.com/events/detail/benson-boone-250826</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/benson-boone-250826</guid>
             <pubDate>Tue, 26 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tate McRae: Miss Possessive Tour, Zara Larsson at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Tate McRae: Miss Possessive Tour, Zara Larsson at Rocket Mortgage FieldHouse on Friday, August 29, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/tate-mcrae-250829]]></description>
+            <title><![CDATA[Tate McRae: Miss Possessive Tour, Zara Larsson at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Tate McRae: Miss Possessive Tour, Zara Larsson at Rocket Arena on Friday, August 29, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/tate-mcrae-250829]]></description>
             <link>https://www.rocketarena.com/events/detail/tate-mcrae-250829</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/tate-mcrae-250829</guid>
             <pubDate>Fri, 29 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nine Inch Nails: Peel It Back Tour 2025, Boys Noize at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Nine Inch Nails: Peel It Back Tour 2025, Boys Noize at Rocket Mortgage FieldHouse on Sunday, August 31, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/nine-inch-nails-250831]]></description>
+            <title><![CDATA[Nine Inch Nails: Peel It Back Tour 2025, Boys Noize at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Nine Inch Nails: Peel It Back Tour 2025, Boys Noize at Rocket Arena on Sunday, August 31, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/nine-inch-nails-250831]]></description>
             <link>https://www.rocketarena.com/events/detail/nine-inch-nails-250831</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/nine-inch-nails-250831</guid>
             <pubDate>Sun, 31 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deftones: North America Tour 2025, Special Guests IDLES and The Barbarians of California at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Deftones: North America Tour 2025, Special Guests IDLES and The Barbarians of California at Rocket Mortgage FieldHouse on Wednesday, September 10, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/deftones-250910]]></description>
+            <title><![CDATA[Deftones: North America Tour 2025, Special Guests IDLES and The Barbarians of California at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Deftones: North America Tour 2025, Special Guests IDLES and The Barbarians of California at Rocket Arena on Wednesday, September 10, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/deftones-250910]]></description>
             <link>https://www.rocketarena.com/events/detail/deftones-250910</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/deftones-250910</guid>
             <pubDate>Wed, 10 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eric Clapton, The Wallflowers at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Eric Clapton, The Wallflowers at Rocket Mortgage FieldHouse on Thursday, September 11, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/eric-clapton-250911]]></description>
+            <title><![CDATA[Eric Clapton, The Wallflowers at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Eric Clapton, The Wallflowers at Rocket Arena on Thursday, September 11, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/eric-clapton-250911]]></description>
             <link>https://www.rocketarena.com/events/detail/eric-clapton-250911</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/eric-clapton-250911</guid>
             <pubDate>Thu, 11 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Summer Jam, Feat. GloRilla, BigXthaPlug, Kash Doll, Big Boogie, Jacquees, Queen Key at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Summer Jam, Feat. GloRilla, BigXthaPlug, Kash Doll, Big Boogie, Jacquees, Queen Key at Rocket Mortgage FieldHouse on Friday, September 12, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/summer-jam-250912]]></description>
+            <title><![CDATA[Summer Jam, Feat. GloRilla, BigXthaPlug, Kash Doll, Big Boogie, Jacquees, Queen Key at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Summer Jam, Feat. GloRilla, BigXthaPlug, Kash Doll, Big Boogie, Jacquees, Queen Key at Rocket Arena on Friday, September 12, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/summer-jam-250912]]></description>
             <link>https://www.rocketarena.com/events/detail/summer-jam-250912</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/summer-jam-250912</guid>
             <pubDate>Fri, 12 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sleep Token: Even In Arcadia, Special Guests Thornhill at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Sleep Token: Even In Arcadia, Special Guests Thornhill at Rocket Mortgage FieldHouse on Saturday, September 27, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/sleep-token-250927]]></description>
+            <title><![CDATA[Sleep Token: Even In Arcadia, Special Guests Thornhill at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Sleep Token: Even In Arcadia, Special Guests Thornhill at Rocket Arena on Saturday, September 27, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/sleep-token-250927]]></description>
             <link>https://www.rocketarena.com/events/detail/sleep-token-250927</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/sleep-token-250927</guid>
             <pubDate>Sat, 27 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Queens: 4 Legends, 1 Stage., Chaka Khan, Patti LaBelle, Gladys Knight and Stephanie Mills at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to The Queens: 4 Legends, 1 Stage., Chaka Khan, Patti LaBelle, Gladys Knight and Stephanie Mills at Rocket Mortgage FieldHouse on Sunday, October 5, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/thequeens-251005]]></description>
+            <title><![CDATA[The Queens: 4 Legends, 1 Stage., Chaka Khan, Patti LaBelle, Gladys Knight and Stephanie Mills at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to The Queens: 4 Legends, 1 Stage., Chaka Khan, Patti LaBelle, Gladys Knight and Stephanie Mills at Rocket Arena on Sunday, October 5, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/thequeens-251005]]></description>
             <link>https://www.rocketarena.com/events/detail/thequeens-251005</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/thequeens-251005</guid>
             <pubDate>Sun, 05 Oct 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ice Cube: Truth To Power, Four Decades of Attitude at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Ice Cube: Truth To Power, Four Decades of Attitude at Rocket Mortgage FieldHouse on Wednesday, October 8, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/ice-cube-251008]]></description>
+            <title><![CDATA[Ice Cube: Truth To Power, Four Decades of Attitude at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Ice Cube: Truth To Power, Four Decades of Attitude at Rocket Arena on Wednesday, October 8, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/ice-cube-251008]]></description>
             <link>https://www.rocketarena.com/events/detail/ice-cube-251008</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/ice-cube-251008</guid>
             <pubDate>Wed, 08 Oct 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eric Church: Free the Machine Tour, Marcus King Band at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Eric Church: Free the Machine Tour, Marcus King Band at Rocket Mortgage FieldHouse on Saturday, October 11, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/eric-church251011]]></description>
+            <title><![CDATA[Eric Church: Free the Machine Tour, Marcus King Band at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Eric Church: Free the Machine Tour, Marcus King Band at Rocket Arena on Saturday, October 11, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/eric-church251011]]></description>
             <link>https://www.rocketarena.com/events/detail/eric-church251011</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/eric-church251011</guid>
             <pubDate>Sat, 11 Oct 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Adam Sandler: You’re My Best Friend, Age Restriction: This show is intended for a mature audience. Guests must be 16 or older to attend. at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Adam Sandler: You’re My Best Friend, Age Restriction: This show is intended for a mature audience. Guests must be 16 or older to attend. at Rocket Mortgage FieldHouse on Monday, October 13, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/adam-sandler-251015]]></description>
+            <title><![CDATA[Adam Sandler: You’re My Best Friend, Age Restriction: This show is intended for a mature audience. Guests must be 16 or older to attend. at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Adam Sandler: You’re My Best Friend, Age Restriction: This show is intended for a mature audience. Guests must be 16 or older to attend. at Rocket Arena on Monday, October 13, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/adam-sandler-251015]]></description>
             <link>https://www.rocketarena.com/events/detail/adam-sandler-251015</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/adam-sandler-251015</guid>
             <pubDate>Mon, 13 Oct 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bryan Adams: Roll with the Punches, Pat Benatar & Neil Giraldo at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Bryan Adams: Roll with the Punches, Pat Benatar & Neil Giraldo at Rocket Mortgage FieldHouse on Saturday, November 1, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/bryan-adams-20251101]]></description>
+            <title><![CDATA[Bryan Adams: Roll with the Punches, Pat Benatar & Neil Giraldo at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Bryan Adams: Roll with the Punches, Pat Benatar & Neil Giraldo at Rocket Arena on Saturday, November 1, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/bryan-adams-20251101]]></description>
             <link>https://www.rocketarena.com/events/detail/bryan-adams-20251101</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/bryan-adams-20251101</guid>
             <pubDate>Sat, 01 Nov 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[USA Women's Hockey vs Canada Rivalry Series, Presented by Discover at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to USA Women's Hockey vs Canada Rivalry Series, Presented by Discover at Rocket Mortgage FieldHouse on Thursday, November 6, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/usa-canada251106]]></description>
+            <title><![CDATA[USA Women's Hockey vs Canada Rivalry Series, Presented by Discover at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to USA Women's Hockey vs Canada Rivalry Series, Presented by Discover at Rocket Arena on Thursday, November 6, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/usa-canada251106]]></description>
             <link>https://www.rocketarena.com/events/detail/usa-canada251106</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/usa-canada251106</guid>
             <pubDate>Thu, 06 Nov 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jonas Brothers: JONAS20 Greetings From Your Hometown, The All-American Rejects at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Jonas Brothers: JONAS20 Greetings From Your Hometown, The All-American Rejects at Rocket Mortgage FieldHouse on Tuesday, November 11, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/jonas-brothers-251111]]></description>
+            <title><![CDATA[Jonas Brothers: JONAS20 Greetings From Your Hometown, The All-American Rejects at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Jonas Brothers: JONAS20 Greetings From Your Hometown, The All-American Rejects at Rocket Arena on Tuesday, November 11, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/jonas-brothers-251111]]></description>
             <link>https://www.rocketarena.com/events/detail/jonas-brothers-251111</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/jonas-brothers-251111</guid>
             <pubDate>Tue, 11 Nov 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Maroon 5: LOVE IS LIKE Tour, Claire Rosinkranz at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Maroon 5: LOVE IS LIKE Tour, Claire Rosinkranz at Rocket Mortgage FieldHouse on Monday, November 24, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/maroon-5-251124]]></description>
+            <title><![CDATA[Maroon 5: LOVE IS LIKE Tour, Claire Rosinkranz at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Maroon 5: LOVE IS LIKE Tour, Claire Rosinkranz at Rocket Arena on Monday, November 24, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/maroon-5-251124]]></description>
             <link>https://www.rocketarena.com/events/detail/maroon-5-251124</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/maroon-5-251124</guid>
             <pubDate>Mon, 24 Nov 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Cleveland Hoops Showdown, Ohio State v West Virginia | Ohio University v St. Bonaventure at Rocket Mortgage FieldHouse]]></title>
-            <description><![CDATA[Get tickets to Cleveland Hoops Showdown, Ohio State v West Virginia | Ohio University v St. Bonaventure at Rocket Mortgage FieldHouse on Saturday, December 13, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/hoops-showdown-251213]]></description>
+            <title><![CDATA[Cleveland Hoops Showdown, Ohio State v West Virginia | Ohio University v St. Bonaventure at Rocket Arena]]></title>
+            <description><![CDATA[Get tickets to Cleveland Hoops Showdown, Ohio State v West Virginia | Ohio University v St. Bonaventure at Rocket Arena on Saturday, December 13, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/hoops-showdown-251213]]></description>
             <link>https://www.rocketarena.com/events/detail/hoops-showdown-251213</link>
             <guid isPermaLink="true">https://www.rocketarena.com/events/detail/hoops-showdown-251213</guid>
             <pubDate>Sat, 13 Dec 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BOOZY BRUNCH (AC/DC) at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to BOOZY BRUNCH (AC/DC) at Winchester Tavern on Sunday, August 3, 2025, 11:00 AM: https://www.ticketweb.com/event/boozy-brunch-acdc-the-winchester-tickets/13914254]]></description>
-            <link>https://www.ticketweb.com/event/boozy-brunch-acdc-the-winchester-tickets/13914254</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/boozy-brunch-acdc-the-winchester-tickets/13914254</guid>
-            <pubDate>Sun, 03 Aug 2025 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BOOZY BRUNCH (TAYLOR SWIFT) at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to BOOZY BRUNCH (TAYLOR SWIFT) at Winchester Tavern on Sunday, August 24, 2025, 11:00 AM: https://www.ticketweb.com/event/boozy-brunch-taylor-swift-the-winchester-tickets/13961064]]></description>
-            <link>https://www.ticketweb.com/event/boozy-brunch-taylor-swift-the-winchester-tickets/13961064</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/boozy-brunch-taylor-swift-the-winchester-tickets/13961064</guid>
-            <pubDate>Sun, 24 Aug 2025 11:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cleveland Clothing Swap at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Cleveland Clothing Swap at Winchester Tavern on Sunday, August 24, 2025, 12:00 PM: https://www.ticketweb.com/event/cleveland-clothing-swap-the-winchester-tickets/13895054]]></description>
-            <link>https://www.ticketweb.com/event/cleveland-clothing-swap-the-winchester-tickets/13895054</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/cleveland-clothing-swap-the-winchester-tickets/13895054</guid>
-            <pubDate>Sun, 24 Aug 2025 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Benign Impact, Wig Doubt, & So Nectar at Winchester Tavern]]></title>
@@ -2947,31 +2520,10 @@
             <pubDate>Sun, 24 Aug 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, August 26, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895114]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895114</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895114</guid>
-            <pubDate>Tue, 26 Aug 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret Society Comedy Presents: One More Joke at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Secret Society Comedy Presents: One More Joke at Winchester Tavern on Tuesday, August 26, 2025, 09:00 PM: https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896354]]></description>
-            <link>https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896354</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896354</guid>
-            <pubDate>Tue, 26 Aug 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Warped Band at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to The Warped Band at Winchester Tavern on Thursday, August 28, 2025, 07:00 PM: https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13786994]]></description>
             <link>https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13786994</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13786994</guid>
-            <pubDate>Thu, 28 Aug 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, August 28, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895684]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895684</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895684</guid>
             <pubDate>Thu, 28 Aug 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2994,27 +2546,6 @@
             <link>https://www.ticketweb.com/event/locals-only-the-winchester-tickets/13931274</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/locals-only-the-winchester-tickets/13931274</guid>
             <pubDate>Mon, 01 Sep 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, September 2, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895164]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895164</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895164</guid>
-            <pubDate>Tue, 02 Sep 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret Society Comedy Presents: One More Joke at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Secret Society Comedy Presents: One More Joke at Winchester Tavern on Tuesday, September 2, 2025, 09:00 PM: https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896364]]></description>
-            <link>https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896364</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896364</guid>
-            <pubDate>Tue, 02 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, September 4, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895704]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895704</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895704</guid>
-            <pubDate>Thu, 04 Sep 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[gooseberry, FAWX & WHIFFLER at Winchester Tavern]]></title>
@@ -3045,20 +2576,6 @@
             <pubDate>Mon, 08 Sep 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, September 9, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895154]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895154</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895154</guid>
-            <pubDate>Tue, 09 Sep 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, September 11, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896044]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896044</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896044</guid>
-            <pubDate>Thu, 11 Sep 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[JIM FLORENTINE, DON JAMIESON + JOE HOWARD at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to JIM FLORENTINE, DON JAMIESON + JOE HOWARD at Winchester Tavern on Friday, September 12, 2025, 09:00 PM: https://www.ticketweb.com/event/jim-florentine-w-don-jamieson-the-winchester-tickets/13911914]]></description>
             <link>https://www.ticketweb.com/event/jim-florentine-w-don-jamieson-the-winchester-tickets/13911914</link>
@@ -3071,27 +2588,6 @@
             <link>https://www.ticketweb.com/event/into-the-blue-the-winchester-tickets/14512523</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/into-the-blue-the-winchester-tickets/14512523</guid>
             <pubDate>Sat, 13 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, September 16, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895124]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895124</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895124</guid>
-            <pubDate>Tue, 16 Sep 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret Society Comedy Presents: One More Joke at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Secret Society Comedy Presents: One More Joke at Winchester Tavern on Tuesday, September 16, 2025, 09:00 PM: https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896374]]></description>
-            <link>https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896374</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/13896374</guid>
-            <pubDate>Tue, 16 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, September 18, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895664]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895664</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895664</guid>
-            <pubDate>Thu, 18 Sep 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bluphoria, The Revel at Winchester Tavern]]></title>
@@ -3108,25 +2604,11 @@
             <pubDate>Fri, 19 Sep 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, September 23, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895104]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895104</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895104</guid>
-            <pubDate>Tue, 23 Sep 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[SMILE EMPTY SOUL at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to SMILE EMPTY SOUL at Winchester Tavern on Tuesday, September 23, 2025, 07:00 PM: https://www.ticketweb.com/event/smile-empty-soul-the-winchester-tickets/14512493]]></description>
             <link>https://www.ticketweb.com/event/smile-empty-soul-the-winchester-tickets/14512493</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/smile-empty-soul-the-winchester-tickets/14512493</guid>
             <pubDate>Tue, 23 Sep 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, September 25, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896134]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896134</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896134</guid>
-            <pubDate>Thu, 25 Sep 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[LIFE OF AGONY – 30 Years of Ugly at Winchester Tavern]]></title>
@@ -3150,27 +2632,6 @@
             <pubDate>Sun, 28 Sep 2025 12:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, September 30, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895474]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895474</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895474</guid>
-            <pubDate>Tue, 30 Sep 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret Society Comedy Presents: One More Joke at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Secret Society Comedy Presents: One More Joke at Winchester Tavern on Tuesday, September 30, 2025, 09:30 PM: https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513433]]></description>
-            <link>https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513433</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513433</guid>
-            <pubDate>Tue, 30 Sep 2025 21:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, October 2, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895914]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895914</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895914</guid>
-            <pubDate>Thu, 02 Oct 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Motley 2 – A Tribute to Motley Crue at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to Motley 2 – A Tribute to Motley Crue at Winchester Tavern on Friday, October 3, 2025, 08:00 PM: https://www.ticketweb.com/event/motley-2-a-the-winchester-tickets/13876644]]></description>
             <link>https://www.ticketweb.com/event/motley-2-a-the-winchester-tickets/13876644</link>
@@ -3185,67 +2646,11 @@
             <pubDate>Sat, 04 Oct 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, October 7, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895214]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895214</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895214</guid>
-            <pubDate>Tue, 07 Oct 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret Society Comedy Presents: One More Joke at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Secret Society Comedy Presents: One More Joke at Winchester Tavern on Tuesday, October 7, 2025, 09:30 PM: https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513443]]></description>
-            <link>https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513443</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513443</guid>
-            <pubDate>Tue, 07 Oct 2025 21:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, October 9, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895784]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895784</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895784</guid>
-            <pubDate>Thu, 09 Oct 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[LOWER 13 – OWEEN 2 at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to LOWER 13 – OWEEN 2 at Winchester Tavern on Saturday, October 11, 2025, 08:00 PM: https://www.ticketweb.com/event/lower-13-oween-the-winchester-tickets/13958714]]></description>
             <link>https://www.ticketweb.com/event/lower-13-oween-the-winchester-tickets/13958714</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/lower-13-oween-the-winchester-tickets/13958714</guid>
             <pubDate>Sat, 11 Oct 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, October 14, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895204]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895204</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895204</guid>
-            <pubDate>Tue, 14 Oct 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, October 16, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895924]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895924</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895924</guid>
-            <pubDate>Thu, 16 Oct 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, October 21, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895174]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895174</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895174</guid>
-            <pubDate>Tue, 21 Oct 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret Society Comedy Presents: One More Joke at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Secret Society Comedy Presents: One More Joke at Winchester Tavern on Tuesday, October 21, 2025, 09:30 PM: https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513453]]></description>
-            <link>https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513453</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/secret-society-comedy-presents-one-the-winchester-tickets/14513453</guid>
-            <pubDate>Tue, 21 Oct 2025 21:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, October 23, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895694]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895694</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895694</guid>
-            <pubDate>Thu, 23 Oct 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Texas Hippie Coalition at Winchester Tavern]]></title>
@@ -3255,41 +2660,6 @@
             <pubDate>Sun, 26 Oct 2025 18:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, October 28, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895494]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895494</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895494</guid>
-            <pubDate>Tue, 28 Oct 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, October 30, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896064]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896064</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896064</guid>
-            <pubDate>Thu, 30 Oct 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, November 4, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895344]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895344</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895344</guid>
-            <pubDate>Tue, 04 Nov 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, November 6, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895794]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895794</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895794</guid>
-            <pubDate>Thu, 06 Nov 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, November 11, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895524]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895524</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895524</guid>
-            <pubDate>Tue, 11 Nov 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Brokes: The Strokes Experience at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to The Brokes: The Strokes Experience at Winchester Tavern on Tuesday, November 11, 2025, 07:00 PM: https://www.ticketweb.com/event/the-brokes-the-strokes-experience-the-winchester-tickets/13884204]]></description>
             <link>https://www.ticketweb.com/event/the-brokes-the-strokes-experience-the-winchester-tickets/13884204</link>
@@ -3297,46 +2667,11 @@
             <pubDate>Tue, 11 Nov 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, November 13, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895714]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895714</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895714</guid>
-            <pubDate>Thu, 13 Nov 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, November 18, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895184]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895184</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895184</guid>
-            <pubDate>Tue, 18 Nov 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, November 20, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895754]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895754</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13895754</guid>
-            <pubDate>Thu, 20 Nov 2025 19:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[EMBLEM3 – The Fever Dream Tour at Winchester Tavern]]></title>
             <description><![CDATA[Get tickets to EMBLEM3 – The Fever Dream Tour at Winchester Tavern on Friday, November 21, 2025, 08:00 PM: https://www.ticketweb.com/event/emblem3-the-fever-the-winchester-tickets/13949184]]></description>
             <link>https://www.ticketweb.com/event/emblem3-the-fever-the-winchester-tickets/13949184</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/emblem3-the-fever-the-winchester-tickets/13949184</guid>
             <pubDate>Fri, 21 Nov 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turntable Tuesdays at The Winchester at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Turntable Tuesdays at The Winchester at Winchester Tavern on Tuesday, November 25, 2025, 05:00 PM: https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895234]]></description>
-            <link>https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895234</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/turntable-tuesdays-at-the-winchester-the-winchester-tickets/13895234</guid>
-            <pubDate>Tue, 25 Nov 2025 17:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trivia Night – Every Thursday! at Winchester Tavern]]></title>
-            <description><![CDATA[Get tickets to Trivia Night – Every Thursday! at Winchester Tavern on Thursday, November 27, 2025, 07:00 PM: https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896054]]></description>
-            <link>https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896054</link>
-            <guid isPermaLink="true">https://www.ticketweb.com/event/trivia-night-every-the-winchester-tickets/13896054</guid>
-            <pubDate>Thu, 27 Nov 2025 19:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

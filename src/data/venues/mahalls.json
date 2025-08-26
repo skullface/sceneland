@@ -249,6 +249,14 @@
   },
   {
     "artist": [
+      "Home Is Where"
+    ],
+    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
+    "date": "2025-09-27T18:00:00-04:00",
+    "venue": "Mahall's"
+  },
+  {
+    "artist": [
       "Kublai Khan TX"
     ],
     "link": "https://dice.fm/event/68713dd98a30cc0001cddc43",
@@ -258,10 +266,10 @@
   },
   {
     "artist": [
-      "Home Is Where"
+      "HEAVY EMO NIGHT: KKTX AFTER PARTY"
     ],
-    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
-    "date": "2025-09-27T18:00:00-04:00",
+    "link": "https://dice.fm/event/68ac731cc145740001dbf37b",
+    "date": "2025-09-27T23:00:00-04:00",
     "venue": "Mahall's"
   },
   {
@@ -306,19 +314,19 @@
   },
   {
     "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Real Estate: A Celebration of ATLAS"
     ],
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall's"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "Mahall's"
   },
   {
     "artist": [
@@ -362,11 +370,35 @@
   },
   {
     "artist": [
+      "Emo Bingo"
+    ],
+    "link": "https://dice.fm/event/68ac851fc145740001dcf49b",
+    "date": "2025-10-09T18:00:00-04:00",
+    "venue": "Mahall's"
+  },
+  {
+    "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall's"
+  },
+  {
+    "artist": [
       "Integrity + Madball + Strife"
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
     "date": "2025-10-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall's"
+  },
+  {
+    "artist": [
+      "The Smiths vs. The Cure dance party"
+    ],
+    "link": "https://dice.fm/event/68ac752e1f2c700001fa9bf0",
+    "date": "2025-10-10T22:00:00-04:00",
+    "venue": "Mahall's"
   },
   {
     "artist": [
@@ -530,19 +562,19 @@
   },
   {
     "artist": [
-      "Pinkshift"
-    ],
-    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Rob49: Let Me Fly Tour"
     ],
     "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall's"
+  },
+  {
+    "artist": [
+      "Pinkshift"
+    ],
+    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "Mahall's"
   },
   {
     "artist": [
@@ -614,6 +646,14 @@
     ],
     "link": "https://dice.fm/event/689b84923b010e0001a5df0d",
     "date": "2025-12-05T19:00:00-05:00",
+    "venue": "Mahall's"
+  },
+  {
+    "artist": [
+      "Cursive"
+    ],
+    "link": "https://dice.fm/event/68a354bfb6b9070001364dc8",
+    "date": "2025-12-06T19:00:00-05:00",
     "venue": "Mahall's"
   },
   {

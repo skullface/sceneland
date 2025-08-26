@@ -164,9 +164,10 @@
   },
   {
     "artist": [
-      "ivri"
+      "ivri",
+      "DUSTY"
     ],
-    "link": "https://www.beachlandballroom.com/e/13808244/ivri",
+    "link": "https://www.beachlandballroom.com/e/13808244/ivri-dusty",
     "date": "2025-09-11T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -310,9 +311,10 @@
   },
   {
     "artist": [
-      "Walter Trout"
+      "Walter Trout",
+      "Erin Nicole Neal & the Chill Factor"
     ],
-    "link": "https://www.beachlandballroom.com/e/14481973/walter-trout",
+    "link": "https://www.beachlandballroom.com/e/14481973/walter-trout-erin-nicole-neal-the-chill-factor",
     "date": "2025-09-20T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -414,9 +416,10 @@
   },
   {
     "artist": [
-      "American Aquarium"
+      "American Aquarium",
+      "Collin Nash"
     ],
-    "link": "https://www.beachlandballroom.com/e/13834764/american-aquarium",
+    "link": "https://www.beachlandballroom.com/e/13834764/american-aquarium-collin-nash",
     "date": "2025-09-30T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -634,6 +637,15 @@
     "link": "https://www.beachlandballroom.com/e/13898084/tei-shi",
     "date": "2025-10-23T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Katy Guillen & The Drive",
+      "Angela Perley"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14515713/katy-guillen-the-drive-angela-perley",
+    "date": "2025-10-23T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

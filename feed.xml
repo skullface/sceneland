@@ -4,15 +4,8 @@
         <description><![CDATA[Aggregated concerts and events coming up at your fav local CLE venues.]]></description>
         <link>https://216.show</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 Aug 2025 09:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 09:07:49 GMT</lastBuildDate>
         <atom:link href="https://216.show/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[d4vd, LAUNDRY DAY at Agora]]></title>
-            <description><![CDATA[Get tickets to d4vd, LAUNDRY DAY at Agora on Tuesday, August 26, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/943785]]></description>
-            <link>https://www.agoracleveland.com/events/detail/943785</link>
-            <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/943785</guid>
-            <pubDate>Tue, 26 Aug 2025 18:00:00 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Streetlight Manifesto, Rebuilder at Agora]]></title>
             <description><![CDATA[Get tickets to Streetlight Manifesto, Rebuilder at Agora on Friday, August 29, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/937204]]></description>
@@ -21,8 +14,8 @@
             <pubDate>Fri, 29 Aug 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hudson Westbrook at Agora]]></title>
-            <description><![CDATA[Get tickets to Hudson Westbrook at Agora on Thursday, September 4, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/1100127]]></description>
+            <title><![CDATA[Hudson Westbrook, Solon Holt at Agora]]></title>
+            <description><![CDATA[Get tickets to Hudson Westbrook, Solon Holt at Agora on Thursday, September 4, 2025, 06:00 PM: https://www.agoracleveland.com/events/detail/1100127]]></description>
             <link>https://www.agoracleveland.com/events/detail/1100127</link>
             <guid isPermaLink="true">https://www.agoracleveland.com/events/detail/1100127</guid>
             <pubDate>Thu, 04 Sep 2025 18:00:00 GMT</pubDate>
@@ -525,6 +518,13 @@
             <pubDate>Wed, 17 Sep 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pre/Post Party with DJ Erin Ryan at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Pre/Post Party with DJ Erin Ryan at Beachland Tavern on Thursday, September 18, 2025, 06:00 PM: https://www.beachlandballroom.com/e/14519093/pre-post-party-with-dj-erin-ryan]]></description>
+            <link>https://www.beachlandballroom.com/e/14519093/pre-post-party-with-dj-erin-ryan</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14519093/pre-post-party-with-dj-erin-ryan</guid>
+            <pubDate>Thu, 18 Sep 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MARKY RAMONE PLAYS THE RAMONES, Marky Ramone, Whatever... at Beachland Ballroom]]></title>
             <description><![CDATA[Get tickets to MARKY RAMONE PLAYS THE RAMONES, Marky Ramone, Whatever... at Beachland Ballroom on Thursday, September 18, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14407593/marky-ramone-plays-the-ramones-marky-ramone-whatever-]]></description>
             <link>https://www.beachlandballroom.com/e/14407593/marky-ramone-plays-the-ramones-marky-ramone-whatever-</link>
@@ -532,10 +532,10 @@
             <pubDate>Thu, 18 Sep 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Delvon Lamarr Organ Trio at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Delvon Lamarr Organ Trio at Beachland Ballroom on Friday, September 19, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13793344/delvon-lamarr-organ-trio]]></description>
-            <link>https://www.beachlandballroom.com/e/13793344/delvon-lamarr-organ-trio</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13793344/delvon-lamarr-organ-trio</guid>
+            <title><![CDATA[Delvon Lamarr Organ Trio, DJ Mr. Fishtruck at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Delvon Lamarr Organ Trio, DJ Mr. Fishtruck at Beachland Ballroom on Friday, September 19, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13793344/delvon-lamarr-organ-trio-dj-mr-fishtruck]]></description>
+            <link>https://www.beachlandballroom.com/e/13793344/delvon-lamarr-organ-trio-dj-mr-fishtruck</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13793344/delvon-lamarr-organ-trio-dj-mr-fishtruck</guid>
             <pubDate>Fri, 19 Sep 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -651,10 +651,10 @@
             <pubDate>Tue, 30 Sep 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Selwyn Birchwood at Beachland Tavern]]></title>
-            <description><![CDATA[Get tickets to Selwyn Birchwood at Beachland Tavern on Wednesday, October 1, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13915844/selwyn-birchwood]]></description>
-            <link>https://www.beachlandballroom.com/e/13915844/selwyn-birchwood</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13915844/selwyn-birchwood</guid>
+            <title><![CDATA[Selwyn Birchwood, Matt Axton & Badmoon at Beachland Tavern]]></title>
+            <description><![CDATA[Get tickets to Selwyn Birchwood, Matt Axton & Badmoon at Beachland Tavern on Wednesday, October 1, 2025, 08:00 PM: https://www.beachlandballroom.com/e/13915844/selwyn-birchwood-matt-axton-badmoon]]></description>
+            <link>https://www.beachlandballroom.com/e/13915844/selwyn-birchwood-matt-axton-badmoon</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/13915844/selwyn-birchwood-matt-axton-badmoon</guid>
             <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -665,10 +665,10 @@
             <pubDate>Fri, 03 Oct 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Southern Culture On the Skids, Whiskey Daredevils at Beachland Ballroom]]></title>
-            <description><![CDATA[Get tickets to Southern Culture On the Skids, Whiskey Daredevils at Beachland Ballroom on Friday, October 3, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14277353/southern-culture-on-the-skids-whiskey-daredevils]]></description>
-            <link>https://www.beachlandballroom.com/e/14277353/southern-culture-on-the-skids-whiskey-daredevils</link>
-            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14277353/southern-culture-on-the-skids-whiskey-daredevils</guid>
+            <title><![CDATA[Southern Culture On the Skids, The Cowslingers at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Southern Culture On the Skids, The Cowslingers at Beachland Ballroom on Friday, October 3, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14277353/southern-culture-on-the-skids-the-cowslingers]]></description>
+            <link>https://www.beachlandballroom.com/e/14277353/southern-culture-on-the-skids-the-cowslingers</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14277353/southern-culture-on-the-skids-the-cowslingers</guid>
             <pubDate>Fri, 03 Oct 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
@@ -719,6 +719,13 @@
             <link>https://www.beachlandballroom.com/e/13939544/devotional-2025</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/13939544/devotional-2025</guid>
             <pubDate>Sat, 11 Oct 2025 14:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beachland Flea at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Beachland Flea at Beachland Ballroom on Sunday, October 12, 2025, 10:00 AM: https://www.beachlandballroom.com/e/14519293/beachland-flea]]></description>
+            <link>https://www.beachlandballroom.com/e/14519293/beachland-flea</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14519293/beachland-flea</guid>
+            <pubDate>Sun, 12 Oct 2025 10:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesse Roper at Beachland Tavern]]></title>
@@ -845,6 +852,13 @@
             <link>https://www.beachlandballroom.com/e/14347303/arcy-drive-mercury</link>
             <guid isPermaLink="true">https://www.beachlandballroom.com/e/14347303/arcy-drive-mercury</guid>
             <pubDate>Tue, 28 Oct 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dear Silas at Beachland Ballroom]]></title>
+            <description><![CDATA[Get tickets to Dear Silas at Beachland Ballroom on Wednesday, October 29, 2025, 08:00 PM: https://www.beachlandballroom.com/e/14516033/dear-silas]]></description>
+            <link>https://www.beachlandballroom.com/e/14516033/dear-silas</link>
+            <guid isPermaLink="true">https://www.beachlandballroom.com/e/14516033/dear-silas</guid>
+            <pubDate>Wed, 29 Oct 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ashland Craft at Beachland Tavern]]></title>
@@ -1057,48 +1071,6 @@
             <pubDate>Fri, 03 Apr 2026 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Sampled: Doc Martin, Mark Farina, Mike Servito, Chuck Daniels, Stout XYC at Crobar]]></title>
-            <description><![CDATA[Get tickets to Sampled: Doc Martin, Mark Farina, Mike Servito, Chuck Daniels, Stout XYC at Crobar on Sunday, August 23, 2026, 12:00 AM: https://secure.crobar1921.com/event/sampled-crobar]]></description>
-            <link>https://secure.crobar1921.com/event/sampled-crobar</link>
-            <guid isPermaLink="true">https://secure.crobar1921.com/event/sampled-crobar</guid>
-            <pubDate>Sun, 23 Aug 2026 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sound on Tape: amita (NYC), Navy Jayde, Unknownphrazes at Crobar]]></title>
-            <description><![CDATA[Get tickets to Sound on Tape: amita (NYC), Navy Jayde, Unknownphrazes at Crobar on Friday, August 29, 2025, 12:00 AM: https://secure.crobar1921.com/event/sound-on-tape11]]></description>
-            <link>https://secure.crobar1921.com/event/sound-on-tape11</link>
-            <guid isPermaLink="true">https://secure.crobar1921.com/event/sound-on-tape11</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CSU Law Review Fundraiser: 7pm- 10pm at Crobar]]></title>
-            <description><![CDATA[Get tickets to CSU Law Review Fundraiser: 7pm- 10pm at Crobar on Friday, August 29, 2025, 12:00 AM: https://secure.crobar1921.com/event/csu-law-review-fundraiser]]></description>
-            <link>https://secure.crobar1921.com/event/csu-law-review-fundraiser</link>
-            <guid isPermaLink="true">https://secure.crobar1921.com/event/csu-law-review-fundraiser</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Perf: Weso (Boston), Delish, Heather Leah, Joey Sardelle at Crobar]]></title>
-            <description><![CDATA[Get tickets to Perf: Weso (Boston), Delish, Heather Leah, Joey Sardelle at Crobar on Saturday, August 30, 2025, 12:00 AM: https://secure.crobar1921.com/event/perf86]]></description>
-            <link>https://secure.crobar1921.com/event/perf86</link>
-            <guid isPermaLink="true">https://secure.crobar1921.com/event/perf86</guid>
-            <pubDate>Sat, 30 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dirty Pop Party: Bunny, J-Line, Mitchell Madak, Hydra Archive, Marottes at Crobar]]></title>
-            <description><![CDATA[Get tickets to Dirty Pop Party: Bunny, J-Line, Mitchell Madak, Hydra Archive, Marottes at Crobar on Thursday, October 9, 2025, 12:00 AM: https://secure.crobar1921.com/event/dirty-pop-party13]]></description>
-            <link>https://secure.crobar1921.com/event/dirty-pop-party13</link>
-            <guid isPermaLink="true">https://secure.crobar1921.com/event/dirty-pop-party13</guid>
-            <pubDate>Thu, 09 Oct 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guice Mann's "Recliner"  Album Release Party at Dunlap’s Corner Bar]]></title>
-            <description><![CDATA[Get tickets to Guice Mann's "Recliner"  Album Release Party at Dunlap’s Corner Bar on Tuesday, August 26, 2025, 08:00 PM: https://www.dunlapsbar.com/shows/332237]]></description>
-            <link>https://www.dunlapsbar.com/shows/332237</link>
-            <guid isPermaLink="true">https://www.dunlapsbar.com/shows/332237</guid>
-            <pubDate>Tue, 26 Aug 2025 20:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Old Pup, Wrinkled Beige Linen, Sure, Machine at Dunlap’s Corner Bar]]></title>
             <description><![CDATA[Get tickets to Old Pup, Wrinkled Beige Linen, Sure, Machine at Dunlap’s Corner Bar on Thursday, August 28, 2025, 08:00 PM: https://www.dunlapsbar.com/shows/329951]]></description>
             <link>https://www.dunlapsbar.com/shows/329951</link>
@@ -1134,6 +1106,13 @@
             <pubDate>Wed, 03 Sep 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jake Stack, Chris Lugo at Dunlap’s Corner Bar]]></title>
+            <description><![CDATA[Get tickets to Jake Stack, Chris Lugo at Dunlap’s Corner Bar on Friday, September 5, 2025, 08:00 PM: https://www.dunlapsbar.com/shows/332788]]></description>
+            <link>https://www.dunlapsbar.com/shows/332788</link>
+            <guid isPermaLink="true">https://www.dunlapsbar.com/shows/332788</guid>
+            <pubDate>Fri, 05 Sep 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mod Lit, Cruze Campo, Lex Moda at Dunlap’s Corner Bar]]></title>
             <description><![CDATA[Get tickets to Mod Lit, Cruze Campo, Lex Moda at Dunlap’s Corner Bar on Thursday, September 11, 2025, 08:00 PM: https://www.dunlapsbar.com/shows/327180]]></description>
             <link>https://www.dunlapsbar.com/shows/327180</link>
@@ -1146,6 +1125,13 @@
             <link>https://www.dunlapsbar.com/shows/328305</link>
             <guid isPermaLink="true">https://www.dunlapsbar.com/shows/328305</guid>
             <pubDate>Fri, 12 Sep 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beast Killer, Hams, The A-10s at Dunlap’s Corner Bar]]></title>
+            <description><![CDATA[Get tickets to Beast Killer, Hams, The A-10s at Dunlap’s Corner Bar on Saturday, September 13, 2025, 09:00 PM: https://www.dunlapsbar.com/shows/332782]]></description>
+            <link>https://www.dunlapsbar.com/shows/332782</link>
+            <guid isPermaLink="true">https://www.dunlapsbar.com/shows/332782</guid>
+            <pubDate>Sat, 13 Sep 2025 21:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Samantha Henson, Mikey Silas, Ray Flanagan at Dunlap’s Corner Bar]]></title>
@@ -1162,15 +1148,15 @@
             <pubDate>Thu, 23 Oct 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plush, Truss, MORNING IN MAY at Foundry]]></title>
-            <description><![CDATA[Get tickets to Plush, Truss, MORNING IN MAY at Foundry on Tuesday, August 26, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/plush/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/plush/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/plush/</guid>
-            <pubDate>Tue, 26 Aug 2025 19:00:00 GMT</pubDate>
+            <title><![CDATA[Bonnie Trash, The Maxines at Dunlap’s Corner Bar]]></title>
+            <description><![CDATA[Get tickets to Bonnie Trash, The Maxines at Dunlap’s Corner Bar on Tuesday, November 18, 2025, 08:00 PM: https://www.dunlapsbar.com/shows/332768]]></description>
+            <link>https://www.dunlapsbar.com/shows/332768</link>
+            <guid isPermaLink="true">https://www.dunlapsbar.com/shows/332768</guid>
+            <pubDate>Tue, 18 Nov 2025 20:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Oxjaw, Irewyrm, Blood Shift, DJ YELIAD at Foundry]]></title>
-            <description><![CDATA[Get tickets to Oxjaw, Irewyrm, Blood Shift, DJ YELIAD at Foundry on Friday, August 29, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/oxjaw-irewyrm-blood-shift-dj-yeliad/]]></description>
+            <title><![CDATA[Oxjaw, Psycho Plantation, Blood Shift, Irewyrm, DJ YELIAD at Foundry]]></title>
+            <description><![CDATA[Get tickets to Oxjaw, Psycho Plantation, Blood Shift, Irewyrm, DJ YELIAD at Foundry on Friday, August 29, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/oxjaw-irewyrm-blood-shift-dj-yeliad/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/oxjaw-irewyrm-blood-shift-dj-yeliad/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/oxjaw-irewyrm-blood-shift-dj-yeliad/</guid>
             <pubDate>Fri, 29 Aug 2025 19:00:00 GMT</pubDate>
@@ -1216,20 +1202,6 @@
             <link>https://www.foundryconcertclub.com/tm-event/nocturnal/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/nocturnal/</guid>
             <pubDate>Sat, 13 Sep 2025 21:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snuffed On Sight, Lie In Wait, Curbed at Foundry]]></title>
-            <description><![CDATA[Get tickets to Snuffed On Sight, Lie In Wait, Curbed at Foundry on Tuesday, September 16, 2025, 06:00 PM: https://www.foundryconcertclub.com/tm-event/snuffed-on-sight-lie-in-wait-curbed/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/snuffed-on-sight-lie-in-wait-curbed/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/snuffed-on-sight-lie-in-wait-curbed/</guid>
-            <pubDate>Tue, 16 Sep 2025 18:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stoneburner at Foundry]]></title>
-            <description><![CDATA[Get tickets to Stoneburner at Foundry on Wednesday, September 17, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/stoneburner/]]></description>
-            <link>https://www.foundryconcertclub.com/tm-event/stoneburner/</link>
-            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/stoneburner/</guid>
-            <pubDate>Wed, 17 Sep 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Snuffed On Sight, Lie In Wait, Curbed at Foundry]]></title>
@@ -1295,6 +1267,13 @@
             <pubDate>Sun, 28 Sep 2025 18:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kids on Fire, Libcor, Church & State at Foundry]]></title>
+            <description><![CDATA[Get tickets to Kids on Fire, Libcor, Church & State at Foundry on Tuesday, September 30, 2025, 06:30 PM: https://www.foundryconcertclub.com/tm-event/kids-on-fire-libcor-church-state/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/kids-on-fire-libcor-church-state/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/kids-on-fire-libcor-church-state/</guid>
+            <pubDate>Tue, 30 Sep 2025 18:30:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mind's Eye, Hot Flash Heat Wave, Sad Park at Foundry]]></title>
             <description><![CDATA[Get tickets to Mind's Eye, Hot Flash Heat Wave, Sad Park at Foundry on Wednesday, October 1, 2025, 07:00 PM: https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/]]></description>
             <link>https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/</link>
@@ -1328,6 +1307,20 @@
             <link>https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/</link>
             <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/</guid>
             <pubDate>Wed, 15 Oct 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brokencyde, Dot Dot Curve, From This Day Forward, Zombie Fashion Show, MORNING IN MAY, Thrapple, Novela at Foundry]]></title>
+            <description><![CDATA[Get tickets to Brokencyde, Dot Dot Curve, From This Day Forward, Zombie Fashion Show, MORNING IN MAY, Thrapple, Novela at Foundry on Wednesday, October 15, 2025, 06:00 PM: https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/</guid>
+            <pubDate>Wed, 15 Oct 2025 18:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HALLOWEEN FREAKSHOW 2025 at Foundry]]></title>
+            <description><![CDATA[Get tickets to HALLOWEEN FREAKSHOW 2025 at Foundry on Saturday, October 18, 2025, 02:30 PM: https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/]]></description>
+            <link>https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/</link>
+            <guid isPermaLink="true">https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/</guid>
+            <pubDate>Sat, 18 Oct 2025 14:30:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Off With Their Heads, SMUG, Pippsy Pinwheel, NMA at Foundry]]></title>
@@ -1624,13 +1617,6 @@
             <pubDate>Wed, 28 Jan 2026 19:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tetchy, Cool Party, Thrapple at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Tetchy, Cool Party, Thrapple at Grog Shop on Tuesday, August 26, 2025, 12:00 AM: https://grogshop.gs/tm-event/tetchy/]]></description>
-            <link>https://grogshop.gs/tm-event/tetchy/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/tetchy/</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rebirth Brass Band, Quenton Rubin & QRB at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Rebirth Brass Band, Quenton Rubin & QRB at Grog Shop on Wednesday, August 27, 2025, 12:00 AM: https://grogshop.gs/tm-event/rebirth-brass-band/]]></description>
             <link>https://grogshop.gs/tm-event/rebirth-brass-band/</link>
@@ -1701,17 +1687,17 @@
             <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fu Manchu, Year of the Cobra at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Fu Manchu, Year of the Cobra at Grog Shop on Thursday, September 11, 2025, 12:00 AM: https://grogshop.gs/tm-event/fu-manchu/]]></description>
-            <link>https://grogshop.gs/tm-event/fu-manchu/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/fu-manchu/</guid>
-            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Momma: Welcome To My Blue Sky Tour, villagerrr at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Momma: Welcome To My Blue Sky Tour, villagerrr at Grog Shop on Thursday, September 11, 2025, 12:00 AM: https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/]]></description>
             <link>https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fu Manchu, Year of the Cobra at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Fu Manchu, Year of the Cobra at Grog Shop on Thursday, September 11, 2025, 12:00 AM: https://grogshop.gs/tm-event/fu-manchu/]]></description>
+            <link>https://grogshop.gs/tm-event/fu-manchu/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/fu-manchu/</guid>
             <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1736,17 +1722,17 @@
             <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Brian Jonestown Massacre at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to The Brian Jonestown Massacre at Grog Shop on Tuesday, September 16, 2025, 12:00 AM: https://grogshop.gs/tm-event/the-brian-jonestown-massacre/]]></description>
-            <link>https://grogshop.gs/tm-event/the-brian-jonestown-massacre/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/the-brian-jonestown-massacre/</guid>
-            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Saving Abel, Dead Sugar, Lilieae, The Daze at Grog Shop]]></title>
             <description><![CDATA[Get tickets to Saving Abel, Dead Sugar, Lilieae, The Daze at Grog Shop on Tuesday, September 16, 2025, 12:00 AM: https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/]]></description>
             <link>https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/</guid>
+            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Brian Jonestown Massacre at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to The Brian Jonestown Massacre at Grog Shop on Tuesday, September 16, 2025, 12:00 AM: https://grogshop.gs/tm-event/the-brian-jonestown-massacre/]]></description>
+            <link>https://grogshop.gs/tm-event/the-brian-jonestown-massacre/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/the-brian-jonestown-massacre/</guid>
             <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -1827,17 +1813,17 @@
             <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Godspeed You! Black Emperor at Grog Shop]]></title>
-            <description><![CDATA[Get tickets to Godspeed You! Black Emperor at Grog Shop on Sunday, September 28, 2025, 12:00 AM: https://grogshop.gs/tm-event/godspeed-you-black-emperor/]]></description>
-            <link>https://grogshop.gs/tm-event/godspeed-you-black-emperor/</link>
-            <guid isPermaLink="true">https://grogshop.gs/tm-event/godspeed-you-black-emperor/</guid>
-            <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[empire! empire! (i was a lonely estate) Reunion, Emperor X, Runaway Brother, Wig Doubt at Grog Shop]]></title>
             <description><![CDATA[Get tickets to empire! empire! (i was a lonely estate) Reunion, Emperor X, Runaway Brother, Wig Doubt at Grog Shop on Sunday, September 28, 2025, 12:00 AM: https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/]]></description>
             <link>https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/</link>
             <guid isPermaLink="true">https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/</guid>
+            <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Godspeed You! Black Emperor at Grog Shop]]></title>
+            <description><![CDATA[Get tickets to Godspeed You! Black Emperor at Grog Shop on Sunday, September 28, 2025, 12:00 AM: https://grogshop.gs/tm-event/godspeed-you-black-emperor/]]></description>
+            <link>https://grogshop.gs/tm-event/godspeed-you-black-emperor/</link>
+            <guid isPermaLink="true">https://grogshop.gs/tm-event/godspeed-you-black-emperor/</guid>
             <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2093,13 +2079,6 @@
             <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Future of Cleveland Media: Finding community in a post-media world at Happy Dog]]></title>
-            <description><![CDATA[Get tickets to The Future of Cleveland Media: Finding community in a post-media world at Happy Dog on Tuesday, August 26, 2025, 12:00 AM: https://app.opendate.io/e/the-future-of-cleveland-media-finding-community-in-a-post-media-world-august-26-2025-622627]]></description>
-            <link>https://app.opendate.io/e/the-future-of-cleveland-media-finding-community-in-a-post-media-world-august-26-2025-622627</link>
-            <guid isPermaLink="true">https://app.opendate.io/e/the-future-of-cleveland-media-finding-community-in-a-post-media-world-august-26-2025-622627</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Tomorrow, Tonight!  With Elliot Jarrous! at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Tomorrow, Tonight!  With Elliot Jarrous! at Happy Dog on Wednesday, August 27, 2025, 12:00 AM: https://app.opendate.io/e/tomorrow-tonight-with-elliot-jarrous-august-27-2025-618865]]></description>
             <link>https://app.opendate.io/e/tomorrow-tonight-with-elliot-jarrous-august-27-2025-618865</link>
@@ -2133,6 +2112,13 @@
             <link>https://app.opendate.io/e/tear-dungeon-south-reach-fuss-september-02-2025-610704</link>
             <guid isPermaLink="true">https://app.opendate.io/e/tear-dungeon-south-reach-fuss-september-02-2025-610704</guid>
             <pubDate>Tue, 02 Sep 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Clementine, Wig Doubt, Cellophane Jane at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Clementine, Wig Doubt, Cellophane Jane at Happy Dog on Thursday, September 4, 2025, 12:00 AM: https://app.opendate.io/e/clementine-wig-doubt-cellophane-jane-september-04-2025-624348]]></description>
+            <link>https://app.opendate.io/e/clementine-wig-doubt-cellophane-jane-september-04-2025-624348</link>
+            <guid isPermaLink="true">https://app.opendate.io/e/clementine-wig-doubt-cellophane-jane-september-04-2025-624348</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Molly Nilsson, Air Waves, Suitor, Adam Klopp at Happy Dog]]></title>
@@ -2205,6 +2191,13 @@
             <pubDate>Sat, 20 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Just Alone, Sick City, Skeleton Drive at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Just Alone, Sick City, Skeleton Drive at Happy Dog on Tuesday, September 23, 2025, 12:00 AM: https://app.opendate.io/e/just-alone-sick-city-skeleton-drive-september-23-2025-624327]]></description>
+            <link>https://app.opendate.io/e/just-alone-sick-city-skeleton-drive-september-23-2025-624327</link>
+            <guid isPermaLink="true">https://app.opendate.io/e/just-alone-sick-city-skeleton-drive-september-23-2025-624327</guid>
+            <pubDate>Tue, 23 Sep 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Mud Whale, Pretty Pretty Awful, Trollop, Girl in the Shade - A benefit for the Cleveland Trans Collective at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Mud Whale, Pretty Pretty Awful, Trollop, Girl in the Shade - A benefit for the Cleveland Trans Collective at Happy Dog on Friday, September 26, 2025, 12:00 AM: https://app.opendate.io/e/mud-whale-pretty-pretty-awful-trollop-girl-in-the-shade-a-benefit-for-the-cleveland-trans-collective-september-26-2025-619373]]></description>
             <link>https://app.opendate.io/e/mud-whale-pretty-pretty-awful-trollop-girl-in-the-shade-a-benefit-for-the-cleveland-trans-collective-september-26-2025-619373</link>
@@ -2233,11 +2226,25 @@
             <pubDate>Fri, 17 Oct 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Madman, Primitive Impulse, Muzzle, The Smoke - a Ripperfest Fundraiser at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Madman, Primitive Impulse, Muzzle, The Smoke - a Ripperfest Fundraiser at Happy Dog on Saturday, October 18, 2025, 12:00 AM: https://app.opendate.io/e/madman-primitive-impulse-muzzle-the-smoke-a-ripperfest-fundraiser-october-18-2025-624345]]></description>
+            <link>https://app.opendate.io/e/madman-primitive-impulse-muzzle-the-smoke-a-ripperfest-fundraiser-october-18-2025-624345</link>
+            <guid isPermaLink="true">https://app.opendate.io/e/madman-primitive-impulse-muzzle-the-smoke-a-ripperfest-fundraiser-october-18-2025-624345</guid>
+            <pubDate>Sat, 18 Oct 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Minibeast, Whatever, Hyper Viper at Happy Dog]]></title>
             <description><![CDATA[Get tickets to Minibeast, Whatever, Hyper Viper at Happy Dog on Saturday, November 15, 2025, 12:00 AM: https://app.opendate.io/e/minibeast-whatever-hyper-viper-november-15-2025-622450]]></description>
             <link>https://app.opendate.io/e/minibeast-whatever-hyper-viper-november-15-2025-622450</link>
             <guid isPermaLink="true">https://app.opendate.io/e/minibeast-whatever-hyper-viper-november-15-2025-622450</guid>
             <pubDate>Sat, 15 Nov 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grumpy Plum, Who Saved Who, Crown Shy at Happy Dog]]></title>
+            <description><![CDATA[Get tickets to Grumpy Plum, Who Saved Who, Crown Shy at Happy Dog on Saturday, November 29, 2025, 12:00 AM: https://app.opendate.io/e/grumpy-plum-who-saved-who-crown-shy-november-29-2025-624346]]></description>
+            <link>https://app.opendate.io/e/grumpy-plum-who-saved-who-crown-shy-november-29-2025-624346</link>
+            <guid isPermaLink="true">https://app.opendate.io/e/grumpy-plum-who-saved-who-crown-shy-november-29-2025-624346</guid>
+            <pubDate>Sat, 29 Nov 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@playboyscouts, @officiallyzachbryson, @marisamadden at Little Rose Tavern]]></title>
@@ -2259,13 +2266,6 @@
             <link>https://dice.fm/event/685c22005f47e600012302be</link>
             <guid isPermaLink="true">https://dice.fm/event/685c22005f47e600012302be</guid>
             <pubDate>Wed, 27 Aug 2025 23:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grant at Mahall's]]></title>
-            <description><![CDATA[Get tickets to Grant at Mahall's on Thursday, August 28, 2025, 11:00 PM: https://dice.fm/event/68878b7b5dc3540001b9fe24]]></description>
-            <link>https://dice.fm/event/68878b7b5dc3540001b9fe24</link>
-            <guid isPermaLink="true">https://dice.fm/event/68878b7b5dc3540001b9fe24</guid>
-            <pubDate>Thu, 28 Aug 2025 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stay Gone at Mahall's]]></title>
@@ -2331,17 +2331,17 @@
             <pubDate>Thu, 11 Sep 2025 22:30:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russian Circles at The Roxy at Mahall's]]></title>
-            <description><![CDATA[Get tickets to Russian Circles at The Roxy at Mahall's on Friday, September 12, 2025, 11:00 PM: https://dice.fm/event/685992d1b0ba170001f6b026]]></description>
-            <link>https://dice.fm/event/685992d1b0ba170001f6b026</link>
-            <guid isPermaLink="true">https://dice.fm/event/685992d1b0ba170001f6b026</guid>
-            <pubDate>Fri, 12 Sep 2025 23:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Motherfolk at Mahall's]]></title>
             <description><![CDATA[Get tickets to Motherfolk at Mahall's on Friday, September 12, 2025, 11:00 PM: https://dice.fm/event/680b9c7428f65900017320e8]]></description>
             <link>https://dice.fm/event/680b9c7428f65900017320e8</link>
             <guid isPermaLink="true">https://dice.fm/event/680b9c7428f65900017320e8</guid>
+            <pubDate>Fri, 12 Sep 2025 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian Circles at The Roxy at Mahall's]]></title>
+            <description><![CDATA[Get tickets to Russian Circles at The Roxy at Mahall's on Friday, September 12, 2025, 11:00 PM: https://dice.fm/event/685992d1b0ba170001f6b026]]></description>
+            <link>https://dice.fm/event/685992d1b0ba170001f6b026</link>
+            <guid isPermaLink="true">https://dice.fm/event/685992d1b0ba170001f6b026</guid>
             <pubDate>Fri, 12 Sep 2025 23:00:00 GMT</pubDate>
         </item>
         <item>
@@ -2364,6 +2364,13 @@
             <link>https://dice.fm/event/68a610996d0bb9000100815d</link>
             <guid isPermaLink="true">https://dice.fm/event/68a610996d0bb9000100815d</guid>
             <pubDate>Sun, 14 Sep 2025 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Waxahatchee at The Roxy at Mahall's]]></title>
+            <description><![CDATA[Get tickets to Waxahatchee at The Roxy at Mahall's on Tuesday, September 16, 2025, 11:00 PM: https://dice.fm/event/68acd6673a2afc00011cc63a]]></description>
+            <link>https://dice.fm/event/68acd6673a2afc00011cc63a</link>
+            <guid isPermaLink="true">https://dice.fm/event/68acd6673a2afc00011cc63a</guid>
+            <pubDate>Tue, 16 Sep 2025 23:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sarah and the Safe Word at Mahall's]]></title>
@@ -2877,13 +2884,6 @@
             <pubDate>Mon, 15 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Waxahatchee at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Waxahatchee at Masonic Temple on Tuesday, September 16, 2025, 12:00 AM: https://www.templelive.com/tm-event/waxahatchee/]]></description>
-            <link>https://www.templelive.com/tm-event/waxahatchee/</link>
-            <guid isPermaLink="true">https://www.templelive.com/tm-event/waxahatchee/</guid>
-            <pubDate>Tue, 16 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Extraordinary Card Magic of Jason Ladanye at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to The Extraordinary Card Magic of Jason Ladanye at Masonic Temple on Thursday, September 18, 2025, 12:00 AM: https://www.templelive.com/tm-event/extraordinary-magic-of-jason-ladayne/]]></description>
             <link>https://www.templelive.com/tm-event/extraordinary-magic-of-jason-ladayne/</link>
@@ -2898,17 +2898,17 @@
             <pubDate>Sat, 20 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Amy Bruni at Masonic Temple]]></title>
-            <description><![CDATA[Get tickets to Amy Bruni at Masonic Temple on Saturday, September 27, 2025, 12:00 AM: https://www.templelive.com/tm-event/amy-bruni-2/]]></description>
-            <link>https://www.templelive.com/tm-event/amy-bruni-2/</link>
-            <guid isPermaLink="true">https://www.templelive.com/tm-event/amy-bruni-2/</guid>
-            <pubDate>Sat, 27 Sep 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Amy Bruni VIP Meet & Greet Add-On at Masonic Temple]]></title>
             <description><![CDATA[Get tickets to Amy Bruni VIP Meet & Greet Add-On at Masonic Temple on Saturday, September 27, 2025, 12:00 AM: https://www.templelive.com/tm-event/amy-bruni-vip-meet-greet-add-on-2/]]></description>
             <link>https://www.templelive.com/tm-event/amy-bruni-vip-meet-greet-add-on-2/</link>
             <guid isPermaLink="true">https://www.templelive.com/tm-event/amy-bruni-vip-meet-greet-add-on-2/</guid>
+            <pubDate>Sat, 27 Sep 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amy Bruni at Masonic Temple]]></title>
+            <description><![CDATA[Get tickets to Amy Bruni at Masonic Temple on Saturday, September 27, 2025, 12:00 AM: https://www.templelive.com/tm-event/amy-bruni-2/]]></description>
+            <link>https://www.templelive.com/tm-event/amy-bruni-2/</link>
+            <guid isPermaLink="true">https://www.templelive.com/tm-event/amy-bruni-2/</guid>
             <pubDate>Sat, 27 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
@@ -3024,6 +3024,13 @@
             <pubDate>Thu, 28 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Flock of Moons, Evil Robot, & Papers at Mercury Music Lounge]]></title>
+            <description><![CDATA[Get tickets to Flock of Moons, Evil Robot, & Papers at Mercury Music Lounge on Saturday, August 30, 2025, 12:00 AM: https://www.mercurymusiclakewood.com/tm-event/flock-of-moons-evil-robot-papers/]]></description>
+            <link>https://www.mercurymusiclakewood.com/tm-event/flock-of-moons-evil-robot-papers/</link>
+            <guid isPermaLink="true">https://www.mercurymusiclakewood.com/tm-event/flock-of-moons-evil-robot-papers/</guid>
+            <pubDate>Sat, 30 Aug 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Catatoneya, Rustic Skies, & The Battle at Mercury Music Lounge]]></title>
             <description><![CDATA[Get tickets to Catatoneya, Rustic Skies, & The Battle at Mercury Music Lounge on Sunday, August 31, 2025, 12:00 AM: https://www.mercurymusiclakewood.com/tm-event/catatoneya-rustic-skies-the-battle/]]></description>
             <link>https://www.mercurymusiclakewood.com/tm-event/catatoneya-rustic-skies-the-battle/</link>
@@ -3064,6 +3071,13 @@
             <link>https://www.mercurymusiclakewood.com/tm-event/small-town-titans-im-not-done-tour/</link>
             <guid isPermaLink="true">https://www.mercurymusiclakewood.com/tm-event/small-town-titans-im-not-done-tour/</guid>
             <pubDate>Thu, 18 Sep 2025 00:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rhapsody of Fire, Enforcer, Striker, Witherfall at Mercury Music Lounge]]></title>
+            <description><![CDATA[Get tickets to Rhapsody of Fire, Enforcer, Striker, Witherfall at Mercury Music Lounge on Friday, September 19, 2025, 12:00 AM: https://www.mercurymusiclakewood.com/tm-event/rhapsody-of-fire-enforcer-striker-witherfall/]]></description>
+            <link>https://www.mercurymusiclakewood.com/tm-event/rhapsody-of-fire-enforcer-striker-witherfall/</link>
+            <guid isPermaLink="true">https://www.mercurymusiclakewood.com/tm-event/rhapsody-of-fire-enforcer-striker-witherfall/</guid>
+            <pubDate>Fri, 19 Sep 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rhapsody of Fire, Enforcer, Striker, Witherfall at Mercury Music Lounge]]></title>
@@ -3190,13 +3204,6 @@
             <link>https://www.mercurymusiclakewood.com/tm-event/ekoh-w-arankai-guests/</link>
             <guid isPermaLink="true">https://www.mercurymusiclakewood.com/tm-event/ekoh-w-arankai-guests/</guid>
             <pubDate>Fri, 05 Dec 2025 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gregory Alan Isakov, Ocie Elliott at Jacobs Pavilion at Nautica]]></title>
-            <description><![CDATA[Get tickets to Gregory Alan Isakov, Ocie Elliott at Jacobs Pavilion at Nautica on Tuesday, August 26, 2025, 12:00 AM: https://www.jacobspavilion.com/events/detail?event_id=845410]]></description>
-            <link>https://www.jacobspavilion.com/events/detail?event_id=845410</link>
-            <guid isPermaLink="true">https://www.jacobspavilion.com/events/detail?event_id=845410</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I'm From Cleveland Arts & Music Festival, Austin Millz, Tropidelic, E-V, ySn Flow, Chelsea Pastel, Conor Michael Smith, MaryJo, Auntie Piggy, Freshie, YT, Steph Floss, JUST AJ at Jacobs Pavilion at Nautica]]></title>
@@ -3603,13 +3610,6 @@
             <link>https://www.playhousesquare.org/events/detail/the-music-of-hans-zimmer-performed-by-lords-of-the-sound</link>
             <guid isPermaLink="true">https://www.playhousesquare.org/events/detail/the-music-of-hans-zimmer-performed-by-lords-of-the-sound</guid>
             <pubDate>Sat, 14 Mar 2026 00:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benson Boone: American Heart World Tour, Elliot James Reay at Rocket Arena]]></title>
-            <description><![CDATA[Get tickets to Benson Boone: American Heart World Tour, Elliot James Reay at Rocket Arena on Tuesday, August 26, 2025, 12:00 AM: https://www.rocketarena.com/events/detail/benson-boone-250826]]></description>
-            <link>https://www.rocketarena.com/events/detail/benson-boone-250826</link>
-            <guid isPermaLink="true">https://www.rocketarena.com/events/detail/benson-boone-250826</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tate McRae: Miss Possessive Tour, Zara Larsson at Rocket Arena]]></title>
@@ -4065,6 +4065,13 @@
             <link>https://www.ticketweb.com/event/smells-like-nirvana-the-winchester-tickets/14498593</link>
             <guid isPermaLink="true">https://www.ticketweb.com/event/smells-like-nirvana-the-winchester-tickets/14498593</guid>
             <pubDate>Fri, 19 Sep 2025 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[97 Crosses – John Mellencamp Tribute at Winchester Tavern]]></title>
+            <description><![CDATA[Get tickets to 97 Crosses – John Mellencamp Tribute at Winchester Tavern on Sunday, September 21, 2025, 07:00 PM: https://www.ticketweb.com/event/97-crosses-john-the-winchester-tickets/14517983]]></description>
+            <link>https://www.ticketweb.com/event/97-crosses-john-the-winchester-tickets/14517983</link>
+            <guid isPermaLink="true">https://www.ticketweb.com/event/97-crosses-john-the-winchester-tickets/14517983</guid>
+            <pubDate>Sun, 21 Sep 2025 19:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SMILE EMPTY SOUL at Winchester Tavern]]></title>

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Future of Cleveland Media: Finding community in a post-media world"
-    ],
-    "link": "https://app.opendate.io/e/the-future-of-cleveland-media-finding-community-in-a-post-media-world-august-26-2025-622627",
-    "date": "2025-08-26T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Tomorrow, Tonight!  With Elliot Jarrous!"
     ],
     "link": "https://app.opendate.io/e/tomorrow-tonight-with-elliot-jarrous-august-27-2025-618865",
@@ -45,6 +37,14 @@
     ],
     "link": "https://app.opendate.io/e/tear-dungeon-south-reach-fuss-september-02-2025-610704",
     "date": "2025-09-02T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Clementine, Wig Doubt, Cellophane Jane"
+    ],
+    "link": "https://app.opendate.io/e/clementine-wig-doubt-cellophane-jane-september-04-2025-624348",
+    "date": "2025-09-04T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "Just Alone, Sick City, Skeleton Drive"
+    ],
+    "link": "https://app.opendate.io/e/just-alone-sick-city-skeleton-drive-september-23-2025-624327",
+    "date": "2025-09-23T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Mud Whale, Pretty Pretty Awful, Trollop, Girl in the Shade - A benefit for the Cleveland Trans Collective"
     ],
     "link": "https://app.opendate.io/e/mud-whale-pretty-pretty-awful-trollop-girl-in-the-shade-a-benefit-for-the-cleveland-trans-collective-september-26-2025-619373",
@@ -161,10 +169,26 @@
   },
   {
     "artist": [
+      "Madman, Primitive Impulse, Muzzle, The Smoke - a Ripperfest Fundraiser"
+    ],
+    "link": "https://app.opendate.io/e/madman-primitive-impulse-muzzle-the-smoke-a-ripperfest-fundraiser-october-18-2025-624345",
+    "date": "2025-10-18T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Minibeast, Whatever, Hyper Viper"
     ],
     "link": "https://app.opendate.io/e/minibeast-whatever-hyper-viper-november-15-2025-622450",
     "date": "2025-11-15T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Grumpy Plum, Who Saved Who, Crown Shy"
+    ],
+    "link": "https://app.opendate.io/e/grumpy-plum-who-saved-who-crown-shy-november-29-2025-624346",
+    "date": "2025-11-29T00:00:01",
     "venue": "Happy Dog"
   }
 ]

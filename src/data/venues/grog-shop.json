@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Tetchy",
-      "Cool Party",
-      "Thrapple"
-    ],
-    "link": "https://grogshop.gs/tm-event/tetchy/",
-    "date": "2025-08-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Rebirth Brass Band",
       "Quenton Rubin & QRB"
     ],
@@ -119,19 +109,19 @@
   },
   {
     "artist": [
-      "Fu Manchu",
-      "Year of the Cobra"
+      "Momma: Welcome To My Blue Sky Tour",
+      "villagerrr"
     ],
-    "link": "https://grogshop.gs/tm-event/fu-manchu/",
+    "link": "https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/",
     "date": "2025-09-11",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Momma: Welcome To My Blue Sky Tour",
-      "villagerrr"
+      "Fu Manchu",
+      "Year of the Cobra"
     ],
-    "link": "https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/",
+    "link": "https://grogshop.gs/tm-event/fu-manchu/",
     "date": "2025-09-11",
     "venue": "Grog Shop"
   },
@@ -166,20 +156,20 @@
   },
   {
     "artist": [
-      "The Brian Jonestown Massacre"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
-    "date": "2025-09-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Saving Abel",
       "Dead Sugar",
       "Lilieae",
       "The Daze"
     ],
     "link": "https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/",
+    "date": "2025-09-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Brian Jonestown Massacre"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
     "date": "2025-09-16",
     "venue": "Grog Shop"
   },
@@ -291,20 +281,20 @@
   },
   {
     "artist": [
-      "Godspeed You! Black Emperor"
-    ],
-    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
-    "date": "2025-09-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "empire! empire! (i was a lonely estate) Reunion",
       "Emperor X",
       "Runaway Brother",
       "Wig Doubt"
     ],
     "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Godspeed You! Black Emperor"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },

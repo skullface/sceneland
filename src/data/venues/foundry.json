@@ -1,15 +1,7 @@
 [
   {
     "artist": [
-      "Plush, Truss, MORNING IN MAY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/plush/",
-    "date": "2025-08-26T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Oxjaw, Irewyrm, Blood Shift, DJ YELIAD"
+      "Oxjaw, Psycho Plantation, Blood Shift, Irewyrm, DJ YELIAD"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/oxjaw-irewyrm-blood-shift-dj-yeliad/",
     "date": "2025-08-29T19:00:00",
@@ -61,22 +53,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
     "date": "2025-09-13T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Snuffed On Sight, Lie In Wait, Curbed"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/snuffed-on-sight-lie-in-wait-curbed/",
-    "date": "2025-09-16T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Stoneburner"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/stoneburner/",
-    "date": "2025-09-17T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -153,6 +129,14 @@
   },
   {
     "artist": [
+      "Kids on Fire, Libcor, Church & State"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/kids-on-fire-libcor-church-state/",
+    "date": "2025-09-30T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Mind's Eye, Hot Flash Heat Wave, Sad Park"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/",
@@ -189,6 +173,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/",
     "date": "2025-10-15T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Brokencyde, Dot Dot Curve, From This Day Forward, Zombie Fashion Show, MORNING IN MAY, Thrapple, Novela"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/",
+    "date": "2025-10-15T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "HALLOWEEN FREAKSHOW 2025"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/",
+    "date": "2025-10-18T14:30:00",
     "venue": "Foundry"
   },
   {

@@ -9,14 +9,6 @@
   },
   {
     "artist": [
-      "Grant"
-    ],
-    "link": "https://dice.fm/event/68878b7b5dc3540001b9fe24",
-    "date": "2025-08-28T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Stay Gone"
     ],
     "link": "https://dice.fm/event/683615524d878f0001f5ee4c",
@@ -89,19 +81,19 @@
   },
   {
     "artist": [
-      "Russian Circles"
-    ],
-    "link": "https://dice.fm/event/685992d1b0ba170001f6b026",
-    "date": "2025-09-12T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
-  },
-  {
-    "artist": [
       "Motherfolk"
     ],
     "link": "https://dice.fm/event/680b9c7428f65900017320e8",
     "date": "2025-09-12T19:00:00-04:00",
     "venue": "Mahall's"
+  },
+  {
+    "artist": [
+      "Russian Circles"
+    ],
+    "link": "https://dice.fm/event/685992d1b0ba170001f6b026",
+    "date": "2025-09-12T19:00:00-04:00",
+    "venue": "The Roxy at Mahall's"
   },
   {
     "artist": [
@@ -126,6 +118,14 @@
     "link": "https://dice.fm/event/68a610996d0bb9000100815d",
     "date": "2025-09-14T11:00:00-04:00",
     "venue": "Mahall's"
+  },
+  {
+    "artist": [
+      "Waxahatchee"
+    ],
+    "link": "https://dice.fm/event/68acd6673a2afc00011cc63a",
+    "date": "2025-09-16T19:00:00-04:00",
+    "venue": "The Roxy at Mahall's"
   },
   {
     "artist": [

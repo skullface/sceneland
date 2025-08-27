@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Guice Mann's \"Recliner\"  Album Release Party"
-    ],
-    "link": "https://www.dunlapsbar.com/shows/332237",
-    "date": "2025-08-26T20:00:00",
-    "venue": "Dunlap\u2019s Corner Bar"
-  },
-  {
-    "artist": [
       "Old Pup",
       "Wrinkled Beige Linen",
       "Sure, Machine"
@@ -58,6 +50,15 @@
   },
   {
     "artist": [
+      "Jake Stack",
+      "Chris Lugo"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/332788",
+    "date": "2025-09-05T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
       "Mod Lit",
       "Cruze Campo",
       "Lex Moda"
@@ -72,6 +73,16 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/328305",
     "date": "2025-09-12T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Beast Killer",
+      "Hams",
+      "The A-10s"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/332782",
+    "date": "2025-09-13T21:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
   {
@@ -92,6 +103,15 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/332384",
     "date": "2025-10-23T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Bonnie Trash",
+      "The Maxines"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/332768",
+    "date": "2025-11-18T20:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   }
 ]

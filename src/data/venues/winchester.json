@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BOOZY BINGO (PLANT)"
-    ],
-    "link": "https://www.ticketweb.com/event/boozy-bingo-plant-the-winchester-tickets/14515613",
-    "date": "2025-08-27T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "The Warped Band"
     ],
     "link": "https://www.ticketweb.com/event/the-warped-band-the-winchester-tickets/13786994",
@@ -189,6 +181,14 @@
     ],
     "link": "https://www.ticketweb.com/event/the-brokes-the-strokes-experience-the-winchester-tickets/13884204",
     "date": "2025-11-11T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Austin Meade x Elvie Shane"
+    ],
+    "link": "https://www.ticketweb.com/event/austin-meade-x-elvie-shane-the-winchester-tickets/14518663",
+    "date": "2025-11-14T19:00:00",
     "venue": "Winchester Tavern"
   },
   {

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Rebirth Brass Band",
-      "Quenton Rubin & QRB"
-    ],
-    "link": "https://grogshop.gs/tm-event/rebirth-brass-band/",
-    "date": "2025-08-27",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Vindicator",
       "Graveripper",
       "Pagan Impaler",
@@ -281,20 +272,20 @@
   },
   {
     "artist": [
+      "Godspeed You! Black Emperor"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "empire! empire! (i was a lonely estate) Reunion",
       "Emperor X",
       "Runaway Brother",
       "Wig Doubt"
     ],
     "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
-    "date": "2025-09-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Godspeed You! Black Emperor"
-    ],
-    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },
@@ -428,6 +419,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/skuff-micksun-tobyraps-sell-out-the-grog-shop-wsg-two-mile-moon/",
     "date": "2025-10-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Beauty School Dropout"
+    ],
+    "link": "https://grogshop.gs/tm-event/beauty-school-dropout/",
+    "date": "2025-10-19",
     "venue": "Grog Shop"
   },
   {

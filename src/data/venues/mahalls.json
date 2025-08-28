@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Radioactivity "
-    ],
-    "link": "https://dice.fm/event/685c22005f47e600012302be",
-    "date": "2025-08-27T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Stay Gone"
     ],
     "link": "https://dice.fm/event/683615524d878f0001f5ee4c",
@@ -121,19 +113,19 @@
   },
   {
     "artist": [
-      "Waxahatchee"
-    ],
-    "link": "https://dice.fm/event/68acd6673a2afc00011cc63a",
-    "date": "2025-09-16T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
-  },
-  {
-    "artist": [
       "Sarah and the Safe Word"
     ],
     "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
     "date": "2025-09-16T19:00:00-04:00",
     "venue": "Mahall's"
+  },
+  {
+    "artist": [
+      "Waxahatchee"
+    ],
+    "link": "https://dice.fm/event/68acd6673a2afc00011cc63a",
+    "date": "2025-09-16T19:00:00-04:00",
+    "venue": "The Roxy at Mahall's"
   },
   {
     "artist": [
@@ -314,19 +306,19 @@
   },
   {
     "artist": [
-      "Real Estate: A Celebration of ATLAS"
-    ],
-    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
-  },
-  {
-    "artist": [
       "Warmduscher"
     ],
     "link": "https://dice.fm/event/683a0c5ca82780000146a946",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "Mahall's"
+  },
+  {
+    "artist": [
+      "Real Estate: A Celebration of ATLAS"
+    ],
+    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall's"
   },
   {
     "artist": [

@@ -25,22 +25,7 @@ export type GeographicTag = typeof TAG_ORDER[number]
 
 // Helper function to get geographic tag for a venue
 export function getVenueTag(venueName: string): GeographicTag {
-  const mappedVenue = VENUE_MAPPINGS[venueName] || venueName
-
-  // First try to find the mapped venue name in metadata
-  for (const [venue, tags] of Object.entries(venueMetadata)) {
-    if (
-      venue === mappedVenue &&
-      tags &&
-      Array.isArray(tags) &&
-      tags.length > 0 &&
-      tags[0]
-    ) {
-      return tags[0] as GeographicTag
-    }
-  }
-
-  // If not found, try the original venue name
+  // First try to find the venue name directly in metadata
   for (const [venue, tags] of Object.entries(venueMetadata)) {
     if (
       venue === venueName &&
@@ -50,6 +35,22 @@ export function getVenueTag(venueName: string): GeographicTag {
       tags[0]
     ) {
       return tags[0] as GeographicTag
+    }
+  }
+
+  // If not found, try to map the venue name and look up the mapped version
+  const mappedVenue = VENUE_MAPPINGS[venueName] || venueName
+  if (mappedVenue !== venueName) {
+    for (const [venue, tags] of Object.entries(venueMetadata)) {
+      if (
+        venue === mappedVenue &&
+        tags &&
+        Array.isArray(tags) &&
+        tags.length > 0 &&
+        tags[0]
+      ) {
+        return tags[0] as GeographicTag
+      }
     }
   }
 
@@ -75,11 +76,12 @@ export function formatTag(tag: GeographicTag): string {
 export function groupVenuesByTag(venues: string[]) {
   const groupedVenues = venues.reduce(
     (acc, venue) => {
+      // venue is now already the mapped venue name, so we can look it up directly
       const tag = getVenueTag(venue)
       if (!acc[tag]) {
         acc[tag] = []
       }
-      acc[tag].push(venue)
+      acc[tag].push(venue) // Store the mapped venue name for display
       return acc
     },
     {} as { [tag in GeographicTag]: string[] },
@@ -94,6 +96,7 @@ export function groupVenuesByTag(venues: string[]) {
 // Helper function to check if a venue should be initially selected
 export function shouldInitiallySelectVenue(venueName: string): boolean {
   // Check if the venue is tagged with youngstown or akron
+  // Note: venueName should be the mapped venue name
   for (const [venue, tags] of Object.entries(venueMetadata)) {
     if (
       venue === venueName &&

@@ -9,6 +9,7 @@ import {
   shouldInitiallySelectVenue,
   getMappedVenueName,
   venueMetadata,
+  VENUE_MAPPINGS,
 } from '~/utils/venue-utils'
 
 import { SiteMeta } from '~/components/meta'
@@ -63,14 +64,20 @@ export default function Page({ shows }: PageProps) {
     }
   }, [])
 
-  // Create an array of all unique venues from shows
+  // Create an array of all unique venues from shows (use mapped names)
   const venuesFromShows = Array.from(
     new Set(shows.map((show) => getMappedVenueName(show.venue))),
   )
 
   // Get all venues from metadata to ensure all geographic groups are represented
+  // Include mapped venue names and non-mapped venue names
   const allVenues = Array.from(
-    new Set([...venuesFromShows, ...Object.keys(venueMetadata)]),
+    new Set([
+      ...venuesFromShows,
+      ...Object.keys(venueMetadata).filter(
+        (venue) => !Object.keys(VENUE_MAPPINGS).includes(venue),
+      ),
+    ]),
   )
 
   // Initialize state for selected venues (excluding youngstown and akron)
@@ -79,11 +86,11 @@ export default function Page({ shows }: PageProps) {
   )
 
   const handleVenueToggle = (venue: string) => {
-    const mappedVenue = getMappedVenueName(venue)
+    // venue is now already the mapped venue name
     setSelectedVenues((prevSelectedVenues) =>
-      prevSelectedVenues.includes(mappedVenue)
-        ? prevSelectedVenues.filter((v) => v !== mappedVenue)
-        : [...prevSelectedVenues, mappedVenue],
+      prevSelectedVenues.includes(venue)
+        ? prevSelectedVenues.filter((v) => v !== venue)
+        : [...prevSelectedVenues, venue],
     )
   }
 

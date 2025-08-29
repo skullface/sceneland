@@ -26,6 +26,13 @@ for section in data.get('sections', []):
         for item in section.get('items', []):
             if item.get('type') == 'event':
                 event = item.get('event', {})
+                
+                # Skip events containing specific words
+                event_name = event.get('name', '').lower()
+                skip_words = ['emo night', 'dance party', 'house party', 'brunch', 'bingo', 'rave']
+                if any(word in event_name for word in skip_words):
+                    continue
+                
                 all_shows_data = {} 
                 all_shows_data['artist'] = [event.get('name', '').replace(" at Mahall's", '').replace(' at Mahalls', '')]
                 all_shows_data['link'] = f"https://dice.fm/event/{event.get('id', '')}"

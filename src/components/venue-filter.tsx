@@ -1,5 +1,5 @@
 import * as DropdownMenu from '@radix-ui/react-dropdown-menu'
-import venueMetadata from '~/data/venue-metadata.json'
+import { groupVenuesByTag, formatTag } from '~/utils/venue-utils'
 
 type VenueFilterProps = {
   venues: string[]
@@ -7,63 +7,6 @@ type VenueFilterProps = {
   onVenueToggle: (venue: string) => void
   onSelectAll: () => void
   onDeselectAll: () => void
-  checked: boolean
-}
-
-// Helper function to get geographic tag for a venue
-function getVenueTag(venueName: string): string {
-  // Handle venue name mappings from the main page
-  const venueMapping: { [key: string]: string } = {
-    'Beachland Ballroom': 'Beachland',
-    'Beachland Tavern': 'Beachland',
-    "Mahall's Apartment": "Mahall's",
-    "The Roxy at Mahall's": "Mahall's",
-  }
-
-  const mappedVenue = venueMapping[venueName] || venueName
-
-  // First try to find the mapped venue name in metadata
-  for (const [venue, tags] of Object.entries(venueMetadata)) {
-    if (
-      venue === mappedVenue &&
-      tags &&
-      Array.isArray(tags) &&
-      tags.length > 0 &&
-      tags[0]
-    ) {
-      return tags[0]
-    }
-  }
-
-  // If not found, try the original venue name
-  for (const [venue, tags] of Object.entries(venueMetadata)) {
-    if (
-      venue === venueName &&
-      tags &&
-      Array.isArray(tags) &&
-      tags.length > 0 &&
-      tags[0]
-    ) {
-      return tags[0]
-    }
-  }
-
-  // Fallback to 'other' if no tag found
-  return 'other'
-}
-
-// Helper function to format geographic tag for display
-function formatTag(tag: string): string {
-  const tagFormats: { [key: string]: string } = {
-    eastside: 'East Side',
-    westside: 'West Side',
-    downtown: 'Downtown',
-    akron: 'Akron',
-    youngstown: 'Youngstown',
-    other: 'Other',
-  }
-
-  return tagFormats[tag] || tag.charAt(0).toUpperCase() + tag.slice(1)
 }
 
 export function VenueFilter({
@@ -73,29 +16,7 @@ export function VenueFilter({
   onSelectAll,
   onDeselectAll,
 }: VenueFilterProps) {
-  // Group venues by their geographic tags
-  const groupedVenues = venues.reduce(
-    (acc, venue) => {
-      const tag = getVenueTag(venue)
-      if (!acc[tag]) {
-        acc[tag] = []
-      }
-      acc[tag].push(venue)
-      return acc
-    },
-    {} as { [tag: string]: string[] },
-  )
-
-  // Sort tags in a logical order
-  const tagOrder = [
-    'downtown',
-    'eastside',
-    'westside',
-    'akron',
-    'youngstown',
-    'other',
-  ]
-  const sortedTags = tagOrder.filter((tag) => groupedVenues[tag])
+  const { groupedVenues, sortedTags } = groupVenuesByTag(venues)
 
   return (
     <DropdownMenu.Root>

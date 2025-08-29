@@ -5,7 +5,11 @@ import { ShowProps } from '~/utils/types'
 import generateRssFeed from '~/utils/generate-feed'
 
 import { getVenueFiles, getVenueData } from '~/utils/get-venues'
-import venueMetadata from '~/data/venue-metadata.json'
+import {
+  shouldInitiallySelectVenue,
+  getMappedVenueName,
+  venueMetadata,
+} from '~/utils/venue-utils'
 
 import { SiteMeta } from '~/components/meta'
 import { VenueFilter } from '~/components/venue-filter'
@@ -59,37 +63,15 @@ export default function Page({ shows }: PageProps) {
     }
   }, [])
 
-  // Overwrite specific venue names to group them together
-  const venueMapping: { [key: string]: string } = {
-    'Beachland Ballroom': 'Beachland',
-    'Beachland Tavern': 'Beachland',
-    'Mahall’s Apartment': 'Mahall’s',
-    'The Roxy at Mahall’s': 'Mahall’s',
-  }
-
-  // Create an array of all unique venues
-  const allVenues = Array.from(
-    new Set(shows.map((show) => venueMapping[show.venue] || show.venue)),
+  // Create an array of all unique venues from shows
+  const venuesFromShows = Array.from(
+    new Set(shows.map((show) => getMappedVenueName(show.venue))),
   )
 
-  // Helper function to check if a venue should be initially selected
-  const shouldInitiallySelectVenue = (venueName: string): boolean => {
-    // Check if the venue is tagged with youngstown or akron
-    for (const [venue, tags] of Object.entries(venueMetadata)) {
-      if (
-        venue === venueName &&
-        tags &&
-        Array.isArray(tags) &&
-        tags.length > 0
-      ) {
-        const tag = tags[0]
-        if (tag === 'youngstown' || tag === 'akron') {
-          return false // Don't select venues from these areas by default
-        }
-      }
-    }
-    return true // Select all other venues by default
-  }
+  // Get all venues from metadata to ensure all geographic groups are represented
+  const allVenues = Array.from(
+    new Set([...venuesFromShows, ...Object.keys(venueMetadata)]),
+  )
 
   // Initialize state for selected venues (excluding youngstown and akron)
   const [selectedVenues, setSelectedVenues] = useState<string[]>(
@@ -97,7 +79,7 @@ export default function Page({ shows }: PageProps) {
   )
 
   const handleVenueToggle = (venue: string) => {
-    const mappedVenue = venueMapping[venue] || venue
+    const mappedVenue = getMappedVenueName(venue)
     setSelectedVenues((prevSelectedVenues) =>
       prevSelectedVenues.includes(mappedVenue)
         ? prevSelectedVenues.filter((v) => v !== mappedVenue)
@@ -118,7 +100,7 @@ export default function Page({ shows }: PageProps) {
   const filteredShows = shows.filter(
     (show) =>
       show.date !== '' &&
-      selectedVenues.includes(venueMapping[show.venue] || show.venue),
+      selectedVenues.includes(getMappedVenueName(show.venue)),
   )
 
   // Ignore shows that have already happened
@@ -148,7 +130,7 @@ export default function Page({ shows }: PageProps) {
   const monday = 1 // zero-indexed
 
   const showsByWeek = sortedFilteredShows.reduce((acc, show) => {
-    // Get a show’s first day of the week (starting on Monday)
+    // Get a show's first day of the week (starting on Monday)
     const weekStartDate = new Date(show.date)
     weekStartDate.setHours(0, 0, 0, 0)
 
@@ -159,7 +141,7 @@ export default function Page({ shows }: PageProps) {
 
     // Convert the first day of the week to ISO
     const weekStartDateAsString = weekStartDate.toISOString()
-    // Make an empty array if the first day of the week hasn’t happened yet
+    // Make an empty array if the first day of the week hasn't happened yet
     // Assert expected type of the accumulator
     if (!acc[weekStartDateAsString]) {
       acc[weekStartDateAsString] = [] as ShowProps[]
@@ -281,7 +263,6 @@ export default function Page({ shows }: PageProps) {
           onVenueToggle={handleVenueToggle} // function to handle toggling
           onSelectAll={handleSelectAll}
           onDeselectAll={handleDeselectAll}
-          checked={false}
         />
       </div>
 
@@ -302,8 +283,8 @@ export default function Page({ shows }: PageProps) {
 
       <footer>
         <p>
-          All data is pulled from the venues’ individual websites and aggregated
-          here. No ownership of information is claimed nor implied.
+          All data is pulled from the venues&apos; individual websites and
+          aggregated here. No ownership of information is claimed nor implied.
         </p>
         <p>Support your scene and take care of each other.</p>
       </footer>

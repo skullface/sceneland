@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Vindicator",
-      "Graveripper",
-      "Pagan Impaler",
-      "Iron Bitch"
-    ],
-    "link": "https://grogshop.gs/tm-event/vindicator-graveripper-pagan-impaler-iron-bitch/",
-    "date": "2025-08-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "OFF-LEASH",
       "Dimwit",
       "Nosedive",
@@ -147,20 +136,20 @@
   },
   {
     "artist": [
+      "The Brian Jonestown Massacre"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
+    "date": "2025-09-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Saving Abel",
       "Dead Sugar",
       "Lilieae",
       "The Daze"
     ],
     "link": "https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/",
-    "date": "2025-09-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Brian Jonestown Massacre"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
     "date": "2025-09-16",
     "venue": "Grog Shop"
   },
@@ -272,20 +261,20 @@
   },
   {
     "artist": [
-      "Godspeed You! Black Emperor"
-    ],
-    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
-    "date": "2025-09-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "empire! empire! (i was a lonely estate) Reunion",
       "Emperor X",
       "Runaway Brother",
       "Wig Doubt"
     ],
     "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Godspeed You! Black Emperor"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },
@@ -511,6 +500,14 @@
   },
   {
     "artist": [
+      "Earth"
+    ],
+    "link": "https://grogshop.gs/tm-event/earth/",
+    "date": "2025-11-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Hot Water Music",
       "BANE"
     ],
@@ -553,6 +550,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/wine-lips-mr-phylzzz-the-rosies/",
     "date": "2025-11-22",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Daddy Long Legs",
+      "Handsome Jack",
+      "Simon & The Apparatus"
+    ],
+    "link": "https://grogshop.gs/tm-event/daddy-long-legs-handsome-jack-simon-the-apparatus/",
+    "date": "2025-11-23",
     "venue": "Grog Shop"
   },
   {

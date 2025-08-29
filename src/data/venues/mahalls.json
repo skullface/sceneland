@@ -282,19 +282,19 @@
   },
   {
     "artist": [
-      "Stop Light Observations"
-    ],
-    "link": "https://dice.fm/event/68126bbe221a9600014df312",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Blessthefall"
     ],
     "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
     "date": "2025-10-01T19:00:00-04:00",
     "venue": "The Roxy at Mahall's"
+  },
+  {
+    "artist": [
+      "Stop Light Observations"
+    ],
+    "link": "https://dice.fm/event/68126bbe221a9600014df312",
+    "date": "2025-10-01T19:00:00-04:00",
+    "venue": "Mahall's"
   },
   {
     "artist": [
@@ -306,19 +306,19 @@
   },
   {
     "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Real Estate: A Celebration of ATLAS"
     ],
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall's"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "Mahall's"
   },
   {
     "artist": [
@@ -402,14 +402,6 @@
   },
   {
     "artist": [
-      "Richy Mitch and The Coal Miners"
-    ],
-    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
-  },
-  {
-    "artist": [
       "JW Francis"
     ],
     "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
@@ -418,11 +410,11 @@
   },
   {
     "artist": [
-      "The Grogans"
+      "Richy Mitch and The Coal Miners"
     ],
-    "link": "https://dice.fm/event/6866954ca0617c000187ebbb",
-    "date": "2025-10-14T19:00:00-04:00",
-    "venue": "Mahall's"
+    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "The Roxy at Mahall's"
   },
   {
     "artist": [

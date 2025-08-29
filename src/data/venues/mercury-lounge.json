@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Starkill, Maxilla, Velo City"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/starkill/",
-    "date": "2025-08-28T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Flock of Moons, Evil Robot, & Papers"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/flock-of-moons-evil-robot-papers/",
@@ -73,18 +65,18 @@
   },
   {
     "artist": [
-      "Nile \u2013 The Underworld Awaits Tour"
+      "Rhapsody of Fire, Enforcer, Striker, Witherfall"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/nile-the-underworld-awaits-tour/",
-    "date": "2025-09-22T00:00:01",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/rhapsody-of-fire-enforcer-striker-witherfall/",
+    "date": "2025-09-19T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
     "artist": [
-      "No Resolve \u2014 The Unleashed Tour"
+      "Nile \u2013 The Underworld Awaits Tour"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/no-resolve-the-unleashed-tour/",
-    "date": "2025-09-25T00:00:01",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/nile-the-underworld-awaits-tour/",
+    "date": "2025-09-22T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

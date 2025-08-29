@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Joey Harkum",
-      "Skuff Micksun"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13817704/joey-harkum-skuff-micksun",
-    "date": "2025-08-27T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Robert Randolph",
-      "Blessing Offor"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13820934/robert-randolph-blessing-offor",
-    "date": "2025-08-27T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Country Honk"
     ],
     "link": "https://www.beachlandballroom.com/e/13947284/country-honk",
@@ -419,7 +401,7 @@
     "artist": [
       "Oddisee"
     ],
-    "link": "https://www.beachlandballroom.com/e/13838954/oddisee",
+    "link": "https://www.beachlandballroom.com/e/13838954/oddisee-nuke-franklin-floco-torres",
     "date": "2025-09-28T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -608,9 +590,10 @@
   {
     "artist": [
       "Acid Mothers Temple",
-      "The Macks"
+      "The Macks",
+      "Live Visuals by Goo La Goon"
     ],
-    "link": "https://www.beachlandballroom.com/e/13901654/acid-mothers-temple-the-macks",
+    "link": "https://www.beachlandballroom.com/e/13901654/acid-mothers-temple-the-macks-live-visuals-by-goo-la-goon",
     "date": "2025-10-20T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -758,6 +741,14 @@
     "link": "https://www.beachlandballroom.com/e/13941544/carter-vail",
     "date": "2025-11-08T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Shiner"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14524253/shiner",
+    "date": "2025-11-08T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

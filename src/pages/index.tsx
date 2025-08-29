@@ -183,7 +183,7 @@ export default function Page({ shows }: PageProps) {
       return (
         <div className='empty-state'>
           <h2>No shows available</h2>
-          <p>Please select at least one venue to view upcoming shows.</p>
+          <p>Please select a venue to view upcoming events.</p>
         </div>
       )
     } else {

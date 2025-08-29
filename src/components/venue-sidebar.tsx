@@ -94,7 +94,11 @@ export function VenueSidebar({
         Filter Venues
       </h2>
 
-      <Accordion.Root type='multiple' className='grid gap-2'>
+      <Accordion.Root
+        type='multiple'
+        defaultValue={['downtown']}
+        className='grid gap-2'
+      >
         {sortedTags.map((tag) => (
           <Accordion.Item
             key={tag}

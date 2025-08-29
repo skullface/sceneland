@@ -101,10 +101,10 @@ export function VenueSidebar({
             value={tag}
             className='dark:border-zinc rounded-md border border-zinc-200 px-3 pt-3'
           >
-            <Accordion.Header className='flex'>
+            <Accordion.Header className='group flex'>
               <Accordion.Trigger className='flex flex-1 items-center justify-between text-left text-sm font-semibold uppercase tracking-wider text-zinc-500 transition-colors hover:text-zinc-700 dark:text-zinc-400 dark:hover:text-zinc-200'>
                 {formatTag(tag)}
-                <span className='text-xs transition-transform duration-200 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[state=open]:rotate-180'>
+                <span className='text-xs transition-transform duration-100 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[state=open]:rotate-180'>
                   ▼
                 </span>
               </Accordion.Trigger>

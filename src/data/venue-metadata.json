@@ -1,80 +1,158 @@
 {
   "Agora": [
-    "eastside"
+    {
+      "geo": "eastside",
+      "capacity": "large"
+    }
   ],
   "Beachland": [
-    "eastside"
+    {
+      "geo": "eastside",
+      "capacity": "medium"
+    }
   ],
   "Beachland Ballroom": [
-    "eastside"
+    {
+      "geo": "eastside",
+      "capacity": "medium"
+    }
   ],
   "Beachland Tavern": [
-    "eastside"
+    {
+      "geo": "eastside",
+      "capacity": "tiny"
+    }
   ],
   "Blossom": [
-    "akron"
+    {
+      "geo": "akron",
+      "capacity": "huge"
+    }
   ],
   "Foundry": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "small"
+    }
   ],
   "Grog Shop": [
-    "eastside"
+    {
+      "geo": "eastside",
+      "capacity": "small"
+    }
   ],
   "Happy Dog": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "tiny"
+    }
   ],
   "House of Blues": [
-    "downtown"
+    {
+      "geo": "downtown",
+      "capacity": "large"
+    }
   ],
   "Jacobs Pavilion at Nautica": [
-    "downtown"
+    {
+      "geo": "downtown",
+      "capacity": "large"
+    }
   ],
   "Little Rose Tavern": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "tiny"
+    }
   ],
   "Mahall's Apartment": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "tiny"
+    }
   ],
   "Mahall's": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "medium"
+    }
   ],
   "Masonic Temple": [
-    "eastside"
+    {
+      "geo": "eastside",
+      "capacity": "large"
+    }
   ],
   "No Class": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "small"
+    }
   ],
   "Playhouse Square": [
-    "downtown"
+    {
+      "geo": "downtown",
+      "capacity": "huge"
+    }
   ],
   "Rocket Arena": [
-    "downtown"
+    {
+      "geo": "downtown",
+      "capacity": "huge"
+    }
   ],
   "The Roxy at Mahall's": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "large"
+    }
   ],
   "Winchester Tavern": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "medium"
+    }
   ],
   "Covelli Centre": [
-    "youngstown"
+    {
+      "geo": "youngstown",
+      "capacity": "huge"
+    }
   ],
   "Crobar": [
-    "eastside"
+    {
+      "geo": "eastside",
+      "capacity": "tiny"
+    }
   ],
   "Dunlap’s Corner Bar": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "tiny"
+    }
   ],
   "Globe Iron": [
-    "downtown"
+    {
+      "geo": "downtown",
+      "capacity": "large"
+    }
   ],
   "Mercury Music Lounge": [
-    "westside"
+    {
+      "geo": "westside",
+      "capacity": "tiny"
+    }
   ],
   "Westside Bowl": [
-    "youngstown"
+    {
+      "geo": "youngstown",
+      "capacity": "medium"
+    }
   ],
   "Wolstein Center": [
-    "downtown"
+    {
+      "geo": "downtown",
+      "capacity": "huge"
+    }
   ]
 }

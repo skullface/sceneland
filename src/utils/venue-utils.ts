@@ -1,5 +1,13 @@
 import venueMetadata from '~/data/venue-metadata.json'
 
+// Type definition for the new venue metadata structure
+export interface VenueMetadata {
+  [venueName: string]: Array<{
+    geo: string
+    capacity: string
+  }>
+}
+
 // Export venueMetadata for use in other components
 export { venueMetadata }
 
@@ -32,9 +40,11 @@ export function getVenueTag(venueName: string): GeographicTag {
       tags &&
       Array.isArray(tags) &&
       tags.length > 0 &&
-      tags[0]
+      tags[0] &&
+      typeof tags[0] === 'object' &&
+      'geo' in tags[0]
     ) {
-      return tags[0] as GeographicTag
+      return tags[0].geo as GeographicTag
     }
   }
 
@@ -47,9 +57,11 @@ export function getVenueTag(venueName: string): GeographicTag {
         tags &&
         Array.isArray(tags) &&
         tags.length > 0 &&
-        tags[0]
+        tags[0] &&
+        typeof tags[0] === 'object' &&
+        'geo' in tags[0]
       ) {
-        return tags[0] as GeographicTag
+        return tags[0].geo as GeographicTag
       }
     }
   }
@@ -102,9 +114,12 @@ export function shouldInitiallySelectVenue(venueName: string): boolean {
       venue === venueName &&
       tags &&
       Array.isArray(tags) &&
-      tags.length > 0
+      tags.length > 0 &&
+      tags[0] &&
+      typeof tags[0] === 'object' &&
+      'geo' in tags[0]
     ) {
-      const tag = tags[0]
+      const tag = tags[0].geo
       if (tag === 'youngstown' || tag === 'akron') {
         return false // Don't select venues from these areas by default
       }

@@ -1,5 +1,8 @@
 import venueMetadata from '~/data/venue-metadata.json'
 
+// Export venueMetadata for use in other components
+export { venueMetadata }
+
 // Venue name mappings to group related venues together
 export const VENUE_MAPPINGS: { [key: string]: string } = {
   'Beachland Ballroom': 'Beachland',

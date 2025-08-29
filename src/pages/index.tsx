@@ -8,6 +8,7 @@ import { getVenueFiles, getVenueData } from '~/utils/get-venues'
 import {
   shouldInitiallySelectVenue,
   getMappedVenueName,
+  venueMetadata,
 } from '~/utils/venue-utils'
 
 import { SiteMeta } from '~/components/meta'
@@ -62,9 +63,14 @@ export default function Page({ shows }: PageProps) {
     }
   }, [])
 
-  // Create an array of all unique venues
-  const allVenues = Array.from(
+  // Create an array of all unique venues from shows
+  const venuesFromShows = Array.from(
     new Set(shows.map((show) => getMappedVenueName(show.venue))),
+  )
+
+  // Get all venues from metadata to ensure all geographic groups are represented
+  const allVenues = Array.from(
+    new Set([...venuesFromShows, ...Object.keys(venueMetadata)]),
   )
 
   // Initialize state for selected venues (excluding youngstown and akron)

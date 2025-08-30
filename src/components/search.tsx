@@ -20,29 +20,79 @@ export function Search({ shows, onSearchResults }: SearchProps) {
     const words = query.split(/\s+/)
 
     return shows.filter((show) => {
-      // Check if any word matches artist names (with fuzzy matching)
+      // Check if any word matches artist names (with intelligent partial matching)
       const artistMatch = show.artist?.some((artist) => {
         const artistLower = artist.toLowerCase()
         return words.some((word) => {
-          // Exact word match
-          if (artistLower.includes(word)) return true
+          // Split artist name into words for precise matching
+          const artistWords = artistLower
+            .split(/[\s\-&,]+/)
+            .filter((w) => w.length > 0)
 
-          // Partial word match (for cases like "devo" matching "devotional")
-          if (word.length >= 3 && artistLower.includes(word)) return true
-
-          // Check if word is contained within any part of artist name
-          const artistWords = artistLower.split(/[\s\-&]+/)
-          return artistWords.some(
+          // Check for exact word matches (case-insensitive)
+          const exactMatch = artistWords.some(
             (artistWord) =>
-              artistWord.includes(word) || word.includes(artistWord),
+              artistWord === word ||
+              artistWord.startsWith(word + '-') ||
+              artistWord.endsWith('-' + word) ||
+              artistWord.startsWith(word + ' ') ||
+              artistWord.endsWith(' ' + word),
           )
+
+          if (exactMatch) return true
+
+          // Allow meaningful partial matches (like "girl" in "Angelgirl")
+          // but only if the word is at least 3 characters and appears at word boundaries
+          if (word.length >= 3) {
+            // Check if the word appears at the beginning or end of any artist word
+            // or if it's a meaningful substring that's not just random characters
+            return artistWords.some((artistWord) => {
+              // Match at word boundaries or as a meaningful substring
+              return (
+                artistWord.startsWith(word) ||
+                artistWord.endsWith(word) ||
+                (artistWord.length > word.length + 2 &&
+                  artistWord.includes(word))
+              )
+            })
+          }
+
+          return false
         })
       })
 
-      // Check if any word matches venue name
-      const venueMatch = words.some((word) =>
-        show.venue.toLowerCase().includes(word),
-      )
+      // Check if any word matches venue name (with intelligent partial matching)
+      const venueMatch = words.some((word) => {
+        const venueLower = show.venue.toLowerCase()
+        const venueWords = venueLower
+          .split(/[\s\-&]+/)
+          .filter((w) => w.length > 0)
+
+        // Check for exact word matches first
+        const exactMatch = venueWords.some(
+          (venueWord) =>
+            venueWord === word ||
+            venueWord.startsWith(word + '-') ||
+            venueWord.endsWith('-' + word) ||
+            venueWord.startsWith(word + ' ') ||
+            venueWord.endsWith(' ' + word),
+        )
+
+        if (exactMatch) return true
+
+        // Allow meaningful partial matches for venues too
+        if (word.length >= 3) {
+          return venueWords.some((venueWord) => {
+            return (
+              venueWord.startsWith(word) ||
+              venueWord.endsWith(word) ||
+              (venueWord.length > word.length + 2 && venueWord.includes(word))
+            )
+          })
+        }
+
+        return false
+      })
 
       // Check for date patterns
       const dateMatch = words.some((word) => {

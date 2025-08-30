@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply bg-zinc-100 text-zinc-500 [text-wrap:pretty] dark:bg-zinc-950 dark:text-zinc-500;
+    @apply bg-gray-100 text-gray-500 [text-wrap:pretty];
   }
 }
 
@@ -20,24 +20,24 @@
 
   /* Site header */
   header {
-    @apply sticky top-0 mx-auto max-md:mb-6 h-[100px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-zinc-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur dark:border-b-white/5 dark:bg-black/50 dark:shadow-black/25 max-md:pb-11 md:h-[60px];
+    @apply sticky top-0 mx-auto max-md:mb-6 h-[100px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-gray-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur max-md:pb-11 md:h-[60px];
   }
 
   header div {
-    @apply relative w-full text-sm font-medium text-zinc-600 transition duration-300 ease-in-out dark:text-zinc-400;
+    @apply relative w-full text-sm font-medium text-gray-600 transition duration-300 ease-in-out;
   }
 
   /* Empty state */
   .empty-state {
-    @apply container mx-auto flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center dark:border-red-900 dark:bg-red-950/75 max-md:w-[90%] md:gap-2;
+    @apply container mx-auto flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center max-md:w-[90%] md:gap-2;
   }
 
   .empty-state h2 {
-    @apply text-2xl font-medium text-red-600 dark:text-zinc-50 md:text-3xl;
+    @apply text-2xl font-medium text-red-600 md:text-3xl;
   }
 
   .empty-state p {
-    @apply text-base leading-snug text-red-500 dark:text-red-500/75 md:text-lg;
+    @apply text-base leading-snug text-red-500 md:text-lg;
   }
 
   /* Dropdown menu */
@@ -48,13 +48,13 @@
   .dropdown-button[data-state='open'] span {
     @apply relative left-0.5 rotate-180;
   }
-
+  /*
   .dropdown-content span svg {
-    @apply dark:!fill-zinc-50;
+    @apply;
   }
-
+  */
   .dropdown-item[data-state='unchecked'] {
-    @apply text-zinc-400;
+    @apply text-gray-400;
   }
 
   .dropdown-item[data-state='checked'] span {
@@ -67,7 +67,7 @@
   }
 
   .show-grouping h2 {
-    @apply sticky top-16 flex w-full items-center justify-center gap-0 text-base text-zinc-400 dark:text-zinc-500 md:top-[14px] md:text-2xl;
+    @apply sticky top-16 flex w-full items-center justify-center gap-0 text-base text-gray-400 md:top-[14px] md:text-2xl;
   }
 
   .show-grouping ul {

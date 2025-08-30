@@ -20,19 +20,19 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
       <li key={i}>
         <a
           href={show.link}
-          className='group flex h-full min-h-[180px] flex-col justify-between gap-y-4 rounded border border-zinc-200 bg-white p-4 leading-snug  decoration-zinc-200 shadow-sm transition hover:!border-zinc-300 hover:underline hover:shadow-md hover:!shadow-black/5 focus:outline-none focus:ring focus:ring-lime-500/50 dark:border-zinc-800 dark:bg-zinc-900 dark:decoration-zinc-600 dark:shadow-md hover:dark:!border-zinc-700'
+          className='group flex h-full min-h-[180px] flex-col justify-between gap-y-4 rounded border border-gray-200 bg-white p-4 leading-snug  decoration-gray-200 shadow-sm transition hover:!border-gray-300 hover:underline hover:shadow-md hover:!shadow-black/5 focus:outline-none focus:ring focus:ring-lime-500/50'
         >
           <div className='flex flex-col gap-y-2'>
-            <h3 className='order-2 text-lg font-medium text-zinc-800 dark:text-zinc-300'>
+            <h3 className='order-2 text-lg font-medium text-gray-800'>
               {formatArtistNames(show.artist)}
             </h3>
             {show.sold_out && (
-              <p className='order-3 mt-1 self-start whitespace-nowrap rounded-full border border-red-700 bg-red-600 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white transition [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] dark:border-red-900/75 dark:bg-red-950 dark:text-red-500 group-hover:dark:border-red-900'>
+              <p className='order-3 mt-1 self-start whitespace-nowrap rounded-full border border-red-700 bg-red-600 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white transition [text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]'>
                 Sold out
               </p>
             )}
           </div>
-          <div className='text-md flex flex-col gap-y-0.5 text-zinc-500 dark:text-zinc-400'>
+          <div className='text-md flex flex-col gap-y-0.5 text-gray-500'>
             <time dateTime={new Date(show.date).toISOString()}>
               {new Date(show.date).toLocaleDateString('en-US', {
                 timeZone: 'America/New_York',

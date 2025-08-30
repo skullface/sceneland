@@ -207,9 +207,7 @@ export default function Page({ shows }: PageProps) {
                   {groupPrefix}&nbsp;
                 </span>
               )}
-              <span className='font-medium text-zinc-500 dark:text-zinc-400'>
-                {groupLabel}
-              </span>
+              <span className='font-medium text-gray-500'>{groupLabel}</span>
             </h2>
             <ul>
               {shows.map((show, i) => (

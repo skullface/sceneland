@@ -16,6 +16,7 @@ import { SiteMeta } from '~/components/meta'
 import { VenueFilter } from '~/components/venue-filter'
 import { VenueSidebar } from '~/components/venue-sidebar'
 import { ShowCard } from '~/components/show-card'
+import { Search } from '~/components/search'
 
 type ShowsByWeekProps = {
   [weekStartDate: string]: ShowProps[]
@@ -85,6 +86,10 @@ export default function Page({ shows }: PageProps) {
     allVenues.filter((venue) => shouldInitiallySelectVenue(venue)),
   )
 
+  // State for search results
+  const [searchResults, setSearchResults] = useState<ShowProps[]>([])
+  const [isSearchActive, setIsSearchActive] = useState(false)
+
   const handleVenueToggle = (venue: string) => {
     // venue is now already the mapped venue name
     setSelectedVenues((prevSelectedVenues) =>
@@ -103,6 +108,12 @@ export default function Page({ shows }: PageProps) {
     setSelectedVenues([])
   }
 
+  // Handle search results
+  const handleSearchResults = (results: ShowProps[]) => {
+    setSearchResults(results)
+    setIsSearchActive(results.length > 0)
+  }
+
   // Filter shows by selected venues
   const filteredShows = shows.filter(
     (show) =>
@@ -110,8 +121,11 @@ export default function Page({ shows }: PageProps) {
       selectedVenues.includes(getMappedVenueName(show.venue)),
   )
 
+  // Use search results if search is active, otherwise use filtered shows
+  const showsToProcess = isSearchActive ? searchResults : filteredShows
+
   // Ignore shows that have already happened
-  const filteredCurrentShows = filteredShows.filter((show) => {
+  const filteredCurrentShows = showsToProcess.filter((show) => {
     const showDate = new Date(show.date)
 
     // Get the current date at 4am ET
@@ -249,6 +263,11 @@ export default function Page({ shows }: PageProps) {
         </div>
       </header>
 
+      {/* Mobile: Search */}
+      <div className='mb-4 px-4 md:hidden'>
+        <Search shows={shows} onSearchResults={handleSearchResults} />
+      </div>
+
       <div
         className={`dropdown-container transition-100 block md:hidden ${
           animateOnScroll
@@ -268,6 +287,7 @@ export default function Page({ shows }: PageProps) {
       {/* Desktop: Sidebar layout */}
       <div className='hidden md:flex'>
         <div className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-200 bg-gray-50 p-6'>
+          <Search shows={shows} onSearchResults={handleSearchResults} />
           <VenueSidebar
             venues={allVenues}
             selectedVenues={selectedVenues}
@@ -295,12 +315,64 @@ export default function Page({ shows }: PageProps) {
               <h1>Upcoming live music in Cleveland, OH</h1>
             </div>
           </header>
-          <main className='mx-6 py-6'>{renderGroupedShows()}</main>
+          <main className='mx-6 py-6'>
+            {isSearchActive && (
+              <div className='mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4'>
+                <div className='flex items-center justify-between'>
+                  <div>
+                    <h3 className='text-lg font-medium text-blue-900'>
+                      Search Results
+                    </h3>
+                    <p className='text-sm text-blue-700'>
+                      Found {searchResults.length} event
+                      {searchResults.length !== 1 ? 's' : ''}
+                    </p>
+                  </div>
+                  <button
+                    onClick={() => {
+                      setIsSearchActive(false)
+                      setSearchResults([])
+                    }}
+                    className='text-sm text-blue-600 underline hover:text-blue-800'
+                  >
+                    Clear search
+                  </button>
+                </div>
+              </div>
+            )}
+            {renderGroupedShows()}
+          </main>
         </div>
       </div>
 
       {/* Mobile: Main content */}
-      <main className='main md:hidden'>{renderGroupedShows()}</main>
+      <main className='main md:hidden'>
+        {isSearchActive && (
+          <div className='mx-4 mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4'>
+            <div className='flex items-center justify-between'>
+              <div>
+                <h3 className='text-lg font-medium text-blue-900'>
+                  Search Results
+                </h3>
+                <p className='text-sm text-blue-700'>
+                  Found {searchResults.length} event
+                  {searchResults.length !== 1 ? 's' : ''}
+                </p>
+              </div>
+              <button
+                onClick={() => {
+                  setIsSearchActive(false)
+                  setSearchResults([])
+                }}
+                className='text-sm text-blue-600 underline hover:text-blue-800'
+              >
+                Clear search
+              </button>
+            </div>
+          </div>
+        )}
+        {renderGroupedShows()}
+      </main>
 
       <footer className='my-6 text-xs md:hidden'>
         <p>

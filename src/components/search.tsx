@@ -1,9 +1,9 @@
 import { useState, useMemo } from 'react'
-import { ShowProps } from '~/utils/types'
+import { ShowProps, SearchResults } from '~/utils/types'
 
 interface SearchProps {
   shows: ShowProps[]
-  onSearchResults: (results: ShowProps[]) => void
+  onSearchResults: (results: SearchResults) => void
 }
 
 export function Search({ shows, onSearchResults }: SearchProps) {
@@ -159,7 +159,7 @@ export function Search({ shows, onSearchResults }: SearchProps) {
     await new Promise((resolve) => setTimeout(resolve, 100))
 
     const results = processSearchQuery(searchQuery)
-    onSearchResults(results)
+    onSearchResults({ shows: results, query: searchQuery })
     setIsSearching(false)
   }
 
@@ -168,7 +168,7 @@ export function Search({ shows, onSearchResults }: SearchProps) {
     setQuery(value)
 
     if (value.trim() === '') {
-      onSearchResults(shows)
+      onSearchResults({ shows: shows, query: '' })
     } else {
       handleSearch(value)
     }
@@ -185,7 +185,7 @@ export function Search({ shows, onSearchResults }: SearchProps) {
       <div className='relative'>
         <input
           type='text'
-          placeholder='Search artists, venues, dates...'
+          placeholder='Search artists or venues…'
           value={query}
           onChange={handleInputChange}
           onKeyDown={handleKeyDown}
@@ -216,39 +216,6 @@ export function Search({ shows, onSearchResults }: SearchProps) {
       {query && (
         <div className='mt-2 text-sm text-gray-600'>
           Search results will appear below
-        </div>
-      )}
-
-      {/* Search suggestions */}
-      {!query && (
-        <div className='mt-2 text-xs text-gray-500'>
-          <p className='mb-1'>Try searching for:</p>
-          <div className='flex flex-wrap gap-1'>
-            <button
-              onClick={() => handleSearch('devo')}
-              className='cursor-pointer rounded bg-gray-100 px-2 py-1 text-xs transition-colors hover:bg-gray-200'
-            >
-              devo
-            </button>
-            <button
-              onClick={() => handleSearch('beachland aug 30')}
-              className='cursor-pointer rounded bg-gray-100 px-2 py-1 text-xs transition-colors hover:bg-gray-200'
-            >
-              beachland aug 30
-            </button>
-            <button
-              onClick={() => handleSearch('girl')}
-              className='cursor-pointer rounded bg-gray-100 px-2 py-1 text-xs transition-colors hover:bg-gray-200'
-            >
-              girl
-            </button>
-            <button
-              onClick={() => handleSearch('august')}
-              className='cursor-pointer rounded bg-gray-100 px-2 py-1 text-xs transition-colors hover:bg-gray-200'
-            >
-              august
-            </button>
-          </div>
         </div>
       )}
     </div>

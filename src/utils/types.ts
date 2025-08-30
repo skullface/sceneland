@@ -5,3 +5,8 @@ export type ShowProps = {
   venue: string
   date: string
 }
+
+export type SearchResults = {
+  shows: ShowProps[]
+  query: string
+}

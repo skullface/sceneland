@@ -1,6 +1,6 @@
-import { useEffect, useState } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { GetStaticProps } from 'next'
-import { ShowProps } from '~/utils/types'
+import { ShowProps, SearchResults } from '~/utils/types'
 
 import generateRssFeed from '~/utils/generate-feed'
 
@@ -87,7 +87,10 @@ export default function Page({ shows }: PageProps) {
   )
 
   // State for search results
-  const [searchResults, setSearchResults] = useState<ShowProps[]>([])
+  const [searchResults, setSearchResults] = useState<SearchResults>({
+    shows: [],
+    query: '',
+  })
   const [isSearchActive, setIsSearchActive] = useState(false)
 
   const handleVenueToggle = (venue: string) => {
@@ -109,9 +112,9 @@ export default function Page({ shows }: PageProps) {
   }
 
   // Handle search results
-  const handleSearchResults = (results: ShowProps[]) => {
+  const handleSearchResults = (results: SearchResults) => {
     setSearchResults(results)
-    setIsSearchActive(results.length > 0)
+    setIsSearchActive(results.query.trim() !== '')
   }
 
   // Filter shows by selected venues
@@ -122,7 +125,7 @@ export default function Page({ shows }: PageProps) {
   )
 
   // Use search results if search is active, otherwise use filtered shows
-  const showsToProcess = isSearchActive ? searchResults : filteredShows
+  const showsToProcess = isSearchActive ? searchResults.shows : filteredShows
 
   // Ignore shows that have already happened
   const filteredCurrentShows = showsToProcess.filter((show) => {
@@ -321,17 +324,21 @@ export default function Page({ shows }: PageProps) {
                 <div className='flex items-center justify-between'>
                   <div>
                     <h3 className='text-lg font-medium text-blue-900'>
-                      Search Results
+                      Search results
                     </h3>
                     <p className='text-sm text-blue-700'>
-                      Found {searchResults.length} event
-                      {searchResults.length !== 1 ? 's' : ''}
+                      Found{' '}
+                      <b>
+                        {searchResults.shows.length} event
+                        {searchResults.shows.length !== 1 ? 's' : ''}
+                      </b>{' '}
+                      for <b>{searchResults.query}</b>
                     </p>
                   </div>
                   <button
                     onClick={() => {
                       setIsSearchActive(false)
-                      setSearchResults([])
+                      setSearchResults({ shows: [], query: '' })
                     }}
                     className='text-sm text-blue-600 underline hover:text-blue-800'
                   >
@@ -352,17 +359,21 @@ export default function Page({ shows }: PageProps) {
             <div className='flex items-center justify-between'>
               <div>
                 <h3 className='text-lg font-medium text-blue-900'>
-                  Search Results
+                  Search results
                 </h3>
                 <p className='text-sm text-blue-700'>
-                  Found {searchResults.length} event
-                  {searchResults.length !== 1 ? 's' : ''}
+                  Found{' '}
+                  <b>
+                    {searchResults.shows.length} event
+                    {searchResults.shows.length !== 1 ? 's' : ''}
+                  </b>{' '}
+                  for <b>{searchResults.query}</b>
                 </p>
               </div>
               <button
                 onClick={() => {
                   setIsSearchActive(false)
-                  setSearchResults([])
+                  setSearchResults({ shows: [], query: '' })
                 }}
                 className='text-sm text-blue-600 underline hover:text-blue-800'
               >

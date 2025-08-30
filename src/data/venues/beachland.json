@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Country Honk"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13947284/country-honk",
-    "date": "2025-08-28T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "The Rick Ray Band",
-      "Myth and Company"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13952044/the-rick-ray-band-myth-and-company",
-    "date": "2025-08-29T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "AJ & The Woods",
       "Johnny Hart and the Mess",
       "Sophia Fisher"
@@ -211,9 +194,10 @@
   },
   {
     "artist": [
-      "Jenny Don't & The Spurs"
+      "Jenny Don't & The Spurs",
+      "Cory Grinder"
     ],
-    "link": "https://www.beachlandballroom.com/e/13887014/jenny-don-t-the-spurs",
+    "link": "https://www.beachlandballroom.com/e/13887014/jenny-don-t-the-spurs-cory-grinder",
     "date": "2025-09-15T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -294,9 +278,10 @@
   },
   {
     "artist": [
-      "The Cactus Blossoms"
+      "The Cactus Blossoms",
+      "Devin Tuel & Stephen Harms"
     ],
-    "link": "https://www.beachlandballroom.com/e/13769834/the-cactus-blossoms",
+    "link": "https://www.beachlandballroom.com/e/13769834/the-cactus-blossoms-devin-tuel-stephen-harms",
     "date": "2025-09-20T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -365,9 +350,10 @@
   },
   {
     "artist": [
-      "Luke Winslow-King"
+      "Luke Winslow-King",
+      "Bent String (duo)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13801704/luke-winslow-king",
+    "link": "https://www.beachlandballroom.com/e/13801704/luke-winslow-king-bent-string-duo-",
     "date": "2025-09-25T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -682,6 +668,16 @@
     "link": "https://www.beachlandballroom.com/e/14516033/dear-silas",
     "date": "2025-10-29T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Uniity",
+      "Tiffadelic",
+      "Nature Nvoke"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14526953/uniity-tiffadelic-nature-nvoke",
+    "date": "2025-10-30T21:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

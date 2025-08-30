@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Stay Gone"
-    ],
-    "link": "https://dice.fm/event/683615524d878f0001f5ee4c",
-    "date": "2025-08-29T18:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Cousin Simple"
     ],
     "link": "https://dice.fm/event/6899f65da5dba300018d7984",
@@ -177,20 +169,20 @@
   },
   {
     "artist": [
-      "Home Is Where"
-    ],
-    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
-    "date": "2025-09-27T18:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Kublai Khan TX"
     ],
     "link": "https://dice.fm/event/68713dd98a30cc0001cddc43",
     "sold_out": true,
     "date": "2025-09-27T18:00:00-04:00",
     "venue": "The Roxy at Mahall's"
+  },
+  {
+    "artist": [
+      "Home Is Where"
+    ],
+    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
+    "date": "2025-09-27T18:00:00-04:00",
+    "venue": "Mahall's"
   },
   {
     "artist": [
@@ -234,19 +226,19 @@
   },
   {
     "artist": [
-      "Real Estate: A Celebration of ATLAS"
-    ],
-    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
-  },
-  {
-    "artist": [
       "Warmduscher"
     ],
     "link": "https://dice.fm/event/683a0c5ca82780000146a946",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "Mahall's"
+  },
+  {
+    "artist": [
+      "Real Estate: A Celebration of ATLAS"
+    ],
+    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall's"
   },
   {
     "artist": [

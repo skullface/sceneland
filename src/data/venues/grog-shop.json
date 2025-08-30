@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "OFF-LEASH",
-      "Dimwit",
-      "Nosedive",
-      "Cat Stanley"
-    ],
-    "link": "https://grogshop.gs/tm-event/off-leash-dimwit-nosedive-cat-stanley/",
-    "date": "2025-08-29",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Lemur Fest 2025 ft. Nicx & Damnagedkids",
       "Curly Chuck",
       "QDAJUICE",
@@ -486,6 +475,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/hobo-johnson-and-the-lovemakers/",
     "date": "2025-10-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "STRAWBERRY GIRLS: Celebrating French Ghetto",
+      "Moondough",
+      "Post NC"
+    ],
+    "link": "https://grogshop.gs/tm-event/strawberry-girls-celebrating-french-ghetto/",
+    "date": "2025-10-31",
     "venue": "Grog Shop"
   },
   {

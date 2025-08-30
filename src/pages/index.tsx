@@ -55,7 +55,7 @@ export default function Page({ shows }: PageProps) {
 
   useEffect(() => {
     const handleScroll = () => {
-      const scrollThreshold = window.innerWidth < 480 ? 25 : 30
+      const scrollThreshold = window.innerWidth < 480 ? 10 : 15
       setAnimateOnScroll(window.scrollY > scrollThreshold)
     }
     window.addEventListener('scroll', handleScroll)
@@ -236,7 +236,8 @@ export default function Page({ shows }: PageProps) {
     <div className='body'>
       <SiteMeta />
 
-      <header>
+      {/* Mobile: Dropdown filter */}
+      <header className='md:hidden'>
         <div
           className={`${
             animateOnScroll
@@ -244,13 +245,12 @@ export default function Page({ shows }: PageProps) {
               : 'mt-0.5 opacity-100 md:mt-1'
           }`}
         >
-          <h1>Upcoming shows in Cleveland, OH</h1>
+          <h1>Upcoming live music in Cleveland, OH</h1>
         </div>
       </header>
 
-      {/* Mobile: Dropdown filter */}
       <div
-        className={`dropdown-container block md:hidden ${
+        className={`dropdown-container transition-100 block md:hidden ${
           animateOnScroll
             ? 'translate-y-0'
             : 'translate-y-[1.25em] md:translate-y-[2em]'
@@ -267,25 +267,46 @@ export default function Page({ shows }: PageProps) {
 
       {/* Desktop: Sidebar layout */}
       <div className='hidden md:flex'>
-        <VenueSidebar
-          venues={allVenues}
-          selectedVenues={selectedVenues}
-          onVenueToggle={handleVenueToggle}
-          onSelectAll={handleSelectAll}
-          onDeselectAll={handleDeselectAll}
-        />
-        <main className='ml-6 flex-1'>{renderGroupedShows()}</main>
+        <div className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-200 bg-gray-50 p-6'>
+          <VenueSidebar
+            venues={allVenues}
+            selectedVenues={selectedVenues}
+            onVenueToggle={handleVenueToggle}
+            onSelectAll={handleSelectAll}
+            onDeselectAll={handleDeselectAll}
+          />
+          <footer className='text-xs'>
+            <p>
+              All data is pulled from the venues&apos; individual websites and
+              aggregated here. No ownership of information is claimed nor
+              implied.
+            </p>
+          </footer>
+        </div>
+        <div className='flex-1'>
+          <header>
+            <div
+              className={`${
+                animateOnScroll
+                  ? 'translate-y-[-6em] opacity-0'
+                  : 'mt-0.5 opacity-100 md:mt-1'
+              }`}
+            >
+              <h1>Upcoming live music in Cleveland, OH</h1>
+            </div>
+          </header>
+          <main className='mx-6 py-6'>{renderGroupedShows()}</main>
+        </div>
       </div>
 
       {/* Mobile: Main content */}
       <main className='main md:hidden'>{renderGroupedShows()}</main>
 
-      <footer>
+      <footer className='my-6 text-xs md:hidden'>
         <p>
           All data is pulled from the venues&apos; individual websites and
           aggregated here. No ownership of information is claimed nor implied.
         </p>
-        <p>Support your scene and take care of each other.</p>
       </footer>
     </div>
   )

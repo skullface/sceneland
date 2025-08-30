@@ -71,7 +71,7 @@
   }
 
   .show-grouping ul {
-    @apply container grid grid-cols-1 gap-4 p-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-8 lg:p-8;
+    @apply container grid grid-cols-1 gap-4 p-4 lg:grid-cols-2 xl:grid-cols-3 lg:gap-8 lg:p-8;
   }
 
   /* Desktop sidebar layout - adjust grid for sidebar */
@@ -83,6 +83,6 @@
 
   /* Site footer */
   footer {
-    @apply container mx-auto mt-auto flex flex-col gap-2 p-4 text-center text-sm lg:p-8;
+    @apply container mx-auto mt-auto flex flex-col gap-2 text-center text-sm;
   }
 }

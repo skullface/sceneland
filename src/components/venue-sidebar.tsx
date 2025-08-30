@@ -89,7 +89,7 @@ export function VenueSidebar({
   }
 
   return (
-    <aside className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-200 bg-gray-50 p-6'>
+    <aside className='flex flex-col gap-4'>
       <h2 className='text-lg font-semibold text-gray-900'>Filter Venues</h2>
 
       <Accordion.Root

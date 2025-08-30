@@ -48,6 +48,70 @@
   .dropdown-button[data-state='open'] span {
     @apply relative left-0.5 rotate-180;
   }
+
+  /* Mobile-optimized dropdown scrolling */
+  .dropdown-content {
+    @apply overscroll-contain;
+  }
+
+  .dropdown-content > div:first-child {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: #4b5563 #1f2937;
+  }
+
+  /* Custom scrollbar for webkit browsers */
+  .dropdown-content > div:first-child::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  .dropdown-content > div:first-child::-webkit-scrollbar-track {
+    @apply bg-gray-800 rounded;
+  }
+
+  .dropdown-content > div:first-child::-webkit-scrollbar-thumb {
+    @apply bg-gray-600 rounded hover:bg-gray-500;
+  }
+
+  /* Mobile-specific dropdown improvements */
+  @media (max-width: 768px) {
+    .dropdown-content {
+      @apply max-w-[calc(100vw-2rem)] mx-4;
+    }
+    
+    .dropdown-content > div:first-child {
+      @apply max-h-[60vh];
+    }
+  }
+
+  /* Accordion animations for dropdown */
+  @keyframes accordion-down {
+    from {
+      height: 0;
+    }
+    to {
+      height: var(--radix-accordion-content-height);
+    }
+  }
+
+  @keyframes accordion-up {
+    from {
+      height: var(--radix-accordion-content-height);
+    }
+    to {
+      height: 0;
+    }
+  }
+
+  .animate-accordion-down {
+    animation: accordion-down 300ms cubic-bezier(0.87, 0, 0.13, 1);
+  }
+
+  .animate-accordion-up {
+    animation: accordion-up 300ms cubic-bezier(0.87, 0, 0.13, 1);
+  }
+
   /*
   .dropdown-content span svg {
     @apply;

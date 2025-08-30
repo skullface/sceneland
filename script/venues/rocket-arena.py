@@ -26,7 +26,7 @@ shows = calendar.find_all('div', class_='info_wrapper')
 all_shows_list = []
 
 def should_skip_artist(text):
-  excluded_keywords = ['AEW', 'Christmas', 'Ringling', 'Cavaliers', 'Monsters vs.', 'Cavs', 'Moondog']
+  excluded_keywords = ['AEW', 'Christmas', 'Ringling', 'Cavaliers', 'Monsters vs.', 'Cavs', 'Moondog', 'Hoops', 'Hockey']
   return any(keyword in text for keyword in excluded_keywords)
 
 for show in shows:

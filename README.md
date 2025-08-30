@@ -15,12 +15,42 @@ Aggregates concerts from local Cleveland venues in one website.
 - Use the `.js` data file to [display events](https://github.com/skullface/sceneland/blob/main/src/components/show-card.tsx) in chronological order
 - [Group events by week](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L92-L139) for improved readability/scannability
 - [Filter](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L51-L90) events by venue, [selectable by user](https://github.com/skullface/sceneland/blob/main/src/components/venue-filter.tsx) (via [Radix](https://www.radix-ui.com/primitives/docs/components/dropdown-menu#checkboxitem))
+- [Search](https://github.com/skullface/sceneland/blob/main/src/components/search.tsx) events by artist, venue, or date with natural language processing
 - Serve the page [statically](https://github.com/skullface/sceneland/blob/main/.github/workflows/build-and-deploy.yml) with [GitHub Pages](https://github.com/skullface/sceneland/tree/gh-pages) when data file is updated
 - [Generate](https://github.com/skullface/sceneland/blob/main/src/utils/generate-feed.ts) an [RSS feed](https://216.show/feed.xml) with all shows as feed items
 
 ### Update daily
 
 - At 5:00am ET, [refresh data](https://github.com/skullface/sceneland/blob/main/.github/workflows/fetch-data.yml) by re-fetching, re-merging, and re-deploying
+
+## Search Functionality
+
+The app includes a powerful search feature with natural language processing capabilities:
+
+### Search Examples
+
+- **"beachland aug 30"** - Finds all events at Beachland venues on August 30
+- **"devo"** - Returns "DEVOtional 2025" events (fuzzy matching)
+- **"girl"** - Finds events with "Surfer Girl" and "Angelgirl EVA"
+- **"august"** - Shows all events in August
+- **"beachland"** - Lists all events at Beachland venues
+
+### Search Features
+
+- **Real-time search** - Results update as you type
+- **Multi-field matching** - Searches across artist names, venue names, and dates
+- **Fuzzy matching** - Finds partial matches (e.g., "devo" matches "devotional")
+- **Date parsing** - Understands month names, abbreviations, and day numbers
+- **Venue matching** - Searches venue names for partial matches
+- **Clickable suggestions** - Quick search examples for users to try
+
+### Technical Implementation
+
+- Built with React hooks for state management
+- Processes search queries word-by-word for comprehensive matching
+- Integrates seamlessly with existing venue filtering
+- Responsive design for both desktop and mobile
+- Search results are displayed in the same weekly grouping format
 
 ## Fork this repo for your own city
 

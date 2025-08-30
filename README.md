@@ -29,7 +29,7 @@ The app includes a powerful search feature with natural language processing capa
 
 ### Search Examples
 
-- **"beachland aug 30"** - Finds all events at Beachland venues on August 30
+- **"beachland aug 30"** - Finds all events at Beachland venues and events on August 30
 - **"devo"** - Returns "DEVOtional 2025" events (fuzzy matching)
 - **"girl"** - Finds events with "Surfer Girl" and "Angelgirl EVA"
 - **"august"** - Shows all events in August

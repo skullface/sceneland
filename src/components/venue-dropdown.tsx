@@ -1,7 +1,7 @@
 import * as DropdownMenu from '@radix-ui/react-dropdown-menu'
 import { groupVenuesByTag, formatTag } from '~/utils/venue-utils'
 
-type VenueFilterProps = {
+type VenueDropdownProps = {
   venues: string[]
   selectedVenues: string[]
   onVenueToggle: (venue: string) => void
@@ -9,13 +9,13 @@ type VenueFilterProps = {
   onDeselectAll: () => void
 }
 
-export function VenueFilter({
+export function VenueDropdown({
   venues,
   selectedVenues,
   onVenueToggle,
   onSelectAll,
   onDeselectAll,
-}: VenueFilterProps) {
+}: VenueDropdownProps) {
   const { groupedVenues, sortedTags } = groupVenuesByTag(venues)
 
   return (

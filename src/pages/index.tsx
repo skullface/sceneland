@@ -13,7 +13,7 @@ import {
 } from '~/utils/venue-utils'
 
 import { SiteMeta } from '~/components/meta'
-import { VenueFilter } from '~/components/venue-filter'
+import { VenueDropdown } from '~/components/venue-dropdown'
 import { VenueSidebar } from '~/components/venue-sidebar'
 import { ShowCard } from '~/components/show-card'
 import { Search } from '~/components/search'
@@ -278,7 +278,7 @@ export default function Page({ shows }: PageProps) {
             : 'translate-y-[1.25em] md:translate-y-[2em]'
         }`}
       >
-        <VenueFilter
+        <VenueDropdown
           venues={allVenues} // array of all unique venues names
           selectedVenues={selectedVenues} // array of selected/checked
           onVenueToggle={handleVenueToggle} // function to handle toggling

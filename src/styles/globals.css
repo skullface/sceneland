@@ -4,63 +4,12 @@
 
 @layer base {
   body {
-    @apply bg-gray-100 text-gray-500 [text-wrap:pretty];
+    @apply bg-gray-100 text-gray-500;
+    text-wrap: pretty;
   }
 }
 
 @layer components {
-  /* Global styles */
-  .body {
-    @apply flex min-h-screen flex-col;
-  }
-
-  .main {
-    @apply mx-auto flex flex-col gap-14;
-  }
-
-  /* Site header */
-  header {
-    @apply sticky top-0 mx-auto max-md:mb-6 h-[100px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-gray-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur max-md:pb-11 md:h-[60px];
-  }
-
-  header div {
-    @apply relative w-full text-sm font-medium text-gray-600 transition duration-300 ease-in-out;
-  }
-
-  /* Empty state */
-  .empty-state {
-    @apply container mx-auto flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center max-md:w-[90%] md:gap-2;
-  }
-
-  .empty-state h2 {
-    @apply text-2xl font-medium text-red-600 md:text-3xl;
-  }
-
-  .empty-state p {
-    @apply text-base leading-snug text-red-500 md:text-lg;
-  }
-
-  /* Dropdown menu */
-  .dropdown-container {
-    @apply fixed top-5 z-[1] mx-auto w-full text-center transition duration-300;
-  }
-
-  .dropdown-button[data-state='open'] span {
-    @apply relative left-0.5 rotate-180;
-  }
-
-  /* Mobile-optimized dropdown scrolling */
-  .dropdown-content {
-    @apply overscroll-contain;
-  }
-
-  .dropdown-content > div:first-child {
-    -webkit-overflow-scrolling: touch;
-    scroll-behavior: smooth;
-    scrollbar-width: thin;
-    scrollbar-color: #4b5563 #1f2937;
-  }
-
   /* Custom scrollbar for webkit browsers */
   .dropdown-content > div:first-child::-webkit-scrollbar {
     @apply w-2;
@@ -72,17 +21,6 @@
 
   .dropdown-content > div:first-child::-webkit-scrollbar-thumb {
     @apply bg-gray-600 rounded hover:bg-gray-500;
-  }
-
-  /* Mobile-specific dropdown improvements */
-  @media (max-width: 768px) {
-    .dropdown-content {
-      @apply max-w-[calc(100vw-2rem)] mx-4;
-    }
-    
-    .dropdown-content > div:first-child {
-      @apply max-h-[60vh];
-    }
   }
 
   /* Accordion animations for dropdown */
@@ -110,43 +48,5 @@
 
   .animate-accordion-up {
     animation: accordion-up 300ms cubic-bezier(0.87, 0, 0.13, 1);
-  }
-
-  /*
-  .dropdown-content span svg {
-    @apply;
-  }
-  */
-  .dropdown-item[data-state='unchecked'] {
-    @apply text-gray-400;
-  }
-
-  .dropdown-item[data-state='checked'] span {
-    @apply text-green-600;
-  }
-
-  /* Shows */
-  .show-grouping {
-    @apply flex flex-col;
-  }
-
-  .show-grouping h2 {
-    @apply sticky top-16 flex w-full items-center justify-center gap-0 text-base text-gray-400 md:top-[14px] md:text-2xl;
-  }
-
-  .show-grouping ul {
-    @apply container grid grid-cols-1 gap-4 p-4 lg:grid-cols-2 xl:grid-cols-3 lg:gap-8 lg:p-8;
-  }
-
-  /* Desktop sidebar layout - adjust grid for sidebar */
-  @media (min-width: 768px) {
-    .show-grouping ul {
-      @apply mx-0 px-0;
-    }
-  }
-
-  /* Site footer */
-  footer {
-    @apply container mx-auto mt-auto flex flex-col gap-2 text-center text-sm;
   }
 }

@@ -187,9 +187,13 @@ export default function Page({ shows }: PageProps) {
   const renderGroupedShows = () => {
     if (groupedShows.length === 0) {
       return (
-        <div className='empty-state'>
-          <h2>No shows available</h2>
-          <p>Please select a venue to view upcoming events.</p>
+        <div className='container mx-auto flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center max-md:w-[90%] md:gap-2'>
+          <h2 className='text-2xl font-medium text-red-600 md:text-3xl'>
+            No shows available
+          </h2>
+          <p className='text-base leading-snug text-red-500 md:text-lg'>
+            Please select a venue to view upcoming events.
+          </p>
         </div>
       )
     } else {
@@ -217,8 +221,8 @@ export default function Page({ shows }: PageProps) {
         }
 
         return (
-          <section key={weekStartDate.toISOString()} className='show-grouping'>
-            <h2 className='md:sticky md:top-16'>
+          <section key={weekStartDate.toISOString()} className='flex flex-col'>
+            <h2 className='sticky top-16 flex w-full items-center justify-center gap-0 text-base text-gray-400 md:top-[14px] md:text-2xl'>
               {groupPrefix && (
                 <span className='text-sm font-medium uppercase md:text-lg'>
                   {groupPrefix}&nbsp;
@@ -226,7 +230,7 @@ export default function Page({ shows }: PageProps) {
               )}
               <span className='font-medium text-gray-500'>{groupLabel}</span>
             </h2>
-            <ul>
+            <ul className='container grid grid-cols-1 gap-4 p-4 lg:grid-cols-2 lg:gap-8 lg:p-8 xl:grid-cols-3'>
               {shows.map((show, i) => (
                 <ShowCard key={i} show={show} i={0} />
               ))}
@@ -250,17 +254,18 @@ export default function Page({ shows }: PageProps) {
   }
 
   return (
-    <div className='body'>
+    <div className='flex min-h-screen flex-col'>
       <SiteMeta />
 
       {/* Mobile: Dropdown filter */}
-      <header className='md:hidden'>
+      <header className='sticky top-0 mx-auto mb-6 h-[100px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-gray-50 p-4 pb-11 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur md:hidden'>
         <div
-          className={`${
-            animateOnScroll
-              ? 'translate-y-[-6em] opacity-0'
-              : 'mt-0.5 opacity-100 md:mt-1'
-          }`}
+          className={`relative w-full text-sm font-medium text-gray-600 transition duration-300 ease-in-out
+            ${
+              animateOnScroll
+                ? 'translate-y-[-6em] opacity-0'
+                : 'mt-0.5 opacity-100 md:mt-1'
+            }`}
         >
           <h1>Upcoming live music in Cleveland, OH</h1>
         </div>
@@ -272,7 +277,7 @@ export default function Page({ shows }: PageProps) {
       </div>
 
       <div
-        className={`dropdown-container transition-100 block md:hidden ${
+        className={`fixed top-5 z-[1] mx-auto block w-full text-center transition duration-300 md:hidden ${
           animateOnScroll
             ? 'translate-y-0'
             : 'translate-y-[1.25em] md:translate-y-[2em]'
@@ -307,13 +312,14 @@ export default function Page({ shows }: PageProps) {
           </footer>
         </div>
         <div className='flex-1'>
-          <header>
+          <header className='sticky top-0 mx-auto h-[60px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-gray-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur'>
             <div
-              className={`${
-                animateOnScroll
-                  ? 'translate-y-[-6em] opacity-0'
-                  : 'mt-0.5 opacity-100 md:mt-1'
-              }`}
+              className={`
+                relative w-full text-sm font-medium text-gray-600 transition duration-300 ease-in-out ${
+                  animateOnScroll
+                    ? 'translate-y-[-6em] opacity-0'
+                    : 'mt-0.5 opacity-100 md:mt-1'
+                }`}
             >
               <h1>Upcoming live music in Cleveland, OH</h1>
             </div>
@@ -353,7 +359,7 @@ export default function Page({ shows }: PageProps) {
       </div>
 
       {/* Mobile: Main content */}
-      <main className='main md:hidden'>
+      <main className='mx-auto flex flex-col gap-14 md:hidden'>
         {isSearchActive && (
           <div className='mx-4 mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4'>
             <div className='flex items-center justify-between'>

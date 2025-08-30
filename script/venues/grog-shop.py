@@ -20,6 +20,17 @@ for show in shows:
   opener = show.find('div', class_='tw-attractions')
   headlinerz = headliner.text.strip().replace('w / ', ', ').replace('w/ ', ', ').replace(' / / ', ', ').replace(' // ', ', ').replace(' / ', ', ').replace(' - ', ': ').replace(' – ', ': ')
 
+  # Check if the headliner contains any excluded words - if so, skip this entire event
+  excluded_words = ['Laugh Mondays', 'GlamGore', 'Midnight Rental', 'Trivia', 'Comedy']
+  should_skip_event = False
+  for word in excluded_words:
+      if word.lower() in headlinerz.lower():
+          should_skip_event = True
+          break
+  
+  if should_skip_event:
+      continue
+
   if opener and opener.text.strip():  # This checks both if opener exists and has non-empty text
       artists_with_openers = [headlinerz + ', ' + opener.text.strip().replace('w/ ', '').replace(' / ', ', ')]
   else:
@@ -41,7 +52,6 @@ for show in shows:
 
   # Filter out events/artists with specific words
   filtered_artists = []
-  excluded_words = ['Laugh Mondays', 'GlamGore', 'Midnight Rental', 'Trivia', 'Comedy']
   
   for artist in artists_with_openers_clean:
       should_exclude = False

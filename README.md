@@ -15,13 +15,13 @@ Aggregates concerts from local Cleveland venues in one website.
 - Use the `.js` data file to [display events](https://github.com/skullface/sceneland/blob/main/src/components/show-card.tsx) in chronological order
 - [Group events by week](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L92-L139) for improved readability/scannability
 - [Filter](https://github.com/skullface/sceneland/blob/main/src/pages/index.tsx#L51-L90) events by venue, [selectable by user](https://github.com/skullface/sceneland/blob/main/src/components/venue-filter.tsx) (via [Radix](https://www.radix-ui.com/primitives/docs/components/dropdown-menu#checkboxitem))
-- [Search](https://github.com/skullface/sceneland/blob/main/src/components/search.tsx) events by artist, venue, or date with natural language processing
-- Serve the page [statically](https://github.com/skullface/sceneland/blob/main/.github/workflows/build-and-deploy.yml) with [GitHub Pages](https://github.com/skullface/sceneland/tree/gh-pages) when data file is updated
+- [Search](https://github.com/skullface/sceneland/blob/main/src/components/search.tsx) events by artist or venue with natural language processing
+- Serve the page via [Vercel](https://vercel.com) when data files are updated
 - [Generate](https://github.com/skullface/sceneland/blob/main/src/utils/generate-feed.ts) an [RSS feed](https://216.show/feed.xml) with all shows as feed items
 
 ### Update daily
 
-- At 5:00am ET, [refresh data](https://github.com/skullface/sceneland/blob/main/.github/workflows/fetch-data.yml) by re-fetching, re-merging, and re-deploying
+- At 5:00am ET, [refresh data](https://github.com/skullface/sceneland/blob/main/.github/workflows/fetch-data.yml) by re-fetching (and re-deploying on commit)
 
 ## Search Functionality
 

@@ -101,9 +101,9 @@ export function VenueSidebar({
           <Accordion.Item
             key={tag}
             value={tag}
-            className='rounded-md border border-gray-200 px-3 pt-3'
+            className='rounded-md border border-gray-200 px-2 pt-3'
           >
-            <Accordion.Header className='group flex'>
+            <Accordion.Header className='group flex px-1'>
               <Accordion.Trigger className='flex flex-1 items-center justify-between text-left text-sm font-semibold uppercase tracking-wider text-gray-500 transition-colors hover:text-gray-700'>
                 {formatTag(tag)}
                 <span className='text-xs transition-transform duration-100 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[state=open]:rotate-180'>
@@ -111,7 +111,7 @@ export function VenueSidebar({
                 </span>
               </Accordion.Trigger>
             </Accordion.Header>
-            <Accordion.Content className='data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down mt-3 grid gap-3 overflow-hidden'>
+            <Accordion.Content className='data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down mt-2 grid gap-3 overflow-hidden px-1 pt-1'>
               <div className='grid gap-2'>
                 {groupedVenues[tag] &&
                   groupedVenues[tag]
@@ -119,7 +119,7 @@ export function VenueSidebar({
                     .map((venue) => (
                       <label
                         key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
-                        className='group flex cursor-pointer items-center gap-3'
+                        className='group flex cursor-pointer items-center gap-2'
                       >
                         <input
                           type='checkbox'

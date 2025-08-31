@@ -303,7 +303,7 @@ export default function Page({ shows }: PageProps) {
             onSelectAll={handleSelectAll}
             onDeselectAll={handleDeselectAll}
           />
-          <footer className='text-xs'>
+          <footer className='container mx-auto mt-auto flex flex-col gap-2 text-center text-xs'>
             <p>
               All data is pulled from the venues&apos; individual websites and
               aggregated here. No ownership of information is claimed nor

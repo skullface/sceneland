@@ -13,6 +13,7 @@ def should_skip_event(event_title):
         'Nerd Night',
         'Trivia',
         'Punk Night',
+        'Dance Party',
         'Bingo',
         'Comedy',
         'Closed',

@@ -120,13 +120,17 @@ export function VenueSidebar({
                       <label
                         key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
                         className='group flex cursor-pointer items-center gap-2'
+                        onClick={() => onVenueToggle(venue)}
                       >
-                        <input
-                          type='checkbox'
-                          checked={selectedVenues.includes(venue)}
-                          onChange={() => onVenueToggle(venue)}
-                          className='h-4 w-4 rounded border-gray-300 text-lime-600 focus:ring-lime-500'
-                        />
+                        <span
+                          className={`order-first w-5 text-center ${
+                            selectedVenues.includes(venue)
+                              ? 'text-green-600'
+                              : 'text-gray-400'
+                          }`}
+                        >
+                          {selectedVenues.includes(venue) ? '✓' : '×'}
+                        </span>
                         <span className='text-sm font-medium text-gray-700 group-hover:text-gray-900'>
                           {venue}
                         </span>

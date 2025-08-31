@@ -32,7 +32,7 @@ for show in shows:
   date = date_str.strftime("%Y-%m-%d")
   all_shows_data['date'] = date + 'T00:00:01'
 
-  all_shows_data['venue'] = 'Masonic Temple'
+  all_shows_data['venue'] = 'TempleLive Cleveland Masonic'
   all_shows_list.append(all_shows_data)
 
 all_shows_json = json.dumps(all_shows_list, indent=2) 

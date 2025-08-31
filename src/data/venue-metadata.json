@@ -59,6 +59,12 @@
       "capacity": "large"
     }
   ],
+  "Jacobs Pavilion": [
+    {
+      "geo": "downtown",
+      "capacity": "large"
+    }
+  ],
   "Little Rose Tavern": [
     {
       "geo": "westside",
@@ -75,6 +81,12 @@
     {
       "geo": "westside",
       "capacity": "medium"
+    }
+  ],
+  "TempleLive Cleveland Masonic": [
+    {
+      "geo": "eastside",
+      "capacity": "large"
     }
   ],
   "Masonic Temple": [
@@ -138,6 +150,12 @@
     }
   ],
   "Mercury Music Lounge": [
+    {
+      "geo": "westside",
+      "capacity": "tiny"
+    }
+  ],
+  "Mercury Lounge": [
     {
       "geo": "westside",
       "capacity": "tiny"

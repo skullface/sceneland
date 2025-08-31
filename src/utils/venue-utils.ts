@@ -17,6 +17,9 @@ export const VENUE_MAPPINGS: { [key: string]: string } = {
   'Beachland Tavern': 'Beachland',
   "Mahall's Apartment": "Mahall's",
   "The Roxy at Mahall's": "Mahall's",
+  'Jacobs Pavilion at Nautica': 'Jacobs Pavilion',
+  'Mercury Music Lounge': 'Mercury Lounge',
+  'TempleLive Cleveland Masonic': 'Masonic Temple',
 }
 
 // Geographic tag order for consistent sorting

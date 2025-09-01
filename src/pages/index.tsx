@@ -230,7 +230,7 @@ export default function Page({ shows }: PageProps) {
               )}
               <span className='font-medium text-gray-500'>{groupLabel}</span>
             </h2>
-            <ul className='container grid grid-cols-1 gap-4 p-4 lg:grid-cols-2 lg:gap-8 lg:p-8 xl:grid-cols-3'>
+            <ul className='container grid grid-cols-1 gap-4 max-lg:p-4 lg:grid-cols-2 lg:gap-8 xl:grid-cols-3'>
               {shows.map((show, i) => (
                 <ShowCard key={i} show={show} i={0} />
               ))}
@@ -391,7 +391,7 @@ export default function Page({ shows }: PageProps) {
         {renderGroupedShows()}
       </main>
 
-      <footer className='my-6 text-xs md:hidden'>
+      <footer className='my-6 p-8 text-center text-xs md:hidden'>
         <p>
           All data is pulled from the venues&apos; individual websites and
           aggregated here. No ownership of information is claimed nor implied.

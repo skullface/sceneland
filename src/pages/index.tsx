@@ -305,7 +305,7 @@ export default function Page({ shows }: PageProps) {
           />
           <footer className='container mx-auto mt-auto flex flex-col gap-2 text-center text-xs'>
             <p>
-              All data is pulled from the venues&apos; individual websites and
+              All data is pulled from the venues’ individual websites and
               aggregated here. No ownership of information is claimed nor
               implied.
             </p>
@@ -326,13 +326,13 @@ export default function Page({ shows }: PageProps) {
           </header>
           <main className='mx-6 py-6'>
             {isSearchActive && (
-              <div className='mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4'>
+              <div className='mb-6 rounded-md border border-blue-200 bg-blue-50 p-4'>
                 <div className='flex items-center justify-between'>
                   <div>
-                    <h3 className='text-lg font-medium text-blue-900'>
+                    <h3 className='text-lg font-medium text-blue-600'>
                       Search results
                     </h3>
-                    <p className='text-sm text-blue-700'>
+                    <p className='text-sm text-blue-600'>
                       Found{' '}
                       <b>
                         {searchResults.shows.length} event

@@ -20,7 +20,7 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
       <li key={i}>
         <a
           href={show.link}
-          className='group flex h-full min-h-[180px] flex-col justify-between gap-y-4 rounded border border-gray-200 bg-white p-4 leading-snug  decoration-gray-200 shadow-sm transition hover:!border-gray-300 hover:underline hover:shadow-md hover:!shadow-black/5 focus:outline-none focus:ring focus:ring-lime-500/50'
+          className='group flex h-full min-h-[180px] flex-col justify-between gap-y-4 rounded-md border border-gray-200 bg-white p-4 leading-snug  decoration-gray-200 shadow-sm transition hover:!border-gray-300 hover:underline hover:shadow-md hover:!shadow-black/5 focus:border-blue-500 focus:outline-none focus:ring focus:ring-blue-500/50'
         >
           <div className='flex flex-col gap-y-2'>
             <h3 className='order-2 text-lg font-medium text-gray-800'>

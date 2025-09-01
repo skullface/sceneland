@@ -38,7 +38,7 @@ export function VenueDropdown({
         }
       `}</style>
       <DropdownMenu.Root>
-        <DropdownMenu.Trigger className='group z-50 w-auto cursor-pointer select-none rounded-md border border-gray-800 bg-gray-950 px-4 py-2 text-sm font-medium text-gray-50 shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(255,255,255,0.25)] transition hover:bg-gray-800 focus:outline-none focus:ring focus:ring-lime-500/75 md:text-base'>
+        <DropdownMenu.Trigger className='group z-50 w-auto cursor-pointer select-none rounded-md border border-gray-800 bg-gray-900 px-4 py-2 text-sm font-medium text-gray-50 shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(255,255,255,0.25)] transition hover:bg-gray-800 focus:outline-none focus:ring focus:ring-blue-400 md:text-base'>
           Filter venues{' '}
           <span className='inline-block text-xs leading-none text-gray-400 transition-colors group-hover:text-gray-200'>
             ▼

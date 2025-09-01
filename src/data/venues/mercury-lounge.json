@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Catatoneya, Rustic Skies, & The Battle"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/catatoneya-rustic-skies-the-battle/",
-    "date": "2025-08-31T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Honeyland, Wexford, Tephra, Cruz Campo"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/honeyland-wexford-tephra-cruz-campo/",
@@ -53,14 +45,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/rhapsody-of-fire-enforcer-striker-witherfall/",
     "date": "2025-09-19T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Nile \u2013 The Underworld Awaits Tour"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/nile-the-underworld-awaits-tour/",
-    "date": "2025-09-22T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -125,14 +109,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/freak-show/",
     "date": "2025-10-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Talib Kweli"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/talib-kweli/",
-    "date": "2025-10-14T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -213,6 +189,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/mindset-g-space/",
     "date": "2025-11-22T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Ekoh, Arankai, Dead Cassette"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/ekoh-w-arankai-guests/",
+    "date": "2025-12-05T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

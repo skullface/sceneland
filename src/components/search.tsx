@@ -180,6 +180,11 @@ export function Search({ shows, onSearchResults }: SearchProps) {
     }
   }
 
+  const handleClear = () => {
+    setQuery('')
+    onSearchResults({ shows: shows, query: '' })
+  }
+
   return (
     <div className='search-container mb-4'>
       <div className='relative'>
@@ -189,7 +194,7 @@ export function Search({ shows, onSearchResults }: SearchProps) {
           value={query}
           onChange={handleInputChange}
           onKeyDown={handleKeyDown}
-          className='w-full rounded-lg border border-gray-300 px-4 py-2 pl-10 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-blue-500'
+          className='w-full rounded-lg border border-gray-300 px-4 py-2 pl-10 pr-10 text-gray-900 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-blue-500'
         />
         <div className='pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3'>
           <svg
@@ -206,10 +211,27 @@ export function Search({ shows, onSearchResults }: SearchProps) {
             />
           </svg>
         </div>
-        {isSearching && (
-          <div className='absolute inset-y-0 right-0 flex items-center pr-3'>
-            <div className='h-4 w-4 animate-spin rounded-full border-b-2 border-blue-500'></div>
-          </div>
+        {query && (
+          <button
+            onClick={handleClear}
+            className='absolute inset-y-0 right-0 flex items-center pr-3 text-gray-400 hover:text-gray-600 focus:outline-none'
+            type='button'
+            aria-label='Clear search'
+          >
+            <svg
+              className='h-5 w-5'
+              fill='none'
+              stroke='currentColor'
+              viewBox='0 0 24 24'
+            >
+              <path
+                strokeLinecap='round'
+                strokeLinejoin='round'
+                strokeWidth={2}
+                d='M6 18L18 6M6 6l12 12'
+              />
+            </svg>
+          </button>
         )}
       </div>
     </div>

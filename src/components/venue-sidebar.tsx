@@ -1,5 +1,11 @@
 import { groupVenuesByTag, formatTag } from '~/utils/venue-utils'
-import * as Accordion from '@radix-ui/react-accordion'
+import {
+  DisclosureGroup,
+  Disclosure,
+  Button,
+  DisclosurePanel,
+  Heading,
+} from 'react-aria-components'
 
 type VenueSidebarProps = {
   venues: string[]
@@ -92,26 +98,28 @@ export function VenueSidebar({
     <aside className='flex flex-col gap-4'>
       <h2 className='text-lg font-semibold text-gray-900'>Filter Venues</h2>
 
-      <Accordion.Root
-        type='multiple'
-        defaultValue={['downtown']}
+      <DisclosureGroup
+        defaultExpandedKeys={['downtown']}
         className='grid gap-2'
       >
         {sortedTags.map((tag) => (
-          <Accordion.Item
+          <Disclosure
             key={tag}
-            value={tag}
-            className='rounded-md border border-gray-200 px-2 pt-3'
+            id={tag}
+            className='rounded-md border border-gray-200'
           >
-            <Accordion.Header className='group flex px-1'>
-              <Accordion.Trigger className='flex flex-1 items-center justify-between text-left text-sm font-semibold uppercase tracking-wider text-gray-500 transition-colors hover:text-gray-700'>
+            <Heading>
+              <Button
+                slot='trigger'
+                className='group flex w-full flex-1 items-center justify-between text-left text-sm font-semibold uppercase tracking-wider text-gray-500 transition-colors hover:text-gray-700'
+              >
                 {formatTag(tag)}
-                <span className='text-xs transition-transform duration-100 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[state=open]:rotate-180'>
+                <span className='text-xs transition-transform duration-100 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[expanded]:rotate-180'>
                   ▼
                 </span>
-              </Accordion.Trigger>
-            </Accordion.Header>
-            <Accordion.Content className='data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down mt-2 grid gap-3 overflow-hidden px-1 pt-1'>
+              </Button>
+            </Heading>
+            <DisclosurePanel className='data-[entering]:animate-disclosure-down data-[exiting]:animate-disclosure-up mt-2 grid gap-3 overflow-hidden'>
               <div className='grid gap-2'>
                 {groupedVenues[tag] &&
                   groupedVenues[tag]
@@ -121,6 +129,13 @@ export function VenueSidebar({
                         key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
                         className='group flex cursor-pointer items-center gap-2'
                         onClick={() => onVenueToggle(venue)}
+                        tabIndex={0}
+                        onKeyDown={(e) => {
+                          if (e.key === 'Enter' || e.key === ' ') {
+                            e.preventDefault()
+                            onVenueToggle(venue)
+                          }
+                        }}
                       >
                         <span
                           className={`order-first w-5 text-center ${
@@ -138,18 +153,18 @@ export function VenueSidebar({
                     ))}
               </div>
               <button
-                className='mx-2 mb-2 flex-1 rounded border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500'
+                className='flex-1 rounded border border-gray-300 bg-white text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500'
                 onClick={() => handleToggleAllInSection(tag)}
               >
                 {getToggleButtonText(tag)}
               </button>
-            </Accordion.Content>
-          </Accordion.Item>
+            </DisclosurePanel>
+          </Disclosure>
         ))}
-      </Accordion.Root>
+      </DisclosureGroup>
 
       <button
-        className='rounded-md border border-gray-300 bg-white px-3 py-2 text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500 '
+        className='rounded-md border border-gray-300 bg-white text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500 '
         onClick={handleToggleAll}
       >
         {getGlobalToggleButtonText()}

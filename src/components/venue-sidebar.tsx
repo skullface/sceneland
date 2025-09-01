@@ -138,7 +138,7 @@ export function VenueSidebar({
                     ))}
               </div>
               <button
-                className='mb-4 flex-1 rounded border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50'
+                className='mx-2 mb-2 flex-1 rounded border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500'
                 onClick={() => handleToggleAllInSection(tag)}
               >
                 {getToggleButtonText(tag)}
@@ -149,7 +149,7 @@ export function VenueSidebar({
       </Accordion.Root>
 
       <button
-        className='rounded-md border border-gray-300 bg-white px-3 py-2 text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50'
+        className='rounded-md border border-gray-300 bg-white px-3 py-2 text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500 '
         onClick={handleToggleAll}
       >
         {getGlobalToggleButtonText()}

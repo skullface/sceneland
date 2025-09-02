@@ -95,13 +95,10 @@ export function VenueSidebar({
   }
 
   return (
-    <aside className='flex flex-col gap-4'>
+    <aside className='flex flex-col'>
       <h2 className='text-lg font-semibold text-gray-900'>Filter Venues</h2>
 
-      <DisclosureGroup
-        defaultExpandedKeys={['downtown']}
-        className='grid gap-2'
-      >
+      <DisclosureGroup defaultExpandedKeys={['downtown']} className='grid'>
         {sortedTags.map((tag) => (
           <Disclosure
             key={tag}
@@ -119,16 +116,15 @@ export function VenueSidebar({
                 </span>
               </Button>
             </Heading>
-            <DisclosurePanel className='data-[entering]:animate-disclosure-down data-[exiting]:animate-disclosure-up mt-2 grid gap-3 overflow-hidden'>
-              <div className='grid gap-2'>
+            <DisclosurePanel className='data-[entering]:animate-disclosure-down data-[exiting]:animate-disclosure-up grid overflow-hidden'>
+              <div className='grid'>
                 {groupedVenues[tag] &&
                   groupedVenues[tag]
                     .sort((a, b) => a.localeCompare(b))
                     .map((venue) => (
                       <label
                         key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
-                        className='group flex cursor-pointer items-center gap-2'
-                        onClick={() => onVenueToggle(venue)}
+                        className='group flex cursor-pointer items-center rounded focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-1'
                         tabIndex={0}
                         onKeyDown={(e) => {
                           if (e.key === 'Enter' || e.key === ' ') {
@@ -137,15 +133,13 @@ export function VenueSidebar({
                           }
                         }}
                       >
-                        <span
-                          className={`order-first w-5 text-center ${
-                            selectedVenues.includes(venue)
-                              ? 'text-green-600'
-                              : 'text-gray-400'
-                          }`}
-                        >
-                          {selectedVenues.includes(venue) ? '✓' : '×'}
-                        </span>
+                        <input
+                          type='checkbox'
+                          checked={selectedVenues.includes(venue)}
+                          onChange={() => onVenueToggle(venue)}
+                          className='h-4 w-4 rounded border-gray-300 text-blue-600 accent-blue-600 focus:ring-2 focus:ring-blue-500 focus:ring-offset-0'
+                          tabIndex={-1}
+                        />
                         <span className='text-sm font-medium text-gray-700 group-hover:text-gray-900'>
                           {venue}
                         </span>

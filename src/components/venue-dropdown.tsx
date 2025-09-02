@@ -96,24 +96,26 @@ export function VenueDropdown({
                         groupedVenues[tag]
                           .sort((a, b) => a.localeCompare(b))
                           .map((venue, venueIndex) => (
-                            <button
-                              className='flex cursor-pointer items-center justify-start gap-x-2 px-4 py-1.5 font-medium text-gray-100 hover:bg-gray-800 hover:text-white focus:bg-gray-800 focus:text-white focus:outline-none md:py-2'
+                            <label
+                              className='flex cursor-pointer items-center justify-start gap-x-2 px-4 py-1.5 font-medium text-gray-100 focus-within:bg-gray-800 focus-within:text-white hover:bg-gray-800 hover:text-white md:py-2'
                               key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
-                              onClick={() => {
-                                onVenueToggle(venue)
+                              tabIndex={0}
+                              onKeyDown={(e) => {
+                                if (e.key === 'Enter' || e.key === ' ') {
+                                  e.preventDefault()
+                                  onVenueToggle(venue)
+                                }
                               }}
                             >
+                              <input
+                                type='checkbox'
+                                checked={selectedVenues.includes(venue)}
+                                onChange={() => onVenueToggle(venue)}
+                                className='h-4 w-4 rounded border-gray-600 bg-gray-800 text-blue-600 accent-blue-600 focus:ring-2 focus:ring-blue-500 focus:ring-offset-0'
+                                tabIndex={-1}
+                              />
                               {venue}
-                              <span
-                                className={`order-first w-5 text-center ${
-                                  selectedVenues.includes(venue)
-                                    ? 'text-green-600'
-                                    : 'text-gray-400'
-                                }`}
-                              >
-                                {selectedVenues.includes(venue) ? '✓' : '×'}
-                              </span>
-                            </button>
+                            </label>
                           ))}
                     </div>
                   </DisclosurePanel>

@@ -24,24 +24,13 @@ Aggregates concerts from local Cleveland venues in one website.
 
 ## Search functionality
 
-The app includes a powerful search feature with natural language processing capabilities:
-
-### Examples
+The app includes a powerful search feature with natural language processing capabilities. Example queries:
 
 - **"beachland aug 30"** - Finds all events at Beachland venues and events on August 30
 - **"devo"** - Returns "DEVOtional 2025" events (fuzzy matching)
 - **"girl"** - Finds events with "Surfer Girl" and "Angelgirl EVA"
 - **"august"** - Shows all events in August
 - **"beachland"** - Lists all events at Beachland venues
-
-### Features
-
-- **Real-time search** - Results update as you type
-- **Multi-field matching** - Searches across artist names, venue names, and dates
-- **Fuzzy matching** - Finds partial matches (e.g., "devo" matches "devotional")
-- **Date parsing** - Understands month names, abbreviations, and day numbers
-- **Venue matching** - Searches venue names for partial matches
-- **Clickable suggestions** - Quick search examples for users to try
 
 ## Fork this repo for your own city
 

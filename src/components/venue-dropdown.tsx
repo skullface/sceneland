@@ -62,7 +62,7 @@ export function VenueDropdown({
                 <Heading>
                   <Button
                     slot='trigger'
-                    className='group flex w-full flex-1 items-center justify-between rounded p-2 text-left text-xs font-semibold uppercase tracking-wider text-gray-400 transition-colors hover:text-gray-200 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500'
+                    className='group relative z-20 flex w-full flex-1 items-center justify-between rounded p-2 text-left text-xs font-semibold uppercase tracking-wider text-gray-400 transition-colors hover:text-gray-200 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500'
                   >
                     {formatTag(tag)}
                     <span className='text-xs transition-transform duration-100 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[expanded]:rotate-180'>
@@ -81,7 +81,7 @@ export function VenueDropdown({
                             className='px-2'
                           >
                             <label
-                              className='-mx-2 flex cursor-pointer items-center justify-start gap-x-2 rounded px-2 py-0.5 font-medium text-gray-300 focus-within:bg-gray-800 focus-within:text-gray-50 focus-within:outline-none hover:bg-gray-800 hover:text-white'
+                              className='-mx-2 flex cursor-pointer items-center justify-start gap-x-2 rounded px-2 py-0.5 font-medium text-gray-300 focus-within:bg-gray-700 focus-within:text-gray-50 focus-within:outline-none hover:bg-gray-800 hover:text-gray-50'
                               tabIndex={0}
                               onKeyDown={(e) => {
                                 if (e.key === 'Enter' || e.key === ' ') {
@@ -107,7 +107,7 @@ export function VenueDropdown({
                                 >
                                   {selectedVenues.includes(venue) && (
                                     <svg
-                                      className='size-3 text-white'
+                                      className='size-3 text-gray-50'
                                       fill='currentColor'
                                       viewBox='0 0 20 20'
                                     >
@@ -131,7 +131,7 @@ export function VenueDropdown({
           </DisclosureGroup>
 
           {/* Bottom fade indicator */}
-          <div className='pointer-events-none sticky -bottom-2 z-20 h-4 bg-gradient-to-t from-gray-900 to-transparent' />
+          <div className='pointer-events-none sticky -bottom-2 z-20 h-4 bg-gradient-to-t from-gray-900 to-transparent dark:from-gray-50' />
         </div>
 
         {/* Fixed bottom section with action buttons */}

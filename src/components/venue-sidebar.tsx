@@ -152,7 +152,7 @@ export function VenueSidebar({
                     ))}
               </ul>
               <button
-                className='m-2 mt-3 flex-1 rounded border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50'
+                className='m-2 mt-3 flex-1 rounded border border-gray-300 bg-gray-100 px-2 py-1 text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50'
                 onClick={() => handleToggleAllInSection(tag)}
               >
                 {getToggleButtonText(tag)}
@@ -163,7 +163,7 @@ export function VenueSidebar({
       </DisclosureGroup>
 
       <button
-        className='rounded border border-gray-300 bg-white p-2 text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50'
+        className='rounded border border-gray-300 bg-gray-100 p-2 text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50'
         onClick={handleToggleAll}
       >
         {getGlobalToggleButtonText()}

@@ -1,40 +1,14 @@
-from selenium import webdriver
-from selenium.webdriver import FirefoxOptions
-from selenium.common.exceptions import NoSuchElementException
+import requests
 from bs4 import BeautifulSoup 
 import json
-import time
 from datetime import datetime
 
-url = 'https://www.agoracleveland.com/events'
-options = FirefoxOptions()
-options.add_argument('--headless')
-browser = webdriver.Firefox(options=options)
-browser.implicitly_wait(30)
-browser.get(url)
-try:
-  # Click cookie reject button
-  time.sleep(5)
-  cookie_button = browser.find_element('id', 'onetrust-reject-all-handler')
-  cookie_button.click()
-  time.sleep(5) # wait for the page to get rid of the banner
-  # First attempt to click the button
-  load_more_button = browser.find_element('id', 'loadMoreEvents')
-  load_more_button.click()
-  time.sleep(1) # wait for the page to load more events
-  # Second attempt to click the button
-  try:
-    load_more_button = browser.find_element('id', 'loadMoreEvents')
-    load_more_button.click()
-    time.sleep(1) # wait for the page to load more events
-  except NoSuchElementException:
-    # If the button is not found the second time, pass
-    pass
-except NoSuchElementException:
-  # If the button is not found the first time, pass
-  pass
+# Load the page
+session = requests.Session()
+page = session.get('https://www.agoracleveland.com/events/all', headers={'User-Agent': 'Mozilla/5.0'})
 
-soup = BeautifulSoup(browser.page_source, 'html.parser')
+# Grab the container elements in the DOM
+soup = BeautifulSoup(page.content, 'html.parser')
 calendar = soup.find(id='eventsList')
 shows = calendar.find_all('div', class_='entry')
 

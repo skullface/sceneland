@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Banshee",
-      "Lyell",
-      "Kanner"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14453303/banshee-lyell-kanner",
-    "date": "2026-08-31T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Glass Spells",
       "Dark Chisme",
       "Breathe In Stereo"
@@ -166,9 +156,9 @@
   },
   {
     "artist": [
-      "Brooks Nielsen (of The Growlers)"
+      "Brooks Nielsen"
     ],
-    "link": "https://www.beachlandballroom.com/e/14376613/brooks-nielsen-of-the-growlers-",
+    "link": "https://www.beachlandballroom.com/e/14376613/brooks-nielsen",
     "date": "2025-09-14T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -854,7 +844,7 @@
   },
   {
     "artist": [
-      "Bitchin Bajas",
+      "Bitchin' Bajas",
       "Powers Rolin Duo"
     ],
     "link": "https://www.beachlandballroom.com/e/13898324/bitchin-bajas-powers-rolin-duo",

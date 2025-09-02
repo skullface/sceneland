@@ -25,9 +25,9 @@
   },
   {
     "artist": [
-      "Deep Essence ,  Faerie Ring"
+      "Brake Fluid Presents: Off The Track"
     ],
-    "link": "https://www.eventbrite.com/e/deep-essence-faerie-ring-tickets-1573712760229",
+    "link": "https://www.eventbrite.com/e/brake-fluid-presents-off-the-track-tickets-1573712760229",
     "date": "2025-09-05T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -65,9 +65,9 @@
   },
   {
     "artist": [
-      "High council, Emerald Rage, Iron Brigade"
+      "High council, Emerald Rage, Iron Brigade, Storms Of Tomorrow"
     ],
-    "link": "https://www.eventbrite.com/e/high-councilemerald-rageiron-brigade-tickets-1641354197589",
+    "link": "https://www.eventbrite.com/e/high-councilemerald-rageiron-brigadestorms-of-tomorrow-tickets-1641354197589",
     "date": "2025-09-14T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -108,6 +108,14 @@
       "Friendship Commanders, Papers, Thunderbird Divine"
     ],
     "link": "https://www.eventbrite.com/e/friendship-commanderspapersthunderbird-divine-tickets-1550137666489",
+    "date": "2025-09-20T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Wanted Alien, I Told You, Nova Buzz, Yellow Fever, The Velvet Gentlemen"
+    ],
+    "link": "https://www.eventbrite.com/e/wanted-alieni-told-younova-buzzyellow-feverthe-velvet-gentlemen-tickets-1652709200709",
     "date": "2025-09-20T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -185,6 +193,14 @@
   },
   {
     "artist": [
+      "Wanted, Septic Idols, Fyath"
+    ],
+    "link": "https://www.eventbrite.com/e/wantedseptic-idolsfyath-tickets-1652788297289",
+    "date": "2025-10-18T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Osi and the Jupiter, Nechowchwen, PATHLESS"
     ],
     "link": "https://www.eventbrite.com/e/osi-and-the-jupiternechowchwenpathless-tickets-1538691189769",
@@ -245,6 +261,14 @@
     ],
     "link": "https://www.eventbrite.com/e/brake-fluidblissen-negative-zen-sedona-tickets-1596252737909",
     "date": "2025-12-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Debris, Sundras, Orion\u2019s Sword"
+    ],
+    "link": "https://www.eventbrite.com/e/debrissundrasorions-sword-tickets-1633057903149",
+    "date": "2025-12-20T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

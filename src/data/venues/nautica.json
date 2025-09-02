@@ -70,5 +70,13 @@
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1042332",
     "date": "2025-10-26T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Russell Dickerson"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1121366",
+    "date": "2026-05-29T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
   }
 ]

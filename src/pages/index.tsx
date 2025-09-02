@@ -222,7 +222,7 @@ export default function Page({ shows }: PageProps) {
 
         return (
           <section key={weekStartDate.toISOString()} className='flex flex-col'>
-            <h2 className='sticky top-16 flex w-full items-center justify-center gap-0 text-base text-gray-400 md:top-[14px] md:text-2xl'>
+            <h2 className='sticky top-16 flex w-full items-center justify-center gap-0 text-base text-gray-400 md:top-[14px] md:my-6 md:text-2xl'>
               {groupPrefix && (
                 <span className='text-sm font-medium uppercase md:text-lg'>
                   {groupPrefix}&nbsp;

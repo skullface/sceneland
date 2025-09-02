@@ -80,9 +80,10 @@ export function VenueDropdown({
                             key={venue.replace(/[^\w]+/g, '-').toLowerCase()}
                             className='px-2'
                           >
-                            <label
-                              className='-mx-2 flex cursor-pointer items-center justify-start gap-x-2 rounded px-2 py-0.5 font-medium text-gray-300 focus-within:bg-gray-700 focus-within:text-gray-50 focus-within:outline-none hover:bg-gray-800 hover:text-gray-50'
-                              tabIndex={0}
+                            <button
+                              type='button'
+                              className='-mx-2 flex w-full cursor-pointer items-center justify-start gap-x-2 rounded px-2 py-0.5 font-medium text-gray-300 hover:bg-gray-800 hover:text-gray-50 focus:bg-gray-700 focus:text-gray-50 focus:outline-none'
+                              onClick={() => onVenueToggle(venue)}
                               onKeyDown={(e) => {
                                 if (e.key === 'Enter' || e.key === ' ') {
                                   e.preventDefault()
@@ -121,7 +122,7 @@ export function VenueDropdown({
                                 </div>
                               </div>
                               {venue}
-                            </label>
+                            </button>
                           </li>
                         ))}
                   </ul>

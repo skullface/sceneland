@@ -127,9 +127,10 @@ export function VenueSidebar({
                     .sort((a, b) => a.localeCompare(b))
                     .map((venue) => (
                       <li key={venue.replace(/[^\w]+/g, '-').toLowerCase()}>
-                        <label
-                          className='group flex cursor-pointer items-center gap-2 rounded px-2 py-0.5 first:mt-1 focus-within:outline-none focus-within:ring-2 focus-within:ring-blue-500 focus-within:ring-offset-1'
-                          tabIndex={0}
+                        <button
+                          type='button'
+                          className='group flex w-full cursor-pointer items-center gap-2 rounded px-2 py-0.5 first:mt-1 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-1'
+                          onClick={() => onVenueToggle(venue)}
                           onKeyDown={(e) => {
                             if (e.key === 'Enter' || e.key === ' ') {
                               e.preventDefault()
@@ -147,7 +148,7 @@ export function VenueSidebar({
                           <span className='text-sm font-medium text-gray-700 group-hover:text-gray-900'>
                             {venue}
                           </span>
-                        </label>
+                        </button>
                       </li>
                     ))}
               </ul>

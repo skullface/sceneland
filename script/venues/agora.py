@@ -34,6 +34,10 @@ for show in shows:
       
   date = show.find('span', class_='date').text.strip()
 
+  # Skip events with TBD dates
+  if 'TBD' in date.upper():
+    continue
+
   day_of_week, date_part = date.split(',', maxsplit=1)
   date_part = date_part.strip()
   date_part_cleaned = ' '.join(date_part.split())

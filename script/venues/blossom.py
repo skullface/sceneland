@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup 
 import json
-from datetime import datetime
-import re
 
 session = requests.Session()
 page = session.get('https://www.ticketmaster.com/blossom-music-center-tickets-cuyahoga-falls/venue/40964', headers={'User-Agent': 'Mozilla/5.0'})

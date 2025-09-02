@@ -3,7 +3,7 @@ from selenium.webdriver import FirefoxOptions
 from bs4 import BeautifulSoup 
 import json
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 
 url = 'https://www.rocketarena.com/events'
 options = FirefoxOptions()

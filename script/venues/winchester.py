@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup 
 import json
 from datetime import datetime
-from collections import OrderedDict
 
 # url base https://thewinchestermusictavern.com/page/1 
 url_base = 'https://thewinchestermusictavern.com/page/'

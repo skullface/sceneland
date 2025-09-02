@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup 
 import json
-from datetime import datetime
 
 def should_exclude_event(artist_name):
     """Check if event should be excluded based on artist name or event title"""

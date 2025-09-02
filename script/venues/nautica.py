@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver import FirefoxOptions
-from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup 
 import json
 import time

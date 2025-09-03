@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Glass Spells",
-      "Dark Chisme",
-      "Breathe In Stereo"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14473793/glass-spells-dark-chisme-breathe-in-stereo",
-    "date": "2025-09-02T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Deke Dickerson & The Whippersnappers",
       "Tall Paul and Western Drawl"
     ],
@@ -539,9 +529,10 @@
   },
   {
     "artist": [
-      "South Arcade"
+      "South Arcade",
+      "Raue"
     ],
-    "link": "https://www.beachlandballroom.com/e/13807534/south-arcade",
+    "link": "https://www.beachlandballroom.com/e/13807534/south-arcade-raue",
     "date": "2025-10-18T19:30:00",
     "venue": "Beachland Tavern"
   },
@@ -616,6 +607,19 @@
   },
   {
     "artist": [
+      "Collin Miller & The Brother Nature",
+      "Solon & Friends",
+      "Sleazus",
+      "Killalias",
+      "Joey Spins",
+      "Live Visuals by Goo La Goon"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14533313/collin-miller-the-brother-nature-solon-friends-sleazus-killalias-joey-spins-live-visuals-by-goo-la-goon",
+    "date": "2025-10-24T19:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Brandon Hardesty",
       "Will Lopez"
     ],
@@ -666,6 +670,16 @@
     "link": "https://www.beachlandballroom.com/e/13843214/ashland-craft",
     "date": "2025-10-31T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Da Land Brass Band",
+      "Black Voltron",
+      "Jinari Kemet"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14534033/da-land-brass-band-black-voltron-jinari-kemet",
+    "date": "2025-10-31T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [

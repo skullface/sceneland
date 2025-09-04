@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "The Modern Kollective",
-      "Lacey In Candescent",
-      "Something for Saturday"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-modern-kollective-lady-in-candescent-just-water/",
-    "date": "2025-09-03",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Audible Jones",
       "Jack Mclaughlin",
       "Jack McLaughlin"
@@ -22,8 +12,7 @@
   {
     "artist": [
       "Unwound: 30 Years of  'The Future Of What\u2019",
-      "Harriet The Spy",
-      "Deep Essence"
+      "Harriet The Spy"
     ],
     "link": "https://grogshop.gs/tm-event/unwound-30-years-of-the-future-of-what/",
     "date": "2025-09-06",
@@ -41,18 +30,18 @@
   },
   {
     "artist": [
-      "Fu Manchu"
+      "Momma: Welcome To My Blue Sky Tour",
+      "villagerrr"
     ],
-    "link": "https://grogshop.gs/tm-event/fu-manchu/",
+    "link": "https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/",
     "date": "2025-09-11",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Momma: Welcome To My Blue Sky Tour",
-      "villagerrr"
+      "Fu Manchu"
     ],
-    "link": "https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/",
+    "link": "https://grogshop.gs/tm-event/fu-manchu/",
     "date": "2025-09-11",
     "venue": "Grog Shop"
   },
@@ -147,11 +136,21 @@
   {
     "artist": [
       "Kid Congo & The Pink Monkey Birds",
-      "Human Eye",
+      "Cheater Slicks",
       "OONGOW!!!"
     ],
     "link": "https://grogshop.gs/tm-event/kid-congo-powers-the-pink-monkey-birds/",
     "date": "2025-09-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Heights Music Hop at Grog Shop",
+      "Darrin Hacquard",
+      "Sabon"
+    ],
+    "link": "https://grogshop.gs/tm-event/heights-music-hop-at-grog-shop/",
+    "date": "2025-09-21",
     "venue": "Grog Shop"
   },
   {
@@ -334,6 +333,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/opb-presents-key-and-friends-feat-tony-shhnow-shad-da-god/",
     "date": "2025-10-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Tee Grizzley"
+    ],
+    "link": "https://grogshop.gs/tm-event/tee-grizzley/",
+    "date": "2025-10-17",
     "venue": "Grog Shop"
   },
   {

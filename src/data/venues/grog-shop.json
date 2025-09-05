@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Audible Jones",
-      "Jack Mclaughlin",
-      "Jack McLaughlin"
-    ],
-    "link": "https://grogshop.gs/tm-event/audible-jones-jack-mclaughlin-tba/",
-    "date": "2025-09-04",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Unwound: 30 Years of  'The Future Of What\u2019",
       "Harriet The Spy"
     ],
@@ -30,18 +20,18 @@
   },
   {
     "artist": [
-      "Momma: Welcome To My Blue Sky Tour",
-      "villagerrr"
+      "Fu Manchu"
     ],
-    "link": "https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/",
+    "link": "https://grogshop.gs/tm-event/fu-manchu/",
     "date": "2025-09-11",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Fu Manchu"
+      "Momma: Welcome To My Blue Sky Tour",
+      "villagerrr"
     ],
-    "link": "https://grogshop.gs/tm-event/fu-manchu/",
+    "link": "https://grogshop.gs/tm-event/momma-welcome-to-my-blue-sky-tour/",
     "date": "2025-09-11",
     "venue": "Grog Shop"
   },
@@ -76,20 +66,20 @@
   },
   {
     "artist": [
-      "The Brian Jonestown Massacre"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
-    "date": "2025-09-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Saving Abel",
       "Dead Sugar",
       "Lilieae",
       "The Daze"
     ],
     "link": "https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/",
+    "date": "2025-09-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Brian Jonestown Massacre"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
     "date": "2025-09-16",
     "venue": "Grog Shop"
   },
@@ -333,6 +323,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/opb-presents-key-and-friends-feat-tony-shhnow-shad-da-god/",
     "date": "2025-10-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Great Grog Bake Off: Halloween Edition!"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-great-grog-bake-off/",
+    "date": "2025-10-14",
     "venue": "Grog Shop"
   },
   {

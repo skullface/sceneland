@@ -1,33 +1,6 @@
 [
   {
     "artist": [
-      "Deke Dickerson & The Whippersnappers",
-      "Tall Paul and Western Drawl"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13817404/deke-dickerson-the-whippersnappers-tall-paul-and-western-drawl",
-    "date": "2025-09-03T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "TWRP",
-      "Los Angeles Power Disco"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14489943/twrp-los-angeles-power-disco",
-    "date": "2025-09-03T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "John Inghram Band",
-      "Joe Figueroa"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13773964/john-inghram-band-joe-figueroa",
-    "date": "2025-09-04T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Texas Headhunters",
       "The Morning Bird"
     ],
@@ -38,9 +11,10 @@
   {
     "artist": [
       "Brooke Alexx",
-      "Melina KB"
+      "Melina KB",
+      "Parkwild"
     ],
-    "link": "https://www.beachlandballroom.com/e/14457793/brooke-alexx-melina-kb",
+    "link": "https://www.beachlandballroom.com/e/14457793/brooke-alexx-melina-kb-parkwild",
     "date": "2025-09-05T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -82,9 +56,10 @@
   },
   {
     "artist": [
-      "Madison Ryann Ward"
+      "Madison Ryann Ward",
+      "SHERIE"
     ],
-    "link": "https://www.beachlandballroom.com/e/13924534/madison-ryann-ward",
+    "link": "https://www.beachlandballroom.com/e/13924534/madison-ryann-ward-sherie",
     "date": "2025-09-09T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -457,6 +432,20 @@
     "link": "https://www.beachlandballroom.com/e/13939534/devotional-2025",
     "date": "2025-10-10T18:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Club Ultraviolet: The Big Show",
+      "NicX",
+      "Will Cherry",
+      "Sierra Delaine",
+      "SYS",
+      "DJ Navy Jayde",
+      "Hosted By: DeZhawn France"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14539523/club-ultraviolet-the-big-show-nicx-will-cherry-sierra-delaine-sys-dj-navy-jayde-hosted-by-dezhawn-france",
+    "date": "2025-10-10T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

@@ -194,7 +194,7 @@ export function Search({ shows, onSearchResults }: SearchProps) {
           value={query}
           onChange={handleInputChange}
           onKeyDown={handleKeyDown}
-          className='w-full rounded-lg border border-gray-300 bg-gray-100 px-4 py-2 pl-10 pr-10 text-gray-900 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-blue-500'
+          className='focus:outline-hidden w-full rounded-lg border border-gray-300 bg-gray-100 px-4 py-2 pl-10 pr-10 text-gray-900 focus:border-transparent focus:ring-2 focus:ring-blue-500'
         />
         <div className='pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3'>
           <svg
@@ -214,7 +214,7 @@ export function Search({ shows, onSearchResults }: SearchProps) {
         {query && (
           <button
             onClick={handleClear}
-            className='absolute inset-y-0 right-0 flex items-center pr-3 text-gray-400 hover:text-gray-600 focus:outline-none'
+            className='focus:outline-hidden absolute inset-y-0 right-0 flex items-center pr-3 text-gray-400 hover:text-gray-600'
             type='button'
             aria-label='Clear search'
           >

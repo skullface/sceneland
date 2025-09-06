@@ -8,7 +8,6 @@ const MyApp: AppType = ({ Component, pageProps }) => {
     const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)')
 
     const handleChange = (e: MediaQueryListEvent) => {
-      // Only apply system preference if user hasn't manually set a preference
       if (!localStorage.getItem('darkMode')) {
         if (e.matches) {
           document.documentElement.classList.add('dark')

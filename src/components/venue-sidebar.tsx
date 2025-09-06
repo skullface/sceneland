@@ -107,12 +107,12 @@ export function VenueSidebar({
           <Disclosure
             key={tag}
             id={tag}
-            className='rounded-md border border-gray-200'
+            className='rounded-sm-md border border-gray-200'
           >
             <Heading>
               <Button
                 slot='trigger'
-                className='group flex w-full flex-1 items-center justify-between rounded p-1 px-2 text-left text-sm font-semibold uppercase tracking-wider text-gray-500 transition-colors hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-1'
+                className='focus:outline-hidden group flex w-full flex-1 items-center justify-between rounded-sm p-1 px-2 text-left text-sm font-semibold uppercase tracking-wider text-gray-500 transition-colors hover:text-gray-700 focus:ring-2 focus:ring-blue-500 focus:ring-offset-1'
               >
                 {formatTag(tag)}
                 <span className='text-xs transition-transform duration-100 ease-[cubic-bezier(0.87,_0,_0.13,_1)] group-data-[expanded]:rotate-180'>
@@ -129,7 +129,7 @@ export function VenueSidebar({
                       <li key={venue.replace(/[^\w]+/g, '-').toLowerCase()}>
                         <button
                           type='button'
-                          className='group flex w-full cursor-pointer items-center gap-2 rounded px-2 py-0.5 first:mt-1 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-1'
+                          className='focus:outline-hidden group flex w-full cursor-pointer items-center gap-2 rounded-sm px-2 py-0.5 first:mt-1 focus:ring-2 focus:ring-blue-500 focus:ring-offset-1'
                           onClick={() => onVenueToggle(venue)}
                           onKeyDown={(e) => {
                             if (e.key === 'Enter' || e.key === ' ') {
@@ -142,7 +142,7 @@ export function VenueSidebar({
                             type='checkbox'
                             checked={selectedVenues.includes(venue)}
                             onChange={() => onVenueToggle(venue)}
-                            className='size-4 rounded border-gray-300 text-blue-600 accent-blue-600 focus:outline-none'
+                            className='focus:outline-hidden size-4 rounded-sm border-gray-300 text-blue-600 accent-blue-600'
                             tabIndex={-1}
                           />
                           <span className='text-sm font-medium text-gray-700 group-hover:text-gray-900'>
@@ -153,7 +153,7 @@ export function VenueSidebar({
                     ))}
               </ul>
               <button
-                className='m-2 mt-3 flex-1 rounded border border-gray-300 bg-gray-100 px-2 py-1 text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50'
+                className='focus:outline-hidden m-2 mt-3 flex-1 rounded-sm border border-gray-300 bg-gray-100 px-2 py-1 text-xs text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/50'
                 onClick={() => handleToggleAllInSection(tag)}
               >
                 {getToggleButtonText(tag)}
@@ -164,7 +164,7 @@ export function VenueSidebar({
       </DisclosureGroup>
 
       <button
-        className='rounded border border-gray-300 bg-gray-100 p-2 text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50'
+        className='focus:outline-hidden rounded-sm border border-gray-300 bg-gray-100 p-2 text-sm text-gray-700 transition hover:border-gray-400 hover:bg-gray-50 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/50'
         onClick={handleToggleAll}
       >
         {getGlobalToggleButtonText()}

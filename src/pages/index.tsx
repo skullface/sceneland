@@ -187,7 +187,7 @@ export default function Page({ shows }: PageProps) {
   const renderGroupedShows = () => {
     if (groupedShows.length === 0) {
       return (
-        <div className='container mx-auto flex flex-col gap-1 rounded border border-red-200 bg-red-50 p-6 text-center max-md:w-[90%] md:gap-2'>
+        <div className='container mx-auto flex flex-col gap-1 rounded-sm border border-red-200 bg-red-50 p-6 text-center max-md:w-[90%] md:gap-2'>
           <h2 className='text-2xl font-medium text-red-600 md:text-3xl'>
             No shows available
           </h2>
@@ -294,7 +294,7 @@ export default function Page({ shows }: PageProps) {
 
       {/* Desktop: Sidebar layout */}
       <div className='hidden md:flex'>
-        <div className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-200 bg-gray-50 p-6'>
+        <div className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-100 bg-gray-50/50 p-6'>
           <Search shows={shows} onSearchResults={handleSearchResults} />
           <VenueSidebar
             venues={allVenues}

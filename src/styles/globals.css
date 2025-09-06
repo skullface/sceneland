@@ -1,12 +1,106 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-@layer base {
-  body {
-    @apply bg-gray-100 text-gray-500;
-    text-wrap: pretty;
-  }
+@theme {
+  --color-gray-0: #ffffff;
+  --color-gray-50: #e7e7e7;
+  --color-gray-100: #d0d0d0;
+  --color-gray-200: #b9b9b9;
+  --color-gray-300: #a2a2a2;
+  --color-gray-400: #8c8c8c;
+  --color-gray-500: #777777;
+  --color-gray-600: #626262;
+  --color-gray-700: #4e4e4e;
+  --color-gray-800: #3b3b3b;
+  --color-gray-900: #292929;
+  --color-gray-950: #1a1a1a;
+  --color-gray-1000: #000000;
+}
+
+/* Dark mode utilities for gray colors */
+@layer utilities {
+  .dark .bg-gray-0 { background-color: var(--color-gray-1000); }
+  .dark .bg-gray-50 { background-color: var(--color-gray-950); }
+  .dark .bg-gray-100 { background-color: var(--color-gray-900); }
+  .dark .bg-gray-200 { background-color: var(--color-gray-800); }
+  .dark .bg-gray-300 { background-color: var(--color-gray-700); }
+  .dark .bg-gray-400 { background-color: var(--color-gray-600); }
+  .dark .bg-gray-500 { background-color: var(--color-gray-500); }
+  .dark .bg-gray-600 { background-color: var(--color-gray-400); }
+  .dark .bg-gray-700 { background-color: var(--color-gray-300); }
+  .dark .bg-gray-800 { background-color: var(--color-gray-200); }
+  .dark .bg-gray-900 { background-color: var(--color-gray-100); }
+  .dark .bg-gray-950 { background-color: var(--color-gray-50); }
+  .dark .bg-gray-1000 { background-color: var(--color-gray-0); }
+
+  .dark .text-gray-0 { color: var(--color-gray-1000); }
+  .dark .text-gray-50 { color: var(--color-gray-950); }
+  .dark .text-gray-100 { color: var(--color-gray-900); }
+  .dark .text-gray-200 { color: var(--color-gray-800); }
+  .dark .text-gray-300 { color: var(--color-gray-700); }
+  .dark .text-gray-400 { color: var(--color-gray-600); }
+  .dark .text-gray-500 { color: var(--color-gray-500); }
+  .dark .text-gray-600 { color: var(--color-gray-400); }
+  .dark .text-gray-700 { color: var(--color-gray-300); }
+  .dark .text-gray-800 { color: var(--color-gray-200); }
+  .dark .text-gray-900 { color: var(--color-gray-100); }
+  .dark .text-gray-950 { color: var(--color-gray-50); }
+  .dark .text-gray-1000 { color: var(--color-gray-0); }
+
+  .dark .border-gray-0 { border-color: var(--color-gray-1000); }
+  .dark .border-gray-50 { border-color: var(--color-gray-950); }
+  .dark .border-gray-100 { border-color: var(--color-gray-900); }
+  .dark .border-gray-200 { border-color: var(--color-gray-800); }
+  .dark .border-gray-300 { border-color: var(--color-gray-700); }
+  .dark .border-gray-400 { border-color: var(--color-gray-600); }
+  .dark .border-gray-500 { border-color: var(--color-gray-500); }
+  .dark .border-gray-600 { border-color: var(--color-gray-400); }
+  .dark .border-gray-700 { border-color: var(--color-gray-300); }
+  .dark .border-gray-800 { border-color: var(--color-gray-200); }
+  .dark .border-gray-900 { border-color: var(--color-gray-100); }
+  .dark .border-gray-950 { border-color: var(--color-gray-50); }
+  .dark .border-gray-1000 { border-color: var(--color-gray-0); }
+
+  .dark .ring-gray-0 { --tw-ring-color: var(--color-gray-1000); }
+  .dark .ring-gray-50 { --tw-ring-color: var(--color-gray-950); }
+  .dark .ring-gray-100 { --tw-ring-color: var(--color-gray-900); }
+  .dark .ring-gray-200 { --tw-ring-color: var(--color-gray-800); }
+  .dark .ring-gray-300 { --tw-ring-color: var(--color-gray-700); }
+  .dark .ring-gray-400 { --tw-ring-color: var(--color-gray-600); }
+  .dark .ring-gray-500 { --tw-ring-color: var(--color-gray-500); }
+  .dark .ring-gray-600 { --tw-ring-color: var(--color-gray-400); }
+  .dark .ring-gray-700 { --tw-ring-color: var(--color-gray-300); }
+  .dark .ring-gray-800 { --tw-ring-color: var(--color-gray-200); }
+  .dark .ring-gray-900 { --tw-ring-color: var(--color-gray-100); }
+  .dark .ring-gray-950 { --tw-ring-color: var(--color-gray-50); }
+  .dark .ring-gray-1000 { --tw-ring-color: var(--color-gray-0); }
+
+  .dark .decoration-gray-0 { text-decoration-color: var(--color-gray-1000); }
+  .dark .decoration-gray-50 { text-decoration-color: var(--color-gray-950); }
+  .dark .decoration-gray-100 { text-decoration-color: var(--color-gray-900); }
+  .dark .decoration-gray-200 { text-decoration-color: var(--color-gray-800); }
+  .dark .decoration-gray-300 { text-decoration-color: var(--color-gray-700); }
+  .dark .decoration-gray-400 { text-decoration-color: var(--color-gray-600); }
+  .dark .decoration-gray-500 { text-decoration-color: var(--color-gray-500); }
+  .dark .decoration-gray-600 { text-decoration-color: var(--color-gray-400); }
+  .dark .decoration-gray-700 { text-decoration-color: var(--color-gray-300); }
+  .dark .decoration-gray-800 { text-decoration-color: var(--color-gray-200); }
+  .dark .decoration-gray-900 { text-decoration-color: var(--color-gray-100); }
+  .dark .decoration-gray-950 { text-decoration-color: var(--color-gray-50); }
+  .dark .decoration-gray-1000 { text-decoration-color: var(--color-gray-0); }
+
+  .dark .accent-gray-0 { accent-color: var(--color-gray-1000); }
+  .dark .accent-gray-50 { accent-color: var(--color-gray-950); }
+  .dark .accent-gray-100 { accent-color: var(--color-gray-900); }
+  .dark .accent-gray-200 { accent-color: var(--color-gray-800); }
+  .dark .accent-gray-300 { accent-color: var(--color-gray-700); }
+  .dark .accent-gray-400 { accent-color: var(--color-gray-600); }
+  .dark .accent-gray-500 { accent-color: var(--color-gray-500); }
+  .dark .accent-gray-600 { accent-color: var(--color-gray-400); }
+  .dark .accent-gray-700 { accent-color: var(--color-gray-300); }
+  .dark .accent-gray-800 { accent-color: var(--color-gray-200); }
+  .dark .accent-gray-900 { accent-color: var(--color-gray-100); }
+  .dark .accent-gray-950 { accent-color: var(--color-gray-50); }
+  .dark .accent-gray-1000 { accent-color: var(--color-gray-0); }
 }
 
 @layer components {
@@ -16,11 +110,11 @@
   }
 
   .dropdown-content > div:first-child::-webkit-scrollbar-track {
-    @apply bg-gray-800 rounded;
+    @apply bg-gray-800 rounded-sm;
   }
 
   .dropdown-content > div:first-child::-webkit-scrollbar-thumb {
-    @apply bg-gray-600 rounded hover:bg-gray-500;
+    @apply bg-gray-600 rounded-sm hover:bg-gray-500;
   }
 
   /* Disclosure animations for dropdown */

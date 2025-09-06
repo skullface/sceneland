@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import "tailwindcss";
 
 /* Dark mode utilities for gray colors */
 @layer utilities {

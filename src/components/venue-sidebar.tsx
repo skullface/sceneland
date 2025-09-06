@@ -107,7 +107,7 @@ export function VenueSidebar({
           <Disclosure
             key={tag}
             id={tag}
-            className='rounded-sm-md border border-gray-200'
+            className='rounded-md border border-gray-200'
           >
             <Heading>
               <Button

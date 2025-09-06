@@ -13,6 +13,7 @@
     "format:data": "prettier 'src/data/venues/*.json' --write"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.21",
     "next": "15.5.0",
     "react": "18.3.1",
     "react-aria-components": "1.12.1",
@@ -20,17 +21,17 @@
     "rss": "1.2.2"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
     "@types/node": "20.14.10",
     "@types/react": "18.3.12",
     "@types/react-dom": "18.3.1",
     "@types/rss": "0.0.30",
-    "autoprefixer": "10.4.20",
     "eslint": "8.57.0",
     "eslint-config-next": "15.5.0",
-    "postcss": "8.4.47",
+    "postcss": "8.5.6",
     "prettier": "3.3.3",
     "prettier-plugin-tailwindcss": "0.5.14",
-    "tailwindcss": "3.4.15",
+    "tailwindcss": "4.1.13",
     "typescript": "5.6.3"
   }
 }

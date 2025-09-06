@@ -28,19 +28,19 @@ export function VenueDropdown({
 
   return (
     <MenuTrigger>
-      <Button className='rounded-sm-md focus:outline-hidden group z-50 w-auto cursor-pointer select-none border border-gray-800 bg-gray-900 px-4 py-2 text-sm font-medium text-gray-50 shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(255,255,255,0.25)] transition hover:bg-gray-800 focus:ring-1 focus:ring-blue-400 md:text-base'>
+      <Button className='rounded-md focus:outline-hidden group z-50 w-auto cursor-pointer select-none border border-gray-800 bg-gray-900 px-4 py-2 text-sm font-medium text-gray-50 shadow-[0_16px_24px_-16px_rgba(0,0,0,0.3),inset_0px_1px_0_rgba(255,255,255,0.25)] transition hover:bg-gray-800 focus:ring-1 focus:ring-blue-400 md:text-base'>
         Filter venues{' '}
         <span className='inline-block text-xs leading-none text-gray-400 transition-colors group-hover:text-gray-200'>
           ▼
         </span>
       </Button>
       <Popover
-        className='rounded-sm-xl focus:outline-hidden flex h-[70vh] min-w-[280px] flex-col bg-gray-900 shadow-lg shadow-black/15'
+        className='rounded-xl focus:outline-hidden flex h-[70vh] min-w-[280px] flex-col bg-gray-900 shadow-lg shadow-black/15'
         placement='bottom'
       >
         {/* Scrollable content container */}
         <div
-          className='dropdown-content rounded-sm-t-xl relative flex-1 overflow-y-auto overscroll-contain p-2'
+          className='dropdown-content rounded-t-xl relative flex-1 overflow-y-auto overscroll-contain p-2'
           style={{
             WebkitOverflowScrolling: 'touch',
             scrollBehavior: 'smooth',
@@ -136,9 +136,9 @@ export function VenueDropdown({
         </div>
 
         {/* Fixed bottom section with action buttons */}
-        <div className='rounded-sm-b-xl border-t border-gray-800 bg-gray-900 p-3'>
+        <div className='rounded-b-xl border-t border-gray-800 bg-gray-900 p-3'>
           <button
-            className='rounded-sm-md focus:outline-hidden w-full border border-gray-700 p-2 text-sm text-gray-400 transition hover:border-gray-600 hover:bg-gray-800 hover:text-gray-50 focus:border-blue-500 focus:text-gray-50 focus:ring-2 focus:ring-blue-500/50 focus:ring-offset-0'
+            className='rounded-md focus:outline-hidden w-full border border-gray-700 p-2 text-sm text-gray-400 transition hover:border-gray-600 hover:bg-gray-800 hover:text-gray-50 focus:border-blue-500 focus:text-gray-50 focus:ring-2 focus:ring-blue-500/50 focus:ring-offset-0'
             onClick={() => {
               if (selectedVenues.length === venues.length) {
                 onDeselectAll()

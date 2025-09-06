@@ -20,12 +20,12 @@ export const CustomCheckbox = forwardRef<HTMLInputElement, CustomCheckboxProps>(
           disabled={disabled}
           id={id}
           className='sr-only'
-          tabIndex={0}
+          tabIndex={-1}
         />
         <div
           className={`
             flex
-            size-4 items-center justify-center rounded-sm border border-gray-50
+            size-4 items-center justify-center rounded-sm border border-gray-50 group-focus-within:border-gray-500
             ${
               disabled
                 ? 'border-gray-2-0 cursor-not-allowed bg-gray-100'
@@ -33,16 +33,9 @@ export const CustomCheckbox = forwardRef<HTMLInputElement, CustomCheckboxProps>(
                   ? 'bg-gray-1000 border-gray-1000'
                   : 'bg-gray-0/50 cursor-pointer border-gray-200 hover:border-gray-300 hover:shadow-sm'
             }
-            ${!disabled && 'focus-within:ring-2 focus-within:ring-blue-500 focus-within:ring-offset-1'}
           `}
           onClick={!disabled ? onChange : undefined}
-          onKeyDown={(e) => {
-            if (!disabled && (e.key === 'Enter' || e.key === ' ')) {
-              e.preventDefault()
-              onChange()
-            }
-          }}
-          tabIndex={disabled ? -1 : 0}
+          tabIndex={-1}
           role='checkbox'
           aria-checked={checked}
           aria-disabled={disabled}

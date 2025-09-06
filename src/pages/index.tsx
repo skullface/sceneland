@@ -294,7 +294,15 @@ export default function Page({ shows }: PageProps) {
 
       {/* Desktop: Sidebar layout */}
       <div className='hidden md:flex'>
-        <div className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-50 bg-gray-50/50 p-6'>
+        <div
+          className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-50 bg-gray-50/50 p-6'
+          style={{
+            WebkitOverflowScrolling: 'touch',
+            scrollBehavior: 'smooth',
+            scrollbarWidth: 'thin',
+            scrollbarColor: '#666666 rgba(0,0,0,0)',
+          }}
+        >
           <Search shows={shows} onSearchResults={handleSearchResults} />
           <VenueSidebar
             venues={allVenues}
@@ -326,13 +334,11 @@ export default function Page({ shows }: PageProps) {
           </header>
           <main className='mx-6 py-6'>
             {isSearchActive && (
-              <div className='mb-6 rounded-md border border-blue-200 bg-blue-50 p-4'>
+              <div className='mb-6 rounded-md border border-blue-200 bg-blue-50 p-4 text-blue-600 dark:border-blue-900 dark:bg-blue-950'>
                 <div className='flex items-center justify-between'>
                   <div>
-                    <h3 className='text-lg font-medium text-blue-600'>
-                      Search results
-                    </h3>
-                    <p className='text-sm text-blue-600'>
+                    <h3 className='text-lg font-medium'>Search results</h3>
+                    <p className='text-sm'>
                       Found{' '}
                       <b>
                         {searchResults.shows.length} event

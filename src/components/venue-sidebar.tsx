@@ -110,53 +110,59 @@ export function VenueSidebar({
             id={tag}
             className='rounded-lg border border-gray-100 bg-gray-50/50 focus-within:border-gray-200'
           >
-            <Heading>
-              <Button
-                slot='trigger'
-                className='not-open:rounded-lg hover:text-gray-1000 group flex w-full flex-1 cursor-pointer items-center justify-between bg-gray-50 p-1.5 px-2.5 text-left font-mono text-sm font-medium uppercase text-gray-600 transition-colors focus:outline-none'
-              >
-                {formatTag(tag)}
-                <span className='text-xs transition-transform duration-100 ease-[cubic-bezier(0.87,_0,_0.13,_1)] open:rotate-180 group-data-[expanded]:rotate-180'>
-                  ▼
-                </span>
-              </Button>
-            </Heading>
-            <DisclosurePanel className='data-[entering]:animate-disclosure-down data-[exiting]:animate-disclosure-up grid'>
-              <ul className='-mt-1 grid list-none rounded-b-lg border-b border-gray-100/50 bg-gray-50 pb-2'>
-                {groupedVenues[tag] &&
-                  groupedVenues[tag]
-                    .sort((a, b) => a.localeCompare(b))
-                    .map((venue) => (
-                      <li key={venue.replace(/[^\w]+/g, '-').toLowerCase()}>
-                        <button
-                          type='button'
-                          className='group flex w-full cursor-pointer items-center gap-2 rounded-sm px-3 py-0.5 first:mt-1 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500'
-                          onClick={() => onVenueToggle(venue)}
-                          onKeyDown={(e) => {
-                            if (e.key === 'Enter' || e.key === ' ') {
-                              e.preventDefault()
-                              onVenueToggle(venue)
-                            }
-                          }}
-                        >
-                          <CustomCheckbox
-                            checked={selectedVenues.includes(venue)}
-                            onChange={() => onVenueToggle(venue)}
-                          />
-                          <span className='group-hover:text-gray-1000 text-sm font-normal text-gray-900'>
-                            {venue}
-                          </span>
-                        </button>
-                      </li>
-                    ))}
-              </ul>
-              <button
-                className='hover:text-gray-1000 text-shadow-xs inset-shadow-xs inset-shadow-white/[0.075] text-shadow-gray-50 focus:inset-shadow-gray-50/50 focus:text-gray-1000 m-3 flex-1 cursor-pointer rounded-sm border border-gray-100/50 bg-gray-50 px-2 py-1.5 text-xs font-medium text-gray-700 shadow-md shadow-black/[0.02] transition-colors hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500/80'
-                onClick={() => handleToggleAllInSection(tag)}
-              >
-                {getToggleButtonText(tag)}
-              </button>
-            </DisclosurePanel>
+            {({ isExpanded }) => (
+              <>
+                <Heading>
+                  <Button
+                    slot='trigger'
+                    className='not-open:rounded-lg hover:text-gray-1000 group flex w-full flex-1 cursor-pointer items-center justify-between bg-gray-50 p-1.5 px-2.5 text-left font-mono text-sm font-medium uppercase text-gray-600 transition-colors focus:outline-none'
+                  >
+                    {formatTag(tag)}
+                    <span
+                      className={`text-xs ${isExpanded ? 'rotate-180' : ''}`}
+                    >
+                      ▼
+                    </span>
+                  </Button>
+                </Heading>
+                <DisclosurePanel className='data-[entering]:animate-disclosure-down data-[exiting]:animate-disclosure-up grid'>
+                  <ul className='-mt-1 grid list-none rounded-b-lg border-b border-gray-100/50 bg-gray-50 pb-2'>
+                    {groupedVenues[tag] &&
+                      groupedVenues[tag]
+                        .sort((a, b) => a.localeCompare(b))
+                        .map((venue) => (
+                          <li key={venue.replace(/[^\w]+/g, '-').toLowerCase()}>
+                            <button
+                              type='button'
+                              className='group flex w-full cursor-pointer items-center gap-2 rounded-sm px-3 py-0.5 first:mt-1 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500'
+                              onClick={() => onVenueToggle(venue)}
+                              onKeyDown={(e) => {
+                                if (e.key === 'Enter' || e.key === ' ') {
+                                  e.preventDefault()
+                                  onVenueToggle(venue)
+                                }
+                              }}
+                            >
+                              <CustomCheckbox
+                                checked={selectedVenues.includes(venue)}
+                                onChange={() => onVenueToggle(venue)}
+                              />
+                              <span className='group-hover:text-gray-1000 text-sm font-normal text-gray-900'>
+                                {venue}
+                              </span>
+                            </button>
+                          </li>
+                        ))}
+                  </ul>
+                  <button
+                    className='hover:text-gray-1000 text-shadow-xs inset-shadow-xs inset-shadow-white/[0.075] text-shadow-gray-50 focus:inset-shadow-gray-50/50 focus:text-gray-1000 m-3 flex-1 cursor-pointer rounded-sm border border-gray-100/50 bg-gray-50 px-2 py-1.5 text-xs font-medium text-gray-700 shadow-md shadow-black/[0.02] transition-colors hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500/80'
+                    onClick={() => handleToggleAllInSection(tag)}
+                  >
+                    {getToggleButtonText(tag)}
+                  </button>
+                </DisclosurePanel>
+              </>
+            )}
           </Disclosure>
         ))}
       </DisclosureGroup>

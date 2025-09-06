@@ -45,7 +45,7 @@ export const ShowCard: React.FC<ShowCardProps> = ({ show, i }) => {
                 day: 'numeric',
               })}
             </time>
-            <p className='order-1 flex flex-row items-center gap-x-2 font-mono uppercase'>
+            <p className='order-1 flex flex-row items-center gap-x-2 font-mono text-sm uppercase tracking-wide'>
               {show.venue}
             </p>
           </div>

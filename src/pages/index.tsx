@@ -230,7 +230,7 @@ export default function Page({ shows }: PageProps) {
               )}
               <span className='font-medium text-gray-500'>{groupLabel}</span>
             </h2>
-            <ul className='container grid grid-cols-1 gap-4 max-lg:p-4 lg:grid-cols-2 lg:gap-8 xl:grid-cols-3'>
+            <ul className='container mx-auto grid w-full grid-cols-1 gap-4 max-lg:p-4 lg:grid-cols-2 lg:gap-8 xl:grid-cols-3'>
               {shows.map((show, i) => (
                 <ShowCard key={i} show={show} i={0} />
               ))}
@@ -334,7 +334,7 @@ export default function Page({ shows }: PageProps) {
           </header>
           <main className='mx-6 py-6'>
             {isSearchActive && (
-              <div className='mb-6 rounded-md border border-blue-200 bg-blue-50 p-4 text-blue-600 dark:border-blue-900 dark:bg-blue-950'>
+              <div className='mb-6 rounded-md border border-blue-200 bg-blue-50 p-4 text-blue-900 dark:border-blue-900 dark:bg-blue-950/60 dark:text-blue-300'>
                 <div className='flex items-center justify-between'>
                   <div>
                     <h3 className='text-lg font-medium'>Search results</h3>
@@ -352,7 +352,7 @@ export default function Page({ shows }: PageProps) {
                       setIsSearchActive(false)
                       setSearchResults({ shows: [], query: '' })
                     }}
-                    className='text-sm text-blue-600 underline hover:text-blue-800'
+                    className='cursor-pointer text-sm text-blue-600 underline hover:text-blue-800 dark:text-blue-300 dark:hover:text-blue-100'
                   >
                     Clear search
                   </button>
@@ -365,15 +365,13 @@ export default function Page({ shows }: PageProps) {
       </div>
 
       {/* Mobile: Main content */}
-      <main className='mx-auto flex flex-col gap-14 md:hidden'>
+      <main className='mx-auto flex w-full flex-col gap-14 md:hidden'>
         {isSearchActive && (
-          <div className='mx-4 mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4'>
-            <div className='flex items-center justify-between'>
+          <div className='mx-4 mb-6 rounded-lg border border-blue-200 bg-blue-50 p-4 text-blue-900 dark:border-blue-900 dark:bg-blue-950 dark:text-blue-300'>
+            <div className='flex flex-wrap items-center justify-between gap-8'>
               <div>
-                <h3 className='text-lg font-medium text-blue-900'>
-                  Search results
-                </h3>
-                <p className='text-sm text-blue-700'>
+                <h3 className='text-lg font-medium'>Search results</h3>
+                <p className='text-sm'>
                   Found{' '}
                   <b>
                     {searchResults.shows.length} event
@@ -387,7 +385,7 @@ export default function Page({ shows }: PageProps) {
                   setIsSearchActive(false)
                   setSearchResults({ shows: [], query: '' })
                 }}
-                className='text-sm text-blue-600 underline hover:text-blue-800'
+                className='cursor-pointer text-sm text-blue-600 underline hover:text-blue-800 dark:text-blue-300 dark:hover:text-blue-100'
               >
                 Clear search
               </button>

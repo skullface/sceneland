@@ -6,6 +6,7 @@ import {
   DisclosurePanel,
   Heading,
 } from 'react-aria-components'
+import { CustomCheckbox } from './custom-checkbox'
 
 type VenueSidebarProps = {
   venues: string[]
@@ -138,12 +139,9 @@ export function VenueSidebar({
                             }
                           }}
                         >
-                          <input
-                            type='checkbox'
+                          <CustomCheckbox
                             checked={selectedVenues.includes(venue)}
                             onChange={() => onVenueToggle(venue)}
-                            className='size-4 rounded-sm border-gray-300 text-blue-600 accent-blue-600 focus:outline-none'
-                            tabIndex={-1}
                           />
                           <span className='group-hover:text-gray-1000 text-sm font-normal text-gray-900'>
                             {venue}

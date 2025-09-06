@@ -187,11 +187,11 @@ export default function Page({ shows }: PageProps) {
   const renderGroupedShows = () => {
     if (groupedShows.length === 0) {
       return (
-        <div className='container mx-auto flex flex-col gap-1 rounded-sm border border-red-200 bg-red-50 p-6 text-center max-md:w-[90%] md:gap-2'>
-          <h2 className='text-2xl font-medium text-red-600 md:text-3xl'>
+        <div className='container mx-auto flex flex-col gap-1 rounded-sm border border-red-200 bg-red-50 p-6 text-center text-red-600 max-md:w-[90%] md:gap-2 dark:border-red-900 dark:bg-red-950 dark:text-red-300'>
+          <h2 className='text-2xl font-medium md:text-3xl'>
             No shows available
           </h2>
-          <p className='text-base leading-snug text-red-500 md:text-lg'>
+          <p className='text-base leading-snug md:text-lg'>
             Please select a venue to view upcoming events.
           </p>
         </div>

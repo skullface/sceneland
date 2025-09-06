@@ -8,6 +8,7 @@ import {
   Popover,
 } from 'react-aria-components'
 import { groupVenuesByTag, formatTag } from '~/utils/venue-utils'
+import { CustomCheckbox } from './custom-checkbox'
 
 type VenueDropdownProps = {
   venues: string[]
@@ -91,36 +92,10 @@ export function VenueDropdown({
                                 }
                               }}
                             >
-                              <div className='relative'>
-                                <input
-                                  type='checkbox'
-                                  checked={selectedVenues.includes(venue)}
-                                  onChange={() => onVenueToggle(venue)}
-                                  className='sr-only'
-                                  tabIndex={-1}
-                                />
-                                <div
-                                  className={`flex size-4 items-center justify-center rounded-sm border border-gray-600 bg-gray-800 ${
-                                    selectedVenues.includes(venue)
-                                      ? 'border-blue-600 bg-blue-600'
-                                      : ''
-                                  }`}
-                                >
-                                  {selectedVenues.includes(venue) && (
-                                    <svg
-                                      className='size-3 text-gray-50'
-                                      fill='currentColor'
-                                      viewBox='0 0 20 20'
-                                    >
-                                      <path
-                                        fillRule='evenodd'
-                                        d='M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z'
-                                        clipRule='evenodd'
-                                      />
-                                    </svg>
-                                  )}
-                                </div>
-                              </div>
+                              <CustomCheckbox
+                                checked={selectedVenues.includes(venue)}
+                                onChange={() => onVenueToggle(venue)}
+                              />
                               {venue}
                             </button>
                           </li>

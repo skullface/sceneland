@@ -214,7 +214,7 @@ export function Search({ shows, onSearchResults }: SearchProps) {
         {query && (
           <button
             onClick={handleClear}
-            className='focus:outline-hidden absolute inset-y-0 right-0 flex items-center pr-3 text-gray-400 hover:text-gray-600'
+            className='absolute inset-y-0 right-0 flex items-center pr-3 text-gray-400 hover:text-gray-600 focus:outline-none'
             type='button'
             aria-label='Clear search'
           >

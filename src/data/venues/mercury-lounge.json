@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Wexford, Tephra, Cruz Campo"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/honeyland-wexford-tephra-cruz-campo/",
-    "date": "2025-09-05T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Fu Manchu, Year of the Cobra"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/fu-manchu/",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/nile-the-underworld-awaits-tour/",
     "date": "2025-09-22T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Them Damn Kings, Puma Thurman, Criterion-A"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/them-damn-kings/",
+    "date": "2025-09-26T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -205,6 +205,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/an-evening-with-uli-jon-roth/",
     "date": "2025-11-11T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "HOTTOWEEN"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/hottoween/",
+    "date": "2025-11-15T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

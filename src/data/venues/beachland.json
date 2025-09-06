@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "Texas Headhunters",
-      "The Morning Bird"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13796974/texas-headhunters-the-morning-bird",
-    "date": "2025-09-05T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Brooke Alexx",
-      "Melina KB",
-      "Parkwild"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14457793/brooke-alexx-melina-kb-parkwild",
-    "date": "2025-09-05T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Clown Prom",
       "Music By DJ Seth Boy\u00e3rdee"
     ],
@@ -232,10 +213,9 @@
   },
   {
     "artist": [
-      "Walter Trout",
-      "Erin Nicole Neal & the Chill Factor"
+      "Walter Trout"
     ],
-    "link": "https://www.beachlandballroom.com/e/14481973/walter-trout-erin-nicole-neal-the-chill-factor",
+    "link": "https://www.beachlandballroom.com/e/14481973/walter-trout",
     "date": "2025-09-20T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -265,15 +245,6 @@
     "link": "https://www.beachlandballroom.com/e/13842054/house-of-harm-sculpture-club",
     "date": "2025-09-23T20:00:00",
     "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Kings Kaleidoscope",
-      "Hollyn"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14457353/kings-kaleidoscope-hollyn",
-    "date": "2025-09-23T20:00:00",
-    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -330,9 +301,12 @@
   },
   {
     "artist": [
-      "Oddisee"
+      "Oddisee",
+      "Jay Prince",
+      "Nuke Franklin",
+      "Floco Torres"
     ],
-    "link": "https://www.beachlandballroom.com/e/13838954/oddisee-nuke-franklin-floco-torres",
+    "link": "https://www.beachlandballroom.com/e/13838954/oddisee-jay-prince-nuke-franklin-floco-torres",
     "date": "2025-09-28T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -515,6 +489,16 @@
     "link": "https://www.beachlandballroom.com/e/13826754/tauk-taz",
     "date": "2025-10-16T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Post Saga",
+      "Silvis",
+      "Cowboy Princess Brigade"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14542513/post-saga-silvis-cowboy-princess-brigade",
+    "date": "2025-10-17T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -870,6 +854,15 @@
     ],
     "link": "https://www.beachlandballroom.com/e/14329493/burning-witches-olathia",
     "date": "2026-03-22T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Kings Kaleidoscope",
+      "Hollyn"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14457353/kings-kaleidoscope-hollyn",
+    "date": "2026-04-29T20:00:00",
     "venue": "Beachland Ballroom"
   }
 ]

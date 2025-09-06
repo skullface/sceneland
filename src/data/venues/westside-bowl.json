@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Rainbow Tribe presents The Jim Dudash & Antonio Pilolli Memorial LoveFest"
-    ],
-    "link": "https://www.eventbrite.com/e/rainbow-tribe-presents-the-jim-dudash-antonio-pilolli-memorial-lovefest-tickets-1467383757319",
-    "date": "2025-09-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Brake Fluid Presents: Off The Track"
-    ],
-    "link": "https://www.eventbrite.com/e/brake-fluid-presents-off-the-track-tickets-1573712760229",
-    "date": "2025-09-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Red Wanting Blue ,  Spirit Of The Bear"
     ],
     "link": "https://www.eventbrite.com/e/red-wanting-blue-spirit-of-the-bear-tickets-1528119178599",
@@ -221,6 +205,14 @@
     ],
     "link": "https://www.eventbrite.com/e/emo-ween-2025-tickets-1405692717759",
     "date": "2025-10-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Revenge of the Musical Dead"
+    ],
+    "link": "https://www.eventbrite.com/e/revenge-of-the-musical-dead-tickets-1665522636039",
+    "date": "2025-10-31T00:00:01",
     "venue": "Westside Bowl"
   },
   {

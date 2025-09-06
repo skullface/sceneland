@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KENDALL STREET COMPANY"
-    ],
-    "link": "https://www.ticketweb.com/event/kendall-street-company-the-winchester-tickets/13930884",
-    "date": "2025-09-05T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Nookie \u2013 A Limp Bizkit Tribute"
     ],
     "link": "https://www.ticketweb.com/event/nookie-a-limp-the-winchester-tickets/14498663",
@@ -85,14 +77,6 @@
     ],
     "link": "https://www.ticketweb.com/event/97-crosses-john-the-winchester-tickets/14517983",
     "date": "2025-09-21T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "SMILE EMPTY SOUL, LINES OF LOYALTY"
-    ],
-    "link": "https://www.ticketweb.com/event/smile-empty-soul-w-lines-the-winchester-tickets/14512493",
-    "date": "2025-09-23T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -205,6 +189,22 @@
     ],
     "link": "https://www.ticketweb.com/event/emblem3-the-fever-the-winchester-tickets/13949184",
     "date": "2025-11-21T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Anthony Gomes"
+    ],
+    "link": "https://www.ticketweb.com/event/anthony-gomes-the-winchester-tickets/13951584",
+    "date": "2025-12-04T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Chest Fever Presents: A Musical Tribute to The Last Waltz"
+    ],
+    "link": "https://www.ticketweb.com/event/chest-fever-presents-a-musical-the-winchester-tickets/13884234",
+    "date": "2025-12-06T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

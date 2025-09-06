@@ -18,6 +18,8 @@ def should_exclude_event(artist_name):
         'Birthday',
         'Bday',
         'Comedy',
+        'Open Stage',
+        'Black Mass',
         'Trivia'
     ]
     

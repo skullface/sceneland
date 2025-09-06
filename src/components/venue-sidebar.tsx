@@ -153,7 +153,7 @@ export function VenueSidebar({
                     ))}
               </ul>
               <button
-                className='hover:text-gray-1000 text-shadow-xs inset-shadow-xs inset-shadow-white/[0.075] text-shadow-gray-50 focus:inset-shadow-gray-50/50 focus:text-gray-1000 m-3 flex-1 cursor-pointer rounded-sm border border-gray-100/50 bg-gray-50 px-2 py-1.5 text-xs font-medium text-gray-700 shadow-md transition-colors hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500/80'
+                className='hover:text-gray-1000 text-shadow-xs inset-shadow-xs inset-shadow-white/[0.075] text-shadow-gray-50 focus:inset-shadow-gray-50/50 focus:text-gray-1000 m-3 flex-1 cursor-pointer rounded-sm border border-gray-100/50 bg-gray-50 px-2 py-1.5 text-xs font-medium text-gray-700 shadow-md shadow-black/[0.02] transition-colors hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-500/80'
                 onClick={() => handleToggleAllInSection(tag)}
               >
                 {getToggleButtonText(tag)}
@@ -164,7 +164,7 @@ export function VenueSidebar({
       </DisclosureGroup>
 
       <button
-        className='hover:text-gray-1000 text-shadow-xs inset-shadow-xs inset-shadow-white/[0.03] text-shadow-gray-50 focus:inset-shadow-gray-50/50 focus:text-gray-1000 flex-1 cursor-pointer rounded-md border border-gray-100/25 bg-gray-50/50 p-2.5 text-sm font-medium text-gray-700 shadow-md transition-colors hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500/80'
+        className='hover:text-gray-1000 text-shadow-xs inset-shadow-xs inset-shadow-white/[0.03] text-shadow-gray-50 focus:inset-shadow-gray-50/50 focus:text-gray-1000 flex-1 cursor-pointer rounded-md border border-gray-100/25 bg-gray-50/50 p-2.5 text-sm font-medium text-gray-700 shadow-md shadow-black/[0.03] transition-colors hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500/80'
         onClick={handleToggleAll}
       >
         {getGlobalToggleButtonText()}

@@ -312,7 +312,7 @@ export default function Page({ shows }: PageProps) {
           </footer>
         </div>
         <div className='flex-1'>
-          <header className='sticky top-0 mx-auto h-[60px] w-full items-end justify-center gap-2 border-b border-gray-50 bg-gray-50/50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur'>
+          <header className='sticky top-0 mx-auto h-[60px] w-full items-end justify-center gap-2 border-b border-gray-50 bg-gray-50/25 p-4 text-center text-sm shadow-xl shadow-black/[0.02] backdrop-blur'>
             <div
               className={`
                 relative w-full text-sm font-medium text-gray-600 transition duration-300 ease-in-out ${

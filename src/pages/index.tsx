@@ -294,7 +294,7 @@ export default function Page({ shows }: PageProps) {
 
       {/* Desktop: Sidebar layout */}
       <div className='hidden md:flex'>
-        <div className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-100 bg-gray-50/50 p-6'>
+        <div className='sticky top-0 flex h-screen w-80 flex-col gap-4 overflow-y-auto border-r border-gray-50 bg-gray-50/50 p-6'>
           <Search shows={shows} onSearchResults={handleSearchResults} />
           <VenueSidebar
             venues={allVenues}
@@ -303,7 +303,7 @@ export default function Page({ shows }: PageProps) {
             onSelectAll={handleSelectAll}
             onDeselectAll={handleDeselectAll}
           />
-          <footer className='container mx-auto mt-auto flex flex-col gap-2 text-center text-xs'>
+          <footer className='container mx-auto mt-auto flex flex-col gap-2 text-center text-xs text-gray-400'>
             <p>
               All data is pulled from the venues’ individual websites and
               aggregated here. No ownership of information is claimed nor
@@ -312,7 +312,7 @@ export default function Page({ shows }: PageProps) {
           </footer>
         </div>
         <div className='flex-1'>
-          <header className='sticky top-0 mx-auto h-[60px] w-full items-end justify-center gap-2 border-b border-b-black/10 bg-gray-50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur'>
+          <header className='sticky top-0 mx-auto h-[60px] w-full items-end justify-center gap-2 border-b border-gray-50 bg-gray-50/50 p-4 text-center text-sm shadow-xl shadow-black/[0.03] backdrop-blur'>
             <div
               className={`
                 relative w-full text-sm font-medium text-gray-600 transition duration-300 ease-in-out ${

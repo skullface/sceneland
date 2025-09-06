@@ -35,6 +35,16 @@ export const CustomCheckbox = forwardRef<HTMLInputElement, CustomCheckboxProps>(
             }
           `}
           onClick={!disabled ? onChange : undefined}
+          onKeyDown={
+            !disabled
+              ? (e) => {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault()
+                    onChange()
+                  }
+                }
+              : undefined
+          }
           tabIndex={-1}
           role='checkbox'
           aria-checked={checked}

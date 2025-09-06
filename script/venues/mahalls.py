@@ -39,11 +39,11 @@ for section in data.get('sections', []):
                     all_shows_data['sold_out'] = True
                 all_shows_data['date'] = event.get('dates', {}).get('event_start_date', '')
                 if event.get('venues', [{}])[0].get('name') == "Mahall's Apartment":
-                    all_shows_data['venue'] = 'Mahall\'s Apartment'
+                    all_shows_data['venue'] = 'Mahall’s Apartment'
                 elif event.get('venues', [{}])[0].get('name') == "The Roxy at Mahall's":
-                    all_shows_data['venue'] = 'The Roxy at Mahall\'s'
+                    all_shows_data['venue'] = 'The Roxy at Mahall’s'
                 else:
-                    all_shows_data['venue'] = 'Mahall\'s'
+                    all_shows_data['venue'] = 'Mahall’s'
                 all_shows_list.append(all_shows_data)
         break
 

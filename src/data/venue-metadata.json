@@ -71,13 +71,13 @@
       "capacity": "tiny"
     }
   ],
-  "Mahall's Apartment": [
+  "Mahall’s Apartment": [
     {
       "geo": "westside",
       "capacity": "tiny"
     }
   ],
-  "Mahall's": [
+  "Mahall’s": [
     {
       "geo": "westside",
       "capacity": "medium"
@@ -113,7 +113,7 @@
       "capacity": "huge"
     }
   ],
-  "The Roxy at Mahall's": [
+  "The Roxy at Mahall’s": [
     {
       "geo": "westside",
       "capacity": "large"

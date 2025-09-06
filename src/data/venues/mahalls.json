@@ -1,19 +1,11 @@
 [
   {
     "artist": [
-      "The J\u00f6tunn"
-    ],
-    "link": "https://dice.fm/event/68780fcef3db690001b8216e",
-    "date": "2025-09-05T18:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
       "Esoteria"
     ],
     "link": "https://dice.fm/event/68ab91d615a70600018428ca",
     "date": "2025-09-07T18:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -21,7 +13,7 @@
     ],
     "link": "https://dice.fm/event/682f58f7732817000189e1a4",
     "date": "2025-09-10T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -29,15 +21,7 @@
     ],
     "link": "https://dice.fm/event/6887b45ab748480001c785ef",
     "date": "2025-09-11T18:30:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
-      "Russian Circles"
-    ],
-    "link": "https://dice.fm/event/685992d1b0ba170001f6b026",
-    "date": "2025-09-12T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -45,15 +29,15 @@
     ],
     "link": "https://dice.fm/event/680b9c7428f65900017320e8",
     "date": "2025-09-12T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Waxahatchee"
+      "Russian Circles"
     ],
-    "link": "https://dice.fm/event/68acd6673a2afc00011cc63a",
-    "date": "2025-09-16T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "link": "https://dice.fm/event/685992d1b0ba170001f6b026",
+    "date": "2025-09-12T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -61,7 +45,15 @@
     ],
     "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
     "date": "2025-09-16T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Waxahatchee"
+    ],
+    "link": "https://dice.fm/event/68acd6673a2afc00011cc63a",
+    "date": "2025-09-16T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -69,7 +61,7 @@
     ],
     "link": "https://dice.fm/event/68152d0ea54bb6000172c7fb",
     "date": "2025-09-17T18:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -77,7 +69,7 @@
     ],
     "link": "https://dice.fm/event/6848439cd807a4000194386f",
     "date": "2025-09-17T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -85,7 +77,7 @@
     ],
     "link": "https://dice.fm/event/684205e5098f840001eba415",
     "date": "2025-09-18T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -93,7 +85,7 @@
     ],
     "link": "https://dice.fm/event/68878c5bb748480001b98bc0",
     "date": "2025-09-19T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -101,7 +93,7 @@
     ],
     "link": "https://dice.fm/event/6866b1e1649b190001540d25",
     "date": "2025-09-20T13:30:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -109,7 +101,7 @@
     ],
     "link": "https://dice.fm/event/6866c7fca0617c0001717d7f",
     "date": "2025-09-20T18:30:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -117,7 +109,7 @@
     ],
     "link": "https://dice.fm/event/68517ecc784d5d0001f77026",
     "date": "2025-09-20T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -125,7 +117,7 @@
     ],
     "link": "https://dice.fm/event/681e2472edf73d00012a5a54",
     "date": "2025-09-21T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -133,7 +125,7 @@
     ],
     "link": "https://dice.fm/event/687e6ebe3d604d0001e89d80",
     "date": "2025-09-23T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -141,7 +133,7 @@
     ],
     "link": "https://dice.fm/event/6849ea6026c3af000111a117",
     "date": "2025-09-24T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -149,7 +141,7 @@
     ],
     "link": "https://dice.fm/event/6875107b64590700011eedf8",
     "date": "2025-09-25T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -157,15 +149,7 @@
     ],
     "link": "https://dice.fm/event/67ed4b5f2884ca0001986d4a",
     "date": "2025-09-26T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
-      "Home Is Where"
-    ],
-    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
-    "date": "2025-09-27T18:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -174,7 +158,15 @@
     "link": "https://dice.fm/event/68713dd98a30cc0001cddc43",
     "sold_out": true,
     "date": "2025-09-27T18:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Home Is Where"
+    ],
+    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
+    "date": "2025-09-27T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -182,7 +174,7 @@
     ],
     "link": "https://dice.fm/event/6859b236c651e70001644cce",
     "date": "2025-09-28T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -190,7 +182,7 @@
     ],
     "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
     "date": "2025-09-30T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -198,7 +190,7 @@
     ],
     "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
     "date": "2025-10-01T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -206,7 +198,7 @@
     ],
     "link": "https://dice.fm/event/68126bbe221a9600014df312",
     "date": "2025-10-01T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -214,15 +206,7 @@
     ],
     "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
     "date": "2025-10-02T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
-      "Real Estate: A Celebration of ATLAS"
-    ],
-    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -230,7 +214,15 @@
     ],
     "link": "https://dice.fm/event/683a0c5ca82780000146a946",
     "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Real Estate: A Celebration of ATLAS"
+    ],
+    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -238,7 +230,7 @@
     ],
     "link": "https://dice.fm/event/688cdee33f24960001fa5623",
     "date": "2025-10-04T18:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -246,7 +238,7 @@
     ],
     "link": "https://dice.fm/event/6894d6d836b059000177c1e6",
     "date": "2025-10-04T22:30:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -254,7 +246,7 @@
     ],
     "link": "https://dice.fm/event/685042e7e0ef570001da304b",
     "date": "2025-10-06T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -262,7 +254,7 @@
     ],
     "link": "https://dice.fm/event/6822239faa7eed00013e4539",
     "date": "2025-10-07T18:30:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -270,15 +262,7 @@
     ],
     "link": "https://dice.fm/event/6865366c79875f00018377af",
     "date": "2025-10-08T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
-      "Alec Hershey"
-    ],
-    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -286,7 +270,15 @@
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
     "date": "2025-10-10T18:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -294,15 +286,7 @@
     ],
     "link": "https://dice.fm/event/6841fdf3966c590001a35e22",
     "date": "2025-10-11T19:00:00-04:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
-      "JW Francis"
-    ],
-    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -310,7 +294,15 @@
     ],
     "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
     "date": "2025-10-13T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "JW Francis"
+    ],
+    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -318,7 +310,7 @@
     ],
     "link": "https://dice.fm/event/686c26f95b23a80001e0f7ce",
     "date": "2025-10-16T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -326,7 +318,15 @@
     ],
     "link": "https://dice.fm/event/6893a0f2db8acb00017ddda2",
     "date": "2025-10-17T18:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Haunt To Go: a modern femme pop halloween party"
+    ],
+    "link": "https://dice.fm/event/68bb55bee35b890001671998",
+    "date": "2025-10-17T22:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -334,7 +334,7 @@
     ],
     "link": "https://dice.fm/event/68220633d2b00500017187b2",
     "date": "2025-10-19T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -342,7 +342,7 @@
     ],
     "link": "https://dice.fm/event/685991570265b000018debb3",
     "date": "2025-10-20T18:30:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -350,7 +350,7 @@
     ],
     "link": "https://dice.fm/event/689399037c7953000134b759",
     "date": "2025-10-23T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -358,7 +358,7 @@
     ],
     "link": "https://dice.fm/event/6888e41775fc7900012e333a",
     "date": "2025-10-24T18:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -366,7 +366,7 @@
     ],
     "link": "https://dice.fm/event/685ea9965aca88000135b8fe",
     "date": "2025-10-24T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -374,7 +374,7 @@
     ],
     "link": "https://dice.fm/event/688a46b3e82ad00001f170dd",
     "date": "2025-10-25T18:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -382,7 +382,7 @@
     ],
     "link": "https://dice.fm/event/68599e37d05a850001da870d",
     "date": "2025-10-26T19:00:00-04:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -390,7 +390,7 @@
     ],
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
     "date": "2025-10-26T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -398,7 +398,7 @@
     ],
     "link": "https://dice.fm/event/686fd512bb359200016c94f4",
     "date": "2025-10-30T19:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -406,7 +406,7 @@
     ],
     "link": "https://dice.fm/event/68264e018d39420001328ac4",
     "date": "2025-11-01T18:00:00-04:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -414,7 +414,7 @@
     ],
     "link": "https://dice.fm/event/689670ff7c34370001f9e7a1",
     "date": "2025-11-02T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -422,7 +422,7 @@
     ],
     "link": "https://dice.fm/event/6862a53ba29ee50001054367",
     "date": "2025-11-03T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -430,7 +430,7 @@
     ],
     "link": "https://dice.fm/event/684b2b2e184fe7000125b31a",
     "date": "2025-11-04T19:00:00-05:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -438,7 +438,7 @@
     ],
     "link": "https://dice.fm/event/688104667fcd320001e1f9e4",
     "date": "2025-11-05T18:30:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -446,15 +446,7 @@
     ],
     "link": "https://dice.fm/event/689a634dad402100019057c5",
     "date": "2025-11-07T19:00:00-05:00",
-    "venue": "Mahall's"
-  },
-  {
-    "artist": [
-      "Pinkshift"
-    ],
-    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -462,7 +454,15 @@
     ],
     "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
     "date": "2025-11-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pinkshift"
+    ],
+    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -470,7 +470,7 @@
     ],
     "link": "https://dice.fm/event/6893abc27c79530001d7f528",
     "date": "2025-11-09T18:30:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -478,7 +478,7 @@
     ],
     "link": "https://dice.fm/event/67f80f89f2898800017efb23",
     "date": "2025-11-11T18:30:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -486,7 +486,7 @@
     ],
     "link": "https://dice.fm/event/6877bb506b5e4f0001b1d847",
     "date": "2025-11-11T19:00:00-05:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -494,7 +494,7 @@
     ],
     "link": "https://dice.fm/event/68790469b47cb90001eb49de",
     "date": "2025-11-13T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -502,7 +502,7 @@
     ],
     "link": "https://dice.fm/event/6890fccc3363950001457f44",
     "date": "2025-11-14T18:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -510,7 +510,7 @@
     ],
     "link": "https://dice.fm/event/688cccc83f24960001db27bb",
     "date": "2025-11-15T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -518,7 +518,7 @@
     ],
     "link": "https://dice.fm/event/685afa962cfa69000140d539",
     "date": "2025-11-18T18:30:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -526,7 +526,7 @@
     ],
     "link": "https://dice.fm/event/688a2f93d35eb50001a405d7",
     "date": "2025-11-26T17:30:00-05:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -534,7 +534,7 @@
     ],
     "link": "https://dice.fm/event/689b84923b010e0001a5df0d",
     "date": "2025-12-05T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -542,7 +542,7 @@
     ],
     "link": "https://dice.fm/event/68a354bfb6b9070001364dc8",
     "date": "2025-12-06T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -550,7 +550,7 @@
     ],
     "link": "https://dice.fm/event/68002e2cdf06370001927dca",
     "date": "2025-12-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -558,7 +558,7 @@
     ],
     "link": "https://dice.fm/event/686bf18afc9ed400016c99f8",
     "date": "2025-12-10T18:00:00-05:00",
-    "venue": "The Roxy at Mahall's"
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -566,7 +566,7 @@
     ],
     "link": "https://dice.fm/event/6814d273e4c59200016929a9",
     "date": "2025-12-10T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -574,7 +574,7 @@
     ],
     "link": "https://dice.fm/event/68b07f40c159860001a22d45",
     "date": "2025-12-13T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -582,6 +582,6 @@
     ],
     "link": "https://dice.fm/event/6887842cdaa2ef000190bf26",
     "date": "2025-12-14T19:00:00-05:00",
-    "venue": "Mahall's"
+    "venue": "Mahall\u2019s"
   }
 ]

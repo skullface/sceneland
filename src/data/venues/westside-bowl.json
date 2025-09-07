@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Red Wanting Blue ,  Spirit Of The Bear"
-    ],
-    "link": "https://www.eventbrite.com/e/red-wanting-blue-spirit-of-the-bear-tickets-1528119178599",
-    "date": "2025-09-06T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Dauzat St. Marie, The Berrys"
     ],
     "link": "https://www.eventbrite.com/e/dauzat-st-mariethe-berrys-tickets-1573692971039",
@@ -209,6 +201,14 @@
   },
   {
     "artist": [
+      "The Zou, Munnycat Rocky Horror Halloween Party"
+    ],
+    "link": "https://www.eventbrite.com/e/the-zoumunnycat-rocky-horror-halloween-party-tickets-1661483695459",
+    "date": "2025-10-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Revenge of the Musical Dead"
     ],
     "link": "https://www.eventbrite.com/e/revenge-of-the-musical-dead-tickets-1665522636039",
@@ -245,6 +245,14 @@
     ],
     "link": "https://www.eventbrite.com/e/brake-fluidblissen-negative-zen-sedona-tickets-1596252737909",
     "date": "2025-12-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Glass Monarch, Gas Station Lullabies, Suboxin"
+    ],
+    "link": "https://www.eventbrite.com/e/glass-monarchgas-station-lullabiessuboxin-tickets-1669491226199",
+    "date": "2025-12-12T00:00:01",
     "venue": "Westside Bowl"
   },
   {

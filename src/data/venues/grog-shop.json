@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "La Dispute",
-      "Glitterer",
-      "Tummyache"
-    ],
-    "link": "https://grogshop.gs/tm-event/la-dispute/",
-    "date": "2025-09-07",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Momma: Welcome To My Blue Sky Tour",
       "villagerrr"
     ],
@@ -57,20 +47,20 @@
   },
   {
     "artist": [
+      "The Brian Jonestown Massacre"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
+    "date": "2025-09-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Saving Abel",
       "Dead Sugar",
       "Lilieae",
       "The Daze"
     ],
     "link": "https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/",
-    "date": "2025-09-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "The Brian Jonestown Massacre"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
     "date": "2025-09-16",
     "venue": "Grog Shop"
   },

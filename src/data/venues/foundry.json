@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Narcotic Wasteland, Divine Threat, Voices Of The Damned, Unconditional Hatred"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/narcotic-wasteland-divine-threat-voices-of-the-damned-unconditional-hatred/",
-    "date": "2025-09-07T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "A Skylit Drive, Avarice, Terra Vista, Counting Gravestones, Turning Tydes"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive/",
@@ -101,14 +93,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night/",
     "date": "2025-09-26T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "SHE1HIM2, Marottes, I, ELECTRONIC, 2 FORKS"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/she1him2-marottes-i-electronic-2-forks/",
-    "date": "2025-09-27T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -225,6 +209,14 @@
   },
   {
     "artist": [
+      "Flaw"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/flaw/",
+    "date": "2025-11-19T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Krisiun, Abysmal Dawn, Pyrexia, Gorgatron"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/krisiun-abysmal-dawn-pyrexia-gorgatron/",
@@ -237,6 +229,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/",
     "date": "2025-11-29T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Immortal Girlfriend"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/immortal-girlfriend/",
+    "date": "2025-12-17T19:00:00",
     "venue": "Foundry"
   }
 ]

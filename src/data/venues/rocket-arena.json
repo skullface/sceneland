@@ -1,7 +1,7 @@
 [
   {
     "artist": [
-      "Deftones: North America Tour 2025",
+      "Deftones: North American Tour 2025",
       "Special Guests IDLES and The Barbarians of California"
     ],
     "link": "https://www.rocketarena.com/events/detail/deftones-250910",
@@ -96,6 +96,14 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/maroon-5-251124",
     "date": "2025-11-24T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "The Harlem Globetrotters 100 Year Tour"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/the-harlem-globetrotters-251228",
+    "date": "2025-12-28T00:00:01",
     "venue": "Rocket Arena"
   }
 ]

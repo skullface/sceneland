@@ -209,14 +209,6 @@
   },
   {
     "artist": [
-      "QWEIRDO"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/qweirdo-3/",
-    "date": "2025-11-08T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "An Evening with Uli Jon Roth"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/an-evening-with-uli-jon-roth/",
@@ -253,6 +245,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/a-killers-confession-victim-2-cd-release-showcase/",
     "date": "2025-11-29T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Ekoh, Arankai, Dead Cassette"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/ekoh-w-arankai-guests/",
+    "date": "2025-12-05T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "10cc, Max Gomez"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/937253",
-    "date": "2025-09-09T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "PUP & Jeff Rosenstock, Ekko Astral"
     ],
     "link": "https://www.agoracleveland.com/events/detail/904252",
@@ -177,7 +169,7 @@
   },
   {
     "artist": [
-      "Dylan Gossett, Willow Avalon, Buffalo Traffic Jam"
+      "Dylan Gossett, Buffalo Traffic Jam"
     ],
     "link": "https://www.agoracleveland.com/events/detail/978192",
     "date": "2025-10-21T18:00:00",
@@ -309,6 +301,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/932903",
     "date": "2025-12-06T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Aimee Mann & Ted Leo Christmas Show"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1128297",
+    "date": "2025-12-08T18:00:00",
     "venue": "Agora"
   },
   {

@@ -174,13 +174,13 @@
   },
   {
     "artist": [
-      "empire! empire! (i was a lonely estate) Reunion",
-      "Emperor X",
-      "Runaway Brother",
-      "Wig Doubt"
+      "Vice City",
+      "Guy Snowdon and the Citizens",
+      "Catching Ashes",
+      "Librarians With Hickeys"
     ],
-    "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
-    "date": "2025-09-28",
+    "link": "https://grogshop.gs/tm-event/vice-city-guy-snowdon-and-the-citizens-catching-ashes-librarians-with-hickeys/",
+    "date": "2025-09-27",
     "venue": "Grog Shop"
   },
   {
@@ -188,6 +188,17 @@
       "Godspeed You! Black Emperor"
     ],
     "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "empire! empire! (i was a lonely estate) Reunion",
+      "Emperor X",
+      "Runaway Brother",
+      "Wig Doubt"
+    ],
+    "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },
@@ -203,7 +214,8 @@
   {
     "artist": [
       "Brent Cobb: THE AIN\u2019T ROCKED IN A WHILE TOUR",
-      "Gold Star"
+      "Gold Star",
+      "Reverend Lee"
     ],
     "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
     "date": "2025-10-01",
@@ -212,7 +224,8 @@
   {
     "artist": [
       "Shonen Knife: Everyone Happy U.S. Tour 2025",
-      "The Pack A.D."
+      "The Pack A.D.",
+      "Xanny Stars"
     ],
     "link": "https://grogshop.gs/tm-event/shonen-knife-everyone-happy-u-s-tour-2025/",
     "date": "2025-10-02",
@@ -436,6 +449,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/earth/",
     "date": "2025-11-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Monster Rally",
+      "RUMTUM",
+      "Honk"
+    ],
+    "link": "https://grogshop.gs/tm-event/monster-rally-rumtum-honk/",
+    "date": "2025-11-02",
     "venue": "Grog Shop"
   },
   {

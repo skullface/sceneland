@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Woggles",
-      "Thee Isolators"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14432103/the-woggles-thee-isolators",
-    "date": "2025-09-10T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "ivri",
       "DUSTY"
     ],
@@ -266,11 +257,10 @@
   {
     "artist": [
       "Oddisee",
-      "Jay Prince",
       "Nuke Franklin",
       "Floco Torres"
     ],
-    "link": "https://www.beachlandballroom.com/e/13838954/oddisee-jay-prince-nuke-franklin-floco-torres",
+    "link": "https://www.beachlandballroom.com/e/13838954/oddisee-nuke-franklin-floco-torres",
     "date": "2025-09-28T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -420,6 +410,14 @@
     "link": "https://www.beachlandballroom.com/e/14432743/surfer-girl-bikini-trill-tessellated",
     "date": "2025-10-14T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Jesse DeNatale"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14551833/jesse-denatale",
+    "date": "2025-10-14T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

@@ -1,26 +1,10 @@
 [
   {
     "artist": [
-      "Chanel Beads"
-    ],
-    "link": "https://dice.fm/event/682f58f7732817000189e1a4",
-    "date": "2025-09-10T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Hit The Lights"
     ],
     "link": "https://dice.fm/event/6887b45ab748480001c785ef",
     "date": "2025-09-11T18:30:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Motherfolk"
-    ],
-    "link": "https://dice.fm/event/680b9c7428f65900017320e8",
-    "date": "2025-09-12T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -33,10 +17,10 @@
   },
   {
     "artist": [
-      "Sarah and the Safe Word"
+      "Motherfolk"
     ],
-    "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
-    "date": "2025-09-16T19:00:00-04:00",
+    "link": "https://dice.fm/event/680b9c7428f65900017320e8",
+    "date": "2025-09-12T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -47,6 +31,14 @@
     "sold_out": true,
     "date": "2025-09-16T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Sarah and the Safe Word"
+    ],
+    "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
+    "date": "2025-09-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -179,19 +171,19 @@
   },
   {
     "artist": [
-      "Blessthefall"
-    ],
-    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Stop Light Observations"
     ],
     "link": "https://dice.fm/event/68126bbe221a9600014df312",
     "date": "2025-10-01T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Blessthefall"
+    ],
+    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
+    "date": "2025-10-01T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -259,19 +251,19 @@
   },
   {
     "artist": [
-      "Alec Hershey"
-    ],
-    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Integrity + Madball + Strife"
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
     "date": "2025-10-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -511,6 +503,14 @@
     ],
     "link": "https://dice.fm/event/685afa962cfa69000140d539",
     "date": "2025-11-18T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Haley Mae Campbell"
+    ],
+    "link": "https://dice.fm/event/68c0a640a62e300001a6266c",
+    "date": "2025-11-21T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

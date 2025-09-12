@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "ivri",
-      "DUSTY"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13808244/ivri-dusty",
-    "date": "2025-09-11T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Todd Carey",
-      "Wave Magnetik"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14282513/todd-carey-wave-magnetik",
-    "date": "2025-09-11T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "10th Annual Drag Pride Showcase"
     ],
     "link": "https://www.beachlandballroom.com/e/13792694/10th-annual-drag-pride-showcase",
@@ -292,6 +274,16 @@
   },
   {
     "artist": [
+      "Grace Favarro",
+      "Clare Feorene",
+      "Late Braces"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14553113/grace-favarro-clare-feorene-late-braces",
+    "date": "2025-10-02T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "The Tillers",
       "Rodney & The Regulars"
     ],
@@ -463,6 +455,18 @@
     "link": "https://www.beachlandballroom.com/e/14542513/post-saga-silvis-cowboy-princess-brigade",
     "date": "2025-10-17T20:00:00",
     "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Boss Bird",
+      "Bloz",
+      "Lil Marv",
+      "Soli",
+      "DaDamnWooda"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14556733/boss-bird-bloz-lil-marv-soli-dadamnwooda",
+    "date": "2025-10-17T20:00:00",
+    "venue": "Beachland Ballroom"
   },
   {
     "artist": [
@@ -697,6 +701,14 @@
     "link": "https://www.beachlandballroom.com/e/13917734/disintegration-a-tribute-to-the-cure-the-smiths-etc-a-tribute-to-the-smiths",
     "date": "2025-11-14T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Cory Grinder and the Playboy Scouts"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14556643/cory-grinder-and-the-playboy-scouts",
+    "date": "2025-11-14T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JIM FLORENTINE, DON JAMIESON + JOE HOWARD"
-    ],
-    "link": "https://www.ticketweb.com/event/jim-florentine-w-don-jamieson-the-winchester-tickets/13911914",
-    "date": "2025-09-12T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "INTO THE BLUE \u2013 GRATEFUL DEAD REVIVAL"
     ],
     "link": "https://www.ticketweb.com/event/into-the-blue-the-winchester-tickets/14512523",
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.ticketweb.com/event/chest-fever-presents-a-musical-the-winchester-tickets/13884234",
     "date": "2025-12-06T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Gary Ho Ho Hoey 30th Anniversary Tour"
+    ],
+    "link": "https://www.ticketweb.com/event/gary-ho-ho-hoey-30th-the-winchester-tickets/14512133",
+    "date": "2025-12-13T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

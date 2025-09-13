@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "A Skylit Drive, Avarice, Terra Vista, Counting Gravestones, Turning Tydes"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/a-skylit-drive/",
-    "date": "2025-09-12T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Nocturnal"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
@@ -117,6 +109,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/kids-on-fire-libcor-church-state/",
     "date": "2025-09-30T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Mind's Eye, Hot Flash Heat Wave, Sad Park"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/",
+    "date": "2025-10-01T19:00:00",
     "venue": "Foundry"
   },
   {

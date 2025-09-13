@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "Russian Circles"
+      "Sarah and the Safe Word"
     ],
-    "link": "https://dice.fm/event/685992d1b0ba170001f6b026",
-    "date": "2025-09-12T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Motherfolk"
-    ],
-    "link": "https://dice.fm/event/680b9c7428f65900017320e8",
-    "date": "2025-09-12T19:00:00-04:00",
+    "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
+    "date": "2025-09-16T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -23,14 +15,6 @@
     "sold_out": true,
     "date": "2025-09-16T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Sarah and the Safe Word"
-    ],
-    "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
-    "date": "2025-09-16T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -130,20 +114,20 @@
   },
   {
     "artist": [
-      "Home Is Where"
-    ],
-    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
-    "date": "2025-09-27T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Kublai Khan TX"
     ],
     "link": "https://dice.fm/event/68713dd98a30cc0001cddc43",
     "sold_out": true,
     "date": "2025-09-27T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Home Is Where"
+    ],
+    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
+    "date": "2025-09-27T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -243,14 +227,6 @@
   },
   {
     "artist": [
-      "Alec Hershey"
-    ],
-    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Integrity + Madball + Strife"
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
@@ -259,10 +235,26 @@
   },
   {
     "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Slater"
     ],
     "link": "https://dice.fm/event/6841fdf3966c590001a35e22",
     "date": "2025-10-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mahall's Trinkets & Treats: a Halloween Market"
+    ],
+    "link": "https://dice.fm/event/68c4882329b9000001402322",
+    "date": "2025-10-12T11:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -355,19 +347,19 @@
   },
   {
     "artist": [
-      "Stand Atlantic"
-    ],
-    "link": "https://dice.fm/event/68599e37d05a850001da870d",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Florist"
     ],
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Stand Atlantic"
+    ],
+    "link": "https://dice.fm/event/68599e37d05a850001da870d",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

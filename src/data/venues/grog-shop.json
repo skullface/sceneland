@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "LoConti",
-      "Public Water Supply"
-    ],
-    "link": "https://grogshop.gs/tm-event/loconti-public-water-supply/",
-    "date": "2025-09-12",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Hunx and His Punx",
       "Tchotchke",
       "Xanny Stars"
@@ -170,20 +161,20 @@
   },
   {
     "artist": [
-      "Godspeed You! Black Emperor"
-    ],
-    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
-    "date": "2025-09-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "empire! empire! (i was a lonely estate) Reunion",
       "Emperor X",
       "Runaway Brother",
       "Wig Doubt"
     ],
     "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Godspeed You! Black Emperor"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },
@@ -278,7 +269,8 @@
       "Signals Midwest",
       "84 Tigers",
       "Five Hundred Bucks",
-      "Model Martel"
+      "Model Martel",
+      "Tyler Richardson"
     ],
     "link": "https://grogshop.gs/tm-event/signals-midwest-84-tigers-five-hundred-bucks-model-martel/",
     "date": "2025-10-10",

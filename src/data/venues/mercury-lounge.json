@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Saints of Crue \u2013 Motley Crue Tribute"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/saints-of-crue-motley-crue-tribute/",
-    "date": "2025-09-13T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Bobcat, Nite Klub, Death Mattress, Lords of the Highway"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/bobcat-nite-klub-death-mattress/",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/y2kray-2/",
     "date": "2025-09-27T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Blackbraid, Lamp of Murmuur, D\u00d6DSRIT"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/blackbraid-lamp-of-murmuur-dodsrit/",
+    "date": "2025-10-03T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -209,10 +209,10 @@
   },
   {
     "artist": [
-      "Kind Eyes, We Weren't Invited, Unvow, Terra Vista"
+      "HOTTOWEEN"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/kind-eyes-we-werent-invited-unvow-terra-vista/",
-    "date": "2025-11-14T00:00:01",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/hottoween/",
+    "date": "2025-11-15T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -253,6 +253,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/ekoh-w-arankai-guests/",
     "date": "2025-12-05T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "HOSTAGE SITUATION"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
+    "date": "2025-12-13T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

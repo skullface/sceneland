@@ -11,14 +11,6 @@
     "artist": [
       "JUST A BAR"
     ],
-    "link": "https://noclasscle.com/events/just-a-bar-9-20-25",
-    "date": "2025-09-20T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "JUST A BAR"
-    ],
     "link": "https://noclasscle.com/events/just-a-bar-9-21-25",
     "date": "2025-09-21T00:00:01",
     "venue": "No Class"
@@ -49,6 +41,14 @@
   },
   {
     "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-10-2",
+    "date": "2025-10-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SINISTER"
     ],
     "link": "https://noclasscle.com/events/sinister-master",
@@ -61,6 +61,22 @@
     ],
     "link": "https://noclasscle.com/events/dying-remains",
     "date": "2025-10-10T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GOTTA SNATCH 'EM ALL"
+    ],
+    "link": "https://noclasscle.com/events/gotta-snatch-em-all-halloween",
+    "date": "2025-10-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BERGHAIN'T"
+    ],
+    "link": "https://noclasscle.com/events/berghaint-9-18-25",
+    "date": "2025-10-18T00:00:01",
     "venue": "No Class"
   },
   {

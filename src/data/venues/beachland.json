@@ -1,33 +1,6 @@
 [
   {
     "artist": [
-      "Brooks Nielsen"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14376613/brooks-nielsen",
-    "date": "2025-09-14T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Kendra Morris",
-      "S.Y.S. (Save YourSelf)",
-      "DJ Teddy Eisenberg"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14485713/kendra-morris-s-y-s-save-yourself-dj-teddy-eisenberg",
-    "date": "2025-09-14T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Jenny Don't & The Spurs",
-      "Cory Grinder"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13887014/jenny-don-t-the-spurs-cory-grinder",
-    "date": "2025-09-15T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Lung",
       "Kill The Fall"
     ],
@@ -112,9 +85,10 @@
   },
   {
     "artist": [
-      "Walter Trout"
+      "Walter Trout",
+      "Guy Snowden"
     ],
-    "link": "https://www.beachlandballroom.com/e/14481973/walter-trout",
+    "link": "https://www.beachlandballroom.com/e/14481973/walter-trout-guy-snowden",
     "date": "2025-09-20T20:00:00",
     "venue": "Beachland Ballroom"
   },
@@ -578,9 +552,10 @@
   },
   {
     "artist": [
-      "Ashland Craft"
+      "Ashland Craft",
+      "Caleb Lee Hutchinson"
     ],
-    "link": "https://www.beachlandballroom.com/e/13843214/ashland-craft",
+    "link": "https://www.beachlandballroom.com/e/13843214/ashland-craft-caleb-lee-hutchinson",
     "date": "2025-10-31T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -662,6 +637,14 @@
     ],
     "link": "https://www.beachlandballroom.com/e/13877464/neva-dinova-haiinted",
     "date": "2025-11-10T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Social Assassins"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14562863/social-assassins",
+    "date": "2025-11-13T20:00:00",
     "venue": "Beachland Tavern"
   },
   {

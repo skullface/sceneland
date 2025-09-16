@@ -1,20 +1,20 @@
 [
   {
     "artist": [
-      "Sarah and the Safe Word"
-    ],
-    "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
-    "date": "2025-09-16T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Waxahatchee"
     ],
     "link": "https://dice.fm/event/68acd6673a2afc00011cc63a",
     "sold_out": true,
     "date": "2025-09-16T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Sarah and the Safe Word"
+    ],
+    "link": "https://dice.fm/event/6888e114b525fb00018d8ca1",
+    "date": "2025-09-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -139,18 +139,18 @@
   },
   {
     "artist": [
+      "Colony House"
+    ],
+    "link": "https://dice.fm/event/68c3277c66165f0001f3eeec",
+    "date": "2025-09-30T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Palmyra \"Still Restless\" Tour"
     ],
     "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
     "date": "2025-09-30T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Stop Light Observations"
-    ],
-    "link": "https://dice.fm/event/68126bbe221a9600014df312",
-    "date": "2025-10-01T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -163,18 +163,18 @@
   },
   {
     "artist": [
-      "Bad Cop Bad Cop"
+      "Stop Light Observations"
     ],
-    "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
-    "date": "2025-10-02T19:00:00-04:00",
+    "link": "https://dice.fm/event/68126bbe221a9600014df312",
+    "date": "2025-10-01T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
     "artist": [
-      "Warmduscher"
+      "Bad Cop Bad Cop"
     ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
+    "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
+    "date": "2025-10-02T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -184,6 +184,14 @@
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -395,6 +403,14 @@
   },
   {
     "artist": [
+      "State Champs"
+    ],
+    "link": "https://dice.fm/event/68bf53449253330001eb9377",
+    "date": "2025-11-04T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Frights"
     ],
     "link": "https://dice.fm/event/684b2b2e184fe7000125b31a",
@@ -419,19 +435,19 @@
   },
   {
     "artist": [
-      "Rob49: Let Me Fly Tour"
-    ],
-    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkshift"
     ],
     "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rob49: Let Me Fly Tour"
+    ],
+    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

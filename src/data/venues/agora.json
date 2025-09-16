@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sparks"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1128396",
-    "date": "2025-09-15T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Superheaven"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1029489",
@@ -57,7 +49,7 @@
   },
   {
     "artist": [
-      "Alexandra Kay"
+      "Alexandra Kay, Julia Cole"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1076259",
     "date": "2025-09-30T18:00:00",
@@ -193,6 +185,14 @@
   },
   {
     "artist": [
+      "4batz"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1133203",
+    "date": "2025-11-14T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Wish You Were Here"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1078927",
@@ -309,6 +309,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1115307",
     "date": "2026-03-20T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Kathy Griffin"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1137174",
+    "date": "2026-04-25T18:00:00",
     "venue": "Agora"
   },
   {

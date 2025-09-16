@@ -121,10 +121,10 @@
   },
   {
     "artist": [
-      "Cultus Black"
+      "The Harbor Divide, Soulkiller, Heartstomper"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/cultus-black/",
-    "date": "2025-10-04T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/the-harbor-divide-soulkiller-heartstomper/",
+    "date": "2025-10-05T18:30:00",
     "venue": "Foundry"
   },
   {
@@ -145,7 +145,15 @@
   },
   {
     "artist": [
-      "Silent Theory, Ovtlier, Major Moment"
+      "Death & Exhale, Unconditional Hatred, As They Were, Sea Biscuit"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/death-exhale-unconditional-hatred-as-they-were-sea-biscuit/",
+    "date": "2025-10-10T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Silent Theory, Ovtlier, Major Moment, For Absent Friends"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/silent-theory-ovtlier-major-moment/",
     "date": "2025-10-11T19:00:00",
@@ -153,7 +161,7 @@
   },
   {
     "artist": [
-      "Brokencyde, Dot Dot Curve, From This Day Forward, Zombie Fashion Show, MORNING IN MAY, Thrapple, Novela"
+      "Brokencyde, Dot Dot Curve, From This Day Forward, Zombie Fashion Show, Dearest Friend, Thrapple, Novela"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/",
     "date": "2025-10-15T18:00:00",
@@ -189,6 +197,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/devils-night-rise-of-the-demons/",
     "date": "2025-10-30T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Inether, Wasted Society, Pink Maskerade, Mentally Distrakted, Talk Less"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/inether-wasted-society-pink-masquerade-mentally-distrakted-talk-less/",
+    "date": "2025-10-31T18:00:00",
     "venue": "Foundry"
   },
   {

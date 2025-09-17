@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "The Brian Jonestown Massacre",
-      "Flavor Crystals"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-brian-jonestown-massacre/",
-    "date": "2025-09-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Saving Abel",
-      "Dead Sugar",
-      "Lilieae",
-      "The Daze"
-    ],
-    "link": "https://grogshop.gs/tm-event/saving-abel-dead-sugar-lilieae-the-daze/",
-    "date": "2025-09-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Superchunk",
       "Tee Vee Repairmann"
     ],
@@ -142,20 +122,21 @@
   },
   {
     "artist": [
+      "Godspeed You! Black Emperor",
+      "RA Washington"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "empire! empire! (i was a lonely estate) Reunion",
       "Emperor X",
       "Runaway Brother",
       "Wig Doubt"
     ],
     "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
-    "date": "2025-09-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Godspeed You! Black Emperor"
-    ],
-    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },
@@ -542,6 +523,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/spiritual-cramp/",
     "date": "2026-03-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Michael Shannon & Jason Narducy and Friends play R.E.M.\u2019s Lifes Rich Pageant"
+    ],
+    "link": "https://grogshop.gs/tm-event/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-lifes-rich-pageant/",
+    "date": "2026-03-10",
     "venue": "Grog Shop"
   }
 ]

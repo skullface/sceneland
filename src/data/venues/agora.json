@@ -57,7 +57,7 @@
   },
   {
     "artist": [
-      "Marc Rebillet"
+      "Marc Rebillet, Capyac"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1012076",
     "date": "2025-10-02T18:00:00",
@@ -313,10 +313,26 @@
   },
   {
     "artist": [
+      "Charlie Berens"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1138018",
+    "date": "2026-03-21T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Kathy Griffin"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1137174",
     "date": "2026-04-25T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Henry Cho"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1139568",
+    "date": "2026-04-30T18:00:00",
     "venue": "Agora"
   },
   {

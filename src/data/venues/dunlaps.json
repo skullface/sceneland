@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Samantha Henson",
-      "Mikey Silas",
-      "Ray Flanagan"
-    ],
-    "link": "https://www.dunlapsbar.com/shows/332286",
-    "date": "2025-09-16T20:00:00",
-    "venue": "Dunlap\u2019s Corner Bar"
-  },
-  {
-    "artist": [
       "Jamaal Cody",
       "Smokeface"
     ],
@@ -25,6 +15,16 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/335535",
     "date": "2025-09-25T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Soup Dreams",
+      "Fear of Dancing",
+      "Cherry Yachtsman"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/335758",
+    "date": "2025-10-01T19:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
   {

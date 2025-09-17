@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Brian Jonestown Massacre, Flavor Crystals"
-    ],
-    "link": "https://www.axs.com/events/882010/the-brian-jonestown-massacre-tickets",
-    "date": "2025-09-16T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "James"
     ],
     "link": "https://www.axs.com/events/962253/james-tickets",
@@ -57,7 +49,7 @@
   },
   {
     "artist": [
-      "Godspeed You! Black Emperor"
+      "Godspeed You! Black Emperor, RA Washington"
     ],
     "link": "https://www.axs.com/events/943143/godspeed-you-black-emperor-tickets",
     "date": "2025-09-28T20:00:00",
@@ -241,10 +233,26 @@
   },
   {
     "artist": [
+      "That Mexican OT, DRODi, MG Lil Bubba"
+    ],
+    "link": "https://www.axs.com/events/1137172/that-mexican-ot-tickets",
+    "date": "2025-12-10T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
       "The Infamous Stringdusters, Mountain Grass Unit"
     ],
     "link": "https://www.axs.com/events/1075938/the-infamous-stringdusters-tickets",
     "date": "2026-01-28T19:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Michael Shannon & Jason Narducy , and Friends play R.E.M.\u2019s Life's Rich Pageant"
+    ],
+    "link": "https://www.axs.com/events/1139047/michael-shannon-jason-narducy-tickets",
+    "date": "2026-03-10T20:00:00",
     "venue": "Globe Iron"
   },
   {

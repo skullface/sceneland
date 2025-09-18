@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "Lung",
-      "Kill The Fall"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13781204/lung-kill-the-fall",
-    "date": "2025-09-16T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Vision Video",
-      "Panic Priest",
-      "Treasvre"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13853564/vision-video-panic-priest-treasvre",
-    "date": "2025-09-16T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "S-E-R-V-I-C-E",
       "Cardiel"
     ],
@@ -275,9 +256,10 @@
   },
   {
     "artist": [
-      "Phoebe Katis"
+      "Phoebe Katis",
+      "JET STAR"
     ],
-    "link": "https://www.beachlandballroom.com/e/13886674/phoebe-katis",
+    "link": "https://www.beachlandballroom.com/e/13886674/phoebe-katis-jet-star",
     "date": "2025-10-08T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -648,6 +630,14 @@
   },
   {
     "artist": [
+      "KNOX"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14563323/knox",
+    "date": "2025-11-09T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Neva Dinova",
       "Haiinted"
     ],
@@ -657,9 +647,10 @@
   },
   {
     "artist": [
-      "Social Assassins"
+      "Social Assassins",
+      "CLE Collective"
     ],
-    "link": "https://www.beachlandballroom.com/e/14562863/social-assassins",
+    "link": "https://www.beachlandballroom.com/e/14562863/social-assassins-cle-collective",
     "date": "2025-11-13T20:00:00",
     "venue": "Beachland Tavern"
   },

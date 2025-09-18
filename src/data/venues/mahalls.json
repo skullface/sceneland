@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Guerilla Toss"
-    ],
-    "link": "https://dice.fm/event/6848439cd807a4000194386f",
-    "date": "2025-09-17T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Geordie Greep"
-    ],
-    "link": "https://dice.fm/event/68152d0ea54bb6000172c7fb",
-    "date": "2025-09-17T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Aaron West and the Roaring Twenties "
     ],
     "link": "https://dice.fm/event/684205e5098f840001eba415",
@@ -162,19 +146,19 @@
   },
   {
     "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Real Estate: A Celebration of ATLAS"
     ],
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -218,19 +202,19 @@
   },
   {
     "artist": [
-      "Alec Hershey"
-    ],
-    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Integrity + Madball + Strife"
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
     "date": "2025-10-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -250,19 +234,19 @@
   },
   {
     "artist": [
-      "Richy Mitch and The Coal Miners"
-    ],
-    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "JW Francis"
     ],
     "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
     "date": "2025-10-13T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Richy Mitch and The Coal Miners"
+    ],
+    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -338,19 +322,19 @@
   },
   {
     "artist": [
-      "Stand Atlantic"
-    ],
-    "link": "https://dice.fm/event/68599e37d05a850001da870d",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Florist"
     ],
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Stand Atlantic"
+    ],
+    "link": "https://dice.fm/event/68599e37d05a850001da870d",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -494,6 +478,14 @@
     ],
     "link": "https://dice.fm/event/68c0a640a62e300001a6266c",
     "date": "2025-11-21T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Noah Gundersen"
+    ],
+    "link": "https://dice.fm/event/68c4778d86b0cd0001523e48",
+    "date": "2025-11-25T19:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

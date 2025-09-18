@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Superchunk",
-      "Tee Vee Repairmann"
-    ],
-    "link": "https://grogshop.gs/tm-event/superchunk/",
-    "date": "2025-09-17",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Cro-Mags",
       "Pig Rides",
       "Self Interest"
@@ -314,6 +305,14 @@
   },
   {
     "artist": [
+      "Army of Treats: A Special Cover Show at Grog Shop"
+    ],
+    "link": "https://grogshop.gs/tm-event/army-of-treats-a-special-cover-show-at-grog-shop/",
+    "date": "2025-10-23",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Carlos Jones & the P.L.U.S. Band",
       "The Stix Quartet"
     ],
@@ -411,12 +410,34 @@
   },
   {
     "artist": [
+      "BORN OF OSIRIS \u201cTHROUGH SHADOWS USA TOUR\u201d",
+      "The Browning",
+      "VCTMS",
+      "AXTY",
+      "Lost In Separation"
+    ],
+    "link": "https://grogshop.gs/tm-event/born-of-osiris-through-shadows-usa-tour/",
+    "date": "2025-11-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Weakened Friends",
       "Rodeo Boys",
       "Cool Party"
     ],
     "link": "https://grogshop.gs/tm-event/weakened-friends-feels-like-hell-tour/",
     "date": "2025-11-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Good Luck",
+      "Natural Sway",
+      "Hunden"
+    ],
+    "link": "https://grogshop.gs/tm-event/good-luck-hunden-street-food/",
+    "date": "2025-11-13",
     "venue": "Grog Shop"
   },
   {

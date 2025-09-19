@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Cro-Mags",
-      "Pig Rides",
-      "Self Interest"
-    ],
-    "link": "https://grogshop.gs/tm-event/cro-mags-pig-rides-self-interest/",
-    "date": "2025-09-18",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "mehro",
       "Evie Irie"
     ],
@@ -260,6 +250,16 @@
   },
   {
     "artist": [
+      "You\u2019re Among Friends",
+      "Vanishing Shores",
+      "Coals and Ashes"
+    ],
+    "link": "https://grogshop.gs/tm-event/youre-among-friends-vanishing-shores-coals-and-ashes/",
+    "date": "2025-10-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Tee Grizzley"
     ],
     "link": "https://grogshop.gs/tm-event/tee-grizzley/",
@@ -359,6 +359,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/hobo-johnson-and-the-lovemakers/",
     "date": "2025-10-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Grog Shop Halloween Cover Band Spooktacular!"
+    ],
+    "link": "https://grogshop.gs/tm-event/grog-shop-halloween-cover-band-spooktacular/",
+    "date": "2025-10-30",
     "venue": "Grog Shop"
   },
   {

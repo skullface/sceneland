@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "SMALL TOWN TITANS \u2013 I'M NOT DONE TOUR"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/small-town-titans-im-not-done-tour/",
-    "date": "2025-09-18T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Sunshine Daydream \u2013 Third Thursdays"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/sunshine-daydream-third-thursdays/",
-    "date": "2025-09-18T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Rhapsody of Fire, Enforcer, Striker, Witherfall"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/rhapsody-of-fire-enforcer-striker-witherfall/",
@@ -77,6 +61,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/bubba-sparxxx/",
     "date": "2025-10-05T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Finger Eleven + Alien Ant Farm"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/finger-eleven-alien-ant-farm/",
+    "date": "2025-10-07T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

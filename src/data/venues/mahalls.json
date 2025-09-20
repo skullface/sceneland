@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Autopolitan \"Around Ways\" album release show"
-    ],
-    "link": "https://dice.fm/event/68878c5bb748480001b98bc0",
-    "date": "2025-09-19T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Absolute Intense Wrestling: JT Lightning Invitational 1:30P"
     ],
     "link": "https://dice.fm/event/6866b1e1649b190001540d25",
@@ -98,14 +90,6 @@
   },
   {
     "artist": [
-      "Palmyra \"Still Restless\" Tour"
-    ],
-    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
-    "date": "2025-09-30T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Colony House"
     ],
     "link": "https://dice.fm/event/68c3277c66165f0001f3eeec",
@@ -114,11 +98,11 @@
   },
   {
     "artist": [
-      "Blessthefall"
+      "Palmyra \"Still Restless\" Tour"
     ],
-    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
+    "date": "2025-09-30T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -130,10 +114,26 @@
   },
   {
     "artist": [
+      "Blessthefall"
+    ],
+    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
+    "date": "2025-10-01T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Bad Cop Bad Cop"
     ],
     "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
     "date": "2025-10-02T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -143,14 +143,6 @@
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -167,6 +159,14 @@
     "link": "https://dice.fm/event/6894d6d836b059000177c1e6",
     "date": "2025-10-04T22:30:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rood Presents: Corn Daze"
+    ],
+    "link": "https://dice.fm/event/68cd7b00a50b500001adcb60",
+    "date": "2025-10-05T11:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -226,19 +226,19 @@
   },
   {
     "artist": [
-      "JW Francis"
-    ],
-    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Richy Mitch and The Coal Miners"
     ],
     "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
     "date": "2025-10-13T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "JW Francis"
+    ],
+    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -314,14 +314,6 @@
   },
   {
     "artist": [
-      "Stand Atlantic"
-    ],
-    "link": "https://dice.fm/event/68599e37d05a850001da870d",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Florist"
     ],
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
@@ -330,10 +322,26 @@
   },
   {
     "artist": [
+      "Stand Atlantic"
+    ],
+    "link": "https://dice.fm/event/68599e37d05a850001da870d",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "They Are Gutting A Body Of Water"
     ],
     "link": "https://dice.fm/event/686fd512bb359200016c94f4",
     "date": "2025-10-30T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mahall's Halloween party: Club Carnival"
+    ],
+    "link": "https://dice.fm/event/68cd93cc4f854400016a3c72",
+    "date": "2025-10-31T20:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -365,6 +373,7 @@
       "State Champs"
     ],
     "link": "https://dice.fm/event/68bf53449253330001eb9377",
+    "sold_out": true,
     "date": "2025-11-04T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
@@ -394,19 +403,19 @@
   },
   {
     "artist": [
-      "Pinkshift"
-    ],
-    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Rob49: Let Me Fly Tour"
     ],
     "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pinkshift"
+    ],
+    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

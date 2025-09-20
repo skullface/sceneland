@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Lagrimas"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/lagrimas/",
-    "date": "2025-09-19T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Wargasm, Dropout Kings, Tomorrows Ghosts"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/wargasm/",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/fight-from-within-resistor-smile-on-the-sinner-left-on-red-6deep-let-them-divide-only-the-lucky-ones-die/",
     "date": "2025-10-07T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Death & Exhale, Unconditional Hatred, As They Were, Sea Biscuit"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/death-exhale-unconditional-hatred-as-they-were-sea-biscuit/",
+    "date": "2025-10-10T18:00:00",
     "venue": "Foundry"
   },
   {

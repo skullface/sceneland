@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "MARKY RAMONE PLAYS THE RAMONES",
-      "Marky Ramone",
-      "Whatever..."
-    ],
-    "link": "https://www.beachlandballroom.com/e/14407593/marky-ramone-plays-the-ramones-marky-ramone-whatever-",
-    "date": "2025-09-18T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Delvon Lamarr Organ Trio",
       "DJ Mr. Fishtruck"
     ],
@@ -156,9 +146,10 @@
   },
   {
     "artist": [
-      "Bywater Call"
+      "Bywater Call",
+      "The Brakes"
     ],
-    "link": "https://www.beachlandballroom.com/e/13957374/bywater-call",
+    "link": "https://www.beachlandballroom.com/e/13957374/bywater-call-the-brakes",
     "date": "2025-09-30T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -216,15 +207,6 @@
     ],
     "link": "https://www.beachlandballroom.com/e/14394553/hayes-carll-aaron-raitiere",
     "date": "2025-10-05T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Destroyer",
-      "Jennifer Castle"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14249173/destroyer-jennifer-castle",
-    "date": "2025-10-06T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {
@@ -480,14 +462,6 @@
   },
   {
     "artist": [
-      "Nahko and Medicine For The People"
-    ],
-    "link": "https://www.beachlandballroom.com/e/14568533/nahko-and-medicine-for-the-people",
-    "date": "2025-10-27T19:30:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
       "Arcy Drive",
       "Mercury"
     ],
@@ -502,6 +476,16 @@
     "link": "https://www.beachlandballroom.com/e/14516033/dear-silas",
     "date": "2025-10-29T20:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Dark Water Rebellion",
+      "The Faraways",
+      "D-Rock spins between sets"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14573563/dark-water-rebellion-the-faraways-d-rock-spins-between-sets",
+    "date": "2025-10-29T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [
@@ -548,6 +532,14 @@
     "link": "https://www.beachlandballroom.com/e/13894004/the-rock-and-roll-playhouse-plays-music-of-the-beatles-more-for-kids-ft-the-hose",
     "date": "2025-11-02T12:00:00",
     "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Theo Lawrence"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14571443/theo-lawrence",
+    "date": "2025-11-02T20:00:00",
+    "venue": "Beachland Tavern"
   },
   {
     "artist": [

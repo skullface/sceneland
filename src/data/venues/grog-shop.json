@@ -1,27 +1,6 @@
 [
   {
     "artist": [
-      "mehro",
-      "Evie Irie"
-    ],
-    "link": "https://grogshop.gs/tm-event/mehro/",
-    "date": "2025-09-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Quintron and Miss Pussycat",
-      "Brood X",
-      "Drunks with Guns",
-      "DJ Aaron Dilloway",
-      "Drunks With Guns"
-    ],
-    "link": "https://grogshop.gs/tm-event/quintron-and-miss-pussycat-broodx-drunks-with-guns-dj-aaron-dilloway/",
-    "date": "2025-09-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Kid Congo & The Pink Monkey Birds",
       "Cheater Slicks",
       "OONGOW!!!"
@@ -103,21 +82,21 @@
   },
   {
     "artist": [
-      "Godspeed You! Black Emperor",
-      "RA Washington"
-    ],
-    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
-    "date": "2025-09-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "empire! empire! (i was a lonely estate) Reunion",
       "Emperor X",
       "Runaway Brother",
       "Wig Doubt"
     ],
     "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Godspeed You! Black Emperor",
+      "RA Washington"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },
@@ -456,6 +435,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/lady-hatchet-quartet-cowboy-princess-brigade-rubix-groove/",
     "date": "2025-11-15",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Etana"
+    ],
+    "link": "https://grogshop.gs/tm-event/etana/",
+    "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {

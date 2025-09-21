@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Kid Congo & The Pink Monkey Birds",
-      "Cheater Slicks",
-      "OONGOW!!!"
-    ],
-    "link": "https://grogshop.gs/tm-event/kid-congo-powers-the-pink-monkey-birds/",
-    "date": "2025-09-20",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Heights Music Hop at Grog Shop",
       "Darrin Hacquard",
       "Sabon"
@@ -82,21 +72,21 @@
   },
   {
     "artist": [
+      "Godspeed You! Black Emperor",
+      "RA Washington"
+    ],
+    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
+    "date": "2025-09-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "empire! empire! (i was a lonely estate) Reunion",
       "Emperor X",
       "Runaway Brother",
       "Wig Doubt"
     ],
     "link": "https://grogshop.gs/tm-event/empire-empire-i-was-a-lonely-estate-reunion-w-emperor-x-runaway-brother/",
-    "date": "2025-09-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Godspeed You! Black Emperor",
-      "RA Washington"
-    ],
-    "link": "https://grogshop.gs/tm-event/godspeed-you-black-emperor/",
     "date": "2025-09-28",
     "venue": "Grog Shop"
   },

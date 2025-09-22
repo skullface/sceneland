@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "PANZERFAUST"
-    ],
-    "link": "https://noclasscle.com/events/panzerfaust-groza",
-    "date": "2025-09-19T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "JUST A BAR"
     ],
     "link": "https://noclasscle.com/events/just-a-bar-9-21-25",
@@ -49,7 +41,7 @@
   },
   {
     "artist": [
-      "SINISTER"
+      "MASTER"
     ],
     "link": "https://noclasscle.com/events/sinister-master",
     "date": "2025-10-04T00:00:01",
@@ -73,10 +65,26 @@
   },
   {
     "artist": [
+      "IT'S ALIVE!"
+    ],
+    "link": "https://noclasscle.com/events/its-alive",
+    "date": "2025-10-16T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "BERGHAIN'T"
     ],
     "link": "https://noclasscle.com/events/berghaint-9-18-25",
     "date": "2025-10-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HWUT THE HELL!?"
+    ],
+    "link": "https://noclasscle.com/events/hwut-the-hell-10-23",
+    "date": "2025-10-23T00:00:01",
     "venue": "No Class"
   },
   {

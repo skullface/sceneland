@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Full Body 2"
-    ],
-    "link": "https://dice.fm/event/681e2472edf73d00012a5a54",
-    "date": "2025-09-21T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Zinadelphia"
     ],
     "link": "https://dice.fm/event/687e6ebe3d604d0001e89d80",
@@ -106,19 +98,19 @@
   },
   {
     "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Real Estate: A Celebration of ATLAS"
     ],
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -170,19 +162,19 @@
   },
   {
     "artist": [
-      "Alec Hershey"
-    ],
-    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Integrity + Madball + Strife"
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
     "date": "2025-10-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -202,19 +194,19 @@
   },
   {
     "artist": [
-      "Richy Mitch and The Coal Miners"
-    ],
-    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "JW Francis"
     ],
     "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
     "date": "2025-10-13T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Richy Mitch and The Coal Miners"
+    ],
+    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

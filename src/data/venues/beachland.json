@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Kiss The Tiger",
-      "Laser Babe"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13847114/kiss-the-tiger-laser-babe",
-    "date": "2025-09-21T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
-      "Boris and the Joy",
-      "paris_monster"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13906994/boris-and-the-joy-paris_monster",
-    "date": "2025-09-22T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "House of Harm",
       "Sculpture Club"
     ],
@@ -184,10 +166,10 @@
   {
     "artist": [
       "Goodmorning Valentine",
-      "Horses 4K",
-      "Ohio Civil Power"
+      "Nick Cross",
+      "Horses 4K"
     ],
-    "link": "https://www.beachlandballroom.com/e/14503853/goodmorning-valentine-horses-4k-ohio-civil-power",
+    "link": "https://www.beachlandballroom.com/e/14503853/goodmorning-valentine-nick-cross-horses-4k",
     "date": "2025-10-09T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -481,10 +463,20 @@
   },
   {
     "artist": [
-      "Dave Swanson's Mystery Airship",
+      "People in the Daytime",
+      "Fruitfly",
+      "Factual Brains",
+      "Freak"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14574423/people-in-the-daytime-fruitfly-factual-brains-freak",
+    "date": "2025-11-01T19:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Infidels (Record Release)"
     ],
-    "link": "https://www.beachlandballroom.com/e/13901014/dave-swanson-s-mystery-airship-infidels-record-release-",
+    "link": "https://www.beachlandballroom.com/e/13901014/infidels-record-release-",
     "date": "2025-11-01T20:00:00",
     "venue": "Beachland Tavern"
   },
@@ -575,9 +567,9 @@
   {
     "artist": [
       "Neva Dinova",
-      "Haiinted"
+      "Hainted"
     ],
-    "link": "https://www.beachlandballroom.com/e/13877464/neva-dinova-haiinted",
+    "link": "https://www.beachlandballroom.com/e/13877464/neva-dinova-hainted",
     "date": "2025-11-10T20:00:00",
     "venue": "Beachland Tavern"
   },

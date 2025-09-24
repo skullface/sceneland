@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cannibal Corpse, Municipal Waste, Fulci, Ringworm"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/963148",
-    "date": "2025-09-23T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "An Evening with  The Mountain Goats"
     ],
     "link": "https://www.agoracleveland.com/events/detail/971895",
@@ -113,6 +105,14 @@
   },
   {
     "artist": [
+      "Cage the Elephant, hey, nothing, Vlad Holiday"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1139031",
+    "date": "2025-10-22T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Neko Case, Des Demonas"
     ],
     "link": "https://www.agoracleveland.com/events/detail/933901",
@@ -129,7 +129,7 @@
   },
   {
     "artist": [
-      "Lil Tecca"
+      "Lil Tecca, ffawty, Hardrock"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1054903",
     "date": "2025-11-02T18:00:00",
@@ -273,6 +273,22 @@
   },
   {
     "artist": [
+      "Say Anything and Motion City Soundtrack"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1149913",
+    "date": "2026-02-09T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Acid Bath"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1149805",
+    "date": "2026-03-13T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "bbno$"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1108198",
@@ -293,6 +309,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1138018",
     "date": "2026-03-21T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Adam Ray"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1147896",
+    "date": "2026-03-28T18:00:00",
     "venue": "Agora"
   },
   {

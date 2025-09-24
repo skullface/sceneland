@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "House of Harm",
-      "Sculpture Club"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13842054/house-of-harm-sculpture-club",
-    "date": "2025-09-23T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "The Courettes",
       "Simon & the Apparatus"
     ],
@@ -306,6 +297,14 @@
   },
   {
     "artist": [
+      "The Velvet Nocturne: The Admiral's Arms Burlesque Revue"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14579993/the-velvet-nocturne-the-admiral-s-arms-burlesque-revue",
+    "date": "2025-10-18T20:30:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
       "Emily Ann Roberts"
     ],
     "link": "https://www.beachlandballroom.com/e/14511483/emily-ann-roberts",
@@ -566,6 +565,16 @@
   },
   {
     "artist": [
+      "Gardener",
+      "False Teeth",
+      "Napsack"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14580333/gardener-false-teeth-napsack",
+    "date": "2025-11-09T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
       "Neva Dinova",
       "Hainted"
     ],
@@ -721,6 +730,48 @@
     ],
     "link": "https://www.beachlandballroom.com/e/14503963/taylor-acorn",
     "date": "2025-12-06T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "McKinley James"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14573273/mckinley-james",
+    "date": "2025-12-12T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "JD McPherson",
+      "Melissa Carper"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14573193/jd-mcpherson-melissa-carper",
+    "date": "2025-12-17T20:00:00",
+    "venue": "Beachland Ballroom"
+  },
+  {
+    "artist": [
+      "Liam Kazar"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14573803/liam-kazar",
+    "date": "2026-01-28T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Mike Viola"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14556163/mike-viola",
+    "date": "2026-02-22T20:00:00",
+    "venue": "Beachland Tavern"
+  },
+  {
+    "artist": [
+      "Stephen Kellogg and The Homecoming",
+      "special guest gutter sinatra"
+    ],
+    "link": "https://www.beachlandballroom.com/e/14573023/stephen-kellogg-and-the-homecoming-special-guest-gutter-sinatra",
+    "date": "2026-02-25T20:00:00",
     "venue": "Beachland Ballroom"
   },
   {

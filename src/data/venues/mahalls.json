@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Zinadelphia"
-    ],
-    "link": "https://dice.fm/event/687e6ebe3d604d0001e89d80",
-    "date": "2025-09-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Sunday (1994): The Prairie Tour "
     ],
     "link": "https://dice.fm/event/6849ea6026c3af000111a117",
@@ -58,14 +50,6 @@
   },
   {
     "artist": [
-      "Palmyra \"Still Restless\" Tour"
-    ],
-    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
-    "date": "2025-09-30T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Colony House"
     ],
     "link": "https://dice.fm/event/68c3277c66165f0001f3eeec",
@@ -74,11 +58,11 @@
   },
   {
     "artist": [
-      "Blessthefall"
+      "Palmyra \"Still Restless\" Tour"
     ],
-    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
+    "date": "2025-09-30T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -90,10 +74,26 @@
   },
   {
     "artist": [
+      "Blessthefall"
+    ],
+    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
+    "date": "2025-10-01T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Bad Cop Bad Cop"
     ],
     "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
     "date": "2025-10-02T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -103,14 +103,6 @@
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -258,6 +250,22 @@
   },
   {
     "artist": [
+      "House of BurlesCLE: Murder On The Dance Floor 7pm"
+    ],
+    "link": "https://dice.fm/event/68d383d3d8c6fe0001c5a670",
+    "date": "2025-10-23T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "House of BurlesCLE: Murder On The Dance Floor 9pm"
+    ],
+    "link": "https://dice.fm/event/68d384f060e19e0001b355a6",
+    "date": "2025-10-23T21:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Nekrogoblikon"
     ],
     "link": "https://dice.fm/event/6888e41775fc7900012e333a",
@@ -282,6 +290,14 @@
   },
   {
     "artist": [
+      "Florist"
+    ],
+    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Stand Atlantic"
     ],
     "link": "https://dice.fm/event/68599e37d05a850001da870d",
@@ -290,10 +306,10 @@
   },
   {
     "artist": [
-      "Florist"
+      "ArchAngel"
     ],
-    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
-    "date": "2025-10-26T19:00:00-04:00",
+    "link": "https://dice.fm/event/68d2b3bcb13ad4000123f421",
+    "date": "2025-10-28T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -371,19 +387,19 @@
   },
   {
     "artist": [
-      "Rob49: Let Me Fly Tour"
-    ],
-    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkshift"
     ],
     "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rob49: Let Me Fly Tour"
+    ],
+    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

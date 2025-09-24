@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Hot Milk: Loud And Fast In The USA",
-      "Save Face",
-      "Elbow Room"
-    ],
-    "link": "https://grogshop.gs/tm-event/hot-milk-loud-and-fast-in-the-usa/",
-    "date": "2025-09-23",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Asssscat!"
     ],
     "link": "https://grogshop.gs/tm-event/asssscat/",
@@ -461,6 +451,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/band-of-skulls-cold-fame-tour/",
     "date": "2025-11-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Mihalidaze",
+      "Dale and the ZDubs"
+    ],
+    "link": "https://grogshop.gs/tm-event/mihalidaze/",
+    "date": "2025-12-06",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "PLANT BINGO!!"
-    ],
-    "link": "https://www.ticketweb.com/event/plant-bingo-the-winchester-tickets/14543943",
-    "date": "2025-09-24T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "LIFE OF AGONY \u2013 30 Years of Ugly"
     ],
     "link": "https://www.ticketweb.com/event/life-of-agony-the-winchester-tickets/14417173",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.ticketweb.com/event/higher-creed-tribute-drown-the-winchester-tickets/13821934",
     "date": "2025-09-27T20:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "FALL BINGO!"
+    ],
+    "link": "https://www.ticketweb.com/event/fall-bingo-the-winchester-tickets/14581743",
+    "date": "2025-10-01T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -49,6 +49,14 @@
   },
   {
     "artist": [
+      "VINTAGE BINGO, Estate Sale Clothes"
+    ],
+    "link": "https://www.ticketweb.com/event/vintage-bingo-w-estate-sale-the-winchester-tickets/14581713",
+    "date": "2025-10-08T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "HR of Bad Brains, C-Level & Benny Coleman of Quasi Kings"
     ],
     "link": "https://www.ticketweb.com/event/hr-of-bad-brains-w-the-winchester-tickets/14525553",
@@ -73,6 +81,22 @@
   },
   {
     "artist": [
+      "Gilmore Girls Bingo!"
+    ],
+    "link": "https://www.ticketweb.com/event/gilmore-girls-bingo-the-winchester-tickets/14581693",
+    "date": "2025-10-15T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Whiskey Drinks Album Release Show"
+    ],
+    "link": "https://www.ticketweb.com/event/the-whiskey-drinks-album-release-the-winchester-tickets/14581333",
+    "date": "2025-10-17T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "2025 Cleveland Witches Ball"
     ],
     "link": "https://www.ticketweb.com/event/2025-cleveland-witches-ball-the-winchester-tickets/14528323",
@@ -89,10 +113,50 @@
   },
   {
     "artist": [
+      "PUMPKIN BINGO!!"
+    ],
+    "link": "https://www.ticketweb.com/event/pumpkin-bingo-the-winchester-tickets/14581723",
+    "date": "2025-10-22T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Dark Wave Dance Cave Presents: Goth-O-Ween"
+    ],
+    "link": "https://www.ticketweb.com/event/dark-wave-dance-cave-presents-the-winchester-tickets/14581493",
+    "date": "2025-10-25T21:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Texas Hippie Coalition"
     ],
     "link": "https://www.ticketweb.com/event/texas-hippie-coalition-the-winchester-tickets/13837434",
     "date": "2025-10-26T18:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Magic Mike Night \u2013, Queen City Hunks"
+    ],
+    "link": "https://www.ticketweb.com/event/magic-mike-night-the-winchester-tickets/14581903",
+    "date": "2025-10-28T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "SPOOKY PLANT BINGO!!, Variegate Design & Wonderlust Concepts"
+    ],
+    "link": "https://www.ticketweb.com/event/spooky-plant-bingo-w-variegate-the-winchester-tickets/14581753",
+    "date": "2025-10-29T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Black Parade \u2013 Emo Halloween"
+    ],
+    "link": "https://www.ticketweb.com/event/the-black-parade-the-winchester-tickets/14581503",
+    "date": "2025-10-31T21:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -125,6 +189,14 @@
     ],
     "link": "https://www.ticketweb.com/event/austin-meade-x-elvie-shane-the-winchester-tickets/14518663",
     "date": "2025-11-14T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Laid Back Country Picker"
+    ],
+    "link": "https://www.ticketweb.com/event/laid-back-country-picker-the-winchester-tickets/14581573",
+    "date": "2025-11-16T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -173,6 +245,14 @@
     ],
     "link": "https://www.ticketweb.com/event/gary-ho-ho-hoey-30th-the-winchester-tickets/14512133",
     "date": "2025-12-13T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Brady Lorince w/ Esoteria"
+    ],
+    "link": "https://www.ticketweb.com/event/brady-lorince-w-esoteria-the-winchester-tickets/14583243",
+    "date": "2025-12-14T18:00:00",
     "venue": "Winchester Tavern"
   }
 ]

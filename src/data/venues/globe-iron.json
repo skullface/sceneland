@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rome, Zup"
-    ],
-    "link": "https://www.axs.com/events/1077565/rome-tickets",
-    "date": "2025-09-24T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Soccer Mommy, Dummy"
     ],
     "link": "https://www.axs.com/events/966155/soccer-mommy-tickets",
@@ -97,7 +89,7 @@
   },
   {
     "artist": [
-      "Leisure"
+      "Leisure, Bay Ledges"
     ],
     "link": "https://www.axs.com/events/1007918/leisure-tickets",
     "date": "2025-10-24T20:00:00",
@@ -141,6 +133,14 @@
     ],
     "link": "https://www.axs.com/events/1026664/thrice-tickets",
     "date": "2025-11-07T19:30:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Danny Brown, underscores, Femtanyl"
+    ],
+    "link": "https://www.axs.com/events/1149921/danny-brown-tickets",
+    "date": "2025-11-13T20:00:00",
     "venue": "Globe Iron"
   },
   {

@@ -1,26 +1,6 @@
 [
   {
     "artist": [
-      "Mustard Plug",
-      "The Planet Smashers",
-      "The Kilograms",
-      "The Write-Ups"
-    ],
-    "link": "https://grogshop.gs/tm-event/mustard-plug-the-planet-smashers-the-kilograms-the-write-ups/",
-    "date": "2025-09-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Dry Cleaning",
-      "Infinity Knives + Brian Ennals"
-    ],
-    "link": "https://grogshop.gs/tm-event/dry-cleaning-infinity-knives-brian-ennals/",
-    "date": "2025-09-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Boldy James",
       "Peter Blvnco",
       "NNS",
@@ -65,7 +45,8 @@
   {
     "artist": [
       "Give Me a Tour! Starring Maris and Caroline Kingsbury",
-      "Maris"
+      "Maris",
+      "Angelgirl EVA"
     ],
     "link": "https://grogshop.gs/tm-event/give-me-a-tour-starring-maris-and-caroline-kingsbury/",
     "date": "2025-09-30",
@@ -402,7 +383,8 @@
   },
   {
     "artist": [
-      "Etana"
+      "Etana",
+      "Ms BBC & Queens"
     ],
     "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
@@ -499,7 +481,8 @@
   {
     "artist": [
       "Shai Hulud",
-      "Holder"
+      "Holder",
+      "The J\u00f6tunn"
     ],
     "link": "https://grogshop.gs/tm-event/shai-hulud-holder/",
     "date": "2025-12-17",

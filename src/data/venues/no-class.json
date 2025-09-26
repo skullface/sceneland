@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-9-24-25",
-    "date": "2025-09-24T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "HEART & LUNG"
     ],
     "link": "https://noclasscle.com/events/heart-lung-american-television",
@@ -25,10 +17,18 @@
   },
   {
     "artist": [
+      "WHOOP WHOOP WEDNESDAY"
+    ],
+    "link": "https://noclasscle.com/events/whoop-whoop-wednesday-10-1-25",
+    "date": "2025-10-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SAPPHIC SOCIAL"
     ],
-    "link": "https://noclasscle.com/events/sapphic-social-10-2",
-    "date": "2025-10-02T00:00:01",
+    "link": "https://noclasscle.com/events/sapphic-social-10-3",
+    "date": "2025-10-03T00:00:01",
     "venue": "No Class"
   },
   {
@@ -37,6 +37,22 @@
     ],
     "link": "https://noclasscle.com/events/sinister-master",
     "date": "2025-10-04T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "DEADLY PREY GALLERY ART POP-UP"
+    ],
+    "link": "https://noclasscle.com/events/deadly-prey-gallery-art-pop-up",
+    "date": "2025-10-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BELLA MON\u00c9T"
+    ],
+    "link": "https://noclasscle.com/events/bella-monet",
+    "date": "2025-10-09T00:00:01",
     "venue": "No Class"
   },
   {
@@ -53,6 +69,22 @@
     ],
     "link": "https://noclasscle.com/events/gotta-snatch-em-all-halloween",
     "date": "2025-10-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SOUP POTLUCK"
+    ],
+    "link": "https://noclasscle.com/events/soup-potluck-2",
+    "date": "2025-10-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FIND YOUR BOO! SINGLES NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/find-your-boo-singles-night",
+    "date": "2025-10-15T00:00:01",
     "venue": "No Class"
   },
   {

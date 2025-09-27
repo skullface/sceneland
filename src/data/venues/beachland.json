@@ -1,24 +1,6 @@
 [
   {
     "artist": [
-      "Dry Cleaning",
-      "Infinity Knives + Brian Ennals"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13768684/dry-cleaning-infinity-knives-brian-ennals",
-    "date": "2025-09-25T20:00:00",
-    "venue": "Beachland Ballroom"
-  },
-  {
-    "artist": [
-      "Luke Winslow-King",
-      "Bent String (duo)"
-    ],
-    "link": "https://www.beachlandballroom.com/e/13801704/luke-winslow-king-bent-string-duo-",
-    "date": "2025-09-25T20:00:00",
-    "venue": "Beachland Tavern"
-  },
-  {
-    "artist": [
       "Organ Fairchild",
       "Nate Yingling Trio"
     ],
@@ -548,9 +530,10 @@
   {
     "artist": [
       "Shiner",
-      "Mors Arma"
+      "Mors Arma",
+      "Lo-Pan"
     ],
-    "link": "https://www.beachlandballroom.com/e/14524253/shiner-mors-arma",
+    "link": "https://www.beachlandballroom.com/e/14524253/shiner-mors-arma-lo-pan",
     "date": "2025-11-08T20:00:00",
     "venue": "Beachland Tavern"
   },

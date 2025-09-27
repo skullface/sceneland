@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Back Burner, Potentia"
-    ],
-    "link": "https://www.eventbrite.com/e/back-burnerpotentia-tickets-1732307882509",
-    "date": "2025-09-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Nu Metal Cover Band, MotorCobra, Night Mirror"
     ],
     "link": "https://www.eventbrite.com/e/nu-metal-cover-bandmotorcobranight-mirror-tickets-1688575036389",
@@ -161,6 +153,14 @@
   },
   {
     "artist": [
+      "Black Wolf & The Thief, Sha Ku Se, Outrun Infinity, Not Worth Asking"
+    ],
+    "link": "https://www.eventbrite.com/e/black-wolf-the-thiefsha-ku-seoutrun-infinitynot-worth-asking-tickets-1744193512749",
+    "date": "2025-11-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Guy Snowdon and the Citizens, The Whiteouts, Dead Beat Horse"
     ],
     "link": "https://www.eventbrite.com/e/guy-snowdon-and-the-citizensthe-whiteoutsdead-beat-horse-tickets-1554916068819",
@@ -193,6 +193,14 @@
   },
   {
     "artist": [
+      "Paperback Tragedy, Gatlin, Worn Out Hearts"
+    ],
+    "link": "https://www.eventbrite.com/e/paperback-tragedygatlinworn-out-hearts-tickets-1744206952949",
+    "date": "2025-12-04T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Brake Fluid, Blissen , Negative Zen , Sedona"
     ],
     "link": "https://www.eventbrite.com/e/brake-fluidblissen-negative-zen-sedona-tickets-1596252737909",
@@ -213,6 +221,14 @@
     ],
     "link": "https://www.eventbrite.com/e/debrissundrasorions-sword-tickets-1633057903149",
     "date": "2025-12-20T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Place Invaders, Boyd and the Monkeys, King Catfish"
+    ],
+    "link": "https://www.eventbrite.com/e/place-invadersboyd-and-the-monkeysking-catfish-tickets-1744199169669",
+    "date": "2025-01-31T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

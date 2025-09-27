@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "HEART & LUNG"
-    ],
-    "link": "https://noclasscle.com/events/heart-lung-american-television",
-    "date": "2025-09-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "HIGH TOLERANCE"
     ],
     "link": "https://noclasscle.com/events/high-tolerance",
     "date": "2025-09-26T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "JUST A BAR"
+    ],
+    "link": "https://noclasscle.com/events/just-a-bar-9-27-25",
+    "date": "2025-09-27T00:00:01",
     "venue": "No Class"
   },
   {
@@ -100,6 +100,14 @@
       "BERGHAIN'T"
     ],
     "link": "https://noclasscle.com/events/berghaint-9-18-25",
+    "date": "2025-10-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "THE DEAD DANCE"
+    ],
+    "link": "https://noclasscle.com/events/the-dead-dance",
     "date": "2025-10-17T00:00:01",
     "venue": "No Class"
   },

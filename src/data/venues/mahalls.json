@@ -1,10 +1,10 @@
 [
   {
     "artist": [
-      "Willi Carlisle with special guest The Lowest Pair"
+      "Home Is Where"
     ],
-    "link": "https://dice.fm/event/67ed4b5f2884ca0001986d4a",
-    "date": "2025-09-26T19:00:00-04:00",
+    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
+    "date": "2025-09-27T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -18,26 +18,10 @@
   },
   {
     "artist": [
-      "Home Is Where"
-    ],
-    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
-    "date": "2025-09-27T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Bass Drum Of Death"
     ],
     "link": "https://dice.fm/event/6859b236c651e70001644cce",
     "date": "2025-09-28T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Palmyra \"Still Restless\" Tour"
-    ],
-    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
-    "date": "2025-09-30T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -47,6 +31,14 @@
     "link": "https://dice.fm/event/68c3277c66165f0001f3eeec",
     "date": "2025-09-30T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Palmyra \"Still Restless\" Tour"
+    ],
+    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
+    "date": "2025-09-30T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -74,19 +66,19 @@
   },
   {
     "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Real Estate: A Celebration of ATLAS"
     ],
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -170,19 +162,19 @@
   },
   {
     "artist": [
-      "JW Francis"
-    ],
-    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Richy Mitch and The Coal Miners"
     ],
     "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
     "date": "2025-10-13T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "JW Francis"
+    ],
+    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -298,6 +290,14 @@
   },
   {
     "artist": [
+      "Pink Siifu"
+    ],
+    "link": "https://dice.fm/event/68d6f60649fe2c000102bd3f",
+    "date": "2025-10-29T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "They Are Gutting A Body Of Water"
     ],
     "link": "https://dice.fm/event/686fd512bb359200016c94f4",
@@ -371,19 +371,19 @@
   },
   {
     "artist": [
-      "Pinkshift"
-    ],
-    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Rob49: Let Me Fly Tour"
     ],
     "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pinkshift"
+    ],
+    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

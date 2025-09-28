@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "SHE1HIM2, Marottes, I, ELECTRONIC, 2 FORKS"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/she1him2-marottes-i-electronic-2-forks/",
-    "date": "2025-09-27T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "The Brazen Rogues, Forward To Contact, Brute Squad, Gemini Lounge, Vandalizard, Sam Sinister"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-brazen-rogues-forward-to-contact-brute-squad-gemini-lounge-ritual-sin-sam-sinister/",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/",
     "date": "2025-10-18T14:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Off With Their Heads, SMUG, Pippsy Pinwheel, NMA"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/off-with-their-heads-smug-pippsy-pinwheel/",
+    "date": "2025-10-24T19:00:00",
     "venue": "Foundry"
   },
   {

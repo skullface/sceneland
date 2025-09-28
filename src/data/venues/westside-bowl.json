@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Nu Metal Cover Band, MotorCobra, Night Mirror"
-    ],
-    "link": "https://www.eventbrite.com/e/nu-metal-cover-bandmotorcobranight-mirror-tickets-1688575036389",
-    "date": "2025-09-27T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Mom\u2019s Basement Fest 2025"
     ],
     "link": "https://www.eventbrite.com/e/moms-basement-fest-2025-tickets-1355784119799",
@@ -81,9 +73,9 @@
   },
   {
     "artist": [
-      "The Undone, West Rockwell, Iravera, Drown the Deep"
+      "The Undone, West Rockwell, Plinko, Drown the Deep"
     ],
-    "link": "https://www.eventbrite.com/e/the-undonewest-rockwelliraveradrown-the-deep-tickets-1657829696249",
+    "link": "https://www.eventbrite.com/e/the-undonewest-rockwellplinkodrown-the-deep-tickets-1657829696249",
     "date": "2025-10-18T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -121,10 +113,26 @@
   },
   {
     "artist": [
+      "The Redlines, Ke\u2019Von and the Vybes, The Jo Shmos"
+    ],
+    "link": "https://www.eventbrite.com/e/the-redlineskevon-and-the-vybesthe-jo-shmos-tickets-1750849159969",
+    "date": "2025-10-24T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Emo-Ween 2025"
     ],
     "link": "https://www.eventbrite.com/e/emo-ween-2025-tickets-1405692717759",
     "date": "2025-10-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Reaper On Red, Chew"
+    ],
+    "link": "https://www.eventbrite.com/e/reaper-on-redchew-tickets-1750773864759",
+    "date": "2025-10-26T00:00:01",
     "venue": "Westside Bowl"
   },
   {

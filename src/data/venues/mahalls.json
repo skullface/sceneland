@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "Home Is Where"
-    ],
-    "link": "https://dice.fm/event/67fe8af29a37ab0001d738a0",
-    "date": "2025-09-27T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Kublai Khan TX"
-    ],
-    "link": "https://dice.fm/event/68713dd98a30cc0001cddc43",
-    "sold_out": true,
-    "date": "2025-09-27T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Bass Drum Of Death"
     ],
     "link": "https://dice.fm/event/6859b236c651e70001644cce",
@@ -42,19 +25,19 @@
   },
   {
     "artist": [
-      "Stop Light Observations"
-    ],
-    "link": "https://dice.fm/event/68126bbe221a9600014df312",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Blessthefall"
     ],
     "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
     "date": "2025-10-01T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Stop Light Observations"
+    ],
+    "link": "https://dice.fm/event/68126bbe221a9600014df312",
+    "date": "2025-10-01T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -162,19 +145,19 @@
   },
   {
     "artist": [
-      "Richy Mitch and The Coal Miners"
-    ],
-    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "JW Francis"
     ],
     "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
     "date": "2025-10-13T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Richy Mitch and The Coal Miners"
+    ],
+    "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -266,19 +249,19 @@
   },
   {
     "artist": [
-      "Florist"
-    ],
-    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Stand Atlantic"
     ],
     "link": "https://dice.fm/event/68599e37d05a850001da870d",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Florist"
+    ],
+    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

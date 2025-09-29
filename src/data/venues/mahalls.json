@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bass Drum Of Death"
-    ],
-    "link": "https://dice.fm/event/6859b236c651e70001644cce",
-    "date": "2025-09-28T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Colony House"
     ],
     "link": "https://dice.fm/event/68c3277c66165f0001f3eeec",
@@ -25,19 +17,19 @@
   },
   {
     "artist": [
-      "Blessthefall"
-    ],
-    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Stop Light Observations"
     ],
     "link": "https://dice.fm/event/68126bbe221a9600014df312",
     "date": "2025-10-01T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Blessthefall"
+    ],
+    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
+    "date": "2025-10-01T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -49,19 +41,19 @@
   },
   {
     "artist": [
-      "Real Estate: A Celebration of ATLAS"
-    ],
-    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Warmduscher"
     ],
     "link": "https://dice.fm/event/683a0c5ca82780000146a946",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Real Estate: A Celebration of ATLAS"
+    ],
+    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

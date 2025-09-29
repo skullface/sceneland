@@ -1,26 +1,18 @@
 [
   {
     "artist": [
-      "HIGH TOLERANCE"
-    ],
-    "link": "https://noclasscle.com/events/high-tolerance",
-    "date": "2025-09-26T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-9-27-25",
-    "date": "2025-09-27T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "WHOOP WHOOP WEDNESDAY"
     ],
     "link": "https://noclasscle.com/events/whoop-whoop-wednesday-10-1-25",
     "date": "2025-10-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "OCTOBER COCKTAIL MENU DROP"
+    ],
+    "link": "https://noclasscle.com/events/october-cocktail-menu-drop",
+    "date": "2025-10-02T00:00:01",
     "venue": "No Class"
   },
   {
@@ -81,6 +73,14 @@
   },
   {
     "artist": [
+      "HEAVY METAL HALLOWEEN W/ COUSIN BOBBY"
+    ],
+    "link": "https://noclasscle.com/events/heavy-metal-halloween-w/-cousin-bobby",
+    "date": "2025-10-13T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "FIND YOUR BOO! SINGLES NIGHT"
     ],
     "link": "https://noclasscle.com/events/find-your-boo-singles-night",
@@ -109,6 +109,14 @@
     ],
     "link": "https://noclasscle.com/events/the-dead-dance",
     "date": "2025-10-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HALLOWEEN FLEA MARKET"
+    ],
+    "link": "https://noclasscle.com/events/halloween-flea-market-2025",
+    "date": "2025-10-19T00:00:01",
     "venue": "No Class"
   },
   {

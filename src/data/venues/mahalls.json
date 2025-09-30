@@ -1,6 +1,14 @@
 [
   {
     "artist": [
+      "Palmyra \"Still Restless\" Tour"
+    ],
+    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
+    "date": "2025-09-30T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Colony House"
     ],
     "link": "https://dice.fm/event/68c3277c66165f0001f3eeec",
@@ -9,11 +17,11 @@
   },
   {
     "artist": [
-      "Palmyra \"Still Restless\" Tour"
+      "Blessthefall"
     ],
-    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
-    "date": "2025-09-30T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
+    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
+    "date": "2025-10-01T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -25,26 +33,10 @@
   },
   {
     "artist": [
-      "Blessthefall"
-    ],
-    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Bad Cop Bad Cop"
     ],
     "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
     "date": "2025-10-02T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Warmduscher"
-    ],
-    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
-    "date": "2025-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -54,6 +46,14 @@
     "link": "https://dice.fm/event/686fcae7a901e900017869e5",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Warmduscher"
+    ],
+    "link": "https://dice.fm/event/683a0c5ca82780000146a946",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -105,19 +105,19 @@
   },
   {
     "artist": [
-      "Integrity + Madball + Strife"
-    ],
-    "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Alec Hershey"
     ],
     "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
     "date": "2025-10-10T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Integrity + Madball + Strife"
+    ],
+    "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -137,19 +137,19 @@
   },
   {
     "artist": [
-      "JW Francis"
-    ],
-    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
-    "date": "2025-10-13T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Richy Mitch and The Coal Miners"
     ],
     "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
     "date": "2025-10-13T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "JW Francis"
+    ],
+    "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
+    "date": "2025-10-13T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -193,19 +193,19 @@
   },
   {
     "artist": [
-      "Future Teens"
-    ],
-    "link": "https://dice.fm/event/689399037c7953000134b759",
-    "date": "2025-10-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "House of BurlesCLE: Murder On The Dance Floor 7pm"
     ],
     "link": "https://dice.fm/event/68d383d3d8c6fe0001c5a670",
     "date": "2025-10-23T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Future Teens"
+    ],
+    "link": "https://dice.fm/event/689399037c7953000134b759",
+    "date": "2025-10-23T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -241,19 +241,19 @@
   },
   {
     "artist": [
-      "Stand Atlantic"
-    ],
-    "link": "https://dice.fm/event/68599e37d05a850001da870d",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Florist"
     ],
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Stand Atlantic"
+    ],
+    "link": "https://dice.fm/event/68599e37d05a850001da870d",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -346,19 +346,19 @@
   },
   {
     "artist": [
-      "Rob49: Let Me Fly Tour"
-    ],
-    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkshift"
     ],
     "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rob49: Let Me Fly Tour"
+    ],
+    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -410,7 +410,7 @@
   },
   {
     "artist": [
-      "Saturdays At Your Place - These Things Happen Tour"
+      "*VENUE UPGRADE* Saturdays At Your Place - These Things Happen Tour"
     ],
     "link": "https://dice.fm/event/685afa962cfa69000140d539",
     "date": "2025-11-18T18:30:00-05:00",
@@ -442,6 +442,14 @@
   },
   {
     "artist": [
+      "Counter Intuitive Records 10 Year Anniversary Tour"
+    ],
+    "link": "https://dice.fm/event/68d2b0b8c751b20001c7fdfa",
+    "date": "2025-12-02T16:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "The Heavy Heavy"
     ],
     "link": "https://dice.fm/event/68bf04be908ebd00014317a9",
@@ -462,6 +470,14 @@
     ],
     "link": "https://dice.fm/event/68a354bfb6b9070001364dc8",
     "date": "2025-12-06T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Khandria 'The Mechanist ' Single Release"
+    ],
+    "link": "https://dice.fm/event/68dad88f5255b500011e0fe5",
+    "date": "2025-12-07T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

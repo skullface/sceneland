@@ -1,7 +1,7 @@
 [
   {
     "artist": [
-      "Kids on Fire, Libcor, Church & State"
+      "Kids on Fire, Libcor, Sick City"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/kids-on-fire-libcor-church-state/",
     "date": "2025-09-30T18:30:00",
@@ -13,6 +13,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/",
     "date": "2025-10-01T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Dark Angel, Sacred Reich, Hirax, Interceptor"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/dark-angel-sacred-reich-hirax-interceptor/",
+    "date": "2025-10-02T18:30:00",
     "venue": "Foundry"
   },
   {
@@ -73,6 +81,14 @@
   },
   {
     "artist": [
+      "Nativity In Black, Strange Notes"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nativity-in-black-strange-notes/",
+    "date": "2025-10-12T15:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Brokencyde, Dot Dot Curve, From This Day Forward, Zombie Fashion Show, Dearest Friend, Thrapple, Novela"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/",
@@ -105,14 +121,6 @@
   },
   {
     "artist": [
-      "Keratoma, Summore, Oxjaw, City Of The Dead"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/keratoma-summore-oxjaw-city-of-the-dead/",
-    "date": "2025-10-25T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "DEVILS NIGHT: RISE OF THE DEMONS"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/devils-night-rise-of-the-demons/",
@@ -125,6 +133,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/inether-wasted-society-pink-masquerade-mentally-distrakted-talk-less/",
     "date": "2025-10-31T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "FOUNDRY ANNUAL HALLOWEEN PARTY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/foundry-annual-halloween-party/",
+    "date": "2025-10-31T22:00:00",
     "venue": "Foundry"
   },
   {
@@ -165,6 +181,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/",
     "date": "2025-11-29T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "King Mala, DEZI"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "date": "2025-12-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Immortal Girlfriend"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/immortal-girlfriend/",
+    "date": "2025-12-17T19:00:00",
     "venue": "Foundry"
   },
   {

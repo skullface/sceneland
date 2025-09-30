@@ -65,6 +65,14 @@
   },
   {
     "artist": [
+      "Flanagan's Wake"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/flanagans-wake-4",
+    "date": "2026-01-02T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Trevor Wallace: The Alpha Beta Male"
     ],
     "link": "https://www.playhousesquare.org/events/detail/trevor-wallace-the-alpha-beta-male",
@@ -325,6 +333,22 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/the-best-of-steve-martin-martin-short",
     "date": "2026-04-25T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "The Rock Orchestra by Candlelight"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-rock-orchestra-by-candlelight",
+    "date": "2026-05-02T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Professor Brian Cox - Emergence"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/professor-brian-cox-emergence",
+    "date": "2026-12-04T00:00:01",
     "venue": "Playhouse Square"
   }
 ]

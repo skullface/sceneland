@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kids on Fire, Libcor, Sick City"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/kids-on-fire-libcor-church-state/",
-    "date": "2025-09-30T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Mind's Eye, Hot Flash Heat Wave, Sad Park"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/",
@@ -65,7 +57,7 @@
   },
   {
     "artist": [
-      "Death & Exhale, Unconditional Hatred, As They Were, Sea Biscuit"
+      "Death & Exhale, Moon Tipper, As They Were, Sea Biscuit"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/death-exhale-unconditional-hatred-as-they-were-sea-biscuit/",
     "date": "2025-10-10T18:00:00",
@@ -97,10 +89,26 @@
   },
   {
     "artist": [
+      "NOCTURNALWEEN"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnalween/",
+    "date": "2025-10-17T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "HALLOWEEN FREAKSHOW 2025"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/halloween-freakshow-2025/",
     "date": "2025-10-18T14:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "HALLOWEEN FLEA MARKET"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/halloween-flea-market/",
+    "date": "2025-10-19T12:00:00",
     "venue": "Foundry"
   },
   {
@@ -185,9 +193,25 @@
   },
   {
     "artist": [
+      "KING DIAMOND XMAS"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/king-diamond-xmas/",
+    "date": "2025-12-05T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "King Mala, DEZI"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "date": "2025-12-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "King Mala, DEZI"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },
@@ -201,10 +225,10 @@
   },
   {
     "artist": [
-      "Immortal Girlfriend"
+      "Primitive Man, Buffalo Nichols, Great Falls, God is War"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/immortal-girlfriend/",
-    "date": "2025-12-17T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/primitive-man-buffalo-nichols-great-falls-god-is-war/",
+    "date": "2025-12-19T19:00:00",
     "venue": "Foundry"
   }
 ]

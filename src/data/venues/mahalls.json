@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Palmyra \"Still Restless\" Tour"
-    ],
-    "link": "https://dice.fm/event/686c0cc4e7a7eb0001694fd0",
-    "date": "2025-09-30T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Colony House"
-    ],
-    "link": "https://dice.fm/event/68c3277c66165f0001f3eeec",
-    "date": "2025-09-30T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Blessthefall"
     ],
     "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
@@ -41,19 +25,19 @@
   },
   {
     "artist": [
-      "Real Estate: A Celebration of ATLAS"
-    ],
-    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
-    "date": "2025-10-03T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Warmduscher"
     ],
     "link": "https://dice.fm/event/683a0c5ca82780000146a946",
     "date": "2025-10-03T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Real Estate: A Celebration of ATLAS"
+    ],
+    "link": "https://dice.fm/event/686fcae7a901e900017869e5",
+    "date": "2025-10-03T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -190,6 +174,14 @@
     "link": "https://dice.fm/event/685991570265b000018debb3",
     "date": "2025-10-20T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Esoteria"
+    ],
+    "link": "https://dice.fm/event/68dbeb98bf61b60001c9d17a",
+    "date": "2025-10-22T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -346,19 +338,19 @@
   },
   {
     "artist": [
-      "Pinkshift"
-    ],
-    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Rob49: Let Me Fly Tour"
     ],
     "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pinkshift"
+    ],
+    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -526,6 +518,14 @@
     ],
     "link": "https://dice.fm/event/68c42fc486b0cd000166e5d1",
     "date": "2026-01-11T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Twen"
+    ],
+    "link": "https://dice.fm/event/68d196cb32146f0001eec67d",
+    "date": "2026-03-28T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   }
 ]

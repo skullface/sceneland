@@ -81,9 +81,9 @@
   },
   {
     "artist": [
-      "Matt Michener, Daisypusher, Bailey Laszlo"
+      "Persian Halloween Party w/ DJ Shayan"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/matt-michener-daisypusher-bailey-laszlo/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/persian-halloween-party-w-dj-shayan/",
     "date": "2025-10-17T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -149,6 +149,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/soiree-of-the-stallions/",
     "date": "2025-10-24T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "The Creed Tribute + Stone Tribute Pilots"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-creed-tribute-stone-tribute-pilots/",
+    "date": "2025-10-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -237,14 +245,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
     "date": "2025-12-13T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "No Resolve \u2014 The Unleashed Tour"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/no-resolve-the-unleashed-tour/",
-    "date": "2025-02-25T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

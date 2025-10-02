@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mind's Eye, Hot Flash Heat Wave, Sad Park"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/minds-eye-hot-flash-heat-wave-sad-park/",
-    "date": "2025-10-01T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Dark Angel, Sacred Reich, Hirax, Interceptor"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/dark-angel-sacred-reich-hirax-interceptor/",
@@ -121,6 +113,14 @@
   },
   {
     "artist": [
+      "Off With Their Heads, SMUG, Pippsy Pinwheel, NMA"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/off-with-their-heads-smug-pippsy-pinwheel/",
+    "date": "2025-10-24T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Keratoma, Summore, Oxjaw, City Of The Dead"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/keratoma-summore-oxjaw-city-of-the-dead/",
@@ -169,6 +169,14 @@
   },
   {
     "artist": [
+      "Backbiter, Piss Ant, Lie In Wait, xEighty-Sixedx, Goodfornothing"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/backbiter-piss-ant-lie-in-wait-xeighty-sixedx-goodfornothing/",
+    "date": "2025-11-15T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Flaw"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/flaw/",
@@ -204,14 +212,6 @@
       "King Mala, DEZI"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
-    "date": "2025-12-06T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "King Mala, DEZI"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },

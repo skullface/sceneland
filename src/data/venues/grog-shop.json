@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Brent Cobb: THE AIN\u2019T ROCKED IN A WHILE TOUR",
-      "Gold Star",
-      "Reverend Lee"
-    ],
-    "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
-    "date": "2025-10-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Shonen Knife: Everyone Happy U.S. Tour 2025",
       "The Pack A.D.",
       "Xanny Stars"
@@ -340,6 +330,14 @@
   },
   {
     "artist": [
+      "Bartees Strange"
+    ],
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "date": "2025-11-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Universe of Battle Tour: Nick Shoulders",
       "Clover-Lynn"
     ],
@@ -462,6 +460,22 @@
     ],
     "link": "https://grogshop.gs/tm-event/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-lifes-rich-pageant/",
     "date": "2026-03-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "EMM: The Dumb Tour!"
+    ],
+    "link": "https://grogshop.gs/tm-event/emm-the-dumb-tour/",
+    "date": "2026-03-14",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Brent Cobb: THE AIN\u2019T ROCKED IN A WHILE TOUR"
+    ],
+    "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
+    "date": "2026-03-26",
     "venue": "Grog Shop"
   }
 ]

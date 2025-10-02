@@ -49,6 +49,14 @@
   },
   {
     "artist": [
+      "Hunks the Show"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/hunks-the-show/",
+    "date": "2025-10-09T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "SUB:SONIC w/ A HUNDRED DRUMS"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-a-hundred-drums/",
@@ -89,14 +97,6 @@
   },
   {
     "artist": [
-      "Persian Halloween Party w/ DJ Shayan"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/persian-halloween-party-w-dj-shayan/",
-    "date": "2025-10-17T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Dead Internet Society, Public Water Supply, Modern Monks, Mikey Silas"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dead-internet-society-public-water-supply-modern-monks-mikey-silas/",
@@ -109,6 +109,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/underland-pt-2-tour/",
     "date": "2025-10-18T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "HALLOWEEN FLEA MARKET"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/halloween-flea-market/",
+    "date": "2025-10-19T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -149,6 +157,22 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/soiree-of-the-stallions/",
     "date": "2025-10-24T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "BOOS AND BREWS BAR CRAWL"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/boos-and-brews-bar-crawl/",
+    "date": "2025-10-25T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Y2KRAY"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/y2kray-3/",
+    "date": "2025-10-25T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

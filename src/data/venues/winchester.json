@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "FALL BINGO!"
-    ],
-    "link": "https://www.ticketweb.com/event/fall-bingo-the-winchester-tickets/14581743",
-    "date": "2025-10-01T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "J. GRAVES"
     ],
     "link": "https://www.ticketweb.com/event/j-graves-the-winchester-tickets/14590253",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.ticketweb.com/event/2025-cleveland-witches-ball-the-winchester-tickets/14528323",
     "date": "2025-10-18T12:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Wanted, Iron Brigade, & Iron Bitch"
+    ],
+    "link": "https://www.ticketweb.com/event/wanted-iron-brigade-iron-the-winchester-tickets/14548383",
+    "date": "2025-10-19T19:30:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -277,6 +277,14 @@
     ],
     "link": "https://www.ticketweb.com/event/gary-ho-ho-hoey-30th-the-winchester-tickets/14512133",
     "date": "2025-12-13T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Brady Lorince w/ Esoteria"
+    ],
+    "link": "https://www.ticketweb.com/event/brady-lorince-w-esoteria-the-winchester-tickets/14583243",
+    "date": "2025-12-14T18:00:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Blessthefall"
-    ],
-    "link": "https://dice.fm/event/6872edf526b5e20001bfa0c7",
-    "date": "2025-10-01T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Stop Light Observations"
-    ],
-    "link": "https://dice.fm/event/68126bbe221a9600014df312",
-    "date": "2025-10-01T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Bad Cop Bad Cop"
     ],
     "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
@@ -518,6 +502,22 @@
     ],
     "link": "https://dice.fm/event/68c42fc486b0cd000166e5d1",
     "date": "2026-01-11T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pinkertones"
+    ],
+    "link": "https://dice.fm/event/68dbe6096c20da0001c8cda7",
+    "date": "2026-01-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Bloomer"
+    ],
+    "link": "https://dice.fm/event/68daee2f20042a0001c658d3",
+    "date": "2026-01-29T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bad Cop Bad Cop"
-    ],
-    "link": "https://dice.fm/event/685d845a0ae7de0001f2e3fa",
-    "date": "2025-10-02T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Warmduscher"
     ],
     "link": "https://dice.fm/event/683a0c5ca82780000146a946",
@@ -73,19 +65,19 @@
   },
   {
     "artist": [
-      "Alec Hershey"
-    ],
-    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Integrity + Madball + Strife"
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
     "date": "2025-10-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -217,19 +209,19 @@
   },
   {
     "artist": [
-      "Florist"
-    ],
-    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Stand Atlantic"
     ],
     "link": "https://dice.fm/event/68599e37d05a850001da870d",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Florist"
+    ],
+    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

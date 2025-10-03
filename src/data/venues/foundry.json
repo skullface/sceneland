@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dark Angel, Sacred Reich, Hirax, Interceptor"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/dark-angel-sacred-reich-hirax-interceptor/",
-    "date": "2025-10-02T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "ANIME POP NIGHT"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-3/",
@@ -113,10 +105,10 @@
   },
   {
     "artist": [
-      "Off With Their Heads, SMUG, Pippsy Pinwheel, NMA"
+      "Keratoma, Summore, Oxjaw, City Of The Dead"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/off-with-their-heads-smug-pippsy-pinwheel/",
-    "date": "2025-10-24T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/keratoma-summore-oxjaw-city-of-the-dead/",
+    "date": "2025-10-25T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -212,6 +204,14 @@
       "King Mala, DEZI"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "date": "2025-12-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "King Mala, DEZI"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Shonen Knife: Everyone Happy U.S. Tour 2025",
-      "The Pack A.D.",
-      "Xanny Stars"
-    ],
-    "link": "https://grogshop.gs/tm-event/shonen-knife-everyone-happy-u-s-tour-2025/",
-    "date": "2025-10-02",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Frankie And The Witch Fingers",
       "Population II"
     ],
@@ -241,6 +231,17 @@
   },
   {
     "artist": [
+      "GBH Pre-Party with Annual Report (NJ)",
+      "Gruntus",
+      "and Secret Handshake LIVE at the B-Side!",
+      "Secret Handshake"
+    ],
+    "link": "https://grogshop.gs/tm-event/gbh-pre-party-with-annual-report-nj-gruntus-and-secret-handshake-live-at-the-b-side/",
+    "date": "2025-11-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "GBH",
       "Slaughterhouse",
       "The Mainliners",
@@ -271,7 +272,8 @@
   {
     "artist": [
       "Hot Water Music",
-      "BANE"
+      "BANE",
+      "SPACED"
     ],
     "link": "https://grogshop.gs/tm-event/hot-water-music-bane/",
     "date": "2025-11-05",
@@ -321,18 +323,18 @@
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
+      "Bartees Strange"
     ],
-    "link": "https://grogshop.gs/tm-event/etana/",
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Bartees Strange"
+      "Etana",
+      "Ms BBC & Queens"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
@@ -343,6 +345,18 @@
     ],
     "link": "https://grogshop.gs/tm-event/universe-of-battle-tour-nick-shoulders/",
     "date": "2025-11-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Potholderz Only Live FT. Swank",
+      "10$tacks",
+      "E.Side4",
+      "Elijah",
+      "SUPALOWKEY"
+    ],
+    "link": "https://grogshop.gs/tm-event/potholderz-only-live-ft-swank/",
+    "date": "2025-11-21",
     "venue": "Grog Shop"
   },
   {
@@ -367,23 +381,20 @@
   },
   {
     "artist": [
-      "Potholderz Only Live FT. Swank",
-      "10$tacks",
-      "E.Side4",
-      "Elijah",
-      "SUPALOWKEY"
-    ],
-    "link": "https://grogshop.gs/tm-event/potholderz-only-live-ft-swank/",
-    "date": "2025-11-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "BAND OF SKULLS: COLD FAME TOUR",
       "Tom Hamilton Jr."
     ],
     "link": "https://grogshop.gs/tm-event/band-of-skulls-cold-fame-tour/",
     "date": "2025-11-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Hello!3D",
+      "Free Black!"
+    ],
+    "link": "https://grogshop.gs/tm-event/hello3d-free-black/",
+    "date": "2025-11-29",
     "venue": "Grog Shop"
   },
   {
@@ -444,6 +455,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/shai-hulud-holder/",
     "date": "2025-12-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Discofox",
+      "Lone Thunder at The Grog Shop",
+      "Lone Thunder"
+    ],
+    "link": "https://grogshop.gs/tm-event/discofox-w-lone-thunder-at-the-grog-shop/",
+    "date": "2025-12-18",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Andy Boay, Magic Job, Moth Cock"
-    ],
-    "link": "https://app.opendate.io/e/andy-boay-magic-job-moth-cock-october-02-2025-619376",
-    "date": "2025-10-02T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Smug Brothers, Tetraviolet, Cellophane Jane, Nite Klub"
     ],
     "link": "https://app.opendate.io/e/smug-brothers-tetraviolet-cellophane-jane-nite-klub-october-04-2025-626765",
@@ -105,9 +97,9 @@
   },
   {
     "artist": [
-      "Halloween Cover Set Extravaganza!"
+      "Halloween Cover Set Extravaganza!  A Benefit for City Dogs"
     ],
-    "link": "https://app.opendate.io/e/halloween-cover-set-extravaganza-october-25-2025-628440",
+    "link": "https://app.opendate.io/e/halloween-cover-set-extravaganza-a-benefit-for-city-dogs-october-25-2025-628440",
     "date": "2025-10-25T00:00:01",
     "venue": "Happy Dog"
   },
@@ -125,6 +117,14 @@
     ],
     "link": "https://app.opendate.io/e/the-grog-shop-presents-earth-november-01-2025-625166",
     "date": "2025-11-01T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Pictoria Vark, Crown Shy, Molly O'Malley"
+    ],
+    "link": "https://app.opendate.io/e/pictoria-vark-crown-shy-molly-o-malley-november-02-2025-632401",
+    "date": "2025-11-02T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -161,9 +161,9 @@
   },
   {
     "artist": [
-      "Kid Tigrrr - One Night Live w/ Wish Queen!"
+      "Kid Tigrrr - One Night Live w/ Wish Queen, Ellis and the Warning Signs"
     ],
-    "link": "https://app.opendate.io/e/kid-tigrrr-one-night-live-w-wish-queen-november-14-2025-627688",
+    "link": "https://app.opendate.io/e/kid-tigrrr-one-night-live-w-wish-queen-ellis-and-the-warning-signs-november-14-2025-627688",
     "date": "2025-11-14T00:00:01",
     "venue": "Happy Dog"
   },
@@ -205,6 +205,14 @@
     ],
     "link": "https://app.opendate.io/e/grumpy-plum-who-saved-who-crown-shy-november-29-2025-624346",
     "date": "2025-11-29T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Death By Drowning, Clibbus, Autopolitan"
+    ],
+    "link": "https://app.opendate.io/e/death-by-drowning-clibbus-autopolitan-december-06-2025-632404",
+    "date": "2025-12-06T00:00:01",
     "venue": "Happy Dog"
   }
 ]

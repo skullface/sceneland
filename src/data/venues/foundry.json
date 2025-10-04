@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ANIME POP NIGHT"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-3/",
-    "date": "2025-10-03T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Cultus Black"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/cultus-black/",
@@ -113,14 +105,6 @@
   },
   {
     "artist": [
-      "Keratoma, Summore, Oxjaw, City Of The Dead"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/keratoma-summore-oxjaw-city-of-the-dead/",
-    "date": "2025-10-25T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "DEVILS NIGHT: RISE OF THE DEMONS"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/devils-night-rise-of-the-demons/",
@@ -149,6 +133,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/rittz/",
     "date": "2025-11-01T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Denihilist, Exitwounds, Vexatious, Unvow, Aimpoint"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/denihilist-exitwounds-vexatious-unvow-aimpoint/",
+    "date": "2025-11-06T18:00:00",
     "venue": "Foundry"
   },
   {

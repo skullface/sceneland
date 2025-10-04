@@ -81,6 +81,14 @@
   },
   {
     "artist": [
+      "Jerry Seinfeld"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/jerry-seinfeld-3",
+    "date": "2026-02-13T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Kathleen Madigan"
     ],
     "link": "https://www.playhousesquare.org/events/detail/kathleen-madigan-the-day-drinking-tour",
@@ -133,14 +141,6 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/cleveland-bollywood-show",
     "date": "2025-10-12T00:00:01",
-    "venue": "Playhouse Square"
-  },
-  {
-    "artist": [
-      "Disney\u2019s Moana Live-To-Film Concert"
-    ],
-    "link": "https://www.playhousesquare.org/events/detail/disneys-moana-live-to-film-concert",
-    "date": "2025-10-16T00:00:01",
     "venue": "Playhouse Square"
   },
   {
@@ -269,6 +269,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/the-elvis-tribute-artist-spectacular",
     "date": "2026-01-08T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Jerry Seinfeld"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/jerry-seinfeld-3",
+    "date": "2026-02-13T00:00:01",
     "venue": "Playhouse Square"
   },
   {

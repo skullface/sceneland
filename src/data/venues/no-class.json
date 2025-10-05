@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "OCTOBER COCKTAIL MENU DROP"
-    ],
-    "link": "https://noclasscle.com/events/october-cocktail-menu-drop",
-    "date": "2025-10-02T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "SAPPHIC SOCIAL"
-    ],
-    "link": "https://noclasscle.com/events/sapphic-social-10-3",
-    "date": "2025-10-03T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MASTER"
     ],
     "link": "https://noclasscle.com/events/sinister-master",
@@ -97,6 +81,14 @@
   },
   {
     "artist": [
+      "CLEVELAND CANDIDATES CLOSING ARGUMENTS"
+    ],
+    "link": "https://noclasscle.com/events/cleveland-candidates-closing-arguments",
+    "date": "2025-10-18T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "THE DEAD DANCE"
     ],
     "link": "https://noclasscle.com/events/the-dead-dance",
@@ -137,6 +129,14 @@
   },
   {
     "artist": [
+      "BONGINATOR"
+    ],
+    "link": "https://noclasscle.com/events/bonginator-no-mas",
+    "date": "2025-10-28T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "MARQUIS GAYLORD'S ODDITORIUM"
     ],
     "link": "https://noclasscle.com/events/marquis-gaylords-odditorium-halloween",
@@ -153,6 +153,22 @@
   },
   {
     "artist": [
+      "MANFIISH"
+    ],
+    "link": "https://noclasscle.com/events/manfiish-self-absorbed-infectious-waste",
+    "date": "2025-11-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FISTULA"
+    ],
+    "link": "https://noclasscle.com/events/fistula-supreme-mystic-untoward",
+    "date": "2025-11-07T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "BURIAL OATH"
     ],
     "link": "https://noclasscle.com/events/burial-oath",
@@ -165,6 +181,14 @@
     ],
     "link": "https://noclasscle.com/events/human-artifacts",
     "date": "2025-11-22T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CASTRATOR"
+    ],
+    "link": "https://noclasscle.com/events/castrator",
+    "date": "2025-12-19T00:00:01",
     "venue": "No Class"
   }
 ]

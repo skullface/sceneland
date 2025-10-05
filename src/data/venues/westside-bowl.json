@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mom\u2019s Basement Fest 2025"
-    ],
-    "link": "https://www.eventbrite.com/e/moms-basement-fest-2025-tickets-1355784119799",
-    "date": "2025-10-03T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "A Storm of Steel Tour"
     ],
     "link": "https://www.eventbrite.com/e/a-storm-of-steel-tour-tickets-1276901900959",
@@ -169,9 +161,9 @@
   },
   {
     "artist": [
-      "The Clarks"
+      "The Clarks, Candace Campana"
     ],
-    "link": "https://www.eventbrite.com/e/the-clarks-tickets-1744221556629",
+    "link": "https://www.eventbrite.com/e/the-clarkscandace-campana-tickets-1744221556629",
     "date": "2025-11-08T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -201,9 +193,9 @@
   },
   {
     "artist": [
-      "Spitbite, Neighbor Dan, Trojan Horse"
+      "Spitbite, Neighbor Dan, Thee Adversary"
     ],
-    "link": "https://www.eventbrite.com/e/spitbiteneighbor-dantrojan-horse-tickets-1770553415929",
+    "link": "https://www.eventbrite.com/e/spitbiteneighbor-danthee-adversary-tickets-1770553415929",
     "date": "2025-11-15T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-burkhartszack-keimjack-the-optimists-tickets-1770575040609",
     "date": "2025-11-15T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Gutter Jamz Music Festival"
+    ],
+    "link": "https://www.eventbrite.com/e/gutter-jamz-music-festival-tickets-1772705753629",
+    "date": "2025-11-22T00:00:01",
     "venue": "Westside Bowl"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rood Presents: Corn Daze"
-    ],
-    "link": "https://dice.fm/event/68cd7b00a50b500001adcb60",
-    "date": "2025-10-05T11:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "KAYKO"
     ],
     "link": "https://dice.fm/event/685042e7e0ef570001da304b",
@@ -33,19 +25,19 @@
   },
   {
     "artist": [
-      "Alec Hershey"
-    ],
-    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
-    "date": "2025-10-10T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Integrity + Madball + Strife"
     ],
     "link": "https://dice.fm/event/6877f4e4602dba0001ba7898",
     "date": "2025-10-10T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Alec Hershey"
+    ],
+    "link": "https://dice.fm/event/68ac73fb2d00fb000148bcd1",
+    "date": "2025-10-10T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

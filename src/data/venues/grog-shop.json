@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Destroyer: Dan\u2019s Boogie Tour",
-      "Jennifer Castle"
-    ],
-    "link": "https://grogshop.gs/tm-event/destroyer-dans-boogie-tour/",
-    "date": "2025-10-06",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Heavy//Hitter",
       "Half Me",
       "Demsfightinwords"
@@ -71,7 +62,8 @@
   },
   {
     "artist": [
-      "Tee Grizzley"
+      "Tee Grizzley",
+      "CRISIS"
     ],
     "link": "https://grogshop.gs/tm-event/tee-grizzley/",
     "date": "2025-10-17",
@@ -88,7 +80,8 @@
   },
   {
     "artist": [
-      "Beauty School Dropout"
+      "Beauty School Dropout",
+      "Cherry!"
     ],
     "link": "https://grogshop.gs/tm-event/beauty-school-dropout/",
     "date": "2025-10-19",
@@ -293,7 +286,8 @@
   },
   {
     "artist": [
-      "Bartees Strange"
+      "Bartees Strange",
+      "Theresa May"
     ],
     "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
@@ -365,6 +359,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/mihalidaze/",
     "date": "2025-12-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Samiam",
+      "Whatever",
+      "Model Martel"
+    ],
+    "link": "https://grogshop.gs/tm-event/samiam-whatever-model-martel/",
+    "date": "2025-12-09",
     "venue": "Grog Shop"
   },
   {

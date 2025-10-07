@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KAYKO"
-    ],
-    "link": "https://dice.fm/event/685042e7e0ef570001da304b",
-    "date": "2025-10-06T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Allan Rayman "
     ],
     "link": "https://dice.fm/event/6822239faa7eed00013e4539",
@@ -129,19 +121,19 @@
   },
   {
     "artist": [
-      "Future Teens"
-    ],
-    "link": "https://dice.fm/event/689399037c7953000134b759",
-    "date": "2025-10-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "House of BurlesCLE: Murder On The Dance Floor 7pm"
     ],
     "link": "https://dice.fm/event/68d383d3d8c6fe0001c5a670",
     "date": "2025-10-23T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Future Teens"
+    ],
+    "link": "https://dice.fm/event/689399037c7953000134b759",
+    "date": "2025-10-23T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -282,19 +274,19 @@
   },
   {
     "artist": [
-      "Rob49: Let Me Fly Tour"
-    ],
-    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkshift"
     ],
     "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rob49: Let Me Fly Tour"
+    ],
+    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -470,6 +462,14 @@
     ],
     "link": "https://dice.fm/event/68dbe6096c20da0001c8cda7",
     "date": "2026-01-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Magic City Hippies"
+    ],
+    "link": "https://dice.fm/event/68dfe535fb741b0001e634d2",
+    "date": "2026-01-28T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

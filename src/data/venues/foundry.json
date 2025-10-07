@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Harbor Divide, Soulkiller, Heartstomper"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-harbor-divide-soulkiller-heartstomper/",
-    "date": "2025-10-05T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Fight From Within, Resistor, Smile On The Sinner, Left On Red, 6Deep, Let Them Divide, Only The Lucky Ones Die"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/fight-from-within-resistor-smile-on-the-sinner-left-on-red-6deep-let-them-divide-only-the-lucky-ones-die/",
@@ -197,6 +189,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Immortal Girlfriend"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/immortal-girlfriend/",
+    "date": "2025-12-17T19:00:00",
     "venue": "Foundry"
   },
   {

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Heavy//Hitter",
-      "Half Me",
-      "Demsfightinwords"
-    ],
-    "link": "https://grogshop.gs/tm-event/heavy-hitter-half-me-demsfightinwords/",
-    "date": "2025-10-07",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Sword",
       "Rickshaw Billie's Burger Patrol",
       "Pink Fuzz"
@@ -263,6 +253,17 @@
     ],
     "link": "https://grogshop.gs/tm-event/good-luck-hunden-street-food/",
     "date": "2025-11-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Radderall",
+      "Louse",
+      "Plum Shed",
+      "Charity Strype"
+    ],
+    "link": "https://grogshop.gs/tm-event/radderall-louse-plum-shed-charity-strype/",
+    "date": "2025-11-14",
     "venue": "Grog Shop"
   },
   {

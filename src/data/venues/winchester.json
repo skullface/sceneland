@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "VINTAGE BINGO, Estate Sale Clothes"
-    ],
-    "link": "https://www.ticketweb.com/event/vintage-bingo-w-estate-sale-the-winchester-tickets/14581713",
-    "date": "2025-10-08T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "HR of Bad Brains, C-Level & Benny Coleman of Quasi Kings"
     ],
     "link": "https://www.ticketweb.com/event/hr-of-bad-brains-w-the-winchester-tickets/14525553",
@@ -85,14 +77,6 @@
     ],
     "link": "https://www.ticketweb.com/event/pumpkin-bingo-the-winchester-tickets/14581723",
     "date": "2025-10-22T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Miguel Cafe, Prithee, Wednesday Demonstration, and Adult Human Chicken show"
-    ],
-    "link": "https://www.ticketweb.com/event/miguel-cafe-prithee-wednesday-demonstration-the-winchester-tickets/14596203",
-    "date": "2025-10-23T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -277,6 +261,14 @@
     ],
     "link": "https://www.ticketweb.com/event/brady-lorince-w-esoteria-the-winchester-tickets/14583243",
     "date": "2025-12-14T18:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Closer 2 Home \u2013 Grand Funk Railroad Tribute"
+    ],
+    "link": "https://www.ticketweb.com/event/closer-2-home-the-winchester-tickets/14589643",
+    "date": "2025-12-26T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

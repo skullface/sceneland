@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Many Eyes, Quiet Zoo, Bee Hive Ski Race, Imperil"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/many-eyes-quiet-zoo-bee-hive-ski-race-imperil/",
-    "date": "2025-10-08T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Death & Exhale, Moon Tipper, As They Were, Sea Biscuit"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/death-exhale-unconditional-hatred-as-they-were-sea-biscuit/",
@@ -65,6 +57,14 @@
   },
   {
     "artist": [
+      "Book Banter Brigade"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade-2/",
+    "date": "2025-10-21T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Off With Their Heads, SMUG, Pippsy Pinwheel, NMA"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/off-with-their-heads-smug-pippsy-pinwheel/",
@@ -105,10 +105,18 @@
   },
   {
     "artist": [
-      "Rittz"
+      "Rittz, A Dub"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/rittz/",
     "date": "2025-11-01T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "CELLOPHANE JANE, Lake Erie High Ball, Slow Groove Kings"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/cellophane-jane-lake-erie-high-ball-slow-groove-kings/",
+    "date": "2025-11-02T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -141,6 +149,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/flaw/",
     "date": "2025-11-19T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "ANIME POP NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-2/",
+    "date": "2025-11-22T21:00:00",
     "venue": "Foundry"
   },
   {

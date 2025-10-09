@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "Perf: Joey Sardelle, Stout XTC, Josh Strollis, Navy Jayde, Hush"
-    ],
-    "link": "https://secure.crobar1921.com/event/perf88",
-    "date": "2026-09-27T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "Dirty Pop Party: Bunny, J-Line, Mitchell Madak, Hydra Archive, Marottes"
     ],
     "link": "https://secure.crobar1921.com/event/dirty-pop-party13",
-    "date": "2025-10-09T00:00:01",
+    "date": "2026-10-09T00:00:01",
     "venue": "Crobar"
   },
   {
@@ -45,6 +37,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/dj-holographic-",
     "date": "2025-10-18T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Detroit Beatdown: Norm Talley, Delano Smith, Mike Agent X Clark"
+    ],
+    "link": "https://secure.crobar1921.com/event/detroit-beatdown",
+    "date": "2025-11-01T00:00:01",
     "venue": "Crobar"
   }
 ]

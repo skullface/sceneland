@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "The Sword",
-      "Rickshaw Billie's Burger Patrol",
-      "Pink Fuzz"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-sword-rickshaw-billies-burger-patrol-pink-fuzz/",
-    "date": "2025-10-08",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Desire",
       "Johnny Jewel"
     ],
@@ -431,6 +421,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/discofox-w-lone-thunder-at-the-grog-shop/",
     "date": "2025-12-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Night Moves"
+    ],
+    "link": "https://grogshop.gs/tm-event/night-moves/",
+    "date": "2026-01-24",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Curls, Soleo, Inpatient"
-    ],
-    "link": "https://app.opendate.io/e/the-curls-soleo-inpatient-october-08-2025-626767",
-    "date": "2025-10-08T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Matt Moody Record Release w/ Songs for an Unknown God"
     ],
     "link": "https://app.opendate.io/e/matt-moody-record-release-w-songs-for-an-unknown-god-october-10-2025-626490",
@@ -45,14 +37,6 @@
     ],
     "link": "https://app.opendate.io/e/the-shootouts-10th-anniversary-october-17-2025-621432",
     "date": "2025-10-17T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Madman, Primitive Impulse, Muzzle, The Smoke - a Ripperfest Fundraiser"
-    ],
-    "link": "https://app.opendate.io/e/madman-primitive-impulse-muzzle-the-smoke-a-ripperfest-fundraiser-october-18-2025-624345",
-    "date": "2025-10-18T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -105,9 +89,9 @@
   },
   {
     "artist": [
-      "The Grog Shop presents: Earth"
+      "The Grog Shop presents: Earth, Infinite River"
     ],
-    "link": "https://app.opendate.io/e/the-grog-shop-presents-earth-november-01-2025-625166",
+    "link": "https://app.opendate.io/e/the-grog-shop-presents-earth-infinite-river-november-01-2025-625166",
     "date": "2025-11-01T00:00:01",
     "venue": "Happy Dog"
   },
@@ -177,6 +161,14 @@
   },
   {
     "artist": [
+      "Panza Foundation Benefit w/ Mr. Gnome, Wish Queen, Nature Nvoke, Slugg"
+    ],
+    "link": "https://app.opendate.io/e/panza-foundation-benefit-w-mr-gnome-wish-queen-nature-nvoke-slugg-november-22-2025-633083",
+    "date": "2025-11-22T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Thanksgiving Eve Karaoke w/ Terkalerk!"
     ],
     "link": "https://app.opendate.io/e/thanksgiving-eve-karaoke-w-terkalerk-november-26-2025-628463",
@@ -193,10 +185,26 @@
   },
   {
     "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything - Special Thursday Edition!"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-special-thursday-edition-december-04-2025-633086",
+    "date": "2025-12-04T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Death By Drowning, Clibbus, Autopolitan"
     ],
     "link": "https://app.opendate.io/e/death-by-drowning-clibbus-autopolitan-december-06-2025-632404",
     "date": "2025-12-06T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tomorrow, Tonight!  With Elliot Jarrous!"
+    ],
+    "link": "https://app.opendate.io/e/tomorrow-tonight-with-elliot-jarrous-december-10-2025-633088",
+    "date": "2025-12-10T00:00:01",
     "venue": "Happy Dog"
   }
 ]

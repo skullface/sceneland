@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "California Guitar Trio"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/california-guitar-trio/",
-    "date": "2025-10-08T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Hunks the Show"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/hunks-the-show/",
@@ -93,14 +85,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/vader-kataklysm-malevolent-creation-skeletal-remains/",
     "date": "2025-10-20T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Paul Bielatowicz's NOSFERATU"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/paul-bielatowiczs-nosferatu/",
-    "date": "2025-10-21T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -241,6 +225,14 @@
   },
   {
     "artist": [
+      "HEYZ"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/heyz/",
+    "date": "2025-12-06T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "SUB:SONIC w/ THE WIDDLER"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
@@ -261,6 +253,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/no-resolve-the-unleashed-tour/",
     "date": "2025-02-25T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Dry Kill Logic, Dizasterpiece"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/dry-kill-logic-dizasterpiece/",
+    "date": "2025-05-08T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

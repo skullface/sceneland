@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Hunks the Show"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/hunks-the-show/",
-    "date": "2025-10-09T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "SUB:SONIC w/ A HUNDRED DRUMS"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-a-hundred-drums/",
@@ -93,6 +85,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/paul-bielatowiczs-nosferatu/",
     "date": "2025-10-21T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Kings of Thrash"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/kings-of-thrash/",
+    "date": "2025-10-22T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -213,14 +213,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/ekoh-w-arankai-guests/",
     "date": "2025-12-05T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "HEYZ"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/heyz/",
-    "date": "2025-12-06T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

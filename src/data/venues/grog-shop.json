@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Desire",
-      "Johnny Jewel"
-    ],
-    "link": "https://grogshop.gs/tm-event/desire-johnny-jewel/",
-    "date": "2025-10-09",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Signals Midwest",
       "84 Tigers",
       "Five Hundred Bucks",
@@ -61,7 +52,8 @@
   {
     "artist": [
       "Beauty School Dropout",
-      "Cherry!"
+      "Cherry!",
+      "Sabon"
     ],
     "link": "https://grogshop.gs/tm-event/beauty-school-dropout/",
     "date": "2025-10-19",
@@ -268,6 +260,17 @@
   },
   {
     "artist": [
+      "Fatboi Sharif + Icky Reels | Mourning [A] BLKstar | Beans",
+      "Icky Reels",
+      "Mourning [A] BLKstar",
+      "Beans"
+    ],
+    "link": "https://grogshop.gs/tm-event/fatboi-sharif-icky-reels-mourning-a-blkstar-beans/",
+    "date": "2025-11-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Etana",
       "Ms BBC & Queens"
     ],
@@ -323,6 +326,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/daddy-long-legs-handsome-jack-simon-the-apparatus/",
     "date": "2025-11-23",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "PORTUGAL. THE MAN: Lords of Portland Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/portugal-the-man-la-luz/",
+    "date": "2025-11-26",
     "venue": "Grog Shop"
   },
   {

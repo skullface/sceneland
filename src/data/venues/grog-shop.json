@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "Signals Midwest",
-      "84 Tigers",
-      "Five Hundred Bucks",
-      "Model Martel",
-      "Tyler Richardson"
-    ],
-    "link": "https://grogshop.gs/tm-event/signals-midwest-84-tigers-five-hundred-bucks-model-martel/",
-    "date": "2025-10-10",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Yin Yin",
       "Terror/Cactus",
       "DJ Maroozi"
@@ -229,6 +217,17 @@
   },
   {
     "artist": [
+      "The Great Grog Bake Off",
+      "Doug Katz",
+      "Ramon Rivas",
+      "Sarah Vulpio"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-great-grog-bake-off-2/",
+    "date": "2025-11-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Good Luck",
       "Natural Sway",
       "Hunden"
@@ -271,19 +270,19 @@
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
+      "Bartees Strange",
+      "Theresa May"
     ],
-    "link": "https://grogshop.gs/tm-event/etana/",
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Bartees Strange",
-      "Theresa May"
+      "Etana",
+      "Ms BBC & Queens"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Death & Exhale, Moon Tipper, As They Were, Sea Biscuit"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/death-exhale-unconditional-hatred-as-they-were-sea-biscuit/",
-    "date": "2025-10-10T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Silent Theory, Ovtlier, Major Moment, For Absent Friends"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/silent-theory-ovtlier-major-moment/",
@@ -121,6 +113,14 @@
   },
   {
     "artist": [
+      "CELLOPHANE JANE, Lake Erie High Ball, Slow Groove Kings"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/cellophane-jane-lake-erie-high-ball-slow-groove-kings/",
+    "date": "2025-11-02T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Denihilist, Exitwounds, Vexatious, Unvow, Aimpoint"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/denihilist-exitwounds-vexatious-unvow-aimpoint/",
@@ -205,14 +205,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/immortal-girlfriend/",
     "date": "2025-12-17T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Primitive Man, Buffalo Nichols, Great Falls, God is War"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/primitive-man-buffalo-nichols-great-falls-god-is-war/",
-    "date": "2025-12-19T19:00:00",
     "venue": "Foundry"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Silent Theory, Ovtlier, Major Moment, For Absent Friends"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/silent-theory-ovtlier-major-moment/",
-    "date": "2025-10-11T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Nativity In Black, Strange Notes"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nativity-in-black-strange-notes/",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/brokencyde-dot-dot-curve-from-this-day-forward-zombie-fashion-show-morning-in-may-thrapple-novela/",
     "date": "2025-10-15T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Folk Around & Find Out FREE Show w/ Death Mattress, Sick City and More"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/death-mattress-sick-city-pepper-blossom-between-the-backwoods-davey-the-loose-screws/",
+    "date": "2025-10-16T18:30:00",
     "venue": "Foundry"
   },
   {
@@ -187,7 +187,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },
@@ -195,7 +195,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },
@@ -205,6 +205,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/immortal-girlfriend/",
     "date": "2025-12-17T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Primitive Man, Buffalo Nichols, Great Falls, God is War"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/primitive-man-buffalo-nichols-great-falls-god-is-war/",
+    "date": "2025-12-19T19:00:00",
     "venue": "Foundry"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Freak Show"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/freak-show/",
-    "date": "2025-10-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Talib Kweli"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/talib-kweli/",
@@ -100,6 +92,14 @@
       "BOOS AND BREWS BAR CRAWL"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/boos-and-brews-bar-crawl/",
+    "date": "2025-10-25T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Y2KRAY"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/y2kray-3/",
     "date": "2025-10-25T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -205,6 +205,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/heyz/",
     "date": "2025-12-06T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "SUB:SONIC w/ THE WIDDLER"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
+    "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

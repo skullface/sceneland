@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mahall's Trinkets & Treats: a Halloween Market"
-    ],
-    "link": "https://dice.fm/event/68c4882329b9000001402322",
-    "date": "2025-10-12T11:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "JW Francis"
     ],
     "link": "https://dice.fm/event/6890cb33f8ae4300017f16ba",
@@ -20,6 +12,7 @@
       "Richy Mitch and The Coal Miners"
     ],
     "link": "https://dice.fm/event/67e2b5b3d9dad40001682575",
+    "sold_out": true,
     "date": "2025-10-13T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
@@ -129,19 +122,19 @@
   },
   {
     "artist": [
-      "Florist"
-    ],
-    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Stand Atlantic"
     ],
     "link": "https://dice.fm/event/68599e37d05a850001da870d",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Florist"
+    ],
+    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

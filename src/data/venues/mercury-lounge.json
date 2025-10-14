@@ -105,14 +105,6 @@
   },
   {
     "artist": [
-      "Y2KRAY"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/y2kray-3/",
-    "date": "2025-10-25T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "The Creed Tribute + Stone Tribute Pilots"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-creed-tribute-stone-tribute-pilots/",
@@ -140,6 +132,14 @@
       "QWEIRDO"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/qweirdo-3/",
+    "date": "2025-11-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Group Therapy"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/group-therapy/",
     "date": "2025-11-08T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -221,6 +221,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
     "date": "2025-12-13T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Shlump"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/shlump/",
+    "date": "2025-01-24T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

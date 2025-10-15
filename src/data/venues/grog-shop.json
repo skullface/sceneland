@@ -158,7 +158,8 @@
   },
   {
     "artist": [
-      "Earth"
+      "Earth",
+      "Infinite River"
     ],
     "link": "https://grogshop.gs/tm-event/earth/",
     "date": "2025-11-01",
@@ -422,6 +423,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/discofox-w-lone-thunder-at-the-grog-shop/",
     "date": "2025-12-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Dame Drummer"
+    ],
+    "link": "https://grogshop.gs/tm-event/dame-drummer/",
+    "date": "2025-12-21",
     "venue": "Grog Shop"
   },
   {

@@ -177,6 +177,14 @@
   },
   {
     "artist": [
+      "Nuke the Soup: Unplugged ant The Grog Shop + TBA"
+    ],
+    "link": "https://grogshop.gs/tm-event/nuke-the-soup-unplugged-ant-the-grog-shop-tba/",
+    "date": "2025-11-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Hot Water Music",
       "BANE",
       "SPACED"
@@ -205,6 +213,21 @@
     ],
     "link": "https://grogshop.gs/tm-event/weakened-friends-feels-like-hell-tour/",
     "date": "2025-11-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Ghutty Mac Day",
+      "Apocalyps Records",
+      "Princess Love",
+      "Pico the Guy Tho",
+      "CLEchay",
+      "Geeking Season",
+      "go4Doc",
+      "DJ Scottstradamus"
+    ],
+    "link": "https://grogshop.gs/tm-event/ghutty-mac-day/",
+    "date": "2025-11-09",
     "venue": "Grog Shop"
   },
   {
@@ -443,6 +466,17 @@
   },
   {
     "artist": [
+      "LETDOWN.",
+      "Blame My Youth",
+      "YOUTHYEAR",
+      "LUCHIANO"
+    ],
+    "link": "https://grogshop.gs/tm-event/letdown-blame-my-youth-youthyear-luchiano/",
+    "date": "2026-02-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Spiritual Cramp"
     ],
     "link": "https://grogshop.gs/tm-event/spiritual-cramp/",
@@ -471,6 +505,24 @@
     ],
     "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
     "date": "2026-03-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Matt Pryor",
+      "Small Uncle"
+    ],
+    "link": "https://grogshop.gs/tm-event/matt-pryor-small-uncle/",
+    "date": "2026-04-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Kishi Bashi: Sonderlust 10th Anniversary Tour",
+      "Bayonne"
+    ],
+    "link": "https://grogshop.gs/tm-event/kishi-bashi-sonderlust-10th-anniversary-tour/",
+    "date": "2026-04-08",
     "venue": "Grog Shop"
   }
 ]

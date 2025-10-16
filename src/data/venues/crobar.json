@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "artist": [
+      "Quenton Rubin: Nature Nvoke, Fat Daddye"
+    ],
+    "link": "https://secure.crobar1921.com/event/quenton-rubin",
+    "date": "2025-10-17T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "DJ Holographic: (Detroit), Haute Soup (Chicago), Hush b2b Honk"
+    ],
+    "link": "https://secure.crobar1921.com/event/dj-holographic-",
+    "date": "2025-10-18T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Sister Zo, Sissybunny, Joey Sardelle"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf80",
+    "date": "2025-10-25T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Detroit Beatdown: Norm Talley, Delano Smith, Mike Agent X Clark"
+    ],
+    "link": "https://secure.crobar1921.com/event/detroit-beatdown",
+    "date": "2025-11-01T00:00:01",
+    "venue": "Crobar"
+  }
+]

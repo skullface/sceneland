@@ -33,5 +33,13 @@
     "link": "https://www.rocketarena.com/events/detail/the-harlem-globetrotters-251228",
     "date": "2025-12-28T00:00:01",
     "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "26th Greater Cleveland Sports Awards"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/sports-awards-260205",
+    "date": "2026-02-05T00:00:01",
+    "venue": "Rocket Arena"
   }
 ]

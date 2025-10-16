@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Gilmore Girls Bingo!"
-    ],
-    "link": "https://www.ticketweb.com/event/gilmore-girls-bingo-the-winchester-tickets/14581693",
-    "date": "2025-10-15T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Sunshine Daydream \u2013 Grateful Dead Tribute"
     ],
     "link": "https://www.ticketweb.com/event/sunshine-daydream-grateful-the-winchester-tickets/14588873",
@@ -85,22 +77,6 @@
     ],
     "link": "https://www.ticketweb.com/event/ray-flanagan-anthony-papaleo-the-winchester-tickets/14605383",
     "date": "2025-10-27T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Magic Mike Night \u2013, Queen City Hunks"
-    ],
-    "link": "https://www.ticketweb.com/event/magic-mike-night-the-winchester-tickets/14581903",
-    "date": "2025-10-28T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "SPOOKY PLANT BINGO!!, Variegate Design & Wonderlust Concepts"
-    ],
-    "link": "https://www.ticketweb.com/event/spooky-plant-bingo-w-variegate-the-winchester-tickets/14581753",
-    "date": "2025-10-29T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -253,6 +229,14 @@
     ],
     "link": "https://www.ticketweb.com/event/closer-2-home-the-winchester-tickets/14589643",
     "date": "2025-12-26T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "70 Lewis \u2013 Reunion Show"
+    ],
+    "link": "https://www.ticketweb.com/event/70-lewis-reunion-the-winchester-tickets/14620333",
+    "date": "2026-01-09T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

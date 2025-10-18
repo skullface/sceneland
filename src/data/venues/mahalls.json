@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Alien Boy"
-    ],
-    "link": "https://dice.fm/event/6893a0f2db8acb00017ddda2",
-    "date": "2025-10-17T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Haunt To Go: a modern femme pop halloween party"
-    ],
-    "link": "https://dice.fm/event/68bb55bee35b890001671998",
-    "date": "2025-10-17T22:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Doublecamp"
     ],
     "link": "https://dice.fm/event/68220633d2b00500017187b2",
@@ -57,19 +41,19 @@
   },
   {
     "artist": [
-      "Future Teens"
-    ],
-    "link": "https://dice.fm/event/689399037c7953000134b759",
-    "date": "2025-10-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "House of BurlesCLE: Murder On The Dance Floor 7pm"
     ],
     "link": "https://dice.fm/event/68d383d3d8c6fe0001c5a670",
     "date": "2025-10-23T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Future Teens"
+    ],
+    "link": "https://dice.fm/event/689399037c7953000134b759",
+    "date": "2025-10-23T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -105,19 +89,19 @@
   },
   {
     "artist": [
-      "Florist"
-    ],
-    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Stand Atlantic"
     ],
     "link": "https://dice.fm/event/68599e37d05a850001da870d",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Florist"
+    ],
+    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -226,19 +210,19 @@
   },
   {
     "artist": [
-      "Rob49: Let Me Fly Tour"
-    ],
-    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkshift"
     ],
     "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rob49: Let Me Fly Tour"
+    ],
+    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -370,19 +354,19 @@
   },
   {
     "artist": [
-      "The Bug Club"
-    ],
-    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autoheart"
     ],
     "link": "https://dice.fm/event/68002e2cdf06370001927dca",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Bug Club"
+    ],
+    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

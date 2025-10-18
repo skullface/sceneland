@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Matt Michener, Daisypusher, Bailey Laszlo"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/matt-michener-daisypusher-bailey-laszlo/",
-    "date": "2025-10-17T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Persian Halloween Party w/ DJ Shayan"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/persian-halloween-party-w-dj-shayan/",
-    "date": "2025-10-17T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Dead Internet Society, Public Water Supply, Modern Monks, Mikey Silas"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dead-internet-society-public-water-supply-modern-monks-mikey-silas/",
@@ -137,14 +121,6 @@
   },
   {
     "artist": [
-      "An Evening with Uli Jon Roth"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/an-evening-with-uli-jon-roth/",
-    "date": "2025-11-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Kind Eyes, We Weren't Invited, Unvow, Terra Vista"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/kind-eyes-we-werent-invited-unvow-terra-vista/",
@@ -237,6 +213,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/no-resolve-the-unleashed-tour/",
     "date": "2025-02-25T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "An Evening with Uli Jon Roth"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/an-evening-with-uli-jon-roth/",
+    "date": "2025-04-21T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

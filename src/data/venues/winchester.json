@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "2025 Cleveland Witches Ball"
-    ],
-    "link": "https://www.ticketweb.com/event/2025-cleveland-witches-ball-the-winchester-tickets/14528323",
-    "date": "2025-10-18T12:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Wanted, Iron Brigade, & Iron Bitch"
     ],
     "link": "https://www.ticketweb.com/event/wanted-iron-brigade-iron-the-winchester-tickets/14548383",
@@ -221,6 +213,14 @@
     ],
     "link": "https://www.ticketweb.com/event/70-lewis-reunion-the-winchester-tickets/14620333",
     "date": "2026-01-09T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Too Hot for Leather w/ Sabon & Burning River"
+    ],
+    "link": "https://www.ticketweb.com/event/too-hot-for-leather-w-the-winchester-tickets/14616273",
+    "date": "2026-01-25T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

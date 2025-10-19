@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Dead Internet Society, Public Water Supply, Modern Monks, Mikey Silas"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/dead-internet-society-public-water-supply-modern-monks-mikey-silas/",
-    "date": "2025-10-18T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "BEAR GRILLZ FALL TOUR"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/underland-pt-2-tour/",
-    "date": "2025-10-18T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "HALLOWEEN FLEA MARKET"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/halloween-flea-market/",
@@ -85,6 +69,22 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-creed-tribute-stone-tribute-pilots/",
     "date": "2025-10-30T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Vampires Everywhere, Another Day Dawns"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/vampires-everywhere-another-day-dawns/",
+    "date": "2025-10-31T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Country Honk W/ Angela Perley"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/country-honk-w-angela-perley/",
+    "date": "2025-11-01T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -177,17 +177,17 @@
   },
   {
     "artist": [
-      "The Widdler"
+      "SUB:SONIC w/ THE WIDDLER"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
     "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
     "artist": [
-      "SUB:SONIC w/ THE WIDDLER"
+      "The Widdler"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
     "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },

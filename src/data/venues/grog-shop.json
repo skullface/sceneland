@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Beauty School Dropout",
-      "Cherry!",
-      "Sabon"
-    ],
-    "link": "https://grogshop.gs/tm-event/beauty-school-dropout/",
-    "date": "2025-10-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Frog",
       "Sure",
       "Machine"
@@ -265,19 +255,19 @@
   },
   {
     "artist": [
-      "Bartees Strange",
-      "Theresa May"
+      "Etana",
+      "Ms BBC & Queens"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
+      "Bartees Strange",
+      "Theresa May"
     ],
-    "link": "https://grogshop.gs/tm-event/etana/",
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },

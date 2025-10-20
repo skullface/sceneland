@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Doublecamp"
-    ],
-    "link": "https://dice.fm/event/68220633d2b00500017187b2",
-    "date": "2025-10-19T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Dying Fetus"
     ],
     "link": "https://dice.fm/event/685991570265b000018debb3",
@@ -89,19 +81,19 @@
   },
   {
     "artist": [
-      "Stand Atlantic"
-    ],
-    "link": "https://dice.fm/event/68599e37d05a850001da870d",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Florist"
     ],
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Stand Atlantic"
+    ],
+    "link": "https://dice.fm/event/68599e37d05a850001da870d",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -210,19 +202,19 @@
   },
   {
     "artist": [
-      "Pinkshift"
-    ],
-    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Rob49: Let Me Fly Tour"
     ],
     "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Pinkshift"
+    ],
+    "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

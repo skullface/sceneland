@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "HALLOWEEN FLEA MARKET"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/halloween-flea-market/",
-    "date": "2025-10-19T12:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Book Banter Brigade"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade-2/",
@@ -147,7 +139,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },
@@ -155,7 +147,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },

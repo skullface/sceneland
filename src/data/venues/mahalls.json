@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dying Fetus"
-    ],
-    "link": "https://dice.fm/event/685991570265b000018debb3",
-    "date": "2025-10-20T18:30:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Mahall's Spooky Movie and Trivia night"
     ],
     "link": "https://dice.fm/event/68efcb324c130d000149f608",
@@ -156,7 +148,7 @@
       "Boys Night Out"
     ],
     "link": "https://dice.fm/event/6862a53ba29ee50001054367",
-    "date": "2025-11-03T19:00:00-05:00",
+    "date": "2025-11-03T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -394,6 +386,14 @@
   },
   {
     "artist": [
+      "TRUSS and Elbow Room"
+    ],
+    "link": "https://dice.fm/event/68f00953036e2500011e26d9",
+    "date": "2025-12-19T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Dead Bundy"
     ],
     "link": "https://dice.fm/event/68ee4c047b1fa60001a55fc0",
@@ -406,6 +406,14 @@
     ],
     "link": "https://dice.fm/event/68c42fc486b0cd000166e5d1",
     "date": "2026-01-11T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "54 Ultra"
+    ],
+    "link": "https://dice.fm/event/68f0067b387090000137a05a",
+    "date": "2026-01-14T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

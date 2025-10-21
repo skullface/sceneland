@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Frog",
-      "Sure",
-      "Machine"
-    ],
-    "link": "https://grogshop.gs/tm-event/frog-sure-machine/",
-    "date": "2025-10-20",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Shaki Tavi with Kid Tigrrr and Honeybee",
       "Kid Tigrrr",
       "Honeybee"
@@ -255,19 +245,19 @@
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
+      "Bartees Strange",
+      "Theresa May"
     ],
-    "link": "https://grogshop.gs/tm-event/etana/",
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Bartees Strange",
-      "Theresa May"
+      "Etana",
+      "Ms BBC & Queens"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
@@ -375,6 +365,14 @@
   },
   {
     "artist": [
+      "Jingle Bell Holiday Shop"
+    ],
+    "link": "https://grogshop.gs/tm-event/jingle-bell-holiday-shop/",
+    "date": "2025-12-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Conner O\u2019Malley: Comedic Humor Tour"
     ],
     "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour-2/",
@@ -440,7 +438,7 @@
   },
   {
     "artist": [
-      "Jinari Kmet's Birthday Fest",
+      "Jinari Kemet's Birthday Fest",
       "Apostle Jones",
       "James Begin",
       "Tobyraps"

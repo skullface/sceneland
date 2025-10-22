@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dylan Gossett, Buffalo Traffic Jam"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/978192",
-    "date": "2025-10-21T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Cage the Elephant, hey, nothing, Vlad Holiday"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1139031",
@@ -237,6 +229,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1108198",
     "date": "2026-03-18T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Moonchild"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1184775",
+    "date": "2026-03-19T18:00:00",
     "venue": "Agora"
   },
   {

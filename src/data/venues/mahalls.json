@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mahall's Spooky Movie and Trivia night"
-    ],
-    "link": "https://dice.fm/event/68efcb324c130d000149f608",
-    "date": "2025-10-21T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Esoteria"
     ],
     "link": "https://dice.fm/event/68dbeb98bf61b60001c9d17a",
@@ -25,19 +17,19 @@
   },
   {
     "artist": [
-      "House of BurlesCLE: Murder On The Dance Floor 7pm"
-    ],
-    "link": "https://dice.fm/event/68d383d3d8c6fe0001c5a670",
-    "date": "2025-10-23T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Future Teens"
     ],
     "link": "https://dice.fm/event/689399037c7953000134b759",
     "date": "2025-10-23T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "House of BurlesCLE: Murder On The Dance Floor 7pm"
+    ],
+    "link": "https://dice.fm/event/68d383d3d8c6fe0001c5a670",
+    "date": "2025-10-23T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -73,6 +65,14 @@
   },
   {
     "artist": [
+      "Stand Atlantic"
+    ],
+    "link": "https://dice.fm/event/68599e37d05a850001da870d",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Florist"
     ],
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
@@ -81,11 +81,11 @@
   },
   {
     "artist": [
-      "Stand Atlantic"
+      "Peeling Flesh"
     ],
-    "link": "https://dice.fm/event/68599e37d05a850001da870d",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
+    "link": "https://dice.fm/event/68f6c03b3c452600011c2332",
+    "date": "2025-10-27T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -194,19 +194,19 @@
   },
   {
     "artist": [
-      "Rob49: Let Me Fly Tour"
-    ],
-    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
-    "date": "2025-11-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkshift"
     ],
     "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
     "date": "2025-11-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Rob49: Let Me Fly Tour"
+    ],
+    "link": "https://dice.fm/event/687e6904fdf1e5000110f203",
+    "date": "2025-11-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -402,6 +402,14 @@
   },
   {
     "artist": [
+      "Hammy New Year 3: The 3 Peat"
+    ],
+    "link": "https://dice.fm/event/68e95db4605c2000010dcb2d",
+    "date": "2025-12-27T16:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Youth Fountain (acoustic)"
     ],
     "link": "https://dice.fm/event/68c42fc486b0cd000166e5d1",
@@ -446,6 +454,14 @@
     ],
     "link": "https://dice.fm/event/68ded7a5a3667d0001200544",
     "date": "2026-02-07T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mat Kerekes"
+    ],
+    "link": "https://dice.fm/event/68e6780e7051c80001abaad0",
+    "date": "2026-03-05T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

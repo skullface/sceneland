@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Book Banter Brigade"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade-2/",
-    "date": "2025-10-21T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Off With Their Heads, SMUG, Pippsy Pinwheel, NMA"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/off-with-their-heads-smug-pippsy-pinwheel/",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/keratoma-summore-oxjaw-city-of-the-dead/",
     "date": "2025-10-25T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Local Voices, Local Goods \u2013 Community Outreach Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/local-voices-local-goods-community-outreach-night/",
+    "date": "2025-10-29T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -73,7 +73,15 @@
   },
   {
     "artist": [
-      "Saving Vice, Fail"
+      "Nocturnal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
+    "date": "2025-11-07T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Saving Vice, The Failsafe, KHANDRIA, As They Were"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/saving-vice-fail/",
     "date": "2025-11-11T18:00:00",
@@ -89,15 +97,7 @@
   },
   {
     "artist": [
-      "Backbiter, Piss Ant, Lie In Wait, xEighty-Sixedx, Goodfornothing"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/backbiter-piss-ant-lie-in-wait-xeighty-sixedx-goodfornothing/",
-    "date": "2025-11-15T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Backbiter, Piss Ant, Lie In Wait, xEighty-Sixedx, Goodfornothing"
+      "Backbiter, Piss Ant, Lie In Wait, xEighty-Sixedx, Concrete Teeth"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/backbiter-piss-ant-lie-in-wait-xeighty-sixedx-goodfornothing/",
     "date": "2025-11-15T18:00:00",
@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "Veil of Crimson"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/veil-of-crimson/",
+    "date": "2025-11-28T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "HARDCORE AGAINST EPILEPSY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/",
@@ -147,7 +155,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },
@@ -155,7 +163,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Lukas Nelson, The Band Loula"
-    ],
-    "link": "https://www.axs.com/events/1059702/lukas-nelson-tickets",
-    "date": "2025-10-21T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Leisure, Bay Ledges"
     ],
     "link": "https://www.axs.com/events/1007918/leisure-tickets",
@@ -149,6 +141,14 @@
     ],
     "link": "https://www.axs.com/events/1075938/the-infamous-stringdusters-tickets",
     "date": "2026-01-28T19:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Bumpin Uglies, Joey Harkum, The Palmer Squares, Damn Skippy"
+    ],
+    "link": "https://www.axs.com/events/1181967/bumpin-uglies-tickets",
+    "date": "2026-01-31T20:00:00",
     "venue": "Globe Iron"
   },
   {

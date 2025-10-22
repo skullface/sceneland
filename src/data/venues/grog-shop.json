@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Shaki Tavi with Kid Tigrrr and Honeybee",
-      "Kid Tigrrr",
-      "Honeybee"
-    ],
-    "link": "https://grogshop.gs/tm-event/shaki-tavi-with-kid-tigrrr/",
-    "date": "2025-10-21",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Army of Treats: A Special Cover Show at Grog Shop"
     ],
     "link": "https://grogshop.gs/tm-event/army-of-treats-a-special-cover-show-at-grog-shop/",
@@ -129,7 +119,7 @@
   },
   {
     "artist": [
-      "Nuke the Soup: Unplugged ant The Grog Shop + TBA"
+      "Nuke the Soup: Unplugged + TBA"
     ],
     "link": "https://grogshop.gs/tm-event/nuke-the-soup-unplugged-ant-the-grog-shop-tba/",
     "date": "2025-11-04",
@@ -464,6 +454,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/letdown-blame-my-youth-youthyear-luchiano/",
     "date": "2026-02-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Record Company: Give It Back To You 10th Anniversary Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-record-company-give-it-back-to-you-10th-anniversary-tour/",
+    "date": "2026-03-02",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kings of Thrash"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/kings-of-thrash/",
-    "date": "2025-10-22T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "SOIREE OF THE STALLIONS"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/soiree-of-the-stallions/",
@@ -33,6 +25,14 @@
   },
   {
     "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party/",
+    "date": "2025-10-26T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "The Creed Tribute + Stone Tribute Pilots"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-creed-tribute-stone-tribute-pilots/",
@@ -41,7 +41,7 @@
   },
   {
     "artist": [
-      "Vampires Everywhere, Another Day Dawns"
+      "Vampires Everywhere, Another Day Dawns, Kissing Lilith"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/vampires-everywhere-another-day-dawns/",
     "date": "2025-10-31T00:00:01",
@@ -53,6 +53,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/country-honk-w-angela-perley/",
     "date": "2025-11-01T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "School of Rock 2025 Staff Infection Show"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/school-of-rock-2025-staff-infection-show/",
+    "date": "2025-11-02T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -73,6 +81,14 @@
   },
   {
     "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-2/",
+    "date": "2025-11-09T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "Kind Eyes, We Weren't Invited, Unvow, Terra Vista"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/kind-eyes-we-werent-invited-unvow-terra-vista/",
@@ -85,6 +101,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/hottoween/",
     "date": "2025-11-15T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-3/",
+    "date": "2025-11-16T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -105,10 +129,26 @@
   },
   {
     "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-4/",
+    "date": "2025-11-23T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "A Killers Confession \u2013 Victim 2 CD Release Showcase"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/a-killers-confession-victim-2-cd-release-showcase/",
     "date": "2025-11-29T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-5/",
+    "date": "2025-11-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -129,10 +169,10 @@
   },
   {
     "artist": [
-      "The Widdler"
+      "Cleveland Browns Watch Party"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
-    "date": "2025-12-12T00:00:01",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-6/",
+    "date": "2025-12-07T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -145,10 +185,42 @@
   },
   {
     "artist": [
+      "The Widdler"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
+    "date": "2025-12-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "HOSTAGE SITUATION"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
     "date": "2025-12-13T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-7/",
+    "date": "2025-12-14T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-8/",
+    "date": "2025-12-21T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Cleveland Browns Watch Party"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-9/",
+    "date": "2025-12-28T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

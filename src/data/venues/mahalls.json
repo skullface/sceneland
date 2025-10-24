@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "The Workshop CLE Halloween Showcase"
-    ],
-    "link": "https://dice.fm/event/68dfdfebeb89510001a2f4d2",
-    "date": "2025-10-23T17:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Future Teens"
-    ],
-    "link": "https://dice.fm/event/689399037c7953000134b759",
-    "date": "2025-10-23T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "House of BurlesCLE: Murder On The Dance Floor 7pm"
-    ],
-    "link": "https://dice.fm/event/68d383d3d8c6fe0001c5a670",
-    "date": "2025-10-23T19:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "House of BurlesCLE: Murder On The Dance Floor 9pm"
-    ],
-    "link": "https://dice.fm/event/68d384f060e19e0001b355a6",
-    "date": "2025-10-23T21:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Nekrogoblikon"
     ],
     "link": "https://dice.fm/event/6888e41775fc7900012e333a",
@@ -57,14 +25,6 @@
   },
   {
     "artist": [
-      "Florist"
-    ],
-    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
-    "date": "2025-10-26T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Stand Atlantic"
     ],
     "link": "https://dice.fm/event/68599e37d05a850001da870d",
@@ -73,9 +33,18 @@
   },
   {
     "artist": [
+      "Florist"
+    ],
+    "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Peeling Flesh"
     ],
     "link": "https://dice.fm/event/68f6c03b3c452600011c2332",
+    "sold_out": true,
     "date": "2025-10-27T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
@@ -322,19 +291,19 @@
   },
   {
     "artist": [
-      "The Bug Club"
-    ],
-    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autoheart"
     ],
     "link": "https://dice.fm/event/68002e2cdf06370001927dca",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Bug Club"
+    ],
+    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Army of Treats: A Special Cover Show at Grog Shop"
-    ],
-    "link": "https://grogshop.gs/tm-event/army-of-treats-a-special-cover-show-at-grog-shop/",
-    "date": "2025-10-23",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Carlos Jones & the P.L.U.S. Band",
       "The Stix Quartet"
     ],
@@ -295,8 +287,8 @@
   {
     "artist": [
       "Apostle Jones",
-      "Brother Dusty + TBA",
-      "Brother Dusty"
+      "Brother Dusty",
+      "Dave Zup"
     ],
     "link": "https://grogshop.gs/tm-event/apostle-jones-brother-dusty-tba/",
     "date": "2025-11-24",
@@ -326,6 +318,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/hello3d-free-black/",
     "date": "2025-11-29",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Funeral Proposals",
+      "M.O.O.K.Y",
+      "Slag Genie"
+    ],
+    "link": "https://grogshop.gs/tm-event/funeral-proposals-m-o-o-k-y-slag-genie/",
+    "date": "2025-12-04",
     "venue": "Grog Shop"
   },
   {

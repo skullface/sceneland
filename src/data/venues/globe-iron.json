@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Leisure, Bay Ledges"
-    ],
-    "link": "https://www.axs.com/events/1007918/leisure-tickets",
-    "date": "2025-10-24T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Purity Ring, yuniVERSE"
     ],
     "link": "https://www.axs.com/events/1042804/purity-ring-tickets",
@@ -205,6 +197,14 @@
     ],
     "link": "https://www.axs.com/events/1130756/49-winchester-tickets",
     "date": "2026-04-17T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Vincent Mason, Phil Kane"
+    ],
+    "link": "https://www.axs.com/events/1192974/vincent-mason-tickets",
+    "date": "2026-05-09T20:00:00",
     "venue": "Globe Iron"
   }
 ]

@@ -1,34 +1,10 @@
 [
   {
     "artist": [
-      "Nekrogoblikon"
-    ],
-    "link": "https://dice.fm/event/6888e41775fc7900012e333a",
-    "date": "2025-10-24T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Koyo"
-    ],
-    "link": "https://dice.fm/event/685ea9965aca88000135b8fe",
-    "date": "2025-10-24T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Like Moths To Flames"
     ],
     "link": "https://dice.fm/event/688a46b3e82ad00001f170dd",
     "date": "2025-10-25T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Stand Atlantic"
-    ],
-    "link": "https://dice.fm/event/68599e37d05a850001da870d",
-    "date": "2025-10-26T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {
@@ -38,6 +14,14 @@
     "link": "https://dice.fm/event/68b19b13f9cd420001d6d791",
     "date": "2025-10-26T19:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Stand Atlantic"
+    ],
+    "link": "https://dice.fm/event/68599e37d05a850001da870d",
+    "date": "2025-10-26T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -291,19 +275,19 @@
   },
   {
     "artist": [
-      "Autoheart"
-    ],
-    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Bug Club"
     ],
     "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Autoheart"
+    ],
+    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -423,6 +407,14 @@
     ],
     "link": "https://dice.fm/event/68d196cb32146f0001eec67d",
     "date": "2026-03-28T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Fantastic Negrito"
+    ],
+    "link": "https://dice.fm/event/68f68c3b252ed20001ecf082",
+    "date": "2026-04-18T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "BOOS AND BREWS BAR CRAWL"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/boos-and-brews-bar-crawl/",
-    "date": "2025-10-25T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Y2KRAY"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/y2kray-3/",
-    "date": "2025-10-25T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Cleveland Browns Watch Party"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party/",
@@ -185,6 +169,22 @@
   },
   {
     "artist": [
+      "The Widdler"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
+    "date": "2025-12-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "SUB:SONIC w/ THE WIDDLER"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
+    "date": "2025-12-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "HOSTAGE SITUATION"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
@@ -213,6 +213,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/cleveland-browns-watch-party-9/",
     "date": "2025-12-28T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Rhymin' N Stealin' \u2013 The original Beastie Boys Tribute"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/rhymin-n-stealin-the-original-beastie-boys-tribute/",
+    "date": "2025-01-17T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

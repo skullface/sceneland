@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Emo-Ween 2025"
-    ],
-    "link": "https://www.eventbrite.com/e/emo-ween-2025-tickets-1405692717759",
-    "date": "2025-10-25T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Reaper On Red, Chew"
     ],
     "link": "https://www.eventbrite.com/e/reaper-on-redchew-tickets-1750773864759",
@@ -301,6 +293,14 @@
     ],
     "link": "https://www.eventbrite.com/e/we-rise-to-falldevil-in-disguiseonly-the-lucky-ones-die-tickets-1829388402959",
     "date": "2025-03-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Third Class, Bitter Alms"
+    ],
+    "link": "https://www.eventbrite.com/e/third-classbitter-alms-tickets-1874092965509",
+    "date": "2025-04-04T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

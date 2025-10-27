@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Texas Hippie Coalition"
-    ],
-    "link": "https://www.ticketweb.com/event/texas-hippie-coalition-the-winchester-tickets/13837434",
-    "date": "2025-10-26T18:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Ray Flanagan & Anthony Papaleo w/ Becky Boyd"
     ],
     "link": "https://www.ticketweb.com/event/ray-flanagan-anthony-papaleo-the-winchester-tickets/14605383",
@@ -137,6 +129,14 @@
   },
   {
     "artist": [
+      "BEAST FEAST 5, Gluttons, Muzzle, & Dollar Drafts"
+    ],
+    "link": "https://www.ticketweb.com/event/beast-feast-5-w-gluttons-the-winchester-tickets/14645513",
+    "date": "2025-11-28T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Rumours \u2013 Fleetwood Mac Tribute"
     ],
     "link": "https://www.ticketweb.com/event/rumours-fleetwood-mac-the-winchester-tickets/14586083",
@@ -205,6 +205,14 @@
     ],
     "link": "https://www.ticketweb.com/event/too-hot-for-leather-w-the-winchester-tickets/14616273",
     "date": "2026-01-25T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Deraps"
+    ],
+    "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
+    "date": "2026-02-12T19:30:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Peeling Flesh"
-    ],
-    "link": "https://dice.fm/event/68f6c03b3c452600011c2332",
-    "sold_out": true,
-    "date": "2025-10-27T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Mahall's Spooky Movie and Trivia night"
     ],
     "link": "https://dice.fm/event/68efcc5204da6a0001dc9c44",
@@ -22,14 +13,6 @@
     ],
     "link": "https://dice.fm/event/68d2b3bcb13ad4000123f421",
     "date": "2025-10-28T19:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Pink Siifu"
-    ],
-    "link": "https://dice.fm/event/68d6f60649fe2c000102bd3f",
-    "date": "2025-10-29T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -251,19 +234,19 @@
   },
   {
     "artist": [
-      "Autoheart"
-    ],
-    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Bug Club"
     ],
     "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Autoheart"
+    ],
+    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

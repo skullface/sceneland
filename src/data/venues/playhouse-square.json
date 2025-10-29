@@ -113,7 +113,7 @@
   },
   {
     "artist": [
-      "Frankie Valli & the Four Seasons: The Last Encores"
+      "Canceled: Frankie Valli & the Four Seasons: The Last Encores"
     ],
     "link": "https://www.playhousesquare.org/events/detail/frankie-valli-the-four-seasons-the-last-encores",
     "date": "2025-11-02T00:00:01",
@@ -261,6 +261,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/jerry-seinfeld-3",
     "date": "2026-02-13T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Jason Isbell and the 400 Unit"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/jason-isbell-and-the-400-unit",
+    "date": "2026-02-24T00:00:01",
     "venue": "Playhouse Square"
   },
   {

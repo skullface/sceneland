@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "HOBO JOHNSON AND THE LOVEMAKERS",
-      "Budman."
-    ],
-    "link": "https://grogshop.gs/tm-event/hobo-johnson-and-the-lovemakers/",
-    "date": "2025-10-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Grog Shop Halloween Cover Band Spooktacular!"
     ],
     "link": "https://grogshop.gs/tm-event/grog-shop-halloween-cover-band-spooktacular/",
@@ -186,19 +177,19 @@
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
+      "Bartees Strange",
+      "Dizygotic Energy"
     ],
-    "link": "https://grogshop.gs/tm-event/etana/",
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Bartees Strange",
-      "Theresa May"
+      "Etana",
+      "Ms BBC & Queens"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
@@ -278,6 +269,18 @@
     ],
     "link": "https://grogshop.gs/tm-event/hello3d-free-black/",
     "date": "2025-11-29",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Immortal Technique",
+      "Professor Peerless & Mike Strive",
+      "MuAmin Collective",
+      "JetSet2one6",
+      "JaXsaun"
+    ],
+    "link": "https://grogshop.gs/tm-event/immortal-technique-peerless-mike-strive-jetset2one6-jaxsaun/",
+    "date": "2025-11-30",
     "venue": "Grog Shop"
   },
   {
@@ -505,6 +508,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/kishi-bashi-sonderlust-10th-anniversary-tour/",
     "date": "2026-04-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Wedding Present: Seamonsters 35th Anniversary Tour",
+      "Mark Robinson"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-wedding-present-seamonsters-35th-anniversary-tour/",
+    "date": "2026-04-12",
     "venue": "Grog Shop"
   }
 ]

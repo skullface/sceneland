@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Local Voices, Local Goods \u2013 Community Outreach Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/local-voices-local-goods-community-outreach-night/",
-    "date": "2025-10-29T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "DEVILS NIGHT: RISE OF THE DEMONS"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/devils-night-rise-of-the-demons/",
@@ -89,7 +81,15 @@
   },
   {
     "artist": [
-      "Flaw"
+      "Book Banter Brigade"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade/",
+    "date": "2025-11-18T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Flaw, Groundstate"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/flaw/",
     "date": "2025-11-19T18:00:00",
@@ -139,7 +139,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },
@@ -147,7 +147,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },

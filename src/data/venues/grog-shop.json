@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Grog Shop Halloween Cover Band Spooktacular!"
-    ],
-    "link": "https://grogshop.gs/tm-event/grog-shop-halloween-cover-band-spooktacular/",
-    "date": "2025-10-30",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "STRAWBERRY GIRLS: Celebrating French Ghetto",
       "Moondough",
       "Post NC",
@@ -20,7 +12,7 @@
   },
   {
     "artist": [
-      "GBH Pre-Party with Annual Report (NJ)",
+      "CANCELED: Pre-Party with Annual Report (NJ)",
       "Gruntus",
       "and Secret Handshake LIVE at the B-Side!",
       "Secret Handshake"
@@ -177,11 +169,11 @@
   },
   {
     "artist": [
-      "Bartees Strange",
-      "Dizygotic Energy"
+      "CSU Pop,Rock",
+      "and Jazz Combos"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
-    "date": "2025-11-19",
+    "link": "https://grogshop.gs/tm-event/csu-poprock-and-jazz-combos/",
+    "date": "2025-11-18",
     "venue": "Grog Shop"
   },
   {
@@ -190,6 +182,15 @@
       "Ms BBC & Queens"
     ],
     "link": "https://grogshop.gs/tm-event/etana/",
+    "date": "2025-11-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Bartees Strange",
+      "Dizygotic Energy"
+    ],
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
@@ -252,6 +253,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/apostle-jones-brother-dusty-tba/",
     "date": "2025-11-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "ACO: A Tribute to Rob Williams"
+    ],
+    "link": "https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/",
+    "date": "2025-11-25",
     "venue": "Grog Shop"
   },
   {
@@ -330,6 +339,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/samiam-whatever-model-martel/",
     "date": "2025-12-09",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Conner O\u2019Malley: Comedic Humor Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour-5/",
+    "date": "2025-12-11",
     "venue": "Grog Shop"
   },
   {
@@ -441,6 +458,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/reverend-lee-lea-marra-the-river-boys-henry-loconti/",
     "date": "2025-12-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "2025 Late Christmas Early New Years Bash",
+      "Trapboi Manakin"
+    ],
+    "link": "https://grogshop.gs/tm-event/2025-late-christmas-early-new-years-bash/",
+    "date": "2025-12-30",
     "venue": "Grog Shop"
   },
   {

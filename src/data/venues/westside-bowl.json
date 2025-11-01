@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Zou, Munnycat Rocky Horror Halloween Party"
-    ],
-    "link": "https://www.eventbrite.com/e/the-zoumunnycat-rocky-horror-halloween-party-tickets-1661483695459",
-    "date": "2025-10-31T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Revenge of the Musical Dead"
-    ],
-    "link": "https://www.eventbrite.com/e/revenge-of-the-musical-dead-tickets-1665522636039",
-    "date": "2025-10-31T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Kitchen Knife Conspiracy, Self Inflicted, Brick Caster, Plinko"
     ],
     "link": "https://www.eventbrite.com/e/kitchen-knife-conspiracyself-inflictedbrick-casterplinko-tickets-1782861359319",
@@ -141,6 +125,14 @@
     ],
     "link": "https://www.eventbrite.com/e/scrooge-mandellafyathsingled-out-tickets-1909475605939",
     "date": "2025-11-16T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Gallivant, LibCor"
+    ],
+    "link": "https://www.eventbrite.com/e/gallivantlibcor-tickets-1936654398439",
+    "date": "2025-11-18T00:00:01",
     "venue": "Westside Bowl"
   },
   {

@@ -1,28 +1,6 @@
 [
   {
     "artist": [
-      "STRAWBERRY GIRLS: Celebrating French Ghetto",
-      "Moondough",
-      "Post NC",
-      "The Battle"
-    ],
-    "link": "https://grogshop.gs/tm-event/strawberry-girls-celebrating-french-ghetto/",
-    "date": "2025-10-31",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "CANCELED: Pre-Party with Annual Report (NJ)",
-      "Gruntus",
-      "and Secret Handshake LIVE at the B-Side!",
-      "Secret Handshake"
-    ],
-    "link": "https://grogshop.gs/tm-event/gbh-pre-party-with-annual-report-nj-gruntus-and-secret-handshake-live-at-the-b-side/",
-    "date": "2025-11-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "GBH",
       "Slaughterhouse",
       "The Mainliners",
@@ -169,7 +147,8 @@
   },
   {
     "artist": [
-      "CSU Pop,Rock",
+      "CSU Pop",
+      "Rock",
       "and Jazz Combos"
     ],
     "link": "https://grogshop.gs/tm-event/csu-poprock-and-jazz-combos/",
@@ -178,19 +157,19 @@
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
+      "Bartees Strange",
+      "Dizygotic Energy"
     ],
-    "link": "https://grogshop.gs/tm-event/etana/",
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Bartees Strange",
-      "Dizygotic Energy"
+      "Etana",
+      "Ms BBC & Queens"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
@@ -300,6 +279,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/immortal-technique-peerless-mike-strive-jetset2one6-jaxsaun/",
     "date": "2025-11-30",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "CWRU's Pop Ensemble presents Case Of The Mondays and Over The Weather",
+      "Over The Weather"
+    ],
+    "link": "https://grogshop.gs/tm-event/cwrus-pop-ensemble-presents-case-of-the-mondays-and-over-the-weather/",
+    "date": "2025-12-01",
     "venue": "Grog Shop"
   },
   {
@@ -527,6 +515,14 @@
       "EMM: The Dumb Tour!"
     ],
     "link": "https://grogshop.gs/tm-event/emm-the-dumb-tour/",
+    "date": "2026-03-14",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "MIA ASANO: Spring Tour '26"
+    ],
+    "link": "https://grogshop.gs/tm-event/mia-asano-spring-tour-26/",
     "date": "2026-03-14",
     "venue": "Grog Shop"
   },

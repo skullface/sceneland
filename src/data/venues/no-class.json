@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "BIAS SELECTOR"
-    ],
-    "link": "https://noclasscle.com/events/bias-selector-halloween",
-    "date": "2025-10-31T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MANFIISH"
     ],
     "link": "https://noclasscle.com/events/manfiish-self-absorbed-infectious-waste",
     "date": "2025-11-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "LOUD CROWD CONTEST"
+    ],
+    "link": "https://noclasscle.com/events/westside-crowd-contest",
+    "date": "2025-11-06T00:00:01",
     "venue": "No Class"
   },
   {
@@ -29,6 +29,14 @@
     ],
     "link": "https://noclasscle.com/events/10000-rambos",
     "date": "2025-11-08T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FIND YOUR BOO! SINGLES NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/find-your-boo-singles-night-november-2025",
+    "date": "2025-11-09T00:00:01",
     "venue": "No Class"
   },
   {
@@ -57,6 +65,14 @@
   },
   {
     "artist": [
+      "ISAIAH LINDER"
+    ],
+    "link": "https://noclasscle.com/events/isaiah-linder-cherry-high-tolerance",
+    "date": "2025-11-21T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "HUMAN ARTIFACTS"
     ],
     "link": "https://noclasscle.com/events/human-artifacts",
@@ -69,6 +85,14 @@
     ],
     "link": "https://noclasscle.com/events/castrator",
     "date": "2025-12-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "APES OF THE STATE"
+    ],
+    "link": "https://noclasscle.com/events/apes-of-the-state",
+    "date": "2026-02-19T00:00:01",
     "venue": "No Class"
   }
 ]

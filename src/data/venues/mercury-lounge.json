@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Country Honk W/ Angela Perley"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/country-honk-w-angela-perley/",
-    "date": "2025-11-01T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "School of Rock 2025 Staff Infection Show"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/school-of-rock-2025-staff-infection-show/",
@@ -141,6 +133,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/shlump/",
     "date": "2025-01-24T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "No Resolve \u2014 The Unleashed Tour"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/no-resolve-the-unleashed-tour/",
+    "date": "2025-02-25T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Vortxz "
-    ],
-    "link": "https://dice.fm/event/689670ff7c34370001f9e7a1",
-    "date": "2025-11-02T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Boys Night Out"
     ],
     "link": "https://dice.fm/event/6862a53ba29ee50001054367",
@@ -126,6 +118,14 @@
     ],
     "link": "https://dice.fm/event/68c0a640a62e300001a6266c",
     "date": "2025-11-21T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Esoteria"
+    ],
+    "link": "https://dice.fm/event/6907cfff52ce30000156bbda",
+    "date": "2025-11-23T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

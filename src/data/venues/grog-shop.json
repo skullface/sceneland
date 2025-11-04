@@ -128,7 +128,8 @@
   {
     "artist": [
       "Bartees Strange",
-      "Dizygotic Energy"
+      "Dizygotic Energy",
+      "VIAA"
     ],
     "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
@@ -443,6 +444,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/koffin-kats-playboy-manbaby-carrie-nation-and-the-speakeasy/",
     "date": "2026-02-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Nuovo Testamento",
+      "Dark Chisme"
+    ],
+    "link": "https://grogshop.gs/tm-event/nuovo-testamento-dark-chisme/",
+    "date": "2026-02-25",
     "venue": "Grog Shop"
   },
   {

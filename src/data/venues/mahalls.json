@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Boys Night Out"
-    ],
-    "link": "https://dice.fm/event/6862a53ba29ee50001054367",
-    "date": "2025-11-03T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "State Champs"
     ],
     "link": "https://dice.fm/event/68bf53449253330001eb9377",
@@ -77,6 +69,7 @@
       "Loathe: North American Tour 2025"
     ],
     "link": "https://dice.fm/event/6877bb506b5e4f0001b1d847",
+    "sold_out": true,
     "date": "2025-11-11T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
@@ -194,19 +187,19 @@
   },
   {
     "artist": [
-      "The Bug Club"
-    ],
-    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autoheart"
     ],
     "link": "https://dice.fm/event/68002e2cdf06370001927dca",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Bug Club"
+    ],
+    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

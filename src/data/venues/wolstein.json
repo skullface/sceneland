@@ -17,6 +17,14 @@
   },
   {
     "artist": [
+      "CSU Womens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
+    "date": "2025-11-12T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Cleveland Crunch"
     ],
     "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
@@ -29,6 +37,14 @@
     ],
     "link": "https://www.wolsteincenter.com/event/brandon-lake-king-of-hearts-tour/",
     "date": "2026-03-06T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Winter Jam \u201926"
+    ],
+    "link": "https://www.wolsteincenter.com/event/winter-jam-26/",
+    "date": "2026-03-27T00:00:01",
     "venue": "Wolstein Center"
   }
 ]

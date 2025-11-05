@@ -89,7 +89,7 @@
   },
   {
     "artist": [
-      "EMBLEM3 \u2013 The Fever Dream Tour w/ The Foxies"
+      "EMBLEM3 \u2013 The Fever Dream Tour w/ Lakedrive"
     ],
     "link": "https://www.ticketweb.com/event/emblem3-the-fever-the-winchester-tickets/13949184",
     "date": "2025-11-21T20:00:00",
@@ -205,6 +205,14 @@
     ],
     "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
     "date": "2026-02-12T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Emo Night Karaoke"
+    ],
+    "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
+    "date": "2026-02-20T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

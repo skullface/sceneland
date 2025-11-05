@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "State Champs"
-    ],
-    "link": "https://dice.fm/event/68bf53449253330001eb9377",
-    "sold_out": true,
-    "date": "2025-11-04T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Frights"
-    ],
-    "link": "https://dice.fm/event/684b2b2e184fe7000125b31a",
-    "date": "2025-11-04T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "INOHA"
     ],
     "link": "https://dice.fm/event/688104667fcd320001e1f9e4",
@@ -187,19 +170,19 @@
   },
   {
     "artist": [
-      "Autoheart"
-    ],
-    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Bug Club"
     ],
     "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Autoheart"
+    ],
+    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -279,6 +262,14 @@
     ],
     "link": "https://dice.fm/event/68dbe6096c20da0001c8cda7",
     "date": "2026-01-17T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Bad Bad Hats"
+    ],
+    "link": "https://dice.fm/event/68fb93d12b73fa000102a42a",
+    "date": "2026-01-25T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

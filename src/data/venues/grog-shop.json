@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Hot Water Music",
-      "BANE",
-      "SPACED"
-    ],
-    "link": "https://grogshop.gs/tm-event/hot-water-music-bane/",
-    "date": "2025-11-05",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "BORN OF OSIRIS \u201cTHROUGH SHADOWS USA TOUR\u201d",
       "The Browning",
       "VCTMS",
@@ -207,7 +197,8 @@
   },
   {
     "artist": [
-      "PORTUGAL. THE MAN: Lords of Portland Tour"
+      "PORTUGAL. THE MAN: Lords of Portland Tour",
+      "La Luz"
     ],
     "link": "https://grogshop.gs/tm-event/portugal-the-man-la-luz/",
     "date": "2025-11-26",

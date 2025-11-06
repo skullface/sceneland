@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "Ohio All-Star Majesty & King"
+    ],
+    "link": "https://www.ticketweb.com/event/ohio-all-star-majesty-the-winchester-tickets/14672293",
+    "date": "2025-11-30T18:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "LOCALS ONLY"
     ],
     "link": "https://www.ticketweb.com/event/locals-only-the-winchester-tickets/14664483",
@@ -156,6 +164,14 @@
       "Gary Ho Ho Hoey 30th Anniversary Tour"
     ],
     "link": "https://www.ticketweb.com/event/gary-ho-ho-hoey-30th-the-winchester-tickets/14512133",
+    "date": "2025-12-13T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Ohio City Singers"
+    ],
+    "link": "https://www.ticketweb.com/event/the-ohio-city-singers-the-winchester-tickets/14672253",
     "date": "2025-12-13T20:00:00",
     "venue": "Winchester Tavern"
   },
@@ -205,14 +221,6 @@
     ],
     "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
     "date": "2026-02-12T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Emo Night Karaoke"
-    ],
-    "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
-    "date": "2026-02-20T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

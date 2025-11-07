@@ -25,6 +25,14 @@
   },
   {
     "artist": [
+      "Folk Around and Find Out"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/",
+    "date": "2025-11-13T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Messmaker, Zup, By Light We Loom, Stay Gone"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/messmaker-zup-by-light-we-loom-stay-gone/",
@@ -53,6 +61,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/flaw/",
     "date": "2025-11-19T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "TRANSGENDER DAY OF REMEMBERANCE"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/transgender-day-of-rememberance/",
+    "date": "2025-11-20T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -107,7 +123,7 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
     "date": "2025-12-06T19:00:00",
     "venue": "Foundry"
   },
@@ -115,8 +131,16 @@
     "artist": [
       "King Mala, DEZI"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
+    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
     "date": "2025-12-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "UNSETTLED HELL/MAS 2025"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/unsettled-hell-mas-2025/",
+    "date": "2025-12-12T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -125,6 +149,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/primitive-man-buffalo-nichols-great-falls-god-is-war/",
     "date": "2025-12-19T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Crucigen, Nightdrive, Death & Exhale, Demise Eve"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/crucigen-nightdrive-death-exhale-demise-eve/",
+    "date": "2026-01-10T19:00:00",
     "venue": "Foundry"
   }
 ]

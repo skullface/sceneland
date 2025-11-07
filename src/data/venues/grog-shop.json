@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "BORN OF OSIRIS \u201cTHROUGH SHADOWS USA TOUR\u201d",
-      "The Browning",
-      "VCTMS",
-      "AXTY",
-      "Lost In Separation"
-    ],
-    "link": "https://grogshop.gs/tm-event/born-of-osiris-through-shadows-usa-tour/",
-    "date": "2025-11-06",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Weakened Friends",
       "Rodeo Boys",
       "Cool Party"
@@ -109,20 +97,20 @@
   },
   {
     "artist": [
-      "Bartees Strange",
-      "Dizygotic Energy",
-      "VIAA"
+      "Etana",
+      "Ms BBC & Queens"
     ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
+      "Bartees Strange",
+      "Dizygotic Energy",
+      "VIAA"
     ],
-    "link": "https://grogshop.gs/tm-event/etana/",
+    "link": "https://grogshop.gs/tm-event/bartees-strange/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },
@@ -418,6 +406,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/2025-late-christmas-early-new-years-bash/",
     "date": "2025-12-30",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Dead Milkmen",
+      "PAL"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-dead-milkmen-pal/",
+    "date": "2026-01-10",
     "venue": "Grog Shop"
   },
   {

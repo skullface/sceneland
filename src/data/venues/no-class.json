@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-11-5-25",
-    "date": "2025-11-05T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "LOUD CROWD CONTEST"
     ],
     "link": "https://noclasscle.com/events/westside-crowd-contest",
@@ -121,6 +113,14 @@
   },
   {
     "artist": [
+      "CARE ABOUT CLEVELAND - BENEFIT SHOW FOR PROVIDENCE HOUSE"
+    ],
+    "link": "https://noclasscle.com/events/care-about-cleveland-benefit-show-for-providence-house",
+    "date": "2025-11-28T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "FROG MALLET"
     ],
     "link": "https://noclasscle.com/events/frog-mallet",
@@ -137,10 +137,34 @@
   },
   {
     "artist": [
+      "HAMS"
+    ],
+    "link": "https://noclasscle.com/events/hams",
+    "date": "2025-12-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ROCK THE RIBBON 3"
+    ],
+    "link": "https://noclasscle.com/events/rock-the-ribbon-3",
+    "date": "2025-12-06T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "CASTRATOR"
     ],
     "link": "https://noclasscle.com/events/castrator",
     "date": "2025-12-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GUTTING"
+    ],
+    "link": "https://noclasscle.com/events/gutting-limerence-secret-historian",
+    "date": "2026-01-23T00:00:01",
     "venue": "No Class"
   },
   {

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Terrian"
-    ],
-    "link": "https://dice.fm/event/689a634dad402100019057c5",
-    "date": "2025-11-07T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Gimme Gimme Disco"
-    ],
-    "link": "https://dice.fm/event/68ee5dc627e9fc0001a80a5b",
-    "date": "2025-11-07T22:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkshift"
     ],
     "link": "https://dice.fm/event/684ae51d7cd32600012bd233",
@@ -162,19 +146,19 @@
   },
   {
     "artist": [
-      "The Bug Club"
-    ],
-    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autoheart"
     ],
     "link": "https://dice.fm/event/68002e2cdf06370001927dca",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Bug Club"
+    ],
+    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -190,6 +174,14 @@
     ],
     "link": "https://dice.fm/event/6814d273e4c59200016929a9",
     "date": "2025-12-10T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Gates To Hell"
+    ],
+    "link": "https://dice.fm/event/690e3898bed711000170f65a",
+    "date": "2025-12-12T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

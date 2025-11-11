@@ -1,8 +1,7 @@
 [
   {
     "artist": [
-      "Jonas Brothers: JONAS20 Greetings From Your Hometown",
-      "The All-American Rejects"
+      "Jonas Brothers: JONAS20 Greetings From Your Hometown"
     ],
     "link": "https://www.rocketarena.com/events/detail/jonas-brothers-251111",
     "date": "2025-11-11T00:00:01",
@@ -48,6 +47,14 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/new-edition-20260222",
     "date": "2026-02-22T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "Three Days Grace: Alienation Tour"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/three-days-grace-260226",
+    "date": "2026-02-26T00:00:01",
     "venue": "Rocket Arena"
   }
 ]

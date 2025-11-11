@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Drumplay \u2013 A Benefit Concert for NEOCH"
-    ],
-    "link": "https://www.ticketweb.com/event/drumplay-a-benefit-the-winchester-tickets/14589613",
-    "date": "2025-11-09T18:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "The Brokes: The Strokes Experience"
     ],
     "link": "https://www.ticketweb.com/event/the-brokes-the-strokes-experience-the-winchester-tickets/13884204",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.ticketweb.com/event/boozy-bingo-plant-the-winchester-tickets/14662643",
     "date": "2025-11-26T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Jimiller Band\u2019s Annual Night Before Thanksgiving Show"
+    ],
+    "link": "https://www.ticketweb.com/event/the-jimiller-bands-annual-night-the-winchester-tickets/14570333",
+    "date": "2025-11-26T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -221,14 +221,6 @@
     ],
     "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
     "date": "2026-02-12T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Emo Night Karaoke"
-    ],
-    "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
-    "date": "2026-02-20T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

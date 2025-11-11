@@ -1,21 +1,6 @@
 [
   {
     "artist": [
-      "Ghutty Mac Day",
-      "Apocalyps Records",
-      "Princess Love",
-      "Pico the Guy Tho",
-      "CLEchay",
-      "Geeking Season",
-      "go4Doc",
-      "DJ Scottstradamus"
-    ],
-    "link": "https://grogshop.gs/tm-event/ghutty-mac-day/",
-    "date": "2025-11-09",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Great Grog Bake Off",
       "Doug Katz",
       "Ramon Rivas",
@@ -107,7 +92,8 @@
   {
     "artist": [
       "Universe of Battle Tour: Nick Shoulders",
-      "Clover-Lynn"
+      "Clover-Lynn",
+      "Dollar Country"
     ],
     "link": "https://grogshop.gs/tm-event/universe-of-battle-tour-nick-shoulders/",
     "date": "2025-11-20",
@@ -357,6 +343,15 @@
   },
   {
     "artist": [
+      "Oy Vey! Another Jesse Jukebox Holiday Show",
+      "DJ Terkey Sandwich"
+    ],
+    "link": "https://grogshop.gs/tm-event/oy-vey-another-jesse-jukebox-holiday-show/",
+    "date": "2025-12-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Grumpy Plum",
       "Blue Yuma",
       "Calico",
@@ -384,6 +379,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/jinari-kmets-birthday-fest/",
     "date": "2025-12-23",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Vibe & Direct",
+      "Nate Yingling Trio"
+    ],
+    "link": "https://grogshop.gs/tm-event/vibe-direct-nate-yingling-trio/",
+    "date": "2025-12-27",
     "venue": "Grog Shop"
   },
   {
@@ -431,6 +435,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/koffin-kats-playboy-manbaby-carrie-nation-and-the-speakeasy/",
     "date": "2026-02-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Elise Trouw presents: The Diary of Elon Lust Tour",
+      "tessas"
+    ],
+    "link": "https://grogshop.gs/tm-event/elise-trouw-presents-the-diary-of-elon-lust-tour/",
+    "date": "2026-02-19",
     "venue": "Grog Shop"
   },
   {
@@ -513,7 +526,9 @@
   {
     "artist": [
       "Matt Pryor",
-      "Small Uncle"
+      "Small Uncle",
+      "Eighty-Sixed",
+      "Kid"
     ],
     "link": "https://grogshop.gs/tm-event/matt-pryor-small-uncle/",
     "date": "2026-04-04",

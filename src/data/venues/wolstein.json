@@ -9,6 +9,14 @@
   },
   {
     "artist": [
+      "CSU Mens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-mens-basketball-3/",
+    "date": "2025-11-19T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Cleveland Crunch"
     ],
     "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
@@ -33,7 +41,7 @@
   },
   {
     "artist": [
-      "Winter Jam '26"
+      "Winter Jam \u201926"
     ],
     "link": "https://www.wolsteincenter.com/event/winter-jam-26/",
     "date": "2026-03-27T00:00:01",

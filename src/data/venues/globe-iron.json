@@ -121,6 +121,14 @@
   },
   {
     "artist": [
+      "KREAM"
+    ],
+    "link": "https://www.axs.com/events/1216482/kream-tickets",
+    "date": "2026-02-19T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
       "I See Stars"
     ],
     "link": "https://www.axs.com/events/1143397/i-see-stars-tickets",
@@ -145,10 +153,18 @@
   },
   {
     "artist": [
-      "Too Many Zooz + The Floozies"
+      "The Floozies + Too Many Zooz"
     ],
-    "link": "https://www.axs.com/events/1176812/too-many-zooz-the-floozies-tickets",
+    "link": "https://www.axs.com/events/1176812/the-floozies-too-many-zooz-tickets",
     "date": "2026-03-12T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Railroad Earth"
+    ],
+    "link": "https://www.axs.com/events/1219900/railroad-earth-tickets",
+    "date": "2026-03-22T19:30:00",
     "venue": "Globe Iron"
   },
   {
@@ -161,7 +177,7 @@
   },
   {
     "artist": [
-      "Vincent Mason: There I Go"
+      "Vincent Mason: There I Go, Phil Kane"
     ],
     "link": "https://www.axs.com/events/1192974/vincent-mason-there-i-go-tickets",
     "date": "2026-05-09T20:00:00",

@@ -154,19 +154,19 @@
   },
   {
     "artist": [
-      "Autoheart"
-    ],
-    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "The Bug Club"
     ],
     "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Autoheart"
+    ],
+    "link": "https://dice.fm/event/68002e2cdf06370001927dca",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -314,6 +314,14 @@
   },
   {
     "artist": [
+      "The Browning"
+    ],
+    "link": "https://dice.fm/event/690a76f705c376000157fd55",
+    "date": "2026-02-13T18:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Good Terms"
     ],
     "link": "https://dice.fm/event/690a7b0e43748b0001741117",
@@ -330,10 +338,26 @@
   },
   {
     "artist": [
+      "Quarters"
+    ],
+    "link": "https://dice.fm/event/690baa8adeb4f800019d0b73",
+    "date": "2026-03-19T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Twen"
     ],
     "link": "https://dice.fm/event/68d196cb32146f0001eec67d",
     "date": "2026-03-28T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "76th Street"
+    ],
+    "link": "https://dice.fm/event/690e0940dbcc030001f0f48e",
+    "date": "2026-04-13T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

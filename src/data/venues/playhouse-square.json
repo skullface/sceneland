@@ -225,6 +225,14 @@
   },
   {
     "artist": [
+      "Gregory Porter"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/gregory-porter-1",
+    "date": "2026-02-12T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Jerry Seinfeld"
     ],
     "link": "https://www.playhousesquare.org/events/detail/jerry-seinfeld-3",
@@ -333,6 +341,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/the-rock-orchestra-by-candlelight",
     "date": "2026-05-02T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Josh Gates Live!"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/josh-gates-live",
+    "date": "2026-06-11T00:00:01",
     "venue": "Playhouse Square"
   },
   {

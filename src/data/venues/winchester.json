@@ -97,14 +97,6 @@
   },
   {
     "artist": [
-      "The Jimiller Band\u2019s Annual Night Before Thanksgiving Show"
-    ],
-    "link": "https://www.ticketweb.com/event/the-jimiller-bands-annual-night-the-winchester-tickets/14570333",
-    "date": "2025-11-26T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "BEAST FEAST 5, Gluttons, Muzzle, & Dollar Drafts"
     ],
     "link": "https://www.ticketweb.com/event/beast-feast-5-w-gluttons-the-winchester-tickets/14645513",
@@ -221,6 +213,14 @@
     ],
     "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
     "date": "2026-02-12T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Emo Night Karaoke"
+    ],
+    "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
+    "date": "2026-02-20T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

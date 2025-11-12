@@ -1,23 +1,6 @@
 [
   {
     "artist": [
-      "AS IT IS"
-    ],
-    "link": "https://dice.fm/event/67f80f89f2898800017efb23",
-    "date": "2025-11-11T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "Loathe: North American Tour 2025"
-    ],
-    "link": "https://dice.fm/event/6877bb506b5e4f0001b1d847",
-    "sold_out": true,
-    "date": "2025-11-11T19:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Tanukichan and Alison's Halo"
     ],
     "link": "https://dice.fm/event/68790469b47cb90001eb49de",
@@ -154,19 +137,19 @@
   },
   {
     "artist": [
-      "The Bug Club"
-    ],
-    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
-    "date": "2025-12-08T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Autoheart"
     ],
     "link": "https://dice.fm/event/68002e2cdf06370001927dca",
     "date": "2025-12-08T19:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Bug Club"
+    ],
+    "link": "https://dice.fm/event/68def48ba3667d0001dcfee7",
+    "date": "2025-12-08T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -354,6 +337,14 @@
   },
   {
     "artist": [
+      "Drain"
+    ],
+    "link": "https://dice.fm/event/690bbcd1ff2bad000182793b",
+    "date": "2026-04-01T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "76th Street"
     ],
     "link": "https://dice.fm/event/690e0940dbcc030001f0f48e",
@@ -375,5 +366,13 @@
     "link": "https://dice.fm/event/68dda232855fc3000131b562",
     "date": "2026-04-30T19:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Fireworks"
+    ],
+    "link": "https://dice.fm/event/690bcbdfc5e79d00011afd8b",
+    "date": "2026-05-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
   }
 ]

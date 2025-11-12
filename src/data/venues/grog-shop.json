@@ -72,6 +72,15 @@
   },
   {
     "artist": [
+      "Etana",
+      "Ms BBC & Queens"
+    ],
+    "link": "https://grogshop.gs/tm-event/etana/",
+    "date": "2025-11-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Bartees Strange",
       "Dizygotic Energy",
       "VIAA"
@@ -82,18 +91,9 @@
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
-    ],
-    "link": "https://grogshop.gs/tm-event/etana/",
-    "date": "2025-11-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Universe of Battle Tour: Nick Shoulders",
       "Clover-Lynn",
-      "Dollar Country"
+      "DJ Frank the Drifter"
     ],
     "link": "https://grogshop.gs/tm-event/universe-of-battle-tour-nick-shoulders/",
     "date": "2025-11-20",
@@ -166,6 +166,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/portugal-the-man-la-luz/",
     "date": "2025-11-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Shit Show Karaoke : Holiday Hangover ft. Mikey Silas"
+    ],
+    "link": "https://grogshop.gs/tm-event/shit-show-karaoke-holiday-hangover-ft-mikey-silas/",
+    "date": "2025-11-27",
     "venue": "Grog Shop"
   },
   {
@@ -383,7 +391,8 @@
   },
   {
     "artist": [
-      "Vibe & Direct",
+      "Holiday Vibes",
+      "Vibe & Direct and Nate Yingling Trio",
       "Nate Yingling Trio"
     ],
     "link": "https://grogshop.gs/tm-event/vibe-direct-nate-yingling-trio/",
@@ -417,6 +426,26 @@
     ],
     "link": "https://grogshop.gs/tm-event/the-dead-milkmen-pal/",
     "date": "2026-01-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "DAMNAGEKIDS & Friends",
+      "KHR",
+      "Ctrl room",
+      "Kamakazi Boys",
+      "Go4DOC & DMIR"
+    ],
+    "link": "https://grogshop.gs/tm-event/damnagekids-friends/",
+    "date": "2026-01-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Truman Show Album Release : Spazzplot"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-truman-show-album-release-spazzplot/",
+    "date": "2026-01-18",
     "venue": "Grog Shop"
   },
   {

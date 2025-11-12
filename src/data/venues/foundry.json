@@ -41,7 +41,7 @@
   },
   {
     "artist": [
-      "Flaw, Groundstate"
+      "Flaw, Groundstate, Wasted Society"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/flaw/",
     "date": "2025-11-19T18:00:00",
@@ -97,18 +97,10 @@
   },
   {
     "artist": [
-      "KING DIAMOND XMAS"
+      "Weird Wonderland \u2013 A Dark Holiday Market"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-diamond-xmas/",
-    "date": "2025-12-05T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "King Mala, DEZI"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi-2/",
-    "date": "2025-12-06T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/weird-wonderland-a-dark-holiday-market/",
+    "date": "2025-11-30T12:00:00",
     "venue": "Foundry"
   },
   {
@@ -141,6 +133,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/crucigen-nightdrive-death-exhale-demise-eve/",
     "date": "2026-01-10T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Dead Boys"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/dead-boys/",
+    "date": "2026-02-14T19:00:00",
     "venue": "Foundry"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Saving Vice, The Failsafe, KHANDRIA, As They Were"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/saving-vice-fail/",
-    "date": "2025-11-11T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Folk Around and Find Out"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/",
@@ -105,6 +97,14 @@
   },
   {
     "artist": [
+      "KING DIAMOND XMAS"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/king-diamond-xmas/",
+    "date": "2025-12-05T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "King Mala, DEZI"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
@@ -117,6 +117,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/unsettled-hell-mas-2025/",
     "date": "2025-12-12T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Nocturnal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
+    "date": "2025-12-13T21:00:00",
     "venue": "Foundry"
   },
   {

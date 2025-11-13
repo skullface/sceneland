@@ -1,18 +1,8 @@
 [
   {
     "artist": [
-      "The Great Grog Bake Off",
-      "Doug Katz",
-      "Ramon Rivas",
-      "Sarah Vulpio"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-great-grog-bake-off-2/",
-    "date": "2025-11-11",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Good Luck",
+      "Into It. Over It.",
       "Natural Sway",
       "Hunden"
     ],
@@ -266,6 +256,15 @@
   },
   {
     "artist": [
+      "The Format (Acoustic)",
+      "Dan Boeckner"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-format-acoustic/",
+    "date": "2025-12-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Conner O\u2019Malley: Comedic Humor Tour"
     ],
     "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour-5/",
@@ -458,6 +457,17 @@
   },
   {
     "artist": [
+      "Jack Lutz",
+      "Hayden Grove",
+      "Lyons Lane",
+      "Jack & The Optimists"
+    ],
+    "link": "https://grogshop.gs/tm-event/jack-lutz-hayden-grove-lyons-lane-jack-the-optimists/",
+    "date": "2026-01-25",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Koffin Kats",
       "Playboy Manbaby",
       "Carrie Nation and the Speakeasy"
@@ -579,6 +589,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/the-wedding-present-seamonsters-35th-anniversary-tour/",
     "date": "2026-04-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Amble"
+    ],
+    "link": "https://grogshop.gs/tm-event/amble/",
+    "date": "2026-07-28",
     "venue": "Grog Shop"
   }
 ]

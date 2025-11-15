@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Psychedelic Porn Crumpets, Ghost Funk Orchestra"
-    ],
-    "link": "https://www.axs.com/events/1032124/psychedelic-porn-crumpets-tickets",
-    "date": "2025-11-14T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "THE MOVEMENT, Kabaka Pyramid"
     ],
     "link": "https://www.axs.com/events/1045449/the-movement-tickets",
@@ -189,6 +181,14 @@
     ],
     "link": "https://www.axs.com/events/1192974/vincent-mason-there-i-go-tickets",
     "date": "2026-05-09T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Benjamin Tod"
+    ],
+    "link": "https://www.axs.com/events/1210725/benjamin-tod-tickets",
+    "date": "2026-10-02T20:00:00",
     "venue": "Globe Iron"
   }
 ]

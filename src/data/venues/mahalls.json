@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Dirty Nil and War On Women"
-    ],
-    "link": "https://dice.fm/event/6890fccc3363950001457f44",
-    "date": "2025-11-14T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Teen Mortgage"
     ],
     "link": "https://dice.fm/event/688cccc83f24960001db27bb",
@@ -29,6 +21,14 @@
     ],
     "link": "https://dice.fm/event/685afa962cfa69000140d539",
     "date": "2025-11-18T18:30:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Mahall's Craft Night"
+    ],
+    "link": "https://dice.fm/event/6917b9ecef017f00019572c2",
+    "date": "2025-11-19T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

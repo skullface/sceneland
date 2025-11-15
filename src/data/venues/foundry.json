@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Folk Around and Find Out"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/folk-around-and-find-out/",
-    "date": "2025-11-13T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Messmaker, Zup, By Light We Loom, Stay Gone"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/messmaker-zup-by-light-we-loom-stay-gone/",
@@ -93,6 +85,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/weird-wonderland-a-dark-holiday-market/",
     "date": "2025-11-30T12:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "KING DIAMOND XMAS"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/king-diamond-xmas/",
+    "date": "2025-12-05T19:00:00",
     "venue": "Foundry"
   },
   {

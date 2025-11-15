@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Good Luck",
-      "Into It. Over It.",
-      "Natural Sway",
-      "Hunden"
-    ],
-    "link": "https://grogshop.gs/tm-event/good-luck-hunden-street-food/",
-    "date": "2025-11-13",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Radderall",
       "Louse",
       "Plum Shed",
@@ -62,20 +51,20 @@
   },
   {
     "artist": [
-      "Etana",
-      "Ms BBC & Queens"
-    ],
-    "link": "https://grogshop.gs/tm-event/etana/",
-    "date": "2025-11-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Bartees Strange",
       "Dizygotic Energy",
       "VIAA"
     ],
     "link": "https://grogshop.gs/tm-event/bartees-strange/",
+    "date": "2025-11-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Etana",
+      "Ms BBC & Queens"
+    ],
+    "link": "https://grogshop.gs/tm-event/etana/",
     "date": "2025-11-19",
     "venue": "Grog Shop"
   },

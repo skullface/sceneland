@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Felix Da Housecat: RVDIOVCTIVE 13 Year Anniversary, Devon James, Mona Black, Au Contraire, James Ellington, Sumkind"
-    ],
-    "link": "https://secure.crobar1921.com/event/felix-da-housecat",
-    "date": "2026-11-14T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "North by North: Late Braces, Bracelet Box, Clare Feorene"
     ],
     "link": "https://secure.crobar1921.com/event/north-by-north",
     "date": "2025-11-19T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Critical Hit: Black Voltron, Da Land Brass Band, Jinari Kemet, Navy Jayde"
+    ],
+    "link": "https://secure.crobar1921.com/event/black-voltron34",
+    "date": "2025-11-28T00:00:01",
     "venue": "Crobar"
   },
   {
@@ -29,6 +29,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/perf92",
     "date": "2025-11-29T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Critical Hit: Black Voltron, Da Land Brass Band, Jinari Kemet, Navy Jayde"
+    ],
+    "link": "https://secure.crobar1921.com/event/black-voltron34",
+    "date": "2025-11-22T00:00:01",
     "venue": "Crobar"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kind Eyes, We Weren't Invited, Unvow, Terra Vista"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/kind-eyes-we-werent-invited-unvow-terra-vista/",
-    "date": "2025-11-14T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "The Office Drones"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-office-drones/",
@@ -89,17 +81,17 @@
   },
   {
     "artist": [
-      "SUB:SONIC w/ THE WIDDLER"
+      "The Widdler"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
     "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
     "artist": [
-      "The Widdler"
+      "SUB:SONIC w/ THE WIDDLER"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
     "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },

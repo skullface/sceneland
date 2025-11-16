@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Lake Erie Emo Club Presents: EMO Market"
-    ],
-    "link": "https://www.ticketweb.com/event/lake-erie-emo-club-presents-the-winchester-tickets/14674443",
-    "date": "2025-11-15T13:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "smith."
-    ],
-    "link": "https://www.ticketweb.com/event/smith-the-winchester-tickets/14602673",
-    "date": "2025-11-15T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Laid Back Country Picker"
     ],
     "link": "https://www.ticketweb.com/event/laid-back-country-picker-the-winchester-tickets/14581573",
@@ -61,6 +45,14 @@
     ],
     "link": "https://www.ticketweb.com/event/dark-wave-dance-cave-the-winchester-tickets/14675373",
     "date": "2025-11-22T21:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Brother Dusty & ratplay"
+    ],
+    "link": "https://www.ticketweb.com/event/brother-dusty-ratplay-the-winchester-tickets/14697433",
+    "date": "2025-11-23T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -121,6 +113,14 @@
   },
   {
     "artist": [
+      "Feliz Navi-Ska!, Hogans Last Smash!, Sabon, & Nite Klub"
+    ],
+    "link": "https://www.ticketweb.com/event/feliz-navi-ska-w-hogans-the-winchester-tickets/14697503",
+    "date": "2025-12-05T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Chest Fever Presents: A Musical Tribute to The Last Waltz"
     ],
     "link": "https://www.ticketweb.com/event/chest-fever-presents-a-musical-the-winchester-tickets/13884234",
@@ -177,6 +177,14 @@
   },
   {
     "artist": [
+      "STEPDADS OF GALWAY PRESENTS SECOND CHRISTMAS"
+    ],
+    "link": "https://www.ticketweb.com/event/stepdads-of-galway-presents-second-the-winchester-tickets/14697463",
+    "date": "2025-12-27T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Ordinary World \u2013 Duran Duran Tribute"
     ],
     "link": "https://www.ticketweb.com/event/ordinary-world-duran-the-winchester-tickets/14644743",
@@ -221,14 +229,6 @@
     ],
     "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
     "date": "2026-02-12T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Emo Night Karaoke"
-    ],
-    "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
-    "date": "2026-02-20T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

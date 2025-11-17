@@ -105,22 +105,6 @@
   },
   {
     "artist": [
-      "Anthony Gomes"
-    ],
-    "link": "https://www.ticketweb.com/event/anthony-gomes-the-winchester-tickets/13951584",
-    "date": "2025-12-04T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Feliz Navi-Ska!, Hogans Last Smash!, Sabon, & Nite Klub"
-    ],
-    "link": "https://www.ticketweb.com/event/feliz-navi-ska-w-hogans-the-winchester-tickets/14697503",
-    "date": "2025-12-05T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Chest Fever Presents: A Musical Tribute to The Last Waltz"
     ],
     "link": "https://www.ticketweb.com/event/chest-fever-presents-a-musical-the-winchester-tickets/13884234",
@@ -229,6 +213,14 @@
     ],
     "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
     "date": "2026-02-12T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Emo Night Karaoke"
+    ],
+    "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
+    "date": "2026-02-20T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

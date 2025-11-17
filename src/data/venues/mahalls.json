@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mahall's Mystery Movie and Trivia night"
-    ],
-    "link": "https://dice.fm/event/69110dd9bed2980001e17818",
-    "date": "2025-11-16T18:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "*VENUE UPGRADE* Saturdays At Your Place - These Things Happen Tour"
     ],
     "link": "https://dice.fm/event/685afa962cfa69000140d539",
@@ -197,6 +189,14 @@
     ],
     "link": "https://dice.fm/event/68f00953036e2500011e26d9",
     "date": "2025-12-19T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "People in the Daytime"
+    ],
+    "link": "https://dice.fm/event/691a399a2d3b0600012e9959",
+    "date": "2025-12-20T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

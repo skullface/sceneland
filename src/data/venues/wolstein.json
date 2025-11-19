@@ -9,6 +9,14 @@
   },
   {
     "artist": [
+      "CSU Womens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
+    "date": "2025-12-16T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Cleveland Crunch"
     ],
     "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
@@ -37,6 +45,14 @@
     ],
     "link": "https://www.wolsteincenter.com/event/winter-jam-26/",
     "date": "2026-03-27T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Boys 4 Life Tour featuring B2K & Bow Wow with Jeremih, Waka Flocka, Amerie, and more!"
+    ],
+    "link": "https://www.wolsteincenter.com/event/boys-4-life-tour-featuring-b2k-bow-wow-with-jeremih-waka-flocka-amerie-and-more/",
+    "date": "2026-04-17T00:00:01",
     "venue": "Wolstein Center"
   }
 ]

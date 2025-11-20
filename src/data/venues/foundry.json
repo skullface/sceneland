@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Book Banter Brigade"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade/",
-    "date": "2025-11-18T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Flaw, Groundstate, Wasted Society"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/flaw/",
-    "date": "2025-11-19T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "TRANSGENDER DAY OF REMEMBERANCE"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/transgender-day-of-rememberance/",
@@ -101,6 +85,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/king-mala-dezi/",
     "date": "2025-12-06T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "UNSETTLED HELL/MAS 2025"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/unsettled-hell-mas-2025/",
+    "date": "2025-12-12T19:00:00",
     "venue": "Foundry"
   },
   {

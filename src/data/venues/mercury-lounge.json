@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "GNO The Show"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/gno-the-show/",
-    "date": "2025-11-18T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Grateful Dead Night \u2013 W/ Sunshine Daydream"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/grateful-dead-night-w-sunshine-daydream-2/",
@@ -73,10 +65,34 @@
   },
   {
     "artist": [
+      "SUB:SONIC w/ THE WIDDLER"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
+    "date": "2025-12-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "The Widdler"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
+    "date": "2025-12-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "HOSTAGE SITUATION"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
     "date": "2025-12-13T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "CLOCKWORK"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/clockwork/",
+    "date": "2025-12-19T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

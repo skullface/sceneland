@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Signal Cle presents: Classical Revolution!"
-    ],
-    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-november-19-2025-628443",
-    "date": "2025-11-19T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "XCSB DJ Happy Hour!"
     ],
     "link": "https://app.opendate.io/e/xcsb-dj-happy-hour-november-21-2025-635824",
@@ -73,6 +65,14 @@
   },
   {
     "artist": [
+      "Mr. Moser's Neighborhood: The Intersection of Cleveland and Vaudeville - in the Underdog!"
+    ],
+    "link": "https://app.opendate.io/e/mr-moser-s-neighborhood-the-intersection-of-cleveland-and-vaudeville-in-the-underdog-december-02-2025-645377",
+    "date": "2025-12-02T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "City Club of Cleveland presents: Happy Dog Takes on Everything - Special Thursday Edition!"
     ],
     "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-special-thursday-edition-december-04-2025-633086",
@@ -121,6 +121,14 @@
   },
   {
     "artist": [
+      "Rhythms of Resistance w/ Retro Pharaoh, Fuchsia Faraday, Peach Cobbler & Friends, Muamin Collective - presented by Cleveland DSA"
+    ],
+    "link": "https://app.opendate.io/e/rhythms-of-resistance-w-retro-pharaoh-fuchsia-faraday-peach-cobbler-friends-muamin-collective-presented-by-cleveland-dsa-december-13-2025-645382",
+    "date": "2025-12-13T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Signal Cle presents: Classical Revolution!"
     ],
     "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-december-17-2025-635839",
@@ -129,10 +137,34 @@
   },
   {
     "artist": [
+      "False Teeth, Solon, Kid Primitive, Yes Dear"
+    ],
+    "link": "https://app.opendate.io/e/false-teeth-solon-kid-primitive-yes-dear-december-19-2025-645385",
+    "date": "2025-12-19T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Whatever..., Model Martel, FFF"
     ],
     "link": "https://app.opendate.io/e/whatever-model-martel-fff-december-27-2025-635841",
     "date": "2025-12-27T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "High Tolerance EP release w/ Tunnel Vision, Soul Tapes, Atlas T"
+    ],
+    "link": "https://app.opendate.io/e/high-tolerance-ep-release-w-tunnel-vision-soul-tapes-atlas-t-december-30-2025-645394",
+    "date": "2025-12-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Minority Threat, Skwerm, Free Black!"
+    ],
+    "link": "https://app.opendate.io/e/minority-threat-skwerm-free-black-january-03-2026-645399",
+    "date": "2026-01-03T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -149,6 +181,22 @@
     ],
     "link": "https://app.opendate.io/e/the-alarm-clocks-january-16-2026-638405",
     "date": "2026-01-16T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Samuel S.C., Continuals, Wrong Places, Non Bruises"
+    ],
+    "link": "https://app.opendate.io/e/samuel-s-c-continuals-wrong-places-non-bruises-january-18-2026-645402",
+    "date": "2026-01-18T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Signal Cle presents: Classical Revolution!"
+    ],
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-january-21-2026-645406",
+    "date": "2026-01-21T00:00:01",
     "venue": "Happy Dog"
   }
 ]

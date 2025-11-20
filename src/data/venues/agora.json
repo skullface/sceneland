@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jose Gonz\u00e1lez"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/866782",
-    "date": "2025-11-19T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Blue Oyster Cult, The Rick Ray Band"
     ],
     "link": "https://www.agoracleveland.com/events/detail/979102",
@@ -133,6 +125,22 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1162796",
     "date": "2026-03-04T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Music of the Lord of the Rings"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1231098",
+    "date": "2026-03-05T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Music of Hans Zimmer & Others"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1231097",
+    "date": "2026-03-05T18:00:00",
     "venue": "Agora"
   },
   {

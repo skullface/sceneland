@@ -1,25 +1,6 @@
 [
   {
     "artist": [
-      "Bartees Strange",
-      "Dizygotic Energy",
-      "VIAA"
-    ],
-    "link": "https://grogshop.gs/tm-event/bartees-strange/",
-    "date": "2025-11-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Etana",
-      "Ms BBC & Queens"
-    ],
-    "link": "https://grogshop.gs/tm-event/etana/",
-    "date": "2025-11-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Universe of Battle Tour: Nick Shoulders",
       "Clover-Lynn",
       "DJ Frank the Drifter"
@@ -434,6 +415,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/elise-trouw-presents-the-diary-of-elon-lust-tour/",
     "date": "2026-02-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Dave Hause and The Mermaid",
+      "Myth And Company"
+    ],
+    "link": "https://grogshop.gs/tm-event/dave-hause-and-the-mermaid-myth-and-company/",
+    "date": "2026-02-21",
     "venue": "Grog Shop"
   },
   {

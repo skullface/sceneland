@@ -17,7 +17,7 @@
   },
   {
     "artist": [
-      "MINDSET & G-SPACE"
+      "G-SPACE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/mindset-g-space/",
     "date": "2025-11-22T00:00:01",
@@ -77,14 +77,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
     "date": "2025-12-12T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "HOSTAGE SITUATION"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
-    "date": "2025-12-13T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -173,6 +165,22 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dry-kill-logic-dizasterpiece/",
     "date": "2025-05-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Powerman 5000, 12 Stones, Makes My Blood Dance"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/powerman-5000-12-stones-makes-my-blood-dance/",
+    "date": "2025-05-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "DEAD BY DAWG: VOLUME II"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/dead-by-dawg-volume-ii/",
+    "date": "2025-08-01T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Universe of Battle Tour: Nick Shoulders",
-      "Clover-Lynn",
-      "DJ Frank the Drifter"
-    ],
-    "link": "https://grogshop.gs/tm-event/universe-of-battle-tour-nick-shoulders/",
-    "date": "2025-11-20",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Potholderz Only Live FT. Swank",
       "10$tacks",
       "E.Side4",
@@ -311,6 +301,15 @@
   },
   {
     "artist": [
+      "Dave Hill",
+      "Joe Briggs"
+    ],
+    "link": "https://grogshop.gs/tm-event/dave-hill-joe-briggs/",
+    "date": "2025-12-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Holiday Vibes",
       "Vibe & Direct and Nate Yingling Trio",
       "Nate Yingling Trio"
@@ -357,6 +356,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/the-dead-milkmen-pal/",
     "date": "2026-01-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Dead Milkmen"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-dead-milkmen/",
+    "date": "2026-01-11",
     "venue": "Grog Shop"
   },
   {

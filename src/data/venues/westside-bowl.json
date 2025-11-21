@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Frantic Nancys, Daisypusher, Misunderstood"
-    ],
-    "link": "https://www.eventbrite.com/e/the-frantic-nancysdaisypushermisunderstood-tickets-1873809567859",
-    "date": "2025-11-20T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Riley Burke Band, Jack & The Optimists"
     ],
     "link": "https://www.eventbrite.com/e/riley-burke-bandjack-the-optimists-tickets-1963632832662",
@@ -245,6 +237,14 @@
     ],
     "link": "https://www.eventbrite.com/e/last-train-to-ozzedward-be-thy-name-tickets-1909018879859",
     "date": "2025-02-21T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Polkamaniacs"
+    ],
+    "link": "https://www.eventbrite.com/e/the-polkamaniacs-tickets-1974984443636",
+    "date": "2025-02-28T00:00:01",
     "venue": "Westside Bowl"
   },
   {

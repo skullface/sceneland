@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-11-17-25",
-    "date": "2025-11-17T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-11-19-25",
-    "date": "2025-11-19T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "ISAIAH LINDER"
     ],
     "link": "https://noclasscle.com/events/isaiah-linder-cherry-high-tolerance",
@@ -89,6 +73,14 @@
   },
   {
     "artist": [
+      "KNOTWORK"
+    ],
+    "link": "https://noclasscle.com/events/knotwork",
+    "date": "2025-12-13T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "CASTRATOR"
     ],
     "link": "https://noclasscle.com/events/castrator",
@@ -101,6 +93,14 @@
     ],
     "link": "https://noclasscle.com/events/gutting-limerence-secret-historian",
     "date": "2026-01-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "REGURGITATION"
+    ],
+    "link": "https://noclasscle.com/events/regurgitation-1-24-26",
+    "date": "2026-01-24T00:00:01",
     "venue": "No Class"
   },
   {

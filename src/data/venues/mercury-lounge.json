@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Grateful Dead Night \u2013 W/ Sunshine Daydream"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/grateful-dead-night-w-sunshine-daydream-2/",
-    "date": "2025-11-20T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "CYCLOPS PRESENTS \"THE EYE SPY TOUR\""
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/cyclops-presents-the-eye-spy-tour/",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
     "date": "2025-12-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "HOSTAGE SITUATION"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
+    "date": "2025-12-13T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

@@ -97,14 +97,6 @@
   },
   {
     "artist": [
-      "Nocturnal"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
-    "date": "2025-12-13T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Book Banter Brigade: Holiday Edition"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade-holiday-edition/",
@@ -125,6 +117,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/crucigen-nightdrive-death-exhale-demise-eve/",
     "date": "2026-01-10T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Josey Scott, Priscilla"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/josey-scott-priscilla/",
+    "date": "2026-01-24T19:00:00",
     "venue": "Foundry"
   },
   {

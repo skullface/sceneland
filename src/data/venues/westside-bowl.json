@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Gutter Jamz Music Festival"
-    ],
-    "link": "https://www.eventbrite.com/e/gutter-jamz-music-festival-tickets-1772705753629",
-    "date": "2025-11-22T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Pj Bozac  Album Release Show"
     ],
     "link": "https://www.eventbrite.com/e/pj-bozac-album-release-show-tickets-1798594808489",
@@ -100,6 +92,14 @@
       "Glass Monarch, Gas Station Lullabies, Suboxin"
     ],
     "link": "https://www.eventbrite.com/e/glass-monarchgas-station-lullabiessuboxin-tickets-1669491226199",
+    "date": "2025-12-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Junks, Forced Happiness, Meat Dept"
+    ],
+    "link": "https://www.eventbrite.com/e/the-junksforced-happinessmeat-dept-tickets-1975194449770",
     "date": "2025-12-12T00:00:01",
     "venue": "Westside Bowl"
   },

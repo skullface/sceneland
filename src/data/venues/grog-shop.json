@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Apostle Jones",
-      "Brother Dusty",
-      "Dave Zup"
-    ],
-    "link": "https://grogshop.gs/tm-event/apostle-jones-brother-dusty-tba/",
-    "date": "2025-11-24",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "ACO: A Tribute to Rob Williams"
     ],
     "link": "https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/",
@@ -56,6 +46,8 @@
   {
     "artist": [
       "Immortal Technique",
+      "Poison Pen",
+      "DJ Static",
       "Professor Peerless & Mike Strive",
       "MuAmin Collective",
       "JetSet2one6",
@@ -97,7 +89,7 @@
     "artist": [
       "Mihalidaze",
       "Dale and the ZDubs",
-      "C-Level"
+      "Ziggy D of C-level"
     ],
     "link": "https://grogshop.gs/tm-event/mihalidaze/",
     "date": "2025-12-06",

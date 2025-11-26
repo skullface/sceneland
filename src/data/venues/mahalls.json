@@ -1,17 +1,10 @@
 [
   {
     "artist": [
-      "Noah Gundersen"
-    ],
-    "link": "https://dice.fm/event/68c4778d86b0cd0001523e48",
-    "date": "2025-11-25T19:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Dying Wish"
     ],
     "link": "https://dice.fm/event/688a2f93d35eb50001a405d7",
+    "sold_out": true,
     "date": "2025-11-26T17:30:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
   },

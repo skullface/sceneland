@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ACO: A Tribute to Rob Williams"
-    ],
-    "link": "https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams-2/",
-    "date": "2025-11-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "PORTUGAL. THE MAN: Lords of Portland Tour",
       "La Luz"
     ],
@@ -89,7 +81,7 @@
     "artist": [
       "Mihalidaze",
       "Dale and the ZDubs",
-      "Ziggy D of C-level"
+      "Ziggy D of C-Level"
     ],
     "link": "https://grogshop.gs/tm-event/mihalidaze/",
     "date": "2025-12-06",
@@ -211,6 +203,17 @@
   },
   {
     "artist": [
+      "Tropidelic (Acoustic): Holiday Charity Show",
+      "Special Guests",
+      "Benny Coleman (from The Quasi Kings)",
+      "Mixed Feelings"
+    ],
+    "link": "https://grogshop.gs/tm-event/tropidelic-acoustic-holiday-charity-show-w-special-guests/",
+    "date": "2025-12-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Oy Vey! Another Jesse Jukebox Holiday Show",
       "DJ Terkey Sandwich"
     ],
@@ -247,6 +250,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/jinari-kmets-birthday-fest/",
     "date": "2025-12-23",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Christmas Night with NicX at The Grog Shop",
+      "Slump"
+    ],
+    "link": "https://grogshop.gs/tm-event/christmas-night-with-nicx-at-the-grog-shop/",
+    "date": "2025-12-25",
     "venue": "Grog Shop"
   },
   {
@@ -310,7 +322,8 @@
   },
   {
     "artist": [
-      "The Dead Milkmen"
+      "The Dead Milkmen",
+      "PAL"
     ],
     "link": "https://grogshop.gs/tm-event/the-dead-milkmen/",
     "date": "2026-01-11",
@@ -318,7 +331,7 @@
   },
   {
     "artist": [
-      "DAMNAGEKIDS & Friends",
+      "DAMNAGEDKIDS & Friends",
       "KHR",
       "Ctrl room",
       "Kamakazi Boys",
@@ -334,6 +347,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/the-truman-show-album-release-spazzplot/",
     "date": "2026-01-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Westside Live",
+      "Westside Productions"
+    ],
+    "link": "https://grogshop.gs/tm-event/westside-live/",
+    "date": "2026-01-22",
     "venue": "Grog Shop"
   },
   {

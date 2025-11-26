@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Krisiun, Abysmal Dawn, Pyrexia, Gorgatron"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/krisiun-abysmal-dawn-pyrexia-gorgatron/",
-    "date": "2025-11-25T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Veil of Crimson"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/veil-of-crimson/",
@@ -85,6 +77,30 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/primitive-man-buffalo-nichols-great-falls-god-is-war/",
     "date": "2025-12-19T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "HAPPY HYLADAYS"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/happy-hyladays/",
+    "date": "2025-12-20T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "ANIME POP NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night/",
+    "date": "2025-12-26T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "ANIME POP NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-3/",
+    "date": "2025-12-26T20:00:00",
     "venue": "Foundry"
   },
   {

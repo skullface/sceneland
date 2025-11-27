@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "PORTUGAL. THE MAN: Lords of Portland Tour",
-      "La Luz"
-    ],
-    "link": "https://grogshop.gs/tm-event/portugal-the-man-la-luz/",
-    "date": "2025-11-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Shit Show Karaoke : Holiday Hangover ft. Mikey Silas"
     ],
     "link": "https://grogshop.gs/tm-event/shit-show-karaoke-holiday-hangover-ft-mikey-silas/",
@@ -146,6 +137,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/conner-omalley-comedic-humor-tour-3/",
     "date": "2025-12-12",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Coventry Village Winter Wonder & Lantern Fest"
+    ],
+    "link": "https://grogshop.gs/tm-event/coventry-village-winter-wonder-lantern-fest/",
+    "date": "2025-12-13",
     "venue": "Grog Shop"
   },
   {

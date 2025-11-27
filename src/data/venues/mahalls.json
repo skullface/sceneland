@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Dying Wish"
-    ],
-    "link": "https://dice.fm/event/688a2f93d35eb50001a405d7",
-    "sold_out": true,
-    "date": "2025-11-26T17:30:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Atomic Witch"
     ],
     "link": "https://dice.fm/event/68e90c3994079400016d2753",
@@ -110,6 +101,14 @@
     ],
     "link": "https://dice.fm/event/690e3898bed711000170f65a",
     "date": "2025-12-12T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Christkindlmarket"
+    ],
+    "link": "https://dice.fm/event/69274b04b4856100015a74e8",
+    "date": "2025-12-13T11:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

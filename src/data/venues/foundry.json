@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Small Business Saturday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/small-business-saturday/",
-    "date": "2025-11-29T10:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "HARDCORE AGAINST EPILEPSY"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/hardcore-against-epilepsy/",
-    "date": "2025-11-29T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Weird Wonderland \u2013 A Dark Holiday Market"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/weird-wonderland-a-dark-holiday-market/",
@@ -83,7 +67,7 @@
     "artist": [
       "ANIME POP NIGHT"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night/",
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-3/",
     "date": "2025-12-26T20:00:00",
     "venue": "Foundry"
   },
@@ -91,7 +75,7 @@
     "artist": [
       "ANIME POP NIGHT"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-3/",
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night/",
     "date": "2025-12-26T20:00:00",
     "venue": "Foundry"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Brenden Starr, Heads Or Tails Experience, Sugar Hysteria, Yellow No. 5"
-    ],
-    "link": "https://www.eventbrite.com/e/brenden-starrheads-or-tails-experiencesugar-hysteriayellow-no-5-tickets-1732386216809",
-    "date": "2025-11-30T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Paperback Tragedy, Gatlin, Worn Out Hearts"
     ],
     "link": "https://www.eventbrite.com/e/paperback-tragedygatlinworn-out-hearts-tickets-1744206952949",
@@ -61,6 +53,14 @@
     ],
     "link": "https://www.eventbrite.com/e/telekinetic-yetithunderchief-tickets-1963636001139",
     "date": "2025-12-09T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Slugg, Meat Dept, Ken Frost, Jim Gnostic"
+    ],
+    "link": "https://www.eventbrite.com/e/sluggmeat-deptken-frostjim-gnostic-tickets-1976427006380",
+    "date": "2025-12-11T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -213,6 +213,14 @@
     ],
     "link": "https://www.eventbrite.com/e/featherweightdaydreamerframeshifterbrick-caster-tickets-1804212571369",
     "date": "2025-02-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Moth Cock, R6 Complex;; Golden Ray Implant, Meat Dept, JimGnostic"
+    ],
+    "link": "https://www.eventbrite.com/e/moth-cockr6-complex-golden-ray-implantmeat-deptjimgnostic-tickets-1976427748600",
+    "date": "2025-02-13T00:00:01",
     "venue": "Westside Bowl"
   },
   {

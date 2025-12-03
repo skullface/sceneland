@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mr. Moser's Neighborhood: The Intersection of Cleveland and Vaudeville - in the Underdog!"
-    ],
-    "link": "https://app.opendate.io/e/mr-moser-s-neighborhood-the-intersection-of-cleveland-and-vaudeville-in-the-underdog-december-02-2025-645377",
-    "date": "2025-12-02T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "City Club of Cleveland presents: Happy Dog Takes on Everything - Special Thursday Edition!"
     ],
     "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-special-thursday-edition-december-04-2025-633086",
@@ -57,10 +49,34 @@
   },
   {
     "artist": [
-      "False Teeth, Solon, Kid Primitive, Yes Dear"
+      "False Teeth & the Dog Funk All-Stars, Solon, Kid Primitive, Yes Dear"
     ],
-    "link": "https://app.opendate.io/e/false-teeth-solon-kid-primitive-yes-dear-december-19-2025-645385",
+    "link": "https://app.opendate.io/e/false-teeth-the-dog-funk-all-stars-solon-kid-primitive-yes-dear-december-19-2025-645385",
     "date": "2025-12-19T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "PAL Xmas w/ Cheap Clone, H8 Mile"
+    ],
+    "link": "https://app.opendate.io/e/pal-xmas-w-cheap-clone-h8-mile-december-20-2025-648419",
+    "date": "2025-12-20T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "V4 by Blame - Double Feature Screening!"
+    ],
+    "link": "https://app.opendate.io/e/v4-by-blame-double-feature-screening-december-26-2025-648425",
+    "date": "2025-12-26T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Undercurrent - House, Techno, Electro w/ DJs Quiet Pack & Buffy - in the Underdog!"
+    ],
+    "link": "https://app.opendate.io/e/undercurrent-house-techno-electro-w-djs-quiet-pack-buffy-in-the-underdog-december-26-2025-648332",
+    "date": "2025-12-26T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -85,6 +101,14 @@
     ],
     "link": "https://app.opendate.io/e/minority-threat-skwerm-free-black-january-03-2026-645399",
     "date": "2026-01-03T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Stix Quintet, Abstract Sounds, Black Voltron"
+    ],
+    "link": "https://app.opendate.io/e/the-stix-quintet-abstract-sounds-black-voltron-january-09-2026-648345",
+    "date": "2026-01-09T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -115,8 +139,24 @@
     "artist": [
       "Signal Cle presents: Classical Revolution!"
     ],
-    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-january-21-2026-645406",
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-january-21-2026-648354",
     "date": "2026-01-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Buffalo Ryders, Trash Mountain, Silicon Death Ray"
+    ],
+    "link": "https://app.opendate.io/e/the-buffalo-ryders-trash-mountain-silicon-death-ray-january-24-2026-648355",
+    "date": "2026-01-24T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Boys from the County Hell - Winter Warmup!"
+    ],
+    "link": "https://app.opendate.io/e/the-boys-from-the-county-hell-winter-warmup-february-13-2026-648360",
+    "date": "2026-02-13T00:00:01",
     "venue": "Happy Dog"
   }
 ]

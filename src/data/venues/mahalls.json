@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Counter Intuitive Records 10 Year Anniversary Tour"
-    ],
-    "link": "https://dice.fm/event/68d2b0b8c751b20001c7fdfa",
-    "date": "2025-12-02T16:00:00-05:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
-      "The Heavy Heavy"
-    ],
-    "link": "https://dice.fm/event/68bf04be908ebd00014317a9",
-    "date": "2025-12-02T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Mention it all: Bravo watch party"
     ],
     "link": "https://dice.fm/event/6924be425e5aeb0001d244c2",
@@ -314,6 +298,14 @@
   },
   {
     "artist": [
+      "Ben Quad: Wisher Album Release Tour"
+    ],
+    "link": "https://dice.fm/event/692470b615ed660001fc1acf",
+    "date": "2026-03-18T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Quarters"
     ],
     "link": "https://dice.fm/event/690baa8adeb4f800019d0b73",
@@ -358,6 +350,14 @@
     ],
     "link": "https://dice.fm/event/68f68c3b252ed20001ecf082",
     "date": "2026-04-18T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Field Medic"
+    ],
+    "link": "https://dice.fm/event/69209b8af7015800017070e1",
+    "date": "2026-04-23T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

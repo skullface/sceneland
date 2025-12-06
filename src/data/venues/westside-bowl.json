@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Brake Fluid, Blissen , Negative Zen , Skyrail"
-    ],
-    "link": "https://www.eventbrite.com/e/brake-fluidblissen-negative-zen-skyrail-tickets-1596252737909",
-    "date": "2025-12-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Soul at the Bowl II"
-    ],
-    "link": "https://www.eventbrite.com/e/soul-at-the-bowl-ii-tickets-1975253865484",
-    "date": "2025-12-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Westside Bowl Unplugged: Winter Acoustics"
     ],
     "link": "https://www.eventbrite.com/e/westside-bowl-unplugged-winter-acoustics-tickets-1804314626619",
@@ -269,6 +253,14 @@
     ],
     "link": "https://www.eventbrite.com/e/blackwater-holylightsomrebreather-tickets-1942431016459",
     "date": "2025-03-02T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "PAWZ Fest 2026"
+    ],
+    "link": "https://www.eventbrite.com/e/pawz-fest-2026-tickets-1976960537185",
+    "date": "2025-03-07T00:00:01",
     "venue": "Westside Bowl"
   },
   {

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Westside Bowl Unplugged: Winter Acoustics"
-    ],
-    "link": "https://www.eventbrite.com/e/westside-bowl-unplugged-winter-acoustics-tickets-1804314626619",
-    "date": "2025-12-06T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Radio Lark & Friends with The Silver Lark Quartet"
-    ],
-    "link": "https://www.eventbrite.com/e/radio-lark-friends-with-the-silver-lark-quartet-tickets-1797224269169",
-    "date": "2025-12-06T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Pretty Boy Floyd"
     ],
     "link": "https://www.eventbrite.com/e/pretty-boy-floyd-tickets-1971336288907",
@@ -153,9 +137,9 @@
   },
   {
     "artist": [
-      "MAXILLA, Outrun Infinity, Velo City"
+      "MAXILLA, Outrun Infinity, The Mistakes"
     ],
-    "link": "https://www.eventbrite.com/e/maxillaoutrun-infinityvelo-city-tickets-1976673115499",
+    "link": "https://www.eventbrite.com/e/maxillaoutrun-infinitythe-mistakes-tickets-1976673115499",
     "date": "2025-01-09T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -249,6 +233,14 @@
   },
   {
     "artist": [
+      "Ace Hood \u201cThe Born Rebel Tour\u201d with Duke Deuce and Dizzy Wright"
+    ],
+    "link": "https://www.eventbrite.com/e/ace-hood-the-born-rebel-tour-with-duke-deuce-and-dizzy-wright-tickets-1977084238178",
+    "date": "2025-03-01T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Blackwater Holylight, SOM, rebreather"
     ],
     "link": "https://www.eventbrite.com/e/blackwater-holylightsomrebreather-tickets-1942431016459",
@@ -285,6 +277,14 @@
     ],
     "link": "https://www.eventbrite.com/e/third-classbitter-alms-tickets-1874092965509",
     "date": "2025-04-04T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Carbon Leaf\u2019s \u2018I WANT TO BE LEAF\u2019 Tour 2026"
+    ],
+    "link": "https://www.eventbrite.com/e/carbon-leafs-i-want-to-be-leaf-tour-2026-tickets-1976669652140",
+    "date": "2025-04-12T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

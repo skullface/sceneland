@@ -1,10 +1,18 @@
 [
   {
     "artist": [
-      "ROCK THE RIBBON 3"
+      "TWERK CLASS"
     ],
-    "link": "https://noclasscle.com/events/rock-the-ribbon-3",
-    "date": "2025-12-06T00:00:01",
+    "link": "https://noclasscle.com/events/twerk-class",
+    "date": "2025-12-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "PRINCESS LOVE"
+    ],
+    "link": "https://noclasscle.com/events/princess-love-due-by-midnight",
+    "date": "2025-12-12T00:00:01",
     "venue": "No Class"
   },
   {
@@ -17,10 +25,58 @@
   },
   {
     "artist": [
+      "SINGLES NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/singles-night-12-18-25",
+    "date": "2025-12-18T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "CASTRATOR"
     ],
     "link": "https://noclasscle.com/events/castrator",
     "date": "2025-12-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BEV RAGE & THE DRINKS"
+    ],
+    "link": "https://noclasscle.com/events/bev-rage-the-drinks",
+    "date": "2025-12-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SHITMAS EVE"
+    ],
+    "link": "https://noclasscle.com/events/12-24-25",
+    "date": "2025-12-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SHITMAS DAY"
+    ],
+    "link": "https://noclasscle.com/events/12-25-25",
+    "date": "2025-12-25T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HOLIDAY BANGOVER"
+    ],
+    "link": "https://noclasscle.com/events/holiday-bangover-12-26-25",
+    "date": "2025-12-26T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BERGHAIN'T"
+    ],
+    "link": "https://noclasscle.com/events/berghaint-12-27-25",
+    "date": "2025-12-27T00:00:01",
     "venue": "No Class"
   },
   {

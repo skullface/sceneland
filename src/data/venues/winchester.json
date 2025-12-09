@@ -1,10 +1,26 @@
 [
   {
     "artist": [
+      "BOOZY BINGO (SOPHIA\u2019S BIRTHDAY)"
+    ],
+    "link": "https://www.ticketweb.com/event/boozy-bingo-sophias-birthday-the-winchester-tickets/13982064",
+    "date": "2025-12-10T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "The Ohio City Singers"
     ],
     "link": "https://www.ticketweb.com/event/the-ohio-city-singers-the-winchester-tickets/14672253",
     "date": "2025-12-12T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Northeast Ohio Vinyl Club Christmas Record Swap"
+    ],
+    "link": "https://www.ticketweb.com/event/northeast-ohio-vinyl-club-christmas-the-winchester-tickets/13982984",
+    "date": "2025-12-13T11:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -29,6 +45,14 @@
     ],
     "link": "https://www.ticketweb.com/event/brady-lorince-w-esoteria-the-winchester-tickets/14583243",
     "date": "2025-12-14T18:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Sunshine Daydream Trio"
+    ],
+    "link": "https://www.ticketweb.com/event/sunshine-daydream-trio-the-winchester-tickets/13984704",
+    "date": "2025-12-18T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -157,38 +181,6 @@
     ],
     "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
     "date": "2026-02-12T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Emo Night Karaoke"
-    ],
-    "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
-    "date": "2026-02-20T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Silver Springs \u2013 A Fleetwood Mac Experience"
-    ],
-    "link": "https://www.ticketweb.com/event/silver-springs-a-the-winchester-tickets/13976204",
-    "date": "2026-02-28T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Trace Bundy"
-    ],
-    "link": "https://www.ticketweb.com/event/trace-bundy-the-winchester-tickets/13976884",
-    "date": "2026-03-05T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Sponge"
-    ],
-    "link": "https://www.ticketweb.com/event/sponge-the-winchester-tickets/13975214",
-    "date": "2026-03-07T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

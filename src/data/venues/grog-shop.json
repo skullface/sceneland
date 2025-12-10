@@ -244,6 +244,17 @@
   },
   {
     "artist": [
+      "Pop Punk Benefit for the Greater Cleveland Food Bank at Grog Shop!",
+      "Molly O'Malley",
+      "Plum Shed",
+      "Homedays"
+    ],
+    "link": "https://grogshop.gs/tm-event/pop-punk-benefit-for-the-greater-cleveland-food-bank-at-grog-shop/",
+    "date": "2026-01-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "DAMNAGEDKIDS & Friends",
       "KHR",
       "Ctrl room",
@@ -310,12 +321,29 @@
   },
   {
     "artist": [
+      "LAUNDRY DAY: The Time of Your Life Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/laundry-day-the-time-of-your-life-tour/",
+    "date": "2026-02-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Koffin Kats",
       "Playboy Manbaby",
       "Carrie Nation and the Speakeasy"
     ],
     "link": "https://grogshop.gs/tm-event/koffin-kats-playboy-manbaby-carrie-nation-and-the-speakeasy/",
     "date": "2026-02-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Mike Polk Jr. & John Skrtic present \"Cleveland Romance History\"",
+      "John Skrtic"
+    ],
+    "link": "https://grogshop.gs/tm-event/mike-polk-jr-john-skrtic-present-cleveland-romance-history/",
+    "date": "2026-02-11",
     "venue": "Grog Shop"
   },
   {
@@ -378,7 +406,9 @@
   },
   {
     "artist": [
-      "Spiritual Cramp"
+      "Spiritual Cramp",
+      "GUV",
+      "Imploders"
     ],
     "link": "https://grogshop.gs/tm-event/spiritual-cramp/",
     "date": "2026-03-07",
@@ -437,6 +467,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/nothing-full-body-2-cryogeyser-vmo-violent-magic-orchestra/",
     "date": "2026-03-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Nick Hexum with Water Tower",
+      "Water Tower"
+    ],
+    "link": "https://grogshop.gs/tm-event/nick-hexum-with-water-tower/",
+    "date": "2026-03-31",
     "venue": "Grog Shop"
   },
   {

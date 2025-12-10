@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "artist": [
+      "Russell Dickerson, Niko Moon"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1121366",
+    "date": "2026-05-29T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Mt. Joy"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1241396",
+    "date": "2026-06-05T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "The Avett Brothers & Mike Patton present AVTT/PTTN"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1225285",
+    "date": "2026-06-18T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Louis Tomlinson, The Beaches"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1158181",
+    "date": "2026-07-20T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  }
+]

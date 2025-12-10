@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Black Stone Cherry, Them Dirty Roses, Ayron Jones"
-    ],
-    "link": "https://www.axs.com/events/1097062/black-stone-cherry-tickets",
-    "date": "2025-12-09T19:30:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Protomartyr, 10 Years of The Agent Intellect, Autopolitan"
     ],
     "link": "https://www.axs.com/events/1188849/protomartyr-tickets",
@@ -45,6 +37,14 @@
     ],
     "link": "https://www.axs.com/events/1075938/the-infamous-stringdusters-tickets",
     "date": "2026-01-28T19:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Bumpin Uglies, (AT BEACHLAND BALLROOM) with Land of Panda and Sandwich Boiz"
+    ],
+    "link": "https://www.axs.com/events/1183919/bumpin-uglies-tickets",
+    "date": "2026-01-30T20:00:00",
     "venue": "Globe Iron"
   },
   {

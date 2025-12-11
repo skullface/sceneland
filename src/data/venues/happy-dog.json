@@ -97,9 +97,9 @@
   },
   {
     "artist": [
-      "Diet Smiles, Mourning After, Fed Smoker - an EMB Booking Production"
+      "Diet Smiles, Mourning After, Fed Smoker"
     ],
-    "link": "https://app.opendate.io/e/diet-smiles-mourning-after-fed-smoker-an-emb-booking-production-january-10-2026-638406",
+    "link": "https://app.opendate.io/e/diet-smiles-mourning-after-fed-smoker-january-10-2026-649956",
     "date": "2026-01-10T00:00:01",
     "venue": "Happy Dog"
   },
@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "Full 90 - A Night of Irish Music!"
+    ],
+    "link": "https://app.opendate.io/e/full-90-a-night-of-irish-music-january-23-2026-649950",
+    "date": "2026-01-23T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "The Buffalo Ryders, Trash Mountain, Silicon Death Ray"
     ],
     "link": "https://app.opendate.io/e/the-buffalo-ryders-trash-mountain-silicon-death-ray-january-24-2026-648355",
@@ -137,10 +145,34 @@
   },
   {
     "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-february-04-2026-649954",
+    "date": "2026-02-04T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "The Boys from the County Hell - Winter Warmup!"
     ],
     "link": "https://app.opendate.io/e/the-boys-from-the-county-hell-winter-warmup-february-13-2026-648360",
     "date": "2026-02-13T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Mors Arma, Terminus Victor, Saint Fragile"
+    ],
+    "link": "https://app.opendate.io/e/mors-arma-terminus-victor-saint-fragile-february-28-2026-649980",
+    "date": "2026-02-28T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Sensor Ghost, Autopolitan, M.I.T.C.H."
+    ],
+    "link": "https://app.opendate.io/e/sensor-ghost-autopolitan-m-i-t-c-h-march-05-2026-649982",
+    "date": "2026-03-05T00:00:01",
     "venue": "Happy Dog"
   }
 ]

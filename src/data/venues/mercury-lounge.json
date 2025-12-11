@@ -17,17 +17,17 @@
   },
   {
     "artist": [
-      "The Widdler"
+      "SUB:SONIC w/ THE WIDDLER"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
     "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
     "artist": [
-      "SUB:SONIC w/ THE WIDDLER"
+      "The Widdler"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
     "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -65,7 +65,15 @@
   },
   {
     "artist": [
-      "VCTMS, Unhealthy While Unhinged, VRSTY, Fight From Within, Set To Stun, THE BUNNY THE BEAR, Ovtlier, UNSETTLED, The Quantum Vortex, Imperil"
+      "SCREAM QUEENS"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/scream-queens/",
+    "date": "2025-12-27T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "VCTMS, Unhealthy While Unhinged, VRSTY, Fight From Within, Set To Stun, THE BUNNY THE BEAR, Ovtlier, EXITWOUNDS, UNSETTLED, The Quantum Vortex, Imperil"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/vctms-unhealthy-while-unhinged-vrsty-fight-from-within-set-to-stun-the-bunny-the-bear-ovtlier-unsettled-the-quantum-vortex-imperial/",
     "date": "2025-12-31T00:00:01",
@@ -85,22 +93,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/rhymin-n-stealin-the-original-beastie-boys-tribute/",
     "date": "2025-01-17T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Shlump"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/shlump/",
-    "date": "2025-01-24T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "BEGINNER LINE DANCING LESSONS"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons-3/",
-    "date": "2025-02-11T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

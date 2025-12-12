@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "Swamp Rats, Goose Tongue, Death Mattress, DJ Bella Donna"
+      "The Widdler"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/swamp-rats-goose-tongue-death-mattress-dj-bella-donna/",
-    "date": "2025-12-10T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "BEGINNER LINE DANCING LESSONS"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons/",
-    "date": "2025-12-10T00:00:01",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
+    "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -20,14 +12,6 @@
       "SUB:SONIC w/ THE WIDDLER"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/subsonic-w-the-widdler/",
-    "date": "2025-12-12T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "The Widdler"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-widdler/",
     "date": "2025-12-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -97,10 +81,18 @@
   },
   {
     "artist": [
-      "Belphegor, Incantation, Hate, Narcotic Wasteland"
+      "Shlump"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/belphegor-incantation-hate-narcotic-wasteland/",
-    "date": "2025-02-23T00:00:01",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/shlump/",
+    "date": "2025-01-24T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "BEGINNER LINE DANCING LESSONS"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons-3/",
+    "date": "2025-02-11T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -149,6 +141,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dead-by-dawg-volume-ii/",
     "date": "2025-08-01T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "HammerFall \u2013 Freedom World Crusade North America 2026"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/hammerfall-freedom-world-crusade-north-america-2026/",
+    "date": "2025-09-23T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

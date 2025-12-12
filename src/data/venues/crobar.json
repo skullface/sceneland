@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "artist": [
+      "Mark Farina: Stacy Kidd"
+    ],
+    "link": "https://secure.crobar1921.com/event/mark-farina--stacy-kidd",
+    "date": "2025-12-13T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "CJ.: A Second Wind, Deb Hur"
+    ],
+    "link": "https://secure.crobar1921.com/event/cj",
+    "date": "2025-12-26T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Blossom Reynolds, Kevin Bumpers, Joey Sardelle, Innergroove"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf37",
+    "date": "2025-12-27T00:00:01",
+    "venue": "Crobar"
+  }
+]

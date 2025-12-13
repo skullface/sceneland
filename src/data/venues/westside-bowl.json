@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Glass Monarch, Gas Station Lullabies, Suboxin"
-    ],
-    "link": "https://www.eventbrite.com/e/glass-monarchgas-station-lullabiessuboxin-tickets-1669491226199",
-    "date": "2025-12-12T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "The Junks, Forced Happiness, Meat Dept"
-    ],
-    "link": "https://www.eventbrite.com/e/the-junksforced-happinessmeat-dept-tickets-1975194449770",
-    "date": "2025-12-12T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Broke A$$ Comedians"
     ],
     "link": "https://www.eventbrite.com/e/broke-a-comedians-tickets-1909630168239",
@@ -196,6 +180,14 @@
       "Ritual Arcana"
     ],
     "link": "https://www.eventbrite.com/e/ritual-arcana-tickets-1977543496833",
+    "date": "2025-02-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Dixon\u2019s Violin"
+    ],
+    "link": "https://www.eventbrite.com/e/dixons-violin-tickets-1977725481153",
     "date": "2025-02-07T00:00:01",
     "venue": "Westside Bowl"
   },

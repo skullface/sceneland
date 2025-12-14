@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "TWERK CLASS"
-    ],
-    "link": "https://noclasscle.com/events/twerk-class",
-    "date": "2025-12-11T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "PRINCESS LOVE"
-    ],
-    "link": "https://noclasscle.com/events/princess-love-due-by-midnight",
-    "date": "2025-12-12T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "KNOTWORK"
     ],
     "link": "https://noclasscle.com/events/knotwork",
@@ -81,6 +65,14 @@
   },
   {
     "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-12-27-25",
+    "date": "2025-12-27T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "ROCK THE TRAP"
     ],
     "link": "https://noclasscle.com/events/rock-the-trap",
@@ -109,6 +101,14 @@
     ],
     "link": "https://noclasscle.com/events/apes-of-the-state",
     "date": "2026-02-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "JARHEAD FERTILIZER"
+    ],
+    "link": "https://noclasscle.com/events/jarhead-fertilizer-blood-monolith",
+    "date": "2026-03-01T00:00:01",
     "venue": "No Class"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Ugly Sweater Bar Crawl"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/ugly-sweater-bar-crawl/",
-    "date": "2025-12-13T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "HOSTAGE SITUATION"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/hostage-situation/",
-    "date": "2025-12-13T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "CLOCKWORK"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/clockwork/",
@@ -101,6 +85,22 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons-3/",
     "date": "2025-02-11T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Belphegor, Incantation, Hate, Narcotic Wasteland"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/belphegor-incantation-hate-narcotic-wasteland/",
+    "date": "2025-02-23T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "No Resolve \u2014 The Unleashed Tour"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/no-resolve-the-unleashed-tour/",
+    "date": "2025-02-25T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

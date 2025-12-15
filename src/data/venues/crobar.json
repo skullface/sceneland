@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mark Farina: Stacy Kidd"
-    ],
-    "link": "https://secure.crobar1921.com/event/mark-farina--stacy-kidd",
-    "date": "2026-12-13T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "CJ.: A Second Wind, Deb Hur"
     ],
     "link": "https://secure.crobar1921.com/event/cj",
@@ -21,6 +13,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/perf37",
     "date": "2025-12-27T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Anti N.Y.E. N.Y.E. Party: Navy Jayde, Sleazus Christ, Gerad with a G"
+    ],
+    "link": "https://secure.crobar1921.com/event/anti-nye-nye",
+    "date": "2025-12-31T00:00:01",
     "venue": "Crobar"
   }
 ]

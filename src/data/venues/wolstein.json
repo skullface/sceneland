@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CSU Womens Basketball"
-    ],
-    "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
-    "date": "2025-12-16T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
       "CSU Mens Basketball"
     ],
     "link": "https://www.wolsteincenter.com/event/csu-mens-basketball-3/",
@@ -17,10 +9,26 @@
   },
   {
     "artist": [
+      "CSU Womens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
+    "date": "2025-12-29T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Cleveland Crunch"
     ],
     "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
     "date": "2026-01-10T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "R&B Live Tour"
+    ],
+    "link": "https://www.wolsteincenter.com/event/rb-live-tour/",
+    "date": "2026-02-14T00:00:01",
     "venue": "Wolstein Center"
   },
   {

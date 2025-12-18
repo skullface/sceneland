@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Samsara"
-    ],
-    "link": "https://dice.fm/event/690fd84e9fdcce0001edc93c",
-    "date": "2025-12-17T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Moon Cactus"
     ],
     "link": "https://dice.fm/event/690fd8dcc90c4b00017fb6fb",
@@ -20,6 +12,7 @@
       "TRUSS and Elbow Room"
     ],
     "link": "https://dice.fm/event/68f00953036e2500011e26d9",
+    "sold_out": true,
     "date": "2025-12-19T18:00:00-05:00",
     "venue": "Mahall\u2019s"
   },

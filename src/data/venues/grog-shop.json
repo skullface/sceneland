@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Shai Hulud",
-      "Holder",
-      "The J\u00f6tunn"
-    ],
-    "link": "https://grogshop.gs/tm-event/shai-hulud-holder/",
-    "date": "2025-12-17",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Discofox",
       "Lone Thunder at The Grog Shop",
       "Lone Thunder"
@@ -86,6 +76,15 @@
       "Joe Briggs"
     ],
     "link": "https://grogshop.gs/tm-event/dave-hill-joe-briggs/",
+    "date": "2025-12-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Dave Hill after party",
+      "Slow Groove Kings!"
+    ],
+    "link": "https://grogshop.gs/tm-event/dave-hill-after-party-w-slow-groove-kings/",
     "date": "2025-12-26",
     "venue": "Grog Shop"
   },

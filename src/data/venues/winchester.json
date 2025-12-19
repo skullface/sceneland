@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Year in Review Bingo!"
-    ],
-    "link": "https://www.ticketweb.com/event/year-in-review-bingo-the-winchester-tickets/14001854",
-    "date": "2025-12-17T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Sunshine Daydream Trio"
     ],
     "link": "https://www.ticketweb.com/event/sunshine-daydream-trio-the-winchester-tickets/13984704",
@@ -69,22 +61,6 @@
     ],
     "link": "https://www.ticketweb.com/event/lake-erie-emo-club-presents-the-winchester-tickets/13976994",
     "date": "2025-12-31T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Ordinary World \u2013 Duran Duran Tribute"
-    ],
-    "link": "https://www.ticketweb.com/event/ordinary-world-duran-the-winchester-tickets/14644743",
-    "date": "2026-01-02T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "97 Crosses \u2013 John Mellencamp Tribute"
-    ],
-    "link": "https://www.ticketweb.com/event/97-crosses-john-the-winchester-tickets/14693213",
-    "date": "2026-01-03T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -153,6 +129,14 @@
   },
   {
     "artist": [
+      "Night Moves \u2013 The Ultimate Bob Seger Tribute"
+    ],
+    "link": "https://www.ticketweb.com/event/night-moves-the-the-winchester-tickets/14013884",
+    "date": "2026-01-29T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "ill tempered \u2013 Alanis Morissette Tribute"
     ],
     "link": "https://www.ticketweb.com/event/ill-tempered-alanis-the-winchester-tickets/13998024",
@@ -197,6 +181,14 @@
     ],
     "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
     "date": "2026-02-20T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Silver Springs \u2013 A Fleetwood Mac Experience"
+    ],
+    "link": "https://www.ticketweb.com/event/silver-springs-a-the-winchester-tickets/13976204",
+    "date": "2026-02-28T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

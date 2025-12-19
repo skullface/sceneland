@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Discofox",
-      "Lone Thunder at The Grog Shop",
-      "Lone Thunder"
-    ],
-    "link": "https://grogshop.gs/tm-event/discofox-w-lone-thunder-at-the-grog-shop/",
-    "date": "2025-12-18",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Tropidelic (Acoustic): Holiday Charity Show",
       "Special Guests",
       "Benny Coleman (from The Quasi Kings)",
@@ -146,6 +136,30 @@
   },
   {
     "artist": [
+      "Annual FREE WEEKEND",
+      "Inpatient",
+      "Whiffler",
+      "Dick Golden & The Rock and Roll Experience",
+      "Ananke"
+    ],
+    "link": "https://grogshop.gs/tm-event/annual-free-weekend-w-inpatient-whiffler-dick-golden-the-rock-and-roll-experience-ananke/",
+    "date": "2026-01-02",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Annual FREE WEEKEND",
+      "Cory Grinder and the Playboy Scouts",
+      "John's Little Sister (Solo)",
+      "Dollar Country",
+      "John's Little Sister"
+    ],
+    "link": "https://grogshop.gs/tm-event/annual-free-weekend-w-cory-grinder-and-the-playboy-scouts-johns-little-sister-solo-dollar-country/",
+    "date": "2026-01-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "The Dead Milkmen",
       "PAL"
     ],
@@ -191,6 +205,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/the-truman-show-album-release-spazzplot/",
     "date": "2026-01-18",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Valentine Vandal",
+      "Skeleton Drive",
+      "A Girl in the Shade"
+    ],
+    "link": "https://grogshop.gs/tm-event/valentine-vandal-skeleton-drive-a-girl-in-the-shade/",
+    "date": "2026-01-21",
     "venue": "Grog Shop"
   },
   {
@@ -251,6 +275,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/rebreather-slow-wake-mors-arma/",
     "date": "2026-01-29",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Grandview -TBA"
+    ],
+    "link": "https://grogshop.gs/tm-event/grandview/",
+    "date": "2026-02-05",
     "venue": "Grog Shop"
   },
   {

@@ -34,7 +34,8 @@
   },
   {
     "artist": [
-      "Three Days Grace: Alienation Tour"
+      "Three Days Grace: Alienation Tour",
+      "Special Guests I Prevail and The Funeral Portrait"
     ],
     "link": "https://www.rocketarena.com/events/detail/three-days-grace-260226",
     "date": "2026-02-26T00:00:01",
@@ -54,6 +55,15 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/alex-warren-20260627",
     "date": "2026-06-27T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "Meghan Trainor: The Get In Girl Tour",
+      "Special Guests Icona Pop and Ryan Trainor"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/meghan-trainor-20260722",
+    "date": "2026-07-22T00:00:01",
     "venue": "Rocket Arena"
   }
 ]

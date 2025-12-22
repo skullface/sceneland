@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dark Wave Dance Cave \u2013 4 Year Anniversary"
-    ],
-    "link": "https://www.ticketweb.com/event/dark-wave-dance-cave-the-winchester-tickets/13973804",
-    "date": "2025-12-20T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Donation Based Christmas Wrapping"
     ],
     "link": "https://www.ticketweb.com/event/donation-based-christmas-wrapping-the-winchester-tickets/14732373",
@@ -69,30 +61,6 @@
     ],
     "link": "https://www.ticketweb.com/event/locals-only-w-ciix-the-winchester-tickets/14732103",
     "date": "2026-01-05T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "The Steepwater Band"
-    ],
-    "link": "https://www.ticketweb.com/event/the-steepwater-band-the-winchester-tickets/13973684",
-    "date": "2026-01-08T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "70 Lewis \u2013 Reunion Show"
-    ],
-    "link": "https://www.ticketweb.com/event/70-lewis-reunion-the-winchester-tickets/14620333",
-    "date": "2026-01-09T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Richard Lloyd of Television"
-    ],
-    "link": "https://www.ticketweb.com/event/richard-lloyd-of-television-the-winchester-tickets/14011364",
-    "date": "2026-01-11T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -197,6 +165,22 @@
     ],
     "link": "https://www.ticketweb.com/event/silver-springs-a-the-winchester-tickets/13976204",
     "date": "2026-02-28T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Trace Bundy"
+    ],
+    "link": "https://www.ticketweb.com/event/trace-bundy-the-winchester-tickets/13976884",
+    "date": "2026-03-05T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Sponge"
+    ],
+    "link": "https://www.ticketweb.com/event/sponge-the-winchester-tickets/13975214",
+    "date": "2026-03-07T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

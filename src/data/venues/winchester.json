@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Donation Based Christmas Wrapping"
-    ],
-    "link": "https://www.ticketweb.com/event/donation-based-christmas-wrapping-the-winchester-tickets/14732373",
-    "date": "2025-12-21T10:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "State of Being, Brian Alan Hager, & Daisypusher"
-    ],
-    "link": "https://www.ticketweb.com/event/state-of-being-brian-alan-the-winchester-tickets/13973144",
-    "date": "2025-12-21T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Closer 2 Home \u2013 Grand Funk Railroad Tribute"
     ],
     "link": "https://www.ticketweb.com/event/closer-2-home-the-winchester-tickets/14589643",
@@ -57,10 +41,34 @@
   },
   {
     "artist": [
-      "LOCALS ONLY, Ciix + Jareth Marlo + Sharod Brown"
+      "LOCALS ONLY, Ciix + Jareth Marlow + Sharod Brown"
     ],
     "link": "https://www.ticketweb.com/event/locals-only-w-ciix-the-winchester-tickets/14732103",
     "date": "2026-01-05T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Steepwater Band"
+    ],
+    "link": "https://www.ticketweb.com/event/the-steepwater-band-the-winchester-tickets/13973684",
+    "date": "2026-01-08T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "70 Lewis \u2013 Reunion Show"
+    ],
+    "link": "https://www.ticketweb.com/event/70-lewis-reunion-the-winchester-tickets/14620333",
+    "date": "2026-01-09T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Richard Lloyd of Television"
+    ],
+    "link": "https://www.ticketweb.com/event/richard-lloyd-of-television-the-winchester-tickets/14011364",
+    "date": "2026-01-11T19:00:00",
     "venue": "Winchester Tavern"
   },
   {

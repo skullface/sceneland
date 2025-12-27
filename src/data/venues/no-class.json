@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "SHITMAS DAY"
-    ],
-    "link": "https://noclasscle.com/events/12-25-25",
-    "date": "2025-12-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "HOLIDAY BANGOVER"
     ],
     "link": "https://noclasscle.com/events/holiday-bangover-12-26-25",
@@ -25,10 +17,42 @@
   },
   {
     "artist": [
+      "CARTERCLOUUD"
+    ],
+    "link": "https://noclasscle.com/events/carterclouud",
+    "date": "2026-01-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "ROCK THE TRAP"
     ],
     "link": "https://noclasscle.com/events/rock-the-trap",
     "date": "2026-01-03T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CLOUDY WITH A CHANCE..."
+    ],
+    "link": "https://noclasscle.com/events/cloudy-with-a-chance-new",
+    "date": "2026-01-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GOTTA SNATCH 'EM ALL"
+    ],
+    "link": "https://noclasscle.com/events/gotta-snatch-em-all-shiney",
+    "date": "2026-01-10T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FUNGITS"
+    ],
+    "link": "https://noclasscle.com/events/fungits",
+    "date": "2026-01-16T00:00:01",
     "venue": "No Class"
   },
   {
@@ -45,6 +69,14 @@
     ],
     "link": "https://noclasscle.com/events/regurgitation-1-24-26",
     "date": "2026-01-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FOR THE FALLEN DREAMS"
+    ],
+    "link": "https://noclasscle.com/events/for-the-fallen-dreams",
+    "date": "2026-02-09T00:00:01",
     "venue": "No Class"
   },
   {

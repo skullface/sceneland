@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Closer 2 Home \u2013 Grand Funk Railroad Tribute"
-    ],
-    "link": "https://www.ticketweb.com/event/closer-2-home-the-winchester-tickets/14589643",
-    "date": "2025-12-26T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "STEPDADS OF GALWAY PRESENTS SECOND CHRISTMAS"
-    ],
-    "link": "https://www.ticketweb.com/event/stepdads-of-galway-presents-second-the-winchester-tickets/14697463",
-    "date": "2025-12-27T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Lake Erie Emo Club Presents: EMO New Years \u2013 Masquerade Ball"
     ],
     "link": "https://www.ticketweb.com/event/lake-erie-emo-club-presents-the-winchester-tickets/13976994",
@@ -197,6 +181,14 @@
     ],
     "link": "https://www.ticketweb.com/event/sponge-the-winchester-tickets/13975214",
     "date": "2026-03-07T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Goodbye June + Austin Meade"
+    ],
+    "link": "https://www.ticketweb.com/event/goodbye-june-austin-meade-the-winchester-tickets/14008714",
+    "date": "2026-03-12T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "HOLIDAY BANGOVER"
-    ],
-    "link": "https://noclasscle.com/events/holiday-bangover-12-26-25",
-    "date": "2025-12-26T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "SAPPHIC SOCIAL"
-    ],
-    "link": "https://noclasscle.com/events/sapphic-social-12-27-25",
-    "date": "2025-12-27T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CARTERCLOUUD"
     ],
     "link": "https://noclasscle.com/events/carterclouud",
@@ -29,6 +13,14 @@
     ],
     "link": "https://noclasscle.com/events/rock-the-trap",
     "date": "2026-01-03T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "AUNT DEE"
+    ],
+    "link": "https://noclasscle.com/events/aunt-dee-noon-loud-nes",
+    "date": "2026-01-04T00:00:01",
     "venue": "No Class"
   },
   {

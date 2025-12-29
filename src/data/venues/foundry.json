@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Another Dead Rockstar, Craig Martini"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/another-dead-rockstar-craig-martini/",
-    "date": "2025-12-27T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "NU METAL NU YEAR"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nu-metal-nu-year/",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/psyclon-nine-clockwork-echo-our-frankenstein/",
     "date": "2026-02-21T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Beginner Line Dancing Lessons!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-2/",
+    "date": "2026-02-24T18:30:00",
     "venue": "Foundry"
   },
   {

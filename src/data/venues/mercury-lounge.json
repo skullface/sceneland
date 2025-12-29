@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "SCREAM QUEENS"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/scream-queens/",
-    "date": "2025-12-27T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "VCTMS, Unhealthy While Unhinged, Fight From Within, THE BUNNY THE BEAR, Ovtlier, EXITWOUNDS, UNSETTLED, The Quantum Vortex, For Absent Friends, Demise Eve"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/vctms-unhealthy-while-unhinged-vrsty-fight-from-within-set-to-stun-the-bunny-the-bear-ovtlier-unsettled-the-quantum-vortex-imperial/",
@@ -141,6 +133,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/powerman-5000-12-stones-makes-my-blood-dance/",
     "date": "2025-05-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "DEAD BY DAWG: VOLUME II"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/dead-by-dawg-volume-ii/",
+    "date": "2025-08-01T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

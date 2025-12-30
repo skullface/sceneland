@@ -1,19 +1,6 @@
 [
   {
     "artist": [
-      "Eliza Gintert",
-      "John K",
-      "emma morgue",
-      "Teya Weir",
-      "John Kalman",
-      "emma morgu"
-    ],
-    "link": "https://grogshop.gs/tm-event/eliza-ginert-john-k-emma-morgue-teya-weir/",
-    "date": "2025-12-29",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "2025 Late Christmas Early New Years Bash",
       "Trapboi Manakin"
     ],
@@ -87,6 +74,16 @@
   },
   {
     "artist": [
+      "Slugg",
+      "Regas-McDonald",
+      "Elderberry Industries"
+    ],
+    "link": "https://grogshop.gs/tm-event/slugg-regas-mcdonald-elderberry-industries/",
+    "date": "2026-01-15",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Pop Punk Benefit for the Greater Cleveland Food Bank with Youth Pallet",
       "Molly O'Malley",
       "Plum Shed",
@@ -120,8 +117,9 @@
     "artist": [
       "Valentine Vandal",
       "Skeleton Drive",
-      "A Girl in the Shade",
-      "Grace Oddo"
+      "A Girl In The Shade",
+      "Grace Oddo",
+      "A Girl in the Shade"
     ],
     "link": "https://grogshop.gs/tm-event/valentine-vandal-skeleton-drive-a-girl-in-the-shade/",
     "date": "2026-01-21",
@@ -220,6 +218,19 @@
     ],
     "link": "https://grogshop.gs/tm-event/mike-polk-jr-john-skrtic-present-cleveland-romance-history/",
     "date": "2026-02-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sk8 Art Show",
+      "Muzzle",
+      "Mr. California",
+      "Ringer",
+      "Non Bruises: Benefit for Neighborhood Pets",
+      "Non Bruises"
+    ],
+    "link": "https://grogshop.gs/tm-event/sk8-art-show-w-muzzle-mr-california-ringer-non-bruises-benefit-for-neighborhood-pets/",
+    "date": "2026-02-14",
     "venue": "Grog Shop"
   },
   {

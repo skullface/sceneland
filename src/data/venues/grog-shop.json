@@ -158,7 +158,8 @@
   },
   {
     "artist": [
-      "Night Moves"
+      "Night Moves",
+      "Johnny Delaware"
     ],
     "link": "https://grogshop.gs/tm-event/night-moves/",
     "date": "2026-01-24",
@@ -183,14 +184,6 @@
     ],
     "link": "https://grogshop.gs/tm-event/rebreather-slow-wake-mors-arma/",
     "date": "2026-01-29",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Grandview -TBA"
-    ],
-    "link": "https://grogshop.gs/tm-event/grandview/",
-    "date": "2026-02-05",
     "venue": "Grog Shop"
   },
   {
@@ -308,6 +301,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-lifes-rich-pageant/",
     "date": "2026-03-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Obsessed"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-obsessed/",
+    "date": "2026-03-12",
     "venue": "Grog Shop"
   },
   {

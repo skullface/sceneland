@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "YANALounge New Years Show"
-    ],
-    "link": "https://www.eventbrite.com/e/yanalounge-new-years-show-tickets-1976275893397",
-    "date": "2026-01-02T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "The Head Trips, Meddle, \u00d8utlier"
-    ],
-    "link": "https://www.eventbrite.com/e/the-head-tripsmeddleutlier-tickets-1976761574081",
-    "date": "2026-01-02T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "DAGGRS, rebreather, Life Falling Down, Hussie, Brick Caster"
     ],
     "link": "https://www.eventbrite.com/e/daggrsrebreatherlife-falling-downhussiebrick-caster-tickets-1942483613779",
@@ -45,6 +29,14 @@
     ],
     "link": "https://www.eventbrite.com/e/madame-marlowecandace-campanaskyrail-tickets-1977542051510",
     "date": "2026-01-10T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Bobby Edge, Jared Knapik, Brian Lisik, Brake Fluid, Indig0Forest, Uncle Mounty"
+    ],
+    "link": "https://www.eventbrite.com/e/bobby-edgejared-knapikbrian-lisikbrake-fluidindig0forestuncle-mounty-tickets-1979553061495",
+    "date": "2026-01-14T00:00:01",
     "venue": "Westside Bowl"
   },
   {

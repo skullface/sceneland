@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Ordinary World \u2013 Duran Duran Tribute"
-    ],
-    "link": "https://www.ticketweb.com/event/ordinary-world-duran-the-winchester-tickets/14644743",
-    "date": "2026-01-02T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "97 Crosses \u2013 John Mellencamp Tribute"
-    ],
-    "link": "https://www.ticketweb.com/event/97-crosses-john-the-winchester-tickets/14693213",
-    "date": "2026-01-03T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "LOCALS ONLY, Ciix + Jareth Marlow + Sharod Brown"
     ],
     "link": "https://www.ticketweb.com/event/locals-only-w-ciix-the-winchester-tickets/14732103",
@@ -77,6 +61,14 @@
     ],
     "link": "https://www.ticketweb.com/event/blow-the-whistle-2000s-hip-the-winchester-tickets/14693223",
     "date": "2026-01-24T21:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Too Hot for Leather w/ Sabon & Burning River"
+    ],
+    "link": "https://www.ticketweb.com/event/too-hot-for-leather-w-the-winchester-tickets/14616273",
+    "date": "2026-01-25T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -197,6 +189,14 @@
     ],
     "link": "https://www.ticketweb.com/event/crystal-ship-tribute-the-winchester-tickets/14644753",
     "date": "2026-03-19T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Jimmie\u2019s Chicken Shack"
+    ],
+    "link": "https://www.ticketweb.com/event/jimmies-chicken-shack-the-winchester-tickets/14518043",
+    "date": "2026-03-22T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

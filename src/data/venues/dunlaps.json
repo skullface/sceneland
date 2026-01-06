@@ -1,10 +1,90 @@
 [
   {
     "artist": [
+      "Songwriter Night Hosted By Brett Auerbach"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352510",
+    "date": "2026-01-08T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "The Songs of John Prine - Live Music Benefit for the Greater Cleveland Food Bank"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352512",
+    "date": "2026-01-10T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Con T\u00fa - Comedy Music and Variety Show"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352517",
+    "date": "2026-01-11T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "The Mic that Doesn\u2019t End - Open Mic Comedy"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352523",
+    "date": "2026-01-11T21:45:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "BachaZouk Latin Dance Party"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352515",
+    "date": "2026-01-13T21:45:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Bingo Death Match - Variety Game & Drag Show"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352532",
+    "date": "2026-01-14T21:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "GS Harper's Cleveland Jubilee"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352530",
+    "date": "2026-01-15T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Gelatinus Cube"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352529",
+    "date": "2026-01-16T20:30:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Funny Feast - Tim Cornett/D'Jay Brown Johnson/Ramon Rivas Live Comedy Taping"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352534",
+    "date": "2026-01-18T18:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
       "Found Footage Fest Vol. 11"
     ],
     "link": "https://www.dunlapsbar.com/shows/336410",
     "date": "2026-01-21T19:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "EMB Artist Networking Night"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/352537",
+    "date": "2026-01-22T18:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   }
 ]

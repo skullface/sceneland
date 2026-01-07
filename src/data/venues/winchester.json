@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "LOCALS ONLY, Ciix + Jareth Marlow + Sharod Brown"
-    ],
-    "link": "https://www.ticketweb.com/event/locals-only-w-ciix-the-winchester-tickets/14732103",
-    "date": "2026-01-05T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "BOOZY BINGO (MUG BINGO)"
     ],
     "link": "https://www.ticketweb.com/event/boozy-bingo-mug-bingo-the-winchester-tickets/14054464",
@@ -69,6 +61,22 @@
     ],
     "link": "https://www.ticketweb.com/event/talkbox-comes-alive-the-winchester-tickets/14714883",
     "date": "2026-01-23T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "BLOW THE WHISTLE (2000\u2019s Hip Hop Party!)"
+    ],
+    "link": "https://www.ticketweb.com/event/blow-the-whistle-2000s-hip-the-winchester-tickets/14693223",
+    "date": "2026-01-24T21:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Too Hot for Leather w/ Sabon & Burning River"
+    ],
+    "link": "https://www.ticketweb.com/event/too-hot-for-leather-w-the-winchester-tickets/14616273",
+    "date": "2026-01-25T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -197,6 +205,14 @@
     ],
     "link": "https://www.ticketweb.com/event/crystal-ship-tribute-the-winchester-tickets/14644753",
     "date": "2026-03-19T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Jimmie\u2019s Chicken Shack"
+    ],
+    "link": "https://www.ticketweb.com/event/jimmies-chicken-shack-the-winchester-tickets/14518043",
+    "date": "2026-03-22T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

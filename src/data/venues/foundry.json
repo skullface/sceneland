@@ -1,10 +1,42 @@
 [
   {
     "artist": [
+      "Nocturnal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal/",
+    "date": "2026-01-09T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Crucigen, Nightdrive, Death & Exhale, Demise Eve"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/crucigen-nightdrive-death-exhale-demise-eve/",
     "date": "2026-01-10T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Bored Game Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night/",
+    "date": "2026-01-12T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Retro Game Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/retro-game-night-2/",
+    "date": "2026-01-13T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Bored Game Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-2/",
+    "date": "2026-01-19T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -17,7 +49,15 @@
   },
   {
     "artist": [
-      "February, widaparte"
+      "Retro Game Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/retro-game-night-3/",
+    "date": "2026-01-20T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Febuary, widaparte, For Your Health, Cats Eat Dogs"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/february-widaparte/",
     "date": "2026-01-22T19:00:00",
@@ -41,10 +81,34 @@
   },
   {
     "artist": [
+      "Bored Game Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-3/",
+    "date": "2026-01-26T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Beginner Line Dancing Lessons!"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons/",
     "date": "2026-01-27T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Retro Game Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/retro-game-night-4/",
+    "date": "2026-01-27T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Anime Pop Night \u2013 Olive's Birthday Bash Edition!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-olives-birthday-bash-edition/",
+    "date": "2026-01-31T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -89,10 +153,26 @@
   },
   {
     "artist": [
+      "QUEER KINKY ARTS AND CRAFTS SHOW"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/queer-kinky-arts-and-crafts-show/",
+    "date": "2026-03-14T13:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Aesthetic Perfection, Julien-K, Priest"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/aesthetic-perfection-julien-k-priest/",
     "date": "2026-04-11T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Master Boot Record"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/master-boot-record/",
+    "date": "2026-04-29T20:00:00",
     "venue": "Foundry"
   },
   {

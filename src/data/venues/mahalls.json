@@ -97,6 +97,14 @@
   },
   {
     "artist": [
+      "Gimme Gimme Disco"
+    ],
+    "link": "https://dice.fm/event/6952b3953e60ad00012458f7",
+    "date": "2026-02-06T22:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Agriculture"
     ],
     "link": "https://dice.fm/event/68ded7a5a3667d0001200544",
@@ -325,6 +333,14 @@
     ],
     "link": "https://dice.fm/event/690bcbdfc5e79d00011afd8b",
     "date": "2026-05-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Vial"
+    ],
+    "link": "https://dice.fm/event/6939d73ac323900001b37117",
+    "date": "2026-05-20T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   }
 ]

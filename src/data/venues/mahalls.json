@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Little Ditties"
-    ],
-    "link": "https://dice.fm/event/692dae544510540001cd85e1",
-    "date": "2026-01-07T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Spill"
     ],
     "link": "https://dice.fm/event/692daebc6ca7e100016f9feb",
@@ -53,6 +45,14 @@
     ],
     "link": "https://dice.fm/event/68fa5590778dc30001a07863",
     "date": "2026-01-18T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "ArchAngel"
+    ],
+    "link": "https://dice.fm/event/695e8b8819378700019c921b",
+    "date": "2026-01-20T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -236,6 +236,7 @@
       "Drain"
     ],
     "link": "https://dice.fm/event/690bbcd1ff2bad000182793b",
+    "sold_out": true,
     "date": "2026-04-01T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
@@ -341,6 +342,14 @@
     ],
     "link": "https://dice.fm/event/6939d73ac323900001b37117",
     "date": "2026-05-20T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Bad Time Records Tour 2026"
+    ],
+    "link": "https://dice.fm/event/694419721cc65f0001980ffe",
+    "date": "2026-08-23T18:30:00-04:00",
     "venue": "Mahall\u2019s"
   }
 ]

@@ -89,10 +89,18 @@
   },
   {
     "artist": [
-      "Place Invaders, Boyd and the Monkeys, King Catfish"
+      "Place Invaders, Seeking Therapy, King Catfish"
     ],
-    "link": "https://www.eventbrite.com/e/place-invadersboyd-and-the-monkeysking-catfish-tickets-1744199169669",
+    "link": "https://www.eventbrite.com/e/place-invadersseeking-therapyking-catfish-tickets-1744199169669",
     "date": "2026-01-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Strike a Chord! Bowling & Live Music"
+    ],
+    "link": "https://www.eventbrite.com/e/strike-a-chord-bowling-live-music-tickets-1980011245937",
+    "date": "2026-02-01T00:00:01",
     "venue": "Westside Bowl"
   },
   {

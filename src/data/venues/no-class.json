@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CLOUDY WITH A CHANCE..."
-    ],
-    "link": "https://noclasscle.com/events/cloudy-with-a-chance-new",
-    "date": "2026-01-05T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "HYPERPOP NIGHT"
     ],
     "link": "https://noclasscle.com/events/hyperpop-night",
@@ -57,10 +49,26 @@
   },
   {
     "artist": [
+      "BINGO DEATH MATCH ALL STARS"
+    ],
+    "link": "https://noclasscle.com/events/bingo-death-match-all-stars",
+    "date": "2026-02-07T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "FOR THE FALLEN DREAMS"
     ],
     "link": "https://noclasscle.com/events/for-the-fallen-dreams",
     "date": "2026-02-09T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CROWN SHY"
+    ],
+    "link": "https://noclasscle.com/events/crown-shy",
+    "date": "2026-02-12T00:00:01",
     "venue": "No Class"
   },
   {
@@ -73,10 +81,42 @@
   },
   {
     "artist": [
+      "BERGHAIN'T"
+    ],
+    "link": "https://noclasscle.com/events/berghaint-2-27-26",
+    "date": "2026-02-27T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "JARHEAD FERTILIZER"
     ],
     "link": "https://noclasscle.com/events/jarhead-fertilizer-blood-monolith",
     "date": "2026-03-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "PUTRID LIQUID"
+    ],
+    "link": "https://noclasscle.com/events/putrid-liquid-cheap-gas",
+    "date": "2026-03-06T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "JESUS WEPT"
+    ],
+    "link": "https://noclasscle.com/events/jesus-wept",
+    "date": "2026-03-07T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "IMMORTAL SUFFERING"
+    ],
+    "link": "https://noclasscle.com/events/immortal-suffering",
+    "date": "2026-04-25T00:00:01",
     "venue": "No Class"
   }
 ]

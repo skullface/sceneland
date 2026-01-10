@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MAXILLA, Outrun Infinity, The Mistakes"
-    ],
-    "link": "https://www.eventbrite.com/e/maxillaoutrun-infinitythe-mistakes-tickets-1976673115499",
-    "date": "2026-01-09T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Madame Marlowe, Candace Campana, Skyrail"
     ],
     "link": "https://www.eventbrite.com/e/madame-marlowecandace-campanaskyrail-tickets-1977542051510",
@@ -181,6 +173,14 @@
     ],
     "link": "https://www.eventbrite.com/e/blackwater-holylightsomrebreather-tickets-1942431016459",
     "date": "2026-03-02T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Moonroof, The Head Trips, Jack & The Cadavers"
+    ],
+    "link": "https://www.eventbrite.com/e/moonroofthe-head-tripsjack-the-cadavers-tickets-1980207379578",
+    "date": "2026-03-06T00:00:01",
     "venue": "Westside Bowl"
   },
   {

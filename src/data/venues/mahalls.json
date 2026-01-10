@@ -113,6 +113,14 @@
   },
   {
     "artist": [
+      "Valentine's Market"
+    ],
+    "link": "https://dice.fm/event/69616653ffbf2e0001a62bca",
+    "date": "2026-02-07T11:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Agriculture"
     ],
     "link": "https://dice.fm/event/68ded7a5a3667d0001200544",
@@ -350,6 +358,14 @@
     ],
     "link": "https://dice.fm/event/690bcbdfc5e79d00011afd8b",
     "date": "2026-05-11T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Snuffed On Sight"
+    ],
+    "link": "https://dice.fm/event/695c2d7d2d3abd0001d90bdd",
+    "date": "2026-05-19T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

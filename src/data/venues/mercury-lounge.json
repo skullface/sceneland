@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CLOCKWORK"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/clockwork-2/",
-    "date": "2026-01-09T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "MUSIC TRIVI-AOKE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke/",
@@ -108,6 +100,14 @@
       "Gayme Night"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/gayme-night/",
+    "date": "2026-02-06T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "ONE NIGHT AT\u2026THE CHAMBER"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/one-night-at-the-chamber/",
     "date": "2026-02-06T00:00:01",
     "venue": "Mercury Music Lounge"
   },

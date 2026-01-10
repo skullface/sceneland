@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "2000's Indie Dance with DJ Tech Wizard"
-    ],
-    "link": "https://www.dunlapsbar.com/shows/353412",
-    "date": "2026-01-09T21:00:00",
-    "venue": "Dunlap\u2019s Corner Bar"
-  },
-  {
-    "artist": [
       "The Songs of John Prine - Live Music Benefit for the Greater Cleveland Food Bank"
     ],
     "link": "https://www.dunlapsbar.com/shows/352512",
@@ -61,6 +53,14 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/352529",
     "date": "2026-01-16T20:30:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Bingorama"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/353578",
+    "date": "2026-01-17T17:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
   {

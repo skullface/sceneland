@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Madame Marlowe, Candace Campana, Skyrail"
-    ],
-    "link": "https://www.eventbrite.com/e/madame-marlowecandace-campanaskyrail-tickets-1977542051510",
-    "date": "2026-01-10T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Bobby Edge, Jared Knapik, Brian Lisik, Brake Fluid, Indig0Forest, Uncle Mounty"
     ],
     "link": "https://www.eventbrite.com/e/bobby-edgejared-knapikbrian-lisikbrake-fluidindig0forestuncle-mounty-tickets-1979553061495",
@@ -17,9 +9,9 @@
   },
   {
     "artist": [
-      "The Filthy Heathens"
+      "The Filthy Heathens, Outdated View"
     ],
-    "link": "https://www.eventbrite.com/e/the-filthy-heathens-tickets-1735154145759",
+    "link": "https://www.eventbrite.com/e/the-filthy-heathensoutdated-view-tickets-1735154145759",
     "date": "2026-01-16T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-back-to-the-boones-2026-tour-tickets-1976275041850",
     "date": "2026-01-30T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Don Tanner Band, The Dickey White Band"
+    ],
+    "link": "https://www.eventbrite.com/e/the-don-tanner-bandthe-dickey-white-band-tickets-1980267136312",
+    "date": "2026-01-31T00:00:01",
     "venue": "Westside Bowl"
   },
   {

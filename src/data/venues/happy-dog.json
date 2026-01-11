@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Diet Smiles, Mourning After, Gauche"
-    ],
-    "link": "https://app.opendate.io/e/diet-smiles-mourning-after-gauche-january-10-2026-649956",
-    "date": "2026-01-10T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "A Tribute to Large Marge"
     ],
     "link": "https://app.opendate.io/e/a-tribute-to-large-marge-january-11-2026-652588",
@@ -121,6 +113,14 @@
   },
   {
     "artist": [
+      "Kennedy Hall, Colour Phase, Tetraviolet"
+    ],
+    "link": "https://app.opendate.io/e/kennedy-hall-colour-phase-tetraviolet-february-20-2026-654396",
+    "date": "2026-02-20T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Mors Arma, Terminus Victor, Saint Fragile"
     ],
     "link": "https://app.opendate.io/e/mors-arma-terminus-victor-saint-fragile-february-28-2026-649980",
@@ -133,6 +133,22 @@
     ],
     "link": "https://app.opendate.io/e/sensor-ghost-autopolitan-m-i-t-c-h-march-05-2026-649982",
     "date": "2026-03-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Touchdown Jesus, False Teeth, Bender"
+    ],
+    "link": "https://app.opendate.io/e/touchdown-jesus-false-teeth-bender-march-29-2026-654399",
+    "date": "2026-03-29T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Hit Like a Girl, Pretty Pretty Awful, Runaway Brother"
+    ],
+    "link": "https://app.opendate.io/e/hit-like-a-girl-pretty-pretty-awful-runaway-brother-may-07-2026-654402",
+    "date": "2026-05-07T00:00:01",
     "venue": "Happy Dog"
   }
 ]

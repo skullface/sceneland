@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Richard Lloyd of Television"
-    ],
-    "link": "https://www.ticketweb.com/event/richard-lloyd-of-television-the-winchester-tickets/14011364",
-    "date": "2026-01-11T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "BOOZY BINGO (MUSHROOM BINGO)"
     ],
     "link": "https://www.ticketweb.com/event/boozy-bingo-mushroom-bingo-the-winchester-tickets/14054494",
     "date": "2026-01-14T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Fire & Frost Drum Jam"
+    ],
+    "link": "https://www.ticketweb.com/event/fire-frost-drum-jam-the-winchester-tickets/14071574",
+    "date": "2026-01-15T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -53,6 +53,14 @@
     ],
     "link": "https://www.ticketweb.com/event/too-hot-for-leather-w-the-winchester-tickets/14616273",
     "date": "2026-01-25T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Ray Flanagan & Anthony Papaleo wsg Matt Moody"
+    ],
+    "link": "https://www.ticketweb.com/event/ray-flanagan-anthony-papaleo-the-winchester-tickets/14071604",
+    "date": "2026-01-26T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -181,14 +189,6 @@
     ],
     "link": "https://www.ticketweb.com/event/crystal-ship-tribute-the-winchester-tickets/14644753",
     "date": "2026-03-19T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Jimmie\u2019s Chicken Shack"
-    ],
-    "link": "https://www.ticketweb.com/event/jimmies-chicken-shack-the-winchester-tickets/14518043",
-    "date": "2026-03-22T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -204,6 +204,16 @@
   },
   {
     "artist": [
+      "Faith & Whiskey",
+      "State Rd",
+      "Out of Order"
+    ],
+    "link": "https://grogshop.gs/tm-event/faith-whiskey/",
+    "date": "2026-02-20",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Dave Hause and The Mermaid",
       "Myth And Company",
       "Model Martel"
@@ -319,6 +329,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/jordana-kelcey-ayer/",
     "date": "2026-03-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "JMSN"
+    ],
+    "link": "https://grogshop.gs/tm-event/jmsn/",
+    "date": "2026-03-18",
     "venue": "Grog Shop"
   },
   {

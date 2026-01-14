@@ -28,6 +28,7 @@
       "*VENUE UPGRADE* Racing Mount Pleasant"
     ],
     "link": "https://dice.fm/event/68fa5590778dc30001a07863",
+    "sold_out": true,
     "date": "2026-01-18T19:00:00-05:00",
     "venue": "Mahall\u2019s"
   },
@@ -335,6 +336,14 @@
     "link": "https://dice.fm/event/691e7e09f53dd0000134c424",
     "date": "2026-04-29T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Fleshwater & julie"
+    ],
+    "link": "https://dice.fm/event/695bda7555596300019c3147",
+    "date": "2026-04-29T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

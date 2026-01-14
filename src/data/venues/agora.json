@@ -241,10 +241,26 @@
   },
   {
     "artist": [
+      "Pavement"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1283578",
+    "date": "2026-07-23T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Peter Hook & The Light"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1103775",
     "date": "2026-08-23T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jim Henson\u2019s Labyrinth: In Concert 40th Anniversary"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1285994",
+    "date": "2026-09-27T18:00:00",
     "venue": "Agora"
   }
 ]

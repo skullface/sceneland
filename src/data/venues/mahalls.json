@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "54 Ultra"
-    ],
-    "link": "https://dice.fm/event/68f0067b387090000137a05a",
-    "date": "2026-01-14T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Breathe In Stereo"
     ],
     "link": "https://dice.fm/event/693b2ea307d6f40001ba3632",
@@ -307,6 +299,14 @@
   },
   {
     "artist": [
+      "Ashes to Amber"
+    ],
+    "link": "https://dice.fm/event/695c20ba7a326000010bf11d",
+    "date": "2026-04-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Fantastic Negrito"
     ],
     "link": "https://dice.fm/event/68f68c3b252ed20001ecf082",
@@ -331,19 +331,19 @@
   },
   {
     "artist": [
-      "Vana: The Lady In Red Tour"
-    ],
-    "link": "https://dice.fm/event/691e7e09f53dd0000134c424",
-    "date": "2026-04-29T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Fleshwater & julie"
     ],
     "link": "https://dice.fm/event/695bda7555596300019c3147",
     "date": "2026-04-29T18:00:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Vana: The Lady In Red Tour"
+    ],
+    "link": "https://dice.fm/event/691e7e09f53dd0000134c424",
+    "date": "2026-04-29T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [

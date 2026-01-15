@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Retro Game Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/retro-game-night-2/",
-    "date": "2026-01-13T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Bored Game Night"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-2/",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-olives-birthday-bash-edition/",
     "date": "2026-01-31T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "The Foundry Flea Market"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-foundry-flea-market/",
+    "date": "2026-02-01T12:00:00",
     "venue": "Foundry"
   },
   {

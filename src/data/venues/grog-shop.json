@@ -135,7 +135,8 @@
   },
   {
     "artist": [
-      "LAUNDRY DAY: The Time of Your Life Tour"
+      "LAUNDRY DAY: The Time of Your Life Tour",
+      "Satchel Shure"
     ],
     "link": "https://grogshop.gs/tm-event/laundry-day-the-time-of-your-life-tour/",
     "date": "2026-02-07",
@@ -349,7 +350,9 @@
   },
   {
     "artist": [
-      "JMSN"
+      "JMSN",
+      "Samy Sharif",
+      "Happy Endings"
     ],
     "link": "https://grogshop.gs/tm-event/jmsn/",
     "date": "2026-03-18",
@@ -413,6 +416,15 @@
   },
   {
     "artist": [
+      "Together Pangea and The Red Pears",
+      "The Red Pears"
+    ],
+    "link": "https://grogshop.gs/tm-event/together-pangea-and-the-red-pears/",
+    "date": "2026-04-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "The Wedding Present: Seamonsters 35th Anniversary Tour",
       "Mark Robinson"
     ],
@@ -448,6 +460,14 @@
   },
   {
     "artist": [
+      "The Toasters: 45 Years of Ska"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-toasters-45-years-of-ska/",
+    "date": "2026-04-27",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Defeated Sanity",
       "Vulvodynia",
       "Organectomy",
@@ -464,6 +484,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/slomosa/",
     "date": "2026-05-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Cut Worms",
+      "Tchotchke"
+    ],
+    "link": "https://grogshop.gs/tm-event/cut-worms-tchotchke/",
+    "date": "2026-05-11",
     "venue": "Grog Shop"
   },
   {

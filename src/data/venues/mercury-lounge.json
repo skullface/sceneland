@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BEGINNER LINE DANCING LESSONS"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons-2/",
-    "date": "2026-01-14T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Grateful Dead Night \u2013 W/ Sunshine Daydream"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/grateful-dead-night-w-sunshine-daydream-3/",
@@ -265,10 +257,34 @@
   },
   {
     "artist": [
+      "Lynch Mob"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/lynch-mob/",
+    "date": "2026-04-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Raven, Slackjaw"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/raven-slackjaw/",
+    "date": "2026-04-11T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "MUSIC TRIVI-AOKE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-14/",
     "date": "2026-04-13T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Little Miss Nasty, GG Magree, Mimi Barks"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/little-miss-nasty-gg-magree-mimi-barks/",
+    "date": "2026-04-18T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -365,14 +381,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-22/",
     "date": "2026-06-08T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "MUSIC TRIVI-AOKE"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-23/",
-    "date": "2026-06-15T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

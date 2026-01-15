@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BOOZY BINGO (MUSHROOM BINGO)"
-    ],
-    "link": "https://www.ticketweb.com/event/boozy-bingo-mushroom-bingo-the-winchester-tickets/14054494",
-    "date": "2026-01-14T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Fire & Frost Drum Jam"
     ],
     "link": "https://www.ticketweb.com/event/fire-frost-drum-jam-the-winchester-tickets/14071574",
@@ -61,6 +53,22 @@
     ],
     "link": "https://www.ticketweb.com/event/ray-flanagan-anthony-papaleo-the-winchester-tickets/14071604",
     "date": "2026-01-26T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Night Moves \u2013 The Ultimate Bob Seger Tribute"
+    ],
+    "link": "https://www.ticketweb.com/event/night-moves-the-the-winchester-tickets/14013884",
+    "date": "2026-01-29T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "ill tempered \u2013 Alanis Morissette Tribute"
+    ],
+    "link": "https://www.ticketweb.com/event/ill-tempered-alanis-the-winchester-tickets/13998024",
+    "date": "2026-01-30T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -177,10 +185,26 @@
   },
   {
     "artist": [
+      "Reign in Blood (Slayer Tribute), Sassafras Cove (Clutch Tribute)"
+    ],
+    "link": "https://www.ticketweb.com/event/reign-in-blood-slayer-tribute-the-winchester-tickets/14075024",
+    "date": "2026-03-14T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Crystal Ship \u2013 Tribute to The Doors"
     ],
     "link": "https://www.ticketweb.com/event/crystal-ship-tribute-the-winchester-tickets/14644753",
     "date": "2026-03-19T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Sugar Mules & The Asheville Mountain Boys"
+    ],
+    "link": "https://www.ticketweb.com/event/the-sugar-mules-the-the-winchester-tickets/14074984",
+    "date": "2026-03-20T20:00:00",
     "venue": "Winchester Tavern"
   },
   {

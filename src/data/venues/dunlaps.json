@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "GS Harper's Cleveland Jubilee"
-    ],
-    "link": "https://www.dunlapsbar.com/shows/352530",
-    "date": "2026-01-15T20:00:00",
-    "venue": "Dunlap\u2019s Corner Bar"
-  },
-  {
-    "artist": [
       "Gelatinus Cube"
     ],
     "link": "https://www.dunlapsbar.com/shows/353733",
@@ -195,7 +187,7 @@
     "artist": [
       "BachaZouk Latin Dance Party"
     ],
-    "link": "https://www.dunlapsbar.com/shows/353914",
+    "link": "https://www.dunlapsbar.com/shows/353915",
     "date": "2026-02-24T21:45:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
@@ -203,7 +195,7 @@
     "artist": [
       "BachaZouk Latin Dance Party"
     ],
-    "link": "https://www.dunlapsbar.com/shows/353915",
+    "link": "https://www.dunlapsbar.com/shows/353914",
     "date": "2026-02-24T21:45:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
@@ -221,6 +213,17 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/353910",
     "date": "2026-03-05T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Midnite Phoenix",
+      "Wendy Darling",
+      "Tim Kovacs",
+      "Lauren Brabson"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/354477",
+    "date": "2026-03-06T19:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
   {

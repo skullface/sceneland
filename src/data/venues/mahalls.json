@@ -82,10 +82,26 @@
   },
   {
     "artist": [
+      "Esoteria"
+    ],
+    "link": "https://dice.fm/event/6968f0a8eb5a600001ae866a",
+    "date": "2026-02-01T18:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Cherry!"
     ],
     "link": "https://dice.fm/event/69600be5f638720001cbe85f",
     "date": "2026-02-05T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Formerly Candice"
+    ],
+    "link": "https://dice.fm/event/69698222738e81000116278e",
+    "date": "2026-02-06T18:30:00-05:00",
     "venue": "Mahall\u2019s"
   },
   {

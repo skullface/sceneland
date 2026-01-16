@@ -145,14 +145,6 @@
   },
   {
     "artist": [
-      "Silver Springs \u2013 A Fleetwood Mac Experience"
-    ],
-    "link": "https://www.ticketweb.com/event/silver-springs-a-the-winchester-tickets/13976204",
-    "date": "2026-02-28T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Trace Bundy"
     ],
     "link": "https://www.ticketweb.com/event/trace-bundy-the-winchester-tickets/13976884",
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.ticketweb.com/event/jimmies-chicken-shack-the-winchester-tickets/14518043",
     "date": "2026-03-22T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Meteors"
+    ],
+    "link": "https://www.ticketweb.com/event/the-meteors-the-winchester-tickets/14689153",
+    "date": "2026-03-29T19:30:00",
     "venue": "Winchester Tavern"
   }
 ]

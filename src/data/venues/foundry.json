@@ -113,14 +113,6 @@
   },
   {
     "artist": [
-      "Metalcore Wednesday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-2/",
-    "date": "2026-02-11T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Dead Boys, Hams, The Robert Conn Band"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/dead-boys/",
@@ -181,6 +173,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/aesthetic-perfection-julien-k-priest/",
     "date": "2026-04-11T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Southpaw, Arcline, Disobedient Crew, Unvow"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/southpaw-arcline-disobedient-crew-unvow/",
+    "date": "2026-04-21T18:30:00",
     "venue": "Foundry"
   },
   {

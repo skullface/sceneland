@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Breathe In Stereo"
-    ],
-    "link": "https://dice.fm/event/693b2ea307d6f40001ba3632",
-    "date": "2026-01-16T18:30:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Pinkertones"
     ],
     "link": "https://dice.fm/event/68dbe6096c20da0001c8cda7",
@@ -135,6 +127,22 @@
     "link": "https://dice.fm/event/690a76f705c376000157fd55",
     "date": "2026-02-13T18:00:00-05:00",
     "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Love Sucks: A Vampire Themed Valentines Party"
+    ],
+    "link": "https://dice.fm/event/696a7717ff0e400001ea05d2",
+    "date": "2026-02-13T21:00:00-05:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Love Club: an all out 2010\u2019s night"
+    ],
+    "link": "https://dice.fm/event/696a95edf292a100016adbd8",
+    "date": "2026-02-14T19:00:00-05:00",
+    "venue": "Mahall\u2019s"
   },
   {
     "artist": [
@@ -315,10 +323,26 @@
   },
   {
     "artist": [
+      "Wild Party"
+    ],
+    "link": "https://dice.fm/event/696530b130954a00019066ea",
+    "date": "2026-04-15T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Ashes to Amber"
     ],
     "link": "https://dice.fm/event/695c20ba7a326000010bf11d",
     "date": "2026-04-16T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Moon Walker"
+    ],
+    "link": "https://dice.fm/event/6966bb3e032f590001d19e43",
+    "date": "2026-04-17T18:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {
@@ -347,19 +371,19 @@
   },
   {
     "artist": [
-      "Fleshwater & julie"
-    ],
-    "link": "https://dice.fm/event/695bda7555596300019c3147",
-    "date": "2026-04-29T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Vana: The Lady In Red Tour"
     ],
     "link": "https://dice.fm/event/691e7e09f53dd0000134c424",
     "date": "2026-04-29T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Fleshwater & julie"
+    ],
+    "link": "https://dice.fm/event/695bda7555596300019c3147",
+    "date": "2026-04-29T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

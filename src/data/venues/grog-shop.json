@@ -1,27 +1,6 @@
 [
   {
     "artist": [
-      "Slugg",
-      "Regas-McDonald",
-      "Elderberry Industries"
-    ],
-    "link": "https://grogshop.gs/tm-event/slugg-regas-mcdonald-elderberry-industries/",
-    "date": "2026-01-15",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Pop Punk Benefit for the Greater Cleveland Food Bank with Youth Pallet",
-      "Molly O'Malley",
-      "Plum Shed",
-      "Homedays"
-    ],
-    "link": "https://grogshop.gs/tm-event/pop-punk-benefit-for-the-greater-cleveland-food-bank-at-grog-shop/",
-    "date": "2026-01-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "DAMNAGEDKIDS & Friends",
       "KHR",
       "Ctrl room",
@@ -164,7 +143,8 @@
   {
     "artist": [
       "Aliah Sheffield",
-      "Lillian Ruffin"
+      "Lillian Ruffin",
+      "Charity Evonna"
     ],
     "link": "https://grogshop.gs/tm-event/aliah-sheffield-lillian-ruffin/",
     "date": "2026-02-12",
@@ -417,7 +397,8 @@
   },
   {
     "artist": [
-      "Throwing Muses"
+      "Throwing Muses",
+      "Non Bruises"
     ],
     "link": "https://grogshop.gs/tm-event/throwing-muses/",
     "date": "2026-04-09",
@@ -469,7 +450,8 @@
   },
   {
     "artist": [
-      "The Toasters: 45 Years of Ska"
+      "The Toasters: 45 Years of Ska",
+      "Sabon"
     ],
     "link": "https://grogshop.gs/tm-event/the-toasters-45-years-of-ska/",
     "date": "2026-04-27",

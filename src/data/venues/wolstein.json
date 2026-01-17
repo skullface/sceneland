@@ -1,6 +1,22 @@
 [
   {
     "artist": [
+      "CSU Mens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-mens-basketball-3/",
+    "date": "2026-01-17T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "CSU Womens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
+    "date": "2026-01-18T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Cleveland Crunch"
     ],
     "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
@@ -41,7 +57,7 @@
   },
   {
     "artist": [
-      "Boys 4 Life Tour featuring B2K & Bow Wow with Jeremih, Waka Flocka, Amerie, and more!"
+      "The Millennium Tour Presents: The Boys 4 Life Tour"
     ],
     "link": "https://www.wolsteincenter.com/event/boys-4-life-tour-featuring-b2k-bow-wow-with-jeremih-waka-flocka-amerie-and-more/",
     "date": "2026-04-17T00:00:01",

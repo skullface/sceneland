@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "DJ Ivy & Morse Code - a birthday celebration!"
-    ],
-    "link": "https://app.opendate.io/e/dj-ivy-morse-code-a-birthday-celebration-january-17-2026-652593",
-    "date": "2026-01-17T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Samuel S.C., Continuals, Wrong Places, Non Bruises"
     ],
     "link": "https://app.opendate.io/e/samuel-s-c-continuals-wrong-places-non-bruises-january-18-2026-645402",
@@ -97,6 +89,14 @@
   },
   {
     "artist": [
+      "Burning River Roller Derby presents: Love Hurts - a Karaoke Fundraiser!"
+    ],
+    "link": "https://app.opendate.io/e/burning-river-roller-derby-presents-love-hurts-a-karaoke-fundraiser-february-14-2026-655766",
+    "date": "2026-02-14T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Signal Cle presents: Classical Revolution!"
     ],
     "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-february-18-2026-655486",
@@ -129,10 +129,26 @@
   },
   {
     "artist": [
+      "Ripperfest IV w/ Man Eaters, Caught Dead, Leaking Head, Nightfreak, Technokrat - and more!"
+    ],
+    "link": "https://app.opendate.io/e/ripperfest-iv-w-man-eaters-caught-dead-leaking-head-nightfreak-technokrat-and-more-march-01-2026-655494",
+    "date": "2026-03-01T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Sensor Ghost, Autopolitan, M.I.T.C.H."
     ],
     "link": "https://app.opendate.io/e/sensor-ghost-autopolitan-m-i-t-c-h-march-05-2026-649982",
     "date": "2026-03-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "CLEpy, Cleveland Pyladies, & CLE AI & Data present: Beyond the Hype: Revisiting AI & the Future of Work"
+    ],
+    "link": "https://app.opendate.io/e/clepy-cleveland-pyladies-cle-ai-data-present-beyond-the-hype-revisiting-ai-the-future-of-work-march-10-2026-655769",
+    "date": "2026-03-10T00:00:01",
     "venue": "Happy Dog"
   },
   {

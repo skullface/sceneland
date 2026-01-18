@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rumours \u2013 A Fleetwood Mac Tribute"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/rumours-a-fleetwood-mac-tribute/",
-    "date": "2026-01-16T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Rhymin' N Stealin' \u2013 The original Beastie Boys Tribute"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/rhymin-n-stealin-the-original-beastie-boys-tribute/",
@@ -121,14 +113,6 @@
   },
   {
     "artist": [
-      "MARDI GRAS! With Da Land Brass Band & Big Hoke"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/mardi-gras-with-da-land-brass-band-big-hoke/",
-    "date": "2026-02-17T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Belphegor, Incantation, Hate, Narcotic Wasteland"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/belphegor-incantation-hate-narcotic-wasteland/",
@@ -213,6 +197,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-cold-stares/",
     "date": "2026-03-22T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-11/",
+    "date": "2026-03-23T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -373,6 +365,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-23/",
     "date": "2026-06-15T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-24/",
+    "date": "2026-06-22T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

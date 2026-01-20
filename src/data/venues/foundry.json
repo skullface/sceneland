@@ -89,7 +89,7 @@
   },
   {
     "artist": [
-      "Moon Tipper, As They Were, Ataraxis, Boyd And The Monkeys"
+      "Moon Tipper, Dead Still, The Exiled, Boyd And The Monkeys, Cult Kids"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/moon-tipper-as-they-were-ataraxis-boyd-and-the-monkeys/",
     "date": "2026-01-30T18:00:00",
@@ -113,6 +113,22 @@
   },
   {
     "artist": [
+      "FOLK PUNK FRIDAY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/folk-punk-friday/",
+    "date": "2026-02-06T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Placid State, 10,000 Rambos, Encircled Throne, Death & Exhale"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/placid-state-10000-rambos-encircled-throne-death-exhale/",
+    "date": "2026-02-08T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Metalcore Wednesday"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-2/",
@@ -121,10 +137,26 @@
   },
   {
     "artist": [
+      "Nocturnal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
+    "date": "2026-02-13T21:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Dead Boys, Hams, The Robert Conn Band"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/dead-boys/",
     "date": "2026-02-14T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Rustfed, Necrobiome, Extinction Agenda,   Thee Adversary"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/rustfed-necrobiome-extinction-agenda-thee-adversary/",
+    "date": "2026-02-20T19:00:00",
     "venue": "Foundry"
   },
   {

@@ -95,7 +95,8 @@
   {
     "artist": [
       "LAUNDRY DAY: The Time of Your Life Tour",
-      "Satchel Shure"
+      "Satchel Shure",
+      "False Teeth"
     ],
     "link": "https://grogshop.gs/tm-event/laundry-day-the-time-of-your-life-tour/",
     "date": "2026-02-07",
@@ -104,8 +105,7 @@
   {
     "artist": [
       "Koffin Kats",
-      "Carrie Nation and the Speakeasy",
-      "Playboy Manbaby"
+      "Carrie Nation and the Speakeasy"
     ],
     "link": "https://grogshop.gs/tm-event/koffin-kats-playboy-manbaby-carrie-nation-and-the-speakeasy/",
     "date": "2026-02-08",
@@ -186,7 +186,8 @@
   {
     "artist": [
       "Nuovo Testamento",
-      "Dark Chisme"
+      "Dark Chisme",
+      "Marottes"
     ],
     "link": "https://grogshop.gs/tm-event/nuovo-testamento-dark-chisme/",
     "date": "2026-02-25",
@@ -275,6 +276,15 @@
   },
   {
     "artist": [
+      "The Narrowbacks",
+      "Pat Mulloy of Mary's Lane"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-narrowbacks-pat-mulloy-of-marys-lane/",
+    "date": "2026-03-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "EMM: The Dumb Tour!",
       "Dakota Cox",
       "theartofomega"
@@ -285,7 +295,8 @@
   },
   {
     "artist": [
-      "MIA ASANO: Spring Tour '26"
+      "MIA ASANO: Spring Tour '26",
+      "DOVYDAS"
     ],
     "link": "https://grogshop.gs/tm-event/mia-asano-spring-tour-26/",
     "date": "2026-03-14",
@@ -312,7 +323,9 @@
     "artist": [
       "JMSN",
       "Samy Sharif",
-      "Happy Endings"
+      "Happy Endings",
+      "NicNacc",
+      "DJ ESO"
     ],
     "link": "https://grogshop.gs/tm-event/jmsn/",
     "date": "2026-03-18",
@@ -426,6 +439,17 @@
     ],
     "link": "https://grogshop.gs/tm-event/barns-courtney/",
     "date": "2026-04-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Glixen + trauma ray",
+      "trauma ray",
+      "Her New Knife",
+      "Knifeplay"
+    ],
+    "link": "https://grogshop.gs/tm-event/glixen-trauma-ray/",
+    "date": "2026-04-26",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ArchAngel"
-    ],
-    "link": "https://dice.fm/event/695e8b8819378700019c921b",
-    "date": "2026-01-20T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Mention it all: Bravo watch party"
     ],
     "link": "https://dice.fm/event/695fdbbb3ff6e80001a84bc9",
@@ -102,6 +94,22 @@
     "link": "https://dice.fm/event/68ded7a5a3667d0001200544",
     "date": "2026-02-07T19:00:00-05:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "The Workshop Dance + Fitness Valentine\u2019s Showcase"
+    ],
+    "link": "https://dice.fm/event/69700c58b7830b00014092fd",
+    "date": "2026-02-12T18:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "House of BurlesCLE: Cupid\u2019s Cabaret "
+    ],
+    "link": "https://dice.fm/event/6970093d688ab00001c642f4",
+    "date": "2026-02-12T20:00:00-05:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [
@@ -354,14 +362,6 @@
   },
   {
     "artist": [
-      "Vana: The Lady In Red Tour"
-    ],
-    "link": "https://dice.fm/event/691e7e09f53dd0000134c424",
-    "date": "2026-04-29T18:00:00-04:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Fleshwater & julie"
     ],
     "link": "https://dice.fm/event/695bda7555596300019c3147",
@@ -370,10 +370,26 @@
   },
   {
     "artist": [
+      "Vana: The Lady In Red Tour"
+    ],
+    "link": "https://dice.fm/event/691e7e09f53dd0000134c424",
+    "date": "2026-04-29T18:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Melrose Avenue"
     ],
     "link": "https://dice.fm/event/68dda232855fc3000131b562",
     "date": "2026-04-30T19:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Corrosion of Conformity"
+    ],
+    "link": "https://dice.fm/event/696a706bfb0cd80001bcf0c9",
+    "date": "2026-05-10T18:30:00-04:00",
     "venue": "The Roxy at Mahall\u2019s"
   },
   {
@@ -394,6 +410,14 @@
   },
   {
     "artist": [
+      "Free Throw: Moments Before The Wind Tour"
+    ],
+    "link": "https://dice.fm/event/69600c8901d18f00013300e3",
+    "date": "2026-05-15T18:30:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
+  },
+  {
+    "artist": [
       "Snuffed On Sight"
     ],
     "link": "https://dice.fm/event/695c2d7d2d3abd0001d90bdd",
@@ -406,6 +430,14 @@
     ],
     "link": "https://dice.fm/event/6939d73ac323900001b37117",
     "date": "2026-05-20T19:00:00-04:00",
+    "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Prince Daddy & The Hyena "
+    ],
+    "link": "https://dice.fm/event/696680e5bbdd570001ad2c1d",
+    "date": "2026-06-02T19:00:00-04:00",
     "venue": "Mahall\u2019s"
   },
   {

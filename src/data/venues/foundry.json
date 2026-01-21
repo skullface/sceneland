@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bored Game Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-2/",
-    "date": "2026-01-19T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Book Banter Brigade"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade-2/",
@@ -113,6 +105,14 @@
   },
   {
     "artist": [
+      "BORED GAME NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-4/",
+    "date": "2026-02-02T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "FOLK PUNK FRIDAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/folk-punk-friday/",
@@ -125,6 +125,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/placid-state-10000-rambos-encircled-throne-death-exhale/",
     "date": "2026-02-08T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "BORED GAME NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-5/",
+    "date": "2026-02-09T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -145,10 +153,10 @@
   },
   {
     "artist": [
-      "Dead Boys, Hams, The Robert Conn Band"
+      "BORED GAME NIGHT"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/dead-boys/",
-    "date": "2026-02-14T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-6/",
+    "date": "2026-02-16T17:00:00",
     "venue": "Foundry"
   },
   {
@@ -169,9 +177,25 @@
   },
   {
     "artist": [
+      "BORED GAME NIGHT"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-7/",
+    "date": "2026-02-23T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Beginner Line Dancing Lessons!"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-2/",
+    "date": "2026-02-24T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "BEGINNER LINE DANCING LESSONS!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-3/",
     "date": "2026-02-24T18:30:00",
     "venue": "Foundry"
   },
@@ -209,18 +233,18 @@
   },
   {
     "artist": [
-      "Aesthetic Perfection, Julien-K, Priest"
+      "DEAD7, Wiltwither"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/aesthetic-perfection-julien-k-priest/",
-    "date": "2026-04-11T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/dead7-wiltwither/",
+    "date": "2026-04-01T19:00:00",
     "venue": "Foundry"
   },
   {
     "artist": [
-      "Southpaw, Arcline, Disobedient Crew, Unvow"
+      "Aesthetic Perfection, Julien-K, Priest"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/southpaw-arcline-disobedient-crew-unvow/",
-    "date": "2026-04-21T18:30:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/aesthetic-perfection-julien-k-priest/",
+    "date": "2026-04-11T19:00:00",
     "venue": "Foundry"
   },
   {

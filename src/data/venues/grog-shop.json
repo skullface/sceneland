@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "Valentine Vandal",
-      "Skeleton Drive",
-      "A Girl In The Shade",
-      "Grace Oddo",
-      "A Girl in the Shade"
-    ],
-    "link": "https://grogshop.gs/tm-event/valentine-vandal-skeleton-drive-a-girl-in-the-shade/",
-    "date": "2026-01-21",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Westside Live",
       "Westside Productions"
     ],
@@ -105,7 +93,8 @@
   {
     "artist": [
       "Koffin Kats",
-      "Carrie Nation and the Speakeasy"
+      "Carrie Nation and the Speakeasy",
+      "The Eeries"
     ],
     "link": "https://grogshop.gs/tm-event/koffin-kats-playboy-manbaby-carrie-nation-and-the-speakeasy/",
     "date": "2026-02-08",
@@ -399,6 +388,14 @@
   },
   {
     "artist": [
+      "Pallbearer"
+    ],
+    "link": "https://grogshop.gs/tm-event/pallbearer/",
+    "date": "2026-04-10",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Together Pangea and The Red Pears",
       "The Red Pears"
     ],
@@ -421,6 +418,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/black-pistol-fire-flagrant-act-of-bliss/",
     "date": "2026-04-14",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "The Queers",
+      "ALBUM",
+      "Dollar Draft$"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-queers-dollar-draft/",
+    "date": "2026-04-15",
     "venue": "Grog Shop"
   },
   {

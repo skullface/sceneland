@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Mention it all: Bravo watch party"
-    ],
-    "link": "https://dice.fm/event/695fdbbb3ff6e80001a84bc9",
-    "date": "2026-01-21T19:00:00-05:00",
-    "venue": "Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Cleveland Music Awards: Best Alternative Showcase"
     ],
     "link": "https://dice.fm/event/69604271fb5b2b0001971255",
@@ -362,19 +354,19 @@
   },
   {
     "artist": [
-      "Fleshwater & julie"
-    ],
-    "link": "https://dice.fm/event/695bda7555596300019c3147",
-    "date": "2026-04-29T18:00:00-04:00",
-    "venue": "The Roxy at Mahall\u2019s"
-  },
-  {
-    "artist": [
       "Vana: The Lady In Red Tour"
     ],
     "link": "https://dice.fm/event/691e7e09f53dd0000134c424",
     "date": "2026-04-29T18:00:00-04:00",
     "venue": "Mahall\u2019s"
+  },
+  {
+    "artist": [
+      "Fleshwater & julie"
+    ],
+    "link": "https://dice.fm/event/695bda7555596300019c3147",
+    "date": "2026-04-29T18:00:00-04:00",
+    "venue": "The Roxy at Mahall\u2019s"
   },
   {
     "artist": [

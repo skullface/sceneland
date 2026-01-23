@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "EMB Artist Networking Night"
-    ],
-    "link": "https://www.dunlapsbar.com/shows/352537",
-    "date": "2026-01-22T18:00:00",
-    "venue": "Dunlap\u2019s Corner Bar"
-  },
-  {
-    "artist": [
       "Joshua Mika"
     ],
     "link": "https://www.dunlapsbar.com/shows/353170",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/353906",
     "date": "2026-02-05T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Bingorama"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/355507",
+    "date": "2026-02-07T17:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
   {

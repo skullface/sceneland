@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Westside Live",
-      "Westside Productions"
-    ],
-    "link": "https://grogshop.gs/tm-event/westside-live/",
-    "date": "2026-01-22",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Lottery League bands THAT ARE STILL BANDS",
       "Gone",
       "Tetraviolet",
@@ -220,16 +211,6 @@
   },
   {
     "artist": [
-      "PONY & Star 99",
-      "Star 99",
-      "Molly O'Malley"
-    ],
-    "link": "https://grogshop.gs/tm-event/pony-star-99/",
-    "date": "2026-03-05",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Spiritual Cramp",
       "GUV",
       "Imploders"
@@ -301,6 +282,14 @@
   },
   {
     "artist": [
+      "Hot Rod Circuit"
+    ],
+    "link": "https://grogshop.gs/tm-event/hot-rod-circuit/",
+    "date": "2026-03-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Jordana",
       "Kelcey Ayer"
     ],
@@ -354,6 +343,15 @@
       "Brother Bird"
     ],
     "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "date": "2026-04-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Golomb",
+      "Lavender Jets"
+    ],
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },

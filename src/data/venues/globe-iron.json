@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Absolute Intense Wrestling, Alive Out Of Habit"
-    ],
-    "link": "https://www.axs.com/events/1241438/absolute-intense-wrestling-tickets",
-    "date": "2026-01-23T19:30:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "The Infamous Stringdusters, Mountain Grass Unit"
     ],
     "link": "https://www.axs.com/events/1075938/the-infamous-stringdusters-tickets",
@@ -133,6 +125,14 @@
     ],
     "link": "https://www.axs.com/events/1176812/the-floozies-too-many-zooz-tickets",
     "date": "2026-03-12T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Absolute Intense Wrestling, Gauntlet For The Gold 19 Featuring Nic Nemeth"
+    ],
+    "link": "https://www.axs.com/events/1303176/absolute-intense-wrestling-tickets",
+    "date": "2026-03-20T19:30:00",
     "venue": "Globe Iron"
   },
   {

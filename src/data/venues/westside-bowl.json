@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Blurry Boyz & Friends"
-    ],
-    "link": "https://www.eventbrite.com/e/blurry-boyz-friends-tickets-1971320822647",
-    "date": "2026-01-23T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Koffin Kats, Playboy Manbaby, Carrie Nation and the Speakeasy, Lightnin Luke"
-    ],
-    "link": "https://www.eventbrite.com/e/koffin-katsplayboy-manbabycarrie-nation-and-the-speakeasylightnin-luke-tickets-1894004421209",
-    "date": "2026-01-23T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Underground Entertainment Awards"
     ],
     "link": "https://www.eventbrite.com/e/underground-entertainment-awards-tickets-1979181991615",
@@ -185,9 +169,9 @@
   },
   {
     "artist": [
-      "Moonroof, The Head Trips, Jack & The Cadavers"
+      "Moonroof, Jack & The Cadavers, Doomsday Darling"
     ],
-    "link": "https://www.eventbrite.com/e/moonroofthe-head-tripsjack-the-cadavers-tickets-1980207379578",
+    "link": "https://www.eventbrite.com/e/moonroofjack-the-cadaversdoomsday-darling-tickets-1980207379578",
     "date": "2026-03-06T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -301,6 +285,14 @@
     ],
     "link": "https://www.eventbrite.com/e/twitch-reunion-show-with-jcreexh-danny-hedrix-tickets-1981021626011",
     "date": "2026-06-20T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "West Akron Fadeaway"
+    ],
+    "link": "https://www.eventbrite.com/e/west-akron-fadeaway-tickets-1981354075376",
+    "date": "2026-08-01T00:00:01",
     "venue": "Westside Bowl"
   },
   {

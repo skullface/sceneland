@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Febuary, widaparte, For Your Health, Cats Eat Dogs"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/february-widaparte/",
-    "date": "2026-01-22T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "The Jotunn, Years of Fire, Sterilizing The Deceased, Lower 13, Chalked"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-jotunn-years-of-fire-sterilizing-the-deceased-lower-13-chalked/",
-    "date": "2026-01-23T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Fathom, For Absent Friends, Zombie Fashion Show, Dissection Of Spirit, Solice"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/fathom-for-absent-friends-zombie-fashion-show-dissection-of-spirit-solice/",
@@ -237,6 +221,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/master-boot-record/",
     "date": "2026-04-29T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Josey Scott, Priscilla, Groundstate"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/josey-scott-priscilla/",
+    "date": "2026-05-07T19:00:00",
     "venue": "Foundry"
   },
   {

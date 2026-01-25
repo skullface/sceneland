@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Funeral Dancer, Baazlvaat, Hellkite, Secret Handshake"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/funeral-dancer-baazlvaat-hellkite-secret-handshake/",
-    "date": "2026-01-23T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Shlump"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/shlump/",
@@ -85,6 +77,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons-3/",
     "date": "2026-02-11T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "90'S + 2k'S R&B / HIPHOP VALENTINE'S DAY PARTY"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/90s-2ks-rb-hiphop-valentines-day-party/",
+    "date": "2026-02-14T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -309,6 +309,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/an-evening-with-uli-jon-roth/",
     "date": "2026-04-21T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-16/",
+    "date": "2026-04-27T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

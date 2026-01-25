@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Cleveland Crunch"
-    ],
-    "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
-    "date": "2026-01-24T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
       "CSU Womens Basketball"
     ],
     "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
     "date": "2026-01-28T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Cleveland Crunch"
+    ],
+    "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
+    "date": "2026-02-01T00:00:01",
     "venue": "Wolstein Center"
   },
   {

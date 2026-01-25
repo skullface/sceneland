@@ -1,18 +1,10 @@
 [
   {
     "artist": [
-      "GUTTING"
-    ],
-    "link": "https://noclasscle.com/events/gutting-limerence-secret-historian",
-    "date": "2026-01-23T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "REGURGITATION"
     ],
     "link": "https://noclasscle.com/events/regurgitation-1-24-26",
-    "date": "2026-01-24T00:00:01",
+    "date": "2026-01-31T00:00:01",
     "venue": "No Class"
   },
   {
@@ -20,23 +12,23 @@
       "MX. CLASSLESS ACT - WEEK 2"
     ],
     "link": "https://noclasscle.com/events/mx-classless-act-week-2",
-    "date": "2026-01-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "SAPPHIC SOCIAL"
-    ],
-    "link": "https://noclasscle.com/events/sapphic-social-1-31-26",
-    "date": "2026-01-31T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "MX. CLASSLESS ACT - WEEK 3"
-    ],
-    "link": "https://noclasscle.com/events/mx-classless-act-week-3",
     "date": "2026-02-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CLOUDY WITH A CHANCE"
+    ],
+    "link": "https://noclasscle.com/events/cloudy-with-a-chance-2-2-26",
+    "date": "2026-02-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "C. L. A."
+    ],
+    "link": "https://noclasscle.com/events/c-l-a",
+    "date": "2026-02-06T00:00:01",
     "venue": "No Class"
   },
   {
@@ -49,9 +41,9 @@
   },
   {
     "artist": [
-      "MX. CLASSLESS ACT - WEEK 4"
+      "MX. CLASSLESS ACT - WEEK 3"
     ],
-    "link": "https://noclasscle.com/events/mx-classless-act-week-4",
+    "link": "https://noclasscle.com/events/mx-classless-act-week-3",
     "date": "2026-02-08T00:00:01",
     "venue": "No Class"
   },
@@ -73,10 +65,26 @@
   },
   {
     "artist": [
+      "MX. CLASSLESS ACT - WEEK 4"
+    ],
+    "link": "https://noclasscle.com/events/mx-classless-act-week-4",
+    "date": "2026-02-15T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "APES OF THE STATE"
     ],
     "link": "https://noclasscle.com/events/apes-of-the-state",
     "date": "2026-02-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-12-27-25-tffgt",
+    "date": "2026-02-22T00:00:01",
     "venue": "No Class"
   },
   {
@@ -109,6 +117,14 @@
     ],
     "link": "https://noclasscle.com/events/jesus-wept",
     "date": "2026-03-07T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BAD BITCHES ONLY - ALL GIRL RAP + R&B REVUE"
+    ],
+    "link": "https://noclasscle.com/events/bad-bitches-only",
+    "date": "2026-04-17T00:00:01",
     "venue": "No Class"
   },
   {

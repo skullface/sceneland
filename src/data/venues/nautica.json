@@ -17,6 +17,14 @@
   },
   {
     "artist": [
+      "Hot Mulligan, Joyce Manor, Saturdays at Your Place, KOYO"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1300349",
+    "date": "2026-06-04T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
       "Mt. Joy"
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1241396",
@@ -45,6 +53,14 @@
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1158181",
     "date": "2026-07-20T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "The Fray, Dashboard Confessional and Colony House"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1307132",
+    "date": "2026-08-12T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   }
 ]

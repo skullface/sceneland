@@ -31,6 +31,29 @@
   },
   {
     "artist": [
+      "Singer-Songwriter Series",
+      "Henry Loconti",
+      "Chris Anderson",
+      "Mark Mason",
+      "Charlie Mosbrook",
+      "mark mason"
+    ],
+    "link": "https://grogshop.gs/tm-event/singer-songwriter-series-w-henry-loconti-chris-anderson-mark-mason-charlie-mosbrook/",
+    "date": "2026-02-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Regas-McDonald",
+      "Elderberry Industries",
+      "Sacred Canopy"
+    ],
+    "link": "https://grogshop.gs/tm-event/regas-mcdonald-elderberry-industries-sacred-canopy/",
+    "date": "2026-02-05",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "LAUNDRY DAY: The Time of Your Life Tour",
       "Satchel Shure",
       "False Teeth"
@@ -123,6 +146,15 @@
   },
   {
     "artist": [
+      "The Great Grog Bake Off",
+      "Mary Santora"
+    ],
+    "link": "https://grogshop.gs/tm-event/the-great-grog-bake-off/",
+    "date": "2026-02-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Nuovo Testamento",
       "Dark Chisme",
       "Marottes"
@@ -156,6 +188,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/rustbelt-ripperfest-iv-day-three/",
     "date": "2026-02-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Dupree's Dead Band (Grateful Dead Tribute)"
+    ],
+    "link": "https://grogshop.gs/tm-event/duprees-dead-band-grateful-dead-tribute/",
+    "date": "2026-03-01",
     "venue": "Grog Shop"
   },
   {
@@ -297,19 +337,19 @@
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
+      "Golomb",
+      "Lavender Jets"
     ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets"
+      "Andy Hull",
+      "Brother Bird"
     ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
@@ -379,8 +419,9 @@
   {
     "artist": [
       "The Queers",
+      "Dollar Draft$",
       "ALBUM",
-      "Dollar Draft$"
+      "MK Ultras"
     ],
     "link": "https://grogshop.gs/tm-event/the-queers-dollar-draft/",
     "date": "2026-04-15",
@@ -478,6 +519,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/tigers-jaw-pool-kids/",
     "date": "2026-05-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Spoon & The Beths: US Tour 2026",
+      "Squirrel Flower"
+    ],
+    "link": "https://grogshop.gs/tm-event/spoon-the-beths-us-tour-2026/",
+    "date": "2026-06-27",
     "venue": "Grog Shop"
   },
   {

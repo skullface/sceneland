@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BachaZouk Latin Dance Party"
-    ],
-    "link": "https://www.dunlapsbar.com/shows/353912",
-    "date": "2026-01-27T21:45:00",
-    "venue": "Dunlap\u2019s Corner Bar"
-  },
-  {
-    "artist": [
       "Judgement Day"
     ],
     "link": "https://www.dunlapsbar.com/shows/353925",
@@ -53,6 +45,14 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/355507",
     "date": "2026-02-07T17:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Noah Smith"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/356264",
+    "date": "2026-02-07T21:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
   {

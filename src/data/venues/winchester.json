@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "PLANT BINGO!!"
-    ],
-    "link": "https://www.ticketweb.com/event/plant-bingo-the-winchester-tickets/14099864",
-    "date": "2026-01-28T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Night Moves \u2013 The Ultimate Bob Seger Tribute"
     ],
     "link": "https://www.ticketweb.com/event/night-moves-the-the-winchester-tickets/14013884",
@@ -77,14 +69,6 @@
     ],
     "link": "https://www.ticketweb.com/event/zac-ross-of-man-overboard-the-winchester-tickets/14014304",
     "date": "2026-02-13T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "URGE PRESENTS: TOUCHED BY CUPID KINKY VALENTINES BALL"
-    ],
-    "link": "https://www.ticketweb.com/event/urge-presents-touched-by-cupid-the-winchester-tickets/14010944",
-    "date": "2026-02-14T21:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -169,6 +153,14 @@
   },
   {
     "artist": [
+      "RIKI RACHTMAN \u2013 One Foot in the Gutter"
+    ],
+    "link": "https://www.ticketweb.com/event/riki-rachtman-one-the-winchester-tickets/14121704",
+    "date": "2026-03-09T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Goodbye June + Austin Meade"
     ],
     "link": "https://www.ticketweb.com/event/goodbye-june-austin-meade-the-winchester-tickets/14008714",
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.ticketweb.com/event/the-meteors-the-winchester-tickets/14689153",
     "date": "2026-03-29T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "A Foreigners Journey to Boston"
+    ],
+    "link": "https://www.ticketweb.com/event/a-foreigners-journey-to-boston-the-winchester-tickets/14121534",
+    "date": "2026-04-02T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

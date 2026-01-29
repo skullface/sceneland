@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Beginner Line Dancing Lessons!"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons/",
-    "date": "2026-01-27T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Retro Game Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/retro-game-night-4/",
-    "date": "2026-01-27T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Metalcore Wednesday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday/",
-    "date": "2026-01-28T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Moon Tipper, Dead Still, The Exiled, Boyd And The Monkeys, Cult Kids"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/moon-tipper-as-they-were-ataraxis-boyd-and-the-monkeys/",
@@ -109,6 +85,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-6/",
     "date": "2026-02-16T17:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Book Banter Brigade"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade/",
+    "date": "2026-02-17T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -253,6 +237,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-5/",
     "date": "2026-03-25T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Handsome Dick Manitoba, The Strains, The A-10s, The Robert Conn Band"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/handsome-dick-manitoba-the-strains-the-a-10s-the-robert-conn-band/",
+    "date": "2026-03-28T19:00:00",
     "venue": "Foundry"
   },
   {

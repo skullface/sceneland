@@ -211,7 +211,8 @@
     "artist": [
       "Spiritual Cramp",
       "GUV",
-      "Imploders"
+      "Imploders",
+      "The Carp"
     ],
     "link": "https://grogshop.gs/tm-event/spiritual-cramp/",
     "date": "2026-03-07",
@@ -236,7 +237,10 @@
   },
   {
     "artist": [
-      "The Obsessed"
+      "The Obsessed",
+      "The Great Iron Snake",
+      "Radian",
+      "Bessemer Saints"
     ],
     "link": "https://grogshop.gs/tm-event/the-obsessed/",
     "date": "2026-03-12",
@@ -339,6 +343,15 @@
   },
   {
     "artist": [
+      "HIRS",
+      "Commitment"
+    ],
+    "link": "https://grogshop.gs/tm-event/hirs-commitment/",
+    "date": "2026-03-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Megan From Work",
       "Grumpy Plum",
       "Crown Shy"
@@ -359,7 +372,8 @@
   {
     "artist": [
       "Golomb",
-      "Lavender Jets"
+      "Lavender Jets",
+      "Powers/Rolin Duo"
     ],
     "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
@@ -518,6 +532,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/jay-electronica/",
     "date": "2026-05-06",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "MILLIONAIRE$: My Super Sweet 16 Tour",
+      "Whitney Peyton",
+      "Waiting 4 April"
+    ],
+    "link": "https://grogshop.gs/tm-event/millionaire-my-super-sweet-16-tour/",
+    "date": "2026-05-07",
     "venue": "Grog Shop"
   },
   {

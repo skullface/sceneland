@@ -105,6 +105,14 @@
   },
   {
     "artist": [
+      "Into the Blue \u2013 Grateful Dead Revival"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/into-the-blue-grateful-dead-revival-4/",
+    "date": "2026-02-21T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "Belphegor, Incantation, Hate, Narcotic Wasteland"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/belphegor-incantation-hate-narcotic-wasteland/",
@@ -405,6 +413,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-21/",
     "date": "2026-06-01T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-22/",
+    "date": "2026-06-08T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

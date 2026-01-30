@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Rebreather",
-      "Slow Wake",
-      "Hilo"
-    ],
-    "link": "https://grogshop.gs/tm-event/rebreather-slow-wake-mors-arma/",
-    "date": "2026-01-29",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Those Men Inside My Brain (Cheap Trick Tribute)",
       "Simon & The Apparatus"
     ],
@@ -147,7 +137,8 @@
   {
     "artist": [
       "The Great Grog Bake Off",
-      "Mary Santora"
+      "Mary Santora",
+      "Stefan Johnson"
     ],
     "link": "https://grogshop.gs/tm-event/the-great-grog-bake-off/",
     "date": "2026-02-24",
@@ -284,7 +275,8 @@
   },
   {
     "artist": [
-      "Hot Rod Circuit"
+      "Hot Rod Circuit",
+      "Rusted Hearts"
     ],
     "link": "https://grogshop.gs/tm-event/hot-rod-circuit/",
     "date": "2026-03-16",
@@ -344,7 +336,9 @@
   {
     "artist": [
       "HIRS",
-      "Commitment"
+      "Commitment",
+      "Skwerm",
+      "Trollop"
     ],
     "link": "https://grogshop.gs/tm-event/hirs-commitment/",
     "date": "2026-03-28",
@@ -371,20 +365,20 @@
   },
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets",
-      "Powers/Rolin Duo"
+      "Andy Hull",
+      "Brother Bird"
     ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
+      "Golomb",
+      "Lavender Jets",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },

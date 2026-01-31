@@ -105,14 +105,6 @@
   },
   {
     "artist": [
-      "Rustfed, Necrobiome, Extinction Agenda,   Thee Adversary"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/rustfed-necrobiome-extinction-agenda-thee-adversary/",
-    "date": "2026-02-20T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Psyclon Nine, Clockwork Echo, Our Frankenstein"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/psyclon-nine-clockwork-echo-our-frankenstein/",
@@ -277,6 +269,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/aesthetic-perfection-julien-k-priest/",
     "date": "2026-04-11T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "DAMAG3, Amber Ryann, Connor Cristi"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/damag3-amber-ryann-connor-cristi/",
+    "date": "2026-04-23T19:00:00",
     "venue": "Foundry"
   },
   {

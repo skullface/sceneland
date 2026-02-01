@@ -339,14 +339,6 @@
     "artist": [
       "MUSIC TRIVI-AOKE"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-16/",
-    "date": "2026-04-27T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "MUSIC TRIVI-AOKE"
-    ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-17/",
     "date": "2026-05-04T00:00:01",
     "venue": "Mercury Music Lounge"
@@ -421,6 +413,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-22/",
     "date": "2026-06-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-23/",
+    "date": "2026-06-15T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Don Tanner Band, The Dickey White Band"
-    ],
-    "link": "https://www.eventbrite.com/e/the-don-tanner-bandthe-dickey-white-band-tickets-1980267136312",
-    "date": "2026-01-31T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Place Invaders, Seeking Therapy, King Catfish"
-    ],
-    "link": "https://www.eventbrite.com/e/place-invadersseeking-therapyking-catfish-tickets-1744199169669",
-    "date": "2026-01-31T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Strike a Chord! Bowling & Live Music"
     ],
     "link": "https://www.eventbrite.com/e/strike-a-chord-bowling-live-music-tickets-1980011245937",
@@ -69,6 +53,14 @@
     ],
     "link": "https://www.eventbrite.com/e/pharaoh-scribes-of-funk-presents-candlelight-lovers-night-tickets-1980433047557",
     "date": "2026-02-14T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Rebelmatic, Lung, Papers"
+    ],
+    "link": "https://www.eventbrite.com/e/rebelmaticlungpapers-tickets-1982054206487",
+    "date": "2026-02-18T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -212,6 +204,14 @@
       "We Rise To Fall, Devil In Disguise, Kings Fallen"
     ],
     "link": "https://www.eventbrite.com/e/we-rise-to-falldevil-in-disguisekings-fallen-tickets-1829388402959",
+    "date": "2026-03-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Breakin Nails"
+    ],
+    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1982054412102",
     "date": "2026-03-28T00:00:01",
     "venue": "Westside Bowl"
   },

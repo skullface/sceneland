@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "THE A.I.D. PLANT SALE & FUNDRAISER"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-a-i-d-plant-sale-fundraiser/",
-    "date": "2026-01-31T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Decades Night!"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/decades-night/",
-    "date": "2026-01-31T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "MUSIC TRIVI-AOKE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-4/",
@@ -333,6 +317,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/an-evening-with-uli-jon-roth/",
     "date": "2026-04-21T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-16/",
+    "date": "2026-04-27T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

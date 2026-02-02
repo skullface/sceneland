@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Strike a Chord! Bowling & Live Music"
-    ],
-    "link": "https://www.eventbrite.com/e/strike-a-chord-bowling-live-music-tickets-1980011245937",
-    "date": "2026-02-01T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Dixon\u2019s Violin"
     ],
     "link": "https://www.eventbrite.com/e/dixons-violin-tickets-1977725481153",
@@ -261,6 +253,14 @@
     ],
     "link": "https://www.eventbrite.com/e/carbon-leafs-i-want-to-be-leaf-tour-2026-tickets-1976669652140",
     "date": "2026-04-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Takers, Remnants, Crucigen, Death & Exhale, Pandori"
+    ],
+    "link": "https://www.eventbrite.com/e/takersremnantscrucigendeath-exhalepandori-tickets-1982123085506",
+    "date": "2026-04-15T00:00:01",
     "venue": "Westside Bowl"
   },
   {

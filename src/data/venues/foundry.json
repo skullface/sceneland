@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Anime Pop Night \u2013 Olive's Birthday Bash Edition!"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-olives-birthday-bash-edition/",
-    "date": "2026-01-31T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "The Foundry Flea Market"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/the-foundry-flea-market/",
-    "date": "2026-02-01T12:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "BORED GAME NIGHT"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-4/",
@@ -101,6 +85,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/rustfed-necrobiome-extinction-agenda-thee-adversary/",
     "date": "2026-02-20T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Psyclon Nine, Clockwork Echo, Our Frankenstein"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/psyclon-nine-clockwork-echo-our-frankenstein/",
+    "date": "2026-02-21T19:00:00",
     "venue": "Foundry"
   },
   {

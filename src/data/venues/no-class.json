@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "REGURGITATION"
-    ],
-    "link": "https://noclasscle.com/events/regurgitation-1-24-26",
-    "date": "2026-01-31T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "MX. CLASSLESS ACT - WEEK 2"
-    ],
-    "link": "https://noclasscle.com/events/mx-classless-act-week-2",
-    "date": "2026-02-01T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CLOUDY WITH A CHANCE"
     ],
     "link": "https://noclasscle.com/events/cloudy-with-a-chance-2-2-26",
@@ -173,6 +157,22 @@
     ],
     "link": "https://noclasscle.com/events/immortal-suffering",
     "date": "2026-04-25T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GHOST BATH"
+    ],
+    "link": "https://noclasscle.com/events/ghost-bath",
+    "date": "2026-05-15T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "TOTAL CHAOS"
+    ],
+    "link": "https://noclasscle.com/events/total-chaos-noogy",
+    "date": "2026-06-28T00:00:01",
     "venue": "No Class"
   }
 ]

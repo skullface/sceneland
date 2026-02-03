@@ -190,8 +190,10 @@
   {
     "artist": [
       "Singer-Songwriter Series",
-      "Ashley Brooke-Toussant",
+      "Ashley Brooke Toussant",
       "Kate Porter",
+      "Sarah Cuturic (Napsack)",
+      "Michelle Gaw",
       "Sarah Cutric"
     ],
     "link": "https://grogshop.gs/tm-event/singer-songwriter-series-w-ashley-brooke-toussant-kate-porter-sarah-cutric/",
@@ -481,6 +483,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/barns-courtney/",
     "date": "2026-04-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "GRIEVES: MIDWEST TOUR"
+    ],
+    "link": "https://grogshop.gs/tm-event/grieves-midwest-tour/",
+    "date": "2026-04-18",
     "venue": "Grog Shop"
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "artist": [
-      "Opiuo, parkbreezy, rSUN"
+      "Opiuo, parkbreezy, rSUN, Goor\u00fc"
     ],
     "link": "https://www.axs.com/events/1221454/opiuo-tickets",
     "date": "2026-02-05T20:00:00",
@@ -9,7 +9,7 @@
   },
   {
     "artist": [
-      "Ninajirachi, Cannelle"
+      "Ninajirachi, Cannelle, 2charm"
     ],
     "link": "https://www.axs.com/events/1259264/ninajirachi-tickets",
     "date": "2026-02-07T21:00:00",
@@ -189,6 +189,14 @@
     ],
     "link": "https://www.axs.com/events/1283590/stephen-lynch-tickets",
     "date": "2026-05-14T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Dexter and the Moonrocks"
+    ],
+    "link": "https://www.axs.com/events/1317711/dexter-and-the-moonrocks-tickets",
+    "date": "2026-06-17T20:00:00",
     "venue": "Globe Iron"
   },
   {

@@ -96,6 +96,18 @@
   },
   {
     "artist": [
+      "I'm From Cleveland presents 216 Day",
+      "Freshie",
+      "Buddy Vonn",
+      "Kaysh",
+      "Young Shon"
+    ],
+    "link": "https://grogshop.gs/tm-event/im-from-cleveland-presents-216-day/",
+    "date": "2026-02-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Elise Trouw presents: The Diary of Elon Lust Tour",
       "tessas"
     ],
@@ -121,6 +133,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/dave-hause-and-the-mermaid-myth-and-company/",
     "date": "2026-02-21",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Cherry Yachtsman Record Release Show",
+      "Cool Party",
+      "Dick Golden & The Rock n' Roll Experience"
+    ],
+    "link": "https://grogshop.gs/tm-event/cherry-yachtsman-record-release-show-w-cool-party/",
+    "date": "2026-02-22",
     "venue": "Grog Shop"
   },
   {
@@ -214,7 +236,8 @@
   {
     "artist": [
       "Galactic Empire",
-      "Master Hand"
+      "Master Hand",
+      "Mayor Wertz"
     ],
     "link": "https://grogshop.gs/tm-event/galactic-empire/",
     "date": "2026-03-09",
@@ -319,7 +342,16 @@
   },
   {
     "artist": [
-      "Brent Cobb: THE AIN\u2019T ROCKED IN A WHILE TOUR"
+      "Pop Punk Live Band Karaoke! Hosted by Lake Erie Emo Club"
+    ],
+    "link": "https://grogshop.gs/tm-event/pop-punk-live-band-karaoke-hosted-by-lake-erie-emo-club/",
+    "date": "2026-03-21",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Brent Cobb: THE AIN\u2019T ROCKED IN A WHILE TOUR",
+      "Reverend Lee"
     ],
     "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
     "date": "2026-03-26",

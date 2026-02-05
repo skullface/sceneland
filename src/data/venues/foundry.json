@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "For Absent Friends Metalcore Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/for-absent-friends-metalcore-night/",
-    "date": "2026-02-04T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "FOLK PUNK FRIDAY"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/folk-punk-friday/",
@@ -37,6 +29,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-2/",
     "date": "2026-02-11T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "LIVE ACOUSTIC NIGHT IN THE UNHINGED LOUNGE"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/live-acoustic-night-in-the-unhinged-lounge/",
+    "date": "2026-02-12T18:30:00",
     "venue": "Foundry"
   },
   {
@@ -108,6 +108,14 @@
       "Beginner Line Dancing Lessons!"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-2/",
+    "date": "2026-02-24T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "BEGINNER LINE DANCING LESSONS!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-3/",
     "date": "2026-02-24T18:30:00",
     "venue": "Foundry"
   },
@@ -261,6 +269,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/aesthetic-perfection-julien-k-priest/",
     "date": "2026-04-11T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Camping in Alaska, Dead Butterflies, Sue"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/camping-in-alaska-dead-butterflies-sue/",
+    "date": "2026-04-18T19:00:00",
     "venue": "Foundry"
   },
   {

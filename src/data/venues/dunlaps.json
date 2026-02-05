@@ -111,6 +111,14 @@
   },
   {
     "artist": [
+      "Matt Sullivan and friends"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/357387",
+    "date": "2026-02-21T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
       "Con T\u00fa - Music Comedy & Variety Show"
     ],
     "link": "https://www.dunlapsbar.com/shows/353896",
@@ -210,6 +218,16 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/353905",
     "date": "2026-04-16T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "Ontologics",
+      "Cellophane Jane",
+      "Meager Kings"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/357388",
+    "date": "2026-05-06T20:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   }
 ]

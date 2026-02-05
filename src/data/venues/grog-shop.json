@@ -1,19 +1,6 @@
 [
   {
     "artist": [
-      "Singer-Songwriter Series",
-      "Henry Loconti",
-      "Chris Anderson",
-      "Mark Mason",
-      "Charlie Mosbrook",
-      "mark mason"
-    ],
-    "link": "https://grogshop.gs/tm-event/singer-songwriter-series-w-henry-loconti-chris-anderson-mark-mason-charlie-mosbrook/",
-    "date": "2026-02-04",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Regas-McDonald",
       "Elderberry Industries",
       "Sacred Canopy"
@@ -538,6 +525,16 @@
   },
   {
     "artist": [
+      "Laura Jane Grace & Band",
+      "LUNG",
+      "Black Guy Fawkes"
+    ],
+    "link": "https://grogshop.gs/tm-event/laura-jane-grace-band/",
+    "date": "2026-04-21",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Glixen + trauma ray",
       "trauma ray",
       "Her New Knife",
@@ -575,6 +572,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/slomosa/",
     "date": "2026-05-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Boogarins"
+    ],
+    "link": "https://grogshop.gs/tm-event/boogarins/",
+    "date": "2026-05-05",
     "venue": "Grog Shop"
   },
   {
@@ -640,7 +645,8 @@
   {
     "artist": [
       "Tigers Jaw",
-      "Pool Kids"
+      "Pool Kids",
+      "Bleary Eyed"
     ],
     "link": "https://grogshop.gs/tm-event/tigers-jaw-pool-kids/",
     "date": "2026-05-28",

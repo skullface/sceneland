@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Regas-McDonald",
-      "Elderberry Industries",
-      "Sacred Canopy"
-    ],
-    "link": "https://grogshop.gs/tm-event/regas-mcdonald-elderberry-industries-sacred-canopy/",
-    "date": "2026-02-05",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "LAUNDRY DAY: The Time of Your Life Tour",
       "Satchel Shure",
       "False Teeth"
@@ -125,6 +115,7 @@
   {
     "artist": [
       "Cherry Yachtsman Record Release Show",
+      "Cool Party & Dick Golden",
       "Cool Party",
       "Dick Golden & The Rock n' Roll Experience"
     ],
@@ -211,6 +202,17 @@
   },
   {
     "artist": [
+      "Westside Live!",
+      "Westside Tony",
+      "bbyace",
+      "Prince Choppa"
+    ],
+    "link": "https://grogshop.gs/tm-event/westside-live-2/",
+    "date": "2026-03-05",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Spiritual Cramp",
       "GUV",
       "Imploders",
@@ -280,7 +282,11 @@
   },
   {
     "artist": [
-      "Rakim"
+      "Rakim",
+      "Floco Torres",
+      "United Grind",
+      "DJ Knyce",
+      "Whats His Face"
     ],
     "link": "https://grogshop.gs/tm-event/rakim/",
     "date": "2026-03-15",
@@ -342,6 +348,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
     "date": "2026-03-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Chuck Ragan"
+    ],
+    "link": "https://grogshop.gs/tm-event/chuck-ragan/",
+    "date": "2026-03-27",
     "venue": "Grog Shop"
   },
   {

@@ -97,6 +97,14 @@
   },
   {
     "artist": [
+      "Kay\u2019s Birthday Bash"
+    ],
+    "link": "https://www.eventbrite.com/e/kays-birthday-bash-tickets-1982476132479",
+    "date": "2026-02-27T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Mr. Jeff Live!"
     ],
     "link": "https://www.eventbrite.com/e/mr-jeff-live-tickets-1980432543048",
@@ -153,9 +161,9 @@
   },
   {
     "artist": [
-      "The Ike Reilly Assassination"
+      "The Ike Reilly Assassination, Demos Papadimas"
     ],
-    "link": "https://www.eventbrite.com/e/the-ike-reilly-assassination-tickets-1981367080274",
+    "link": "https://www.eventbrite.com/e/the-ike-reilly-assassinationdemos-papadimas-tickets-1981367080274",
     "date": "2026-03-08T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -189,6 +197,14 @@
     ],
     "link": "https://www.eventbrite.com/e/left-lane-cruiserpapers-tickets-1980556960183",
     "date": "2026-03-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "La Noche De La Salsa"
+    ],
+    "link": "https://www.eventbrite.com/e/la-noche-de-la-salsa-tickets-1982476583829",
+    "date": "2026-03-27T00:00:01",
     "venue": "Westside Bowl"
   },
   {

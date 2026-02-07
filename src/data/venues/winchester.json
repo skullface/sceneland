@@ -177,6 +177,22 @@
   },
   {
     "artist": [
+      "the fell"
+    ],
+    "link": "https://www.ticketweb.com/event/the-fell-the-winchester-tickets/14147564",
+    "date": "2026-03-23T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Cottage Chemistry: A Heated Rivalry Dance Party"
+    ],
+    "link": "https://www.ticketweb.com/event/cottage-chemistry-a-heated-rivalry-the-winchester-tickets/14145744",
+    "date": "2026-03-27T21:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Platinum Moon"
     ],
     "link": "https://www.ticketweb.com/event/platinum-moon-the-winchester-tickets/14130424",
@@ -213,14 +229,6 @@
     ],
     "link": "https://www.ticketweb.com/event/tyler-rich-danny-worsnop-the-winchester-tickets/14066994",
     "date": "2026-04-17T19:15:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "The Broken View"
-    ],
-    "link": "https://www.ticketweb.com/event/the-broken-view-the-winchester-tickets/14067534",
-    "date": "2026-04-19T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

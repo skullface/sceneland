@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Gayme Night"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/gayme-night/",
-    "date": "2026-02-06T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "ONE NIGHT AT\u2026THE CHAMBER"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/one-night-at-the-chamber/",
-    "date": "2026-02-06T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "BUKU"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/buku/",
@@ -129,14 +113,6 @@
   },
   {
     "artist": [
-      "SUNNY MOON MARKET"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/sunny-moon-market/",
-    "date": "2026-02-28T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "AHEE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/ahee/",
@@ -197,6 +173,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/emo-night-ft-flicker-fade-live-band-emo-night/",
     "date": "2026-03-13T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Girl Cologne, Riley Burke Band, Sundial Ceremony"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/girl-cologne-riley-burke-band-sundial-ceremony/",
+    "date": "2026-03-14T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -405,6 +389,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-22/",
     "date": "2026-06-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "October Beach Club, M.O.O.K.Y, Rosana, Lady Melma, Rorschach"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/october-beach-club-m-o-o-k-y-rosana-lady-melma-rorschach/",
+    "date": "2026-06-12T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

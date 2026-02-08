@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "JDB Presents: The Pick of Destiny \u2013 A Tribute to Tenacious D"
-    ],
-    "link": "https://www.ticketweb.com/event/jdb-presents-the-pick-of-the-winchester-tickets/14000354",
-    "date": "2026-02-06T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Tommy \u2013 A Rock Opera"
-    ],
-    "link": "https://www.ticketweb.com/event/tommy-a-rock-the-winchester-tickets/14000334",
-    "date": "2026-02-07T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Bottoms Up! Yoga & Brew + All-Levels Yoga Class at The Winchester"
     ],
     "link": "https://www.ticketweb.com/event/bottoms-up-yoga-brew-the-winchester-tickets/14093114",
@@ -77,6 +61,14 @@
     ],
     "link": "https://www.ticketweb.com/event/blues-for-greeny-the-winchester-tickets/14066374",
     "date": "2026-02-24T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "MJT"
+    ],
+    "link": "https://www.ticketweb.com/event/mjt-the-winchester-tickets/14116894",
+    "date": "2026-02-26T20:00:00",
     "venue": "Winchester Tavern"
   },
   {

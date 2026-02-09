@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "C. L. A."
-    ],
-    "link": "https://noclasscle.com/events/c-l-a",
-    "date": "2026-02-06T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "BINGO DEATH MATCH ALL STARS"
-    ],
-    "link": "https://noclasscle.com/events/bingo-death-match-all-stars",
-    "date": "2026-02-07T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MX. CLASSLESS ACT - WEEK 3"
     ],
     "link": "https://noclasscle.com/events/mx-classless-act-week-3",
@@ -73,6 +57,14 @@
   },
   {
     "artist": [
+      "MIGUEL CAFE"
+    ],
+    "link": "https://noclasscle.com/events/miguel-cafe-shortt-stories",
+    "date": "2026-02-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "MARQUIS GAYLORD'S ODDITORIUM"
     ],
     "link": "https://noclasscle.com/events/odditorium-afrofuture",
@@ -93,6 +85,14 @@
     ],
     "link": "https://noclasscle.com/events/berghaint-2-27-26",
     "date": "2026-02-27T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MURDEROUS VISION"
+    ],
+    "link": "https://noclasscle.com/events/murderous-vision",
+    "date": "2026-02-28T00:00:01",
     "venue": "No Class"
   },
   {
@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "HIRS COLLECTIVE"
+    ],
+    "link": "https://noclasscle.com/events/hirs-commitment",
+    "date": "2026-03-28T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "FROG LEGS"
     ],
     "link": "https://noclasscle.com/events/frog-legs",
@@ -157,6 +165,14 @@
     ],
     "link": "https://noclasscle.com/events/ghost-bath",
     "date": "2026-05-15T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "WITCHVOMIT"
+    ],
+    "link": "https://noclasscle.com/events/witchvomit",
+    "date": "2026-05-20T00:00:01",
     "venue": "No Class"
   },
   {

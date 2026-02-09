@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BUKU"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/buku/",
-    "date": "2026-02-07T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "MUSIC TRIVI-AOKE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-5/",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/wasted-society-priscilla-messmaker-cellophane-jane/",
     "date": "2026-02-27T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "SUNNY MOON MARKET"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/sunny-moon-market/",
+    "date": "2026-02-28T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

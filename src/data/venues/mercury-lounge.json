@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-5/",
-    "date": "2026-02-09T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "BEGINNER LINE DANCING LESSONS"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons-3/",
@@ -97,7 +89,7 @@
   },
   {
     "artist": [
-      "Wasted Society, Priscilla, Messmaker, Cellophane Jane"
+      "Priscilla, Messmaker, Cellophane Jane, Wasted Society"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/wasted-society-priscilla-messmaker-cellophane-jane/",
     "date": "2026-02-27T00:00:01",
@@ -113,10 +105,10 @@
   },
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
+      "AHEE"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-8/",
-    "date": "2026-03-02T00:00:01",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/ahee/",
+    "date": "2026-02-28T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -217,6 +209,14 @@
   },
   {
     "artist": [
+      "BURLY BABES OPEN STAGE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/burly-babes-open-stage/",
+    "date": "2026-03-28T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "MUSIC TRIVI-AOKE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-12/",
@@ -245,6 +245,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/lynch-mob/",
     "date": "2026-04-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MEDIA DAY"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/media-day/",
+    "date": "2026-04-11T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

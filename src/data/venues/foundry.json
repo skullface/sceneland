@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Metalcore Wednesday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-2/",
-    "date": "2026-02-11T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "LIVE ACOUSTIC NIGHT IN THE UNHINGED LOUNGE"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/live-acoustic-night-in-the-unhinged-lounge/",
@@ -301,6 +293,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/master-boot-record/",
     "date": "2026-04-29T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "INTERGALACTIC PIZZA PARTY ABOARD THE MILLENNIUM FOUNDRY"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/intergalactic-pizza-party-aboard-the-millennium-foundry/",
+    "date": "2026-05-02T18:00:00",
     "venue": "Foundry"
   },
   {

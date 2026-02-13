@@ -89,6 +89,14 @@
   },
   {
     "artist": [
+      "CLOUDY WITH A CHANCE..."
+    ],
+    "link": "https://noclasscle.com/events/cloudy-with-a-chance-nightmare-fuel",
+    "date": "2026-03-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "PUTRID LIQUID"
     ],
     "link": "https://noclasscle.com/events/putrid-liquid-cheap-gas",
@@ -101,6 +109,22 @@
     ],
     "link": "https://noclasscle.com/events/jesus-wept",
     "date": "2026-03-07T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MUD WHALE"
+    ],
+    "link": "https://noclasscle.com/events/mud-whale-lemonbar",
+    "date": "2026-03-09T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "THE PENTAGRAM STRING BAND"
+    ],
+    "link": "https://noclasscle.com/events/the-pentagram-string-band",
+    "date": "2026-03-15T00:00:01",
     "venue": "No Class"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Deraps"
-    ],
-    "link": "https://www.ticketweb.com/event/deraps-the-winchester-tickets/14645503",
-    "date": "2026-02-12T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Zac Ross of Man Overboard, FAWX & Emo night after party"
     ],
     "link": "https://www.ticketweb.com/event/zac-ross-of-man-overboard-the-winchester-tickets/14014304",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.ticketweb.com/event/urge-presents-touched-by-cupid-the-winchester-tickets/14010944",
     "date": "2026-02-14T21:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "CANDY BINGO!!"
+    ],
+    "link": "https://www.ticketweb.com/event/candy-bingo-the-winchester-tickets/14159874",
+    "date": "2026-02-18T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -57,10 +57,26 @@
   },
   {
     "artist": [
+      "PLANT BINGO!!"
+    ],
+    "link": "https://www.ticketweb.com/event/plant-bingo-the-winchester-tickets/14159884",
+    "date": "2026-02-25T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "MJT"
     ],
     "link": "https://www.ticketweb.com/event/mjt-the-winchester-tickets/14116894",
     "date": "2026-02-26T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Silver Springs \u2013 A Fleetwood Mac Experience"
+    ],
+    "link": "https://www.ticketweb.com/event/silver-springs-a-the-winchester-tickets/13976204",
+    "date": "2026-02-28T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -213,22 +229,6 @@
     ],
     "link": "https://www.ticketweb.com/event/albert-cummings-the-winchester-tickets/13994704",
     "date": "2026-04-09T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Tyler Rich & Danny Worsnop"
-    ],
-    "link": "https://www.ticketweb.com/event/tyler-rich-danny-worsnop-the-winchester-tickets/14066994",
-    "date": "2026-04-17T19:15:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "The Broken View"
-    ],
-    "link": "https://www.ticketweb.com/event/the-broken-view-the-winchester-tickets/14067534",
-    "date": "2026-04-19T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

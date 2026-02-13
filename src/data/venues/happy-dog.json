@@ -65,9 +65,9 @@
   },
   {
     "artist": [
-      "The Spits"
+      "The Spits, Cruelster, Hex"
     ],
-    "link": "https://app.opendate.io/e/the-spits-march-04-2026-655762",
+    "link": "https://app.opendate.io/e/the-spits-cruelster-hex-march-04-2026-655762",
     "date": "2026-03-04T00:00:01",
     "venue": "Happy Dog"
   },
@@ -125,6 +125,14 @@
     ],
     "link": "https://app.opendate.io/e/generifus-john-s-little-sister-plastic-wildflowers-march-13-2026-668078",
     "date": "2026-03-13T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "On Cinema at the Cinema Oscar Watch Party in the Underdog!"
+    ],
+    "link": "https://app.opendate.io/e/on-cinema-at-the-cinema-oscar-watch-party-in-the-underdog-march-15-2026-670345",
+    "date": "2026-03-15T00:00:01",
     "venue": "Happy Dog"
   },
   {

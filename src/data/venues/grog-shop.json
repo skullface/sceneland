@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Jaguar 777",
-      "Charity Cunningham",
-      "Boltnyk 27",
-      "Mimi Dromette"
-    ],
-    "link": "https://grogshop.gs/tm-event/jaguar-777-charity-cunningham-boltnyk-27-mimi-dromette/",
-    "date": "2026-02-13",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Sk8 Art Show",
       "Muzzle",
       "Mr. California",
@@ -396,20 +385,20 @@
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
-    ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
-    "date": "2026-04-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Golomb",
       "Lavender Jets",
       "Powers/Rolin Duo"
     ],
     "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "date": "2026-04-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Andy Hull",
+      "Brother Bird"
+    ],
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },

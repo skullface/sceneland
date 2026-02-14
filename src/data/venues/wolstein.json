@@ -9,6 +9,22 @@
   },
   {
     "artist": [
+      "CSU Mens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-mens-basketball-3/",
+    "date": "2026-02-15T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "CSU Womens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
+    "date": "2026-02-19T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Cleveland Crunch"
     ],
     "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
@@ -37,6 +53,14 @@
     ],
     "link": "https://www.wolsteincenter.com/event/winter-jam-26/",
     "date": "2026-03-27T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "TNA Wrestling: Rebellion"
+    ],
+    "link": "https://www.wolsteincenter.com/event/tna-wrestling-rebellion/",
+    "date": "2026-04-11T00:00:01",
     "venue": "Wolstein Center"
   },
   {

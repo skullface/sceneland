@@ -81,14 +81,6 @@
   },
   {
     "artist": [
-      "Silver Springs \u2013 A Fleetwood Mac Experience"
-    ],
-    "link": "https://www.ticketweb.com/event/silver-springs-a-the-winchester-tickets/13976204",
-    "date": "2026-02-28T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Trace Bundy"
     ],
     "link": "https://www.ticketweb.com/event/trace-bundy-the-winchester-tickets/13976884",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.ticketweb.com/event/sponge-the-winchester-tickets/13975214",
     "date": "2026-03-07T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Bluegrass Bruch W Whiskey Drinks & Upstream Drifters"
+    ],
+    "link": "https://www.ticketweb.com/event/bluegrass-bruch-w-whiskey-drinks-the-winchester-tickets/14161414",
+    "date": "2026-03-08T12:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -229,6 +229,22 @@
     ],
     "link": "https://www.ticketweb.com/event/albert-cummings-the-winchester-tickets/13994704",
     "date": "2026-04-09T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Tyler Rich & Danny Worsnop"
+    ],
+    "link": "https://www.ticketweb.com/event/tyler-rich-danny-worsnop-the-winchester-tickets/14066994",
+    "date": "2026-04-17T19:15:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Broken View"
+    ],
+    "link": "https://www.ticketweb.com/event/the-broken-view-the-winchester-tickets/14067534",
+    "date": "2026-04-19T19:00:00",
     "venue": "Winchester Tavern"
   }
 ]

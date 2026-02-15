@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "90'S + 2k'S R&B / HIPHOP VALENTINE'S DAY PARTY W/ DJ MOIST"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/90s-2ks-rb-hiphop-valentines-day-party/",
-    "date": "2026-02-14T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "FOODIE WORLD"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/foodie-world/",
@@ -101,14 +93,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-8/",
     "date": "2026-03-02T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "DISCO, ALWAYS \u2013 A Harry Styles Dance Night"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/disco-always-a-harry-styles-dance-night/",
-    "date": "2026-03-06T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -217,17 +201,17 @@
   },
   {
     "artist": [
-      "Zombie Fashion Show"
+      "MUSIC TRIVI-AOKE"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/zombie-fashion-show/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-12/",
     "date": "2026-03-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
+      "Zombie Fashion Show"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-12/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/zombie-fashion-show/",
     "date": "2026-03-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -413,6 +397,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-23/",
     "date": "2026-06-15T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-24/",
+    "date": "2026-06-22T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

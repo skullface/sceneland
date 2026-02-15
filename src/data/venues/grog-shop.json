@@ -1,19 +1,6 @@
 [
   {
     "artist": [
-      "Sk8 Art Show",
-      "Muzzle",
-      "Mr. California",
-      "Ringer",
-      "Non Bruises: Benefit for Neighborhood Pets",
-      "Non Bruises"
-    ],
-    "link": "https://grogshop.gs/tm-event/sk8-art-show-w-muzzle-mr-california-ringer-non-bruises-benefit-for-neighborhood-pets/",
-    "date": "2026-02-14",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Grown & Sexy Valentine's Day Bash",
       "Dj Coco-Z"
     ],
@@ -385,20 +372,20 @@
   },
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets",
-      "Powers/Rolin Duo"
+      "Andy Hull",
+      "Brother Bird"
     ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
+      "Golomb",
+      "Lavender Jets",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },

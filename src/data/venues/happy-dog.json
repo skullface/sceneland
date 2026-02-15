@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Burning River Roller Derby presents: Love Hurts - a Karaoke Fundraiser!"
-    ],
-    "link": "https://app.opendate.io/e/burning-river-roller-derby-presents-love-hurts-a-karaoke-fundraiser-february-14-2026-655766",
-    "date": "2026-02-14T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Signal Cle presents: Classical Revolution!"
     ],
     "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-february-18-2026-655486",
@@ -33,14 +25,6 @@
   },
   {
     "artist": [
-      "Valus, Soleo"
-    ],
-    "link": "https://app.opendate.io/e/valus-soleo-february-27-2026-658425",
-    "date": "2026-02-27T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Saint Fragile, Non Bruises"
     ],
     "link": "https://app.opendate.io/e/saint-fragile-non-bruises-february-28-2026-649980",
@@ -57,9 +41,9 @@
   },
   {
     "artist": [
-      "The Spits, Cruelster, Hex"
+      "The Spits, Cruelster, Hex, DJ Emilskins"
     ],
-    "link": "https://app.opendate.io/e/the-spits-cruelster-hex-march-04-2026-655762",
+    "link": "https://app.opendate.io/e/the-spits-cruelster-hex-dj-emilskins-march-04-2026-655762",
     "date": "2026-03-04T00:00:01",
     "venue": "Happy Dog"
   },
@@ -73,9 +57,9 @@
   },
   {
     "artist": [
-      "Breathe in Stereo single release w/ Antighost, Wig Doubt"
+      "Breathe in Stereo, Bed Twerp, Wig Doubt"
     ],
-    "link": "https://app.opendate.io/e/breathe-in-stereo-single-release-w-antighost-wig-doubt-march-06-2026-658426",
+    "link": "https://app.opendate.io/e/breathe-in-stereo-bed-twerp-wig-doubt-march-06-2026-658426",
     "date": "2026-03-06T00:00:01",
     "venue": "Happy Dog"
   },
@@ -177,6 +161,14 @@
   },
   {
     "artist": [
+      "Man of the Flood, Cherry!, Rent for Cheryl"
+    ],
+    "link": "https://app.opendate.io/e/man-of-the-flood-cherry-rent-for-cheryl-march-28-2026-670609",
+    "date": "2026-03-28T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Touchdown Jesus, False Teeth, Bender"
     ],
     "link": "https://app.opendate.io/e/touchdown-jesus-false-teeth-bender-march-29-2026-654399",
@@ -205,6 +197,14 @@
     ],
     "link": "https://app.opendate.io/e/dyngus-day-april-06-2026-658466",
     "date": "2026-04-06T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Eraser, Winston Hightower, Liquid Images"
+    ],
+    "link": "https://app.opendate.io/e/eraser-winston-hightower-liquid-images-april-08-2026-670610",
+    "date": "2026-04-08T00:00:01",
     "venue": "Happy Dog"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Pharaoh Scribes of Funk Presents Candlelight Lovers Night"
-    ],
-    "link": "https://www.eventbrite.com/e/pharaoh-scribes-of-funk-presents-candlelight-lovers-night-tickets-1980433047557",
-    "date": "2026-02-14T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Rebelmatic, Lung, Papers"
     ],
     "link": "https://www.eventbrite.com/e/rebelmaticlungpapers-tickets-1982054206487",
@@ -21,6 +13,14 @@
     ],
     "link": "https://www.eventbrite.com/e/goth-night-tickets-1981040957833",
     "date": "2026-02-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Royce Anthony, Cassette Confidential, Mayzie"
+    ],
+    "link": "https://www.eventbrite.com/e/royce-anthonycassette-confidentialmayzie-tickets-1983088963473",
+    "date": "2026-02-20T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -153,6 +153,14 @@
   },
   {
     "artist": [
+      "King Falcon, \u00d8utlier, Outrun Infinity"
+    ],
+    "link": "https://www.eventbrite.com/e/king-falconutlieroutrun-infinity-tickets-1983086488069",
+    "date": "2026-03-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Left Lane Cruiser, Papers"
     ],
     "link": "https://www.eventbrite.com/e/left-lane-cruiserpapers-tickets-1980556960183",
@@ -249,6 +257,14 @@
   },
   {
     "artist": [
+      "Gentry Blue, Meat Dept, Doll Trap, Miss Dreadful"
+    ],
+    "link": "https://www.eventbrite.com/e/gentry-bluemeat-deptdoll-trapmiss-dreadful-tickets-1983093844071",
+    "date": "2026-04-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Heavy Temple, Waxed, Slow Wake"
     ],
     "link": "https://www.eventbrite.com/e/heavy-templewaxedslow-wake-tickets-1981353596945",
@@ -265,9 +281,25 @@
   },
   {
     "artist": [
+      "Rockin for Crohn\u2019s Awareness"
+    ],
+    "link": "https://www.eventbrite.com/e/rockin-for-crohns-awareness-tickets-1983087102908",
+    "date": "2026-04-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "New Moon Archive, Wes Devil, Turning Tydes"
     ],
     "link": "https://www.eventbrite.com/e/new-moon-archivewes-devilturning-tydes-tickets-1980817710093",
+    "date": "2026-05-16T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Abraded, Gouted Corpse, Gelatin Skeleton, Leptospira"
+    ],
+    "link": "https://www.eventbrite.com/e/abradedgouted-corpsegelatin-skeletonleptospira-tickets-1983105753693",
     "date": "2026-05-16T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -293,6 +325,22 @@
     ],
     "link": "https://www.eventbrite.com/e/twitch-reunion-show-with-jcreexh-danny-hedrix-tickets-1981021626011",
     "date": "2026-06-20T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Deadly Confessionals, Boyd & The Monkeys, Moon Tipper"
+    ],
+    "link": "https://www.eventbrite.com/e/deadly-confessionalsboyd-the-monkeysmoon-tipper-tickets-1983099864077",
+    "date": "2026-06-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "WednesdayDemonstration, SuburbanDowngrade, TheWasted, Owned by A##holes, Gatlin"
+    ],
+    "link": "https://www.eventbrite.com/e/wednesdaydemonstrationsuburbandowngradethewastedowned-by-aholesgatlin-tickets-1983090037686",
+    "date": "2026-07-17T00:00:01",
     "venue": "Westside Bowl"
   },
   {

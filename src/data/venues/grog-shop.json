@@ -1,18 +1,6 @@
 [
   {
     "artist": [
-      "I'm From Cleveland presents 216 Day",
-      "Freshie",
-      "Buddy Vonn",
-      "Kaysh",
-      "Young Shon"
-    ],
-    "link": "https://grogshop.gs/tm-event/im-from-cleveland-presents-216-day/",
-    "date": "2026-02-16",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Elise Trouw presents: The Diary of Elon Lust Tour",
       "tessas"
     ],
@@ -314,7 +302,9 @@
   },
   {
     "artist": [
-      "Chuck Ragan"
+      "Chuck Ragan",
+      "Flippant",
+      "Heart & Lung"
     ],
     "link": "https://grogshop.gs/tm-event/chuck-ragan/",
     "date": "2026-03-27",
@@ -363,20 +353,20 @@
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
-    ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
-    "date": "2026-04-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Golomb",
       "Lavender Jets",
       "Powers/Rolin Duo"
     ],
     "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "date": "2026-04-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Andy Hull",
+      "Brother Bird"
+    ],
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },

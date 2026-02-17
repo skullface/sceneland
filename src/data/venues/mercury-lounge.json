@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-6/",
-    "date": "2026-02-16T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "MARDI GRAS! With Da Land Brass Band & Big Hoke"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/mardi-gras-with-da-land-brass-band-big-hoke/",
@@ -316,6 +308,14 @@
       "Lords of Acid, Dead on a Sunday, Princess Superstar, Tony And The Kiki, MZ Neon"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/lords-of-acid-dead-on-a-sunday-princess-superstar-tony-and-the-kiki-mz-neon/",
+    "date": "2026-05-11T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-18/",
     "date": "2026-05-11T00:00:01",
     "venue": "Mercury Music Lounge"
   },

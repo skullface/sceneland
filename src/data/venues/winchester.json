@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kristine Jackson"
-    ],
-    "link": "https://www.ticketweb.com/event/kristine-jackson-the-winchester-tickets/14164484",
-    "date": "2026-02-16T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "CANDY BINGO!!"
     ],
     "link": "https://www.ticketweb.com/event/candy-bingo-the-winchester-tickets/14159874",
@@ -181,6 +173,14 @@
     ],
     "link": "https://www.ticketweb.com/event/jimmies-chicken-shack-the-winchester-tickets/14518043",
     "date": "2026-03-22T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "the fell"
+    ],
+    "link": "https://www.ticketweb.com/event/the-fell-the-winchester-tickets/14147564",
+    "date": "2026-03-23T19:00:00",
     "venue": "Winchester Tavern"
   },
   {

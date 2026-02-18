@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "BORED GAME NIGHT"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/bored-game-night-6/",
-    "date": "2026-02-16T17:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Book Banter Brigade"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade/",
-    "date": "2026-02-17T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "For Absent Friends Metalcore Night"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/for-absent-friends-metalcore-night-2/",
@@ -25,7 +9,7 @@
   },
   {
     "artist": [
-      "Rustfed, Necrobiome, Extinction Agenda,   Thee Adversary"
+      "Rustfed, Leptospira, Extinction Agenda,   Thee Adversary"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/rustfed-necrobiome-extinction-agenda-thee-adversary/",
     "date": "2026-02-20T19:00:00",
@@ -57,17 +41,17 @@
   },
   {
     "artist": [
-      "BEGINNER LINE DANCING LESSONS!"
+      "Beginner Line Dancing Lessons!"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-3/",
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-2/",
     "date": "2026-02-24T18:30:00",
     "venue": "Foundry"
   },
   {
     "artist": [
-      "Beginner Line Dancing Lessons!"
+      "BEGINNER LINE DANCING LESSONS!"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-2/",
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-3/",
     "date": "2026-02-24T18:30:00",
     "venue": "Foundry"
   },
@@ -109,6 +93,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/see-you-next-tuesday-underneath-mutilatred-warmbody-scrotal-erosion/",
     "date": "2026-03-01T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "For Absent Friends Metalcore Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/for-absent-friends-metalcore-night-3/",
+    "date": "2026-03-04T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "The Bastard Bearded Irishmen, The Brazen Rogues, Brave The Sea"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/the-bastard-bearded-irishmen-the-brazen-rogues-brave-the-sea/",
+    "date": "2026-03-06T19:00:00",
     "venue": "Foundry"
   },
   {

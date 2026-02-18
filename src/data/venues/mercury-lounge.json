@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "MARDI GRAS! With Da Land Brass Band & Big Hoke"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/mardi-gras-with-da-land-brass-band-big-hoke/",
-    "date": "2026-02-17T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "CLOCKWORK"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/clockwork-3/",
     "date": "2026-02-20T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Sunny Market"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/sunny-market/",
+    "date": "2026-02-21T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -101,6 +101,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-9/",
     "date": "2026-03-09T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Angry Samoans"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/angry-samoans/",
+    "date": "2026-03-11T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -321,14 +329,6 @@
   },
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-18/",
-    "date": "2026-05-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Powerman 5000, 12 Stones, Makes My Blood Dance"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/powerman-5000-12-stones-makes-my-blood-dance/",
@@ -357,6 +357,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-20/",
     "date": "2026-05-25T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "The Black Queen: Fever Daydream 10 Year Anniversary"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-black-queen-fever-daydream-10-year-anniversary/",
+    "date": "2026-05-29T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

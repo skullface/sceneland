@@ -19,6 +19,15 @@
   },
   {
     "artist": [
+      "Springsteen & E Street",
+      "Land of Hopes & Dreams American Tour"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/springsteen-e-street-260522",
+    "date": "2026-05-22T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
       "A$AP Rocky: Don't Be Dumb World Tour"
     ],
     "link": "https://www.rocketarena.com/events/detail/asap-rocky-052926",
@@ -71,7 +80,7 @@
   },
   {
     "artist": [
-      "J. Cole: The Fall-Off Tour"
+      "J. Cole: The Fall-Off World Tour"
     ],
     "link": "https://www.rocketarena.com/events/detail/j-cole-260815",
     "date": "2026-08-15T00:00:01",

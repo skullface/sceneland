@@ -353,20 +353,20 @@
   },
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets",
-      "Powers/Rolin Duo"
+      "Andy Hull",
+      "Brother Bird"
     ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
+      "Golomb",
+      "Lavender Jets",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
@@ -420,7 +420,8 @@
   {
     "artist": [
       "Together Pangea and The Red Pears",
-      "The Red Pears"
+      "The Red Pears",
+      "The High Curbs"
     ],
     "link": "https://grogshop.gs/tm-event/together-pangea-and-the-red-pears/",
     "date": "2026-04-11",
@@ -533,6 +534,17 @@
   },
   {
     "artist": [
+      "FILTH: Back To Tha Gutta Tour",
+      "Resistor",
+      "Monochromatic Black",
+      "Inferious"
+    ],
+    "link": "https://grogshop.gs/tm-event/filth-back-to-tha-gutta-tour/",
+    "date": "2026-04-29",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Defeated Sanity",
       "Inferi",
       "Organectomy",
@@ -549,6 +561,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/slomosa/",
     "date": "2026-05-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Failure: Location Lost Tour",
+      "All Under Heaven"
+    ],
+    "link": "https://grogshop.gs/tm-event/failure-location-lost-tour/",
+    "date": "2026-05-03",
     "venue": "Grog Shop"
   },
   {
@@ -627,6 +648,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/tigers-jaw-pool-kids/",
     "date": "2026-05-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Sonido Gallo Negro",
+      "Hello!3D"
+    ],
+    "link": "https://grogshop.gs/tm-event/sonido-gallo-negro-hello3d/",
+    "date": "2026-06-24",
     "venue": "Grog Shop"
   },
   {

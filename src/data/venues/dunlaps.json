@@ -114,6 +114,17 @@
   },
   {
     "artist": [
+      "Motel Portrait",
+      "Death in Bloom",
+      "Alphabet",
+      "Braininavat"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/359515",
+    "date": "2026-03-13T20:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
       "Bingorama"
     ],
     "link": "https://www.dunlapsbar.com/shows/359317",
@@ -149,6 +160,17 @@
   },
   {
     "artist": [
+      "Sunday Morning",
+      "Laid Low",
+      "Rusted Hearts",
+      "Park National"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/359471",
+    "date": "2026-04-03T19:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
       "G.S. Harper\u2019s Cleveland Jubilee"
     ],
     "link": "https://www.dunlapsbar.com/shows/353905",
@@ -171,6 +193,14 @@
     ],
     "link": "https://www.dunlapsbar.com/shows/358002",
     "date": "2026-04-24T21:00:00",
+    "venue": "Dunlap\u2019s Corner Bar"
+  },
+  {
+    "artist": [
+      "The Filthy Heathens"
+    ],
+    "link": "https://www.dunlapsbar.com/shows/359489",
+    "date": "2026-05-02T20:00:00",
     "venue": "Dunlap\u2019s Corner Bar"
   },
   {

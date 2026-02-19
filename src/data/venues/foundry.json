@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "For Absent Friends Metalcore Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/for-absent-friends-metalcore-night-2/",
-    "date": "2026-02-18T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Rustfed, Leptospira, Extinction Agenda,   Thee Adversary"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/rustfed-necrobiome-extinction-agenda-thee-adversary/",
@@ -121,7 +113,7 @@
   },
   {
     "artist": [
-      "Nailed Shut MA, Godseyes"
+      "Nailed Shut MA, Godseyes, Chalked, Akira"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nailed-shut-ma-godseyes/",
     "date": "2026-03-08T18:00:00",
@@ -177,6 +169,14 @@
   },
   {
     "artist": [
+      "Book Banter Brigade"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade-3/",
+    "date": "2026-03-24T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Metalcore Wednesday"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-5/",
@@ -209,10 +209,26 @@
   },
   {
     "artist": [
-      "ignominious, The Rocker Show, Inoculation, Cave Dweller, Warmbody"
+      "Priscilla, Wasted Society, The Daze, Free Drew"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/ignominious-the-rocker-show-inoculation-cave-dweller-warmbody/",
-    "date": "2026-04-04T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/priscilla-wasted-society-the-daze-free-drew/",
+    "date": "2026-04-03T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Beginner Line Dancing Lessons!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-5/",
+    "date": "2026-04-07T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Metalcore Wednesday"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-6/",
+    "date": "2026-04-08T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -221,6 +237,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/aesthetic-perfection-julien-k-priest/",
     "date": "2026-04-11T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "For Absent Friends Metalcore Night"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/for-absent-friends-metalcore-night-5/",
+    "date": "2026-04-15T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -237,6 +261,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/take-the-flame-death-exhale-moneyball/",
     "date": "2026-04-19T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Metalcore Wednesday"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-7/",
+    "date": "2026-04-22T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -285,14 +317,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/dead-again-type-o-negative-tribute-issues-korn-tribute/",
     "date": "2026-05-23T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Ventana, Polkadot Cadaver, Beneath the Hollow , Sassafras Cove"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/ventana-polkadot-cadaver-beneath-the-hollow-sassafras-cove/",
-    "date": "2026-05-24T18:00:00",
     "venue": "Foundry"
   }
 ]

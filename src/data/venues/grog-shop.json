@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Elise Trouw presents: The Diary of Elon Lust Tour",
-      "tessas"
-    ],
-    "link": "https://grogshop.gs/tm-event/elise-trouw-presents-the-diary-of-elon-lust-tour/",
-    "date": "2026-02-19",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Faith & Whiskey",
       "State Rd",
       "Out of Order"
@@ -438,7 +429,8 @@
   },
   {
     "artist": [
-      "Black Pistol Fire: Flagrant Act of Bliss"
+      "Black Pistol Fire: Flagrant Act of Bliss",
+      "Teddy at Night"
     ],
     "link": "https://grogshop.gs/tm-event/black-pistol-fire-flagrant-act-of-bliss/",
     "date": "2026-04-14",
@@ -626,6 +618,15 @@
       "Los Mesoneros"
     ],
     "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "date": "2026-05-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Home Front",
+      "Bootlicker"
+    ],
+    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },

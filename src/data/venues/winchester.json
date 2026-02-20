@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sunshine Daydream"
-    ],
-    "link": "https://www.ticketweb.com/event/sunshine-daydream-the-winchester-tickets/14105244",
-    "date": "2026-02-19T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Emo Night Karaoke"
     ],
     "link": "https://www.ticketweb.com/event/emo-night-karaoke-the-winchester-tickets/14543523",
@@ -89,10 +81,18 @@
   },
   {
     "artist": [
-      "Sponge"
+      "Bluegrass Bruch W Whiskey Drinks & Upstream Drifters"
     ],
-    "link": "https://www.ticketweb.com/event/sponge-the-winchester-tickets/13975214",
-    "date": "2026-03-07T20:00:00",
+    "link": "https://www.ticketweb.com/event/bluegrass-bruch-w-whiskey-drinks-the-winchester-tickets/14161414",
+    "date": "2026-03-08T12:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Too Hot for Leather w/ Sabon & Burning River"
+    ],
+    "link": "https://www.ticketweb.com/event/too-hot-for-leather-w-the-winchester-tickets/14616273",
+    "date": "2026-03-08T19:00:00",
     "venue": "Winchester Tavern"
   },
   {

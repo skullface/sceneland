@@ -185,6 +185,14 @@
   },
   {
     "artist": [
+      "Mauled, Thus Spoke Zarathustra, Surfaced, Backbiter, Lie In Wait"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/mauled-thus-spoke-zarathustra-surfaced-backbiter-lie-in-wait/",
+    "date": "2026-03-26T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Handsome Dick Manitoba, The Strains, The A-10s, The Robert Conn Band"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/handsome-dick-manitoba-the-strains-the-a-10s-the-robert-conn-band/",
@@ -213,6 +221,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/priscilla-wasted-society-the-daze-free-drew/",
     "date": "2026-04-03T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "ignominious, The Rocker Show, Inoculation, Cave Dweller, Warmbody"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/ignominious-the-rocker-show-inoculation-cave-dweller-warmbody/",
+    "date": "2026-04-04T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -309,14 +325,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/josey-scott-priscilla/",
     "date": "2026-05-07T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Dead Again-Type O Negative Tribute, Issues-Korn Tribute"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/dead-again-type-o-negative-tribute-issues-korn-tribute/",
-    "date": "2026-05-23T19:00:00",
     "venue": "Foundry"
   }
 ]

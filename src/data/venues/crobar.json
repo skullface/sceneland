@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Renaissance Noire 3: Black Voltron, Nuke Franklin, Neo Kilo, Dizygotic Energy, Ree Majestyk, Valentine Vandal, Willow"
-    ],
-    "link": "https://secure.crobar1921.com/event/renaissance-noire-3",
-    "date": "2027-02-13T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
-      "4 Year Anniversary: Enigma presents:, Nanoos (Chicago), Navy Jayde, Battyjack, Kimpiid DJ"
-    ],
-    "link": "https://secure.crobar1921.com/event/4-year-anniversary--nanoos",
-    "date": "2027-02-14T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "5am Trio: otterb\u00e4hn, Bando, M. Law"
     ],
     "link": "https://secure.crobar1921.com/event/5am-trio",
@@ -28,7 +12,7 @@
       "4 Year Anniversary: Justin Martin (SF), Govan Jones (Detroit), Delish"
     ],
     "link": "https://secure.crobar1921.com/event/4-year-anniversary--justin-martin",
-    "date": "2026-02-20T00:00:01",
+    "date": "2027-02-20T00:00:01",
     "venue": "Crobar"
   },
   {
@@ -53,6 +37,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/perf57",
     "date": "2026-02-28T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Disfunktional: DJ Collette, Delish, Le Mew"
+    ],
+    "link": "https://secure.crobar1921.com/event/disfunktinoal--dj-collette",
+    "date": "2026-03-14T00:00:01",
     "venue": "Crobar"
   }
 ]

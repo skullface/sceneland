@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Goth Night"
-    ],
-    "link": "https://www.eventbrite.com/e/goth-night-tickets-1981040957833",
-    "date": "2026-02-19T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Royce Anthony, Cassette Confidential, Mayzie"
     ],
     "link": "https://www.eventbrite.com/e/royce-anthonycassette-confidentialmayzie-tickets-1983088963473",
@@ -169,6 +161,14 @@
   },
   {
     "artist": [
+      "Indie Nights Amplified with India Raven"
+    ],
+    "link": "https://www.eventbrite.com/e/indie-nights-amplified-with-india-raven-tickets-1983455058473",
+    "date": "2026-03-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Left Lane Cruiser, Papers"
     ],
     "link": "https://www.eventbrite.com/e/left-lane-cruiserpapers-tickets-1980556960183",
@@ -213,6 +213,14 @@
     ],
     "link": "https://www.eventbrite.com/e/paul-brown-and-the-killing-devils-festival-tickets-1980890185870",
     "date": "2026-04-02T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Brainwash Victim, Manic Wound, Private Prisons"
+    ],
+    "link": "https://www.eventbrite.com/e/brainwash-victimmanic-woundprivate-prisons-tickets-1983459160743",
+    "date": "2026-04-03T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -301,6 +309,14 @@
     ],
     "link": "https://www.eventbrite.com/e/rockin-for-crohns-awareness-tickets-1983087102908",
     "date": "2026-04-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "8-Bit in the Basement"
+    ],
+    "link": "https://www.eventbrite.com/e/8-bit-in-the-basement-tickets-1983539145981",
+    "date": "2026-05-02T00:00:01",
     "venue": "Westside Bowl"
   },
   {

@@ -1,19 +1,9 @@
 [
   {
     "artist": [
-      "Faith & Whiskey",
-      "State Rd",
-      "Out of Order"
-    ],
-    "link": "https://grogshop.gs/tm-event/faith-whiskey/",
-    "date": "2026-02-20",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Dave Hause and The Mermaid",
-      "Myth And Company",
-      "Model Martel"
+      "Model Martel",
+      "Myth And Company"
     ],
     "link": "https://grogshop.gs/tm-event/dave-hause-and-the-mermaid-myth-and-company/",
     "date": "2026-02-21",
@@ -344,20 +334,20 @@
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
-    ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
-    "date": "2026-04-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Golomb",
       "Lavender Jets",
       "Powers/Rolin Duo"
     ],
     "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "date": "2026-04-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Andy Hull",
+      "Brother Bird"
+    ],
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
@@ -614,19 +604,19 @@
   },
   {
     "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
+      "Home Front",
+      "Bootlicker"
     ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Home Front",
-      "Bootlicker"
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
     ],
-    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },

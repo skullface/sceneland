@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "APES OF THE STATE"
-    ],
-    "link": "https://noclasscle.com/events/apes-of-the-state",
-    "date": "2026-02-19T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "MIGUEL CAFE"
-    ],
-    "link": "https://noclasscle.com/events/miguel-cafe-shortt-stories",
-    "date": "2026-02-20T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MARQUIS GAYLORD'S ODDITORIUM"
     ],
     "link": "https://noclasscle.com/events/odditorium-afrofuture",
@@ -85,6 +69,14 @@
     ],
     "link": "https://noclasscle.com/events/mud-whale-lemonbar",
     "date": "2026-03-09T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "N.M.A."
+    ],
+    "link": "https://noclasscle.com/events/nma",
+    "date": "2026-03-13T00:00:01",
     "venue": "No Class"
   },
   {

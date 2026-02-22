@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Last Train to OZZ, Edward Be Thy Name"
-    ],
-    "link": "https://www.eventbrite.com/e/last-train-to-ozzedward-be-thy-name-tickets-1909018879859",
-    "date": "2026-02-21T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Ohio Mushroom Festival Cause for Pawz"
     ],
     "link": "https://www.eventbrite.com/e/ohio-mushroom-festival-cause-for-pawz-tickets-1979669376396",
@@ -44,6 +36,14 @@
       "The Polkamaniacs"
     ],
     "link": "https://www.eventbrite.com/e/the-polkamaniacs-tickets-1974984443636",
+    "date": "2026-02-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Live From The Basement"
+    ],
+    "link": "https://www.eventbrite.com/e/live-from-the-basement-tickets-1983641024703",
     "date": "2026-02-28T00:00:01",
     "venue": "Westside Bowl"
   },

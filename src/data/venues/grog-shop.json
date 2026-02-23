@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Cherry Yachtsman Record Release Show",
-      "Cool Party & Dick Golden",
-      "Cool Party",
-      "Dick Golden & The Rock n' Roll Experience"
-    ],
-    "link": "https://grogshop.gs/tm-event/cherry-yachtsman-record-release-show-w-cool-party/",
-    "date": "2026-02-22",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Great Grog Bake Off",
       "Mary Santora",
       "Stefan Johnson"
@@ -594,19 +583,19 @@
   },
   {
     "artist": [
-      "Home Front",
-      "Bootlicker"
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
     ],
-    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
+      "Home Front",
+      "Bootlicker"
     ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },

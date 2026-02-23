@@ -113,14 +113,6 @@
   },
   {
     "artist": [
-      "Dark Divine, Not Enough Space, Bailey Spinn, Set for Tomorrow"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/dark-divine-not-enough-space-bailey-spinn-set-for-tomorrow/",
-    "date": "2026-03-13T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "QUEER KINKY ARTS AND CRAFTS SHOW"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/queer-kinky-arts-and-crafts-show/",
@@ -317,6 +309,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/dead-again-type-o-negative-tribute-issues-korn-tribute/",
     "date": "2026-05-23T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Ventana, Polkadot Cadaver, Beneath the Hollow , Sassafras Cove"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/ventana-polkadot-cadaver-beneath-the-hollow-sassafras-cove/",
+    "date": "2026-05-24T18:00:00",
     "venue": "Foundry"
   }
 ]

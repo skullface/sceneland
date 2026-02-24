@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "MARQUIS GAYLORD'S ODDITORIUM"
-    ],
-    "link": "https://noclasscle.com/events/odditorium-afrofuture",
-    "date": "2026-02-21T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "SAPPHIC SOCIAL"
-    ],
-    "link": "https://noclasscle.com/events/sapphic-social-12-27-25-tffgt",
-    "date": "2026-02-22T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "BERGHAIN'T"
     ],
     "link": "https://noclasscle.com/events/berghaint-2-27-26",
@@ -81,6 +65,14 @@
   },
   {
     "artist": [
+      "KAE FOX'S VARIETY SHOW"
+    ],
+    "link": "https://noclasscle.com/events/kae-foxs-variety-show",
+    "date": "2026-03-14T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "THE PENTAGRAM STRING BAND"
     ],
     "link": "https://noclasscle.com/events/the-pentagram-string-band",
@@ -101,6 +93,14 @@
     ],
     "link": "https://noclasscle.com/events/hirs-commitment",
     "date": "2026-03-28T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-3-29-26",
+    "date": "2026-03-29T00:00:01",
     "venue": "No Class"
   },
   {

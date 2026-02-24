@@ -313,20 +313,20 @@
   },
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets",
-      "Powers/Rolin Duo"
+      "Andy Hull",
+      "Brother Bird"
     ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
+      "Golomb",
+      "Lavender Jets",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
@@ -644,6 +644,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/spoon-the-beths-us-tour-2026/",
     "date": "2026-06-27",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "SAVANNAH DEXTER: Damage Control Tour",
+      "COEY REDD",
+      "Coey Redd"
+    ],
+    "link": "https://grogshop.gs/tm-event/savannah-dexter-damage-control-tour-w-coey-redd/",
+    "date": "2026-06-28",
     "venue": "Grog Shop"
   },
   {

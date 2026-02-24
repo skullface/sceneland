@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Primeval Well, Arassus"
-    ],
-    "link": "https://www.eventbrite.com/e/primeval-wellarassus-tickets-1981794159680",
-    "date": "2026-02-23T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Kay\u2019s Birthday Bash"
     ],
     "link": "https://www.eventbrite.com/e/kays-birthday-bash-tickets-1982476132479",
@@ -116,6 +108,14 @@
       "Over Our Eyes, Twist & Writhe, One If By Land"
     ],
     "link": "https://www.eventbrite.com/e/over-our-eyestwist-writheone-if-by-land-tickets-1798543785879",
+    "date": "2026-03-20T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Clouded, Microwaves, Neighbor Dan"
+    ],
+    "link": "https://www.eventbrite.com/e/cloudedmicrowavesneighbor-dan-tickets-1983624209408",
     "date": "2026-03-20T00:00:01",
     "venue": "Westside Bowl"
   },

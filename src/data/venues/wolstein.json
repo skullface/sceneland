@@ -1,6 +1,22 @@
 [
   {
     "artist": [
+      "CSU Mens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-mens-basketball-3/",
+    "date": "2026-02-25T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "CSU Womens Basketball"
+    ],
+    "link": "https://www.wolsteincenter.com/event/csu-womens-basketball/",
+    "date": "2026-02-28T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Brandon Lake King of Hearts Tour"
     ],
     "link": "https://www.wolsteincenter.com/event/brandon-lake-king-of-hearts-tour/",
@@ -13,6 +29,14 @@
     ],
     "link": "https://www.wolsteincenter.com/event/we-them-ones-comedy-tour-3/",
     "date": "2026-03-13T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Cleveland Crunch"
+    ],
+    "link": "https://www.wolsteincenter.com/event/cleveland-crunch-2/",
+    "date": "2026-03-14T00:00:01",
     "venue": "Wolstein Center"
   },
   {
@@ -45,6 +69,14 @@
     ],
     "link": "https://www.wolsteincenter.com/event/song-of-the-saints-tour/",
     "date": "2026-09-18T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Come Worship! Cleveland! Tour"
+    ],
+    "link": "https://www.wolsteincenter.com/event/come-worship-cleveland-tour/",
+    "date": "2026-10-15T00:00:01",
     "venue": "Wolstein Center"
   }
 ]

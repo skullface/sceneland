@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "artist": [
+      "4 Year Anniversary: Cinthie (Berlin), Marc Lansley, oraclepussies"
+    ],
+    "link": "https://secure.crobar1921.com/event/4-year-anniversary--cinthie",
+    "date": "2026-02-27T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Bored Lord, Simplicity, Brenner, Foi Oi Oi, Joey Sardelle"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf57",
+    "date": "2026-02-28T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Disfunktional: DJ Collette, Delish, Le Mew"
+    ],
+    "link": "https://secure.crobar1921.com/event/disfunktinoal--dj-collette",
+    "date": "2026-03-14T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Byron the Aquarius: Sound On Tape"
+    ],
+    "link": "https://secure.crobar1921.com/event/byron-the-aquarius--sound-on-tape",
+    "date": "2026-03-21T00:00:01",
+    "venue": "Crobar"
+  }
+]

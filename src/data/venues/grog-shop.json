@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "The Great Grog Bake Off",
-      "Mary Santora",
-      "Stefan Johnson"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-great-grog-bake-off/",
-    "date": "2026-02-24",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Nuovo Testamento",
       "Dark Chisme",
       "Marottes"
@@ -313,20 +303,20 @@
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
-    ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
-    "date": "2026-04-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Golomb",
       "Lavender Jets",
       "Powers/Rolin Duo"
     ],
     "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "date": "2026-04-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Andy Hull",
+      "Brother Bird"
+    ],
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },

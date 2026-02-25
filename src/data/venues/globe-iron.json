@@ -153,10 +153,26 @@
   },
   {
     "artist": [
+      "Between the Buried and Me, Thank You Scientist, The World Is A Beautiful Place & I Am No Longer Afraid To Die"
+    ],
+    "link": "https://www.axs.com/events/1336382/between-the-buried-and-me-tickets",
+    "date": "2026-05-23T19:30:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
       "Dexter and the Moonrocks, High June, Cigarettes @ Sunset"
     ],
     "link": "https://www.axs.com/events/1317711/dexter-and-the-moonrocks-tickets",
     "date": "2026-06-17T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Kamelot, Visions of Atlantis, Frozen Crown"
+    ],
+    "link": "https://www.axs.com/events/1343769/kamelot-tickets",
+    "date": "2026-09-18T19:00:00",
     "venue": "Globe Iron"
   },
   {

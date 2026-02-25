@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Blues for Greeny \u2013 The Music of Peter Green"
-    ],
-    "link": "https://www.ticketweb.com/event/blues-for-greeny-the-winchester-tickets/14066374",
-    "date": "2026-02-24T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "PLANT BINGO!!"
     ],
     "link": "https://www.ticketweb.com/event/plant-bingo-the-winchester-tickets/14159884",
@@ -221,6 +213,30 @@
     ],
     "link": "https://www.ticketweb.com/event/the-broken-view-the-winchester-tickets/14067534",
     "date": "2026-04-19T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Echo Pilot, Lilieae, & Cellophane Jane"
+    ],
+    "link": "https://www.ticketweb.com/event/echo-pilot-lilieae-cellophane-the-winchester-tickets/14190454",
+    "date": "2026-04-30T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "babes against the machine, Issues"
+    ],
+    "link": "https://www.ticketweb.com/event/babes-against-the-machine-w-the-winchester-tickets/14139924",
+    "date": "2026-05-01T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "THAT HANDSOME DEVIL"
+    ],
+    "link": "https://www.ticketweb.com/event/that-handsome-devil-the-winchester-tickets/14150874",
+    "date": "2026-05-03T19:30:00",
     "venue": "Winchester Tavern"
   }
 ]

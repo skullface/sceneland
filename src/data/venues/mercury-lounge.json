@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "One More Joke"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/one-more-joke/",
-    "date": "2026-02-24T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "No Resolve \u2014 The Unleashed Tour"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/no-resolve-the-unleashed-tour/",
-    "date": "2026-02-25T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Priscilla, Messmaker, Cellophane Jane, Wasted Society"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/wasted-society-priscilla-messmaker-cellophane-jane/",
@@ -109,6 +93,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-10/",
     "date": "2026-03-16T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "The Cold Stares"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-cold-stares/",
+    "date": "2026-03-22T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -257,7 +249,7 @@
   },
   {
     "artist": [
-      "Dry Kill Logic, Dizasterpiece"
+      "Dry Kill Logic, Dizasterpiece, Groundstate"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dry-kill-logic-dizasterpiece/",
     "date": "2026-05-08T00:00:01",

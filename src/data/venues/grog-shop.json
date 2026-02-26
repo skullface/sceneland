@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Nuovo Testamento",
-      "Dark Chisme",
-      "Marottes"
-    ],
-    "link": "https://grogshop.gs/tm-event/nuovo-testamento-dark-chisme/",
-    "date": "2026-02-25",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "LETDOWN.",
       "Blame My Youth",
       "YOUTHYEAR",
@@ -303,20 +293,20 @@
   },
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets",
-      "Powers/Rolin Duo"
+      "Andy Hull",
+      "Brother Bird"
     ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
+      "Golomb",
+      "Lavender Jets",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
@@ -569,6 +559,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/cut-worms-tchotchke/",
     "date": "2026-05-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Los Retros"
+    ],
+    "link": "https://grogshop.gs/tm-event/los-retros/",
+    "date": "2026-05-12",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Metalcore Wednesday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-3/",
-    "date": "2026-02-25T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Anime Pop Night"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night/",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/lower-13-druparia-khandria-throbber/",
     "date": "2026-03-21T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Take the Name, Twist It"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/take-the-name-twist-it/",
+    "date": "2026-03-22T19:00:00",
     "venue": "Foundry"
   },
   {

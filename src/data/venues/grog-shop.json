@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "LETDOWN.",
-      "Blame My Youth",
-      "YOUTHYEAR",
-      "LUCHIANO"
-    ],
-    "link": "https://grogshop.gs/tm-event/letdown-blame-my-youth-youthyear-luchiano/",
-    "date": "2026-02-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Rustbelt Ripperfest IV: Day Two"
     ],
     "link": "https://grogshop.gs/tm-event/rustbelt-ripperfest-iv-day-two/",
@@ -593,6 +582,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/j-roddy-walston/",
     "date": "2026-05-16",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Programme 4: Make the Scene"
+    ],
+    "link": "https://grogshop.gs/tm-event/programme-4-make-the-scene/",
+    "date": "2026-05-19",
     "venue": "Grog Shop"
   },
   {

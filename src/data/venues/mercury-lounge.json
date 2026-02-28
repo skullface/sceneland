@@ -153,17 +153,17 @@
   },
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
+      "Zombie Fashion Show"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-12/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/zombie-fashion-show/",
     "date": "2026-03-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
     "artist": [
-      "Zombie Fashion Show"
+      "MUSIC TRIVI-AOKE"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/zombie-fashion-show/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-12/",
     "date": "2026-03-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -277,6 +277,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dry-kill-logic-dizasterpiece/",
     "date": "2026-05-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "TAYLOR AUSTIN DYE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/taylor-austin-dye/",
+    "date": "2026-05-09T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -397,6 +405,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-ex-faces/",
     "date": "2026-07-10T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "THE EX-FACES (Night 2)"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-ex-faces-night-2/",
+    "date": "2026-07-11T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

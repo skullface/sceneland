@@ -57,6 +57,14 @@
   },
   {
     "artist": [
+      "Zombie Fashion Show, Dearest Friend, Red Crow, Solice, Dissection Of Spirit, Pandori"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/zombie-fashion-show-dearest-friend-red-crow-solice-dissection-of-spirit-pandori/",
+    "date": "2026-03-07T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Nailed Shut MA, Godseyes, Chalked, Akira"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nailed-shut-ma-godseyes/",
@@ -101,14 +109,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/lower-13-druparia-khandria-throbber/",
     "date": "2026-03-21T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Take the Name, Twist It"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/take-the-name-twist-it/",
-    "date": "2026-03-22T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -221,6 +221,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/take-the-flame-death-exhale-moneyball/",
     "date": "2026-04-19T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Outlier"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/outlier/",
+    "date": "2026-04-21T19:00:00",
     "venue": "Foundry"
   },
   {

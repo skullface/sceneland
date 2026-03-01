@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BERGHAIN'T"
-    ],
-    "link": "https://noclasscle.com/events/berghaint-2-27-26",
-    "date": "2026-02-27T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MURDEROUS VISION"
     ],
     "link": "https://noclasscle.com/events/murderous-vision",
@@ -81,6 +73,30 @@
   },
   {
     "artist": [
+      "JUST A BAR"
+    ],
+    "link": "https://noclasscle.com/events/just-a-bar-3-19-26",
+    "date": "2026-03-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "IRON BITCH"
+    ],
+    "link": "https://noclasscle.com/events/iron-bitch",
+    "date": "2026-03-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "JUST A BAR"
+    ],
+    "link": "https://noclasscle.com/events/just-a-bar-3-23-26",
+    "date": "2026-03-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "PEYTON"
     ],
     "link": "https://noclasscle.com/events/peyton",
@@ -101,6 +117,22 @@
     ],
     "link": "https://noclasscle.com/events/sapphic-social-3-29-26",
     "date": "2026-03-29T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "JUST A BAR"
+    ],
+    "link": "https://noclasscle.com/events/just-a-bar-3-30-26",
+    "date": "2026-03-30T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "OG MOOK"
+    ],
+    "link": "https://noclasscle.com/events/og-mook-tayfuego",
+    "date": "2026-04-03T00:00:01",
     "venue": "No Class"
   },
   {

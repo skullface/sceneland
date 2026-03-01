@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Zoloft, The Brakes, Casket Splinter, The Diminished"
-    ],
-    "link": "https://www.ticketweb.com/event/zoloft-the-brakes-casket-splinter-the-winchester-tickets/14183184",
-    "date": "2026-02-27T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Silver Springs \u2013 A Fleetwood Mac Experience"
-    ],
-    "link": "https://www.ticketweb.com/event/silver-springs-a-the-winchester-tickets/13976204",
-    "date": "2026-02-28T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Locals Only, Chris Lugo + Singled Out + Bridge The Gap"
     ],
     "link": "https://www.ticketweb.com/event/locals-only-w-chris-lugo-the-winchester-tickets/14186344",
@@ -229,6 +213,14 @@
     ],
     "link": "https://www.ticketweb.com/event/that-handsome-devil-the-winchester-tickets/14150874",
     "date": "2026-05-03T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "The Brokes \u2013 Strokes Tribute"
+    ],
+    "link": "https://www.ticketweb.com/event/the-brokes-strokes-the-winchester-tickets/14149014",
+    "date": "2026-05-08T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

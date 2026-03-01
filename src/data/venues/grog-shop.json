@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Ripper Flea! FREE!"
-    ],
-    "link": "https://grogshop.gs/tm-event/ripper-flea-free/",
-    "date": "2026-02-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Rustbelt Ripperfest IV: Day Three"
-    ],
-    "link": "https://grogshop.gs/tm-event/rustbelt-ripperfest-iv-day-three/",
-    "date": "2026-02-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Dupree's Dead Band (Grateful Dead Tribute)"
     ],
     "link": "https://grogshop.gs/tm-event/duprees-dead-band-grateful-dead-tribute/",
@@ -274,20 +258,20 @@
   },
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets",
-      "Powers/Rolin Duo"
+      "Andy Hull",
+      "Brother Bird"
     ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
+      "Golomb",
+      "Lavender Jets",
+      "Powers/Rolin Duo"
     ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },

@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Mr. Jeff Live!"
-    ],
-    "link": "https://www.eventbrite.com/e/mr-jeff-live-tickets-1980432543048",
-    "date": "2026-02-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "The Polkamaniacs"
-    ],
-    "link": "https://www.eventbrite.com/e/the-polkamaniacs-tickets-1974984443636",
-    "date": "2026-02-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Live From The Basement"
-    ],
-    "link": "https://www.eventbrite.com/e/live-from-the-basement-tickets-1983641024703",
-    "date": "2026-02-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Ace Hood , Duke Deuce, Dizzy Wright, Paris Stephan, Krypto.Divine, Tom Swirv"
     ],
     "link": "https://www.eventbrite.com/e/ace-hood-duke-deucedizzy-wrightparis-stephankryptodivinetom-swirv-tickets-1977084238178",
@@ -148,6 +124,14 @@
       "La Noche De La Salsa"
     ],
     "link": "https://www.eventbrite.com/e/la-noche-de-la-salsa-tickets-1982476583829",
+    "date": "2026-03-27T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Azures, Twin Atomic, Zoloft"
+    ],
+    "link": "https://www.eventbrite.com/e/the-azurestwin-atomiczoloft-tickets-1984187691799",
     "date": "2026-03-27T00:00:01",
     "venue": "Westside Bowl"
   },

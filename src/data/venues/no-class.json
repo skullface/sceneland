@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "MURDEROUS VISION"
-    ],
-    "link": "https://noclasscle.com/events/murderous-vision",
-    "date": "2026-02-28T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "JARHEAD FERTILIZER"
     ],
     "link": "https://noclasscle.com/events/jarhead-fertilizer-blood-monolith",
@@ -161,6 +153,14 @@
   },
   {
     "artist": [
+      "GO FEST YOURSELF"
+    ],
+    "link": "https://noclasscle.com/events/go-fest-yourself",
+    "date": "2026-05-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "GHOST BATH"
     ],
     "link": "https://noclasscle.com/events/ghost-bath",
@@ -181,6 +181,14 @@
     ],
     "link": "https://noclasscle.com/events/total-chaos-noogy",
     "date": "2026-06-28T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GROTESQUERIES"
+    ],
+    "link": "https://noclasscle.com/events/grotesqueries",
+    "date": "2026-08-01T00:00:01",
     "venue": "No Class"
   }
 ]

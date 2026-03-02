@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Ace Hood , Duke Deuce, Dizzy Wright, Paris Stephan, Krypto.Divine, Tom Swirv"
-    ],
-    "link": "https://www.eventbrite.com/e/ace-hood-duke-deucedizzy-wrightparis-stephankryptodivinetom-swirv-tickets-1977084238178",
-    "date": "2026-03-01T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Blackwater Holylight, SOM, rebreather"
     ],
     "link": "https://www.eventbrite.com/e/blackwater-holylightsomrebreather-tickets-1942431016459",
@@ -253,6 +245,14 @@
     ],
     "link": "https://www.eventbrite.com/e/heavy-templewaxedslow-wake-tickets-1981353596945",
     "date": "2026-04-22T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "ALBUM, Kill The Hippies, Hams, NMA"
+    ],
+    "link": "https://www.eventbrite.com/e/albumkill-the-hippieshamsnma-tickets-1984224672409",
+    "date": "2026-04-24T00:00:01",
     "venue": "Westside Bowl"
   },
   {

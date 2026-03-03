@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "The Record Company: Give It Back To You 10th Anniversary Tour",
-      "Jontavious Willis"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-record-company-give-it-back-to-you-10th-anniversary-tour/",
-    "date": "2026-03-02",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Singer-Songwriter Series",
       "Ashley Brooke Toussant",
       "Kate Porter",
@@ -200,8 +191,8 @@
   {
     "artist": [
       "Chuck Ragan",
-      "Flippant",
-      "Heart & Lung"
+      "Heart & Lung",
+      "Flippant"
     ],
     "link": "https://grogshop.gs/tm-event/chuck-ragan/",
     "date": "2026-03-27",
@@ -283,6 +274,14 @@
       "Kid"
     ],
     "link": "https://grogshop.gs/tm-event/matt-pryor-small-uncle/",
+    "date": "2026-04-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Apostle Jones and Friends present The Third Annual Blues & Soul Slam"
+    ],
+    "link": "https://grogshop.gs/tm-event/apostle-jones-presents-the-third-annual-blues-soul-slam/",
     "date": "2026-04-04",
     "venue": "Grog Shop"
   },
@@ -544,6 +543,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Carlos Jones & the P.L.U.S. Band",
+      "Es Ska Go"
+    ],
+    "link": "https://grogshop.gs/tm-event/carlos-jones-the-p-l-u-s-band/",
+    "date": "2026-05-15",
     "venue": "Grog Shop"
   },
   {

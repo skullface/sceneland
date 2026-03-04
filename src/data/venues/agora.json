@@ -9,22 +9,6 @@
   },
   {
     "artist": [
-      "The Music of the Lord of the Rings"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1231098",
-    "date": "2026-03-05T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
-      "The Music of Hans Zimmer & Others"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1231097",
-    "date": "2026-03-05T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Matt McCusker"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1229713",
@@ -225,6 +209,14 @@
   },
   {
     "artist": [
+      "Ilana Glazer Live!"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1351305",
+    "date": "2026-06-16T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Ben Folds"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1312125",
@@ -237,6 +229,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1283578",
     "date": "2026-07-23T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Ashnikko"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1356147",
+    "date": "2026-08-01T18:00:00",
     "venue": "Agora"
   },
   {
@@ -309,6 +309,22 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1335715",
     "date": "2026-10-31T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Music of the Lord of the Rings"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1231098",
+    "date": "2027-02-03T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "The Music of Hans Zimmer & Others"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1231097",
+    "date": "2027-02-03T18:00:00",
     "venue": "Agora"
   }
 ]

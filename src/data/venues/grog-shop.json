@@ -241,20 +241,20 @@
   },
   {
     "artist": [
-      "Andy Hull",
-      "Brother Bird"
-    ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
-    "date": "2026-04-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Golomb",
       "Lavender Jets",
       "Powers/Rolin Duo"
     ],
     "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
+    "date": "2026-04-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Andy Hull",
+      "Brother Bird"
+    ],
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
     "date": "2026-04-01",
     "venue": "Grog Shop"
   },
@@ -373,7 +373,10 @@
   },
   {
     "artist": [
-      "GRIEVES: MIDWEST TOUR"
+      "GRIEVES: MIDWEST TOUR",
+      "The Street Sweepers",
+      "AllTheHipe",
+      "Eli Moon"
     ],
     "link": "https://grogshop.gs/tm-event/grieves-midwest-tour/",
     "date": "2026-04-18",
@@ -406,6 +409,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/tom-hamilton/",
     "date": "2026-04-22",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "With Windswept Hair",
+      "Slow Groove Kings",
+      "By Light We Loom"
+    ],
+    "link": "https://grogshop.gs/tm-event/with-windswept-hair-slow-groove-kings-by-light-we-loom/",
+    "date": "2026-04-23",
     "venue": "Grog Shop"
   },
   {
@@ -589,6 +602,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/tigers-jaw-pool-kids/",
     "date": "2026-05-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Ryan Davis & the Roadhouse Band",
+      "Elizabeth Moen"
+    ],
+    "link": "https://grogshop.gs/tm-event/ryan-davis-the-roadhouse-band-elizabeth-moen/",
+    "date": "2026-06-21",
     "venue": "Grog Shop"
   },
   {

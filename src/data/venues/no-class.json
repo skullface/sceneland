@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CLOUDY WITH A CHANCE..."
-    ],
-    "link": "https://noclasscle.com/events/cloudy-with-a-chance-nightmare-fuel",
-    "date": "2026-03-02T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "PUTRID LIQUID"
     ],
     "link": "https://noclasscle.com/events/putrid-liquid-cheap-gas",
@@ -29,6 +21,14 @@
     ],
     "link": "https://noclasscle.com/events/mud-whale-lemonbar",
     "date": "2026-03-09T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HYPERPOP NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/hyperpop-night-3-12",
+    "date": "2026-03-12T00:00:01",
     "venue": "No Class"
   },
   {

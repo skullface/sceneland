@@ -17,7 +17,7 @@
   },
   {
     "artist": [
-      "TBA, Titans Of Mars, Nativity In Black, Conspiracy 216"
+      "Nativity In Black, Conspiracy 216, Titans Of Mars, TBA"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dead-again-titans-of-mars-nativity-in-black-conspiracy-216/",
     "date": "2026-03-07T00:00:01",
@@ -65,10 +65,34 @@
   },
   {
     "artist": [
+      "Moving in Stereo \u2013 A Tribute to the Cars"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/moving-in-stereo-a-tribute-to-the-cars/",
+    "date": "2026-03-14T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "MUSIC TRIVI-AOKE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-10/",
     "date": "2026-03-16T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "2ND ANNUAL ST. PADDY'S DAY BAR CRAWL"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/2nd-annual-st-paddys-day-bar-crawl/",
+    "date": "2026-03-17T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Grateful Dead Night \u2013 W/ Sunshine Daydream"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/grateful-dead-night-w-sunshine-daydream-4/",
+    "date": "2026-03-19T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -81,9 +105,25 @@
   },
   {
     "artist": [
+      "DECADES NIGHT"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/decades-night-2/",
+    "date": "2026-03-21T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "The Cold Stares"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-cold-stares/",
+    "date": "2026-03-22T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Tape and Tears, Quiver The Busker, Death Mattress, THEY/THEMPERESS"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/tape-and-tears-quiver-the-busker-death-mattress-they-themperess/",
     "date": "2026-03-22T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -101,6 +141,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/carter-winter/",
     "date": "2026-03-26T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "STARDUST USA 2026"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/stardust-usa-2026/",
+    "date": "2026-03-27T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -241,6 +289,14 @@
   },
   {
     "artist": [
+      "BIRD AND BYRON"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/bird-and-byron/",
+    "date": "2026-05-06T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
       "Dry Kill Logic, Dizasterpiece, Groundstate"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dry-kill-logic-dizasterpiece/",
@@ -373,38 +429,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-25/",
     "date": "2026-06-29T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "THE EX-FACES"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-ex-faces/",
-    "date": "2026-07-10T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "THE EX-FACES (Night 2)"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-ex-faces-night-2/",
-    "date": "2026-07-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "DEAD BY DAWG: VOLUME II"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/dead-by-dawg-volume-ii/",
-    "date": "2026-08-01T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "HammerFall \u2013 Freedom World Crusade North America 2026"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/hammerfall-freedom-world-crusade-north-america-2026/",
-    "date": "2026-09-23T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

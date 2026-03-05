@@ -25,7 +25,7 @@
   },
   {
     "artist": [
-      "Zombie Fashion Show, Dearest Friend, Red Crow, Solice, Dissection Of Spirit, Pandori"
+      "Zombie Fashion Show, Dearest Friend, Red Crow, Pandori"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/zombie-fashion-show-dearest-friend-red-crow-solice-dissection-of-spirit-pandori/",
     "date": "2026-03-07T19:00:00",
@@ -109,14 +109,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/book-banter-brigade-3/",
     "date": "2026-03-24T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Metalcore Wednesday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-5/",
-    "date": "2026-03-25T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -217,6 +209,14 @@
   },
   {
     "artist": [
+      "Take The Flame, Death & Exhale, Moneyball"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/take-the-flame-death-exhale-moneyball/",
+    "date": "2026-04-19T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Outlier"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/outlier/",
@@ -273,6 +273,22 @@
   },
   {
     "artist": [
+      "OHIO UNDER FIRE: DAY 1"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/ohio-under-fire-day-1/",
+    "date": "2026-05-15T14:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "OHIO UNDER FIRE: DAY 2"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/ohio-under-fire-day-2/",
+    "date": "2026-05-16T14:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Dead Again-Type O Negative Tribute, Issues-Korn Tribute"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/dead-again-type-o-negative-tribute-issues-korn-tribute/",
@@ -285,6 +301,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ventana-polkadot-cadaver-beneath-the-hollow-sassafras-cove/",
     "date": "2026-05-24T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Alyxx, Seldom Fade, Maxilla, Faith In Failure"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/alyxx-seldom-fade-maxilla-faith-in-failure/",
+    "date": "2026-05-31T17:00:00",
     "venue": "Foundry"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sensor Ghost, Autopolitan, M.I.T.C.H."
-    ],
-    "link": "https://app.opendate.io/e/sensor-ghost-autopolitan-m-i-t-c-h-march-05-2026-649982",
-    "date": "2026-03-05T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Breathe in Stereo, Bed Twerp, Wig Doubt"
     ],
     "link": "https://app.opendate.io/e/breathe-in-stereo-bed-twerp-wig-doubt-march-06-2026-658426",
@@ -105,6 +97,14 @@
   },
   {
     "artist": [
+      "Cleveland Experimental Film Festival feat. Monsieur Phot Premiere - in the Underdog!"
+    ],
+    "link": "https://app.opendate.io/e/cleveland-experimental-film-festival-feat-monsieur-phot-premiere-in-the-underdog-march-21-2026-680170",
+    "date": "2026-03-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Suitor record release w/ Chemical Baths, The Carp"
     ],
     "link": "https://app.opendate.io/e/suitor-record-release-w-chemical-baths-the-carp-march-21-2026-667724",
@@ -129,9 +129,9 @@
   },
   {
     "artist": [
-      "Man of the Flood, Cherry!, Rent for Cheryl"
+      "Man of the Flood, Rent for Cheryl, The Modern Collective"
     ],
-    "link": "https://app.opendate.io/e/man-of-the-flood-cherry-rent-for-cheryl-march-28-2026-670609",
+    "link": "https://app.opendate.io/e/man-of-the-flood-rent-for-cheryl-the-modern-collective-march-28-2026-670609",
     "date": "2026-03-28T00:00:01",
     "venue": "Happy Dog"
   },
@@ -269,6 +269,14 @@
     ],
     "link": "https://app.opendate.io/e/hit-like-a-girl-pretty-pretty-awful-runaway-brother-may-07-2026-654402",
     "date": "2026-05-07T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Half Past Two, Sabon, Rubix Groove"
+    ],
+    "link": "https://app.opendate.io/e/half-past-two-sabon-rubix-groove-may-12-2026-680151",
+    "date": "2026-05-12T00:00:01",
     "venue": "Happy Dog"
   },
   {

@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "Westside Live!",
-      "Westside Tony",
-      "bbyace",
-      "Prince Choppa"
-    ],
-    "link": "https://grogshop.gs/tm-event/westside-live-2/",
-    "date": "2026-03-05",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Kids In The Heights: Indie Rock Dance Party!"
     ],
     "link": "https://grogshop.gs/tm-event/kids-in-the-heights-indie-rock-dance-party/",
@@ -224,15 +213,6 @@
     ],
     "link": "https://grogshop.gs/tm-event/nick-hexum-with-water-tower/",
     "date": "2026-03-31",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "Andy Hull",
-      "Brother Bird"
-    ],
-    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
-    "date": "2026-04-01",
     "venue": "Grog Shop"
   },
   {
@@ -494,7 +474,8 @@
       "Landon Wordswell",
       "DJ Kitty Ca$h",
       "DJ Kelly Green",
-      "Elijah"
+      "Elijah",
+      "Westside LO"
     ],
     "link": "https://grogshop.gs/tm-event/jay-electronica/",
     "date": "2026-05-06",
@@ -508,6 +489,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/millionaire-my-super-sweet-16-tour/",
     "date": "2026-05-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Hell Beach and Pretty Pretty Awful",
+      "Pretty Pretty Awful"
+    ],
+    "link": "https://grogshop.gs/tm-event/hell-beach-and-pretty-pretty-awful/",
+    "date": "2026-05-08",
     "venue": "Grog Shop"
   },
   {
@@ -589,6 +579,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/tigers-jaw-pool-kids/",
     "date": "2026-05-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Andy Hull",
+      "Brother Bird"
+    ],
+    "link": "https://grogshop.gs/tm-event/andy-hull-brother-bird/",
+    "date": "2026-06-02",
     "venue": "Grog Shop"
   },
   {

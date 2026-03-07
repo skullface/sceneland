@@ -113,14 +113,6 @@
   },
   {
     "artist": [
-      "Mauled, Thus Spoke Zarathustra, Surfaced, Backbiter, Lie In Wait"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/mauled-thus-spoke-zarathustra-surfaced-backbiter-lie-in-wait/",
-    "date": "2026-03-26T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Handsome Dick Manitoba, The Strains, The A-10s, The Robert Conn Band"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/handsome-dick-manitoba-the-strains-the-a-10s-the-robert-conn-band/",
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/take-the-flame-death-exhale-moneyball/",
     "date": "2026-04-19T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Outlier"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/outlier/",
+    "date": "2026-04-21T19:00:00",
     "venue": "Foundry"
   },
   {

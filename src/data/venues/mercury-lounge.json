@@ -438,5 +438,21 @@
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-25/",
     "date": "2026-06-29T00:00:01",
     "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "THE EX-FACES"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-ex-faces/",
+    "date": "2026-07-10T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "THE EX-FACES (Night 2)"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/the-ex-faces-night-2/",
+    "date": "2026-07-11T00:00:01",
+    "venue": "Mercury Music Lounge"
   }
 ]

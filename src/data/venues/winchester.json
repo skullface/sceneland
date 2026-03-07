@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Trace Bundy"
-    ],
-    "link": "https://www.ticketweb.com/event/trace-bundy-the-winchester-tickets/13976884",
-    "date": "2026-03-05T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Eddie Trunk"
-    ],
-    "link": "https://www.ticketweb.com/event/eddie-trunk-the-winchester-tickets/14076704",
-    "date": "2026-03-06T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Sponge"
     ],
     "link": "https://www.ticketweb.com/event/sponge-the-winchester-tickets/13975214",
@@ -97,6 +81,14 @@
   },
   {
     "artist": [
+      "The Sugar Mules & The Asheville Mountain Boys"
+    ],
+    "link": "https://www.ticketweb.com/event/the-sugar-mules-the-the-winchester-tickets/14074984",
+    "date": "2026-03-20T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Dark Wave Dance Cave"
     ],
     "link": "https://www.ticketweb.com/event/dark-wave-dance-cave-the-winchester-tickets/14750233",
@@ -161,6 +153,14 @@
   },
   {
     "artist": [
+      "The FM Project \u2013 A Steely Dan Tribute"
+    ],
+    "link": "https://www.ticketweb.com/event/the-fm-project-the-winchester-tickets/14763243",
+    "date": "2026-04-04T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "LOCALS ONLY"
     ],
     "link": "https://www.ticketweb.com/event/locals-only-the-winchester-tickets/14751923",
@@ -209,6 +209,14 @@
   },
   {
     "artist": [
+      "VooDoo Funk"
+    ],
+    "link": "https://www.ticketweb.com/event/voodoo-funk-the-winchester-tickets/14763433",
+    "date": "2026-04-26T16:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Echo Pilot, Lilieae, & Cellophane Jane"
     ],
     "link": "https://www.ticketweb.com/event/echo-pilot-lilieae-cellophane-the-winchester-tickets/14190454",
@@ -237,14 +245,6 @@
     ],
     "link": "https://www.ticketweb.com/event/the-brokes-strokes-the-winchester-tickets/14149014",
     "date": "2026-05-08T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Sunny Sweeney"
-    ],
-    "link": "https://www.ticketweb.com/event/sunny-sweeney-the-winchester-tickets/14079094",
-    "date": "2026-05-09T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sponge"
-    ],
-    "link": "https://www.ticketweb.com/event/sponge-the-winchester-tickets/13975214",
-    "date": "2026-03-07T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Bluegrass Bruch W Whiskey Drinks & Upstream Drifters"
     ],
     "link": "https://www.ticketweb.com/event/bluegrass-bruch-w-whiskey-drinks-the-winchester-tickets/14161414",
@@ -245,6 +237,14 @@
     ],
     "link": "https://www.ticketweb.com/event/the-brokes-strokes-the-winchester-tickets/14149014",
     "date": "2026-05-08T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Sunny Sweeney"
+    ],
+    "link": "https://www.ticketweb.com/event/sunny-sweeney-the-winchester-tickets/14079094",
+    "date": "2026-05-09T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

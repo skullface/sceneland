@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Gayme Night"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/gayme-night-2/",
-    "date": "2026-03-06T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "DISCO, ALWAYS \u2013 A Harry Styles Dance Night"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/disco-always-a-harry-styles-dance-night/",
-    "date": "2026-03-06T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Nativity In Black, Conspiracy 216, Titans Of Mars, TBA"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dead-again-titans-of-mars-nativity-in-black-conspiracy-216/",
@@ -453,6 +437,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/the-ex-faces-night-2/",
     "date": "2026-07-11T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "DEAD BY DAWG: VOLUME II"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/dead-by-dawg-volume-ii/",
+    "date": "2026-08-01T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

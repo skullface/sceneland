@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JESUS WEPT"
-    ],
-    "link": "https://noclasscle.com/events/jesus-wept",
-    "date": "2026-03-07T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MUD WHALE"
     ],
     "link": "https://noclasscle.com/events/mud-whale-lemonbar",
@@ -165,14 +157,6 @@
     ],
     "link": "https://noclasscle.com/events/total-chaos-noogy",
     "date": "2026-06-28T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "GROTESQUERIES"
-    ],
-    "link": "https://noclasscle.com/events/grotesqueries",
-    "date": "2026-08-01T00:00:01",
     "venue": "No Class"
   }
 ]

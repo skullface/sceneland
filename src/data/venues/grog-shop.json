@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Michael Shannon & Jason Narducy and Friends play R.E.M.\u2019s Lifes Rich Pageant",
-      "Bobcat Goldthwait"
-    ],
-    "link": "https://grogshop.gs/tm-event/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-lifes-rich-pageant/",
-    "date": "2026-03-10",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Obsessed",
       "The Great Iron Snake",
       "Radian",
@@ -275,9 +266,11 @@
   {
     "artist": [
       "The Queers",
-      "Dollar Draft$",
+      "Liquids",
       "ALBUM",
-      "MK Ultras"
+      "MK Ultras",
+      "Dollar Draft$",
+      "American Muscle"
     ],
     "link": "https://grogshop.gs/tm-event/the-queers-dollar-draft/",
     "date": "2026-04-15",
@@ -570,6 +563,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/sonido-gallo-negro-hello3d/",
     "date": "2026-06-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
+      "MIKE.",
+      "SURF GANG"
+    ],
+    "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
+    "date": "2026-06-26",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Stephen Wilson Jr."
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1215268",
-    "date": "2026-03-10T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Acid Bath"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1149805",
@@ -217,10 +209,26 @@
   },
   {
     "artist": [
+      "The Marvelous Miss Gender starring Bosco"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1364344",
+    "date": "2026-07-09T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Jon Anderson & The Band Geeks"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1362376",
     "date": "2026-07-15T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Lucy Dacus, Smidley"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1365867",
+    "date": "2026-07-20T18:00:00",
     "venue": "Agora"
   },
   {

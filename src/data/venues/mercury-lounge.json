@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Angry Samoans"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/angry-samoans/",
-    "date": "2026-03-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Disciple of The Garden \u2013 Tribute to Chris Cornell, Soundgarden, & Audioslave"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/disciple-of-the-garden-tribute-to-chris-cornell-soundgarden-audioslave/",
@@ -445,6 +437,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/dead-by-dawg-volume-ii/",
     "date": "2026-08-01T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "HammerFall \u2013 Freedom World Crusade North America 2026"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/hammerfall-freedom-world-crusade-north-america-2026/",
+    "date": "2026-09-23T00:00:01",
     "venue": "Mercury Music Lounge"
   }
 ]

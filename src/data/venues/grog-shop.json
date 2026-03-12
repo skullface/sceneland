@@ -511,6 +511,17 @@
   },
   {
     "artist": [
+      "Killer High Life",
+      "Tunnel Vision",
+      "MyHeartYourGlove",
+      "Cats Eat Dogs"
+    ],
+    "link": "https://grogshop.gs/tm-event/killer-high-life-tunnel-vision-myheartyourglove-cats-eat-dogs/",
+    "date": "2026-05-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Programme 4: Make the Scene"
     ],
     "link": "https://grogshop.gs/tm-event/programme-4-make-the-scene/",
@@ -608,6 +619,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/amble/",
     "date": "2026-07-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Chasing Abbey"
+    ],
+    "link": "https://grogshop.gs/tm-event/chasing-abbey/",
+    "date": "2026-10-11",
     "venue": "Grog Shop"
   }
 ]

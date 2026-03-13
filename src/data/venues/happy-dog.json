@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bolt Swallower, Bootprint, Muzzle, Secret Handshake"
-    ],
-    "link": "https://app.opendate.io/e/bolt-swallower-bootprint-muzzle-secret-handshake-march-12-2026-658435",
-    "date": "2026-03-12T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Generifus, John's Little Sister, Plastic Wildflowers"
     ],
     "link": "https://app.opendate.io/e/generifus-john-s-little-sister-plastic-wildflowers-march-13-2026-668078",
@@ -233,6 +225,22 @@
   },
   {
     "artist": [
+      "No Knock, Yambag, Ugly & Damaged"
+    ],
+    "link": "https://app.opendate.io/e/no-knock-yambag-ugly-damaged-april-29-2026-682483",
+    "date": "2026-04-29T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Louse, The True Faith, Xanny Stars, Dogs Run Free"
+    ],
+    "link": "https://app.opendate.io/e/louse-the-true-faith-xanny-stars-dogs-run-free-may-02-2026-682487",
+    "date": "2026-05-02T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Hit Like a Girl, Pretty Pretty Awful, Runaway Brother"
     ],
     "link": "https://app.opendate.io/e/hit-like-a-girl-pretty-pretty-awful-runaway-brother-may-07-2026-654402",
@@ -253,6 +261,14 @@
     ],
     "link": "https://app.opendate.io/e/the-grog-shop-presents-home-front-bootlicker-may-13-2026-672364",
     "date": "2026-05-13T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Phantom A.D., Oongow!!!, Slug Fest"
+    ],
+    "link": "https://app.opendate.io/e/the-phantom-a-d-oongow-slug-fest-june-20-2026-682481",
+    "date": "2026-06-20T00:00:01",
     "venue": "Happy Dog"
   }
 ]

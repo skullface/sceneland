@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "The Obsessed",
-      "The Great Iron Snake",
-      "Radian",
-      "Bessemer Saints"
-    ],
-    "link": "https://grogshop.gs/tm-event/the-obsessed/",
-    "date": "2026-03-12",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "The Narrowbacks",
       "Pat Mulloy of Mary's Lane"
     ],
@@ -353,6 +342,17 @@
     ],
     "link": "https://grogshop.gs/tm-event/frog/",
     "date": "2026-04-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Spark Something: A Springtime Celebration of Creativity and Activation",
+      "Frida And The Mann",
+      "The Quenton Rubin Band",
+      "Whatshisface"
+    ],
+    "link": "https://grogshop.gs/tm-event/spark-something-a-springtime-celebration-of-creativity-and-activation/",
+    "date": "2026-04-25",
     "venue": "Grog Shop"
   },
   {

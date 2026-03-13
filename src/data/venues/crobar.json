@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "artist": [
+      "Disfunktional: DJ Colette, Delish, Le Mew"
+    ],
+    "link": "https://secure.crobar1921.com/event/disfunktinoal--dj-collette",
+    "date": "2026-03-14T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Mike Servito: ASL Princess"
+    ],
+    "link": "https://secure.crobar1921.com/event/mike-servito29",
+    "date": "2026-03-20T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Byron the Aquarius: Sound On Tape"
+    ],
+    "link": "https://secure.crobar1921.com/event/byron-the-aquarius--sound-on-tape",
+    "date": "2026-03-21T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Jay Tripwire: Delish"
+    ],
+    "link": "https://secure.crobar1921.com/event/jay-tripwire",
+    "date": "2026-03-27T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Tammy Lakkis, Baraness, DNSV, \ufeffGoodboy"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf99",
+    "date": "2026-03-28T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Dam Swindle: Den Hur, Smooth Talk"
+    ],
+    "link": "https://secure.crobar1921.com/event/dam-swindle",
+    "date": "2026-04-03T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Stacey Pullen: Open to Close"
+    ],
+    "link": "https://secure.crobar1921.com/event/stacey-pullen--open-to-close",
+    "date": "2026-04-18T00:00:01",
+    "venue": "Crobar"
+  }
+]

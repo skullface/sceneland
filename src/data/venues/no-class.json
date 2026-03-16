@@ -1,41 +1,17 @@
 [
   {
     "artist": [
-      "HYPERPOP NIGHT"
-    ],
-    "link": "https://noclasscle.com/events/hyperpop-night-3-12",
-    "date": "2026-03-12T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "N.M.A."
-    ],
-    "link": "https://noclasscle.com/events/nma",
-    "date": "2026-03-13T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "MIDNIGHT (SOLD OUT)"
-    ],
-    "link": "https://noclasscle.com/events/midnight-matinee",
-    "date": "2026-03-14T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "KAE FOX'S VARIETY SHOW"
-    ],
-    "link": "https://noclasscle.com/events/kae-foxs-variety-show",
-    "date": "2026-03-14T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "THE PENTAGRAM STRING BAND"
     ],
     "link": "https://noclasscle.com/events/the-pentagram-string-band",
+    "date": "2026-03-15T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "NIGHT OF 1,000 CLOWNS"
+    ],
+    "link": "https://noclasscle.com/events/night-of-1000-clowns",
     "date": "2026-03-15T00:00:01",
     "venue": "No Class"
   },

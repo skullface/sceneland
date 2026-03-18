@@ -121,6 +121,14 @@
   },
   {
     "artist": [
+      "Passion Pit, The Pretty Penny Tour"
+    ],
+    "link": "https://www.axs.com/events/1362143/passion-pit-tickets",
+    "date": "2026-06-24T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
       "Kamelot, Visions of Atlantis, Frozen Crown"
     ],
     "link": "https://www.axs.com/events/1343769/kamelot-tickets",
@@ -141,6 +149,14 @@
     ],
     "link": "https://www.axs.com/events/1210725/benjamin-tod-tickets",
     "date": "2026-10-02T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Public Image Ltd"
+    ],
+    "link": "https://www.axs.com/events/1371082/public-image-ltd-tickets",
+    "date": "2027-03-24T20:00:00",
     "venue": "Globe Iron"
   }
 ]

@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Jordana",
-      "Kelcey Ayer"
-    ],
-    "link": "https://grogshop.gs/tm-event/jordana-kelcey-ayer/",
-    "date": "2026-03-17",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "JMSN",
       "Samy Sharif",
       "Happy Endings",
@@ -519,6 +510,17 @@
   },
   {
     "artist": [
+      "Inmates",
+      "Axioma",
+      "Pill Time",
+      "DJ Billie Club"
+    ],
+    "link": "https://grogshop.gs/tm-event/inmates-axioma-pill-time-dj-billie-club/",
+    "date": "2026-06-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Ryan Davis & the Roadhouse Band",
       "Elizabeth Moen"
     ],
@@ -542,6 +544,15 @@
       "SURF GANG"
     ],
     "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
+    "date": "2026-06-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "RATBOYS When The Sun Explodes Tour 2026",
+      "Shallowater"
+    ],
+    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
     "date": "2026-06-26",
     "venue": "Grog Shop"
   },
@@ -574,10 +585,26 @@
   },
   {
     "artist": [
+      "Les Savy Fav"
+    ],
+    "link": "https://grogshop.gs/tm-event/les-savy-fav/",
+    "date": "2026-07-24",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Amble"
     ],
     "link": "https://grogshop.gs/tm-event/amble/",
     "date": "2026-07-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Viagra Boys: The Infinite Anxiety Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/viagra-boys-the-infinite-anxiety-tour/",
+    "date": "2026-08-03",
     "venue": "Grog Shop"
   },
   {

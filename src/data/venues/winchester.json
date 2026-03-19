@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BOOZY BINGO (BAKERY)"
-    ],
-    "link": "https://www.ticketweb.com/event/boozy-bingo-bakery-the-winchester-tickets/14789783",
-    "date": "2026-03-18T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Crystal Ship \u2013 Tribute to The Doors"
     ],
     "link": "https://www.ticketweb.com/event/crystal-ship-tribute-the-winchester-tickets/14644753",
@@ -229,6 +221,14 @@
     ],
     "link": "https://www.ticketweb.com/event/chest-fever-presents-how-does-the-winchester-tickets/14173984",
     "date": "2026-05-16T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Infected Rain \u2013 Mutation Phase in The US"
+    ],
+    "link": "https://www.ticketweb.com/event/infected-rain-mutation-the-winchester-tickets/13985454",
+    "date": "2026-05-21T19:30:00",
     "venue": "Winchester Tavern"
   }
 ]

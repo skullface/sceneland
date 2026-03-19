@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "For Absent Friends Metalcore Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/for-absent-friends-metalcore-night-4/",
-    "date": "2026-03-18T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Anime Pop Night"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-2/",
@@ -121,18 +113,18 @@
   },
   {
     "artist": [
-      "Beginner Line Dancing Lessons!"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-5/",
-    "date": "2026-04-07T18:30:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Metalcore Wednesday"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-6/",
     "date": "2026-04-08T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "NOCTURNAL"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
+    "date": "2026-04-10T21:00:00",
     "venue": "Foundry"
   },
   {
@@ -237,6 +229,22 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/intergalactic-pizza-party-aboard-the-millennium-foundry/",
     "date": "2026-05-02T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Gravel, Attaxe, Minimal Liminal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/gravel-attaxe-minimal-liminal/",
+    "date": "2026-05-03T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Gravel, Attaxe, Minimal Liminal"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/gravel-attaxe-minimal-liminal/",
+    "date": "2026-05-03T19:00:00",
     "venue": "Foundry"
   },
   {

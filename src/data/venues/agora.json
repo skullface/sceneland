@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Moonchild, Brittney Carter"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1184775",
-    "date": "2026-03-19T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Zara Larsson, Amelia Moore"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1115307",
@@ -97,7 +89,7 @@
   },
   {
     "artist": [
-      "Snarky Puppy"
+      "Snarky Puppy, Sof\u00eda Rei"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1165152",
     "date": "2026-04-23T18:00:00",
@@ -301,6 +293,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1317886",
     "date": "2026-10-15T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Jesse Welles"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1374107",
+    "date": "2026-10-18T18:00:00",
     "venue": "Agora"
   },
   {

@@ -1,17 +1,6 @@
 [
   {
     "artist": [
-      "JUDGE",
-      "The S.E.T.",
-      "En Love",
-      "Yambag"
-    ],
-    "link": "https://grogshop.gs/tm-event/judge-the-s-e-t-en-love-yambag/",
-    "date": "2026-03-20",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Pop Punk Live Band Karaoke! Hosted by Lake Erie Emo Club"
     ],
     "link": "https://grogshop.gs/tm-event/pop-punk-live-band-karaoke-hosted-by-lake-erie-emo-club/",
@@ -415,10 +404,11 @@
   },
   {
     "artist": [
-      "Los Retros"
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
     ],
-    "link": "https://grogshop.gs/tm-event/los-retros/",
-    "date": "2026-05-12",
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
@@ -427,15 +417,6 @@
       "Bootlicker"
     ],
     "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
-    "date": "2026-05-13",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
-    ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
@@ -546,6 +527,15 @@
   },
   {
     "artist": [
+      "Teenage Bottlerocket",
+      "Sludgeworth"
+    ],
+    "link": "https://grogshop.gs/tm-event/teenage-bottlerocket-sludgeworth/",
+    "date": "2026-06-25",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
       "MIKE.",
       "SURF GANG"
@@ -588,6 +578,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/the-church-the-singles-tour-1980-2025/",
     "date": "2026-07-02",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "mc chris",
+      "Mega Ran"
+    ],
+    "link": "https://grogshop.gs/tm-event/mc-chris-mega-ran/",
+    "date": "2026-07-14",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sapphic Soiree RAVE"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/sapphic-soiree-rave/",
-    "date": "2026-03-20T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "OHIO RISING STARS ROCK OFF"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/ohio-rising-stars-rock-off-4/",
@@ -125,6 +117,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-13/",
     "date": "2026-04-06T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Lynch Mob"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/lynch-mob/",
+    "date": "2026-04-08T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

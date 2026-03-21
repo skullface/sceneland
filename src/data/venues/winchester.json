@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Sugar Mules & The Asheville Mountain Boys"
-    ],
-    "link": "https://www.ticketweb.com/event/the-sugar-mules-the-the-winchester-tickets/14074984",
-    "date": "2026-03-20T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Dark Wave Dance Cave"
     ],
     "link": "https://www.ticketweb.com/event/dark-wave-dance-cave-the-winchester-tickets/14750233",
@@ -29,6 +21,14 @@
     ],
     "link": "https://www.ticketweb.com/event/the-fell-the-winchester-tickets/14147564",
     "date": "2026-03-23T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "PLANT BINGO!!"
+    ],
+    "link": "https://www.ticketweb.com/event/plant-bingo-the-winchester-tickets/14801453",
+    "date": "2026-03-25T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -92,6 +92,14 @@
       "LOCALS ONLY"
     ],
     "link": "https://www.ticketweb.com/event/locals-only-the-winchester-tickets/14751923",
+    "date": "2026-04-06T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "LOCALS ONLY, ZOLOFT + UNC D + THE JOBS"
+    ],
+    "link": "https://www.ticketweb.com/event/locals-only-w-zoloft-the-winchester-tickets/14804653",
     "date": "2026-04-06T20:00:00",
     "venue": "Winchester Tavern"
   },
@@ -221,14 +229,6 @@
     ],
     "link": "https://www.ticketweb.com/event/infected-rain-mutation-the-winchester-tickets/13985454",
     "date": "2026-05-21T19:30:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "TOOLOLOGY \u2013 The Ultimate Tribute to Tool"
-    ],
-    "link": "https://www.ticketweb.com/event/toolology-the-ultimate-the-winchester-tickets/14756513",
-    "date": "2026-05-22T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Anime Pop Night"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/anime-pop-night-2/",
-    "date": "2026-03-20T21:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Lower 13, Druparia, KHANDRIA, Throbber"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/lower-13-druparia-khandria-throbber/",
@@ -297,6 +289,14 @@
   },
   {
     "artist": [
+      "Internal Bleeding, Sworn Enemy"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/internal-bleeding-sworn-enemy/",
+    "date": "2026-06-08T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "The Static Wake, Demise Eve"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/the-static-wake-demise-eve/",
@@ -317,6 +317,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/symphony-in-peril-dissection-of-spirit-escalation-of-force-goodfornothing/",
     "date": "2026-06-27T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Ashes at Last, Slamwich, Amulet, Execution, Terra Vista"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/ashes-at-last-slamwich-amulet-execution-terra-vista/",
+    "date": "2026-07-05T19:00:00",
     "venue": "Foundry"
   }
 ]

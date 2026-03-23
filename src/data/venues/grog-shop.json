@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Jack Lutz",
-      "Hayden Grove",
-      "Nate Yingling Trio"
-    ],
-    "link": "https://grogshop.gs/tm-event/jack-lutz-hayden-grove-lyons-lane-jack-the-optimists/",
-    "date": "2026-03-22",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "ACO: A Tribute to Rob Williams"
     ],
     "link": "https://grogshop.gs/tm-event/aco-a-tribute-to-rob-williams/",
@@ -396,19 +386,19 @@
   },
   {
     "artist": [
-      "Home Front",
-      "Bootlicker"
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
     ],
-    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
+      "Home Front",
+      "Bootlicker"
     ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jimmie\u2019s Chicken Shack"
-    ],
-    "link": "https://www.ticketweb.com/event/jimmies-chicken-shack-the-winchester-tickets/14518043",
-    "date": "2026-03-22T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "the fell"
     ],
     "link": "https://www.ticketweb.com/event/the-fell-the-winchester-tickets/14147564",
@@ -177,6 +169,22 @@
   },
   {
     "artist": [
+      "Echo Pilot, Lilieae, & Cellophane Jane"
+    ],
+    "link": "https://www.ticketweb.com/event/echo-pilot-lilieae-cellophane-the-winchester-tickets/14190454",
+    "date": "2026-04-30T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "babes against the machine, Issues"
+    ],
+    "link": "https://www.ticketweb.com/event/babes-against-the-machine-w-the-winchester-tickets/14139924",
+    "date": "2026-05-01T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "THAT HANDSOME DEVIL"
     ],
     "link": "https://www.ticketweb.com/event/that-handsome-devil-the-winchester-tickets/14150874",
@@ -221,6 +229,14 @@
     ],
     "link": "https://www.ticketweb.com/event/infected-rain-mutation-the-winchester-tickets/13985454",
     "date": "2026-05-21T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "TOOLOLOGY \u2013 The Ultimate Tribute to Tool"
+    ],
+    "link": "https://www.ticketweb.com/event/toolology-the-ultimate-the-winchester-tickets/14756513",
+    "date": "2026-05-22T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

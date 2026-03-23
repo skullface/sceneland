@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Cold Stares"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/the-cold-stares/",
-    "date": "2026-03-22T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Tape and Tears, Quiver The Busker, Death Mattress, THEY/THEMPERESS"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/tape-and-tears-quiver-the-busker-death-mattress-they-themperess/",
-    "date": "2026-03-22T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "MUSIC TRIVI-AOKE"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-11/",
@@ -65,17 +49,17 @@
   },
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
+      "Zombie Fashion Show"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-12/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/zombie-fashion-show/",
     "date": "2026-03-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
     "artist": [
-      "Zombie Fashion Show"
+      "MUSIC TRIVI-AOKE"
     ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/zombie-fashion-show/",
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-12/",
     "date": "2026-03-30T00:00:01",
     "venue": "Mercury Music Lounge"
   },
@@ -325,6 +309,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/october-beach-club-m-o-o-k-y-rosana-lady-melma-rorschach/",
     "date": "2026-06-12T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "MUSIC TRIVI-AOKE"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-23/",
+    "date": "2026-06-15T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

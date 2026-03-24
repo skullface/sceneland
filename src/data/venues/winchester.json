@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "the fell"
-    ],
-    "link": "https://www.ticketweb.com/event/the-fell-the-winchester-tickets/14147564",
-    "date": "2026-03-23T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "PLANT BINGO!!"
     ],
     "link": "https://www.ticketweb.com/event/plant-bingo-the-winchester-tickets/14801453",
@@ -37,6 +29,14 @@
     ],
     "link": "https://www.ticketweb.com/event/the-meteors-the-winchester-tickets/14689153",
     "date": "2026-03-29T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Ray Flanagan & Anthony Papaleo wsg Ben Gage"
+    ],
+    "link": "https://www.ticketweb.com/event/ray-flanagan-anthony-papaleo-the-winchester-tickets/14807833",
+    "date": "2026-03-30T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -137,6 +137,14 @@
   },
   {
     "artist": [
+      "Sunshine Daydream 420 show! Playing The Grateful Dead\u2019s 10/19/71 Set Live"
+    ],
+    "link": "https://www.ticketweb.com/event/sunshine-daydream-420-show-playing-the-winchester-tickets/14807863",
+    "date": "2026-04-20T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
       "Lake Erie Emo Club Presents: Emo Prom"
     ],
     "link": "https://www.ticketweb.com/event/lake-erie-emo-club-presents-the-winchester-tickets/14789133",
@@ -149,22 +157,6 @@
     ],
     "link": "https://www.ticketweb.com/event/voodoo-funk-the-winchester-tickets/14763433",
     "date": "2026-04-26T16:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Echo Pilot, Lilieae, & Cellophane Jane"
-    ],
-    "link": "https://www.ticketweb.com/event/echo-pilot-lilieae-cellophane-the-winchester-tickets/14190454",
-    "date": "2026-04-30T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "babes against the machine, Issues"
-    ],
-    "link": "https://www.ticketweb.com/event/babes-against-the-machine-w-the-winchester-tickets/14139924",
-    "date": "2026-05-01T20:00:00",
     "venue": "Winchester Tavern"
   },
   {

@@ -421,6 +421,15 @@
   },
   {
     "artist": [
+      "Corry Michaels SUMM3R26 TOUR",
+      "Nicholas Lee"
+    ],
+    "link": "https://grogshop.gs/tm-event/corry-michaels-summ3r26-tour/",
+    "date": "2026-05-17",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Killer High Life",
       "Tunnel Vision",
       "MyHeartYourGlove",
@@ -436,6 +445,18 @@
     ],
     "link": "https://grogshop.gs/tm-event/programme-4-make-the-scene/",
     "date": "2026-05-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Lilieae",
+      "Post Saga",
+      "Grosh /Wreck Like Me",
+      "Grosh",
+      "Wreck Like Me"
+    ],
+    "link": "https://grogshop.gs/tm-event/lilieae-post-saga-grosh-wreck-like-me/",
+    "date": "2026-05-22",
     "venue": "Grog Shop"
   },
   {
@@ -510,7 +531,8 @@
   {
     "artist": [
       "Teenage Bottlerocket",
-      "Sludgeworth"
+      "Sludgeworth",
+      "Whatever"
     ],
     "link": "https://grogshop.gs/tm-event/teenage-bottlerocket-sludgeworth/",
     "date": "2026-06-25",

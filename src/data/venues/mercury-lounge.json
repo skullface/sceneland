@@ -225,22 +225,6 @@
   },
   {
     "artist": [
-      "MUSIC TRIVI-AOKE"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-18/",
-    "date": "2026-05-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Powerman 5000, 12 Stones, Makes My Blood Dance"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/powerman-5000-12-stones-makes-my-blood-dance/",
-    "date": "2026-05-12T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "Nappy Roots"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/nappy-roots/",
@@ -317,6 +301,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-23/",
     "date": "2026-06-15T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Sqwerv"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/sqwerv/",
+    "date": "2026-06-18T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

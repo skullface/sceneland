@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-3-23-26",
-    "date": "2026-03-23T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "PEYTON"
     ],
     "link": "https://noclasscle.com/events/peyton",
@@ -65,6 +57,14 @@
   },
   {
     "artist": [
+      "NIGHT OF 1,000 CLOWNS"
+    ],
+    "link": "https://noclasscle.com/events/night-of-1000-clowns",
+    "date": "2026-04-09T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "1\u00d8SHN_"
     ],
     "link": "https://noclasscle.com/events/10shn-4-10",
@@ -113,10 +113,26 @@
   },
   {
     "artist": [
+      "TTG 216"
+    ],
+    "link": "https://noclasscle.com/events/ttg-216",
+    "date": "2026-04-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "IMMORTAL SUFFERING"
     ],
     "link": "https://noclasscle.com/events/immortal-suffering",
     "date": "2026-04-25T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "INGROWN"
+    ],
+    "link": "https://noclasscle.com/events/ingrown",
+    "date": "2026-04-29T00:00:01",
     "venue": "No Class"
   },
   {

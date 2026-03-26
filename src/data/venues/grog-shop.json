@@ -72,14 +72,6 @@
   },
   {
     "artist": [
-      "Dead Air Divine"
-    ],
-    "link": "https://grogshop.gs/tm-event/dead-air-divine/",
-    "date": "2026-04-02",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Matt Pryor",
       "Small Uncle",
       "Eighty-Sixed",
@@ -491,6 +483,15 @@
   },
   {
     "artist": [
+      "Jack Fords",
+      "Slow Groove Kings"
+    ],
+    "link": "https://grogshop.gs/tm-event/jack-fords/",
+    "date": "2026-06-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Worm \"Total Possession of America\"",
       "Atomic Witch",
       "Vile Light"
@@ -540,20 +541,20 @@
   },
   {
     "artist": [
-      "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
-      "MIKE.",
-      "SURF GANG"
+      "RATBOYS When The Sun Explodes Tour 2026",
+      "Shallowater"
     ],
-    "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
+    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
     "date": "2026-06-26",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "RATBOYS When The Sun Explodes Tour 2026",
-      "Shallowater"
+      "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
+      "MIKE.",
+      "SURF GANG"
     ],
-    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
+    "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
     "date": "2026-06-26",
     "venue": "Grog Shop"
   },

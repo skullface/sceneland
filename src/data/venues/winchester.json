@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "PLANT BINGO!!"
-    ],
-    "link": "https://www.ticketweb.com/event/plant-bingo-the-winchester-tickets/14801453",
-    "date": "2026-03-25T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Cottage Chemistry: A Heated Rivalry Dance Party"
     ],
     "link": "https://www.ticketweb.com/event/cottage-chemistry-a-heated-rivalry-the-winchester-tickets/14145744",
@@ -229,6 +221,14 @@
     ],
     "link": "https://www.ticketweb.com/event/toolology-the-ultimate-the-winchester-tickets/14756513",
     "date": "2026-05-22T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Kendall Street Company \u2013 Space is the Place Tour 2026"
+    ],
+    "link": "https://www.ticketweb.com/event/kendall-street-company-the-winchester-tickets/14749993",
+    "date": "2026-05-28T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

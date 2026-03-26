@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Mike Servito: ASL Princess"
-    ],
-    "link": "https://secure.crobar1921.com/event/mike-servito29",
-    "date": "2027-03-20T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
-      "Byron the Aquarius: Sound On Tape"
-    ],
-    "link": "https://secure.crobar1921.com/event/byron-the-aquarius--sound-on-tape",
-    "date": "2027-03-21T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "Jay Tripwire: Delish"
     ],
     "link": "https://secure.crobar1921.com/event/jay-tripwire",
@@ -53,6 +37,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/stacey-pullen--open-to-close",
     "date": "2026-04-18T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Dusk Trash (Detroit): Angelgirl EVA, Sissybunny, Uh HUh"
+    ],
+    "link": "https://secure.crobar1921.com/event/phase-zero",
+    "date": "2026-04-24T00:00:01",
     "venue": "Crobar"
   }
 ]

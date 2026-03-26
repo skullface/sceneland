@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Metalcore Wednesday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-5/",
-    "date": "2026-03-25T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Mauled, Thus Spoke Zarathustra, Surfaced, Backbiter, Lie In Wait"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/mauled-thus-spoke-zarathustra-surfaced-backbiter-lie-in-wait/",
@@ -145,7 +137,7 @@
   },
   {
     "artist": [
-      "Outlier"
+      "Outlier, For Absent Friends, DRVYN, Common Threat"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/outlier/",
     "date": "2026-04-21T19:00:00",
@@ -189,6 +181,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/master-boot-record/",
     "date": "2026-04-29T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Normundy, Unhealthy While Unhinged"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/normundy-unhealthy-while-unhinged/",
+    "date": "2026-05-01T18:00:00",
     "venue": "Foundry"
   },
   {
@@ -249,7 +249,7 @@
   },
   {
     "artist": [
-      "Ventana, Polkadot Cadaver, Beneath the Hollow , Sassafras Cove"
+      "Ventana, Polkadot Cadaver, Beneath the Hollow , Sassafras Cove, Jade Ring"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ventana-polkadot-cadaver-beneath-the-hollow-sassafras-cove/",
     "date": "2026-05-24T18:00:00",
@@ -269,6 +269,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/waste-catsclaw/",
     "date": "2026-06-03T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Brick By Brick"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/brick-by-brick/",
+    "date": "2026-06-07T19:00:00",
     "venue": "Foundry"
   },
   {

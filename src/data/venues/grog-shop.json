@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Brent Cobb: THE AIN\u2019T ROCKED IN A WHILE TOUR",
-      "Wade Sapp",
-      "Reverend Lee"
-    ],
-    "link": "https://grogshop.gs/tm-event/brent-cobb-the-aint-rocked-in-a-while-tour/",
-    "date": "2026-03-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Chuck Ragan",
       "Heart & Lung",
       "Flippant"
@@ -87,6 +77,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/apostle-jones-presents-the-third-annual-blues-soul-slam/",
     "date": "2026-04-04",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "ROSIE",
+      "judelyn"
+    ],
+    "link": "https://grogshop.gs/tm-event/rosie-judelyn/",
+    "date": "2026-04-07",
     "venue": "Grog Shop"
   },
   {
@@ -271,6 +270,16 @@
   },
   {
     "artist": [
+      "KAKI",
+      "Molly O'Malley",
+      "Sugardeer"
+    ],
+    "link": "https://grogshop.gs/tm-event/kaki-molly-omalley-sugardeer/",
+    "date": "2026-04-28",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "FILTH: Back To Tha Gutta Tour",
       "Resistor",
       "Monochromatic Black",
@@ -298,6 +307,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/slomosa/",
     "date": "2026-05-01",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Westside Live! ft. swayyfather",
+      "tayfuego",
+      "Westside Tony"
+    ],
+    "link": "https://grogshop.gs/tm-event/westside-live-ft-swayyfather-tayfuego-westside-tony/",
+    "date": "2026-05-02",
     "venue": "Grog Shop"
   },
   {
@@ -370,19 +389,19 @@
   },
   {
     "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
+      "Home Front",
+      "Bootlicker"
     ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "Home Front",
-      "Bootlicker"
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
     ],
-    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
@@ -583,6 +602,15 @@
     ],
     "link": "https://grogshop.gs/tm-event/the-church-the-singles-tour-1980-2025/",
     "date": "2026-07-02",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Generacion Suicida",
+      "Loosey"
+    ],
+    "link": "https://grogshop.gs/tm-event/generacion-suicida-loosey/",
+    "date": "2026-07-13",
     "venue": "Grog Shop"
   },
   {

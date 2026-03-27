@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Indie Nights Amplified with India Raven"
-    ],
-    "link": "https://www.eventbrite.com/e/indie-nights-amplified-with-india-raven-tickets-1983455058473",
-    "date": "2026-03-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Left Lane Cruiser, Papers"
-    ],
-    "link": "https://www.eventbrite.com/e/left-lane-cruiserpapers-tickets-1980556960183",
-    "date": "2026-03-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "La Noche De La Salsa"
     ],
     "link": "https://www.eventbrite.com/e/la-noche-de-la-salsa-tickets-1982476583829",
@@ -301,6 +285,14 @@
     ],
     "link": "https://www.eventbrite.com/e/wednesdaydemonstrationsuburbandowngradethewastedowned-by-aholesgatlin-tickets-1983090037686",
     "date": "2026-07-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "YoWest Fusion Fest Pt 3"
+    ],
+    "link": "https://www.eventbrite.com/e/yowest-fusion-fest-pt-3-tickets-1985963425065",
+    "date": "2026-07-25T00:00:01",
     "venue": "Westside Bowl"
   },
   {

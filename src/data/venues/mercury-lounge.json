@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "STARDUST USA 2026"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/stardust-usa-2026/",
-    "date": "2026-03-27T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "CLOCKWORK"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/clockwork-4/",
-    "date": "2026-03-27T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "OHIO RISING STARS ROCK OFF"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/ohio-rising-stars-rock-off-5/",
@@ -309,6 +293,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-22/",
     "date": "2026-06-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Blacktop Mojo, Anything But Human"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/blacktop-mojo-anything-but-human/",
+    "date": "2026-06-11T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

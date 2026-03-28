@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Chuck Ragan",
-      "Heart & Lung",
-      "Flippant"
-    ],
-    "link": "https://grogshop.gs/tm-event/chuck-ragan/",
-    "date": "2026-03-27",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Nothing",
       "Full Body 2",
       "Cryogeyser",
@@ -210,7 +200,8 @@
   },
   {
     "artist": [
-      "Tom Hamilton"
+      "Tom Hamilton",
+      "AJ & The Woods"
     ],
     "link": "https://grogshop.gs/tm-event/tom-hamilton/",
     "date": "2026-04-22",

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Handsome Dick Manitoba, The Strains, The A-10s, The Robert Conn Band"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/handsome-dick-manitoba-the-strains-the-a-10s-the-robert-conn-band/",
-    "date": "2026-03-28T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Everythings Taken, King To A Broken Throne, Lamania, Awkward Souls, Red Crow"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/everythings-taken-king-to-a-broken-throne-lamania-awkward-souls-red-crow/",
@@ -113,10 +105,10 @@
   },
   {
     "artist": [
-      "Camping in Alaska, Dead Butterflies, Sue"
+      "Take The Flame, Death & Exhale, Moneyball"
     ],
-    "link": "https://www.foundryconcertclub.com/tm-event/camping-in-alaska-dead-butterflies-sue/",
-    "date": "2026-04-18T19:00:00",
+    "link": "https://www.foundryconcertclub.com/tm-event/take-the-flame-death-exhale-moneyball/",
+    "date": "2026-04-19T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -249,6 +241,14 @@
   },
   {
     "artist": [
+      "Beginner Line Dancing Lessons!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons/",
+    "date": "2026-05-26T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Alyxx, Seldom Fade, Maxilla, Faith In Failure"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/alyxx-seldom-fade-maxilla-faith-in-failure/",
@@ -305,10 +305,26 @@
   },
   {
     "artist": [
+      "Beginner Line Dancing Lessons!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-2/",
+    "date": "2026-06-30T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Ashes at Last, Slamwich, Amulet, Execution, Terra Vista"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ashes-at-last-slamwich-amulet-execution-terra-vista/",
     "date": "2026-07-05T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Beginner Line Dancing Lessons!"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-3/",
+    "date": "2026-07-28T18:30:00",
     "venue": "Foundry"
   }
 ]

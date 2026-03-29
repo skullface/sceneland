@@ -1,28 +1,6 @@
 [
   {
     "artist": [
-      "Nothing",
-      "Full Body 2",
-      "Cryogeyser",
-      "VMO (Violent Magic Orchestra)"
-    ],
-    "link": "https://grogshop.gs/tm-event/nothing-full-body-2-cryogeyser-vmo-violent-magic-orchestra/",
-    "date": "2026-03-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "HIRS",
-      "Commitment",
-      "Skwerm",
-      "Trollop"
-    ],
-    "link": "https://grogshop.gs/tm-event/hirs-commitment/",
-    "date": "2026-03-28",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Megan From Work",
       "Grumpy Plum",
       "Crown Shy"
@@ -380,19 +358,19 @@
   },
   {
     "artist": [
-      "Home Front",
-      "Bootlicker"
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
     ],
-    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
+      "Home Front",
+      "Bootlicker"
     ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
@@ -551,20 +529,20 @@
   },
   {
     "artist": [
-      "RATBOYS When The Sun Explodes Tour 2026",
-      "Shallowater"
-    ],
-    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
-    "date": "2026-06-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
       "MIKE.",
       "SURF GANG"
     ],
     "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
+    "date": "2026-06-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "RATBOYS When The Sun Explodes Tour 2026",
+      "Shallowater"
+    ],
+    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
     "date": "2026-06-26",
     "venue": "Grog Shop"
   },

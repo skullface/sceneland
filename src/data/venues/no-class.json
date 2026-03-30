@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "PEYTON"
-    ],
-    "link": "https://noclasscle.com/events/peyton",
-    "date": "2026-03-27T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "HIRS COLLECTIVE"
-    ],
-    "link": "https://noclasscle.com/events/hirs-commitment",
-    "date": "2026-03-28T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "SAPPHIC SOCIAL"
     ],
     "link": "https://noclasscle.com/events/sapphic-social-3-29-26",
@@ -45,6 +29,14 @@
     ],
     "link": "https://noclasscle.com/events/gotta-snatch-em-all-lovesick",
     "date": "2026-04-04T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ADULT ONLY EASTER EGG HUNT"
+    ],
+    "link": "https://noclasscle.com/events/ADULT ONLY EASTER EGG HUNT",
+    "date": "2026-04-05T00:00:01",
     "venue": "No Class"
   },
   {
@@ -109,6 +101,14 @@
     ],
     "link": "https://noclasscle.com/events/marquis-gaylords-odditorium-black-and-blazed",
     "date": "2026-04-18T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "DEATH METAL BINGO"
+    ],
+    "link": "https://noclasscle.com/events/death-metal-bingo",
+    "date": "2026-04-19T00:00:01",
     "venue": "No Class"
   },
   {

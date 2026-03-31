@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Ray Flanagan & Anthony Papaleo wsg Ben Gage"
-    ],
-    "link": "https://www.ticketweb.com/event/ray-flanagan-anthony-papaleo-the-winchester-tickets/14807833",
-    "date": "2026-03-30T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Amped Up for Animals \u2013 Benefit Concert for Cleveland APL"
     ],
     "link": "https://www.ticketweb.com/event/amped-up-for-animals-the-winchester-tickets/14747353",
     "date": "2026-03-31T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "BOOZY BINGO (APRIL FOOLS)"
+    ],
+    "link": "https://www.ticketweb.com/event/boozy-bingo-april-fools-the-winchester-tickets/14821823",
+    "date": "2026-04-01T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -93,6 +93,14 @@
     ],
     "link": "https://www.ticketweb.com/event/tyler-rich-danny-worsnop-the-winchester-tickets/14066994",
     "date": "2026-04-17T19:15:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Anna Moya, Talkless, Due by Midnight"
+    ],
+    "link": "https://www.ticketweb.com/event/anna-moya-talkless-due-by-the-winchester-tickets/14824083",
+    "date": "2026-04-17T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -221,6 +229,14 @@
     ],
     "link": "https://www.ticketweb.com/event/angel-farewell-tour-the-winchester-tickets/14099724",
     "date": "2026-05-29T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Adelitas Way"
+    ],
+    "link": "https://www.ticketweb.com/event/adelitas-way-the-winchester-tickets/14150944",
+    "date": "2026-05-30T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

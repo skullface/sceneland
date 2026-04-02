@@ -1,16 +1,6 @@
 [
   {
     "artist": [
-      "Golomb",
-      "Lavender Jets",
-      "Powers/Rolin Duo"
-    ],
-    "link": "https://grogshop.gs/tm-event/golomb-lavender-jets/",
-    "date": "2026-04-01",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Matt Pryor",
       "Small Uncle",
       "Eighty-Sixed",
@@ -190,8 +180,8 @@
   {
     "artist": [
       "Spark Something: A Springtime Celebration of Creativity and Activation",
-      "Frida And The Mann",
       "The Quenton Rubin Band",
+      "Frida And The Mann",
       "Whatshisface"
     ],
     "link": "https://grogshop.gs/tm-event/spark-something-a-springtime-celebration-of-creativity-and-activation/",
@@ -325,7 +315,9 @@
   {
     "artist": [
       "Isaiah Linder Live at The Grog Shop",
-      "TBA"
+      "Jack Lutz",
+      "Yacobucci",
+      "Last Pick"
     ],
     "link": "https://grogshop.gs/tm-event/isaiah-linder-live-at-the-grog-shop-w-tba/",
     "date": "2026-05-09",
@@ -473,6 +465,15 @@
   },
   {
     "artist": [
+      "Shwayze: 7 Day Weekend Tour",
+      "Beach Fly"
+    ],
+    "link": "https://grogshop.gs/tm-event/shwayze-7-day-weekend-tour/",
+    "date": "2026-06-07",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Worm \"Total Possession of America\"",
       "Atomic Witch",
       "Vile Light"
@@ -522,20 +523,20 @@
   },
   {
     "artist": [
-      "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
-      "MIKE.",
-      "SURF GANG"
+      "RATBOYS When The Sun Explodes Tour 2026",
+      "Shallowater"
     ],
-    "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
+    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
     "date": "2026-06-26",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "RATBOYS When The Sun Explodes Tour 2026",
-      "Shallowater"
+      "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
+      "MIKE.",
+      "SURF GANG"
     ],
-    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
+    "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
     "date": "2026-06-26",
     "venue": "Grog Shop"
   },

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "DEAD7, Wiltwither, Divine Threat, Extinction Agenda"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/dead7-wiltwither/",
-    "date": "2026-04-01T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Priscilla, Wasted Society, The Daze, Free Drew"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/priscilla-wasted-society-the-daze-free-drew/",
@@ -201,6 +193,14 @@
   },
   {
     "artist": [
+      "To Violently Vomit, Vulnificus, Ovenhead"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/to-violently-vomit-vulnificus-ovenhead/",
+    "date": "2026-05-12T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "OHIO UNDER FIRE: DAY 1"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/ohio-under-fire-day-1/",
@@ -269,14 +269,6 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/internal-bleeding-sworn-enemy/",
     "date": "2026-06-08T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
-      "Brick By Brick"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/brick-by-brick/",
-    "date": "2026-06-07T19:00:00",
     "venue": "Foundry"
   },
   {

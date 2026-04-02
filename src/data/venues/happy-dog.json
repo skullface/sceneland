@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "City Club of Cleveland presents: Happy Dog Takes on Everything"
-    ],
-    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-april-01-2026-658463",
-    "date": "2026-04-01T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "People in the Daytime, Kid Primitive, Tall Grass"
     ],
     "link": "https://app.opendate.io/e/people-in-the-daytime-kid-primitive-tall-grass-april-02-2026-682991",
@@ -113,10 +105,26 @@
   },
   {
     "artist": [
+      "Roast Battle Cleveland - Thursday Night Showdown!"
+    ],
+    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-april-23-2026-687356",
+    "date": "2026-04-23T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "PRSCTT, Flourish, Lowspot"
     ],
     "link": "https://app.opendate.io/e/prsctt-flourish-lowspot-april-24-2026-658468",
     "date": "2026-04-24T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tony from Bowling, Factual Brains, Lace Boys"
+    ],
+    "link": "https://app.opendate.io/e/tony-from-bowling-factual-brains-lace-boys-april-25-2026-687357",
+    "date": "2026-04-25T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -145,6 +153,14 @@
   },
   {
     "artist": [
+      "Cleveland Softball Prom: Under the C-L-E featuring DJ Guilty Pleasures!"
+    ],
+    "link": "https://app.opendate.io/e/cleveland-softball-prom-under-the-c-l-e-featuring-dj-guilty-pleasures-may-01-2026-687361",
+    "date": "2026-05-01T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Louse, The True Faith, Xanny Stars, Dogs Run Free"
     ],
     "link": "https://app.opendate.io/e/louse-the-true-faith-xanny-stars-dogs-run-free-may-02-2026-682487",
@@ -153,10 +169,26 @@
   },
   {
     "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-may-06-2026-687364",
+    "date": "2026-05-06T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Hit Like a Girl, Pretty Pretty Awful, Runaway Brother"
     ],
     "link": "https://app.opendate.io/e/hit-like-a-girl-pretty-pretty-awful-runaway-brother-may-07-2026-654402",
     "date": "2026-05-07T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Hustle Culture, Angelhair"
+    ],
+    "link": "https://app.opendate.io/e/hustle-culture-angelhair-may-08-2026-687367",
+    "date": "2026-05-08T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -185,6 +217,14 @@
   },
   {
     "artist": [
+      "Smash Fascism benefit w/ NMA, Attaxia, Sea Biscuit"
+    ],
+    "link": "https://app.opendate.io/e/smash-fascism-benefit-w-nma-attaxia-sea-biscuit-may-14-2026-687372",
+    "date": "2026-05-14T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "An evening with The Alarm Clocks"
     ],
     "link": "https://app.opendate.io/e/an-evening-with-the-alarm-clocks-may-16-2026-682993",
@@ -193,10 +233,50 @@
   },
   {
     "artist": [
-      "The Phantom A.D., Oongow!!!, Slug Fest"
+      "Signal Cle presents: Classical Revolution!  7:30 start!"
     ],
-    "link": "https://app.opendate.io/e/the-phantom-a-d-oongow-slug-fest-june-20-2026-682481",
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-7-30-start-may-20-2026-687375",
+    "date": "2026-05-20T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Roast Battle Cleveland - Thursday Night Showdown!"
+    ],
+    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-may-21-2026-687377",
+    "date": "2026-05-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Hell Trash, EATT, Cherry Yachtsman, Stonebridge"
+    ],
+    "link": "https://app.opendate.io/e/hell-trash-eatt-cherry-yachtsman-stonebridge-may-27-2026-687376",
+    "date": "2026-05-27T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Black Cat Barbershop presents: Toilet Rats, DJs Discostich & BronZero"
+    ],
+    "link": "https://app.opendate.io/e/black-cat-barbershop-presents-toilet-rats-djs-discostich-bronzero-may-30-2026-687379",
+    "date": "2026-05-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Phantom A.D., Oongow!!!, Jaguar 777"
+    ],
+    "link": "https://app.opendate.io/e/the-phantom-a-d-oongow-jaguar-777-june-20-2026-682481",
     "date": "2026-06-20T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Atticus Sorrell, The Magnavox's, Colour Phase"
+    ],
+    "link": "https://app.opendate.io/e/atticus-sorrell-the-magnavox-s-colour-phase-june-26-2026-687380",
+    "date": "2026-06-26T00:00:01",
     "venue": "Happy Dog"
   }
 ]

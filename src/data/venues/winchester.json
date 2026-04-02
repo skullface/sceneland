@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BOOZY BINGO (APRIL FOOLS)"
-    ],
-    "link": "https://www.ticketweb.com/event/boozy-bingo-april-fools-the-winchester-tickets/14821823",
-    "date": "2026-04-01T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "A Foreigners Journey to Boston"
     ],
     "link": "https://www.ticketweb.com/event/a-foreigners-journey-to-boston-the-winchester-tickets/14121534",
@@ -69,14 +61,6 @@
     ],
     "link": "https://www.ticketweb.com/event/duunes-w-rellick-the-winchester-tickets/14739713",
     "date": "2026-04-11T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Smells like Nirvana \u2013 Nirvana Tribute"
-    ],
-    "link": "https://www.ticketweb.com/event/smells-like-nirvana-the-winchester-tickets/14162334",
-    "date": "2026-04-16T20:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -237,6 +221,14 @@
     ],
     "link": "https://www.ticketweb.com/event/angel-farewell-tour-the-winchester-tickets/14099724",
     "date": "2026-05-29T19:30:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Adelitas Way"
+    ],
+    "link": "https://www.ticketweb.com/event/adelitas-way-the-winchester-tickets/14150944",
+    "date": "2026-05-30T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Teknokrat, Sea Biscuit, Immaculate Conception"
-    ],
-    "link": "https://www.eventbrite.com/e/teknokratsea-biscuitimmaculate-conception-tickets-1983277928673",
-    "date": "2026-04-01T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Paul Brown and the Killing Devils Festival"
-    ],
-    "link": "https://www.eventbrite.com/e/paul-brown-and-the-killing-devils-festival-tickets-1980890185870",
-    "date": "2026-04-02T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Brainwash Victim, Manic Wound, Private Prisons"
     ],
     "link": "https://www.eventbrite.com/e/brainwash-victimmanic-woundprivate-prisons-tickets-1983459160743",
@@ -277,6 +261,14 @@
     ],
     "link": "https://www.eventbrite.com/e/deadly-confessionalsattesamoon-tipper-tickets-1983099864077",
     "date": "2026-06-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Nineteenth Paradise, Naked Eye, Combwalker, Brake Fluid"
+    ],
+    "link": "https://www.eventbrite.com/e/nineteenth-paradisenaked-eyecombwalkerbrake-fluid-tickets-1984407818203",
+    "date": "2026-07-04T00:00:01",
     "venue": "Westside Bowl"
   },
   {

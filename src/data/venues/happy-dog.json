@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "People in the Daytime, Kid Primitive, Tall Grass"
-    ],
-    "link": "https://app.opendate.io/e/people-in-the-daytime-kid-primitive-tall-grass-april-02-2026-682991",
-    "date": "2026-04-02T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Guardians Home Opener!  Open at noon!"
     ],
     "link": "https://app.opendate.io/e/guardians-home-opener-open-at-noon-april-03-2026-682986",
@@ -185,9 +177,9 @@
   },
   {
     "artist": [
-      "Hustle Culture, Angelhair"
+      "Hustle Culture, Angelhair, Emmett OC"
     ],
-    "link": "https://app.opendate.io/e/hustle-culture-angelhair-may-08-2026-687367",
+    "link": "https://app.opendate.io/e/hustle-culture-angelhair-emmett-oc-may-08-2026-687367",
     "date": "2026-05-08T00:00:01",
     "venue": "Happy Dog"
   },
@@ -253,6 +245,14 @@
     ],
     "link": "https://app.opendate.io/e/hell-trash-eatt-cherry-yachtsman-stonebridge-may-27-2026-687376",
     "date": "2026-05-27T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Teens in Trouble, Bat Boy, Pacing"
+    ],
+    "link": "https://app.opendate.io/e/teens-in-trouble-bat-boy-pacing-may-29-2026-687650",
+    "date": "2026-05-29T00:00:01",
     "venue": "Happy Dog"
   },
   {

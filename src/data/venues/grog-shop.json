@@ -151,7 +151,9 @@
   {
     "artist": [
       "Tom Hamilton",
-      "AJ & The Woods"
+      "AJ & The Woods",
+      "Cory Grinder",
+      "Cory Grinder and the Playboy Scouts"
     ],
     "link": "https://grogshop.gs/tm-event/tom-hamilton/",
     "date": "2026-04-22",
@@ -326,19 +328,11 @@
   {
     "artist": [
       "Cut Worms",
-      "Tchotchke"
+      "Tchotchke",
+      "Dallas Brake"
     ],
     "link": "https://grogshop.gs/tm-event/cut-worms-tchotchke/",
     "date": "2026-05-11",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
-    ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
-    "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
@@ -347,6 +341,15 @@
       "Bootlicker"
     ],
     "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
+    "date": "2026-05-13",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
+    ],
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
@@ -439,6 +442,14 @@
   },
   {
     "artist": [
+      "Weird Nightmare"
+    ],
+    "link": "https://grogshop.gs/tm-event/weird-nightmare/",
+    "date": "2026-05-30",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Dupree's Dead Band (Grateful Dead Tribute)"
     ],
     "link": "https://grogshop.gs/tm-event/duprees-dead-band-grateful-dead-tribute-2/",
@@ -500,6 +511,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/ryan-davis-the-roadhouse-band-elizabeth-moen/",
     "date": "2026-06-21",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Neptune",
+      "Swisher",
+      "Powers/Rolin Duo"
+    ],
+    "link": "https://grogshop.gs/tm-event/neptune-swisher-powers-rolin-duo/",
+    "date": "2026-06-23",
     "venue": "Grog Shop"
   },
   {

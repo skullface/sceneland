@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "UNHINGED EASTER"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/unhinged-easter-2/",
-    "date": "2026-04-03T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "Gayme Night"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/gayme-night-3/",
-    "date": "2026-04-03T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
       "OHIO RISING STARS ROCK OFF"
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/ohio-rising-stars-rock-off-6/",
@@ -37,6 +21,14 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/lynch-mob/",
     "date": "2026-04-08T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "Not Another Industry Night"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/not-another-industry-night/",
+    "date": "2026-04-10T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -109,6 +101,22 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/beginner-line-dancing-lessons-7/",
     "date": "2026-04-22T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "DECADES NIGHT"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/decades-night-3/",
+    "date": "2026-04-25T00:00:01",
+    "venue": "Mercury Music Lounge"
+  },
+  {
+    "artist": [
+      "DECADES NIGHT"
+    ],
+    "link": "https://www.mercurymusiclakewood.com/tm-event/decades-night-3/",
+    "date": "2026-04-25T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {
@@ -333,22 +341,6 @@
     ],
     "link": "https://www.mercurymusiclakewood.com/tm-event/blacktop-mojo-anything-but-human/",
     "date": "2026-06-11T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "October Beach Club, M.O.O.K.Y, Rosana, Lady Melma, Rorschach"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/october-beach-club-m-o-o-k-y-rosana-lady-melma-rorschach/",
-    "date": "2026-06-12T00:00:01",
-    "venue": "Mercury Music Lounge"
-  },
-  {
-    "artist": [
-      "MUSIC TRIVI-AOKE"
-    ],
-    "link": "https://www.mercurymusiclakewood.com/tm-event/music-trivi-aoke-23/",
-    "date": "2026-06-15T00:00:01",
     "venue": "Mercury Music Lounge"
   },
   {

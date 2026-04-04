@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "THIRD DAY & ZACH WILLIAMS"
-    ],
-    "link": "https://covellicentre.com/event/third-day-zach-williams/",
-    "date": "2026-04-03T00:00:01",
-    "venue": "Covelli Centre"
-  },
-  {
-    "artist": [
       "THE HARLEM GLOBETROTTERS 100 YEAR TOUR"
     ],
     "link": "https://covellicentre.com/event/the-harlem-globetrotters-100-year-tour/",
     "date": "2026-04-13T00:00:01",
+    "venue": "Covelli Centre"
+  },
+  {
+    "artist": [
+      "PANERATHON: RISE AND UNITE 2026"
+    ],
+    "link": "https://covellicentre.com/event/panerathon-rise-and-unite-2026/",
+    "date": "2026-08-23T00:00:01",
     "venue": "Covelli Centre"
   }
 ]

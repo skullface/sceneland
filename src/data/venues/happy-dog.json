@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Guardians Home Opener!  Open at noon!"
-    ],
-    "link": "https://app.opendate.io/e/guardians-home-opener-open-at-noon-april-03-2026-682986",
-    "date": "2026-04-03T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Hello! 3D"
-    ],
-    "link": "https://app.opendate.io/e/hello-3d-april-03-2026-658464",
-    "date": "2026-04-03T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Manic Wound, Brainwash Victim, Syntax Error, Secret Handshake"
     ],
     "link": "https://app.opendate.io/e/manic-wound-brainwash-victim-syntax-error-secret-handshake-april-04-2026-672372",
@@ -25,10 +9,26 @@
   },
   {
     "artist": [
+      "CLOSED - for Easter Sunday"
+    ],
+    "link": "https://app.opendate.io/e/closed-for-easter-sunday-april-05-2026-687732",
+    "date": "2026-04-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Dyngus Day!"
     ],
     "link": "https://app.opendate.io/e/dyngus-day-april-06-2026-658466",
     "date": "2026-04-06T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "CLOSED - for Staff Holiday Party"
+    ],
+    "link": "https://app.opendate.io/e/closed-for-staff-holiday-party-april-07-2026-687733",
+    "date": "2026-04-07T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -261,6 +261,22 @@
     ],
     "link": "https://app.opendate.io/e/black-cat-barbershop-presents-toilet-rats-djs-discostich-bronzero-may-30-2026-687379",
     "date": "2026-05-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Kid Primitive, Bashford, Tough Loss, Plum Shed"
+    ],
+    "link": "https://app.opendate.io/e/kid-primitive-bashford-tough-loss-plum-shed-june-05-2026-687740",
+    "date": "2026-06-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Bethany Joy, Strange Harbor, Joe Rangel"
+    ],
+    "link": "https://app.opendate.io/e/bethany-joy-strange-harbor-joe-rangel-june-11-2026-687746",
+    "date": "2026-06-11T00:00:01",
     "venue": "Happy Dog"
   },
   {

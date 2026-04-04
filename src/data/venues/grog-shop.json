@@ -337,19 +337,19 @@
   },
   {
     "artist": [
-      "Home Front",
-      "Bootlicker"
+      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
+      "Los Mesoneros"
     ],
-    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
+    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
   {
     "artist": [
-      "INNER WAVE & LOS MESONEROS: NORTH AMERICA TOUR \u201826",
-      "Los Mesoneros"
+      "Home Front",
+      "Bootlicker"
     ],
-    "link": "https://grogshop.gs/tm-event/inner-wave-los-mesoneros-north-america-tour-26/",
+    "link": "https://grogshop.gs/tm-event/home-front-bootlicker/",
     "date": "2026-05-13",
     "venue": "Grog Shop"
   },
@@ -591,7 +591,8 @@
   {
     "artist": [
       "Generacion Suicida",
-      "Loosey"
+      "Loosey",
+      "Cruelster"
     ],
     "link": "https://grogshop.gs/tm-event/generacion-suicida-loosey/",
     "date": "2026-07-13",
@@ -613,6 +614,16 @@
     ],
     "link": "https://grogshop.gs/tm-event/cola-parking/",
     "date": "2026-07-15",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Second Hand Embarrasment",
+      "Due By Midnight  + TBA",
+      "Due By Midnight"
+    ],
+    "link": "https://grogshop.gs/tm-event/second-hand-embarrasment-due-by-midnight-tba/",
+    "date": "2026-07-22",
     "venue": "Grog Shop"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The FM Project \u2013 A Steely Dan Tribute"
-    ],
-    "link": "https://www.ticketweb.com/event/the-fm-project-the-winchester-tickets/14763243",
-    "date": "2026-04-04T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "LOCALS ONLY"
     ],
     "link": "https://www.ticketweb.com/event/locals-only-the-winchester-tickets/14751923",
@@ -73,10 +65,18 @@
   },
   {
     "artist": [
-      "Anna Moya, Talkless, Due by Midnight"
+      "The Broken View"
     ],
-    "link": "https://www.ticketweb.com/event/anna-moya-talkless-due-by-the-winchester-tickets/14824083",
-    "date": "2026-04-17T20:00:00",
+    "link": "https://www.ticketweb.com/event/the-broken-view-the-winchester-tickets/14067534",
+    "date": "2026-04-19T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Sunshine Daydream 420 show! Playing The Grateful Dead\u2019s 10/19/71 Set Live"
+    ],
+    "link": "https://www.ticketweb.com/event/sunshine-daydream-420-show-playing-the-winchester-tickets/14807863",
+    "date": "2026-04-20T19:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -221,6 +221,14 @@
     ],
     "link": "https://www.ticketweb.com/event/adelitas-way-the-winchester-tickets/14150944",
     "date": "2026-05-30T20:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "FLAW"
+    ],
+    "link": "https://www.ticketweb.com/event/flaw-the-winchester-tickets/14105194",
+    "date": "2026-06-05T20:00:00",
     "venue": "Winchester Tavern"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Third Class, Bitter Alms"
-    ],
-    "link": "https://www.eventbrite.com/e/third-classbitter-alms-tickets-1874092965509",
-    "date": "2026-04-04T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Beyond Chaotic, Nineteenth Paradise, Potentia"
     ],
     "link": "https://www.eventbrite.com/e/beyond-chaoticnineteenth-paradisepotentia-tickets-1985336319375",
@@ -221,6 +213,14 @@
     ],
     "link": "https://www.eventbrite.com/e/box-eldermk-naomibrake-fluid-tickets-1983449099650",
     "date": "2026-05-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Angela Perley, Country Honk"
+    ],
+    "link": "https://www.eventbrite.com/e/angela-perleycountry-honk-tickets-1986723715113",
+    "date": "2026-05-27T00:00:01",
     "venue": "Westside Bowl"
   },
   {

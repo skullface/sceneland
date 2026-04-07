@@ -121,6 +121,14 @@
   },
   {
     "artist": [
+      "Poet The Band, The Almas, Major Moment, Hooked Like Helen, Constellations"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/poet-the-band-the-almas-major-moment-hooked-like-helen-constellations/",
+    "date": "2026-04-28T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Master Boot Record"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/master-boot-record/",
@@ -225,6 +233,14 @@
   },
   {
     "artist": [
+      "badluv, Saturdazed, Ciix, Go Blank"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/badluv-saturdazed-ciix-go-blank/",
+    "date": "2026-05-27T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
       "Alyxx, Seldom Fade, Maxilla, Faith In Failure"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/alyxx-seldom-fade-maxilla-faith-in-failure/",
@@ -265,14 +281,6 @@
   },
   {
     "artist": [
-      "OHIO MAYHEM FEST"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/ohio-mayhem-fest/",
-    "date": "2026-06-19T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Symphony In Peril, Dissection Of Spirit, Escalation Of Force, Goodfornothing, manfiish"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/symphony-in-peril-dissection-of-spirit-escalation-of-force-goodfornothing/",
@@ -301,6 +309,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/beginner-line-dancing-lessons-3/",
     "date": "2026-07-28T18:30:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Autumn Lies Buried, Mantra Of Morta"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/autumn-lies-buried-mantra-of-morta/",
+    "date": "2026-08-14T19:00:00",
     "venue": "Foundry"
   }
 ]

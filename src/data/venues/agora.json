@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Last Dinner Party, Florence Road"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1181933",
-    "date": "2026-04-06T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Microwave, Anthony Green, Hunny and Into It Over It"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1253141",
@@ -109,6 +101,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1375950",
     "date": "2026-05-30T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Comedy Bang! Bang!"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1394512",
+    "date": "2026-06-03T18:00:00",
     "venue": "Agora"
   },
   {

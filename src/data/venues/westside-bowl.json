@@ -209,6 +209,22 @@
   },
   {
     "artist": [
+      "Castle Grayskull, Samarra, Loose Ends"
+    ],
+    "link": "https://www.eventbrite.com/e/castle-grayskullsamarraloose-ends-tickets-1986857323740",
+    "date": "2026-05-22T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Lord Humongous, Wolfenstein, Pentecost"
+    ],
+    "link": "https://www.eventbrite.com/e/lord-humongouswolfensteinpentecost-tickets-1986859079993",
+    "date": "2026-05-24T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Box Elder, MK Naomi, Brake Fluid"
     ],
     "link": "https://www.eventbrite.com/e/box-eldermk-naomibrake-fluid-tickets-1983449099650",
@@ -317,6 +333,14 @@
     ],
     "link": "https://www.eventbrite.com/e/carnival-of-corpses-tickets-1986276171498",
     "date": "2026-08-15T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "People Sleep, Braille, Brian Barr"
+    ],
+    "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
+    "date": "2026-08-28T00:00:01",
     "venue": "Westside Bowl"
   },
   {

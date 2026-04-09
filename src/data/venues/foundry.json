@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Metalcore Wednesday"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/metalcore-wednesday-6/",
-    "date": "2026-04-08T18:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "NOCTURNAL"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/nocturnal-2/",
@@ -125,6 +117,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/master-boot-record/",
     "date": "2026-04-29T20:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Violent Testimony, Angry All The Time, 10,000 Rambos, Irewyrm"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/violent-testimony-angry-all-the-time-10000-rambos-irewyrm/",
+    "date": "2026-04-30T19:00:00",
     "venue": "Foundry"
   },
   {
@@ -269,6 +269,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/internal-bleeding-sworn-enemy/",
     "date": "2026-06-08T18:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Andres, Resilia, Esoteria, Rosana"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/andres-resilia-esoteria-rosana/",
+    "date": "2026-06-10T19:00:00",
     "venue": "Foundry"
   },
   {

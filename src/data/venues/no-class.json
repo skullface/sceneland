@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "ADULT ONLY EASTER EGG HUNT"
-    ],
-    "link": "https://noclasscle.com/events/ADULT ONLY EASTER EGG HUNT",
-    "date": "2026-04-05T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "CLOUDY WITH A CHANCE..."
-    ],
-    "link": "https://noclasscle.com/events/cloudy-circus-chaos",
-    "date": "2026-04-06T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "NIGHT OF 1,000 CLOWNS"
     ],
     "link": "https://noclasscle.com/events/night-of-1000-clowns",
@@ -85,6 +69,14 @@
     ],
     "link": "https://noclasscle.com/events/ttg-216",
     "date": "2026-04-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BERGHAIN'T"
+    ],
+    "link": "https://noclasscle.com/events/berghaint-4-24-26",
+    "date": "2026-04-24T00:00:01",
     "venue": "No Class"
   },
   {

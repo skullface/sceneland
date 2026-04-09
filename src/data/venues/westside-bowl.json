@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Beyond Chaotic, Nineteenth Paradise, Potentia"
-    ],
-    "link": "https://www.eventbrite.com/e/beyond-chaoticnineteenth-paradisepotentia-tickets-1985336319375",
-    "date": "2026-04-08T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Global Plague, Gods End, Avowal"
     ],
     "link": "https://www.eventbrite.com/e/global-plaguegods-endavowal-tickets-1981790050389",
@@ -249,9 +241,17 @@
   },
   {
     "artist": [
-      "Rev. Gill and the Fishermen, Meddle, Cassette Confidential"
+      "Sandman Sleeps , Humbles County, Zoloft"
     ],
-    "link": "https://www.eventbrite.com/e/rev-gill-and-the-fishermenmeddlecassette-confidential-tickets-1986903890021",
+    "link": "https://www.eventbrite.com/e/sandman-sleeps-humbles-countyzoloft-tickets-1987009822869",
+    "date": "2026-06-11T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Rev. Gill and the Fishermen, The Head Trips, Meddle, Cassette Confidential"
+    ],
+    "link": "https://www.eventbrite.com/e/rev-gill-and-the-fishermenthe-head-tripsmeddlecassette-confidential-tickets-1986903890021",
     "date": "2026-06-12T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -381,6 +381,14 @@
     ],
     "link": "https://www.eventbrite.com/e/emissions-from-the-monolith-returns-emissions-10-tickets-1978197839991",
     "date": "2026-10-08T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Breakin Nails"
+    ],
+    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
+    "date": "2026-11-07T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

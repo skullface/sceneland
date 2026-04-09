@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Kishi Bashi: Sonderlust 10th Anniversary Tour",
-      "Bayonne"
-    ],
-    "link": "https://grogshop.gs/tm-event/kishi-bashi-sonderlust-10th-anniversary-tour/",
-    "date": "2026-04-08",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Throwing Muses",
       "Non Bruises"
     ],
@@ -70,11 +61,10 @@
   },
   {
     "artist": [
-      "WOLVES OF GLENDALE + KYLE GORDON + OCT",
-      "Kyle Gordon",
+      "KYLE GORDON + OCT:  Divorced Dads Trip",
       "On Company Time"
     ],
-    "link": "https://grogshop.gs/tm-event/wolves-of-glendale-kyle-gordon-oct/",
+    "link": "https://grogshop.gs/tm-event/kyle-gordon-oct/",
     "date": "2026-04-16",
     "venue": "Grog Shop"
   },
@@ -421,7 +411,8 @@
   },
   {
     "artist": [
-      "Weird Nightmare"
+      "Weird Nightmare",
+      "Autopolitan"
     ],
     "link": "https://grogshop.gs/tm-event/weird-nightmare/",
     "date": "2026-05-30",
@@ -651,6 +642,14 @@
   },
   {
     "artist": [
+      "JACK BENSINGER"
+    ],
+    "link": "https://grogshop.gs/tm-event/jack-bensinger/",
+    "date": "2026-08-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "The Expendables"
     ],
     "link": "https://grogshop.gs/tm-event/the-expendables/",
@@ -673,6 +672,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/chasing-abbey/",
     "date": "2026-10-11",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Akeem Ali: The Texture Tour"
+    ],
+    "link": "https://grogshop.gs/tm-event/akeem-ali-the-texture-tour/",
+    "date": "2026-11-11",
     "venue": "Grog Shop"
   }
 ]

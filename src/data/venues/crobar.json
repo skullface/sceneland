@@ -1,15 +1,7 @@
 [
   {
     "artist": [
-      "Dam Swindle: Den Hur, Smooth Talk"
-    ],
-    "link": "https://secure.crobar1921.com/event/dam-swindle",
-    "date": "2027-04-03T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
-      "Glenn Underground: Stout CTX b2b Baraness"
+      "Glenn Underground: Stout XTC b2b Baraness"
     ],
     "link": "https://secure.crobar1921.com/event/glenn-underground",
     "date": "2026-04-17T00:00:01",
@@ -37,6 +29,22 @@
     ],
     "link": "https://secure.crobar1921.com/event/ardalan",
     "date": "2026-05-01T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Lauren Flax: Honk b2b Hush"
+    ],
+    "link": "https://secure.crobar1921.com/event/lauren-flax8",
+    "date": "2026-05-08T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Machinedrum: Open to Close"
+    ],
+    "link": "https://secure.crobar1921.com/eventmachinedrum--open-to-close",
+    "date": "2026-05-15T00:00:01",
     "venue": "Crobar"
   }
 ]

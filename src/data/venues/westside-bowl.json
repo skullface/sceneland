@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Global Plague, Gods End, Avowal"
-    ],
-    "link": "https://www.eventbrite.com/e/global-plaguegods-endavowal-tickets-1981790050389",
-    "date": "2026-04-09T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Panamera, Circadia, Lee McCord, Alexis James"
     ],
     "link": "https://www.eventbrite.com/e/panameracircadialee-mccordalexis-james-tickets-1979628950481",
@@ -161,6 +153,14 @@
   },
   {
     "artist": [
+      "Chalked, Dissection of Spirit, Revere, Common Threat"
+    ],
+    "link": "https://www.eventbrite.com/e/chalkeddissection-of-spiritreverecommon-threat-tickets-1987106661516",
+    "date": "2026-05-09T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Horrorwood Ending , Ghost Road, Controlled Chaos"
     ],
     "link": "https://www.eventbrite.com/e/horrorwood-ending-ghost-roadcontrolled-chaos-tickets-1986222175996",
@@ -281,6 +281,14 @@
   },
   {
     "artist": [
+      "Misty Blues"
+    ],
+    "link": "https://www.eventbrite.com/e/misty-blues-tickets-1987029421489",
+    "date": "2026-06-29T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Nineteenth Paradise, Naked Eye, Combwalker, Brake Fluid"
     ],
     "link": "https://www.eventbrite.com/e/nineteenth-paradisenaked-eyecombwalkerbrake-fluid-tickets-1984407818203",
@@ -316,7 +324,7 @@
       "Junius, Minsk"
     ],
     "link": "https://www.eventbrite.com/e/juniusminsk-tickets-1986725885605",
-    "date": "2026-07-23T00:00:01",
+    "date": "2026-07-22T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -341,6 +349,14 @@
     ],
     "link": "https://www.eventbrite.com/e/temple-witchblood-rune-sigilsonic-smutwake-magnolia-tickets-1985546594313",
     "date": "2026-08-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Make Ourselves: A Tribute to Incubus"
+    ],
+    "link": "https://www.eventbrite.com/e/make-ourselves-a-tribute-to-incubus-tickets-1987028516783",
+    "date": "2026-08-13T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -381,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/emissions-from-the-monolith-returns-emissions-10-tickets-1978197839991",
     "date": "2026-10-08T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Breakin Nails"
-    ],
-    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
-    "date": "2026-11-07T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

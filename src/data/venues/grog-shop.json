@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Throwing Muses",
-      "Non Bruises"
-    ],
-    "link": "https://grogshop.gs/tm-event/throwing-muses/",
-    "date": "2026-04-09",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Pallbearer",
       "Knoll",
       "Axioma"
@@ -285,6 +276,18 @@
   },
   {
     "artist": [
+      "Katy Kirby",
+      "Grumpy",
+      "Nate Head",
+      "Kid Lake",
+      "Anya Van Rose"
+    ],
+    "link": "https://grogshop.gs/tm-event/katy-kirby-with-grumpy-nate-head-kid-lake-anya-van-rose/",
+    "date": "2026-05-08",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
       "Isaiah Linder Live at The Grog Shop",
       "Jack Lutz",
       "Yacobucci",
@@ -374,6 +377,14 @@
     ],
     "link": "https://grogshop.gs/tm-event/programme-4-make-the-scene/",
     "date": "2026-05-19",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "Grandview /"
+    ],
+    "link": "https://grogshop.gs/tm-event/grandview-2/",
+    "date": "2026-05-21",
     "venue": "Grog Shop"
   },
   {
@@ -523,20 +534,20 @@
   },
   {
     "artist": [
-      "RATBOYS When The Sun Explodes Tour 2026",
-      "Shallowater"
-    ],
-    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
-    "date": "2026-06-26",
-    "venue": "Grog Shop"
-  },
-  {
-    "artist": [
       "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
       "MIKE.",
       "SURF GANG"
     ],
     "link": "https://grogshop.gs/tm-event/earl-sweatshirt-mike-home-on-the-range-tour-2026/",
+    "date": "2026-06-26",
+    "venue": "Grog Shop"
+  },
+  {
+    "artist": [
+      "RATBOYS When The Sun Explodes Tour 2026",
+      "Shallowater"
+    ],
+    "link": "https://grogshop.gs/tm-event/ratboys-when-the-sun-explodes-tour-2026/",
     "date": "2026-06-26",
     "venue": "Grog Shop"
   },

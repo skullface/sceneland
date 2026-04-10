@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Albert Cummings"
-    ],
-    "link": "https://www.ticketweb.com/event/albert-cummings-the-winchester-tickets/13994704",
-    "date": "2026-04-09T19:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "90s Rockfest, Lounge Fly (STP Tribute) & Evil Empire (RATM Tribute)"
     ],
     "link": "https://www.ticketweb.com/event/90s-rockfest-w-lounge-fly-the-winchester-tickets/14782043",
@@ -77,6 +69,22 @@
     ],
     "link": "https://www.ticketweb.com/event/sunshine-daydream-420-show-playing-the-winchester-tickets/14807863",
     "date": "2026-04-20T19:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Lake Erie Emo Club Presents: Emo Prom"
+    ],
+    "link": "https://www.ticketweb.com/event/lake-erie-emo-club-presents-the-winchester-tickets/14789133",
+    "date": "2026-04-25T21:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "VooDoo Funk"
+    ],
+    "link": "https://www.ticketweb.com/event/voodoo-funk-the-winchester-tickets/14763433",
+    "date": "2026-04-26T16:00:00",
     "venue": "Winchester Tavern"
   },
   {
@@ -169,22 +177,6 @@
   },
   {
     "artist": [
-      "Chest Fever Presents: How Does it Feel?! The Music of Bob Dylan & The Band"
-    ],
-    "link": "https://www.ticketweb.com/event/chest-fever-presents-how-does-the-winchester-tickets/14173984",
-    "date": "2026-05-16T20:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
-      "Promiscuous \u2013 2000s club bangers throwback party"
-    ],
-    "link": "https://www.ticketweb.com/event/promiscuous-2000s-club-the-winchester-tickets/14841473",
-    "date": "2026-05-16T21:00:00",
-    "venue": "Winchester Tavern"
-  },
-  {
-    "artist": [
       "Infected Rain \u2013 Mutation Phase in The US"
     ],
     "link": "https://www.ticketweb.com/event/infected-rain-mutation-the-winchester-tickets/13985454",
@@ -245,6 +237,14 @@
     ],
     "link": "https://www.ticketweb.com/event/what-the-dance-presents-work-the-winchester-tickets/14811623",
     "date": "2026-06-06T22:00:00",
+    "venue": "Winchester Tavern"
+  },
+  {
+    "artist": [
+      "Saving Vice, Roderik, Resider"
+    ],
+    "link": "https://www.ticketweb.com/event/saving-vice-roderik-resider-the-winchester-tickets/14824053",
+    "date": "2026-06-07T18:30:00",
     "venue": "Winchester Tavern"
   }
 ]

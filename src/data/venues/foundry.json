@@ -129,14 +129,6 @@
   },
   {
     "artist": [
-      "Violent Testimony, Angry All The Time, 10,000 Rambos, Irewyrm"
-    ],
-    "link": "https://www.foundryconcertclub.com/tm-event/violent-testimony-angry-all-the-time-10000-rambos-irewyrm/",
-    "date": "2026-04-30T19:00:00",
-    "venue": "Foundry"
-  },
-  {
-    "artist": [
       "Normundy, Unhealthy While Unhinged"
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/normundy-unhealthy-while-unhinged/",
@@ -333,6 +325,14 @@
     ],
     "link": "https://www.foundryconcertclub.com/tm-event/autumn-lies-buried-mantra-of-morta/",
     "date": "2026-08-14T19:00:00",
+    "venue": "Foundry"
+  },
+  {
+    "artist": [
+      "Jeffrey Nothing, Dizasterpiece"
+    ],
+    "link": "https://www.foundryconcertclub.com/tm-event/jeffrey-nothing-dizasterpiece/",
+    "date": "2026-08-21T19:00:00",
     "venue": "Foundry"
   }
 ]

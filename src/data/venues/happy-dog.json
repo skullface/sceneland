@@ -17,6 +17,14 @@
   },
   {
     "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything - rescheduled"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-rescheduled-april-14-2026-689077",
+    "date": "2026-04-14T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Signal Cle presents: Classical Revolution!"
     ],
     "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-april-15-2026-672375",
@@ -81,9 +89,9 @@
   },
   {
     "artist": [
-      "Telehealth, Dr Fang and the Bats"
+      "Telehealth, Dr Fang and the Bats, Sam Likely"
     ],
-    "link": "https://app.opendate.io/e/telehealth-dr-fang-and-the-bats-april-26-2026-673307",
+    "link": "https://app.opendate.io/e/telehealth-dr-fang-and-the-bats-sam-likely-april-26-2026-673307",
     "date": "2026-04-26T00:00:01",
     "venue": "Happy Dog"
   },
@@ -121,6 +129,14 @@
   },
   {
     "artist": [
+      "Plant Bingo - a Fundraiser for the Hunger Network!"
+    ],
+    "link": "https://app.opendate.io/e/plant-bingo-a-fundraiser-for-the-hunger-network-may-05-2026-689087",
+    "date": "2026-05-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "City Club of Cleveland presents: Happy Dog Takes on Everything"
     ],
     "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-may-06-2026-687364",
@@ -153,14 +169,6 @@
   },
   {
     "artist": [
-      "Half Past Two, Sabon, Rubix Groove"
-    ],
-    "link": "https://app.opendate.io/e/half-past-two-sabon-rubix-groove-may-12-2026-680151",
-    "date": "2026-05-12T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "The Grog Shop presents: Home Front, Bootlicker"
     ],
     "link": "https://app.opendate.io/e/the-grog-shop-presents-home-front-bootlicker-may-13-2026-672364",
@@ -185,9 +193,9 @@
   },
   {
     "artist": [
-      "Signal Cle presents: Classical Revolution!  7:30 start!"
+      "Signal Cle presents: Classical Revolution!  Early start!"
     ],
-    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-7-30-start-may-20-2026-687375",
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-early-start-may-20-2026-687375",
     "date": "2026-05-20T00:00:01",
     "venue": "Happy Dog"
   },
@@ -197,6 +205,14 @@
     ],
     "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-may-21-2026-687377",
     "date": "2026-05-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "CLOSED - for Memorial Day"
+    ],
+    "link": "https://app.opendate.io/e/closed-for-memorial-day-may-25-2026-689070",
+    "date": "2026-05-25T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -225,6 +241,14 @@
   },
   {
     "artist": [
+      "Psychtooth, Tall Grass, Pro Skater"
+    ],
+    "link": "https://app.opendate.io/e/psychtooth-tall-grass-pro-skater-june-04-2026-689069",
+    "date": "2026-06-04T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Kid Primitive, Bashford, Tough Loss, Plum Shed"
     ],
     "link": "https://app.opendate.io/e/kid-primitive-bashford-tough-loss-plum-shed-june-05-2026-687740",
@@ -233,10 +257,50 @@
   },
   {
     "artist": [
+      "Psychotic Reaction, Dollar Drafts"
+    ],
+    "link": "https://app.opendate.io/e/psychotic-reaction-dollar-drafts-june-07-2026-689074",
+    "date": "2026-06-07T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Bethany Joy, Strange Harbor, Joe Rangel"
     ],
     "link": "https://app.opendate.io/e/bethany-joy-strange-harbor-joe-rangel-june-11-2026-687746",
     "date": "2026-06-11T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "A Moment in Pompeii, Unvow, Warm Body"
+    ],
+    "link": "https://app.opendate.io/e/a-moment-in-pompeii-unvow-warm-body-june-13-2026-689071",
+    "date": "2026-06-13T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Signal Cle presents: Classical Revolution!"
+    ],
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-june-17-2026-689094",
+    "date": "2026-06-17T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Roast Battle Cleveland - Thursday Night Showdown!"
+    ],
+    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-june-18-2026-689098",
+    "date": "2026-06-18T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Contracharge, Hell Is Here, Necroprophecy"
+    ],
+    "link": "https://app.opendate.io/e/contracharge-hell-is-here-necroprophecy-june-19-2026-689096",
+    "date": "2026-06-19T00:00:01",
     "venue": "Happy Dog"
   },
   {

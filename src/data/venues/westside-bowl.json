@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Life\u2019s A Beach Music Festival"
-    ],
-    "link": "https://www.eventbrite.com/e/lifes-a-beach-music-festival-tickets-1979462463514",
-    "date": "2026-04-11T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Carbon Leaf\u2019s \u2018I WANT TO BE LEAF\u2019 Tour 2026"
     ],
     "link": "https://www.eventbrite.com/e/carbon-leafs-i-want-to-be-leaf-tour-2026-tickets-1976669652140",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/emissions-from-the-monolith-returns-emissions-10-tickets-1978197839991",
     "date": "2026-10-08T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Breakin Nails"
+    ],
+    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
+    "date": "2026-11-07T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

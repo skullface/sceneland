@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "City Club of Cleveland presents: Happy Dog Takes on Everything - rescheduled"
-    ],
-    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-rescheduled-april-14-2026-689077",
-    "date": "2026-04-14T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Signal Cle presents: Classical Revolution!"
     ],
     "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-april-15-2026-672375",
@@ -49,6 +41,14 @@
   },
   {
     "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything - rescheduled"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-rescheduled-april-21-2026-689077",
+    "date": "2026-04-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Roast Battle Cleveland - Thursday Night Showdown!"
     ],
     "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-april-23-2026-687356",
@@ -73,9 +73,9 @@
   },
   {
     "artist": [
-      "Telehealth, Dr Fang and the Bats, Sam Likely"
+      "Telehealth, Dr Fang and the Bats, The Pop Cult"
     ],
-    "link": "https://app.opendate.io/e/telehealth-dr-fang-and-the-bats-sam-likely-april-26-2026-673307",
+    "link": "https://app.opendate.io/e/telehealth-dr-fang-and-the-bats-the-pop-cult-april-26-2026-673307",
     "date": "2026-04-26T00:00:01",
     "venue": "Happy Dog"
   },
@@ -109,6 +109,14 @@
     ],
     "link": "https://app.opendate.io/e/louse-the-true-faith-xanny-stars-dogs-run-free-may-02-2026-682487",
     "date": "2026-05-02T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Spring Fling Pop-Up Art Market!"
+    ],
+    "link": "https://app.opendate.io/e/spring-fling-pop-up-art-market-may-03-2026-691311",
+    "date": "2026-05-03T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -169,6 +177,14 @@
   },
   {
     "artist": [
+      "Karaoke Fundraiser for City Dogs w/ KJ Stunningham!"
+    ],
+    "link": "https://app.opendate.io/e/karaoke-fundraiser-for-city-dogs-w-kj-stunningham-may-15-2026-691305",
+    "date": "2026-05-15T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "An evening with The Alarm Clocks"
     ],
     "link": "https://app.opendate.io/e/an-evening-with-the-alarm-clocks-may-16-2026-682993",
@@ -189,6 +205,14 @@
     ],
     "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-may-21-2026-687377",
     "date": "2026-05-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Pro Skater, Forced Happiness, Sugardeer, The Yikes"
+    ],
+    "link": "https://app.opendate.io/e/pro-skater-forced-happiness-sugardeer-the-yikes-may-22-2026-691324",
+    "date": "2026-05-22T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -237,6 +261,14 @@
     ],
     "link": "https://app.opendate.io/e/kid-primitive-bashford-tough-loss-plum-shed-june-05-2026-687740",
     "date": "2026-06-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Lottery League Showcase featuring Tetraviolet, Against Language, L'avorte, Well Worn Grooves"
+    ],
+    "link": "https://app.opendate.io/e/lottery-league-showcase-featuring-tetraviolet-against-language-l-avorte-well-worn-grooves-june-06-2026-691330",
+    "date": "2026-06-06T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -297,9 +329,9 @@
   },
   {
     "artist": [
-      "Atticus Sorrell, The Magnavox's, Colour Phase"
+      "Atticus Sorrell, Colour Phase"
     ],
-    "link": "https://app.opendate.io/e/atticus-sorrell-the-magnavox-s-colour-phase-june-26-2026-687380",
+    "link": "https://app.opendate.io/e/atticus-sorrell-colour-phase-june-26-2026-687380",
     "date": "2026-06-26T00:00:01",
     "venue": "Happy Dog"
   }

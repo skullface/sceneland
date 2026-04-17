@@ -65,6 +65,14 @@
   },
   {
     "artist": [
+      "NO GUARD"
+    ],
+    "link": "https://noclasscle.com/events/no-guard",
+    "date": "2026-05-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "GO FEST YOURSELF"
     ],
     "link": "https://noclasscle.com/events/go-fest-yourself",
@@ -125,6 +133,14 @@
     ],
     "link": "https://noclasscle.com/events/ryan-cassatta",
     "date": "2026-06-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HAUNT"
+    ],
+    "link": "https://noclasscle.com/events/haunt",
+    "date": "2026-06-23T00:00:01",
     "venue": "No Class"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Indikator B, Positronix, Piss Me Off, Simple Human, Cutup"
-    ],
-    "link": "https://app.opendate.io/e/indikator-b-positronix-piss-me-off-simple-human-cutup-april-16-2026-658440",
-    "date": "2026-04-16T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Whatever, The Remote Controls, Forward to Contact"
     ],
     "link": "https://app.opendate.io/e/whatever-the-remote-controls-forward-to-contact-april-17-2026-674236",
@@ -241,9 +233,9 @@
   },
   {
     "artist": [
-      "Psychtooth, Tall Grass, Pro Skater"
+      "Psychtooth, Tall Grass, Pro Skater, Soul Fiction"
     ],
-    "link": "https://app.opendate.io/e/psychtooth-tall-grass-pro-skater-june-04-2026-689069",
+    "link": "https://app.opendate.io/e/psychtooth-tall-grass-pro-skater-soul-fiction-june-04-2026-689069",
     "date": "2026-06-04T00:00:01",
     "venue": "Happy Dog"
   },
@@ -325,6 +317,14 @@
     ],
     "link": "https://app.opendate.io/e/atticus-sorrell-colour-phase-june-26-2026-687380",
     "date": "2026-06-26T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Spirit Ghost, Cherry Yachtsman, Tough Loss"
+    ],
+    "link": "https://app.opendate.io/e/spirit-ghost-cherry-yachtsman-tough-loss-june-30-2026-691577",
+    "date": "2026-06-30T00:00:01",
     "venue": "Happy Dog"
   }
 ]

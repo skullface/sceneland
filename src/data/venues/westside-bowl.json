@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Left Lane Cruiser, Bulletfinger & The Expirations"
-    ],
-    "link": "https://www.eventbrite.com/e/left-lane-cruiserbulletfinger-the-expirations-tickets-1984979353681",
-    "date": "2026-04-16T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "The Surfrajettes,  Bethlehem Shalom, Bobs Country Bunker"
     ],
     "link": "https://www.eventbrite.com/e/the-surfrajettes-bethlehem-shalombobs-country-bunker-tickets-1980208781772",
@@ -69,6 +61,14 @@
     ],
     "link": "https://www.eventbrite.com/e/rockin-for-crohns-awareness-tickets-1983087102908",
     "date": "2026-04-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Side Note"
+    ],
+    "link": "https://www.eventbrite.com/e/side-note-tickets-1987576580055",
+    "date": "2026-05-01T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -305,6 +305,14 @@
   },
   {
     "artist": [
+      "Sunny Sweeney"
+    ],
+    "link": "https://www.eventbrite.com/e/sunny-sweeney-tickets-1987467901996",
+    "date": "2026-07-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "West Akron Fadeaway"
     ],
     "link": "https://www.eventbrite.com/e/west-akron-fadeaway-tickets-1981354075376",
@@ -369,6 +377,14 @@
   },
   {
     "artist": [
+      "Unky Bones, Brake Fluid, zoloft, Sockdolager"
+    ],
+    "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
+    "date": "2026-09-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Emissions from the Monolith Returns: Emissions 10"
     ],
     "link": "https://www.eventbrite.com/e/emissions-from-the-monolith-returns-emissions-10-tickets-1978197839991",
@@ -377,10 +393,10 @@
   },
   {
     "artist": [
-      "Breakin Nails"
+      "Fine Young Men, DirtBasement, The Frantic Nancys"
     ],
-    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
-    "date": "2026-11-07T00:00:01",
+    "link": "https://www.eventbrite.com/e/fine-young-mendirtbasementthe-frantic-nancys-tickets-1987576791688",
+    "date": "2026-10-30T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

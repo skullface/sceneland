@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "artist": [
+      "Glenn Underground: Stout XTC b2b Baraness"
+    ],
+    "link": "https://secure.crobar1921.com/event/glenn-underground",
+    "date": "2027-04-17T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Stacey Pullen: Open to Close"
+    ],
+    "link": "https://secure.crobar1921.com/event/stacey-pullen--open-to-close",
+    "date": "2026-04-18T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Dusk Trash (Detroit): Angelgirl EVA, Sissybunny, Uh HUh"
+    ],
+    "link": "https://secure.crobar1921.com/event/phase-zero",
+    "date": "2026-04-24T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Loren (Detroit), Ricky Spanish, Joey Sardelle, Le Schlippy"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf15",
+    "date": "2026-04-25T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Ardalan: Le Schlippy"
+    ],
+    "link": "https://secure.crobar1921.com/event/ardalan",
+    "date": "2026-05-01T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Lauren Flax: Honk b2b Hush"
+    ],
+    "link": "https://secure.crobar1921.com/event/lauren-flax8",
+    "date": "2026-05-08T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Machinedrum: Open to Close"
+    ],
+    "link": "https://secure.crobar1921.com/event/machinedrum--open-to-close",
+    "date": "2026-05-15T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Disfunktional: Toribio (NYC), Andre Leone, MikeOne"
+    ],
+    "link": "https://secure.crobar1921.com/event/toribio--disfunktional",
+    "date": "2026-05-16T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Chaia (NYC): Sleazus b2b Le Schlippy, Teddy Eisenberg"
+    ],
+    "link": "https://secure.crobar1921.com/event/chaia",
+    "date": "2026-05-21T00:00:01",
+    "venue": "Crobar"
+  }
+]

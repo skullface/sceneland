@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Whatever, The Remote Controls, Forward to Contact"
-    ],
-    "link": "https://app.opendate.io/e/whatever-the-remote-controls-forward-to-contact-april-17-2026-674236",
-    "date": "2026-04-17T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Moravian, Formerly Candice, The Daze"
     ],
     "link": "https://app.opendate.io/e/moravian-formerly-candice-the-daze-april-18-2026-672377",
@@ -325,6 +317,14 @@
     ],
     "link": "https://app.opendate.io/e/spirit-ghost-cherry-yachtsman-tough-loss-june-30-2026-691577",
     "date": "2026-06-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Harder They Come - featuring Jah Messengers Reggae Band, Es Ska Go + XCSB DJs!"
+    ],
+    "link": "https://app.opendate.io/e/the-harder-they-come-featuring-jah-messengers-reggae-band-es-ska-go-xcsb-djs-july-10-2026-691981",
+    "date": "2026-07-10T00:00:01",
     "venue": "Happy Dog"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Moravian, Formerly Candice, The Daze"
-    ],
-    "link": "https://app.opendate.io/e/moravian-formerly-candice-the-daze-april-18-2026-672377",
-    "date": "2026-04-18T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Yarn, Reverend Lee"
     ],
     "link": "https://app.opendate.io/e/yarn-reverend-lee-april-19-2026-667751",
@@ -325,6 +317,14 @@
     ],
     "link": "https://app.opendate.io/e/the-harder-they-come-featuring-jah-messengers-reggae-band-es-ska-go-xcsb-djs-july-10-2026-691981",
     "date": "2026-07-10T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Lunch Club, Jumpy, Fuss, Dr. Fang and the Bats"
+    ],
+    "link": "https://app.opendate.io/e/lunch-club-jumpy-fuss-dr-fang-and-the-bats-july-11-2026-691582",
+    "date": "2026-07-11T00:00:01",
     "venue": "Happy Dog"
   }
 ]

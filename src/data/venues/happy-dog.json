@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "City Club of Cleveland presents: Happy Dog Takes on Everything - rescheduled"
-    ],
-    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-rescheduled-april-21-2026-689077",
-    "date": "2026-04-21T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Roast Battle Cleveland - Thursday Night Showdown!"
     ],
     "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-april-23-2026-687356",
@@ -333,6 +325,14 @@
     ],
     "link": "https://app.opendate.io/e/rosana-record-release-w-placid-state-grace-favarro-july-17-2026-691983",
     "date": "2026-07-17T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Silvis, Lake Philly, Kid Primitive"
+    ],
+    "link": "https://app.opendate.io/e/silvis-lake-philly-kid-primitive-july-30-2026-691984",
+    "date": "2026-07-30T00:00:01",
     "venue": "Happy Dog"
   }
 ]

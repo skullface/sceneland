@@ -49,6 +49,14 @@
   },
   {
     "artist": [
+      "Bleachers Forever, Wednesday"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1414942",
+    "date": "2026-06-19T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
       "Myles Smith, Hazlett, Stella Lefty"
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1374267",
@@ -145,10 +153,26 @@
   },
   {
     "artist": [
+      "Black Label Society, Zakk Sabbath, Dark Chapel"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1407898",
+    "date": "2026-09-13T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
       "Killswitch Engage, Machine Head, Rivers of Nihil, and Judiciary"
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1407893",
     "date": "2026-09-19T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Modest Mouse, Caroline Rose"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1386853",
+    "date": "2026-09-30T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   }
 ]

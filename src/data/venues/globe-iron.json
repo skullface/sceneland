@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Hail The Sun, Foxy Shazam, Makari, Resilia"
-    ],
-    "link": "https://www.axs.com/events/1261317/hail-the-sun-tickets",
-    "date": "2026-04-22T19:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "DaBaby, H3adband, Bri3"
     ],
     "link": "https://www.axs.com/events/1318505/dababy-tickets",
@@ -61,6 +53,14 @@
     ],
     "link": "https://www.axs.com/events/1380741/earlybirds-club-tickets",
     "date": "2026-05-30T18:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "3Quency, Lucy, DJ Gab Wright "
+    ],
+    "link": "https://www.axs.com/events/1407931/3quency-tickets",
+    "date": "2026-06-13T20:00:00",
     "venue": "Globe Iron"
   },
   {

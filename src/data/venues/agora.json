@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Snarky Puppy, Sof\u00eda Rei"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1165152",
-    "date": "2026-04-23T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "An Evening With Band of Horses"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1286634",
@@ -53,6 +45,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1333525",
     "date": "2026-05-24T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Rob49"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1419489",
+    "date": "2026-05-29T18:00:00",
     "venue": "Agora"
   },
   {

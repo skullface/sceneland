@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ALBUM, Kill The Hippies, Hams, NMA"
-    ],
-    "link": "https://www.eventbrite.com/e/albumkill-the-hippieshamsnma-tickets-1984224672409",
-    "date": "2026-04-24T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Emo Prom 2026"
     ],
     "link": "https://www.eventbrite.com/e/emo-prom-2026-tickets-1980316159943",
@@ -137,6 +129,14 @@
   },
   {
     "artist": [
+      "When The Night Comes Falling From The Sky: A Tribute to Bob Dylan"
+    ],
+    "link": "https://www.eventbrite.com/e/when-the-night-comes-falling-from-the-sky-a-tribute-to-bob-dylan-tickets-1988098453994",
+    "date": "2026-05-23T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Rope Trick, Flash Thunder, Rated Eye, Resurrectionists"
     ],
     "link": "https://www.eventbrite.com/e/rope-trickflash-thunderrated-eyeresurrectionists-tickets-1987107503033",
@@ -261,6 +261,14 @@
     ],
     "link": "https://www.eventbrite.com/e/juniusminsk-tickets-1986725885605",
     "date": "2026-07-22T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Catbite"
+    ],
+    "link": "https://www.eventbrite.com/e/catbite-tickets-1988136816738",
+    "date": "2026-07-23T00:00:01",
     "venue": "Westside Bowl"
   },
   {

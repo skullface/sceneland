@@ -1,6 +1,70 @@
 [
   {
     "artist": [
+      "Ursuline College Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/ursuline-college-commencement-2/",
+    "date": "2026-05-03T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Maple Heights High School Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/135991/",
+    "date": "2026-05-18T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Warrensville Heights High School Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/warrensville-heights-high-school-graduation/",
+    "date": "2026-05-21T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Marion L Steele High School Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/marion-l-steele-high-school-commencement/",
+    "date": "2026-05-23T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Cleveland Heights High School Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/cleveland-heights-high-school-commencement/",
+    "date": "2026-05-28T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Westlake High School Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/clevelaned-heights-high-school-commencement/",
+    "date": "2026-05-30T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Mentor High School Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/mentor-high-school-commencement/",
+    "date": "2026-05-31T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Shaker Heights High School Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/shaker-heights-high-school-commencement/",
+    "date": "2026-06-04T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "Koe Wetzel: The Night Champion World Tour"
     ],
     "link": "https://www.wolsteincenter.com/event/koe-wetzel-the-night-champion-world-tour/",
@@ -13,54 +77,6 @@
     ],
     "link": "https://www.wolsteincenter.com/event/song-of-the-saints-tour/",
     "date": "2026-09-18T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth"
-    ],
-    "link": "https://www.wolsteincenter.com/series/ringling-bros-and-barnum-bailey-presents-the-greatest-show-on-earth/",
-    "date": "2026-10-08T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth"
-    ],
-    "link": "https://www.wolsteincenter.com/series/ringling-bros-and-barnum-bailey-presents-the-greatest-show-on-earth/",
-    "date": "2026-10-09T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth"
-    ],
-    "link": "https://www.wolsteincenter.com/series/ringling-bros-and-barnum-bailey-presents-the-greatest-show-on-earth/",
-    "date": "2026-10-10T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth"
-    ],
-    "link": "https://www.wolsteincenter.com/series/ringling-bros-and-barnum-bailey-presents-the-greatest-show-on-earth/",
-    "date": "2026-10-10T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "Ringling Bros. and Barnum & Bailey presents The Greatest Show On Earth"
-    ],
-    "link": "https://www.wolsteincenter.com/series/ringling-bros-and-barnum-bailey-presents-the-greatest-show-on-earth/",
-    "date": "2026-10-11T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "Come Worship! Cleveland! Tour"
-    ],
-    "link": "https://www.wolsteincenter.com/event/come-worship-cleveland-tour/",
-    "date": "2026-10-15T00:00:01",
     "venue": "Wolstein Center"
   }
 ]

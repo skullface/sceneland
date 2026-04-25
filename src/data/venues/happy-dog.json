@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "PRSCTT, Flourish, Lowspot"
-    ],
-    "link": "https://app.opendate.io/e/prsctt-flourish-lowspot-april-24-2026-658468",
-    "date": "2026-04-24T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Factual Brains, Black Voltron, Neo Kiio"
     ],
     "link": "https://app.opendate.io/e/factual-brains-black-voltron-neo-kiio-april-25-2026-687357",
@@ -333,6 +325,14 @@
     ],
     "link": "https://app.opendate.io/e/silvis-lake-philly-kid-primitive-july-30-2026-691984",
     "date": "2026-07-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Jim E. Brown, Andy Burns, Chemical Baths, DJs Nothing Phase and Spek"
+    ],
+    "link": "https://app.opendate.io/e/jim-e-brown-andy-burns-chemical-baths-djs-nothing-phase-and-spek-september-11-2026-695946",
+    "date": "2026-09-11T00:00:01",
     "venue": "Happy Dog"
   }
 ]

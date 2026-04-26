@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Emo Prom 2026"
-    ],
-    "link": "https://www.eventbrite.com/e/emo-prom-2026-tickets-1980316159943",
-    "date": "2026-04-25T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Rockin for Crohn\u2019s Awareness"
     ],
     "link": "https://www.eventbrite.com/e/rockin-for-crohns-awareness-tickets-1983087102908",
@@ -105,6 +97,14 @@
   },
   {
     "artist": [
+      "Viogression, Diabolical Oath, Vile Light"
+    ],
+    "link": "https://www.eventbrite.com/e/viogressiondiabolical-oathvile-light-tickets-1988212308536",
+    "date": "2026-05-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Oranssi Pazuzu ,  Wayfarer"
     ],
     "link": "https://www.eventbrite.com/e/oranssi-pazuzu-wayfarer-tickets-1981949669815",
@@ -137,9 +137,9 @@
   },
   {
     "artist": [
-      "Rope Trick, Flash Thunder, Rated Eye, Resurrectionists"
+      "Rated Eye, Rope Trick, Resurrectionists, Flash Thunder"
     ],
-    "link": "https://www.eventbrite.com/e/rope-trickflash-thunderrated-eyeresurrectionists-tickets-1987107503033",
+    "link": "https://www.eventbrite.com/e/rated-eyerope-trickresurrectionistsflash-thunder-tickets-1987107503033",
     "date": "2026-05-23T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -172,6 +172,14 @@
       "Ke\u2019Von & The Vybes, Danceland, Cassette Confidential"
     ],
     "link": "https://www.eventbrite.com/e/kevon-the-vybesdancelandcassette-confidential-tickets-1981436930197",
+    "date": "2026-05-29T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Bury the Pines, People Food, Death & Exhale"
+    ],
+    "link": "https://www.eventbrite.com/e/bury-the-pinespeople-fooddeath-exhale-tickets-1988212651562",
     "date": "2026-05-29T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -325,6 +333,14 @@
     ],
     "link": "https://www.eventbrite.com/e/carnival-of-corpses-tickets-1986276171498",
     "date": "2026-08-15T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Rae the Band, Rylee Bapst Band"
+    ],
+    "link": "https://www.eventbrite.com/e/rae-the-bandrylee-bapst-band-tickets-1988212816054",
+    "date": "2026-08-19T00:00:01",
     "venue": "Westside Bowl"
   },
   {

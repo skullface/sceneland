@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rockin for Crohn\u2019s Awareness"
-    ],
-    "link": "https://www.eventbrite.com/e/rockin-for-crohns-awareness-tickets-1983087102908",
-    "date": "2026-04-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Side Note"
     ],
     "link": "https://www.eventbrite.com/e/side-note-tickets-1987576580055",
@@ -245,6 +237,14 @@
     ],
     "link": "https://www.eventbrite.com/e/neon-tragedyskyrailroyce-anthony-tickets-1986901689439",
     "date": "2026-07-11T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Westside Bowl Slammer"
+    ],
+    "link": "https://www.eventbrite.com/e/westside-bowl-slammer-tickets-1988243837841",
+    "date": "2026-07-16T00:00:01",
     "venue": "Westside Bowl"
   },
   {

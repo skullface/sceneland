@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Henry Cho"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1139568",
-    "date": "2026-04-30T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Mac DeMarco"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1028656",
@@ -229,6 +221,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/909207",
     "date": "2026-10-01T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Interpol, DIIV"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1428035",
+    "date": "2026-10-07T18:00:00",
     "venue": "Agora"
   },
   {

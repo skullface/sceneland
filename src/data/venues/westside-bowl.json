@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Side Note"
-    ],
-    "link": "https://www.eventbrite.com/e/side-note-tickets-1987576580055",
-    "date": "2026-05-01T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "8-Bit in the Basement"
     ],
     "link": "https://www.eventbrite.com/e/8-bit-in-the-basement-tickets-1983539145981",
@@ -76,6 +68,14 @@
       "Logan B & Dirty Leaf, C-Level, Massive Hawk"
     ],
     "link": "https://www.eventbrite.com/e/logan-b-dirty-leafc-levelmassive-hawk-tickets-1984844752084",
+    "date": "2026-05-15T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Wanted Alien, Nineteenth Paradise, LibCor"
+    ],
+    "link": "https://www.eventbrite.com/e/wanted-aliennineteenth-paradiselibcor-tickets-1988631680890",
     "date": "2026-05-15T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -241,10 +241,26 @@
   },
   {
     "artist": [
+      "5 Elements, Jones for Revival, DJ Weapon X"
+    ],
+    "link": "https://www.eventbrite.com/e/5-elementsjones-for-revivaldj-weapon-x-tickets-1988631242579",
+    "date": "2026-06-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Misty Blues"
     ],
     "link": "https://www.eventbrite.com/e/misty-blues-tickets-1987029421489",
     "date": "2026-06-29T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Linnea\u2019s Garden, Wasted Society, Factual Brains"
+    ],
+    "link": "https://www.eventbrite.com/e/linneas-gardenwasted-societyfactual-brains-tickets-1988632970748",
+    "date": "2026-07-03T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -381,22 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
     "date": "2026-09-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Dopethrone, PLQ MRX"
-    ],
-    "link": "https://www.eventbrite.com/e/dopethroneplq-mrx-tickets-1986855092065",
-    "date": "2026-09-10T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Unky Bones, Brake Fluid, zoloft, Sockdolager"
-    ],
-    "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
-    "date": "2026-09-19T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

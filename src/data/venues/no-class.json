@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "GO FEST YOURSELF"
-    ],
-    "link": "https://noclasscle.com/events/go-fest-yourself",
-    "date": "2026-05-02T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-5-3-26",
-    "date": "2026-05-03T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "CLOUDY WITH A CHANCE"
-    ],
-    "link": "https://noclasscle.com/events/cloudy-with-a-chance-of-space",
-    "date": "2026-05-04T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "JUST A BAR"
     ],
     "link": "https://noclasscle.com/events/just-a-bar-5-3-26-gcy36",
@@ -201,6 +177,14 @@
   },
   {
     "artist": [
+      "UNHOLY ALTAR"
+    ],
+    "link": "https://noclasscle.com/events/unholy-altar",
+    "date": "2026-06-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "TRASH UNREAL"
     ],
     "link": "https://noclasscle.com/events/trash-unreal-pollyanna",
@@ -237,6 +221,14 @@
     ],
     "link": "https://noclasscle.com/events/puma-thurman",
     "date": "2026-06-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ART & CRAFT SUPPLY SWAP"
+    ],
+    "link": "https://noclasscle.com/events/art-craft-supply-swap",
+    "date": "2026-06-21T00:00:01",
     "venue": "No Class"
   },
   {

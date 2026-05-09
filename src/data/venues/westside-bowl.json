@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "LIFEFALLINGDOWN ,  SULACO ,  WHOREGAMI"
-    ],
-    "link": "https://www.eventbrite.com/e/lifefallingdown-sulaco-whoregami-tickets-1988272164567",
-    "date": "2026-05-08T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Hombres Pistola, Pete the V, DJ Gravity & Sun"
-    ],
-    "link": "https://www.eventbrite.com/e/hombres-pistolapete-the-vdj-gravity-sun-tickets-1985547047669",
-    "date": "2026-05-08T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Mr. Jeff Live!"
     ],
     "link": "https://www.eventbrite.com/e/mr-jeff-live-tickets-1986093690693",
@@ -33,9 +17,9 @@
   },
   {
     "artist": [
-      "Chalked, Dissection of Spirit, Revere, Common Threat"
+      "Chalked, Burial Grounds, Revere, Common Threat"
     ],
-    "link": "https://www.eventbrite.com/e/chalkeddissection-of-spiritreverecommon-threat-tickets-1987106661516",
+    "link": "https://www.eventbrite.com/e/chalkedburial-groundsreverecommon-threat-tickets-1987106661516",
     "date": "2026-05-09T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/rae-the-bandrylee-bapst-band-tickets-1988212816054",
     "date": "2026-08-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "People Sleep, Braille, Brian Barr"
+    ],
+    "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
+    "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Brady Lorince, Dysphoric Void, Resist The Urge"
+    ],
+    "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
+    "date": "2026-09-05T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Light Beams, Mourning [A] BLKstar"
-    ],
-    "link": "https://app.opendate.io/e/light-beams-mourning-a-blkstar-may-09-2026-683624",
-    "date": "2026-05-09T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "The Grog Shop presents: Home Front, Bootlicker, Cruelster"
     ],
     "link": "https://app.opendate.io/e/the-grog-shop-presents-home-front-bootlicker-cruelster-may-13-2026-672364",
@@ -133,6 +125,14 @@
     ],
     "link": "https://app.opendate.io/e/bethany-joy-strange-harbor-joe-rangel-june-11-2026-687746",
     "date": "2026-06-11T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Flags, Brood X, The Magnavox\u2019s"
+    ],
+    "link": "https://app.opendate.io/e/flags-brood-x-the-magnavox-s-june-12-2026-709019",
+    "date": "2026-06-12T00:00:01",
     "venue": "Happy Dog"
   },
   {

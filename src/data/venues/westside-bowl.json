@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Mr. Jeff Live!"
-    ],
-    "link": "https://www.eventbrite.com/e/mr-jeff-live-tickets-1986093690693",
-    "date": "2026-05-09T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Great White Snake, Jozey & The Corruption"
-    ],
-    "link": "https://www.eventbrite.com/e/great-white-snakejozey-the-corruption-tickets-1987639403963",
-    "date": "2026-05-09T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Chalked, Burial Grounds, Revere, Common Threat"
-    ],
-    "link": "https://www.eventbrite.com/e/chalkedburial-groundsreverecommon-threat-tickets-1987106661516",
-    "date": "2026-05-09T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Horrorwood Ending , Ghost Road, Controlled Chaos"
     ],
     "link": "https://www.eventbrite.com/e/horrorwood-ending-ghost-roadcontrolled-chaos-tickets-1986222175996",
@@ -281,9 +257,9 @@
   },
   {
     "artist": [
-      "SuburbanDowngrade, TheWasted, Owned by A##holes, Gatlin"
+      "SuburbanDowngrade, TheWasted, Owned by A##holes, Crisis in America"
     ],
-    "link": "https://www.eventbrite.com/e/suburbandowngradethewastedowned-by-aholesgatlin-tickets-1983090037686",
+    "link": "https://www.eventbrite.com/e/suburbandowngradethewastedowned-by-aholescrisis-in-america-tickets-1983090037686",
     "date": "2026-07-17T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -353,6 +329,14 @@
   },
   {
     "artist": [
+      "Monsters of the Week, Bombchele & The Bangs, Dereos Roads"
+    ],
+    "link": "https://www.eventbrite.com/e/monsters-of-the-weekbombchele-the-bangsdereos-roads-tickets-1989148784561",
+    "date": "2026-08-08T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Make Ourselves: A Tribute to Incubus"
     ],
     "link": "https://www.eventbrite.com/e/make-ourselves-a-tribute-to-incubus-tickets-1987028516783",
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
     "date": "2026-09-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Dopethrone, PLQ MRX"
+    ],
+    "link": "https://www.eventbrite.com/e/dopethroneplq-mrx-tickets-1986855092065",
+    "date": "2026-09-10T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Unky Bones, Brake Fluid, zoloft, Sockdolager"
+    ],
+    "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
+    "date": "2026-09-19T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

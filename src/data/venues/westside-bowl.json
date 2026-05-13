@@ -305,6 +305,14 @@
   },
   {
     "artist": [
+      "Homedays, Oh Bother, Orca Station"
+    ],
+    "link": "https://www.eventbrite.com/e/homedaysoh-botherorca-station-tickets-1989268204750",
+    "date": "2026-07-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Sunny Sweeney, Kayla Ray"
     ],
     "link": "https://www.eventbrite.com/e/sunny-sweeneykayla-ray-tickets-1987467901996",
@@ -389,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
     "date": "2026-09-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Dopethrone, PLQ MRX"
-    ],
-    "link": "https://www.eventbrite.com/e/dopethroneplq-mrx-tickets-1986855092065",
-    "date": "2026-09-10T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

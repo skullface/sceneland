@@ -241,6 +241,14 @@
   },
   {
     "artist": [
+      "BellaOnBass, shy blossom, Candace Campana"
+    ],
+    "link": "https://www.eventbrite.com/e/bellaonbassshy-blossomcandace-campana-tickets-1989348551068",
+    "date": "2026-07-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Nick Vivid, Unc D, Rocco Sait"
     ],
     "link": "https://www.eventbrite.com/e/nick-vividunc-drocco-sait-tickets-1988793371511",
@@ -289,9 +297,9 @@
   },
   {
     "artist": [
-      "Catbite"
+      "Catbite, Fine Young Men, Wednesday Demonstration, Work Friends"
     ],
-    "link": "https://www.eventbrite.com/e/catbite-tickets-1988136816738",
+    "link": "https://www.eventbrite.com/e/catbitefine-young-menwednesday-demonstrationwork-friends-tickets-1988136816738",
     "date": "2026-07-23T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -389,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
     "date": "2026-08-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Brady Lorince, Dysphoric Void, Resist The Urge"
-    ],
-    "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
-    "date": "2026-09-05T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

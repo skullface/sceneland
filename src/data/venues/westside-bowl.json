@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Horrorwood Ending , Ghost Road, Controlled Chaos"
-    ],
-    "link": "https://www.eventbrite.com/e/horrorwood-ending-ghost-roadcontrolled-chaos-tickets-1986222175996",
-    "date": "2026-05-14T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Logan B & Dirty Leaf, C-Level, Massive Hawk"
     ],
     "link": "https://www.eventbrite.com/e/logan-b-dirty-leafc-levelmassive-hawk-tickets-1984844752084",
@@ -121,6 +113,14 @@
   },
   {
     "artist": [
+      "John Bunkley & The Insights, That\u2019s The Breaks, Jon Pappas"
+    ],
+    "link": "https://www.eventbrite.com/e/john-bunkley-the-insightsthats-the-breaksjon-pappas-tickets-1989607820550",
+    "date": "2026-05-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Ke\u2019Von & The Vybes, Danceland, Cassette Confidential"
     ],
     "link": "https://www.eventbrite.com/e/kevon-the-vybesdancelandcassette-confidential-tickets-1981436930197",
@@ -225,6 +225,14 @@
   },
   {
     "artist": [
+      "Lifefallingdown, NRWHL, Clouded, Driveway Talk"
+    ],
+    "link": "https://www.eventbrite.com/e/lifefallingdownnrwhlcloudeddriveway-talk-tickets-1989553373698",
+    "date": "2026-07-02T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Linnea\u2019s Garden, Wasted Society, Factual Brains"
     ],
     "link": "https://www.eventbrite.com/e/linneas-gardenwasted-societyfactual-brains-tickets-1988632970748",
@@ -233,9 +241,9 @@
   },
   {
     "artist": [
-      "Nineteenth Paradise, Naked Eye, Combwalker, Brake Fluid"
+      "The Head Trips, Naked Eye, Combwalker, Brake Fluid"
     ],
-    "link": "https://www.eventbrite.com/e/nineteenth-paradisenaked-eyecombwalkerbrake-fluid-tickets-1984407818203",
+    "link": "https://www.eventbrite.com/e/the-head-tripsnaked-eyecombwalkerbrake-fluid-tickets-1984407818203",
     "date": "2026-07-04T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -389,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/rae-the-bandrylee-bapst-band-tickets-1988212816054",
     "date": "2026-08-19T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "People Sleep, Braille, Brian Barr"
-    ],
-    "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
-    "date": "2026-08-28T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

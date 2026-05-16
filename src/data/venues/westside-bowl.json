@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Logan B & Dirty Leaf, C-Level, Massive Hawk"
-    ],
-    "link": "https://www.eventbrite.com/e/logan-b-dirty-leafc-levelmassive-hawk-tickets-1984844752084",
-    "date": "2026-05-15T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Wanted Alien, Nineteenth Paradise, LibCor"
-    ],
-    "link": "https://www.eventbrite.com/e/wanted-aliennineteenth-paradiselibcor-tickets-1988631680890",
-    "date": "2026-05-15T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Abraded, Gouted Corpse, Gelatin Skeleton, Leptospira"
     ],
     "link": "https://www.eventbrite.com/e/abradedgouted-corpsegelatin-skeletonleptospira-tickets-1983105753693",
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/rae-the-bandrylee-bapst-band-tickets-1988212816054",
     "date": "2026-08-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "People Sleep, Braille, Brian Barr"
+    ],
+    "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
+    "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Reverend Horton Heat, Messer Chups"
+    ],
+    "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
+    "date": "2026-08-31T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

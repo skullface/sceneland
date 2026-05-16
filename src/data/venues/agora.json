@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Wish You Were Here"
-    ],
-    "link": "https://www.agoracleveland.com/events/detail/1289726",
-    "date": "2026-05-15T18:00:00",
-    "venue": "Agora"
-  },
-  {
-    "artist": [
       "Ryan Bingham and The Texas Gentlemen"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1333525",
@@ -293,6 +285,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1379983",
     "date": "2026-11-07T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Shakey Graves, Jobi Riccio"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1449327",
+    "date": "2026-12-16T18:00:00",
     "venue": "Agora"
   },
   {

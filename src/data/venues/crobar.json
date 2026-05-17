@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "artist": [
+      "Disfunktional: Toribio (NYC), Andre Leone, MikeOne"
+    ],
+    "link": "https://secure.crobar1921.com/event/toribio--disfunktional",
+    "date": "2027-05-16T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Chaia (NYC): Sleazus b2b Le Schlippy, Teddy Eisenberg"
+    ],
+    "link": "https://secure.crobar1921.com/event/chaia",
+    "date": "2026-05-21T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Detroit Love: Carl Craig, Mirko Loko"
+    ],
+    "link": "https://secure.crobar1921.com/event/carl-craig--detroit-love",
+    "date": "2026-06-05T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Hypemelo, Lolo Knows, Joey Sardelle, Coogle Me, Craig Ryan"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf41",
+    "date": "2026-05-30T00:00:01",
+    "venue": "Crobar"
+  }
+]

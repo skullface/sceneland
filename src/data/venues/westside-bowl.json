@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Abraded, Gouted Corpse, Gelatin Skeleton, Leptospira"
-    ],
-    "link": "https://www.eventbrite.com/e/abradedgouted-corpsegelatin-skeletonleptospira-tickets-1983105753693",
-    "date": "2026-05-16T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Caution, Bed Maker, Interior Stations"
-    ],
-    "link": "https://www.eventbrite.com/e/cautionbed-makerinterior-stations-tickets-1987107048674",
-    "date": "2026-05-16T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Goth Night with Academy Order and DJ Ordo Amoris"
     ],
     "link": "https://www.eventbrite.com/e/goth-night-with-academy-order-and-dj-ordo-amoris-tickets-1988885243302",
@@ -105,9 +89,9 @@
   },
   {
     "artist": [
-      "Ke\u2019Von & The Vybes, Danceland, Cassette Confidential"
+      "Danceland, Cassette Confidential"
     ],
-    "link": "https://www.eventbrite.com/e/kevon-the-vybesdancelandcassette-confidential-tickets-1981436930197",
+    "link": "https://www.eventbrite.com/e/dancelandcassette-confidential-tickets-1981436930197",
     "date": "2026-05-29T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -393,10 +377,26 @@
   },
   {
     "artist": [
+      "Saints of Lorain, The Cheats, 10,000 Bird Skeletons"
+    ],
+    "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
+    "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Reverend Horton Heat, Messer Chups"
     ],
     "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
     "date": "2026-08-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Brady Lorince, Dysphoric Void, Resist The Urge"
+    ],
+    "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
+    "date": "2026-09-05T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

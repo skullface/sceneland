@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Goth Night with Academy Order and DJ Ordo Amoris"
-    ],
-    "link": "https://www.eventbrite.com/e/goth-night-with-academy-order-and-dj-ordo-amoris-tickets-1988885243302",
-    "date": "2026-05-17T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Viogression, Diabolical Oath, Vile Light"
     ],
     "link": "https://www.eventbrite.com/e/viogressiondiabolical-oathvile-light-tickets-1988212308536",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
     "date": "2026-09-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Dopethrone, PLQ MRX"
+    ],
+    "link": "https://www.eventbrite.com/e/dopethroneplq-mrx-tickets-1986855092065",
+    "date": "2026-09-10T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

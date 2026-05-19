@@ -1,18 +1,18 @@
 [
   {
     "artist": [
-      "Disfunktional: Toribio (NYC), Andre Leone, MikeOne"
-    ],
-    "link": "https://secure.crobar1921.com/event/toribio--disfunktional",
-    "date": "2027-05-16T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "Chaia (NYC): Sleazus b2b Le Schlippy, Teddy Eisenberg"
     ],
     "link": "https://secure.crobar1921.com/event/chaia",
     "date": "2026-05-21T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Hypemelo, Lolo Knows, Joey Sardelle, Coogle Me, Craig Ryan"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf41",
+    "date": "2026-05-30T00:00:01",
     "venue": "Crobar"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "artist": [
-      "Perf: Hypemelo, Lolo Knows, Joey Sardelle, Coogle Me, Craig Ryan"
+      "The Quenton Rubin Band: Midori Jacket, The Modern Kollective"
     ],
-    "link": "https://secure.crobar1921.com/event/perf41",
-    "date": "2026-05-30T00:00:01",
+    "link": "https://secure.crobar1921.com/event/the-quenton-rubin-band",
+    "date": "2026-05-23T00:00:01",
     "venue": "Crobar"
   }
 ]

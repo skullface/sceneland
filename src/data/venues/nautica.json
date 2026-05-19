@@ -57,7 +57,7 @@
   },
   {
     "artist": [
-      "Myles Smith, Hazlett, Stella Lefty"
+      "Myles Smith - MOVED TO AGORA THEATRE, Hazlett, Stella Lefty"
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1374267",
     "date": "2026-06-26T00:00:01",
@@ -181,6 +181,14 @@
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1386853",
     "date": "2026-09-30T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Ole 60, Kolton Moore & the Clever Few, GARRET ELIAS"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1448383",
+    "date": "2026-10-01T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   }
 ]

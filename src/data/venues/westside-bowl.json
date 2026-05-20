@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Viogression, Diabolical Oath, Vile Light"
-    ],
-    "link": "https://www.eventbrite.com/e/viogressiondiabolical-oathvile-light-tickets-1988212308536",
-    "date": "2026-05-19T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Oranssi Pazuzu ,  Wayfarer"
     ],
     "link": "https://www.eventbrite.com/e/oranssi-pazuzu-wayfarer-tickets-1981949669815",
@@ -396,6 +388,14 @@
       "People Sleep, Braille, Brian Barr"
     ],
     "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
+    "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Saints of Lorain, The Cheats, 10,000 Bird Skeletons"
+    ],
+    "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
     "venue": "Westside Bowl"
   }

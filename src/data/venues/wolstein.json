@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Cleveland State University Law School Commencement"
-    ],
-    "link": "https://www.wolsteincenter.com/event/cleveland-state-university-law-school-commencement/",
-    "date": "2026-05-17T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "Maple Heights High School Commencement"
-    ],
-    "link": "https://www.wolsteincenter.com/event/135991/",
-    "date": "2026-05-18T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
       "Warrensville Heights High School Commencement"
     ],
     "link": "https://www.wolsteincenter.com/event/warrensville-heights-high-school-graduation/",
@@ -93,14 +77,6 @@
     ],
     "link": "https://www.wolsteincenter.com/event/come-worship-cleveland-tour/",
     "date": "2026-10-15T00:00:01",
-    "venue": "Wolstein Center"
-  },
-  {
-    "artist": [
-      "TOBYMAC. THIRD DAY. CHRIS TOMLIN."
-    ],
-    "link": "https://www.wolsteincenter.com/event/137035/",
-    "date": "2026-11-07T00:00:01",
     "venue": "Wolstein Center"
   }
 ]

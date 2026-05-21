@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Oranssi Pazuzu ,  Wayfarer"
-    ],
-    "link": "https://www.eventbrite.com/e/oranssi-pazuzu-wayfarer-tickets-1981949669815",
-    "date": "2026-05-20T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Fitch Rock Band"
     ],
     "link": "https://www.eventbrite.com/e/fitch-rock-band-tickets-1987341300327",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Reverend Horton Heat, Messer Chups"
+    ],
+    "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
+    "date": "2026-08-31T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

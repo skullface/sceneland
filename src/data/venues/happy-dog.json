@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Roast Battle Cleveland - Thursday Night Showdown!"
-    ],
-    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-may-21-2026-687377",
-    "date": "2026-05-21T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Pro Skater, Forced Happiness, Sugardeer, The Yikes"
     ],
     "link": "https://app.opendate.io/e/pro-skater-forced-happiness-sugardeer-the-yikes-may-22-2026-691324",
@@ -29,6 +21,14 @@
     ],
     "link": "https://app.opendate.io/e/closed-for-memorial-day-may-25-2026-689070",
     "date": "2026-05-25T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "EATT, Cherry Yachtsman, The Jo Shmos, Dick Golden"
+    ],
+    "link": "https://app.opendate.io/e/eatt-cherry-yachtsman-the-jo-shmos-dick-golden-may-27-2026-712307",
+    "date": "2026-05-27T00:00:01",
     "venue": "Happy Dog"
   },
   {

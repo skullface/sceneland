@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Pro Skater, Forced Happiness, Sugardeer, The Yikes"
-    ],
-    "link": "https://app.opendate.io/e/pro-skater-forced-happiness-sugardeer-the-yikes-may-22-2026-691324",
-    "date": "2026-05-22T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Funeral Proposals, Two Mile Moon, Posture, Stonebridge"
     ],
     "link": "https://app.opendate.io/e/funeral-proposals-two-mile-moon-posture-stonebridge-may-23-2026-692295",
@@ -73,9 +65,9 @@
   },
   {
     "artist": [
-      "Psychotic Reaction, Dollar Drafts"
+      "Psychotic Reaction, Dollar Drafts, The Pubes"
     ],
-    "link": "https://app.opendate.io/e/psychotic-reaction-dollar-drafts-june-07-2026-689074",
+    "link": "https://app.opendate.io/e/psychotic-reaction-dollar-drafts-the-pubes-june-07-2026-689074",
     "date": "2026-06-07T00:00:01",
     "venue": "Happy Dog"
   },
@@ -129,9 +121,9 @@
   },
   {
     "artist": [
-      "The Phantom A.D., Oongow!!!, Jaguar 777"
+      "The Phantom A.D., Oongow!!!, Riptide Suicide"
     ],
-    "link": "https://app.opendate.io/e/the-phantom-a-d-oongow-jaguar-777-june-20-2026-682481",
+    "link": "https://app.opendate.io/e/the-phantom-a-d-oongow-riptide-suicide-june-20-2026-682481",
     "date": "2026-06-20T00:00:01",
     "venue": "Happy Dog"
   },
@@ -149,6 +141,14 @@
     ],
     "link": "https://app.opendate.io/e/atticus-sorrell-colour-phase-june-26-2026-687380",
     "date": "2026-06-26T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Handsome Jack, Canyon Lights, Goodmorning Valentine, Istvan Medgyesi"
+    ],
+    "link": "https://app.opendate.io/e/handsome-jack-canyon-lights-goodmorning-valentine-istvan-medgyesi-june-27-2026-712477",
+    "date": "2026-06-27T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -197,6 +197,14 @@
     ],
     "link": "https://app.opendate.io/e/silvis-lake-philly-kid-primitive-july-30-2026-691984",
     "date": "2026-07-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Speak in Tongues Book Release show w/ Harriet the Spy, Brian Straw, Beckett and Friends, Applejuice"
+    ],
+    "link": "https://app.opendate.io/e/speak-in-tongues-book-release-show-w-harriet-the-spy-brian-straw-beckett-and-friends-applejuice-august-15-2026-712434",
+    "date": "2026-08-15T00:00:01",
     "venue": "Happy Dog"
   },
   {

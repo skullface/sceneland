@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Fitch Rock Band"
-    ],
-    "link": "https://www.eventbrite.com/e/fitch-rock-band-tickets-1987341300327",
-    "date": "2026-05-21T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "When The Night Comes Falling From The Sky: A Tribute to Bob Dylan"
-    ],
-    "link": "https://www.eventbrite.com/e/when-the-night-comes-falling-from-the-sky-a-tribute-to-bob-dylan-tickets-1988098453994",
-    "date": "2026-05-23T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Rated Eye, Rope Trick, Resurrectionists, Flash Thunder"
-    ],
-    "link": "https://www.eventbrite.com/e/rated-eyerope-trickresurrectionistsflash-thunder-tickets-1987107503033",
-    "date": "2026-05-23T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Lord Humongous, Wolfenstein, Pentecost"
     ],
     "link": "https://www.eventbrite.com/e/lord-humongouswolfensteinpentecost-tickets-1986859079993",
@@ -49,9 +25,9 @@
   },
   {
     "artist": [
-      "John Bunkley & The Insights, That\u2019s The Breaks, Jon Pappas"
+      "John Bunkley & The Insights, That\u2019s The Breaks, Jon Pappas, DJ RasB"
     ],
-    "link": "https://www.eventbrite.com/e/john-bunkley-the-insightsthats-the-breaksjon-pappas-tickets-1989607820550",
+    "link": "https://www.eventbrite.com/e/john-bunkley-the-insightsthats-the-breaksjon-pappasdj-rasb-tickets-1989607820550",
     "date": "2026-05-28T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -117,6 +93,14 @@
     ],
     "link": "https://www.eventbrite.com/e/aux-delivery-producers-showcase-tickets-1988685647305",
     "date": "2026-06-13T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Skrom, Hand In Pants, Beach Kitty, Split Point"
+    ],
+    "link": "https://www.eventbrite.com/e/skromhand-in-pantsbeach-kittysplit-point-tickets-1990248897027",
+    "date": "2026-06-14T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Reverend Horton Heat, Messer Chups"
+    ],
+    "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
+    "date": "2026-08-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Brady Lorince, Dysphoric Void, Resist The Urge"
+    ],
+    "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
+    "date": "2026-09-05T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

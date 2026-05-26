@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "TRYP"
-    ],
-    "link": "https://noclasscle.com/events/tryp-trylk",
-    "date": "2026-05-22T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "A BLOOD BATH IN BOSTON"
-    ],
-    "link": "https://noclasscle.com/events/a-blood-bath-in-boston",
-    "date": "2026-05-23T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "NEXT SLIDE PLEASE!"
-    ],
-    "link": "https://noclasscle.com/events/next-slide-please",
-    "date": "2026-05-24T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "GESTATION"
     ],
     "link": "https://noclasscle.com/events/gestation",
@@ -81,6 +57,14 @@
   },
   {
     "artist": [
+      "CLOUDY WITH A CHANCE"
+    ],
+    "link": "https://noclasscle.com/events/cloudy-with-a-chance-june-26",
+    "date": "2026-06-01T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "UNHOLY ALTAR"
     ],
     "link": "https://noclasscle.com/events/unholy-altar",
@@ -113,10 +97,42 @@
   },
   {
     "artist": [
+      "NEOLITHIC"
+    ],
+    "link": "https://noclasscle.com/events/neolithic",
+    "date": "2026-06-10T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SAPPHIC SOCIAL"
     ],
     "link": "https://noclasscle.com/events/sapphic-social-6-11-26",
     "date": "2026-06-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "G8V"
+    ],
+    "link": "https://noclasscle.com/events/g8v",
+    "date": "2026-06-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MARQUIS GAYLORD'S ODDITORIUM"
+    ],
+    "link": "https://noclasscle.com/events/putrid-on-the-patio",
+    "date": "2026-06-13T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "1\u00d8SHN_"
+    ],
+    "link": "https://noclasscle.com/events/10shn-6-13",
+    "date": "2026-06-13T00:00:01",
     "venue": "No Class"
   },
   {
@@ -133,6 +149,14 @@
     ],
     "link": "https://noclasscle.com/events/ryan-cassatta",
     "date": "2026-06-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "VAUDEVILLIANY"
+    ],
+    "link": "https://noclasscle.com/events/vaudevilliany-honk-honk",
+    "date": "2026-06-18T00:00:01",
     "venue": "No Class"
   },
   {
@@ -157,6 +181,14 @@
     ],
     "link": "https://noclasscle.com/events/haunt",
     "date": "2026-06-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ELII ORMOND"
+    ],
+    "link": "https://noclasscle.com/events/elii-ormond",
+    "date": "2026-06-25T00:00:01",
     "venue": "No Class"
   },
   {

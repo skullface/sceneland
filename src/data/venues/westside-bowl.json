@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Box Elder, MK Naomi, Brake Fluid"
-    ],
-    "link": "https://www.eventbrite.com/e/box-eldermk-naomibrake-fluid-tickets-1983449099650",
-    "date": "2026-05-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Angela Perley, Country Honk"
     ],
     "link": "https://www.eventbrite.com/e/angela-perleycountry-honk-tickets-1986723715113",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
     "date": "2026-09-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Dopethrone, PLQ MRX"
+    ],
+    "link": "https://www.eventbrite.com/e/dopethroneplq-mrx-tickets-1986855092065",
+    "date": "2026-09-10T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

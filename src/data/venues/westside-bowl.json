@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Angela Perley, Country Honk"
-    ],
-    "link": "https://www.eventbrite.com/e/angela-perleycountry-honk-tickets-1986723715113",
-    "date": "2026-05-27T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "John Bunkley & The Insights, That\u2019s The Breaks, Jon Pappas, DJ RasB"
     ],
     "link": "https://www.eventbrite.com/e/john-bunkley-the-insightsthats-the-breaksjon-pappasdj-rasb-tickets-1989607820550",
@@ -41,9 +33,9 @@
   },
   {
     "artist": [
-      "Nobody Wins, Cassette Confidential, The Frantic Nancys, Zoloft"
+      "Nobody Wins, Cassette Confidential, The Frantic Nancys"
     ],
-    "link": "https://www.eventbrite.com/e/nobody-winscassette-confidentialthe-frantic-nancyszoloft-tickets-1988372449522",
+    "link": "https://www.eventbrite.com/e/nobody-winscassette-confidentialthe-frantic-nancys-tickets-1988372449522",
     "date": "2026-06-05T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -357,6 +349,14 @@
     ],
     "link": "https://www.eventbrite.com/e/rae-the-bandrylee-bapst-band-tickets-1988212816054",
     "date": "2026-08-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Anyone Awake, Rent For Cheryl, Blind Boxing"
+    ],
+    "link": "https://www.eventbrite.com/e/anyone-awakerent-for-cherylblind-boxing-tickets-1990250127708",
+    "date": "2026-08-26T00:00:01",
     "venue": "Westside Bowl"
   },
   {

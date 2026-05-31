@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Hooks For Feet, Ken Mujo, Meat Dept"
-    ],
-    "link": "https://www.eventbrite.com/e/hooks-for-feetken-mujomeat-dept-tickets-1989176309890",
-    "date": "2026-05-30T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Nobody Wins, Cassette Confidential, The Frantic Nancys"
     ],
     "link": "https://www.eventbrite.com/e/nobody-winscassette-confidentialthe-frantic-nancys-tickets-1988372449522",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/mutilatredmulcibercerebral-necrosisforged-in-gore-tickets-1988884085840",
     "date": "2026-09-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Mom\u2019s Basement Fest 2026"
+    ],
+    "link": "https://www.eventbrite.com/e/moms-basement-fest-2026-tickets-1988873028768",
+    "date": "2026-10-02T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

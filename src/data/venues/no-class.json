@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CANCERSLUG"
-    ],
-    "link": "https://noclasscle.com/events/cancerslug-american-werewolves-nma",
-    "date": "2026-05-31T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CLOUDY WITH A CHANCE"
     ],
     "link": "https://noclasscle.com/events/cloudy-with-a-chance-june-26",
@@ -141,6 +133,14 @@
     ],
     "link": "https://noclasscle.com/events/elii-ormond",
     "date": "2026-06-25T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BERGHAIN'T"
+    ],
+    "link": "https://noclasscle.com/events/berghaint-6-27-26",
+    "date": "2026-06-26T00:00:01",
     "venue": "No Class"
   },
   {

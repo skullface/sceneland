@@ -41,6 +41,14 @@
   },
   {
     "artist": [
+      "Love Scar, Fyath, Soul Dive, Better Think Twice"
+    ],
+    "link": "https://www.eventbrite.com/e/love-scarfyathsoul-divebetter-think-twice-tickets-1990816808666",
+    "date": "2026-06-13T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Skrom, Hand In Pants, Beach Kitty, Split Point"
     ],
     "link": "https://www.eventbrite.com/e/skromhand-in-pantsbeach-kittysplit-point-tickets-1990248897027",
@@ -148,6 +156,14 @@
       "Linnea\u2019s Garden, Wasted Society, Factual Brains"
     ],
     "link": "https://www.eventbrite.com/e/linneas-gardenwasted-societyfactual-brains-tickets-1988632970748",
+    "date": "2026-07-03T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Doomsday Darling, Singled Out, Ceci Taylor"
+    ],
+    "link": "https://www.eventbrite.com/e/doomsday-darlingsingled-outceci-taylor-tickets-1990816414487",
     "date": "2026-07-03T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -265,6 +281,14 @@
   },
   {
     "artist": [
+      "The Labra Brothers, Kid Mammoth"
+    ],
+    "link": "https://www.eventbrite.com/e/the-labra-brotherskid-mammoth-tickets-1990574798808",
+    "date": "2026-07-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "West Akron Fadeaway"
     ],
     "link": "https://www.eventbrite.com/e/west-akron-fadeaway-tickets-1981354075376",
@@ -373,30 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
     "date": "2026-09-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Dopethrone, PLQ MRX"
-    ],
-    "link": "https://www.eventbrite.com/e/dopethroneplq-mrx-tickets-1986855092065",
-    "date": "2026-09-10T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Unky Bones, Brake Fluid, zoloft, Sockdolager"
-    ],
-    "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
-    "date": "2026-09-19T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Mutilatred, Mulciber, Cerebral Necrosis, Forged in Gore"
-    ],
-    "link": "https://www.eventbrite.com/e/mutilatredmulcibercerebral-necrosisforged-in-gore-tickets-1988884085840",
-    "date": "2026-09-25T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

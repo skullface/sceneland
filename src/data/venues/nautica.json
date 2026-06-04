@@ -33,14 +33,6 @@
   },
   {
     "artist": [
-      "Myles Smith - MOVED TO AGORA THEATRE, Hazlett, Stella Lefty"
-    ],
-    "link": "https://www.jacobspavilion.com/events/detail?event_id=1374267",
-    "date": "2026-06-26T00:00:01",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
       "Death Cab for Cutie, Jay Som"
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1298166",
@@ -49,7 +41,7 @@
   },
   {
     "artist": [
-      "Louis Tomlinson, The Beaches"
+      "Louis Tomlinson, The Beaches, Picture Parlour"
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1158181",
     "date": "2026-07-20T00:00:01",
@@ -125,6 +117,14 @@
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1362163",
     "date": "2026-08-28T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "Myles Smith - MOVED TO AGORA THEATRE, Hazlett, Stella Lefty"
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1374267",
+    "date": "2026-08-30T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Nobody Wins, Cassette Confidential, The Frantic Nancys"
-    ],
-    "link": "https://www.eventbrite.com/e/nobody-winscassette-confidentialthe-frantic-nancys-tickets-1988372449522",
-    "date": "2026-06-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Pizza & Wine Tasting"
     ],
     "link": "https://www.eventbrite.com/e/pizza-wine-tasting-tickets-1990182093215",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Reverend Horton Heat, Messer Chups"
+    ],
+    "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
+    "date": "2026-08-31T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

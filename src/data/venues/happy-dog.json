@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kid Primitive, Bashford, Tough Loss, Plum Shed"
-    ],
-    "link": "https://app.opendate.io/e/kid-primitive-bashford-tough-loss-plum-shed-june-05-2026-687740",
-    "date": "2026-06-05T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Lottery League Showcase featuring Tetraviolet, Against Language, L'avorte, Well Worn Grooves"
     ],
     "link": "https://app.opendate.io/e/lottery-league-showcase-featuring-tetraviolet-against-language-l-avorte-well-worn-grooves-june-06-2026-691330",
@@ -89,9 +81,9 @@
   },
   {
     "artist": [
-      "Atticus Sorrell, Colour Phase"
+      "Atticus Sorrell, Colour Phase, Reed & Friends"
     ],
-    "link": "https://app.opendate.io/e/atticus-sorrell-colour-phase-june-26-2026-687380",
+    "link": "https://app.opendate.io/e/atticus-sorrell-colour-phase-reed-friends-june-26-2026-687380",
     "date": "2026-06-26T00:00:01",
     "venue": "Happy Dog"
   },
@@ -117,6 +109,14 @@
     ],
     "link": "https://app.opendate.io/e/karaoke-fundraiser-for-cleveland-dsa-w-kj-stunningham-july-04-2026-713944",
     "date": "2026-07-04T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "O.R.P.H.A.N.S., PBJ, Ahn"
+    ],
+    "link": "https://app.opendate.io/e/o-r-p-h-a-n-s-pbj-ahn-july-09-2026-716002",
+    "date": "2026-07-09T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -173,6 +173,22 @@
     ],
     "link": "https://app.opendate.io/e/silvis-lake-philly-kid-primitive-july-30-2026-691984",
     "date": "2026-07-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Public Acid, Invertebrates, Yambag, Rawheads"
+    ],
+    "link": "https://app.opendate.io/e/public-acid-invertebrates-yambag-rawheads-august-06-2026-716014",
+    "date": "2026-08-06T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Karaoke Night w/ Terkalerk!"
+    ],
+    "link": "https://app.opendate.io/e/karaoke-night-w-terkalerk-august-07-2026-716018",
+    "date": "2026-08-07T00:00:01",
     "venue": "Happy Dog"
   },
   {

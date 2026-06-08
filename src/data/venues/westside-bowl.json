@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Pizza & Wine Tasting"
-    ],
-    "link": "https://www.eventbrite.com/e/pizza-wine-tasting-tickets-1990182093215",
-    "date": "2026-06-07T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Sandman Sleeps , Humbles County, Zoloft"
     ],
     "link": "https://www.eventbrite.com/e/sandman-sleeps-humbles-countyzoloft-tickets-1987009822869",
@@ -229,6 +221,14 @@
     ],
     "link": "https://www.eventbrite.com/e/noah-jasperroofus-and-the-rex-tickets-1986174119257",
     "date": "2026-07-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "\u00d8utlier, Cult Kids, Verarose"
+    ],
+    "link": "https://www.eventbrite.com/e/utliercult-kidsverarose-tickets-1991322869307",
+    "date": "2026-07-18T00:00:01",
     "venue": "Westside Bowl"
   },
   {

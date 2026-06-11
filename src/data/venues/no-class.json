@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "OUT LOUD & IN FRAME"
-    ],
-    "link": "https://noclasscle.com/events/out-loud-in-frame",
-    "date": "2026-06-08T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "NEOLITHIC"
     ],
     "link": "https://noclasscle.com/events/neolithic",
@@ -129,6 +121,14 @@
   },
   {
     "artist": [
+      "Y2GAY"
+    ],
+    "link": "https://noclasscle.com/events/y2gay-kellen",
+    "date": "2026-07-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "MAUL"
     ],
     "link": "https://noclasscle.com/events/maul-gored-embrace",
@@ -137,10 +137,50 @@
   },
   {
     "artist": [
+      "KATYWENTMISSING"
+    ],
+    "link": "https://noclasscle.com/events/katywentmissing",
+    "date": "2026-07-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "LEPTOSPIRA"
+    ],
+    "link": "https://noclasscle.com/events/leptospira",
+    "date": "2026-08-08T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "TORSO MAN"
+    ],
+    "link": "https://noclasscle.com/events/torso-man",
+    "date": "2026-08-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "WRESTLERAGER 10"
+    ],
+    "link": "https://noclasscle.com/events/wrestlerager-10",
+    "date": "2026-08-22T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SIX FEET UNDER"
     ],
     "link": "https://noclasscle.com/events/six-feet-under",
     "date": "2026-08-22T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "NUNSLAUGHTER"
+    ],
+    "link": "https://noclasscle.com/events/nunslaughter-cardiac-arrest",
+    "date": "2026-08-29T00:00:01",
     "venue": "No Class"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sandman Sleeps , Humbles County, Zoloft"
-    ],
-    "link": "https://www.eventbrite.com/e/sandman-sleeps-humbles-countyzoloft-tickets-1987009822869",
-    "date": "2026-06-11T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Rev. Gill and the Fishermen, The Head Trips, Meddle, Cassette Confidential"
     ],
     "link": "https://www.eventbrite.com/e/rev-gill-and-the-fishermenthe-head-tripsmeddlecassette-confidential-tickets-1986903890021",
@@ -161,9 +153,9 @@
   },
   {
     "artist": [
-      "BellaOnBass, shy blossom, Candace Campana"
+      "shy blossom, Candace Campana"
     ],
-    "link": "https://www.eventbrite.com/e/bellaonbassshy-blossomcandace-campana-tickets-1989348551068",
+    "link": "https://www.eventbrite.com/e/shy-blossomcandace-campana-tickets-1989348551068",
     "date": "2026-07-05T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -396,6 +388,14 @@
       "People Sleep, Braille, Brian Barr"
     ],
     "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
+    "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Saints of Lorain, The Cheats, 10,000 Bird Skeletons"
+    ],
+    "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
     "venue": "Westside Bowl"
   }

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Bethany Joy, Strange Harbor, Joe Rangel"
-    ],
-    "link": "https://app.opendate.io/e/bethany-joy-strange-harbor-joe-rangel-june-11-2026-687746",
-    "date": "2026-06-11T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Flags, Brood X, The Magnavox\u2019s"
     ],
     "link": "https://app.opendate.io/e/flags-brood-x-the-magnavox-s-june-12-2026-709019",
@@ -153,9 +145,9 @@
   },
   {
     "artist": [
-      "Frank Hurricane, The Pop Cult"
+      "Frank Hurricane, Thoosie Mob, Tee Shot, The Pop Cult"
     ],
-    "link": "https://app.opendate.io/e/frank-hurricane-the-pop-cult-july-25-2026-716941",
+    "link": "https://app.opendate.io/e/frank-hurricane-thoosie-mob-tee-shot-the-pop-cult-july-25-2026-716941",
     "date": "2026-07-25T00:00:01",
     "venue": "Happy Dog"
   },
@@ -165,6 +157,14 @@
     ],
     "link": "https://app.opendate.io/e/silvis-lake-philly-kid-primitive-july-30-2026-691984",
     "date": "2026-07-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "TIFFY, Molly O'Malley"
+    ],
+    "link": "https://app.opendate.io/e/tiffy-molly-o-malley-august-05-2026-717327",
+    "date": "2026-08-05T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -189,6 +189,22 @@
     ],
     "link": "https://app.opendate.io/e/speak-in-tongues-book-release-show-w-harriet-the-spy-brian-straw-beckett-and-friends-applejuice-august-15-2026-712434",
     "date": "2026-08-15T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Hed Cheez, Matt the Thief, Caty Petersilge, Chris Anderson - In the Underdog!"
+    ],
+    "link": "https://app.opendate.io/e/hed-cheez-matt-the-thief-caty-petersilge-chris-anderson-in-the-underdog-august-22-2026-717340",
+    "date": "2026-08-22T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Two Mile Moon Anniversary Show w/ False Teeth, Pro Skater, Cherry Yachtsman"
+    ],
+    "link": "https://app.opendate.io/e/two-mile-moon-anniversary-show-w-false-teeth-pro-skater-cherry-yachtsman-august-28-2026-717345",
+    "date": "2026-08-28T00:00:01",
     "venue": "Happy Dog"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rev. Gill and the Fishermen, The Head Trips, Meddle, Cassette Confidential"
-    ],
-    "link": "https://www.eventbrite.com/e/rev-gill-and-the-fishermenthe-head-tripsmeddlecassette-confidential-tickets-1986903890021",
-    "date": "2026-06-12T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Aux Delivery Producers Showcase"
     ],
     "link": "https://www.eventbrite.com/e/aux-delivery-producers-showcase-tickets-1988685647305",
@@ -169,6 +161,14 @@
   },
   {
     "artist": [
+      "Kingdom Come"
+    ],
+    "link": "https://www.eventbrite.com/e/kingdom-come-tickets-1991739489429",
+    "date": "2026-07-09T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Neon Tragedy, Skyrail, Royce Anthony"
     ],
     "link": "https://www.eventbrite.com/e/neon-tragedyskyrailroyce-anthony-tickets-1986901689439",
@@ -305,6 +305,22 @@
   },
   {
     "artist": [
+      "Wailin Storms, Temple Witch, Supercorrupter"
+    ],
+    "link": "https://www.eventbrite.com/e/wailin-stormstemple-witchsupercorrupter-tickets-1991739069172",
+    "date": "2026-08-02T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Bunny The Bear"
+    ],
+    "link": "https://www.eventbrite.com/e/the-bunny-the-bear-tickets-1991708480681",
+    "date": "2026-08-06T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Temple Witch, Blood Rune Sigil, Sonic Smut, Wake Magnolia"
     ],
     "link": "https://www.eventbrite.com/e/temple-witchblood-rune-sigilsonic-smutwake-magnolia-tickets-1985546594313",
@@ -377,26 +393,10 @@
   },
   {
     "artist": [
-      "Anyone Awake, Rent For Cheryl, Blind Boxing"
+      "Misfire, Raider, Iron Brigade"
     ],
-    "link": "https://www.eventbrite.com/e/anyone-awakerent-for-cherylblind-boxing-tickets-1990250127708",
-    "date": "2026-08-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "People Sleep, Braille, Brian Barr"
-    ],
-    "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
-    "date": "2026-08-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Saints of Lorain, The Cheats, 10,000 Bird Skeletons"
-    ],
-    "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
-    "date": "2026-08-28T00:00:01",
+    "link": "https://www.eventbrite.com/e/misfireraideriron-brigade-tickets-1991731443363",
+    "date": "2026-08-25T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

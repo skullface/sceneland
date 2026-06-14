@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Aux Delivery Producers Showcase"
-    ],
-    "link": "https://www.eventbrite.com/e/aux-delivery-producers-showcase-tickets-1988685647305",
-    "date": "2026-06-13T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Love Scar, Fyath, Soul Dive, Better Think Twice"
-    ],
-    "link": "https://www.eventbrite.com/e/love-scarfyathsoul-divebetter-think-twice-tickets-1990816808666",
-    "date": "2026-06-13T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Skrom, Hand In Pants, Beach Kitty, Split Point"
     ],
     "link": "https://www.eventbrite.com/e/skromhand-in-pantsbeach-kittysplit-point-tickets-1990248897027",
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/misfireraideriron-brigade-tickets-1991731443363",
     "date": "2026-08-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Anyone Awake, Rent For Cheryl, Blind Boxing"
+    ],
+    "link": "https://www.eventbrite.com/e/anyone-awakerent-for-cherylblind-boxing-tickets-1990250127708",
+    "date": "2026-08-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "People Sleep, Braille, Brian Barr"
+    ],
+    "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
+    "date": "2026-08-28T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

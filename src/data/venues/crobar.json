@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "12 Hour Party: Hercules & Love Affair (DJ Set), Devon James (Boston), Alex Cecil (Miami), Navy Jayde, + many more"
-    ],
-    "link": "https://secure.crobar1921.com/event/12-hour-party",
-    "date": "2027-06-13T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "MNTRA: Beekir"
     ],
     "link": "https://secure.crobar1921.com/event/mntra",
@@ -45,6 +37,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/alpha-rhythm-",
     "date": "2026-07-18T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Safe & Sound: Baraness, Cardio, Delish, Edificette, Forest Getemgump, Jesse Hawk, Jenn'afreind, Joey Sardelle, Le Mew, MIKEONE, orcaclepussies, Stout XTC"
+    ],
+    "link": "https://secure.crobar1921.com/event/safe--sound",
+    "date": "2026-07-03T00:00:01",
     "venue": "Crobar"
   }
 ]

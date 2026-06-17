@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "Daikaiju"
+    ],
+    "link": "https://www.eventbrite.com/e/daikaiju-tickets-1992002862184",
+    "date": "2026-07-06T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Nick Vivid, Unc D, Rocco Sait"
     ],
     "link": "https://www.eventbrite.com/e/nick-vividunc-drocco-sait-tickets-1988793371511",
@@ -389,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/anyone-awakerent-for-cherylblind-boxing-tickets-1990250127708",
     "date": "2026-08-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "People Sleep, Braille, Brian Barr"
-    ],
-    "link": "https://www.eventbrite.com/e/people-sleepbraillebrian-barr-tickets-1986858149209",
-    "date": "2026-08-28T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

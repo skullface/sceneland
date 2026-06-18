@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dexter and the Moonrocks, High June, Cigarettes @ Sunset"
-    ],
-    "link": "https://www.axs.com/events/1317711/dexter-and-the-moonrocks-tickets",
-    "date": "2026-06-17T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Happy Endings Featuring Special Guest: Sango"
     ],
     "link": "https://www.axs.com/events/1455585/happy-endings-featuring-special-guest-sango-tickets",
@@ -49,7 +41,7 @@
   },
   {
     "artist": [
-      "CLUB 1BD: Courtyard Edition"
+      "CLUB 1BD: Courtyard Edition, ft. Smacks"
     ],
     "link": "https://www.axs.com/events/1446845/club-1bd-courtyard-edition-tickets",
     "date": "2026-08-07T19:00:00",
@@ -157,6 +149,14 @@
     ],
     "link": "https://www.axs.com/events/1489871/yaelokre-tickets",
     "date": "2026-11-17T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "STS9"
+    ],
+    "link": "https://www.axs.com/events/1480568/sts9-tickets",
+    "date": "2026-11-20T20:00:00",
     "venue": "Globe Iron"
   },
   {

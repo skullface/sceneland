@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Roast Battle Cleveland - Thursday Night Showdown!"
-    ],
-    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-june-18-2026-689098",
-    "date": "2026-06-18T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "The Phantom A.D., Oongow!!!, Riptide Suicide"
     ],
     "link": "https://app.opendate.io/e/the-phantom-a-d-oongow-riptide-suicide-june-20-2026-682481",
@@ -121,6 +113,14 @@
   },
   {
     "artist": [
+      "Blue Yuma, Time Cat, Guero"
+    ],
+    "link": "https://app.opendate.io/e/blue-yuma-time-cat-guero-july-24-2026-719132",
+    "date": "2026-07-24T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Frank Hurricane, Thoosie Mob, Tee Shot, The Pop Cult"
     ],
     "link": "https://app.opendate.io/e/frank-hurricane-thoosie-mob-tee-shot-the-pop-cult-july-25-2026-716941",
@@ -133,6 +133,14 @@
     ],
     "link": "https://app.opendate.io/e/silvis-lake-philly-kid-primitive-july-30-2026-691984",
     "date": "2026-07-30T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Blank Hellscape, Data Unknown, Mere Man, Swisher"
+    ],
+    "link": "https://app.opendate.io/e/blank-hellscape-data-unknown-mere-man-swisher-august-01-2026-719139",
+    "date": "2026-08-01T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -165,6 +173,30 @@
     ],
     "link": "https://app.opendate.io/e/speak-in-tongues-book-release-show-w-harriet-the-spy-brian-straw-beckett-and-friends-applejuice-august-15-2026-712434",
     "date": "2026-08-15T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Jane Hobson, Sugardeer"
+    ],
+    "link": "https://app.opendate.io/e/jane-hobson-sugardeer-august-18-2026-719150",
+    "date": "2026-08-18T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Signal Cle presents: Classical Revolution!"
+    ],
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-august-19-2026-719152",
+    "date": "2026-08-19T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Roast Battle Cleveland - Thursday Night Showdown!"
+    ],
+    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-august-20-2026-719153",
+    "date": "2026-08-20T00:00:01",
     "venue": "Happy Dog"
   },
   {

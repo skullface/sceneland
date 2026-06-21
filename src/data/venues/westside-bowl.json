@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Living Parallel, Mayzie, Neon Tragedy"
-    ],
-    "link": "https://www.eventbrite.com/e/living-parallelmayzieneon-tragedy-tickets-1988373224841",
-    "date": "2026-06-20T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Twitch Reunion Show with jcreexh & Danny Hedrix"
-    ],
-    "link": "https://www.eventbrite.com/e/twitch-reunion-show-with-jcreexh-danny-hedrix-tickets-1981021626011",
-    "date": "2026-06-20T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Conan Neutron & the Secret Friends"
     ],
     "link": "https://www.eventbrite.com/e/conan-neutron-the-secret-friends-tickets-1989880929426",
@@ -157,6 +141,14 @@
     ],
     "link": "https://www.eventbrite.com/e/taiyamo-denku-x-brzowski-camp-crystal-lake-26-with-the-clergy-tickets-1991026508885",
     "date": "2026-07-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Low Water Bridge Band, Worthless Curtis"
+    ],
+    "link": "https://www.eventbrite.com/e/low-water-bridge-bandworthless-curtis-tickets-1992288005054",
+    "date": "2026-07-15T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Reverend Horton Heat, Messer Chups"
+    ],
+    "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
+    "date": "2026-08-31T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

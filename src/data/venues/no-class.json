@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "PUMA THURMAN"
-    ],
-    "link": "https://noclasscle.com/events/puma-thurman",
-    "date": "2026-06-19T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "ART & CRAFT SUPPLY SWAP"
     ],
     "link": "https://noclasscle.com/events/art-craft-supply-swap",
@@ -97,10 +89,26 @@
   },
   {
     "artist": [
+      "CLOUDY W/ A CHANCE..."
+    ],
+    "link": "https://noclasscle.com/events/cloudy-w/-a-chance-blonde",
+    "date": "2026-07-06T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "MAUL"
     ],
     "link": "https://noclasscle.com/events/maul-gored-embrace",
     "date": "2026-07-08T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FULL NELSON"
+    ],
+    "link": "https://noclasscle.com/events/full-nelson",
+    "date": "2026-07-09T00:00:01",
     "venue": "No Class"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ART & CRAFT SUPPLY SWAP"
-    ],
-    "link": "https://noclasscle.com/events/art-craft-supply-swap",
-    "date": "2026-06-21T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "PEOPLE IN THE DAYTIME"
     ],
     "link": "https://noclasscle.com/events/people-in-the-daytime-touchdown-jesus",
@@ -165,6 +157,14 @@
     ],
     "link": "https://noclasscle.com/events/econocrush",
     "date": "2026-07-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HYPERPOP NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/hyperpop-night-7-24-26",
+    "date": "2026-07-24T00:00:01",
     "venue": "No Class"
   },
   {

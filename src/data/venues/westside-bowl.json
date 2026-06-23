@@ -249,6 +249,14 @@
   },
   {
     "artist": [
+      "Chirp, Zoo Trippin\u2019"
+    ],
+    "link": "https://www.eventbrite.com/e/chirpzoo-trippin-tickets-1992397552714",
+    "date": "2026-07-29T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Yell At God, The House Of Wills, Indig0Forest"
     ],
     "link": "https://www.eventbrite.com/e/yell-at-godthe-house-of-willsindig0forest-tickets-1988872283539",
@@ -389,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Reverend Horton Heat, Messer Chups"
-    ],
-    "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
-    "date": "2026-08-31T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

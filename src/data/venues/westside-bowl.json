@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Conan Neutron & the Secret Friends"
-    ],
-    "link": "https://www.eventbrite.com/e/conan-neutron-the-secret-friends-tickets-1989880929426",
-    "date": "2026-06-24T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Attesa, Moon Tipper, Matt English"
     ],
     "link": "https://www.eventbrite.com/e/attesamoon-tippermatt-english-tickets-1983099864077",
@@ -213,6 +205,14 @@
     ],
     "link": "https://www.eventbrite.com/e/catbitesabonwednesday-demonstration-tickets-1988136816738",
     "date": "2026-07-23T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Saddle, Steven R Trent, Simulation"
+    ],
+    "link": "https://www.eventbrite.com/e/saddlesteven-r-trentsimulation-tickets-1992525618763",
+    "date": "2026-07-24T00:00:01",
     "venue": "Westside Bowl"
   },
   {

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Goody & the Gospel, Ohayo, Demos Papadimas"
-    ],
-    "link": "https://www.eventbrite.com/e/goody-the-gospelohayodemos-papadimas-tickets-1990746723038",
-    "date": "2026-06-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "5 Elements, Jones for Revival, DJ Weapon X"
-    ],
-    "link": "https://www.eventbrite.com/e/5-elementsjones-for-revivaldj-weapon-x-tickets-1988631242579",
-    "date": "2026-06-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Marcus Smith & The Rapscallions, Krypto.Divine, Janelle Li\u2019El"
     ],
     "link": "https://www.eventbrite.com/e/marcus-smith-the-rapscallionskryptodivinejanelle-liel-tickets-1989832530664",
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/saints-of-lorainthe-cheats10000-bird-skeletons-tickets-1989730210622",
     "date": "2026-08-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Reverend Horton Heat, Messer Chups"
+    ],
+    "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
+    "date": "2026-08-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Obsessed, Radian, Black Moon Cult"
+    ],
+    "link": "https://www.eventbrite.com/e/the-obsessedradianblack-moon-cult-tickets-1991991011739",
+    "date": "2026-09-03T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

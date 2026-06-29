@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "ELII ORMOND"
-    ],
-    "link": "https://noclasscle.com/events/elii-ormond",
-    "date": "2026-06-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "BERGHAIN'T"
-    ],
-    "link": "https://noclasscle.com/events/berghaint-6-27-26",
-    "date": "2026-06-26T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "BACTERIA"
-    ],
-    "link": "https://noclasscle.com/events/bacteria-scab-hag",
-    "date": "2026-06-27T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "TOTAL CHAOS"
     ],
     "link": "https://noclasscle.com/events/total-chaos-noogy",
@@ -149,6 +125,14 @@
     ],
     "link": "https://noclasscle.com/events/hyperpop-night-7-24-26",
     "date": "2026-07-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "D BLOC"
+    ],
+    "link": "https://noclasscle.com/events/d-bloc",
+    "date": "2026-07-26T00:00:01",
     "venue": "No Class"
   },
   {

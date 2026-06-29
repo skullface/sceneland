@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Marcus Smith & The Rapscallions, Krypto.Divine, Janelle Li\u2019El"
-    ],
-    "link": "https://www.eventbrite.com/e/marcus-smith-the-rapscallionskryptodivinejanelle-liel-tickets-1989832530664",
-    "date": "2026-06-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Misty Blues"
     ],
     "link": "https://www.eventbrite.com/e/misty-blues-tickets-1987029421489",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-obsessedradianblack-moon-cult-tickets-1991991011739",
     "date": "2026-09-03T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Brady Lorince, Dysphoric Void, Resist The Urge"
+    ],
+    "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
+    "date": "2026-09-05T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

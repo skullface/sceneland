@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Misty Blues"
-    ],
-    "link": "https://www.eventbrite.com/e/misty-blues-tickets-1987029421489",
-    "date": "2026-06-29T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Farseek, Counting Butterflies, Orca Station"
     ],
     "link": "https://www.eventbrite.com/e/farseekcounting-butterfliesorca-station-tickets-1990289396161",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.eventbrite.com/e/taiyamo-denku-x-brzowski-camp-crystal-lake-26-with-the-clergy-tickets-1991026508885",
     "date": "2026-07-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Potentia, Dravin, Nineteenth Paradise"
+    ],
+    "link": "https://www.eventbrite.com/e/potentiadravinnineteenth-paradise-tickets-1992799625324",
+    "date": "2026-07-13T00:00:01",
     "venue": "Westside Bowl"
   },
   {

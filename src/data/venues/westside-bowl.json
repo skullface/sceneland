@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Farseek, Counting Butterflies, Orca Station"
-    ],
-    "link": "https://www.eventbrite.com/e/farseekcounting-butterfliesorca-station-tickets-1990289396161",
-    "date": "2026-06-30T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Lifefallingdown, NRWHL, Clouded, Driveway Talk"
     ],
     "link": "https://www.eventbrite.com/e/lifefallingdownnrwhlcloudeddriveway-talk-tickets-1989553373698",
@@ -396,6 +388,14 @@
       "Brady Lorince, Dysphoric Void, Resist The Urge"
     ],
     "link": "https://www.eventbrite.com/e/brady-lorincedysphoric-voidresist-the-urge-tickets-1987106803942",
+    "date": "2026-09-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The 2nd  Annual Jim Dudash & Antonio Pilolli Memorial LoveFest"
+    ],
+    "link": "https://www.eventbrite.com/e/the-2nd-annual-jim-dudash-antonio-pilolli-memorial-lovefest-tickets-1992029126742",
     "date": "2026-09-05T00:00:01",
     "venue": "Westside Bowl"
   }

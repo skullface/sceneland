@@ -41,9 +41,17 @@
   },
   {
     "artist": [
-      "Lunch Club, Jumpy, Fuss, Dr. Fang and the Bats"
+      "Lunch Club, Jumpy, Fuss"
     ],
-    "link": "https://app.opendate.io/e/lunch-club-jumpy-fuss-dr-fang-and-the-bats-july-11-2026-691582",
+    "link": "https://app.opendate.io/e/lunch-club-jumpy-fuss-july-11-2026-691582",
+    "date": "2026-07-11T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "In the Underdog - Sleazus, Quiet Pack, DJ Lovesick w/ visuals by Goo La Goon"
+    ],
+    "link": "https://app.opendate.io/e/in-the-underdog-sleazus-quiet-pack-dj-lovesick-w-visuals-by-goo-la-goon-july-11-2026-726807",
     "date": "2026-07-11T00:00:01",
     "venue": "Happy Dog"
   },
@@ -65,7 +73,7 @@
   },
   {
     "artist": [
-      "Rosana Record Release w/ Placid State, Grace Favarro"
+      "Ros\u00e0na Record Release w/ Placid State, Grace Favarro"
     ],
     "link": "https://app.opendate.io/e/rosana-record-release-w-placid-state-grace-favarro-july-17-2026-691983",
     "date": "2026-07-17T00:00:01",
@@ -145,6 +153,14 @@
   },
   {
     "artist": [
+      "Frail Talk"
+    ],
+    "link": "https://app.opendate.io/e/frail-talk-august-14-2026-726813",
+    "date": "2026-08-14T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Speak in Tongues Book Release show w/ Harriet the Spy, Brian Straw, Beckett and Friends, Applejuice"
     ],
     "link": "https://app.opendate.io/e/speak-in-tongues-book-release-show-w-harriet-the-spy-brian-straw-beckett-and-friends-applejuice-august-15-2026-712434",
@@ -153,9 +169,9 @@
   },
   {
     "artist": [
-      "Jane Hobson, Sugardeer"
+      "Jane Hobson, False Teeth, White Flag Over Providence, Sugardeer"
     ],
-    "link": "https://app.opendate.io/e/jane-hobson-sugardeer-august-18-2026-719150",
+    "link": "https://app.opendate.io/e/jane-hobson-false-teeth-white-flag-over-providence-sugardeer-august-18-2026-719150",
     "date": "2026-08-18T00:00:01",
     "venue": "Happy Dog"
   },

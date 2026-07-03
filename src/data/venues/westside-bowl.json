@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Lifefallingdown, NRWHL, Clouded, Driveway Talk"
-    ],
-    "link": "https://www.eventbrite.com/e/lifefallingdownnrwhlcloudeddriveway-talk-tickets-1989553373698",
-    "date": "2026-07-02T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Linnea\u2019s Garden, Wasted Society, Factual Brains"
     ],
     "link": "https://www.eventbrite.com/e/linneas-gardenwasted-societyfactual-brains-tickets-1988632970748",
@@ -41,9 +33,9 @@
   },
   {
     "artist": [
-      "Daikaiju, DAGGRS, Trash Mountain"
+      "Daikaiju, DAGGRS, Trash Mountain, The Imaginatron Moving Company"
     ],
-    "link": "https://www.eventbrite.com/e/daikaijudaggrstrash-mountain-tickets-1992002862184",
+    "link": "https://www.eventbrite.com/e/daikaijudaggrstrash-mountainthe-imaginatron-moving-company-tickets-1992002862184",
     "date": "2026-07-06T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -316,6 +308,14 @@
       "Carnival of Corpses"
     ],
     "link": "https://www.eventbrite.com/e/carnival-of-corpses-tickets-1986276171498",
+    "date": "2026-08-15T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Nick Adduci, The Building"
+    ],
+    "link": "https://www.eventbrite.com/e/nick-adducithe-building-tickets-1992962080231",
     "date": "2026-08-15T00:00:01",
     "venue": "Westside Bowl"
   },

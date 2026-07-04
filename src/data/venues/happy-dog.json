@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Kid Tigrrr Record Release w/ R U Three, Benjamin Liar"
-    ],
-    "link": "https://app.opendate.io/e/kid-tigrrr-record-release-w-r-u-three-benjamin-liar-july-03-2026-713741",
-    "date": "2026-07-03T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Karaoke Fundraiser for Cleveland DSA w/ KJ Stunningham!"
     ],
     "link": "https://app.opendate.io/e/karaoke-fundraiser-for-cleveland-dsa-w-kj-stunningham-july-04-2026-713944",
@@ -121,9 +113,9 @@
   },
   {
     "artist": [
-      "Blank Hellscape, Data Unknown, Mere Man, Swisher"
+      "Blank Hellscape, Data Unknown, Mere Man, Swisher, Combat Shock"
     ],
-    "link": "https://app.opendate.io/e/blank-hellscape-data-unknown-mere-man-swisher-august-01-2026-719139",
+    "link": "https://app.opendate.io/e/blank-hellscape-data-unknown-mere-man-swisher-combat-shock-august-01-2026-719139",
     "date": "2026-08-01T00:00:01",
     "venue": "Happy Dog"
   },
@@ -149,6 +141,22 @@
     ],
     "link": "https://app.opendate.io/e/karaoke-night-w-terkalerk-august-07-2026-716018",
     "date": "2026-08-07T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Cleveland Food Bank Benefit w/ Tunnel Vision, My Heart Your Glove, Cool Party, Last Pick"
+    ],
+    "link": "https://app.opendate.io/e/cleveland-food-bank-benefit-w-tunnel-vision-my-heart-your-glove-cool-party-last-pick-august-08-2026-727136",
+    "date": "2026-08-08T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tunnel of Love, Last Gasp, Secret Handshake"
+    ],
+    "link": "https://app.opendate.io/e/tunnel-of-love-last-gasp-secret-handshake-august-12-2026-727138",
+    "date": "2026-08-12T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -193,6 +201,14 @@
   },
   {
     "artist": [
+      "Plum, The Magnavox's"
+    ],
+    "link": "https://app.opendate.io/e/plum-the-magnavox-s-august-21-2026-727140",
+    "date": "2026-08-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Hed Cheez, Matt the Thief, Caty Petersilge, Chris Anderson - In the Underdog!"
     ],
     "link": "https://app.opendate.io/e/hed-cheez-matt-the-thief-caty-petersilge-chris-anderson-in-the-underdog-august-22-2026-717340",
@@ -229,6 +245,14 @@
     ],
     "link": "https://app.opendate.io/e/white-flag-over-providence-false-teeth-inpatient-september-19-2026-716950",
     "date": "2026-09-19T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Herzog, Dreadful Yawns, Awesome*Quest"
+    ],
+    "link": "https://app.opendate.io/e/herzog-dreadful-yawns-awesome-quest-october-09-2026-727142",
+    "date": "2026-10-09T00:00:01",
     "venue": "Happy Dog"
   }
 ]

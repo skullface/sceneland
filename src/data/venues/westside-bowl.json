@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Linnea\u2019s Garden, Wasted Society, Factual Brains"
-    ],
-    "link": "https://www.eventbrite.com/e/linneas-gardenwasted-societyfactual-brains-tickets-1988632970748",
-    "date": "2026-07-03T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Doomsday Darling, Singled Out, Ceci Taylor"
-    ],
-    "link": "https://www.eventbrite.com/e/doomsday-darlingsingled-outceci-taylor-tickets-1990816414487",
-    "date": "2026-07-03T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Brake Fluid, Combwalker, Naked Eye"
     ],
     "link": "https://www.eventbrite.com/e/brake-fluidcombwalkernaked-eye-tickets-1984407818203",
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/the-2nd-annual-jim-dudash-antonio-pilolli-memorial-lovefest-tickets-1992029126742",
     "date": "2026-09-05T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Shiner, Bursting"
+    ],
+    "link": "https://www.eventbrite.com/e/shinerbursting-tickets-1991845678042",
+    "date": "2026-09-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Squid Pisser, DAGGRS, BODY FARM"
+    ],
+    "link": "https://www.eventbrite.com/e/squid-pisserdaggrsbody-farm-tickets-1990817357307",
+    "date": "2026-09-09T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

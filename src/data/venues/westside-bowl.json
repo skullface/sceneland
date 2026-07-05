@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Brake Fluid, Combwalker, Naked Eye"
-    ],
-    "link": "https://www.eventbrite.com/e/brake-fluidcombwalkernaked-eye-tickets-1984407818203",
-    "date": "2026-07-04T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "shy blossom, Candace Campana"
     ],
     "link": "https://www.eventbrite.com/e/shy-blossomcandace-campana-tickets-1989348551068",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/squid-pisserdaggrsbody-farm-tickets-1990817357307",
     "date": "2026-09-09T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Dopethrone, PLQ MRX, Avowal"
+    ],
+    "link": "https://www.eventbrite.com/e/dopethroneplq-mrxavowal-tickets-1986855092065",
+    "date": "2026-09-10T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

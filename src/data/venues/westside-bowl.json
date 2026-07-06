@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "shy blossom, Candace Campana"
-    ],
-    "link": "https://www.eventbrite.com/e/shy-blossomcandace-campana-tickets-1989348551068",
-    "date": "2026-07-05T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Daikaiju, DAGGRS, Trash Mountain, The Imaginatron Moving Company"
     ],
     "link": "https://www.eventbrite.com/e/daikaijudaggrstrash-mountainthe-imaginatron-moving-company-tickets-1992002862184",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/dopethroneplq-mrxavowal-tickets-1986855092065",
     "date": "2026-09-10T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "VOID, Phantom, Star Viper"
+    ],
+    "link": "https://www.eventbrite.com/e/voidphantomstar-viper-tickets-1992459169010",
+    "date": "2026-09-12T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

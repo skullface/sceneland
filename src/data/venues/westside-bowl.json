@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "The Salem Music Centre Presents: Rich Redmond Drum Clinic"
-    ],
-    "link": "https://www.eventbrite.com/e/the-salem-music-centre-presents-rich-redmond-drum-clinic-tickets-1991950014114",
-    "date": "2026-07-10T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Warning Signs, Plaster, Temple Witch"
-    ],
-    "link": "https://www.eventbrite.com/e/warning-signsplastertemple-witch-tickets-1993569276371",
-    "date": "2026-07-10T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Neon Tragedy, Skyrail, Royce Anthony"
     ],
     "link": "https://www.eventbrite.com/e/neon-tragedyskyrailroyce-anthony-tickets-1986901689439",
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/voidphantomstar-viper-tickets-1992459169010",
     "date": "2026-09-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "20 Watt Tombstone, Slow Wake, Megaton Communion"
+    ],
+    "link": "https://www.eventbrite.com/e/20-watt-tombstoneslow-wakemegaton-communion-tickets-1990889578322",
+    "date": "2026-09-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Unky Bones, Brake Fluid, zoloft, Sockdolager"
+    ],
+    "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
+    "date": "2026-09-19T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Absolute Intense Wrestling: Absolution 19"
-    ],
-    "link": "https://www.axs.com/events/1430968/absolute-intense-wrestling-absolution-19-tickets",
-    "date": "2026-07-10T19:30:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Betterland Festival, Rubblebucket, David Murphy's For My Peeps, Loconti, AJ & the Woods"
     ],
     "link": "https://www.axs.com/events/1463676/betterland-festival-tickets",
@@ -173,6 +165,14 @@
     ],
     "link": "https://www.axs.com/events/1460421/catch-your-breath-tickets",
     "date": "2026-11-21T19:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Absolute Intense Wrestling: Hell On Earth 21"
+    ],
+    "link": "https://www.axs.com/events/1516645/absolute-intense-wrestling-hell-on-earth-21-tickets",
+    "date": "2026-11-27T19:30:00",
     "venue": "Globe Iron"
   },
   {

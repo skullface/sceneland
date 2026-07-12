@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Neon Tragedy, Skyrail, Royce Anthony"
-    ],
-    "link": "https://www.eventbrite.com/e/neon-tragedyskyrailroyce-anthony-tickets-1986901689439",
-    "date": "2026-07-11T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Taiyamo Denku x BRZOWSKI Camp Crystal Lake \u201926 with The Clergy"
     ],
     "link": "https://www.eventbrite.com/e/taiyamo-denku-x-brzowski-camp-crystal-lake-26-with-the-clergy-tickets-1991026508885",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
     "date": "2026-09-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Mutilatred, Mulciber, Cerebral Necrosis, Forged in Gore"
+    ],
+    "link": "https://www.eventbrite.com/e/mutilatredmulcibercerebral-necrosisforged-in-gore-tickets-1988884085840",
+    "date": "2026-09-25T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

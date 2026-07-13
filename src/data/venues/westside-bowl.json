@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Taiyamo Denku x BRZOWSKI Camp Crystal Lake \u201926 with The Clergy"
-    ],
-    "link": "https://www.eventbrite.com/e/taiyamo-denku-x-brzowski-camp-crystal-lake-26-with-the-clergy-tickets-1991026508885",
-    "date": "2026-07-12T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Potentia, Dravin, Nineteenth Paradise"
     ],
     "link": "https://www.eventbrite.com/e/potentiadravinnineteenth-paradise-tickets-1992799625324",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/mutilatredmulcibercerebral-necrosisforged-in-gore-tickets-1988884085840",
     "date": "2026-09-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Mom\u2019s Basement Fest 2026"
+    ],
+    "link": "https://www.eventbrite.com/e/moms-basement-fest-2026-tickets-1988873028768",
+    "date": "2026-10-02T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

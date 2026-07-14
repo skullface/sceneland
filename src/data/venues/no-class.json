@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "KATYWENTMISSING"
-    ],
-    "link": "https://noclasscle.com/events/katywentmissing",
-    "date": "2026-07-12T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CAPE CRUSH"
     ],
     "link": "https://noclasscle.com/events/cape-crush",
@@ -213,6 +205,14 @@
     ],
     "link": "https://noclasscle.com/events/nunslaughter-cardiac-arrest",
     "date": "2026-08-29T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ACID WITCH"
+    ],
+    "link": "https://noclasscle.com/events/acid-witch",
+    "date": "2026-09-03T00:00:01",
     "venue": "No Class"
   },
   {

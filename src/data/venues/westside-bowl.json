@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CHEER-ACCIDENT, Rev. Gill and the Fishermen"
-    ],
-    "link": "https://www.eventbrite.com/e/cheer-accidentrev-gill-and-the-fishermen-tickets-1992579331419",
-    "date": "2026-07-14T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Low Water Bridge Band, Worthless Curtis"
     ],
     "link": "https://www.eventbrite.com/e/low-water-bridge-bandworthless-curtis-tickets-1992288005054",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/home-for-the-daythe-hand-offboyd-and-the-monkeys-tickets-1992800008470",
     "date": "2026-10-03T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Emissions from the Monolith Returns: Emissions 10"
+    ],
+    "link": "https://www.eventbrite.com/e/emissions-from-the-monolith-returns-emissions-10-tickets-1978197839991",
+    "date": "2026-10-08T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

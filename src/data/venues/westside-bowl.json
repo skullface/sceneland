@@ -1,25 +1,9 @@
 [
   {
     "artist": [
-      "Low Water Bridge Band, Worthless Curtis"
-    ],
-    "link": "https://www.eventbrite.com/e/low-water-bridge-bandworthless-curtis-tickets-1992288005054",
-    "date": "2026-07-15T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Starikova, Miss Heard Melody, Tiger Wyatt The Voodoo Child"
     ],
     "link": "https://www.eventbrite.com/e/starikovamiss-heard-melodytiger-wyatt-the-voodoo-child-tickets-1991026010394",
-    "date": "2026-07-16T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Westside Bowl Slammer"
-    ],
-    "link": "https://www.eventbrite.com/e/westside-bowl-slammer-tickets-1988243837841",
     "date": "2026-07-16T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/emissions-from-the-monolith-returns-emissions-10-tickets-1978197839991",
     "date": "2026-10-08T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Emo-Ween 2026"
+    ],
+    "link": "https://www.eventbrite.com/e/emo-ween-2026-tickets-1992718563867",
+    "date": "2026-10-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "We Are Survivors"
+    ],
+    "link": "https://www.eventbrite.com/e/we-are-survivors-tickets-1991028005361",
+    "date": "2026-10-28T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

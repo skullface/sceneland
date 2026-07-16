@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Death Cab for Cutie, Jay Som"
-    ],
-    "link": "https://www.jacobspavilion.com/events/detail?event_id=1298166",
-    "date": "2026-07-15T00:00:01",
-    "venue": "Jacobs Pavilion at Nautica"
-  },
-  {
-    "artist": [
       "Louis Tomlinson, The Beaches, Picture Parlour"
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1158181",
@@ -101,6 +93,14 @@
     ],
     "link": "https://www.jacobspavilion.com/events/detail?event_id=1425652",
     "date": "2026-09-01T00:00:01",
+    "venue": "Jacobs Pavilion at Nautica"
+  },
+  {
+    "artist": [
+      "gymclassheroes. & Lupe Fiasco, B.o.B."
+    ],
+    "link": "https://www.jacobspavilion.com/events/detail?event_id=1520025",
+    "date": "2026-09-10T00:00:01",
     "venue": "Jacobs Pavilion at Nautica"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Starikova, Miss Heard Melody, Tiger Wyatt The Voodoo Child"
-    ],
-    "link": "https://www.eventbrite.com/e/starikovamiss-heard-melodytiger-wyatt-the-voodoo-child-tickets-1991026010394",
-    "date": "2026-07-16T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "SuburbanDowngrade, TheWasted, Owned by A##holes, Crisis in America"
     ],
     "link": "https://www.eventbrite.com/e/suburbandowngradethewastedowned-by-aholescrisis-in-america-tickets-1983090037686",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/we-are-survivors-tickets-1991028005361",
     "date": "2026-10-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Fine Young Men, DirtBasement, The Frantic Nancys"
+    ],
+    "link": "https://www.eventbrite.com/e/fine-young-mendirtbasementthe-frantic-nancys-tickets-1987576791688",
+    "date": "2026-10-30T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

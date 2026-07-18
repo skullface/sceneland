@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "artist": [
+      "Alpha Rhythm: KC, Rob Riddum, + Special Guests"
+    ],
+    "link": "https://secure.crobar1921.com/event/alpha-rhythm-",
+    "date": "2027-07-18T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Harrison BDP: Carrie Sours, Hot Take"
+    ],
+    "link": "https://secure.crobar1921.com/event/harrison-bdp",
+    "date": "2026-07-24T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Moon Boots: Le Mew, MIKEONE"
+    ],
+    "link": "https://secure.crobar1921.com/event/moon-boots",
+    "date": "2026-07-25T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Sampled: Harry Romero, Mark Farina, DJ Heather, Chuck Daniels, Delish b2b Andre Leone"
+    ],
+    "link": "https://secure.crobar1921.com/event/sampled-",
+    "date": "2026-08-08T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "g\u00fcdtaste presents: \u00fcnity: Cardio, C Star, Just AJ, Soud on Tape, Zihynx"
+    ],
+    "link": "https://secure.crobar1921.com/event/gdtaste-presents-nity",
+    "date": "2026-07-31T00:00:01",
+    "venue": "Crobar"
+  }
+]

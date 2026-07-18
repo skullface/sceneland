@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "SuburbanDowngrade, TheWasted, Owned by A##holes, Crisis in America"
-    ],
-    "link": "https://www.eventbrite.com/e/suburbandowngradethewastedowned-by-aholescrisis-in-america-tickets-1983090037686",
-    "date": "2026-07-17T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Roofus and the Rex, Soft Spot, Noah Jasper"
-    ],
-    "link": "https://www.eventbrite.com/e/roofus-and-the-rexsoft-spotnoah-jasper-tickets-1986174119257",
-    "date": "2026-07-17T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "The Velvet Gentlemen, Black Wolf & the Thief, Ke\u2019Von Gordon"
     ],
     "link": "https://www.eventbrite.com/e/the-velvet-gentlemenblack-wolf-the-thiefkevon-gordon-tickets-1990875459091",
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/fine-young-mendirtbasementthe-frantic-nancys-tickets-1987576791688",
     "date": "2026-10-30T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Curse of the Musical Dead"
+    ],
+    "link": "https://www.eventbrite.com/e/curse-of-the-musical-dead-tickets-1992706549933",
+    "date": "2026-10-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Breakin Nails"
+    ],
+    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
+    "date": "2026-11-07T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

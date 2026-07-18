@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-7-1-26-ds9gp",
-    "date": "2026-07-14T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "JUST A BAR"
-    ],
-    "link": "https://noclasscle.com/events/just-a-bar-7-1-26-3ywfw",
-    "date": "2026-07-15T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "SAPPHIC SOCIAL"
-    ],
-    "link": "https://noclasscle.com/events/sapphic-social-7-16-26",
-    "date": "2026-07-16T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CHUNK"
     ],
     "link": "https://noclasscle.com/events/chunk-tryp",
@@ -145,6 +121,22 @@
   },
   {
     "artist": [
+      "CLOUDY W/ A CHANCE..."
+    ],
+    "link": "https://noclasscle.com/events/cloudy-with-a-chance-8-3",
+    "date": "2026-08-03T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ALASKA-303"
+    ],
+    "link": "https://noclasscle.com/events/alaska-303",
+    "date": "2026-08-06T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "LEPTOSPIRA"
     ],
     "link": "https://noclasscle.com/events/leptospira",
@@ -161,10 +153,34 @@
   },
   {
     "artist": [
+      "MADONNA MANIA"
+    ],
+    "link": "https://noclasscle.com/events/madonna-mania",
+    "date": "2026-08-14T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "VINTERGRAV"
     ],
     "link": "https://noclasscle.com/events/vintergrav",
     "date": "2026-08-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "NIXED"
+    ],
+    "link": "https://noclasscle.com/events/nixed",
+    "date": "2026-08-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "IMMATURE JAYDEN"
+    ],
+    "link": "https://noclasscle.com/events/immature-jayden-westside",
+    "date": "2026-08-21T00:00:01",
     "venue": "No Class"
   },
   {
@@ -193,6 +209,22 @@
   },
   {
     "artist": [
+      "DOOM SCROLL"
+    ],
+    "link": "https://noclasscle.com/events/doom-scroll-hans-gruber",
+    "date": "2026-08-26T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-8-27-26",
+    "date": "2026-08-27T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "NUNSLAUGHTER"
     ],
     "link": "https://noclasscle.com/events/nunslaughter-cardiac-arrest",
@@ -213,6 +245,14 @@
     ],
     "link": "https://noclasscle.com/events/insomniac",
     "date": "2026-10-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "OVENHEAD"
+    ],
+    "link": "https://noclasscle.com/events/ovenhead-mutilatred",
+    "date": "2026-10-24T00:00:01",
     "venue": "No Class"
   }
 ]

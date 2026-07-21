@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "HOODS"
-    ],
-    "link": "https://noclasscle.com/events/hoods-curbed",
-    "date": "2026-07-19T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "NO CLASS ALL STAR KING & MAJESTY CROWNING CEREMONY"
     ],
     "link": "https://noclasscle.com/events/no-class-all-star-king-majesty-crowning-ceremony",
@@ -221,6 +213,14 @@
     ],
     "link": "https://noclasscle.com/events/acid-witch",
     "date": "2026-09-03T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "EYESAWGOD"
+    ],
+    "link": "https://noclasscle.com/events/eyesawgod",
+    "date": "2026-09-24T00:00:01",
     "venue": "No Class"
   },
   {

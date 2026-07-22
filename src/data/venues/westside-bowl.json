@@ -97,9 +97,9 @@
   },
   {
     "artist": [
-      "The Bunny The Bear"
+      "The Bunny The Bear, Definitive Strike, DayDreamer"
     ],
-    "link": "https://www.eventbrite.com/e/the-bunny-the-bear-tickets-1991708480681",
+    "link": "https://www.eventbrite.com/e/the-bunny-the-beardefinitive-strikedaydreamer-tickets-1991708480681",
     "date": "2026-08-06T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -173,6 +173,14 @@
     ],
     "link": "https://www.eventbrite.com/e/rae-the-bandrylee-bapst-band-tickets-1988212816054",
     "date": "2026-08-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Duo Decibel System, Jupiter 2, The Spine Stealers"
+    ],
+    "link": "https://www.eventbrite.com/e/duo-decibel-systemjupiter-2the-spine-stealers-tickets-1994629468434",
+    "date": "2026-08-20T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -305,6 +313,14 @@
   },
   {
     "artist": [
+      "Come Out Fighting , No Vision, Cellophane Jane"
+    ],
+    "link": "https://www.eventbrite.com/e/come-out-fighting-no-visioncellophane-jane-tickets-1994630032120",
+    "date": "2026-09-13T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Empty Heaven, zoloft, Orca Station"
     ],
     "link": "https://www.eventbrite.com/e/empty-heavenzoloftorca-station-tickets-1994422767185",
@@ -381,22 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/fine-young-mendirtbasementthe-frantic-nancys-tickets-1987576791688",
     "date": "2026-10-30T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Curse of the Musical Dead"
-    ],
-    "link": "https://www.eventbrite.com/e/curse-of-the-musical-dead-tickets-1992706549933",
-    "date": "2026-10-31T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Breakin Nails"
-    ],
-    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
-    "date": "2026-11-07T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

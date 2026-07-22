@@ -145,6 +145,14 @@
   },
   {
     "artist": [
+      "Taste of Chaos, Hollywood Undead, In This Moment, Vana, Melrose Avenue"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1519989",
+    "date": "2026-10-05T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
       "Interpol, DIIV"
     ],
     "link": "https://www.agoracleveland.com/events/detail/1428035",
@@ -309,6 +317,14 @@
     ],
     "link": "https://www.agoracleveland.com/events/detail/1231097",
     "date": "2027-02-03T18:00:00",
+    "venue": "Agora"
+  },
+  {
+    "artist": [
+      "Crystal Methyd The Enchanted Forest"
+    ],
+    "link": "https://www.agoracleveland.com/events/detail/1528410",
+    "date": "2027-02-25T18:00:00",
     "venue": "Agora"
   }
 ]

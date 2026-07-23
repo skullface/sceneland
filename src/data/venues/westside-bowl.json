@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Junius, Minsk"
-    ],
-    "link": "https://www.eventbrite.com/e/juniusminsk-tickets-1986725885605",
-    "date": "2026-07-22T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Catbite, SABON, Wednesday Demonstration"
     ],
     "link": "https://www.eventbrite.com/e/catbitesabonwednesday-demonstration-tickets-1988136816738",
@@ -185,6 +177,14 @@
   },
   {
     "artist": [
+      "Black Wolf & The Thief, Mayonnaise, Razed By Robots"
+    ],
+    "link": "https://www.eventbrite.com/e/black-wolf-the-thiefmayonnaiserazed-by-robots-tickets-1994749433252",
+    "date": "2026-08-21T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Fyath, \u00d8utlier, Singled Out"
     ],
     "link": "https://www.eventbrite.com/e/fyathutliersingled-out-tickets-1990571867039",
@@ -321,6 +321,14 @@
   },
   {
     "artist": [
+      "Potentia, Added Color, Mayzie"
+    ],
+    "link": "https://www.eventbrite.com/e/potentiaadded-colormayzie-tickets-1994871412094",
+    "date": "2026-09-13T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Empty Heaven, zoloft, Orca Station"
     ],
     "link": "https://www.eventbrite.com/e/empty-heavenzoloftorca-station-tickets-1994422767185",
@@ -389,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/we-are-survivors-tickets-1991028005361",
     "date": "2026-10-28T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Fine Young Men, DirtBasement, The Frantic Nancys"
-    ],
-    "link": "https://www.eventbrite.com/e/fine-young-mendirtbasementthe-frantic-nancys-tickets-1987576791688",
-    "date": "2026-10-30T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

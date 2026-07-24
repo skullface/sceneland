@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Catbite, SABON, Wednesday Demonstration"
-    ],
-    "link": "https://www.eventbrite.com/e/catbitesabonwednesday-demonstration-tickets-1988136816738",
-    "date": "2026-07-23T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Saddle, Steven R Trent, Simulation"
     ],
     "link": "https://www.eventbrite.com/e/saddlesteven-r-trentsimulation-tickets-1992525618763",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/we-are-survivors-tickets-1991028005361",
     "date": "2026-10-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Fine Young Men, DirtBasement, The Frantic Nancys"
+    ],
+    "link": "https://www.eventbrite.com/e/fine-young-mendirtbasementthe-frantic-nancys-tickets-1987576791688",
+    "date": "2026-10-30T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Saddle, Steven R Trent, Simulation"
-    ],
-    "link": "https://www.eventbrite.com/e/saddlesteven-r-trentsimulation-tickets-1992525618763",
-    "date": "2026-07-24T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Chaos Eater, Dr. Teeth, Orion\u2019s Sword"
-    ],
-    "link": "https://www.eventbrite.com/e/chaos-eaterdr-teethorions-sword-tickets-1990104000638",
-    "date": "2026-07-24T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "YoWest Fusion Fest Pt 3"
     ],
     "link": "https://www.eventbrite.com/e/yowest-fusion-fest-pt-3-tickets-1985963425065",
@@ -61,6 +45,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-labra-brotherskid-mammoth-tickets-1990574798808",
     "date": "2026-07-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Civic Summer, Awkward Souls"
+    ],
+    "link": "https://www.eventbrite.com/e/civic-summerawkward-souls-tickets-1995040111679",
+    "date": "2026-08-01T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/fine-young-mendirtbasementthe-frantic-nancys-tickets-1987576791688",
     "date": "2026-10-30T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Curse of the Musical Dead"
+    ],
+    "link": "https://www.eventbrite.com/e/curse-of-the-musical-dead-tickets-1992706549933",
+    "date": "2026-10-31T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

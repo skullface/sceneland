@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "OG MOOK"
-    ],
-    "link": "https://noclasscle.com/events/og-mook-westside-tony-tay-fuego",
-    "date": "2026-07-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "D BLOC"
     ],
     "link": "https://noclasscle.com/events/d-bloc",
@@ -61,6 +53,14 @@
     ],
     "link": "https://noclasscle.com/events/cloudy-with-a-chance-8-3",
     "date": "2026-08-03T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CHEMICAL-X"
+    ],
+    "link": "https://noclasscle.com/events/chemical-x",
+    "date": "2026-08-05T00:00:01",
     "venue": "No Class"
   },
   {

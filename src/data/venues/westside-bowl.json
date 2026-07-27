@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sunny Sweeney, Kayla Ray"
-    ],
-    "link": "https://www.eventbrite.com/e/sunny-sweeneykayla-ray-tickets-1987467901996",
-    "date": "2026-07-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Chirp, Zoo Trippin\u2019"
     ],
     "link": "https://www.eventbrite.com/e/chirpzoo-trippin-tickets-1992397552714",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/one-if-by-landthe-dead-ex-boyfriends-clubthe-frantic-nancys-tickets-1995040885995",
     "date": "2026-11-06T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Breakin Nails"
+    ],
+    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
+    "date": "2026-11-07T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "D BLOC"
-    ],
-    "link": "https://noclasscle.com/events/d-bloc",
-    "date": "2026-07-26T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "JUST A BAR"
     ],
     "link": "https://noclasscle.com/events/just-a-bar-7-1-26-3ywfw-txfw3-w2n3w-6fbzd",
@@ -177,6 +169,22 @@
   },
   {
     "artist": [
+      "BLUTO"
+    ],
+    "link": "https://noclasscle.com/events/bluto",
+    "date": "2026-09-04T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "WESTSIDE TONY"
+    ],
+    "link": "https://noclasscle.com/events/westside-tony-ski-mask-malley",
+    "date": "2026-09-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "EYESAWGOD"
     ],
     "link": "https://noclasscle.com/events/eyesawgod",
@@ -197,6 +205,14 @@
     ],
     "link": "https://noclasscle.com/events/ovenhead-mutilatred",
     "date": "2026-10-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "10,000 RAMBOS"
+    ],
+    "link": "https://noclasscle.com/events/10000-rambos-order-of-the-dead",
+    "date": "2026-11-06T00:00:01",
     "venue": "No Class"
   }
 ]

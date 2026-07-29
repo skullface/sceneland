@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "artist": [
+      "g\u00fcdtaste presents: \u00fcnity: Cardio, C Star, Just AJ, Soud on Tape, Zihynx"
+    ],
+    "link": "https://secure.crobar1921.com/event/gdtaste-presents-nity",
+    "date": "2026-07-31T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Amita, Heather Leah, Ladonna, Joey Sardelle, Marc Lansley, Nicole Otero"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf94",
+    "date": "2026-08-01T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Sampled: Harry Romero, Mark Farina, DJ Heather, Chuck Daniels, Delish b2b Andre Leone"
+    ],
+    "link": "https://secure.crobar1921.com/event/sampled-",
+    "date": "2026-08-08T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Mike Agent X Clark: Neil Chastain, A-Lve, Forrest Getemgump, Stout XTC, Chris Pulse, Golden Marmoset, The Baraness, Lolo Knows"
+    ],
+    "link": "https://secure.crobar1921.com/event/mike-clark",
+    "date": "2026-08-14T00:00:01",
+    "venue": "Crobar"
+  }
+]

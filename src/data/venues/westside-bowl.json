@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Chirp, Zoo Trippin\u2019"
-    ],
-    "link": "https://www.eventbrite.com/e/chirpzoo-trippin-tickets-1992397552714",
-    "date": "2026-07-29T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Yell At God, The House Of Wills, Indig0Forest"
-    ],
-    "link": "https://www.eventbrite.com/e/yell-at-godthe-house-of-willsindig0forest-tickets-1988872283539",
-    "date": "2026-07-30T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "The Labra Brothers, Kid Mammoth"
     ],
     "link": "https://www.eventbrite.com/e/the-labra-brotherskid-mammoth-tickets-1990574798808",
@@ -140,6 +124,14 @@
       "Black Wolf & The Thief, Mayonnaise, Razed By Robots"
     ],
     "link": "https://www.eventbrite.com/e/black-wolf-the-thiefmayonnaiserazed-by-robots-tickets-1994749433252",
+    "date": "2026-08-21T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "SPH+2"
+    ],
+    "link": "https://www.eventbrite.com/e/sph2-tickets-1996108300661",
     "date": "2026-08-21T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -309,6 +301,14 @@
     ],
     "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
     "date": "2026-09-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Cryptlord, Misanthropic Tendencies, Feast of The Fallen"
+    ],
+    "link": "https://www.eventbrite.com/e/cryptlordmisanthropic-tendenciesfeast-of-the-fallen-tickets-1996115353757",
+    "date": "2026-09-21T00:00:01",
     "venue": "Westside Bowl"
   },
   {

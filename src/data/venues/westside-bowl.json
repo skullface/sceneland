@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Labra Brothers, Kid Mammoth"
-    ],
-    "link": "https://www.eventbrite.com/e/the-labra-brotherskid-mammoth-tickets-1990574798808",
-    "date": "2026-07-31T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Civic Summer, Awkward Souls"
     ],
     "link": "https://www.eventbrite.com/e/civic-summerawkward-souls-tickets-1995040111679",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
     "date": "2026-11-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Ragged Union, Hunter Skeens And The Forerunners"
+    ],
+    "link": "https://www.eventbrite.com/e/ragged-unionhunter-skeens-and-the-forerunners-tickets-1992652604581",
+    "date": "2026-11-19T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

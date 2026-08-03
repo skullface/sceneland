@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Wailin Storms, Temple Witch, Supercorrupter"
-    ],
-    "link": "https://www.eventbrite.com/e/wailin-stormstemple-witchsupercorrupter-tickets-1991739069172",
-    "date": "2026-08-02T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "The Bunny The Bear, Definitive Strike, DayDreamer"
     ],
     "link": "https://www.eventbrite.com/e/the-bunny-the-beardefinitive-strikedaydreamer-tickets-1991708480681",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/boogie-man-smashdeli-bandits-tickets-1995038489828",
     "date": "2026-11-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Groovy Roots, Colour Phase, Sproot"
+    ],
+    "link": "https://www.eventbrite.com/e/the-groovy-rootscolour-phasesproot-tickets-1993018983430",
+    "date": "2026-12-04T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

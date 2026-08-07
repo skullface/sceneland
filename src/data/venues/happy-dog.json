@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Public Acid, Invertebrates, Yambag, Rawheads"
-    ],
-    "link": "https://app.opendate.io/e/public-acid-invertebrates-yambag-rawheads-august-06-2026-716014",
-    "date": "2026-08-06T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Karaoke Night w/ Terkalerk!"
     ],
     "link": "https://app.opendate.io/e/karaoke-night-w-terkalerk-august-07-2026-716018",
@@ -41,9 +33,9 @@
   },
   {
     "artist": [
-      "The Carp Record Release w/ American Muscle, Yambag, Vital Stress"
+      "The Carp Record Release w/ Yambag, Vital Stress"
     ],
-    "link": "https://app.opendate.io/e/the-carp-record-release-w-american-muscle-yambag-vital-stress-august-13-2026-729024",
+    "link": "https://app.opendate.io/e/the-carp-record-release-w-yambag-vital-stress-august-13-2026-729024",
     "date": "2026-08-13T00:00:01",
     "venue": "Happy Dog"
   },
@@ -125,6 +117,14 @@
     ],
     "link": "https://app.opendate.io/e/grouch-smile-yambag-the-hell-august-29-2026-719649",
     "date": "2026-08-29T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Victim in Pain, Kill the Hippies, Simple Human, Gruntus"
+    ],
+    "link": "https://app.opendate.io/e/victim-in-pain-kill-the-hippies-simple-human-gruntus-september-06-2026-736999",
+    "date": "2026-09-06T00:00:01",
     "venue": "Happy Dog"
   },
   {

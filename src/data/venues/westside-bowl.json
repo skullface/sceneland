@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Bunny The Bear, Definitive Strike, DayDreamer"
-    ],
-    "link": "https://www.eventbrite.com/e/the-bunny-the-beardefinitive-strikedaydreamer-tickets-1991708480681",
-    "date": "2026-08-06T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Temple Witch, Blood Rune Sigil, Sonic Smut, Wake Magnolia"
     ],
     "link": "https://www.eventbrite.com/e/temple-witchblood-rune-sigilsonic-smutwake-magnolia-tickets-1985546594313",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-groovy-rootscolour-phasesproot-tickets-1993018983430",
     "date": "2026-12-04T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Post Holiday, Liam Brock, ONGFACE"
+    ],
+    "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
+    "date": "2026-12-18T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

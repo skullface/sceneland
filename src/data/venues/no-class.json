@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ALASKA-303"
-    ],
-    "link": "https://noclasscle.com/events/alaska-303",
-    "date": "2026-08-06T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "LEPTOSPIRA"
     ],
     "link": "https://noclasscle.com/events/leptospira",
@@ -37,6 +29,14 @@
     ],
     "link": "https://noclasscle.com/events/berghaint-8-15-26",
     "date": "2026-08-15T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "VINTERGRAV"
+    ],
+    "link": "https://noclasscle.com/events/VINTERGRAV",
+    "date": "2026-08-19T00:00:01",
     "venue": "No Class"
   },
   {
@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "BOSKO BAKER"
+    ],
+    "link": "https://noclasscle.com/events/bosco-baker",
+    "date": "2026-09-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "ACID WITCH"
     ],
     "link": "https://noclasscle.com/events/acid-witch",
@@ -145,10 +153,34 @@
   },
   {
     "artist": [
+      "COGNITIVE"
+    ],
+    "link": "https://noclasscle.com/events/COGNITIVE",
+    "date": "2026-09-10T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "WESTSIDE TONY"
     ],
     "link": "https://noclasscle.com/events/westside-tony-ski-mask-malley",
     "date": "2026-09-11T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BRAM STROKE-HER'S TRANSOHIO BENEFIT SHOW"
+    ],
+    "link": "https://noclasscle.com/events/bram-stroke-hers-transohio-benefit-show",
+    "date": "2026-09-13T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-9-20-26",
+    "date": "2026-09-20T00:00:01",
     "venue": "No Class"
   },
   {
@@ -169,10 +201,26 @@
   },
   {
     "artist": [
+      "SPY"
+    ],
+    "link": "https://noclasscle.com/events/spy-empty-shell-casing",
+    "date": "2026-10-21T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "OVENHEAD"
     ],
     "link": "https://noclasscle.com/events/ovenhead-mutilatred",
     "date": "2026-10-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "AMERICAN WEREWOLVES HALLOWEEN SHOW"
+    ],
+    "link": "https://noclasscle.com/events/american-werewolves-halloween-2026",
+    "date": "2026-10-31T00:00:01",
     "venue": "No Class"
   },
   {

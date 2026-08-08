@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Temple Witch, Blood Rune Sigil, Sonic Smut, Wake Magnolia"
-    ],
-    "link": "https://www.eventbrite.com/e/temple-witchblood-rune-sigilsonic-smutwake-magnolia-tickets-1985546594313",
-    "date": "2026-08-07T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Monsters of the Week, Bombchele & The Bangs, Dereos Roads"
     ],
     "link": "https://www.eventbrite.com/e/monsters-of-the-weekbombchele-the-bangsdereos-roads-tickets-1989148784561",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
     "date": "2026-12-18T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Phelocipastor, Harlem Hayfield, O Odious Ones"
+    ],
+    "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
+    "date": "2026-01-16T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

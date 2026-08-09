@@ -33,10 +33,10 @@
   },
   {
     "artist": [
-      "VINTERGRAV"
+      "BUZZED NIGHT"
     ],
-    "link": "https://noclasscle.com/events/VINTERGRAV",
-    "date": "2026-08-19T00:00:01",
+    "link": "https://noclasscle.com/events/buzzed-night",
+    "date": "2026-08-16T00:00:01",
     "venue": "No Class"
   },
   {
@@ -177,10 +177,34 @@
   },
   {
     "artist": [
+      "FUNERAL PROPOSALS"
+    ],
+    "link": "https://noclasscle.com/events/funeral-proposals",
+    "date": "2026-09-18T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "DEAD HEART"
+    ],
+    "link": "https://noclasscle.com/events/dead-heart",
+    "date": "2026-09-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SAPPHIC SOCIAL"
     ],
     "link": "https://noclasscle.com/events/sapphic-social-9-20-26",
     "date": "2026-09-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FULL BUSH"
+    ],
+    "link": "https://noclasscle.com/events/full-bush",
+    "date": "2026-09-21T00:00:01",
     "venue": "No Class"
   },
   {

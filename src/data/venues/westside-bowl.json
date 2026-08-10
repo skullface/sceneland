@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Friendship Commanders, CROP, rebreather"
-    ],
-    "link": "https://www.eventbrite.com/e/friendship-commanderscroprebreather-tickets-1991276406335",
-    "date": "2026-08-09T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Make Ourselves: A Tribute to Incubus"
     ],
     "link": "https://www.eventbrite.com/e/make-ourselves-a-tribute-to-incubus-tickets-1987028516783",
@@ -169,9 +161,9 @@
   },
   {
     "artist": [
-      "Shiner, Bursting"
+      "Shiner, Bursting, Hilo"
     ],
-    "link": "https://www.eventbrite.com/e/shinerbursting-tickets-1991845678042",
+    "link": "https://www.eventbrite.com/e/shinerburstinghilo-tickets-1991845678042",
     "date": "2026-09-07T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -197,6 +189,14 @@
     ],
     "link": "https://www.eventbrite.com/e/voidphantomstar-viper-tickets-1992459169010",
     "date": "2026-09-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Sunday Funnies! Live Standup Comedy"
+    ],
+    "link": "https://www.eventbrite.com/e/sunday-funnies-live-standup-comedy-tickets-1997339180255",
+    "date": "2026-09-13T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -237,6 +237,14 @@
     ],
     "link": "https://www.eventbrite.com/e/unky-bonesbrake-fluidzoloftsockdolager-tickets-1987577351362",
     "date": "2026-09-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Carnage The Executioner, Dirty Needles, Device Trax , Dolo Godbody"
+    ],
+    "link": "https://www.eventbrite.com/e/carnage-the-executionerdirty-needlesdevice-trax-dolo-godbody-tickets-1997358559218",
+    "date": "2026-09-20T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -285,6 +293,22 @@
     ],
     "link": "https://www.eventbrite.com/e/emo-ween-2026-tickets-1992718563867",
     "date": "2026-10-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "KG & The Drive, Angela Perley"
+    ],
+    "link": "https://www.eventbrite.com/e/kg-the-driveangela-perley-tickets-1997339532308",
+    "date": "2026-10-22T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Shame Chamber, Funeral Proposals, Jack & The Cadavers, Lou Mercy"
+    ],
+    "link": "https://www.eventbrite.com/e/shame-chamberfuneral-proposalsjack-the-cadaverslou-mercy-tickets-1997387996265",
+    "date": "2026-10-23T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -373,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
     "date": "2026-12-18T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Phelocipastor, Harlem Hayfield, O Odious Ones"
-    ],
-    "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
-    "date": "2026-01-16T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

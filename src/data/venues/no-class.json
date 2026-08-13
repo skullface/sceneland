@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "TORSO MAN"
-    ],
-    "link": "https://noclasscle.com/events/torso-man",
-    "date": "2026-08-11T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "MADONNA MANIA"
     ],
     "link": "https://noclasscle.com/events/madonna-mania",
@@ -169,6 +161,14 @@
   },
   {
     "artist": [
+      "NIGHT OF 1,000 CLOWNS"
+    ],
+    "link": "https://noclasscle.com/events/night-of-1000-clowns-marquis-gaylord",
+    "date": "2026-09-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "FUNERAL PROPOSALS"
     ],
     "link": "https://noclasscle.com/events/funeral-proposals",
@@ -209,6 +209,14 @@
   },
   {
     "artist": [
+      "XASTHUR"
+    ],
+    "link": "https://noclasscle.com/events/xasthur",
+    "date": "2026-09-25T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "INSOMNIAC"
     ],
     "link": "https://noclasscle.com/events/insomniac",
@@ -245,6 +253,14 @@
     ],
     "link": "https://noclasscle.com/events/10000-rambos-order-of-the-dead",
     "date": "2026-11-06T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "EXHUMED"
+    ],
+    "link": "https://noclasscle.com/events/exhumed-jarhead-fertilizer-savage-master-molder",
+    "date": "2026-11-23T00:00:01",
     "venue": "No Class"
   }
 ]

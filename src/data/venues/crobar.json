@@ -1,18 +1,26 @@
 [
   {
     "artist": [
-      "Mike Agent X Clark: Neil Chastain, A-Live, Forrest Getemgump, Stout XTC, Chris Pulse, Golden Marmoset, The Baraness, Lolo Knows"
-    ],
-    "link": "https://secure.crobar1921.com/event/mike-clark",
-    "date": "2027-08-14T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "Eli Escobar- 12 Hour Party: Delish, Gerad G, innergroove, Joey Sardelle, Retired Athletes"
     ],
     "link": "https://secure.crobar1921.com/event/eli-escobar--12-hour-party",
     "date": "2026-08-22T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Phase:Zero: Wax Assassin, Marc Lansley, Side Part, Phase:Zero Residents, Undertow"
+    ],
+    "link": "https://secure.crobar1921.com/event/phasezero",
+    "date": "2026-08-28T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Kierman Laveaux, Hot Take, Kevin Bumpers, Le Mew, Angelgirl EVA, Joey Sardelle"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf51",
+    "date": "2026-08-29T00:00:01",
     "venue": "Crobar"
   }
 ]

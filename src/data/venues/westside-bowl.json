@@ -41,6 +41,14 @@
   },
   {
     "artist": [
+      "330 Leo Show"
+    ],
+    "link": "https://www.eventbrite.com/e/330-leo-show-tickets-1998083822500",
+    "date": "2026-08-22T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Wings & Wine Tasting"
     ],
     "link": "https://www.eventbrite.com/e/wings-wine-tasting-tickets-1993487980212",
@@ -345,6 +353,14 @@
   },
   {
     "artist": [
+      "Fall and Fading, Living Parallel, Plinko"
+    ],
+    "link": "https://www.eventbrite.com/e/fall-and-fadingliving-parallelplinko-tickets-1998094809362",
+    "date": "2026-11-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Ragged Union, Hunter Skeens And The Forerunners"
     ],
     "link": "https://www.eventbrite.com/e/ragged-unionhunter-skeens-and-the-forerunners-tickets-1992652604581",
@@ -381,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
     "date": "2026-12-18T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Phelocipastor, Harlem Hayfield, O Odious Ones"
-    ],
-    "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
-    "date": "2026-01-16T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Jane Hobson, Plum Shed, White Flag Over Providence, Sugardeer"
-    ],
-    "link": "https://app.opendate.io/e/jane-hobson-plum-shed-white-flag-over-providence-sugardeer-august-18-2026-719150",
-    "date": "2026-08-18T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Signal Cle presents: Classical Revolution!"
     ],
     "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-august-19-2026-719152",
@@ -137,10 +129,42 @@
   },
   {
     "artist": [
+      "Muzzle, Private Prisons, Attaxia, Kamasutra"
+    ],
+    "link": "https://app.opendate.io/e/muzzle-private-prisons-attaxia-kamasutra-september-25-2026-743950",
+    "date": "2026-09-25T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Placid State EP release w/ Wage Cage, Gruntus, Whippet"
+    ],
+    "link": "https://app.opendate.io/e/placid-state-ep-release-w-wage-cage-gruntus-whippet-september-26-2026-743952",
+    "date": "2026-09-26T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-october-07-2026-743955",
+    "date": "2026-10-07T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Herzog, Dreadful Yawns, Awesome*Quest"
     ],
     "link": "https://app.opendate.io/e/herzog-dreadful-yawns-awesome-quest-october-09-2026-727142",
     "date": "2026-10-09T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Solon, Wish Queen, Charity Cunningham"
+    ],
+    "link": "https://app.opendate.io/e/solon-wish-queen-charity-cunningham-october-23-2026-743954",
+    "date": "2026-10-23T00:00:01",
     "venue": "Happy Dog"
   }
 ]

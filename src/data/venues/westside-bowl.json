@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rae the Band, Rylee Bapst Band"
-    ],
-    "link": "https://www.eventbrite.com/e/rae-the-bandrylee-bapst-band-tickets-1988212816054",
-    "date": "2026-08-19T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "The Spine Stealers, Duo Decibel System, Jupiter 2"
     ],
     "link": "https://www.eventbrite.com/e/the-spine-stealersduo-decibel-systemjupiter-2-tickets-1994629468434",
@@ -145,6 +137,14 @@
   },
   {
     "artist": [
+      "Lee Ross"
+    ],
+    "link": "https://www.eventbrite.com/e/lee-ross-tickets-1998392525840",
+    "date": "2026-09-08T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Squid Pisser, DAGGRS, BODY FARM"
     ],
     "link": "https://www.eventbrite.com/e/squid-pisserdaggrsbody-farm-tickets-1990817357307",
@@ -273,6 +273,14 @@
   },
   {
     "artist": [
+      "Fathom, The Tarnished, Taken Lives"
+    ],
+    "link": "https://www.eventbrite.com/e/fathomthe-tarnishedtaken-lives-tickets-1998392256033",
+    "date": "2026-10-16T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Emo-Ween 2026"
     ],
     "link": "https://www.eventbrite.com/e/emo-ween-2026-tickets-1992718563867",
@@ -389,14 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/the-groovy-rootscolour-phasesproot-tickets-1993018983430",
     "date": "2026-12-04T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Post Holiday, Liam Brock, ONGFACE"
-    ],
-    "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
-    "date": "2026-12-18T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

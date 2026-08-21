@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Roast Battle Cleveland - Thursday Night Showdown!"
-    ],
-    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-august-20-2026-719153",
-    "date": "2026-08-20T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Plum, MRKT, The Magnavox's, Brood X"
     ],
     "link": "https://app.opendate.io/e/plum-mrkt-the-magnavox-s-brood-x-august-21-2026-727140",
@@ -61,6 +53,14 @@
     ],
     "link": "https://app.opendate.io/e/total-downer-record-release-w-the-sonder-bombs-september-04-2026-743204",
     "date": "2026-09-04T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Undercurrent - House, Techno, Electro - in the Underdog w/ DJ Lovesick, Buffy DJ"
+    ],
+    "link": "https://app.opendate.io/e/undercurrent-house-techno-electro-in-the-underdog-w-dj-lovesick-buffy-dj-september-05-2026-744798",
+    "date": "2026-09-05T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -121,6 +121,14 @@
   },
   {
     "artist": [
+      "Liz Hogg, Jamie Berland, Rowland Taylor - in the Underdog"
+    ],
+    "link": "https://app.opendate.io/e/liz-hogg-jamie-berland-rowland-taylor-in-the-underdog-september-21-2026-744801",
+    "date": "2026-09-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Muzzle, Private Prisons, Attaxia, Kamasutra"
     ],
     "link": "https://app.opendate.io/e/muzzle-private-prisons-attaxia-kamasutra-september-25-2026-743950",
@@ -149,6 +157,22 @@
     ],
     "link": "https://app.opendate.io/e/herzog-dreadful-yawns-awesome-quest-october-09-2026-727142",
     "date": "2026-10-09T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Liquor Store, Tin Foil, Private Jets, Dick Golden and the Rock n Roll Experience"
+    ],
+    "link": "https://app.opendate.io/e/liquor-store-tin-foil-private-jets-dick-golden-and-the-rock-n-roll-experience-october-16-2026-744803",
+    "date": "2026-10-16T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Napsack record release w/ Natural Sway, Zach Angeloni Band"
+    ],
+    "link": "https://app.opendate.io/e/napsack-record-release-w-natural-sway-zach-angeloni-band-october-17-2026-745046",
+    "date": "2026-10-17T00:00:01",
     "venue": "Happy Dog"
   },
   {

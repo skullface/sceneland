@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Spine Stealers, Duo Decibel System, Jupiter 2"
-    ],
-    "link": "https://www.eventbrite.com/e/the-spine-stealersduo-decibel-systemjupiter-2-tickets-1994629468434",
-    "date": "2026-08-20T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Black Wolf & The Thief, Mayonnaise, Razed By Robots"
     ],
     "link": "https://www.eventbrite.com/e/black-wolf-the-thiefmayonnaiserazed-by-robots-tickets-1994749433252",
@@ -397,6 +389,14 @@
     ],
     "link": "https://www.eventbrite.com/e/the-groovy-rootscolour-phasesproot-tickets-1993018983430",
     "date": "2026-12-04T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Post Holiday, Liam Brock, ONGFACE"
+    ],
+    "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
+    "date": "2026-12-18T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

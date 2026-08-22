@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Black Wolf & The Thief, Mayonnaise, Razed By Robots"
-    ],
-    "link": "https://www.eventbrite.com/e/black-wolf-the-thiefmayonnaiserazed-by-robots-tickets-1994749433252",
-    "date": "2026-08-21T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "SPH+2"
-    ],
-    "link": "https://www.eventbrite.com/e/sph2-tickets-1996108300661",
-    "date": "2026-08-21T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Fyath, \u00d8utlier, Singled Out"
     ],
     "link": "https://www.eventbrite.com/e/fyathutliersingled-out-tickets-1990571867039",
@@ -397,6 +381,14 @@
     ],
     "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
     "date": "2026-12-18T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Phelocipastor, Harlem Hayfield, O Odious Ones"
+    ],
+    "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
+    "date": "2026-01-16T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

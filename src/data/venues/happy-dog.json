@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "EMB Booking Presents: The Office Drones, Idiot Kargo, Hooks for Feet"
-    ],
-    "link": "https://app.opendate.io/e/emb-booking-presents-the-office-drones-idiot-kargo-hooks-for-feet-august-27-2026-729773",
-    "date": "2026-08-27T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Two Mile Moon Anniversary Show w/ False Teeth, Pro Skater, Cherry Yachtsman"
     ],
     "link": "https://app.opendate.io/e/two-mile-moon-anniversary-show-w-false-teeth-pro-skater-cherry-yachtsman-august-28-2026-717345",
@@ -97,6 +89,14 @@
   },
   {
     "artist": [
+      "Food Not Bombs Karaoke Benefit!"
+    ],
+    "link": "https://app.opendate.io/e/food-not-bombs-karaoke-benefit-september-18-2026-746677",
+    "date": "2026-09-18T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "White Flag Over Providence, False Teeth, Inpatient, Saturdazed"
     ],
     "link": "https://app.opendate.io/e/white-flag-over-providence-false-teeth-inpatient-saturdazed-september-19-2026-716950",
@@ -169,10 +169,26 @@
   },
   {
     "artist": [
+      "Signal Cle presents: Classical Revolution!"
+    ],
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-october-21-2026-746674",
+    "date": "2026-10-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Solon, Wish Queen, Charity Cunningham"
     ],
     "link": "https://app.opendate.io/e/solon-wish-queen-charity-cunningham-october-23-2026-743954",
     "date": "2026-10-23T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Cairgo Jag, Club USA, Inpatient (EP release), The Magnavox's"
+    ],
+    "link": "https://app.opendate.io/e/cairgo-jag-club-usa-inpatient-ep-release-the-magnavox-s-november-07-2026-746684",
+    "date": "2026-11-07T00:00:01",
     "venue": "Happy Dog"
   }
 ]

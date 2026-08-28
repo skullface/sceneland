@@ -4,7 +4,7 @@
       "Phase:Zero: Wax Assassin, Marc Lansley, Side Part, Phase:Zero Residents, Undertow"
     ],
     "link": "https://secure.crobar1921.com/event/phasezero",
-    "date": "2026-08-28T00:00:01",
+    "date": "2027-08-28T00:00:01",
     "venue": "Crobar"
   },
   {
@@ -25,10 +25,10 @@
   },
   {
     "artist": [
-      "Villem: Alpha Rhythm, KC, \ufeffRob Riddum, JonDoeTho1"
+      "Physical Therapy: Hush, Gerad G"
     ],
-    "link": "https://secure.crobar1921.com/event/villem",
-    "date": "2026-10-16T00:00:01",
+    "link": "https://secure.crobar1921.com/event/physical-therapy",
+    "date": "2026-09-05T00:00:01",
     "venue": "Crobar"
   },
   {
@@ -37,6 +37,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/so-long-summer",
     "date": "2026-09-19T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Villem: Alpha Rhythm, KC, \ufeffRob Riddum, JonDoeTho1"
+    ],
+    "link": "https://secure.crobar1921.com/event/villem",
+    "date": "2026-10-16T00:00:01",
     "venue": "Crobar"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "ODDITORIUM"
-    ],
-    "link": "https://noclasscle.com/events/odditorium-tiddy-takedown",
-    "date": "2026-08-28T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CARDIAC ARREST"
     ],
     "link": "https://noclasscle.com/events/cardiac-arrest-vile-light",
@@ -45,6 +37,30 @@
     ],
     "link": "https://noclasscle.com/events/bluto",
     "date": "2026-09-04T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "NAMEJAI"
+    ],
+    "link": "https://noclasscle.com/events/namejai",
+    "date": "2026-09-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ROCK & ROLL LOVE MACHINE"
+    ],
+    "link": "https://noclasscle.com/events/rock-roll-love-machine-9-6-26",
+    "date": "2026-09-06T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CLOUDY WITH A CHANCE ..."
+    ],
+    "link": "https://noclasscle.com/events/cloudy-spelling-bee",
+    "date": "2026-09-07T00:00:01",
     "venue": "No Class"
   },
   {
@@ -125,6 +141,30 @@
     ],
     "link": "https://noclasscle.com/events/xasthur",
     "date": "2026-09-25T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CARTOON NIGHT: POWERPUFF GIRLS"
+    ],
+    "link": "https://noclasscle.com/events/cartoon-night-powerpuff-girls",
+    "date": "2026-09-26T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MARQUIS GAYLORD'S ODDITORIUM W/ SIGOURNEY BEAVER"
+    ],
+    "link": "https://noclasscle.com/events/marquis-gaylords-odditorium-sigourney-beaver",
+    "date": "2026-10-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HEAVY TEMPLE"
+    ],
+    "link": "https://noclasscle.com/events/heavy-temple",
+    "date": "2026-10-07T00:00:01",
     "venue": "No Class"
   },
   {

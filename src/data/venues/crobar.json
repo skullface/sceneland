@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "artist": [
+      "Phase:Zero: Wax Assassin, Marc Lansley, Side Part, Phase:Zero Residents, Undertow"
+    ],
+    "link": "https://secure.crobar1921.com/event/phasezero",
+    "date": "2027-08-28T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: Kiernan Laveaux, Hot Take, Kevin Bumpers, Le Mew, Angelgirl EVA, Joey Sardelle"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf51",
+    "date": "2027-08-29T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "904L: Sound on Tape, Corey Grand, Cardio, Unknownphrazes, Mitch Mantra, Presque View"
+    ],
+    "link": "https://secure.crobar1921.com/event/904l",
+    "date": "2026-09-04T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Physical Therapy: Hush, Gerad G"
+    ],
+    "link": "https://secure.crobar1921.com/event/physical-therapy",
+    "date": "2026-09-05T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "So Long Summer!!: Last Gasp (final show!), RADDERALL, Atomic Witch, Blue Yuma, Bumpstock, Burning Fight, Kwas-E, Lavender Jets, Muamin Collective, Peach Curls, RST, Secret Handshake, Skuff Micksun, Stabmatics, Ugly & Damaged"
+    ],
+    "link": "https://secure.crobar1921.com/event/so-long-summer",
+    "date": "2026-09-19T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Villem: Alpha Rhythm, KC, \ufeffRob Riddum, JonDoeTho1"
+    ],
+    "link": "https://secure.crobar1921.com/event/villem",
+    "date": "2026-10-16T00:00:01",
+    "venue": "Crobar"
+  }
+]

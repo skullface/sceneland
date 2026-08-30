@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Legendary Hucklebucks, Whiskey Daredevils, The Yeggs"
-    ],
-    "link": "https://www.eventbrite.com/e/the-legendary-hucklebuckswhiskey-daredevilsthe-yeggs-tickets-1993495768507",
-    "date": "2026-08-29T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Reverend Horton Heat, Messer Chups"
     ],
     "link": "https://www.eventbrite.com/e/reverend-horton-heatmesser-chups-tickets-1981370763290",
@@ -317,6 +309,22 @@
     ],
     "link": "https://www.eventbrite.com/e/fall-and-fadingliving-parallelplinko-tickets-1998094809362",
     "date": "2026-11-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Standard Broadcast, Millvin and the Etnoids, Abstract Theory, Kristy Davenport"
+    ],
+    "link": "https://www.eventbrite.com/e/standard-broadcastmillvin-and-the-etnoidsabstract-theorykristy-davenport-tickets-1999126034785",
+    "date": "2026-11-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Rock N\u2019 Bowl Benefit for Mahoning County CASA"
+    ],
+    "link": "https://www.eventbrite.com/e/rock-n-bowl-benefit-for-mahoning-county-casa-tickets-1999123964593",
+    "date": "2026-11-14T00:00:01",
     "venue": "Westside Bowl"
   },
   {

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "CARDIAC ARREST"
-    ],
-    "link": "https://noclasscle.com/events/cardiac-arrest-vile-light",
-    "date": "2026-08-29T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "PUTAGIRLON"
-    ],
-    "link": "https://noclasscle.com/events/putagirlon",
-    "date": "2026-08-30T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "BOSKO BAKER"
     ],
     "link": "https://noclasscle.com/events/bosco-baker",
@@ -149,6 +133,14 @@
     ],
     "link": "https://noclasscle.com/events/cartoon-night-powerpuff-girls",
     "date": "2026-09-26T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MATT PLESS"
+    ],
+    "link": "https://noclasscle.com/events/matt-pless",
+    "date": "2026-10-01T00:00:01",
     "venue": "No Class"
   },
   {

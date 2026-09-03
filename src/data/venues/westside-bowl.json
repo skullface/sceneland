@@ -121,6 +121,22 @@
   },
   {
     "artist": [
+      "Steel Horse Riders with LA, Tones"
+    ],
+    "link": "https://www.eventbrite.com/e/steel-horse-riders-with-latones-tickets-1999451258538",
+    "date": "2026-09-18T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "The Velvet Gentlemen, New Moons, Razed By Robots"
+    ],
+    "link": "https://www.eventbrite.com/e/the-velvet-gentlemennew-moonsrazed-by-robots-tickets-1999457531300",
+    "date": "2026-09-18T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Last  Train To Ozz, Edward Be Thy Name"
     ],
     "link": "https://www.eventbrite.com/e/last-train-to-ozzedward-be-thy-name-tickets-1998559478199",
@@ -161,6 +177,14 @@
   },
   {
     "artist": [
+      "Feral Company"
+    ],
+    "link": "https://www.eventbrite.com/e/feral-company-tickets-1999454536342",
+    "date": "2026-09-25T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Mutilatred, Mulciber, Cerebral Necrosis, Forged in Gore"
     ],
     "link": "https://www.eventbrite.com/e/mutilatredmulcibercerebral-necrosisforged-in-gore-tickets-1988884085840",
@@ -169,9 +193,25 @@
   },
   {
     "artist": [
-      "Obsolescence, Choke Out, Dissection of Spirit"
+      "La Noche Del Ritmo M.V.L.O. +  Dan Shiller En Vivo Desde Westside Bowl"
     ],
-    "link": "https://www.eventbrite.com/e/obsolescencechoke-outdissection-of-spirit-tickets-1997980496449",
+    "link": "https://www.eventbrite.com/e/la-noche-del-ritmo-mvlo-dan-shiller-en-vivo-desde-westside-bowl-tickets-1999432590702",
+    "date": "2026-09-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Lillie Gazer, Nick Adduci"
+    ],
+    "link": "https://www.eventbrite.com/e/lillie-gazernick-adduci-tickets-1999456227400",
+    "date": "2026-09-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Obsolescence, Choke Out, Orion\u2019s Sword"
+    ],
+    "link": "https://www.eventbrite.com/e/obsolescencechoke-outorions-sword-tickets-1997980496449",
     "date": "2026-10-01T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -357,22 +397,6 @@
     ],
     "link": "https://www.eventbrite.com/e/the-groovy-rootscolour-phasesproot-tickets-1993018983430",
     "date": "2026-12-04T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Post Holiday, Liam Brock, ONGFACE"
-    ],
-    "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
-    "date": "2026-12-18T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Phelocipastor, Harlem Hayfield, O Odious Ones"
-    ],
-    "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
-    "date": "2026-01-16T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

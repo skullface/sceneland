@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "The Obsessed, Radian, Black Moon Cult"
-    ],
-    "link": "https://www.eventbrite.com/e/the-obsessedradianblack-moon-cult-tickets-1991991011739",
-    "date": "2026-09-03T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Dire Wolf, Skyrail, Cowboy Princess Brigade"
     ],
     "link": "https://www.eventbrite.com/e/dire-wolfskyrailcowboy-princess-brigade-tickets-1994422918638",
@@ -173,14 +165,6 @@
     ],
     "link": "https://www.eventbrite.com/e/steve-austinramblin-ricky-tate-tickets-1998599650355",
     "date": "2026-09-23T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Feral Company"
-    ],
-    "link": "https://www.eventbrite.com/e/feral-company-tickets-1999454536342",
-    "date": "2026-09-25T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -397,6 +381,22 @@
     ],
     "link": "https://www.eventbrite.com/e/the-groovy-rootscolour-phasesproot-tickets-1993018983430",
     "date": "2026-12-04T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Post Holiday, Liam Brock, ONGFACE"
+    ],
+    "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
+    "date": "2026-12-18T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Phelocipastor, Harlem Hayfield, O Odious Ones"
+    ],
+    "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
+    "date": "2026-01-16T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

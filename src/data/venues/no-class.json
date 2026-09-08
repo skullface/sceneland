@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "NAMEJAI"
-    ],
-    "link": "https://noclasscle.com/events/namejai",
-    "date": "2026-09-05T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "ROCK & ROLL LOVE MACHINE"
-    ],
-    "link": "https://noclasscle.com/events/rock-roll-love-machine-9-6-26",
-    "date": "2026-09-06T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "CLOUDY WITH A CHANCE ..."
     ],
     "link": "https://noclasscle.com/events/cloudy-spelling-bee",
@@ -113,6 +97,22 @@
   },
   {
     "artist": [
+      "XCSB METAL DJ'S"
+    ],
+    "link": "https://noclasscle.com/events/xcsb-metal-djs",
+    "date": "2026-09-27T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "OCTOBER COCKTAIL MENU DROP"
+    ],
+    "link": "https://noclasscle.com/events/october-cocktail-menu-drop-2026",
+    "date": "2026-09-30T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "MATT PLESS"
     ],
     "link": "https://noclasscle.com/events/matt-pless",
@@ -125,6 +125,14 @@
     ],
     "link": "https://noclasscle.com/events/marquis-gaylords-odditorium-sigourney-beaver",
     "date": "2026-10-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CLE VS AKR RAP BATTLE"
+    ],
+    "link": "https://noclasscle.com/events/CLE VS AKR RAP BATTLE",
+    "date": "2026-10-03T00:00:01",
     "venue": "No Class"
   },
   {
@@ -145,6 +153,46 @@
   },
   {
     "artist": [
+      "MERCURY STARDUST BOOK SIGNING"
+    ],
+    "link": "https://noclasscle.com/events/mercury-stardust-book-signing",
+    "date": "2026-10-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HALLO WHOOP WHOOP WEDNESDAY"
+    ],
+    "link": "https://noclasscle.com/events/hallo-whoop-whoop-wednesday",
+    "date": "2026-10-14T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FIND YOUR BOO! SINGLES NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/find-your-boo-singles-night-77skb",
+    "date": "2026-10-15T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "PLAGUEWIELDER"
+    ],
+    "link": "https://noclasscle.com/events/plaguewielder-10-16-26",
+    "date": "2026-10-16T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SAPPHIC SOCIAL - HALLOWEEN EDITION"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-halloween",
+    "date": "2026-10-18T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SPY"
     ],
     "link": "https://noclasscle.com/events/spy-empty-shell-casing",
@@ -153,10 +201,26 @@
   },
   {
     "artist": [
+      "SOUP POTLUCK"
+    ],
+    "link": "https://noclasscle.com/events/soup-potluck-4",
+    "date": "2026-10-22T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "OVENHEAD"
     ],
     "link": "https://noclasscle.com/events/ovenhead-mutilatred",
     "date": "2026-10-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HIGH TOLERANCE"
+    ],
+    "link": "https://noclasscle.com/events/high-tolerance-halloween-2",
+    "date": "2026-10-30T00:00:01",
     "venue": "No Class"
   },
   {

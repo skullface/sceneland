@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Squid Pisser, DAGGRS, BODY FARM"
-    ],
-    "link": "https://www.eventbrite.com/e/squid-pisserdaggrsbody-farm-tickets-1990817357307",
-    "date": "2026-09-09T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Dopethrone, PLQ MRX, Avowal"
     ],
     "link": "https://www.eventbrite.com/e/dopethroneplq-mrxavowal-tickets-1986855092065",
@@ -329,6 +321,14 @@
   },
   {
     "artist": [
+      "Edward Be Thy Name, Hybrid Nation"
+    ],
+    "link": "https://www.eventbrite.com/e/edward-be-thy-namehybrid-nation-tickets-2000262638397",
+    "date": "2026-11-20T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Youngstown Skatepark Association Benefit Concert"
     ],
     "link": "https://www.eventbrite.com/e/youngstown-skatepark-association-benefit-concert-tickets-1998999484269",
@@ -337,9 +337,9 @@
   },
   {
     "artist": [
-      "Boogie Man Smash, Deli Bandits"
+      "Boogie Man Smash, Deli Bandits, The Frampton Brothers"
     ],
-    "link": "https://www.eventbrite.com/e/boogie-man-smashdeli-bandits-tickets-1995038489828",
+    "link": "https://www.eventbrite.com/e/boogie-man-smashdeli-banditsthe-frampton-brothers-tickets-1995038489828",
     "date": "2026-11-28T00:00:01",
     "venue": "Westside Bowl"
   },

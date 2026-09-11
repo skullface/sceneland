@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CLOUDY WITH A CHANCE ..."
-    ],
-    "link": "https://noclasscle.com/events/cloudy-spelling-bee",
-    "date": "2026-09-07T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "COGNITIVE"
     ],
     "link": "https://noclasscle.com/events/COGNITIVE",
@@ -185,6 +177,14 @@
   },
   {
     "artist": [
+      "SWEET GLOOM"
+    ],
+    "link": "https://noclasscle.com/events/sweet-gloom",
+    "date": "2026-10-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SAPPHIC SOCIAL - HALLOWEEN EDITION"
     ],
     "link": "https://noclasscle.com/events/sapphic-social-halloween",
@@ -209,10 +209,26 @@
   },
   {
     "artist": [
+      "BERGHAIN'T"
+    ],
+    "link": "https://noclasscle.com/events/berghaint-10-23-26",
+    "date": "2026-10-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "OVENHEAD"
     ],
     "link": "https://noclasscle.com/events/ovenhead-mutilatred",
     "date": "2026-10-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "DON'T TOUCH ME, I'M FAMOUS"
+    ],
+    "link": "https://noclasscle.com/events/dont-touch-me-im-famous-samantha-echo",
+    "date": "2026-10-29T00:00:01",
     "venue": "No Class"
   },
   {

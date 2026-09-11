@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Dopethrone, PLQ MRX, Avowal"
-    ],
-    "link": "https://www.eventbrite.com/e/dopethroneplq-mrxavowal-tickets-1986855092065",
-    "date": "2026-09-10T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Humbles County, Mount Pom, Ke\u2019Von Gordon Band"
     ],
     "link": "https://www.eventbrite.com/e/humbles-countymount-pomkevon-gordon-band-tickets-1999000502314",
@@ -241,6 +233,14 @@
   },
   {
     "artist": [
+      "Rolling Boxcar International & Friends Present: Wilco\u2019s Being There"
+    ],
+    "link": "https://www.eventbrite.com/e/rolling-boxcar-international-friends-present-wilcos-being-there-tickets-2000521594943",
+    "date": "2026-10-30T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Curse of the Musical Dead"
     ],
     "link": "https://www.eventbrite.com/e/curse-of-the-musical-dead-tickets-1992706549933",
@@ -297,9 +297,9 @@
   },
   {
     "artist": [
-      "The Clarks"
+      "The Clarks, Bad Hooks"
     ],
-    "link": "https://www.eventbrite.com/e/the-clarks-tickets-1998392727443",
+    "link": "https://www.eventbrite.com/e/the-clarksbad-hooks-tickets-1998392727443",
     "date": "2026-11-13T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -309,6 +309,14 @@
     ],
     "link": "https://www.eventbrite.com/e/rock-n-bowl-benefit-for-mahoning-county-casa-tickets-1999123964593",
     "date": "2026-11-14T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "In The Company of Serpents, Arassus"
+    ],
+    "link": "https://www.eventbrite.com/e/in-the-company-of-serpentsarassus-tickets-2000061751539",
+    "date": "2026-11-19T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -333,6 +341,14 @@
     ],
     "link": "https://www.eventbrite.com/e/youngstown-skatepark-association-benefit-concert-tickets-1998999484269",
     "date": "2026-11-21T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Candace Campana, Turbo Lovers, The Head Trips"
+    ],
+    "link": "https://www.eventbrite.com/e/candace-campanaturbo-loversthe-head-trips-tickets-2000521193743",
+    "date": "2026-11-25T00:00:01",
     "venue": "Westside Bowl"
   },
   {

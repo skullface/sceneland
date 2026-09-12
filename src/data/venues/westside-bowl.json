@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Humbles County, Mount Pom, Ke\u2019Von Gordon Band"
-    ],
-    "link": "https://www.eventbrite.com/e/humbles-countymount-pomkevon-gordon-band-tickets-1999000502314",
-    "date": "2026-09-11T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "VOID, Phantom, Star Viper"
     ],
     "link": "https://www.eventbrite.com/e/voidphantomstar-viper-tickets-1992459169010",
@@ -52,6 +44,14 @@
       "20 Watt Tombstone, Slow Wake, Megaton Communion"
     ],
     "link": "https://www.eventbrite.com/e/20-watt-tombstoneslow-wakemegaton-communion-tickets-1990889578322",
+    "date": "2026-09-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Emcee M.D., S.K.X. , Skull\u2019Rz Bane"
+    ],
+    "link": "https://www.eventbrite.com/e/emcee-mdskx-skullrz-bane-tickets-1997340046847",
     "date": "2026-09-17T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -381,6 +381,14 @@
     ],
     "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
     "date": "2026-01-16T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Double Take"
+    ],
+    "link": "https://www.eventbrite.com/e/double-take-tickets-2000656264744",
+    "date": "2026-02-27T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

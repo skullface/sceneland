@@ -1,30 +1,6 @@
 [
   {
     "artist": [
-      "Sunday Funnies! Live Standup Comedy"
-    ],
-    "link": "https://www.eventbrite.com/e/sunday-funnies-live-standup-comedy-tickets-1997339180255",
-    "date": "2026-09-13T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Come Out Fighting , No Vision, Cellophane Jane"
-    ],
-    "link": "https://www.eventbrite.com/e/come-out-fighting-no-visioncellophane-jane-tickets-1994630032120",
-    "date": "2026-09-13T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Potentia, Added Color, Mayzie"
-    ],
-    "link": "https://www.eventbrite.com/e/potentiaadded-colormayzie-tickets-1994871412094",
-    "date": "2026-09-13T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Empty Heaven, zoloft, Orca Station"
     ],
     "link": "https://www.eventbrite.com/e/empty-heavenzoloftorca-station-tickets-1994422767185",
@@ -133,6 +109,14 @@
     ],
     "link": "https://www.eventbrite.com/e/lillie-gazernick-adduci-tickets-1999456227400",
     "date": "2026-09-28T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Carrion Kids, 3 The Hardway, Missed Leg"
+    ],
+    "link": "https://www.eventbrite.com/e/carrion-kids3-the-hardwaymissed-leg-tickets-2000885580634",
+    "date": "2026-09-30T00:00:01",
     "venue": "Westside Bowl"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Empty Heaven, zoloft, Orca Station"
-    ],
-    "link": "https://www.eventbrite.com/e/empty-heavenzoloftorca-station-tickets-1994422767185",
-    "date": "2026-09-15T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "20 Watt Tombstone, Slow Wake, Megaton Communion"
     ],
     "link": "https://www.eventbrite.com/e/20-watt-tombstoneslow-wakemegaton-communion-tickets-1990889578322",
@@ -284,6 +276,14 @@
       "Rock N\u2019 Bowl Benefit for Mahoning County CASA"
     ],
     "link": "https://www.eventbrite.com/e/rock-n-bowl-benefit-for-mahoning-county-casa-tickets-1999123964593",
+    "date": "2026-11-14T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Rock And Bowl"
+    ],
+    "link": "https://www.eventbrite.com/e/rock-and-bowl-tickets-2001092583786",
     "date": "2026-11-14T00:00:01",
     "venue": "Westside Bowl"
   },

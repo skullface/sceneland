@@ -1,10 +1,10 @@
 [
   {
     "artist": [
-      "BRAM STROKE-HER'S TRANSOHIO BENEFIT SHOW"
+      "ENSIFERUM"
     ],
-    "link": "https://noclasscle.com/events/bram-stroke-hers-transohio-benefit-show",
-    "date": "2026-09-13T00:00:01",
+    "link": "https://noclasscle.com/events/ensiferum",
+    "date": "2026-09-16T00:00:01",
     "venue": "No Class"
   },
   {
@@ -121,6 +121,22 @@
   },
   {
     "artist": [
+      "HYPERPOP HALLOWEEN"
+    ],
+    "link": "https://noclasscle.com/events/hyperpop-halloween",
+    "date": "2026-10-09T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "FREE HALLOWEEN COVER SHOW"
+    ],
+    "link": "https://noclasscle.com/events/free-halloween-cover-show",
+    "date": "2026-10-10T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "INSOMNIAC"
     ],
     "link": "https://noclasscle.com/events/insomniac",
@@ -185,14 +201,6 @@
   },
   {
     "artist": [
-      "SOUP POTLUCK"
-    ],
-    "link": "https://noclasscle.com/events/soup-potluck-4",
-    "date": "2026-10-22T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "BERGHAIN'T"
     ],
     "link": "https://noclasscle.com/events/berghaint-10-23-26",
@@ -245,6 +253,14 @@
     ],
     "link": "https://noclasscle.com/events/exhumed-jarhead-fertilizer-savage-master-molder",
     "date": "2026-11-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SOUP POTLUCK"
+    ],
+    "link": "https://noclasscle.com/events/soup-potluck-4",
+    "date": "2026-11-30T00:00:01",
     "venue": "No Class"
   }
 ]

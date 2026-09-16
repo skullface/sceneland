@@ -1,7 +1,7 @@
 [
   {
     "artist": [
-      "Ashley Cooke"
+      "Ashley Cooke, Timmy McKeever"
     ],
     "link": "https://www.axs.com/events/1438454/ashley-cooke-tickets",
     "date": "2026-09-17T20:00:00",
@@ -89,7 +89,7 @@
   },
   {
     "artist": [
-      "Machine Girl, Deli Girls, Yesterdayneverhappened"
+      "Machine Girl, Sn\u00f5\u00f5per, Yesterdayneverhappened"
     ],
     "link": "https://www.axs.com/events/1509986/machine-girl-tickets",
     "date": "2026-10-24T20:00:00",
@@ -189,6 +189,14 @@
     ],
     "link": "https://www.axs.com/events/1514785/suicide-silence-tickets",
     "date": "2026-11-28T19:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "As I Lay Dying, Immortal Disfigurement"
+    ],
+    "link": "https://www.axs.com/events/1605519/as-i-lay-dying-tickets",
+    "date": "2027-02-25T20:00:00",
     "venue": "Globe Iron"
   },
   {

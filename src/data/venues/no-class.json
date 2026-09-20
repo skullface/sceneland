@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "FUNERAL PROPOSALS"
-    ],
-    "link": "https://noclasscle.com/events/funeral-proposals",
-    "date": "2026-09-18T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "DEAD HEART"
     ],
     "link": "https://noclasscle.com/events/dead-heart",
@@ -97,9 +89,17 @@
   },
   {
     "artist": [
-      "HEAVY TEMPLE"
+      "CLOUDY W/ A CHANCE"
     ],
-    "link": "https://noclasscle.com/events/heavy-temple",
+    "link": "https://noclasscle.com/events/cloudy-with-a-chance-death",
+    "date": "2026-10-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CRYSTAL SPIDERS"
+    ],
+    "link": "https://noclasscle.com/events/crystal-spiders-mean-green-moontemple",
     "date": "2026-10-07T00:00:01",
     "venue": "No Class"
   },
@@ -177,6 +177,14 @@
   },
   {
     "artist": [
+      "GOTTA SNATCH 'EM ALL"
+    ],
+    "link": "https://noclasscle.com/events/gotta-snatch-em-all-halloween-2026",
+    "date": "2026-10-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SPY"
     ],
     "link": "https://noclasscle.com/events/spy-empty-shell-casing",
@@ -197,6 +205,22 @@
     ],
     "link": "https://noclasscle.com/events/ovenhead-mutilatred",
     "date": "2026-10-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SPOOKEY RUBEN"
+    ],
+    "link": "https://noclasscle.com/events/spookey-ruben",
+    "date": "2026-10-25T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "XCSB HALLOWEEN SPOOKTACULAR"
+    ],
+    "link": "https://noclasscle.com/events/xcsb-halloween-spooktacular",
+    "date": "2026-10-28T00:00:01",
     "venue": "No Class"
   },
   {

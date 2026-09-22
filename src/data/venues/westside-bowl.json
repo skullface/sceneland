@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Cryptlord, Misanthropic Tendencies, Feast of The Fallen"
-    ],
-    "link": "https://www.eventbrite.com/e/cryptlordmisanthropic-tendenciesfeast-of-the-fallen-tickets-1996115353757",
-    "date": "2026-09-21T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Steve Austin, Ramblin\u2019 Ricky Tate"
     ],
     "link": "https://www.eventbrite.com/e/steve-austinramblin-ricky-tate-tickets-1998599650355",
@@ -89,6 +81,14 @@
   },
   {
     "artist": [
+      "Spider Baby, Moon Destroyer, HomiSui, Brake Fluid"
+    ],
+    "link": "https://www.eventbrite.com/e/spider-babymoon-destroyerhomisuibrake-fluid-tickets-2001808507132",
+    "date": "2026-10-16T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Fathom, The Tarnished, Taken Lives"
     ],
     "link": "https://www.eventbrite.com/e/fathomthe-tarnishedtaken-lives-tickets-1998392256033",
@@ -101,6 +101,14 @@
     ],
     "link": "https://www.eventbrite.com/e/emo-ween-2026-tickets-1992718563867",
     "date": "2026-10-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Silicon Death Ray, Temple Witch, Spitbite"
+    ],
+    "link": "https://www.eventbrite.com/e/silicon-death-raytemple-witchspitbite-tickets-2001808250364",
+    "date": "2026-10-18T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -161,6 +169,14 @@
   },
   {
     "artist": [
+      "Inoculous Album Release with Sea of Ghosts"
+    ],
+    "link": "https://www.eventbrite.com/e/inoculous-album-release-with-sea-of-ghosts-tickets-2001808342640",
+    "date": "2026-11-01T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Caution Bomb, Drifting Thing & The Future Ghosts"
     ],
     "link": "https://www.eventbrite.com/e/caution-bombdrifting-thing-the-future-ghosts-tickets-1997983722097",
@@ -177,14 +193,6 @@
   },
   {
     "artist": [
-      "NMA, Take Point, 10,000 Bird Skeletons"
-    ],
-    "link": "https://www.eventbrite.com/e/nmatake-point10000-bird-skeletons-tickets-1998558956639",
-    "date": "2026-11-06T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Breakin Nails"
     ],
     "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
@@ -196,6 +204,14 @@
       "Fall and Fading, Living Parallel, Plinko"
     ],
     "link": "https://www.eventbrite.com/e/fall-and-fadingliving-parallelplinko-tickets-1998094809362",
+    "date": "2026-11-07T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Iron Bison, Take Point, 10,000 Bird Skeletons"
+    ],
+    "link": "https://www.eventbrite.com/e/iron-bisontake-point10000-bird-skeletons-tickets-1998558956639",
     "date": "2026-11-07T00:00:01",
     "venue": "Westside Bowl"
   },

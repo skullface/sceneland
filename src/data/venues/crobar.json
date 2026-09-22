@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "So Long Summer!!: Last Gasp (final show!), RADDERALL, Atomic Witch, Blue Yuma, Bumpstock, Burning Fight, Kwas-E, Lavender Jets, Muamin Collective, Peach Curls, RST, Secret Handshake, Skuff Micksun, Stabmatics, Ugly & Damaged"
-    ],
-    "link": "https://secure.crobar1921.com/event/so-long-summer",
-    "date": "2027-09-19T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "FJAAK: Den Hur, Delish"
     ],
     "link": "https://secure.crobar1921.com/event/fjaak",
@@ -21,6 +13,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/perf--12-hour-circus",
     "date": "2026-09-26T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "DJ Fart in the Club: Honk"
+    ],
+    "link": "https://secure.crobar1921.com/event/dj-fart-in-the-club",
+    "date": "2026-10-02T00:00:01",
     "venue": "Crobar"
   },
   {

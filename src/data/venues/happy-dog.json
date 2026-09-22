@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Liz Hogg, Jamie Berland, Rowland Taylor - in the Underdog"
-    ],
-    "link": "https://app.opendate.io/e/liz-hogg-jamie-berland-rowland-taylor-in-the-underdog-september-21-2026-744801",
-    "date": "2026-09-21T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Muzzle, Private Prisons, Attaxia, Kamasutra"
     ],
     "link": "https://app.opendate.io/e/muzzle-private-prisons-attaxia-kamasutra-september-25-2026-743950",
@@ -25,10 +17,18 @@
   },
   {
     "artist": [
-      "Reverend Lee, Amy Varckette, Browning Snider"
+      "Reverend Lee, Amy Varckette, Huffman Acoustic"
     ],
-    "link": "https://app.opendate.io/e/reverend-lee-amy-varckette-browning-snider-october-02-2026-749300",
+    "link": "https://app.opendate.io/e/reverend-lee-amy-varckette-huffman-acoustic-october-02-2026-749300",
     "date": "2026-10-02T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Karaoke w/ KJ Stunningham!"
+    ],
+    "link": "https://app.opendate.io/e/karaoke-w-kj-stunningham-october-03-2026-754371",
+    "date": "2026-10-03T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -129,6 +129,14 @@
   },
   {
     "artist": [
+      "Youth Pallet, Vegan Cannibals, Flippant"
+    ],
+    "link": "https://app.opendate.io/e/youth-pallet-vegan-cannibals-flippant-october-24-2026-754367",
+    "date": "2026-10-24T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Discord Theory + locals TBA"
     ],
     "link": "https://app.opendate.io/e/discord-theory-locals-tba-october-29-2026-753105",
@@ -173,6 +181,14 @@
     ],
     "link": "https://app.opendate.io/e/jack-windsor-and-his-band-james-mckeivier-and-the-starry-sky-band-joseph-allen-beltram-november-13-2026-750484",
     "date": "2026-11-13T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Signal Cle presents: Classical Revolution!"
+    ],
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-november-18-2026-754365",
+    "date": "2026-11-18T00:00:01",
     "venue": "Happy Dog"
   }
 ]

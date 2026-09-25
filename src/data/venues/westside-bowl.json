@@ -185,14 +185,6 @@
   },
   {
     "artist": [
-      "Breakin Nails"
-    ],
-    "link": "https://www.eventbrite.com/e/breakin-nails-tickets-1987020993280",
-    "date": "2026-11-07T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Fall and Fading, Living Parallel, Plinko"
     ],
     "link": "https://www.eventbrite.com/e/fall-and-fadingliving-parallelplinko-tickets-1998094809362",
@@ -301,6 +293,14 @@
     ],
     "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
     "date": "2026-12-18T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Goodbye Infidels"
+    ],
+    "link": "https://www.eventbrite.com/e/goodbye-infidels-tickets-2002141428910",
+    "date": "2026-12-19T00:00:01",
     "venue": "Westside Bowl"
   },
   {

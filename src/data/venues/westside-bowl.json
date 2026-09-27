@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "La Noche Del Ritmo M.V.L.O. +  Dan Shiller En Vivo Desde Westside Bowl"
-    ],
-    "link": "https://www.eventbrite.com/e/la-noche-del-ritmo-mvlo-dan-shiller-en-vivo-desde-westside-bowl-tickets-1999432590702",
-    "date": "2026-09-26T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Lillie Gazer, Nick Adduci"
     ],
     "link": "https://www.eventbrite.com/e/lillie-gazernick-adduci-tickets-1999456227400",
@@ -77,6 +69,14 @@
     ],
     "link": "https://www.eventbrite.com/e/emo-ween-2026-tickets-1992718563867",
     "date": "2026-10-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "YSU Faculty In Concert"
+    ],
+    "link": "https://www.eventbrite.com/e/ysu-faculty-in-concert-tickets-2002344933598",
+    "date": "2026-10-18T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -188,6 +188,14 @@
       "Standard Broadcast, Millvin and the Etnoids, Abstract Theory, Kristy Davenport"
     ],
     "link": "https://www.eventbrite.com/e/standard-broadcastmillvin-and-the-etnoidsabstract-theorykristy-davenport-tickets-1999126034785",
+    "date": "2026-11-12T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Maria and the Coins, Brake Fluid, Doomsday Darling, Candace Campana"
+    ],
+    "link": "https://www.eventbrite.com/e/maria-and-the-coinsbrake-fluiddoomsday-darlingcandace-campana-tickets-2002347673794",
     "date": "2026-11-12T00:00:01",
     "venue": "Westside Bowl"
   },

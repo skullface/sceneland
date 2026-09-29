@@ -68,5 +68,14 @@
     "link": "https://www.rocketarena.com/events/detail/triumph-261125",
     "date": "2026-11-25T00:00:01",
     "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "Harlem Globetrotters",
+      "Rivalry Tour"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/the-harlem-globetrotters-261230",
+    "date": "2026-12-30T00:00:01",
+    "venue": "Rocket Arena"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "DJ Fart in the Club: Honk"
-    ],
-    "link": "https://secure.crobar1921.com/event/dj-fart-in-the-club",
-    "date": "2027-10-02T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
-      "\u00dcNITY: Just AJ, Reallife, Sound on Tape, Zihynx"
-    ],
-    "link": "https://secure.crobar1921.com/event/nity",
-    "date": "2027-10-03T00:00:01",
-    "venue": "Crobar"
-  },
-  {
-    "artist": [
       "Villem: Alpha Rhythm, KC, \ufeffRob Riddum, JonDoeTho1"
     ],
     "link": "https://secure.crobar1921.com/event/villem",
@@ -45,6 +29,14 @@
     ],
     "link": "https://secure.crobar1921.com/event/chez-damier",
     "date": "2026-10-24T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Lindsey Herbert: Jenny Arcade, Mira"
+    ],
+    "link": "https://secure.crobar1921.com/event/lindsey-herbert",
+    "date": "2026-11-14T00:00:01",
     "venue": "Crobar"
   }
 ]

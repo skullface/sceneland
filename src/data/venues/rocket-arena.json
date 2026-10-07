@@ -1,17 +1,8 @@
 [
   {
     "artist": [
-      "Gorillaz: The Mountain Tour",
-      "Special Guests Little Simz & Deltron 3030"
-    ],
-    "link": "https://www.rocketarena.com/events/detail/gorillaz-261006",
-    "date": "2026-10-06T00:00:01",
-    "venue": "Rocket Arena"
-  },
-  {
-    "artist": [
       "Jonas Brothers: The Burning Up Tour All Over Again",
-      "Special Guests Magnus Ferrell and Deleasa"
+      "Special Guests Magnus Ferrell, Baylee Littrell and Deleasa"
     ],
     "link": "https://www.rocketarena.com/events/detail/jonas-brothers-261019",
     "date": "2026-10-19T00:00:01",
@@ -68,6 +59,14 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/the-harlem-globetrotters-261230",
     "date": "2026-12-30T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "Dancing with the Stars: Live! \u2013 2027 Tour"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/dwts-270126",
+    "date": "2027-01-26T00:00:01",
     "venue": "Rocket Arena"
   },
   {

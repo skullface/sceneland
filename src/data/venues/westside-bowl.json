@@ -65,6 +65,14 @@
   },
   {
     "artist": [
+      "The Lazy Sods performing Oasis, Razed By Robots"
+    ],
+    "link": "https://www.eventbrite.com/e/the-lazy-sods-performing-oasisrazed-by-robots-tickets-2003098468441",
+    "date": "2026-10-23T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Green Jell\u00ff, LifeFallingDown, JMP&The E, ALBUM"
     ],
     "link": "https://www.eventbrite.com/e/green-jellylifefallingdownjmpthe-ealbum-tickets-1995208674856",
@@ -101,6 +109,14 @@
     ],
     "link": "https://www.eventbrite.com/e/curse-of-the-musical-dead-tickets-1992706549933",
     "date": "2026-10-31T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Bar Snacks and Wine"
+    ],
+    "link": "https://www.eventbrite.com/e/bar-snacks-and-wine-tickets-2003091730287",
+    "date": "2026-11-01T00:00:01",
     "venue": "Westside Bowl"
   },
   {
@@ -225,6 +241,14 @@
   },
   {
     "artist": [
+      "Spirit of the Bear ,  Nick Adduci"
+    ],
+    "link": "https://www.eventbrite.com/e/spirit-of-the-bear-nick-adduci-tickets-2003090576837",
+    "date": "2026-11-27T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Boogie Man Smash, Deli Bandits, The Frampton Brothers"
     ],
     "link": "https://www.eventbrite.com/e/boogie-man-smashdeli-banditsthe-frampton-brothers-tickets-1995038489828",
@@ -257,14 +281,6 @@
   },
   {
     "artist": [
-      "Goodbye Infidels"
-    ],
-    "link": "https://www.eventbrite.com/e/goodbye-infidels-tickets-2002141428910",
-    "date": "2026-12-19T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Phelocipastor, Harlem Hayfield, O Odious Ones"
     ],
     "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
@@ -277,6 +293,14 @@
     ],
     "link": "https://www.eventbrite.com/e/double-take-tickets-2000656264744",
     "date": "2026-02-27T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Goodbye Infidels"
+    ],
+    "link": "https://www.eventbrite.com/e/goodbye-infidels-tickets-2002141428910",
+    "date": "2026-05-15T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

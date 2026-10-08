@@ -9,6 +9,14 @@
   },
   {
     "artist": [
+      "JUST A BAR"
+    ],
+    "link": "https://noclasscle.com/events/just-a-bar-10-8-26",
+    "date": "2026-10-08T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "HYPERPOP HALLOWEEN"
     ],
     "link": "https://noclasscle.com/events/hyperpop-halloween",
@@ -33,10 +41,18 @@
   },
   {
     "artist": [
-      "MERCURY STARDUST BOOK SIGNING"
+      "MERCURY STARDUST"
     ],
     "link": "https://noclasscle.com/events/mercury-stardust-book-signing",
     "date": "2026-10-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "JUST A BAR"
+    ],
+    "link": "https://noclasscle.com/events/just-a-bar-10-13-26",
+    "date": "2026-10-13T00:00:01",
     "venue": "No Class"
   },
   {
@@ -89,6 +105,14 @@
   },
   {
     "artist": [
+      "JUST A BAR"
+    ],
+    "link": "https://noclasscle.com/events/just-a-bar-10-20-26",
+    "date": "2026-10-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SPY"
     ],
     "link": "https://noclasscle.com/events/spy-empty-shell-casing",
@@ -117,6 +141,14 @@
     ],
     "link": "https://noclasscle.com/events/ovenhead-mutilatred",
     "date": "2026-10-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SPITER"
+    ],
+    "link": "https://noclasscle.com/events/spiter-hellkite-stabmatics",
+    "date": "2026-10-25T00:00:01",
     "venue": "No Class"
   },
   {
@@ -185,10 +217,34 @@
   },
   {
     "artist": [
+      "BLACK FRIDAY BLACKOUT"
+    ],
+    "link": "https://noclasscle.com/events/black-friday-blackout",
+    "date": "2026-11-27T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SOUP POTLUCK"
     ],
     "link": "https://noclasscle.com/events/soup-potluck-4",
     "date": "2026-11-30T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "INOCULATION"
+    ],
+    "link": "https://noclasscle.com/events/nuclear-tomb",
+    "date": "2026-12-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "DECEASED"
+    ],
+    "link": "https://noclasscle.com/events/deceased-vigil",
+    "date": "2026-12-17T00:00:01",
     "venue": "No Class"
   }
 ]

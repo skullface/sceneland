@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Da\u00f0i Freyr, BR\u00cdET"
-    ],
-    "link": "https://www.axs.com/events/1383237/daoi-freyr-tickets",
-    "date": "2026-10-14T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Earlybirds Club"
     ],
     "link": "https://www.axs.com/events/1541581/earlybirds-club-tickets",
@@ -173,6 +165,14 @@
     ],
     "link": "https://www.axs.com/events/1640647/bumpin-uglies-tickets",
     "date": "2027-02-13T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Drive-By Truckers, Brown Horse"
+    ],
+    "link": "https://www.axs.com/events/1656989/drive-by-truckers-tickets",
+    "date": "2027-02-19T20:00:00",
     "venue": "Globe Iron"
   },
   {

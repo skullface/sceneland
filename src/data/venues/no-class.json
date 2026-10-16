@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "HALLO WHOOP WHOOP WEDNESDAY"
-    ],
-    "link": "https://noclasscle.com/events/hallo-whoop-whoop-wednesday",
-    "date": "2026-10-14T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "FIND YOUR BOO! SINGLES NIGHT"
     ],
     "link": "https://noclasscle.com/events/find-your-boo-singles-night-77skb",
@@ -149,6 +141,14 @@
     ],
     "link": "https://noclasscle.com/events/force",
     "date": "2026-11-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "EXPLODING ZOMBIES"
+    ],
+    "link": "https://noclasscle.com/events/exploding-zombies",
+    "date": "2026-11-21T00:00:01",
     "venue": "No Class"
   },
   {

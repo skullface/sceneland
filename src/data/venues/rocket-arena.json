@@ -2,7 +2,7 @@
   {
     "artist": [
       "Jonas Brothers: The Burning Up Tour All Over Again",
-      "Special Guests Magnus Ferrell, Baylee Littrell and Deleasa"
+      "Special Guests Magnus Ferrell and Baylee Littrell"
     ],
     "link": "https://www.rocketarena.com/events/detail/jonas-brothers-261019",
     "date": "2026-10-19T00:00:01",
@@ -84,6 +84,14 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/the-red-clay-strays-270204",
     "date": "2027-02-04T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "AHL All-Star Skills Competition"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/ahl-all-star-skills-competition-cleveland-oh-tickets-02-07-2027",
+    "date": "2027-02-07T00:00:01",
     "venue": "Rocket Arena"
   }
 ]

@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "DSA Halloween Party in the Underdog!"
-    ],
-    "link": "https://app.opendate.io/e/dsa-halloween-party-in-the-underdog-october-16-2026-761957?default_theme=true",
-    "date": "2026-10-16T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
-      "Liquor Store, Tin Foil, Private Jets, Dick Golden and the Rock n Roll Experience"
-    ],
-    "link": "https://app.opendate.io/e/liquor-store-tin-foil-private-jets-dick-golden-and-the-rock-n-roll-experience-october-16-2026-744803?default_theme=true",
-    "date": "2026-10-16T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Napsack record release w/ Natural Sway, Zach Angeloni Band"
     ],
     "link": "https://app.opendate.io/e/napsack-record-release-w-natural-sway-zach-angeloni-band-october-17-2026-745046?default_theme=true",
@@ -105,9 +89,9 @@
   },
   {
     "artist": [
-      "Lily DeTaeye, Kid.Tigrrr"
+      "Lily DeTaeye, Kid.Tigrrr, Uno Lady"
     ],
-    "link": "https://app.opendate.io/e/lily-detaeye-kid-tigrrr-november-05-2026-750482?default_theme=true",
+    "link": "https://app.opendate.io/e/lily-detaeye-kid-tigrrr-uno-lady-november-05-2026-750482?default_theme=true",
     "date": "2026-11-05T00:00:01",
     "venue": "Happy Dog"
   },
@@ -165,6 +149,22 @@
     ],
     "link": "https://app.opendate.io/e/moon-goons-inpatient-v2k-november-19-2026-758457?default_theme=true",
     "date": "2026-11-19T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Niights, Elemantra, White Flag Over Providence"
+    ],
+    "link": "https://app.opendate.io/e/niights-elemantra-white-flag-over-providence-november-27-2026-788024?default_theme=true",
+    "date": "2026-11-27T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Grog Shop presents: Robber Robber"
+    ],
+    "link": "https://app.opendate.io/e/the-grog-shop-presents-robber-robber-december-03-2026-787995?default_theme=true",
+    "date": "2026-12-03T00:00:01",
     "venue": "Happy Dog"
   }
 ]

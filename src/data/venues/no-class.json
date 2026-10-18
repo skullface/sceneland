@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "PLAGUEWIELDER"
-    ],
-    "link": "https://noclasscle.com/events/plaguewielder-10-16-26",
-    "date": "2026-10-16T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "SWEET GLOOM"
-    ],
-    "link": "https://noclasscle.com/events/sweet-gloom",
-    "date": "2026-10-17T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "GOTTA SNATCH 'EM ALL"
     ],
     "link": "https://noclasscle.com/events/gotta-snatch-em-all-halloween-2026",
@@ -121,6 +105,14 @@
   },
   {
     "artist": [
+      "CLOUDY W/ A CHANCE..."
+    ],
+    "link": "https://noclasscle.com/events/cloudy-w/-a-chance-weather-whiplash",
+    "date": "2026-11-02T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "10,000 RAMBOS"
     ],
     "link": "https://noclasscle.com/events/10000-rambos-order-of-the-dead",
@@ -129,10 +121,26 @@
   },
   {
     "artist": [
+      "DUNGEON SYNTH NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/dungeon-synth-night",
+    "date": "2026-11-07T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "FORCE"
     ],
     "link": "https://noclasscle.com/events/force",
     "date": "2026-11-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "SUNDIAL CEREMONY"
+    ],
+    "link": "https://noclasscle.com/events/sundial-ceremony-single-release",
+    "date": "2026-11-13T00:00:01",
     "venue": "No Class"
   },
   {

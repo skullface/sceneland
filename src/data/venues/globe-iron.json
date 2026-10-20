@@ -161,10 +161,26 @@
   },
   {
     "artist": [
+      "Buffalo Traffic Jam, Jack Van Cleaf"
+    ],
+    "link": "https://www.axs.com/events/1657731/buffalo-traffic-jam-tickets",
+    "date": "2027-02-24T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
       "As I Lay Dying, Immortal Disfigurement"
     ],
     "link": "https://www.axs.com/events/1605519/as-i-lay-dying-tickets",
     "date": "2027-02-25T20:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Ventana, 216, Deadly Apples, Bittersweet Revenge, Jade Ring"
+    ],
+    "link": "https://www.axs.com/events/1666229/ventana-tickets",
+    "date": "2027-02-26T18:45:00",
     "venue": "Globe Iron"
   },
   {

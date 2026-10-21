@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "BRANTLEY GILBERT: REAL AMERICAN TOUR"
-    ],
-    "link": "https://covellicentre.com/event/brantley-gilbert-real-american-tour/",
-    "date": "2026-10-15T00:00:01",
-    "venue": "Covelli Centre"
-  },
-  {
-    "artist": [
       "WWE Road to Survivor Series: WarGames"
     ],
     "link": "https://covellicentre.com/event/wwe-road-to-survivor-series-wargames/",
@@ -73,9 +65,9 @@
   },
   {
     "artist": [
-      "Nelly with special guests Ying Yang Twins"
+      "Nelly with special guest"
     ],
-    "link": "https://covellicentre.com/event/nelly-with-special-guests-ying-yang-twins/",
+    "link": "https://covellicentre.com/event/nelly-with-special-guest/",
     "date": "2026-12-11T00:00:01",
     "venue": "Covelli Centre"
   },
@@ -85,6 +77,14 @@
     ],
     "link": "https://covellicentre.com/event/youngstown-phantoms-vs-dubuque-fighting-saints-5/",
     "date": "2026-12-12T00:00:01",
+    "venue": "Covelli Centre"
+  },
+  {
+    "artist": [
+      "YOUNGSTOWN PHANTOMS VS. DUBUQUE FIGHTING SAINTS"
+    ],
+    "link": "https://covellicentre.com/event/youngstown-phantoms-vs-dubuque-fighting-saints-6/",
+    "date": "2026-12-13T00:00:01",
     "venue": "Covelli Centre"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Roast Battle Cleveland - Thursday Night Showdown!"
-    ],
-    "link": "https://app.opendate.io/e/roast-battle-cleveland-thursday-night-showdown-october-22-2026-749314?default_theme=true",
-    "date": "2026-10-22T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Fragment, IK, DJ Heretek - a Darkwave Benefit in the Underdog!"
     ],
     "link": "https://app.opendate.io/e/fragment-ik-dj-heretek-a-darkwave-benefit-in-the-underdog-october-23-2026-779316?default_theme=true",
@@ -29,6 +21,14 @@
     ],
     "link": "https://app.opendate.io/e/youth-pallet-vegan-cannibals-flippant-october-24-2026-754367?default_theme=true",
     "date": "2026-10-24T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "NEOH Worker's Center presents: Solidarity Session"
+    ],
+    "link": "https://app.opendate.io/e/neoh-worker-s-center-presents-solidarity-session-october-28-2026-792811?default_theme=true",
+    "date": "2026-10-28T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -105,9 +105,9 @@
   },
   {
     "artist": [
-      "Electric Bug, The Tape Cassettes, Richard Hamilton Pop Ensemble"
+      "Electric Bug, Dingo Dango, The Tape Cassettes, Richard Hamilton Pop Ensemble"
     ],
-    "link": "https://app.opendate.io/e/electric-bug-the-tape-cassettes-richard-hamilton-pop-ensemble-november-14-2026-781318?default_theme=true",
+    "link": "https://app.opendate.io/e/electric-bug-dingo-dango-the-tape-cassettes-richard-hamilton-pop-ensemble-november-14-2026-781318?default_theme=true",
     "date": "2026-11-14T00:00:01",
     "venue": "Happy Dog"
   },
@@ -137,10 +137,26 @@
   },
   {
     "artist": [
+      "Public Squares record release w/ Against Language, Awesome*Quest"
+    ],
+    "link": "https://app.opendate.io/e/public-squares-record-release-w-against-language-awesome-quest-november-28-2026-792817?default_theme=true",
+    "date": "2026-11-28T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "The Grog Shop presents: Robber Robber"
     ],
     "link": "https://app.opendate.io/e/the-grog-shop-presents-robber-robber-december-03-2026-787995?default_theme=true",
     "date": "2026-12-03T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Tetraviolet, Cowboy Princess Brigade, Arms & Armour, Key to the Mint"
+    ],
+    "link": "https://app.opendate.io/e/tetraviolet-cowboy-princess-brigade-arms-armour-key-to-the-mint-december-05-2026-792828?default_theme=true",
+    "date": "2026-12-05T00:00:01",
     "venue": "Happy Dog"
   }
 ]

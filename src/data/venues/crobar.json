@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "artist": [
+      "Chez Damier: Andre Leone, Delish, Le Mew, MIKEONE"
+    ],
+    "link": "https://secure.crobar1921.com/event/chez-damier",
+    "date": "2027-10-24T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "phase:zero: Detroit Bureau of Sound, DJ Noah Anthony, Flute Salad, Le Schlippy, Innergroove, Angelgirl EVA"
+    ],
+    "link": "https://secure.crobar1921.com/event/phasezero97",
+    "date": "2026-10-30T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf Halloween: S4M23, Honk, Joey Sardelle"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf-halloween",
+    "date": "2026-10-31T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Lindsey Herbert: Jenny Arcade, Mira"
+    ],
+    "link": "https://secure.crobar1921.com/event/lindsey-herbert",
+    "date": "2026-11-14T00:00:01",
+    "venue": "Crobar"
+  }
+]

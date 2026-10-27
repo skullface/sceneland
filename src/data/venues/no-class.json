@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "SPITER"
-    ],
-    "link": "https://noclasscle.com/events/spiter-hellkite-stabmatics",
-    "date": "2026-10-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "SPOOKEY RUBEN"
-    ],
-    "link": "https://noclasscle.com/events/spookey-ruben",
-    "date": "2026-10-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "XCSB HALLOWEEN SPOOKTACULAR"
     ],
     "link": "https://noclasscle.com/events/xcsb-halloween-spooktacular",
@@ -57,6 +41,14 @@
   },
   {
     "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-pajamas",
+    "date": "2026-11-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "10,000 RAMBOS"
     ],
     "link": "https://noclasscle.com/events/10000-rambos-order-of-the-dead",
@@ -73,6 +65,14 @@
   },
   {
     "artist": [
+      "AFTERLOON"
+    ],
+    "link": "https://noclasscle.com/events/afterloon",
+    "date": "2026-11-08T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "FORCE"
     ],
     "link": "https://noclasscle.com/events/force",
@@ -85,6 +85,14 @@
     ],
     "link": "https://noclasscle.com/events/sundial-ceremony-single-release",
     "date": "2026-11-13T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "THE PENTAGRAM STRING BAND"
+    ],
+    "link": "https://noclasscle.com/events/the-pentagram-string-band-11-18",
+    "date": "2026-11-18T00:00:01",
     "venue": "No Class"
   },
   {

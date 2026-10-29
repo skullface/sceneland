@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Daniel Donato's Cosmic Country"
-    ],
-    "link": "https://www.axs.com/events/1468561/daniel-donatos-cosmic-country-tickets",
-    "date": "2026-10-28T20:00:00",
-    "venue": "Globe Iron"
-  },
-  {
-    "artist": [
       "Paul Oakenfold + The Crystal Method, Liquid Todd"
     ],
     "link": "https://www.axs.com/events/1533703/paul-oakenfold-the-crystal-method-tickets",
@@ -181,6 +173,14 @@
     ],
     "link": "https://www.axs.com/events/1666229/ventana-tickets",
     "date": "2027-02-26T18:45:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "Mersiv, Seth David, AUSTERIA, 2\u0141\u00d8T"
+    ],
+    "link": "https://www.axs.com/events/1669447/mersiv-tickets",
+    "date": "2027-02-28T20:00:00",
     "venue": "Globe Iron"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Discord Theory, Talk Less, Betzler, Sweet Ignition"
-    ],
-    "link": "https://app.opendate.io/e/discord-theory-talk-less-betzler-sweet-ignition-october-29-2026-753105?default_theme=true",
-    "date": "2026-10-29T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Halloween Cover Set Extravaganza!  A benefit for City Dogs"
     ],
     "link": "https://app.opendate.io/e/halloween-cover-set-extravaganza-a-benefit-for-city-dogs-october-30-2026-753095?default_theme=true",
@@ -41,9 +33,9 @@
   },
   {
     "artist": [
-      "The Metric Ton, Touchdown Jesus, Terra Firma, Cloner"
+      "The Metric Ton, Terra Firma, Cloner"
     ],
-    "link": "https://app.opendate.io/e/the-metric-ton-touchdown-jesus-terra-firma-cloner-november-06-2026-758451?default_theme=true",
+    "link": "https://app.opendate.io/e/the-metric-ton-terra-firma-cloner-november-06-2026-758451?default_theme=true",
     "date": "2026-11-06T00:00:01",
     "venue": "Happy Dog"
   },
@@ -125,6 +117,14 @@
     ],
     "link": "https://app.opendate.io/e/tetraviolet-cowboy-princess-brigade-arms-armour-key-to-the-mint-december-05-2026-792828?default_theme=true",
     "date": "2026-12-05T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "The Sonder Bombs, Biitchseat, Cool Party, Sundial - A Benefit for the Cleveland Trans Collective"
+    ],
+    "link": "https://app.opendate.io/e/the-sonder-bombs-biitchseat-cool-party-sundial-a-benefit-for-the-cleveland-trans-collective-december-11-2026-795741?default_theme=true",
+    "date": "2026-12-11T00:00:01",
     "venue": "Happy Dog"
   }
 ]

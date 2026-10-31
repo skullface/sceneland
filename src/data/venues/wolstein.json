@@ -1,10 +1,90 @@
 [
   {
     "artist": [
+      "Men\u2019s Basketball Game vs Michigan-Dearborn"
+    ],
+    "link": "https://www.wolsteincenter.com/event/mens-basketball-game-vs-michigan-dearborn/",
+    "date": "2026-11-06T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
       "TOBYMAC. THIRD DAY. CHRIS TOMLIN."
     ],
     "link": "https://www.wolsteincenter.com/event/137035/",
     "date": "2026-11-07T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Men\u2019s Basketball Game vs Kent State"
+    ],
+    "link": "https://www.wolsteincenter.com/event/mens-basketball-game-vs-kent-state/",
+    "date": "2026-11-21T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Women\u2019s Basketball Game vs Kent State"
+    ],
+    "link": "https://www.wolsteincenter.com/event/womens-basketball-game-vs-kent-state/",
+    "date": "2026-11-21T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Men\u2019s Basketball Game vs Youngstown State"
+    ],
+    "link": "https://www.wolsteincenter.com/event/mens-basketball-game-vs-youngstown-state/",
+    "date": "2026-12-02T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Women\u2019s Basketball Game vs Northern Kentucky University"
+    ],
+    "link": "https://www.wolsteincenter.com/event/womens-basketball-game-vs-northern-kentucky-university/",
+    "date": "2026-12-03T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Women\u2019s Basketball Game vs Northern Illinois University"
+    ],
+    "link": "https://www.wolsteincenter.com/event/womens-basketball-game-vs-northern-illinois-university/",
+    "date": "2026-12-06T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Fall 2026 Tri-C Commencement"
+    ],
+    "link": "https://www.wolsteincenter.com/event/tri-c-commencement-2/",
+    "date": "2026-12-10T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Cleveland State University Commencement II"
+    ],
+    "link": "https://www.wolsteincenter.com/event/cleveland-state-university-commencement/",
+    "date": "2026-12-12T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Women\u2019s Basketball Game vs Defiance College"
+    ],
+    "link": "https://www.wolsteincenter.com/event/womens-basketball-game-vs-defiance-college/",
+    "date": "2026-12-28T00:00:01",
+    "venue": "Wolstein Center"
+  },
+  {
+    "artist": [
+      "Men\u2019s Basketball Game vs Wright State"
+    ],
+    "link": "https://www.wolsteincenter.com/event/mens-basketball-game-vs-wright-state/",
+    "date": "2026-12-30T00:00:01",
     "venue": "Wolstein Center"
   }
 ]

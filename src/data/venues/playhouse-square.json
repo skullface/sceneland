@@ -105,6 +105,14 @@
   },
   {
     "artist": [
+      "THE BASEMENT YARD LIVE"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-basement-yard-live",
+    "date": "2027-04-08T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "TAYLOR TOMLINSON"
     ],
     "link": "https://www.playhousesquare.org/events/detail/taylor-tomlinson-2",
@@ -125,6 +133,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/tom-segura-2",
     "date": "2027-05-23T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Gutfeld Live"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/gutfeld-live",
+    "date": "2027-06-13T00:00:01",
     "venue": "Playhouse Square"
   },
   {
@@ -369,6 +385,14 @@
   },
   {
     "artist": [
+      "THE BASEMENT YARD LIVE"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/the-basement-yard-live",
+    "date": "2027-04-08T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
       "Modi"
     ],
     "link": "https://www.playhousesquare.org/events/detail/modi",
@@ -389,6 +413,14 @@
     ],
     "link": "https://www.playhousesquare.org/events/detail/8-ball-mjg-and-bun-b-ft-the-renaissance-orchestra",
     "date": "2027-06-04T00:00:01",
+    "venue": "Playhouse Square"
+  },
+  {
+    "artist": [
+      "Gutfeld Live"
+    ],
+    "link": "https://www.playhousesquare.org/events/detail/gutfeld-live",
+    "date": "2027-06-13T00:00:01",
     "venue": "Playhouse Square"
   }
 ]

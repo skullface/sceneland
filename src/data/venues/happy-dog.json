@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "City Club of Cleveland presents: Happy Dog Takes on Everything"
-    ],
-    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-november-04-2026-756878?default_theme=true",
-    "date": "2026-11-04T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Lily DeTaeye, Kid.Tigrrr, Uno Lady"
     ],
     "link": "https://app.opendate.io/e/lily-detaeye-kid-tigrrr-uno-lady-november-05-2026-750482?default_theme=true",
@@ -29,6 +21,14 @@
     ],
     "link": "https://app.opendate.io/e/cairgo-jag-club-usa-inpatient-ep-release-the-magnavox-s-november-07-2026-746684?default_theme=true",
     "date": "2026-11-07T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-november-11-2026-756878?default_theme=true",
+    "date": "2026-11-11T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -69,6 +69,14 @@
     ],
     "link": "https://app.opendate.io/e/moon-goons-inpatient-v2k-november-19-2026-758457?default_theme=true",
     "date": "2026-11-19T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Panza Foundation Benefit w/ PAL, Jinari Kemet, Disintegration, Joey Sprinkles"
+    ],
+    "link": "https://app.opendate.io/e/panza-foundation-benefit-w-pal-jinari-kemet-disintegration-joey-sprinkles-november-21-2026-796336?default_theme=true",
+    "date": "2026-11-21T00:00:01",
     "venue": "Happy Dog"
   },
   {

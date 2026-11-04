@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "CLOUDY W/ A CHANCE..."
-    ],
-    "link": "https://noclasscle.com/events/cloudy-w/-a-chance-weather-whiplash",
-    "date": "2026-11-02T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "SAPPHIC SOCIAL"
     ],
     "link": "https://noclasscle.com/events/sapphic-social-pajamas",
@@ -73,6 +65,14 @@
   },
   {
     "artist": [
+      "QUIET ZOO"
+    ],
+    "link": "https://noclasscle.com/events/quiet-zoo-free-show",
+    "date": "2026-11-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "EXPLODING ZOMBIES"
     ],
     "link": "https://noclasscle.com/events/exploding-zombies",
@@ -93,6 +93,14 @@
     ],
     "link": "https://noclasscle.com/events/black-friday-blackout",
     "date": "2026-11-27T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "BLACK DEATH"
+    ],
+    "link": "https://noclasscle.com/events/black-death",
+    "date": "2026-11-28T00:00:01",
     "venue": "No Class"
   },
   {

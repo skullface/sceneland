@@ -73,10 +73,26 @@
   },
   {
     "artist": [
+      "Adrenochrome, Gruntus, Kamasutra"
+    ],
+    "link": "https://app.opendate.io/e/adrenochrome-gruntus-kamasutra-november-20-2026-797501?default_theme=true",
+    "date": "2026-11-20T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Panza Foundation Benefit w/ PAL, Jinari Kemet, Disintegration, Joey Sprinkles"
     ],
     "link": "https://app.opendate.io/e/panza-foundation-benefit-w-pal-jinari-kemet-disintegration-joey-sprinkles-november-21-2026-796336?default_theme=true",
     "date": "2026-11-21T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Thanksgiving Eve Karaoke w/ Terkalerk!"
+    ],
+    "link": "https://app.opendate.io/e/thanksgiving-eve-karaoke-w-terkalerk-november-25-2026-797507?default_theme=true",
+    "date": "2026-11-25T00:00:01",
     "venue": "Happy Dog"
   },
   {
@@ -97,6 +113,14 @@
   },
   {
     "artist": [
+      "City Club of Cleveland presents: Happy Dog Takes on Everything"
+    ],
+    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-december-02-2026-797516?default_theme=true",
+    "date": "2026-12-02T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "The Grog Shop presents: Robber Robber"
     ],
     "link": "https://app.opendate.io/e/the-grog-shop-presents-robber-robber-december-03-2026-787995?default_theme=true",
@@ -113,10 +137,34 @@
   },
   {
     "artist": [
+      "Happy Dog Holiday Market!"
+    ],
+    "link": "https://app.opendate.io/e/happy-dog-holiday-market-december-06-2026-797520?default_theme=true",
+    "date": "2026-12-06T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "The Sonder Bombs, Biitchseat, Cool Party, Sundial - A Benefit for the Cleveland Trans Collective"
     ],
     "link": "https://app.opendate.io/e/the-sonder-bombs-biitchseat-cool-party-sundial-a-benefit-for-the-cleveland-trans-collective-december-11-2026-795741?default_theme=true",
     "date": "2026-12-11T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Signal Cle presents: Classical Revolution!"
+    ],
+    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-december-16-2026-797517?default_theme=true",
+    "date": "2026-12-16T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "An Irish Christmas w/ Full 90!"
+    ],
+    "link": "https://app.opendate.io/e/an-irish-christmas-w-full-90-december-17-2026-797526?default_theme=true",
+    "date": "2026-12-17T00:00:01",
     "venue": "Happy Dog"
   }
 ]

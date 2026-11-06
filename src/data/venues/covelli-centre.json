@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Sugarland: Ride or Die Tour"
-    ],
-    "link": "https://covellicentre.com/event/sugarland-ride-or-die-tour/",
-    "date": "2026-11-05T00:00:01",
-    "venue": "Covelli Centre"
-  },
-  {
-    "artist": [
       "YOUNGSTOWN PHANTOMS VS. MADISON CAPITOLS"
     ],
     "link": "https://covellicentre.com/event/youngstown-phantoms-vs-madison-capitols-2026/",
@@ -197,6 +189,22 @@
     ],
     "link": "https://covellicentre.com/event/youngstown-phantoms-vs-team-usa-15/",
     "date": "2027-02-27T00:00:01",
+    "venue": "Covelli Centre"
+  },
+  {
+    "artist": [
+      "PBR: Pendleton Whisky Velocity Tour"
+    ],
+    "link": "https://covellicentre.com/event/professional-bull-riding/",
+    "date": "2027-03-05T00:00:01",
+    "venue": "Covelli Centre"
+  },
+  {
+    "artist": [
+      "PBR: Pendleton Whisky Velocity Tour"
+    ],
+    "link": "https://covellicentre.com/event/professional-bull-riding/",
+    "date": "2027-03-06T00:00:01",
     "venue": "Covelli Centre"
   },
   {

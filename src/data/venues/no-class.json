@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "SAPPHIC SOCIAL"
-    ],
-    "link": "https://noclasscle.com/events/sapphic-social-pajamas",
-    "date": "2026-11-05T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "10,000 RAMBOS"
     ],
     "link": "https://noclasscle.com/events/10000-rambos-order-of-the-dead",
@@ -89,6 +81,14 @@
   },
   {
     "artist": [
+      "OPEN THANKSGIVING"
+    ],
+    "link": "https://noclasscle.com/events/open-thanksgiving-2026",
+    "date": "2026-11-26T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "BLACK FRIDAY BLACKOUT"
     ],
     "link": "https://noclasscle.com/events/black-friday-blackout",
@@ -105,6 +105,14 @@
   },
   {
     "artist": [
+      "HOLIDAY PHOTOS W/ SATAN"
+    ],
+    "link": "https://noclasscle.com/events/holiday-photos-satan-2026",
+    "date": "2026-11-29T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "SOUP POTLUCK"
     ],
     "link": "https://noclasscle.com/events/soup-potluck-4",
@@ -113,10 +121,26 @@
   },
   {
     "artist": [
+      "I HATE IT TOO"
+    ],
+    "link": "https://noclasscle.com/events/i-hate-it-too",
+    "date": "2026-12-03T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "INOCULATION"
     ],
     "link": "https://noclasscle.com/events/nuclear-tomb",
     "date": "2026-12-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HEAVY METAL FLEA MARKET"
+    ],
+    "link": "https://noclasscle.com/events/heavy-metal-flea-market-12-13-26",
+    "date": "2026-12-13T00:00:01",
     "venue": "No Class"
   },
   {

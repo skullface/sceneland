@@ -1,38 +1,6 @@
 [
   {
     "artist": [
-      "Fall and Fading, Living Parallel, Plinko"
-    ],
-    "link": "https://www.eventbrite.com/e/fall-and-fadingliving-parallelplinko-tickets-1998094809362",
-    "date": "2026-11-07T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Iron Bison, Take Point, 10,000 Bird Skeletons"
-    ],
-    "link": "https://www.eventbrite.com/e/iron-bisontake-point10000-bird-skeletons-tickets-1998558956639",
-    "date": "2026-11-07T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "LOOP Youngstown Variety Show"
-    ],
-    "link": "https://www.eventbrite.com/e/loop-youngstown-variety-show-tickets-2003378257297",
-    "date": "2026-11-08T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Hidden Sixes, Reg Bloor, Hobo Phantasm"
-    ],
-    "link": "https://www.eventbrite.com/e/hidden-sixesreg-bloorhobo-phantasm-tickets-2003320502551",
-    "date": "2026-11-08T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Standard Broadcast, Millvin and the Etnoids, Abstract Theory, Kristy Davenport"
     ],
     "link": "https://www.eventbrite.com/e/standard-broadcastmillvin-and-the-etnoidsabstract-theorykristy-davenport-tickets-1999126034785",
@@ -181,6 +149,14 @@
     ],
     "link": "https://www.eventbrite.com/e/whoresweneighbor-dan-tickets-2002558186443",
     "date": "2026-12-09T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Lakeside Effects, The Odd Sisters, Daisypusher"
+    ],
+    "link": "https://www.eventbrite.com/e/lakeside-effectsthe-odd-sistersdaisypusher-tickets-2004526420484",
+    "date": "2026-12-10T00:00:01",
     "venue": "Westside Bowl"
   },
   {

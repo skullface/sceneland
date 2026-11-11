@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "City Club of Cleveland presents: Happy Dog Takes on Everything"
-    ],
-    "link": "https://app.opendate.io/e/city-club-of-cleveland-presents-happy-dog-takes-on-everything-november-11-2026-756878?default_theme=true",
-    "date": "2026-11-11T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Rachel Shortt, Loud Nes, Accubat, Noah Gittell - in the Underdog!"
     ],
     "link": "https://app.opendate.io/e/rachel-shortt-loud-nes-accubat-noah-gittell-in-the-underdog-november-12-2026-756877?default_theme=true",
@@ -121,10 +113,26 @@
   },
   {
     "artist": [
+      "After Care - A Queer Dance Party w/ DJs Solace & Darrell Stout - in the Underdog!"
+    ],
+    "link": "https://app.opendate.io/e/after-care-a-queer-dance-party-w-djs-solace-darrell-stout-in-the-underdog-december-10-2026-799733?default_theme=true",
+    "date": "2026-12-10T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "The Sonder Bombs, Biitchseat, Cool Party, Sundial - A Benefit for the Cleveland Trans Collective"
     ],
     "link": "https://app.opendate.io/e/the-sonder-bombs-biitchseat-cool-party-sundial-a-benefit-for-the-cleveland-trans-collective-december-11-2026-795741?default_theme=true",
     "date": "2026-12-11T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "White Elephant Bingo & Ugly Sweater Contest - A Benefit for the Hunger Network"
+    ],
+    "link": "https://app.opendate.io/e/white-elephant-bingo-ugly-sweater-contest-a-benefit-for-the-hunger-network-december-15-2026-799732?default_theme=true",
+    "date": "2026-12-15T00:00:01",
     "venue": "Happy Dog"
   },
   {

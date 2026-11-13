@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "JOURNEY: Final Frontier Tour (An Evening With)"
-    ],
-    "link": "https://www.rocketarena.com/events/detail/journey-261112",
-    "date": "2026-11-12T00:00:01",
-    "venue": "Rocket Arena"
-  },
-  {
-    "artist": [
       "SOMBR: You Are The Reason Tour",
       "Special Guests Dove Cameron & Hannah Jadagu"
     ],
@@ -82,6 +74,15 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/nickelback-270212",
     "date": "2027-02-12T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "We Them Ones Comedy Tour with Mike Epps, Deon Cole, Kountry Wayne, and More",
+      "Mike Epps Featuring Deon Cole, DC Young Fly, Kountry Wayne, Karlous Miller, Chico Bean, D\u2019Lai and C.P."
+    ],
+    "link": "https://www.rocketarena.com/events/detail/wtocomedytour-270228",
+    "date": "2027-02-28T00:00:01",
     "venue": "Rocket Arena"
   }
 ]

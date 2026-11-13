@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Rachel Shortt, Loud Nes, Accubat, Noah Gittell - in the Underdog!"
-    ],
-    "link": "https://app.opendate.io/e/rachel-shortt-loud-nes-accubat-noah-gittell-in-the-underdog-november-12-2026-756877?default_theme=true",
-    "date": "2026-11-12T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Jack Windsor and His Band, James McKeivier and the Starry Sky Band, Joseph Allen Beltram"
     ],
     "link": "https://app.opendate.io/e/jack-windsor-and-his-band-james-mckeivier-and-the-starry-sky-band-joseph-allen-beltram-november-13-2026-750484?default_theme=true",
@@ -97,6 +89,14 @@
   },
   {
     "artist": [
+      "Twerp, Dr. Fang and the Bats, Quickstep"
+    ],
+    "link": "https://app.opendate.io/e/twerp-dr-fang-and-the-bats-quickstep-december-04-2026-801041?default_theme=true",
+    "date": "2026-12-04T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
       "Tetraviolet, Cowboy Princess Brigade, Arms & Armour, Key to the Mint"
     ],
     "link": "https://app.opendate.io/e/tetraviolet-cowboy-princess-brigade-arms-armour-key-to-the-mint-december-05-2026-792828?default_theme=true",
@@ -149,6 +149,30 @@
     ],
     "link": "https://app.opendate.io/e/an-irish-christmas-w-full-90-december-17-2026-797526?default_theme=true",
     "date": "2026-12-17T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Dog Funk Xmas III w/ Solon, Suitor, False Teeth, Total Downer, Fruitfly, Kid Primitive - A Benefit for HEAL Palestine"
+    ],
+    "link": "https://app.opendate.io/e/dog-funk-xmas-iii-w-solon-suitor-false-teeth-total-downer-fruitfly-kid-primitive-a-benefit-for-heal-palestine-december-18-2026-801016?default_theme=true",
+    "date": "2026-12-18T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "PAL Xmas Show w/ TY, King Buu"
+    ],
+    "link": "https://app.opendate.io/e/pal-xmas-show-w-ty-king-buu-december-19-2026-801020?default_theme=true",
+    "date": "2026-12-19T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "Needle Drop - An Improvised Creative Experience - Hosted by Ramon Rivas II - In the Underdog!"
+    ],
+    "link": "https://app.opendate.io/e/needle-drop-an-improvised-creative-experience-hosted-by-ramon-rivas-ii-in-the-underdog-december-23-2026-801022?default_theme=true",
+    "date": "2026-12-23T00:00:01",
     "venue": "Happy Dog"
   }
 ]

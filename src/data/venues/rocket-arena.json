@@ -1,15 +1,6 @@
 [
   {
     "artist": [
-      "Cash Money & No Limit Tour",
-      "Birdman, Juvenile, Mannie Fresh, BG, Lil Boosie, Master P, Silkk The Shocker, Mia X, Fiend, Mac, Mercedes, Choppa Style, Mr. Serv On"
-    ],
-    "link": "https://www.rocketarena.com/events/detail/cash-money-no-limit-261115",
-    "date": "2026-11-15T00:00:01",
-    "venue": "Rocket Arena"
-  },
-  {
-    "artist": [
       "Harlem Globetrotters",
       "Rivalry Tour Presented By Sprite"
     ],
@@ -82,6 +73,15 @@
     ],
     "link": "https://www.rocketarena.com/events/detail/wtocomedytour-270228",
     "date": "2027-02-28T00:00:01",
+    "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "Greta Van Fleet: Into The Beginning Tour",
+      "Special Guests The Kooks & Luna Li"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/greta-van-fleet-270303",
+    "date": "2027-03-03T00:00:01",
     "venue": "Rocket Arena"
   }
 ]

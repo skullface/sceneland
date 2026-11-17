@@ -217,7 +217,7 @@
   },
   {
     "artist": [
-      "MICO"
+      "MICO, Joon"
     ],
     "link": "https://www.axs.com/events/1644918/mico-tickets",
     "date": "2027-03-13T20:00:00",
@@ -261,6 +261,14 @@
     ],
     "link": "https://www.axs.com/events/1471582/denny-love-tickets",
     "date": "2027-04-09T19:00:00",
+    "venue": "Globe Iron"
+  },
+  {
+    "artist": [
+      "BigXthaPlug"
+    ],
+    "link": "https://www.axs.com/events/1688776/bigxthaplug-tickets",
+    "date": "2027-04-27T20:00:00",
     "venue": "Globe Iron"
   }
 ]

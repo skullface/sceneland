@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "Signal Cle presents: Classical Revolution!"
-    ],
-    "link": "https://app.opendate.io/e/signal-cle-presents-classical-revolution-november-18-2026-754365?default_theme=true",
-    "date": "2026-11-18T00:00:01",
-    "venue": "Happy Dog"
-  },
-  {
-    "artist": [
       "Moon Goons, Inpatient, V2K"
     ],
     "link": "https://app.opendate.io/e/moon-goons-inpatient-v2k-november-19-2026-758457?default_theme=true",
@@ -157,6 +149,14 @@
     ],
     "link": "https://app.opendate.io/e/needle-drop-an-improvised-creative-experience-hosted-by-ramon-rivas-ii-in-the-underdog-december-23-2026-801022?default_theme=true",
     "date": "2026-12-23T00:00:01",
+    "venue": "Happy Dog"
+  },
+  {
+    "artist": [
+      "\"Welcome to Cleveland\" film premiere w/ Piss Me Off, Ugly & Damaged"
+    ],
+    "link": "https://app.opendate.io/e/welcome-to-cleveland-film-premiere-w-piss-me-off-ugly-damaged-january-16-2027-803418?default_theme=true",
+    "date": "2027-01-16T00:00:01",
     "venue": "Happy Dog"
   }
 ]

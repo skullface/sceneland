@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "THE PENTAGRAM STRING BAND"
-    ],
-    "link": "https://noclasscle.com/events/the-pentagram-string-band-11-18",
-    "date": "2026-11-18T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "QUIET ZOO"
     ],
     "link": "https://noclasscle.com/events/quiet-zoo-free-show",
@@ -29,6 +21,22 @@
     ],
     "link": "https://noclasscle.com/events/exhumed-jarhead-fertilizer-savage-master-molder",
     "date": "2026-11-23T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "LEATHER/FETISH GEAR SWAP NIGHT"
+    ],
+    "link": "https://noclasscle.com/events/leather-fetish-gear-swap-night",
+    "date": "2026-11-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "TRANSGIVING"
+    ],
+    "link": "https://noclasscle.com/events/transgiving",
+    "date": "2026-11-25T00:00:01",
     "venue": "No Class"
   },
   {
@@ -81,10 +89,34 @@
   },
   {
     "artist": [
+      "ROCK THE RIBBON"
+    ],
+    "link": "https://noclasscle.com/events/rock-the-ribbon-4",
+    "date": "2026-12-04T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "INOCULATION"
     ],
     "link": "https://noclasscle.com/events/nuclear-tomb",
     "date": "2026-12-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "HOLIDAY ART MARKET"
+    ],
+    "link": "https://noclasscle.com/events/holiday-art-market",
+    "date": "2026-12-10T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "IRON BISON"
+    ],
+    "link": "https://noclasscle.com/events/iron-bison",
+    "date": "2026-12-11T00:00:01",
     "venue": "No Class"
   },
   {
@@ -101,6 +133,22 @@
     ],
     "link": "https://noclasscle.com/events/deceased-vigil",
     "date": "2026-12-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "ATTAXIA"
+    ],
+    "link": "https://noclasscle.com/events/attaxia-diskount-vodka-teknokrat-econocrush",
+    "date": "2026-12-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "GENDERFCKED"
+    ],
+    "link": "https://noclasscle.com/events/genderfcked",
+    "date": "2026-12-28T00:00:01",
     "venue": "No Class"
   }
 ]

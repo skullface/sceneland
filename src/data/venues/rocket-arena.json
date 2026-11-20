@@ -83,5 +83,14 @@
     "link": "https://www.rocketarena.com/events/detail/greta-van-fleet-270303",
     "date": "2027-03-03T00:00:01",
     "venue": "Rocket Arena"
+  },
+  {
+    "artist": [
+      "Phoebe Bridgers: The Lost Tour",
+      "Paper Wings"
+    ],
+    "link": "https://www.rocketarena.com/events/detail/phoebe-bridgers-270307",
+    "date": "2027-03-07T00:00:01",
+    "venue": "Rocket Arena"
   }
 ]

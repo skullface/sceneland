@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "In The Company of Serpents, Arassus"
-    ],
-    "link": "https://www.eventbrite.com/e/in-the-company-of-serpentsarassus-tickets-2000061751539",
-    "date": "2026-11-19T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "The Polkamaniacs"
     ],
     "link": "https://www.eventbrite.com/e/the-polkamaniacs-tickets-1992397974977",
@@ -129,6 +121,14 @@
   },
   {
     "artist": [
+      "Fitch Rock Band"
+    ],
+    "link": "https://www.eventbrite.com/e/fitch-rock-band-tickets-2005105011064",
+    "date": "2026-12-17T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Post Holiday, Liam Brock, ONGFACE"
     ],
     "link": "https://www.eventbrite.com/e/post-holidayliam-brockongface-tickets-1990570775775",
@@ -145,9 +145,25 @@
   },
   {
     "artist": [
+      "Temple Witch, Rusted Old Chain, P\u00c5THLESS"
+    ],
+    "link": "https://www.eventbrite.com/e/temple-witchrusted-old-chainpathless-tickets-2005102932848",
+    "date": "2026-02-19T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Emerald Rage, Iron Brigade, Axemaster"
     ],
     "link": "https://www.eventbrite.com/e/emerald-rageiron-brigadeaxemaster-tickets-2003303285053",
+    "date": "2026-02-26T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Duprees Dead Band"
+    ],
+    "link": "https://www.eventbrite.com/e/duprees-dead-band-tickets-2005096591882",
     "date": "2026-02-26T00:00:01",
     "venue": "Westside Bowl"
   },
@@ -165,6 +181,14 @@
     ],
     "link": "https://www.eventbrite.com/e/goodbye-infidels-tickets-2002141428910",
     "date": "2026-05-15T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Emissions from the Monolith 11"
+    ],
+    "link": "https://www.eventbrite.com/e/emissions-from-the-monolith-11-tickets-2005103544678",
+    "date": "2026-10-07T00:00:01",
     "venue": "Westside Bowl"
   }
 ]

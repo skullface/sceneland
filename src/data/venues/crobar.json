@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "artist": [
+      "CHRYSALIS: Nothing Phase, Sal Anthony, Readymade, The CLA, Angelgirl EVA"
+    ],
+    "link": "https://secure.crobar1921.com/event/chrysalis",
+    "date": "2027-11-20T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Doc Martin: Darrell Stout, Gerad G"
+    ],
+    "link": "https://secure.crobar1921.com/event/doc-martin",
+    "date": "2027-11-21T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Perf: MX. Blaire, Justeus, Delish, Joey Sardelle"
+    ],
+    "link": "https://secure.crobar1921.com/event/perf52",
+    "date": "2026-11-28T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "Saytek [Live- UK]: Jesse Hawk [Live], Ladonna"
+    ],
+    "link": "https://secure.crobar1921.com/event/saytek-live",
+    "date": "2026-12-04T00:00:01",
+    "venue": "Crobar"
+  },
+  {
+    "artist": [
+      "JFB: KC, Rob Riddum, JonDoeTho1"
+    ],
+    "link": "https://secure.crobar1921.com/event/jfb",
+    "date": "2026-12-12T00:00:01",
+    "venue": "Crobar"
+  }
+]

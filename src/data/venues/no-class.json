@@ -1,14 +1,6 @@
 [
   {
     "artist": [
-      "QUIET ZOO"
-    ],
-    "link": "https://noclasscle.com/events/quiet-zoo-free-show",
-    "date": "2026-11-20T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "EXPLODING ZOMBIES"
     ],
     "link": "https://noclasscle.com/events/exploding-zombies",
@@ -101,6 +93,14 @@
     ],
     "link": "https://noclasscle.com/events/nuclear-tomb",
     "date": "2026-12-05T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CLOUDY WITH A CHANCE..."
+    ],
+    "link": "https://noclasscle.com/events/cloudy-with-a-chance-12-26",
+    "date": "2026-12-07T00:00:01",
     "venue": "No Class"
   },
   {

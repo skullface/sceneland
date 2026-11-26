@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "Candace Campana, Turbo Lovers, The Head Trips"
-    ],
-    "link": "https://www.eventbrite.com/e/candace-campanaturbo-loversthe-head-trips-tickets-2000521193743",
-    "date": "2026-11-25T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
-      "Pink Maggit, Flowers for Bill, Without Us"
-    ],
-    "link": "https://www.eventbrite.com/e/pink-maggitflowers-for-billwithout-us-tickets-2003378612359",
-    "date": "2026-11-25T00:00:01",
-    "venue": "Westside Bowl"
-  },
-  {
-    "artist": [
       "Spirit of the Bear ,  Nick Adduci"
     ],
     "link": "https://www.eventbrite.com/e/spirit-of-the-bear-nick-adduci-tickets-2003090576837",
@@ -105,10 +89,26 @@
   },
   {
     "artist": [
+      "honeybee, Clouded, The Standby, Meddle"
+    ],
+    "link": "https://www.eventbrite.com/e/honeybeecloudedthe-standbymeddle-tickets-2005478434985",
+    "date": "2026-01-15T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
       "Phelocipastor, Harlem Hayfield, O Odious Ones"
     ],
     "link": "https://www.eventbrite.com/e/phelocipastorharlem-hayfieldo-odious-ones-tickets-1990990635587",
     "date": "2026-01-16T00:00:01",
+    "venue": "Westside Bowl"
+  },
+  {
+    "artist": [
+      "Low Water"
+    ],
+    "link": "https://www.eventbrite.com/e/low-water-tickets-2005223259749",
+    "date": "2026-02-18T00:00:01",
     "venue": "Westside Bowl"
   },
   {

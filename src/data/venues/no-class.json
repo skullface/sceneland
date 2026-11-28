@@ -1,22 +1,6 @@
 [
   {
     "artist": [
-      "TRANSGIVING"
-    ],
-    "link": "https://noclasscle.com/events/transgiving",
-    "date": "2026-11-25T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
-      "OPEN THANKSGIVING"
-    ],
-    "link": "https://noclasscle.com/events/open-thanksgiving-2026",
-    "date": "2026-11-26T00:00:01",
-    "venue": "No Class"
-  },
-  {
-    "artist": [
       "BLACK FRIDAY BLACKOUT"
     ],
     "link": "https://noclasscle.com/events/black-friday-blackout",
@@ -97,6 +81,14 @@
   },
   {
     "artist": [
+      "HYPERPOP HOLIDAZE"
+    ],
+    "link": "https://noclasscle.com/events/hyperpop-holidaze",
+    "date": "2026-12-12T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "HEAVY METAL FLEA MARKET"
     ],
     "link": "https://noclasscle.com/events/heavy-metal-flea-market-12-13-26",
@@ -113,10 +105,42 @@
   },
   {
     "artist": [
+      "SAPPHIC SOCIAL"
+    ],
+    "link": "https://noclasscle.com/events/sapphic-social-holidays",
+    "date": "2026-12-18T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "WESTSIDE TONY"
+    ],
+    "link": "https://noclasscle.com/events/winter-whiteout-westside-tony",
+    "date": "2026-12-19T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "ATTAXIA"
     ],
     "link": "https://noclasscle.com/events/attaxia-diskount-vodka-teknokrat-econocrush",
     "date": "2026-12-20T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "OPEN X-MAS EVE"
+    ],
+    "link": "https://noclasscle.com/events/open-x-mas-eve-2026",
+    "date": "2026-12-24T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "MARQUIS GAYLORD'S ODDITORIUM"
+    ],
+    "link": "https://noclasscle.com/events/marquis-gaylords-odditorium-12-25-26-woke-christmas",
+    "date": "2026-12-25T00:00:01",
     "venue": "No Class"
   },
   {
@@ -129,10 +153,26 @@
   },
   {
     "artist": [
+      "JUDGEMENT DAY 4"
+    ],
+    "link": "https://noclasscle.com/events/judgement-day-4",
+    "date": "2027-01-16T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
       "OTAY:ONII"
     ],
     "link": "https://noclasscle.com/events/otay-onii",
     "date": "2027-01-17T00:00:01",
+    "venue": "No Class"
+  },
+  {
+    "artist": [
+      "CHALKED"
+    ],
+    "link": "https://noclasscle.com/events/chalked-burialgrounds",
+    "date": "2027-03-05T00:00:01",
     "venue": "No Class"
   }
 ]
